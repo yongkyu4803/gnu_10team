@@ -18,6 +18,7 @@ PAGES = (
     ('baseline-update', 'baseline-update.md', '기준선 업데이트'),
     ('architecture-and-api', 'architecture-and-api.md', '구조 · 데이터 · API'),
     ('render-deployment', 'render-deployment.md', '배포 · 데이터 보관'),
+    ('developer-proposals', 'developer-proposals.md', '개발자 제안'),
 )
 router = APIRouter(prefix='/guide', include_in_schema=False)
 

@@ -32,7 +32,7 @@ PDF 작업과 관리자 재계산은 `ProcessPoolExecutor(max_workers=1)`을 공
 | `backend/analysis.py` | GNU 동사·헷지·선행연구 스크립트 동적 로딩, 텍스트 분할, 문헌 요약·분야 평균 |
 | `backend/stage1.py` | 표준 문장 입력, 원본 CLI 호출, CSV→JSON, 모델 호환성·규칙 해시 확인 |
 | `backend/admin.py` | 관리자 인증, 현재 기준 포인터, 불변 버전, 상태 조정, 적용·복원·변경 이력 |
-| `backend/documentation.py` | 허용된 docs 7개 서버 렌더링, 절 목차·앱 링크·MD 다운로드 |
+| `backend/documentation.py` | 허용된 프로젝트 문서 서버 렌더링, 절 목차·앱 링크·MD 다운로드 |
 | `backend/admin_worker.py` | 고정 MD·규칙 사본 검증, 어댑터·CLI 실행, 통계 재검산, 결과 JSON 생성 |
 | `scripts/build_markdown_baselines.py` | MD 헤딩·블록 전처리, 표준 TXT·TSV, 구조 점검 |
 | `scripts/finalize_markdown_baselines.py` | 포함 기준 JSON·감사 보고·요약·해시 생성 |

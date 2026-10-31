@@ -153,6 +153,8 @@ data/admin/
 
 `gunicorn app:app`은 이 프로젝트의 시작 명령이 아닙니다. 앱 진입점은 `backend.main:app`이며, 빌드 단계에서 분석 모델 `en_core_web_sm 3.8.0`을 설치합니다.
 
-관리자 최초 비밀번호는 Render Shell에서 `cat data/admin/initial_password.txt`로 확인할 수 있습니다. 기준 변경 이력·버전·업로드는 `data/`에 기록하므로 재배포 후에도 유지하려면 이 경로에 영구 디스크를 연결해야 합니다. 기본 로컬 저장 경로는 변경하지 않았습니다.
+관리자 최초 비밀번호는 서버의 `data/admin/initial_password.txt`에 생성됩니다. Shell을 지원하는 유료 서비스에서는 `cat data/admin/initial_password.txt`로 확인할 수 있습니다. 현재 Free 서비스는 Shell·SSH를 지원하지 않으므로 이 방법으로 비밀번호를 조회할 수 없습니다. 기준 변경 이력·버전·업로드는 `data/`에 기록하므로 재배포 후에도 유지하려면 이 경로에 영구 디스크를 연결해야 합니다. 기본 로컬 저장 경로는 변경하지 않았습니다.
 
 배포 설정, 무료 플랜의 데이터 소실 범위, 영구 저장 전환과 백업 방법은 [Render 배포 및 데이터 보관 안내](docs/render-deployment.md)를 참고하세요.
+
+[개발자 제안: Render 무료 티어 운영](docs/developer-proposals.md)에 실제 응답 시간, 자원·보관 제약, 기능별 적합성 및 개선안을 정리했습니다. 앱 문서 메뉴에서도 읽을 수 있습니다.
