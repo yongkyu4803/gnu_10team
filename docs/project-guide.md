@@ -21,6 +21,7 @@
 | 선행연구 분석 | 서론 토픽·문헌 수·조직, 결과·논의 인용 기능; 연구자 수정 |
 | PDF 분석 | 기존 GNU 분석과 Stage 1 기준선 생성 모드 |
 | 내보내기 | 기존 작업의 동사·선행연구 엑셀, Stage 1·관리자 재계산 산출물 ZIP |
+| 프로젝트 문서 | 상단 문서 메뉴 `/guide`, 왼쪽 문서·절 목차, MD 다운로드 |
 | 관리자 | 현재 기준, 보관 버전, 마크다운 선택·재계산, 적용·복원, 변경 이력 |
 | 저장 | 외부 DB 없이 루트 `data/`의 JSON 및 산출물 |
 
@@ -54,6 +55,7 @@ python3.12 -m venv .venv
 
 - 원고 화면: http://127.0.0.1:8001/
 - 관리자: http://127.0.0.1:8001/admin
+- 프로젝트 문서: http://127.0.0.1:8001/guide
 - 대화형 API 문서: http://127.0.0.1:8001/docs
 - 상태 확인: http://127.0.0.1:8001/api/health
 
@@ -103,6 +105,7 @@ TXT는 UTF-8(BOM 포함)을 우선 읽고 실패하면 CP949를 시도합니다.
     stage1.py                Stage 1 CSV 가져오기·원고/PDF CLI 연동
     admin.py                 관리자 인증·레지스트리·적용·이력
     admin_worker.py          고정 입력·규칙으로 마크다운 재계산
+    documentation.py         docs 마크다운을 앱 문서 화면으로 제공
   frontend/
     index.html, app.js       원고·PDF 화면
     admin.html, admin.js     관리자 화면

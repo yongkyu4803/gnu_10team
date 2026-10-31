@@ -23,6 +23,7 @@ LOCK = threading.RLock()
 MAX_FILE = 50 * 1024 * 1024
 from backend import stage1
 from backend import admin
+from backend import documentation
 
 
 def now():
@@ -145,6 +146,7 @@ async def lifespan(app):
 
 app = FastAPI(title='Hedge Verb Analysis', lifespan=lifespan)
 app.include_router(admin.router)
+app.include_router(documentation.router)
 app.mount('/assets',StaticFiles(directory=ROOT/'frontend'/'assets'),name='assets')
 
 
