@@ -19,10 +19,12 @@ def heading(line):
   if m:return sec,text[m.end():].strip()
  return None
 
-def prepare(group):
- out=OUT/group;inp=out/'1_markdown_input';inp.mkdir(parents=True,exist_ok=True)
+def prepare(group, source_dir=None, output_dir=None, documents=None, min_words=1000):
+ out=Path(output_dir) if output_dir is not None else OUT/group;inp=out/'1_markdown_input';inp.mkdir(parents=True,exist_ok=True)
  audits=[]
- for path in sorted((ROOT/group).glob('*.md')):
+ source=Path(source_dir) if source_dir is not None else ROOT/group
+ for path in sorted(source.glob('*.md')):
+  if documents is not None and path.name not in documents:continue
   raw=path.read_text(encoding='utf-8')
   normalized=[]
   for line in raw.replace('\\t','\t').splitlines():
@@ -81,8 +83,8 @@ def prepare(group):
   if not sections.get('INT'):reasons.append('서론 헤딩/본문 미인식')
   if not any(sections.get(k) for k in ('RD','RES','DIS')):reasons.append('결과·논의 헤딩/본문 미인식')
   if unexpected:reasons.append('섹션 순서 이상: '+','.join(unexpected))
-  if sum(len(r.split()) for paras in sections.values() for r in paras)<1000:reasons.append('정리된 본문 1,000단어 미만')
-  audit=dict(document_id=path.stem,source=str(path.relative_to(ROOT)),sha256=hashlib.sha256(raw.encode()).hexdigest(),result='Fail' if reasons else 'Pass',reasons=reasons,headings=heads,section_words={s:sum(len(p.split()) for p in ps) for s,ps in sections.items()},sentences=len(rows),nonprose=nonprose,skipped_blocks=skipped,source_converter_warnings=[l for l in raw.splitlines() if l.startswith('- [p')],noncitation_numeric_ranges=invalid_ranges,pdf_quality_gate='not_applicable_markdown_input')
+  if sum(len(r.split()) for paras in sections.values() for r in paras)<min_words:reasons.append(f'정리된 본문 {min_words:,}단어 미만')
+  audit=dict(document_id=path.stem,source=group+'/'+path.name,sha256=hashlib.sha256(raw.encode()).hexdigest(),result='Fail' if reasons else 'Pass',reasons=reasons,headings=heads,section_words={s:sum(len(p.split()) for p in ps) for s,ps in sections.items()},sentences=len(rows),nonprose=nonprose,skipped_blocks=skipped,source_converter_warnings=[l for l in raw.splitlines() if l.startswith('- [p')],noncitation_numeric_ranges=invalid_ranges,pdf_quality_gate='not_applicable_markdown_input')
   audits.append(audit)
   if not reasons:
    (inp/(path.stem+'_input.txt')).write_text('\n'.join(lines)+'\n',encoding='utf-8')

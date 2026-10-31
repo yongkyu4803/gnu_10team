@@ -75,6 +75,10 @@ def extractor():
 def manuscript(sections, baseline):
     """Write the repository's standard sentence inputs and run its exact analysis CLI."""
     from backend.analysis import language, paragraphs
+    for name in ('hedge_baseline.py','engine_local.py','rvtool.py','extract_pdf.py'):
+        expected=baseline.get('rule_hashes',{}).get(name)
+        if expected and hashlib.sha256((SCRIPTS/name).read_bytes()).hexdigest()!=expected:
+            raise ValueError('분석 규칙이 적용 기준 버전과 달라졌습니다. 새 규칙으로 기준선을 재계산·적용하세요.')
     if baseline.get('version')!=VERSION or baseline.get('model')!=MODEL:
         raise ValueError('기준선 엔진 또는 모델 버전이 현재 분석기와 다릅니다')
     import spacy

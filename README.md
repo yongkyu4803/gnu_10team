@@ -106,3 +106,45 @@ python3.12 -m venv .venv-baseline
 분석 코드 출처:
 - GNU_AI_Team: https://github.com/jyoon0319/GNU_AI_Team (기반 커밋 `5ff9e9b`, 프로젝트 통합을 위한 수정 포함)
 - section-verb-hedge-baseline: https://github.com/angela0420/section-verb-hedge-baseline (기반 커밋 `b5e8a68`, 문장 분리 함수 공유와 입력 편수 옵션 수정 포함)
+
+## 관리자 페이지
+
+주소: http://127.0.0.1:8001/admin (진단 화면의 **기준 관리** 링크)
+
+첫 실행 시 `data/admin/initial_password.txt`에 생성되는 비밀번호로 로그인합니다. 비밀번호 해시와 세션 서명 키는 `data/admin/credentials.json`에 보관되며 두 파일은 현재 사용자만 읽을 수 있습니다. 로그인은 8시간 동안 유지됩니다. 이름은 변경 이력에 남길 작업자 이름입니다. 단일 로컬 관리자용 비밀번호 방식입니다.
+
+- **현재 기준 · 버전:** 네 분야의 적용 버전, 포함·제외 논문 수, 섹션별 중간값·범위를 확인합니다.
+- **자료 선택 · 재계산:** 프로젝트의 분야별 마크다운에서 분석할 문서를 고르고 이름·변경 사유·최소 본문 길이(1,000단어 이상)를 지정합니다. 현재 엔진의 단위·통계·헷지 규칙은 유지합니다.
+- 재계산은 선택한 마크다운과 분석 코드의 사본 및 SHA-256을 보존한 뒤 별도 프로세스로 실행합니다. 결과의 n·중간값·최소·최대를 다시 계산해 검증하고 새 버전을 만듭니다. 현재 적용 기준은 자동으로 바뀌지 않습니다.
+- 버전 **미리보기**에서 포함 논문 변화와 구조 검사 결과를 확인하고 **이 버전 적용**을 누릅니다. 적용 사유를 입력하면 현재 기준과 이력이 하나의 JSON 저장으로 함께 갱신됩니다.
+- 이전에 적용했던 버전은 **이 버전으로 복원**할 수 있습니다. 누가 언제 어떤 사유로 어느 버전에서 변경했는지 남습니다. 동시에 다른 관리자가 기준을 바꾸면 적용 요청을 거절하고 새로고침을 요구합니다.
+- 실패한 작업도 사유와 로그를 남기며 현재 기준을 바꾸지 않습니다. 작업 ZIP에는 입력 마크다운·규칙 사본·문장 입력·CSV·검사 결과·로그가 포함됩니다.
+- 진단 화면은 현재 적용된 버전만 기본 선택 목록에 표시합니다. 이미 열려 있던 화면이 이전 기준으로 새 진단을 요청하면 새로고침하도록 안내합니다. 저장된 과거 진단 결과와 이전 버전은 보존됩니다.
+- 재계산한 기준의 규칙 해시와 원고 분석기의 규칙 해시가 달라지면 비교를 중단하고 새 규칙으로 기준선을 재계산하도록 안내합니다.
+
+관리자 상태는 프로젝트 루트 아래에 저장합니다.
+
+```
+data/admin/
+  credentials.json       # 비밀번호 해시·서명 키 (Git 제외)
+  initial_password.txt   # 최초 로그인 비밀번호 (Git 제외)
+  registry.json          # 분야별 적용 버전·버전 목록·변경 이력
+  versions/<UUID>.json   # 보관된 기준값 스냅샷
+  jobs/<UUID>/           # 작업 상태·입력·규칙 사본·분석 결과·로그
+```
+
+관리자 API는 로그인 쿠키(HttpOnly·SameSite=Strict), 동일 출처 검사, 로그인 시도 제한을 사용합니다. `data/`는 기존처럼 Git에서 제외됩니다. 재시작해도 적용 기준·이력·버전은 유지되며, 중단된 재계산은 실패로 기록됩니다.
+
+## Render 배포
+
+프로젝트 루트에 `.python-version`(Python 3.12)과 `render.yaml`을 포함했습니다. 기존 Web Service의 설정은 파일 추가만으로 자동 변경되지 않으므로 Render의 Settings에서 다음을 지정하세요.
+
+- Root Directory: 비워 둠(저장소 루트)
+- Build Command: `bash scripts/render-build.sh`
+- Start Command: `python -m uvicorn backend.main:app --host 0.0.0.0 --port $PORT --workers 1`
+- Health Check Path: `/api/health`
+- `PYTHON_VERSION` 환경변수가 3.14로 지정되어 있다면 삭제하여 `.python-version`을 사용하거나, 사용 가능한 Python 3.12 패치 버전으로 지정합니다.
+
+`gunicorn app:app`은 이 프로젝트의 시작 명령이 아닙니다. 앱 진입점은 `backend.main:app`이며, 빌드 단계에서 분석 모델 `en_core_web_sm 3.8.0`을 설치합니다.
+
+관리자 최초 비밀번호는 Render Shell에서 `cat data/admin/initial_password.txt`로 확인할 수 있습니다. 기준 변경 이력·버전·업로드는 `data/`에 기록하므로 재배포 후에도 유지하려면 이 경로에 영구 디스크를 연결해야 합니다. 기본 로컬 저장 경로는 변경하지 않았습니다.

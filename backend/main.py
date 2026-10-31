@@ -11,6 +11,7 @@ from uuid import uuid4
 
 from fastapi import FastAPI, HTTPException, UploadFile, File, Form
 from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from typing import Literal
 
@@ -21,6 +22,7 @@ SCRIPTS = ROOT / 'GNU_AI_Team' / 'hedge-verb-sections' / 'scripts'
 LOCK = threading.RLock()
 MAX_FILE = 50 * 1024 * 1024
 from backend import stage1
+from backend import admin
 
 
 def now():
@@ -130,6 +132,7 @@ async def lifespan(app):
         target=baseline_directory/(folder(record['id']).name+'.json')
         if not target.exists():
             save(target,record)
+    admin.initialize()
     for path in JOBS.glob('*/job.json'):
         job = json.loads(path.read_text(encoding='utf-8'))
         if job['status'] in ('queued', 'running'):
@@ -141,6 +144,8 @@ async def lifespan(app):
 
 
 app = FastAPI(title='Hedge Verb Analysis', lifespan=lifespan)
+app.include_router(admin.router)
+app.mount('/assets',StaticFiles(directory=ROOT/'frontend'/'assets'),name='assets')
 
 
 @app.get('/api/health')
@@ -260,10 +265,19 @@ class Manuscript(BaseModel):
     baseline_id: str | None = None
 
 
-def baseline_read(baseline_id):
+def baseline_read(baseline_id, require_active=False):
     if not baseline_id:
         return None
-    path = DATA / 'baselines' / (folder(baseline_id).name + '.json')
+    identifier=folder(baseline_id).name
+    if (admin.directory()/'registry.json').exists():
+        with LOCK:
+            state=admin.get_state()
+            if any(v['id']==identifier for v in state['versions']):
+                record,value=admin.checked_version(state,identifier)
+                if require_active and state['active'].get(record['group'])!=identifier:
+                    raise HTTPException(409,'이 분야의 적용 기준이 변경되었습니다. 화면을 새로고침한 뒤 다시 진단하세요.')
+                return value
+    path = DATA / 'baselines' / (identifier + '.json')
     if not path.exists():
         raise HTTPException(404, '분야 기준선을 찾을 수 없습니다')
     return json.loads(path.read_text(encoding='utf-8'))
@@ -275,7 +289,7 @@ def manuscript(body: Manuscript):
         raise HTTPException(413, '원고는 200,000자 이내로 입력하세요')
     if not any(v.strip() for v in body.sections.values()):
         raise HTTPException(400, '원고를 입력하세요')
-    baseline = baseline_read(body.baseline_id)
+    baseline = baseline_read(body.baseline_id,require_active=True)
     try:
         stage_result=stage1.manuscript(body.sections,baseline) if baseline and baseline.get('kind')=='stage1' else None
     except (ValueError,TimeoutError) as exc:
@@ -344,10 +358,8 @@ async def import_document(file: UploadFile = File(...)):
 
 
 @app.get('/api/baselines')
-def baselines():
-    return [dict(id=b['id'],name=b['name'],kind=b.get('kind','legacy'),group=b.get('group'),input_kind=b.get('input_kind'),needs_review=b.get('needs_review',True),papers=len(b['papers']),created_at=b['created_at'],source_jobs=b['source_jobs']) for b in
-            [json.loads(p.read_text(encoding='utf-8')) for p in (DATA/'baselines').glob('*.json')]]
-
+def baselines(include_archived:bool=False):
+    return admin.public_baselines(include_archived)
 
 class BaselineInput(BaseModel):
     name: str
@@ -554,3 +566,21 @@ def stage1_artifacts(job_id:str):
             if path.is_file():
                 archive.write(path,path.relative_to(directory))
     return FileResponse(snapshot,filename='stage1-baseline.zip',background=BackgroundTask(snapshot.unlink,missing_ok=True))
+
+
+@app.get('/admin')
+def admin_page():
+    return FileResponse(ROOT/'frontend'/'admin.html',headers={'Cache-Control':'no-store'})
+
+
+@app.get('/admin.js')
+def admin_javascript():
+    return FileResponse(ROOT/'frontend'/'admin.js',media_type='application/javascript',headers={'Cache-Control':'no-store'})
+
+
+@app.middleware('http')
+async def administrator_cache_policy(request,call_next):
+    response=await call_next(request)
+    if request.url.path.startswith('/api/admin'):
+        response.headers['Cache-Control']='no-store'
+    return response
