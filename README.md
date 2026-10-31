@@ -2,6 +2,10 @@
 
 FastAPI + 프로젝트 루트의 JSON 파일로 동작하는 로컬 웹앱입니다. `GNU_AI_Team`의 `hedge-verb-sections`와 `litreview-structure` 분석 코드를 함께 사용합니다.
 
+## 문서
+
+[전체 문서 목차](docs/README.md)에서 프로젝트 구조·화면 사용, 두 원본 저장소의 분석 방법, 현재 네 분야 기준선, 기준 업데이트·복원 절차, API·배포·데이터 보관을 확인할 수 있습니다.
+
 ## 실행
 
 ```sh
@@ -133,7 +137,7 @@ data/admin/
   jobs/<UUID>/           # 작업 상태·입력·규칙 사본·분석 결과·로그
 ```
 
-관리자 API는 로그인 쿠키(HttpOnly·SameSite=Strict), 동일 출처 검사, 로그인 시도 제한을 사용합니다. `data/`는 기존처럼 Git에서 제외됩니다. 재시작해도 적용 기준·이력·버전은 유지되며, 중단된 재계산은 실패로 기록됩니다.
+관리자 API는 로그인 쿠키(HttpOnly·SameSite=Strict), 동일 출처 검사, 로그인 시도 제한을 사용합니다. `data/`는 기존처럼 Git에서 제외됩니다. 같은 `data/` 파일이 남아 있는 로컬 환경이나 영구 디스크 환경에서는 재시작 후에도 적용 기준·이력·버전이 유지되며, 중단된 재계산은 실패로 기록됩니다. Render의 임시 파일시스템에서는 이 보존을 보장하지 않습니다.
 
 ## Render 배포
 
@@ -148,3 +152,5 @@ data/admin/
 `gunicorn app:app`은 이 프로젝트의 시작 명령이 아닙니다. 앱 진입점은 `backend.main:app`이며, 빌드 단계에서 분석 모델 `en_core_web_sm 3.8.0`을 설치합니다.
 
 관리자 최초 비밀번호는 Render Shell에서 `cat data/admin/initial_password.txt`로 확인할 수 있습니다. 기준 변경 이력·버전·업로드는 `data/`에 기록하므로 재배포 후에도 유지하려면 이 경로에 영구 디스크를 연결해야 합니다. 기본 로컬 저장 경로는 변경하지 않았습니다.
+
+배포 설정, 무료 플랜의 데이터 소실 범위, 영구 저장 전환과 백업 방법은 [Render 배포 및 데이터 보관 안내](docs/render-deployment.md)를 참고하세요.
