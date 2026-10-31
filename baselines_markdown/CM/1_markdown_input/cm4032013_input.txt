@@ -1,0 +1,138 @@
+# document_id: cm4032013
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	The rapid development of the field of organic electronics has sparked great interest in the use of organic thin-film transistors (OTFTs) as low-cost flexible circuits,[1−5] radio-frequency identification cards,[6] electronic skin,[7] and especially electronic sensors.[8−10] This is largely due to their compatibility with flexible materials, simple, inexpensive fabrication methods, and the synthetic versatility of organic materials.
+1-003	OTFT-based sensors (Scheme 1c) are attractive for a broad range of chemical and biological detection applications,[11,12] including environmental monitoring,[13] detection of chemical warfare agents, in situ medical diagnostics,[14−17] drug delivery, and food storage.[18]
+1-004	The development of low-cost chemical sensors that can operate in aqueous environments with high specificity and sensitivity will have a profound impact on important issues such as maintenance of safe water supplies[19] and disease detection and prevention.[20,21]
+1-005	In addition to the need for organic semiconducting materials, flexible low-cost devices require thin-film dielectric layers that are flexible and can be deposited using
+1-006	© 2013 American Chemical Society
+1-007	solution-processing methods.
+1-008	One such material, poly(4-vinylphenol) (PVP), can be spin-cast and subsequently cross-linked with 4,4′-(hexafluoroisopropylidene)diphthalic anhy- dride (HDA) to form a stable polymer dielectric thin film (x- PVP).[22]
+1-009	This material has been used for OTFTs operating in aqueous environments.[21,23,24]
+1-010	However, the behavior of the dielectric and semiconducting thin films during underwater OTFT operation has not been studied.
+1-011	Here we show that immersing x-PVP thin films in a 90:10 water−methanol solution results in swelling of nearly 30% and a corresponding 300% increase in the dielectric constant of the film.
+1-012	In order to quantify the charge-transport behavior of organic molecules within aqueous environments, this drastic change in the capacitance must be accounted for.
+1-013	Moreover, interaction of a desired analyte with the polymer dielectric should be
+1-014	Received: September 27, 2013
+1-015	Revised: December 5, 2013
+1-016	Published: December 6, 2013
+1-017	a
+1-018	Geometry of the Capacitor for Dielectric Measurements
+1-019	aThe ratio of n to m can be varied to tune the PVP-to-PS ratio.
+1-020	considered to achieve both an accurate sensor performance as well as a mechanistic understanding of the sensor mechanism.
+1-021	These conclusions will significantly impact the design of polymer dielectrics for organic transistors and sensors.
+1-022	For the successful development of OTFTs that can detect desired analytes in aqueous environments with high sensitivity and specificity, it is essential to understand the mechanisms by which the presence of the surrounding environment and analyte affects the properties of the OTFT sensing device.
+1-023	To date, two mechanisms for the detection of analytes by organic semiconductors have been described.
+1-024	First, diffusion of the analyte to the semiconductor−dielectric interface results in a change in the charge-transport behavior owing to the direct interaction of the analyte with the semiconductor channel region.
+1-025	Second, interaction of the analytes with the grain boundaries of the organic semiconductor can affect the electrical signal via the formation of trap and/or dopant states.[9,23,25]
+1-026	Both of the above mechanisms are related to interaction of the analyte with the organic semiconductor material in the OTFT.
+1-027	In contrast, interaction of the environment or analyte with the gate dielectric of a bottom-gate OTFT has rarely been considered as a significant contributor to the sensing mechanism of the OTFT device and has been considered passive.
+1-028	Only recently has the impact of the dielectric on the sensing of biological molecules been reported,[14] and effects on the OTFT device performance have been shown as a result of a change in the gate dielectric properties (e.g., dielectric constant).[26]
+1-029	For the successful fabrication of aqueous sensors based on OTFTs, the impact of each mechanism must be understood to decouple the effect of the environment from that of the analyte.
+1-030	In this study, we use neutron reflectivity (NR) measurements to quantify the film thickness and capacitance measurements to characterize the dielectric properties of cross-linked polymer thin films as a function of immersion in water and 90:10 water−methanol solutions (i.e., using methanol as a model analyte).
+1-031	We demonstrate that immersion results in swelling, which significantly impacts the dielectric properties of the cross-linked polymer thin films and, in turn, the electrical behavior of the devices.
+1-032	The goal of this work is to convey the critical nature of the mechanisms that govern the electrical OTFT signal output in response to the device environment or interaction with a given analyte.
+2-001	■
+2-002	Materials.
+2-003	All materials were purchased from Aldrich[27] and used as received unless otherwise noted.
+2-004	Detailed synthetic procedures for the poly(4-vinylphenol) (PVP)−polystyrene (PS) random copolymers and general analysis of the materials are described in the Supporting
+2-005	Information.
+2-006	The organic semiconductor 5,5′-bis(7-dodecyl-9H- fluoren-2-yl)-2,2′-bithiophene (DDFTTF) was synthesized according to previously reported methods.[28]
+2-007	DDFTTF was purified by gradient sublimation under high vacuum twice before use.
+2-008	Dielectric Film Fabrication.
+2-009	We prepared solutions of 40 mg/mL PVP or the PVP−PS copolymer in propylene glycol monomethyl ether acetate (PGMEA).
+2-010	After the polymer was fully dissolved, 1 μL of triethylamine (TEA) was added per 1 mL of polymer solution, and the resulting solution was shaken until homogeneous.
+2-011	A second solution of 4 mg/mL 4,4′-(hexafluoroisopropylidene)diphthalic anhydride (HDA) in PGMEA was prepared.
+2-012	This polymer−TEA solution was then combined with the HDA solution at a 1:1 ratio, shaken until homogeneous, filtered through a 0.2 μm filter, and spin-cast onto a n- type silicon substrate (purchased from Wafer Works Corp.[27] with a resistivity between 0.002 and 0.004 Ω) at 4000 rpm for 60 s.
+2-013	The thin films were then heated for 1 h on a hot plate at 110 °C to cross-link the thin films.
+2-014	Neutron Reflectivity (NR).
+2-015	NR measurements were performed on the NG-7 horizontal reflectometer at the Center for Neutron Research at the National Institute of Standards and Technology (Gaithersburg, MD).
+2-016	The instrument had a wavelength (λ) = 0.4768 nm and a wavelength spread (Δλ/λ) = 0.025.
+2-017	A schematic of the reflectivity geometry utilized is illustrated in Figure S1 in the Supporting Information.
+2-018	Measurements performed as a function of θ define the scattering wave vector (q) normal to the film, q = 4πλ−1 sin θ.
+2-019	The uncertainty in the reflectivity data was calculated from the counting statistics.
+2-020	The wafers used for these measurements are 8 mm thick, in order to allow the neutron beam to enter the side of the wafer at the highest incident angles used in this study.
+2-021	The thin films were immersed in water or 90:10 water−methanol solutions for >3 h before the start of the measurement in order to ensure the films had reached an equilibrium swelling state.
+2-022	We used the MOTOFIT[29] package for Igor (commercially available from WaveMetrics, Inc.[27]) for fitting of the reflectivity profiles.
+2-023	Details on the fitting procedure used are provided in the Supporting Information.
+2-024	Device Fabrication and Characterization.
+2-025	For all devices, the top gold contacts were thermally evaporated in high vacuum at a rate of 1 Å/s while the substrate holder was rotated.
+2-026	The electrode dimensions for capacitor measurements were defined with a circular shadow mask of ∼2.2 or 14.1 mm2.
+2-027	Devices for capacitance measurements were fabricated by affixing a 20 μm gold wire to each electrode with conductive silver paste (Ted Pella Inc., LeitSilber[27]).
+2-028	The capacitance measurements, before and after immersion in water or a water−methanol solution, were taken using an Agilent E4980A Precision LCR meter.[27]
+2-029	Capacitances were measured at 1 kHz frequency with a 0.01 V alternating-current signal to provide an optimal signal-to-noise ratio.[23]
+2-030	The DDFTTF films were deposited by thermal evaporation (Angstrom Engineering, Inc.[27]) at a rate of 0.1− 0.2 Å/s under a pressure of 5.0 × 10−7 Torr.
+2-031	The substrate temperature for DDFTTF deposition was kept at 60 °C and controlled by heating a copper block during deposition.
+2-032	The electrode dimensions for transistors were defined by a shadow mask with channel width (W) and length (L) of 4 mm and 50 μm, respectively.
+2-033	The electrical measurements of OTFT devices were carried out in
+2-034	PVP−78% PS random copolymer.
+2-035	The measurement of the thin films in air was performed with the silicon substrate below the thin film.
+2-036	In contrast,
+2-037	the thin films immersed in water or 90:10 water−methanol solutions were measured in an inverted configuration, with the silicon substrate above the
+2-038	film and water or the water−methanol solution below the film (details are provided in the Supporting Information).
+2-039	The insets in each of (a)−(d)
+2-040	show the reflectivity profiles for the films before exposure to water (air-start) and after the first conditioning cycle (air).
+2-041	ambient conditions using a two-sourcemeter [Keithley 2635 (Drain- Source)/Keithley 2400 (Gate)[27]] homemade probe station setup.
+3-001	■
+3-002	NR is a powerful technique for characterizing the thin-film structure in the direction perpendicular to the surface.[30]
+3-003	In reflectivity, the ratio of the specularly reflected intensity to the incident intensity is measured over a range of incident angles (θ) to yield a reflectivity curve for a thin film.
+3-004	Information about the film thickness, neutron scattering length density profile, and interface roughness can be obtained from modeling of the reflectivity curve (details on the methods used for modeling of the reflectivity curves and the fitted models can be found in the Supporting Information).
+3-005	Neutron radiation has the unique ability to penetrate silicon without prohibitive absorption (as would occur with X-ray radiation), which allows the study of thin films coated on a silicon wafer.
+3-006	Passing the neutron beam through the side of the silicon wafer allows for characterization of the thin films while they are immersed in water.
+3-007	We first measured the thickness of a neat x-PVP layer in air, before immersion in water, with NR and found a thickness of 33.2 nm.
+3-008	Upon immersion in water, the thickness increased to 38.3 nm.
+3-009	However, upon drying of the x-PVP thin film, the thickness was reduced to 30.4 nm.
+3-010	We attribute this decrease in thickness to either a loss of un-cross-linked molecules or rearrangement of the film upon swelling.
+3-011	No further significant changes in the thickness were observed after subsequent conditioning cycles (immersion in water or water−methanol solutions for >3 h, drying under vacuum for >1 h, and equilibration with ambient humidity for >2 h).
+3-012	Thus, we use the film thickness after the first conditioning cycle to compare
+3-013	the swelling of the film with water and 90:10 water−methanol solutions.
+3-014	The thicknesses and swelling percentages reported for the thin films denoted as “air-start” and “air” are for thin films measured before exposure to water and after the first conditioning cycle, respectively.
+3-015	The reflectivity profiles for the neat x-PVP thin films in air, water, and a 90:10 water−methanol solution are shown in Figure 1a.
+3-016	The fringe spacing in the reflectivity profile decreases when the neat x-PVP thin film is immersed in water and further decreases when the film is immersed in a water−methanol solution.
+3-017	Such narrower fringe spacings in the reflectivity profile qualitatively are due to an increase in the layer thickness.
+3-018	Modeling of the reflectivity profiles (the fitting procedure and the model fits are shown in the Supporting Information) reveals a 25.5% and a 29.9% increase in thickness when the neat x-PVP thin film is immersed in water and a 90:10 water−methanol solution, respectively.
+3-019	This means that both the media (water) and analyte (methanol) are absorbed by the polymer dielectric and will thus play a critical role in the electronic properties of a sensor device.
+3-020	To study the impact of the swelling on an OTFT device, we evaporated a 40 nm film of an organic semiconductor, DDFTTF, known to be stable during device operation under water,[21,23] onto the x-PVP-covered silicon wafer for NR.
+3-021	Swelling of the x-PVP polymer thin film was observed (see Figure S3 and Table S2 in the Supporting Information), as evidenced by a decrease in the fringe spacing when the thin film is immersed in water or 90:10 water−methanol solutions.
+3-022	This shows that an increase in the thickness of the polymer dielectric layer occurs even with the presence of a hydrophobic organic semiconductor top layer, and both water and analyte can
+3-023	air, water, and a water−methanol solution as a function of the copolymer composition.
+3-024	The confidence intervals shown represent a combination of
+3-025	the uncertainties from the measurement of the device area, the measurement and modeling of the film thickness, and the measured capacitance.
+3-026	Details of the calculation of the dielectric constant and corresponding confidence intervals are provided in the Supporting Information.
+3-027	significantly permeate through the crystalline organic semi- conductor thin film.
+3-028	To reduce the effect of water swelling on the properties of the dielectric thin film, a more hydrophobic dielectric can be chosen.
+3-029	However, typical hydrophobic dielectrics (PS and CYTOP[31]) have not been compatible with device operation at the ultralow voltages required for underwater sensing (Vsource−drain < 1.2 V).[23]
+3-030	To address this issue, we synthesized a series of PVP−PS random copolymers; see Scheme 1 (synthesis details in the Supporting Information).
+3-031	By tuning the composition of the thin film (PVP is hydrophilic, and PS is hydrophobic), we aim to alter the effects of immersing the thin-film dielectric in an aqueous solution.
+3-032	We used NR to measure the swelling of the cross-linked polymer films when immersed in water and 90:10 water−methanol solutions.
+3-033	These measure- ments reveal a decrease in the swelling, in both water and a water−methanol solution, with increasing PS content (Figures 1b−d and 2a).
+3-034	Additionally, a similar decrease in the film thickness after the first conditioning cycle is observed, with the magnitude of the thickness decrease becoming smaller as the PS content is increased (see Table S1 in the Supporting Information and the insets in Figure 1).
+3-035	To confirm that the polymers function as stable dielectric materials, we fabricated OTFTs utilizing the organic semi- conductor, DDFTTF.
+3-036	In each case, a 40 nm film of the organic semiconductor was thermally evaporated on the polymer substrate held at 60 °C. The temperature was held below 60 °C to ensure that the polymer films remained below the glass transition temperature because previously this has been shown to lead to a sharp decrease in the device performance.[2]
+3-037	The device was completed by evaporating 40 nm of gold as the source and drain electrodes.
+3-038	The results of the transistor performances are summarized in Table 1.
+3-039	From the table, it is
+3-040	Table 1.
+3-041	Summary of the OTFT Device Performances
+3-042	clear that increasing the PS content leads to a decrease in the device performance.
+3-043	However, in all cases, the devices are still able to operate at the required Vsource−drain < 1.2 V. It should also be mentioned that the devices were fabricated at identical temperatures for DDFTTF deposition.
+3-044	Thus, it is possible that improved device performance could be achieved via the individual optimization of material deposition conditions.
+3-045	In order to determine the effect of swelling on the dielectric properties of the polymer thin films, we thermally evaporated gold electrodes and measured the capacitance of the resulting device (Scheme 1d).
+3-046	The device capacitances measured in air, immersed in water, and immersed in a water−methanol solution are shown in Figure S4 and Table S2 in the Supporting Information.
+3-047	When immersed in water or water−methanol solutions, a capacitance increase was observed for the cross-linked neat PVP and PVP−PS copolymer thin films.
+3-048	While swelling of the cross-linked polymer dielectric layer leads to an increase in the thickness (reducing the capacitance of the device), an increase in the capacitance due to inclusion of water (which has a higher dielectric constant than the polymer)dominates the overall capacitance change.
+3-049	Using the thickness of the films measured with NR, we calculated the dielectric constant (εr) of the polymer layer in air, water, and a 90:10 water−methanol solution (see Figure 2b).
+3-050	For the neat x-PVP film, the dielectric constant increased from 5.1 in air to 20.9 and 20.7 when immersed in water and water−methanol solutions, respectively, representing an ∼300% increase in the dielectric constant.
+3-051	The introduction of hydrophobic PS into the film leads to a decrease in the change of the dielectric constant upon immersion in an aqueous solution because of a decrease in the swelling of the film.
+3-052	There was no statistical difference in the dielectric constant with immersion in water or water−methanol solutions for each polymer composition.
+3-053	All of the films show at least a 78% increase in the dielectric constant upon immersion in an aqueous solution, demonstrating that the changes in the dielectric constant are significant, even for low PVP content.
+3-054	These results are important because the large changes in the dielectric constant affect the electric field at the semi- conductor−dielectric interface and thus significantly alter the electrical signal.
+3-055	Our results show that, upon interpretation of the response of an OTFT sensor, it is critical to understand the interaction of the environment and analyte with each individual component of the device (e.g., active material, dielectric, electrodes).
+3-056	The establishment of such experimental guidelines
+3-057	Chemistry of Materials Article
+3-058	will lead to mechanistic interpretation of the sensor behavior and, thus, is expected to result in the development of more robust and sensitive detection platforms.
+3-059	In conclusion, we combined NR and capacitance measure- ments to quantify the swelling and dielectric properties of cross-linked polymer thin films when immersed in water and 90:10 water−methanol solutions.
+3-060	We show that swelling and an increase in the dielectric constant are greater for thin films with a higher PVP-to-PS ratio.
+3-061	In order to develop a proper mechanistic understanding of the effect of an analyte upon the signal from OTFT sensors, it is critical to decouple the interactions of the analyte with the semiconducting and dielectric layers.
+3-062	To date, most studies have focused on interactions of analytes with the semiconducting component of OTFTs.
+3-063	Our results emphasize the importance of considering changes in the dielectric properties of the gate dielectric as well during the development of mechanistic models for OTFT sensing, and they can allow the development of methods to control the sensor response by controlling how the sensing environment interacts with the dielectric.

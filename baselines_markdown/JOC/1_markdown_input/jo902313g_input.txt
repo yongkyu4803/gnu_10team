@@ -1,0 +1,232 @@
+# document_id: jo902313g
+# extractor: kordoc-markdown-adapter-1
+1-001	C-Nucleosides are important stable analogues of natural N-nucleosides, and their syntheses and many applications in chemical biology and medicinal chemistry have been subject to several recent comprehensive reviews.[1]
+1-002	Aryl C-20-deoxyri- bonucleosides usually do not exhibit any pharmaceutically interesting biological activities but have attracted prominent attention as candidates for novel base-pairs in the quest for
+1-003	*To whom correspondence should be addressed.
+1-004	Phone: þ420220183324.
+1-005	Fax: þ420220183559.
+1-006	extension of the genetic alphabet.[2]
+1-007	Among many (het)aryl nucleosides forming selective hydrophobic pairs in stable DNA duplexes due to increased packing and hydrophobic interactions,[3] several promising artificial base-pairs showed efficient and specific replication by DNA polymerases.4The most successful pairs based on 4-substituted 2-methoxyphe- nyl C-nucleoside in combination with thioisocarbostyril base has been found[5] to be efficiently and selectively replicated and extended and very recently also the first successful PCR
+1-008	Published on Web 12/14/2009 DOI: 10.1021/jo902313g r 2009 American Chemical Society
+1-009	with a 6-letter genetic alphabet was reported.[6]
+1-010	The second step of the extended genetic code is the transcription to RNA which was also shown[7] to be feasible with the above- mentioned base-pair and which is now awaiting systematic exploration.
+1-011	For this purpose, aryl C-ribonucleosides are needed as building blocks.
+1-012	So far, the C-ribonucleosides were mainly targets for medicinal chemistry.
+1-013	The most important classes of cytostatic C-ribonucleosides are car- bamoylhetaryl C-ribonucleosides[8] (tiazofurine and related analogues of nicotinamine ribonucleoside) functioning as precursors of inhibitors of inosine 50-monophosphate de- hydrogenase (IMPDH) and immucilins inhibiting purine nucleoside phosphorylase.[9]
+1-014	Some pyridine C-ribonucleo- sides have been prepared for the use in modification of ribozymes[10,11] mainly to study the mechanism of catalysis.
+1-015	The currently most commonly used synthetic app- roaches[1] to C-nucleosides are (i) additions of organometal- lics to lactones,[5,12] (ii) couplings of a halogenoses with
+1-016	organometallics,[13] (iii) electrophilic substitutions of elec- tron-rich aromatics with sugars under Lewis acid catalysis,[14] or (iv) Heck coupling of aryl iodides with glycals.[15]
+1-017	Since none of them is truly general and some of them are non- selective and inefficient, there is still great need for develop- ment of efficient synthetic procedures.
+1-018	We are currently involved in development of modular methodologies suitable for a generation of functional group diversity in the last one to two step(s) based on preparation of general halo(het)aryl- C-nucleoside intermediates followed by displacement of the halogene for alkyl, aryl or amino substituents by cross- coupling reactions.
+1-019	We have already developed modular syntheses of 3- and 4-substituted benzene C-nucleosides,[16] 6-substituted pyridin-2-yl[17] and pyridin-3-yl,[18] 5-substituted thiophen-2-yl[19] C-20-deoxyribonucleosides and carbamoyl- phenyl[20] C-ribonucleosides.
+1-020	Here we report on the synthesis of a hitherto missing[21] series of 6-substituted pyridin-2-yl C-ribonucleosides.
+2-001	Our selected approach for the preparation of pyridine C-ribonucleosides was based on synthesis of 6-bromopyri- dine-2-yl C-ribonucleoside intermediate and its follow-up functional group transformation by Pd-catalyzed cross- couplings, aminations, and aminocarbonylations.
+2-002	For the preparation of the bromopyridyl nucleoside intermediate, we have envisaged the use of an analogous approach to the previously reported[17] synthesis of the corresponding 2-pyri- dyl C-20-deoxyribonucleosides: addition of 2-lithio-6-bro- mopyridine 2 to easily available TBS-protected ribonolac- tone 1.
+2-003	The monolitiated 2-bromopyridine 2 was generated from 2,6-dibromopyridine by a reverse addition technique according to Cai et al.[22] Due to the thermal instability of 2, the lithiation must have been performed very carefully under efficient cooling.
+2-004	A solution of 2,6-dibromopyridine in THF was added to the solution of BuLi within exactly 7 min at-78 °C, and after the resulting solution was stirred for 15 min under cooling, a solution of lactone 1 was added and the reaction proceeded for another 30 min before quenching and workup.
+2-005	When only a small excess (1.5 equiv) of 2 over
+2-006	aConditions: (a) 2 (4 equiv), THF, -78 °C, 15 min (75%); (b) Et SiH (3 equiv), BF Et O (1.2 equiv), DCM, -20 °C (0%); (c) AcCl/DMAP, pyridine,
+2-007	3 3 3 2
+2-008	50 °C, 12 h, 20% for details see the Supporting Information; (d) 2 (4 equiv), THF, -78 °C, 15 min, then Ac2O, -78 °Cf rt (70%); (e) Et3SiH (3 equiv),
+2-009	BF3 3Et2O (1.2 equiv), hexanes, -20 °C (91%).
+2-010	lactone 1 was used, the desired hemiketal 3 was isolated in moderate 20% yield.
+2-011	Increasing the excess of 2 to 4 equiv led to complete consumption of lactone 1 within 10 min to give the target hemiketal 3 in very good 75% yield (Scheme 1, step a).
+2-012	The structure of 3 in CDCl3 solution was proved by NMR (NOE) as a pure β-anomeric hemiketal (as opposed to mixture of open hydroxy ketone and both anomeric hemi- ketals reported previously[17] for solution of the analogous 20-deoxyribo derivative).
+2-013	The second step was the reduction of hemiketal intermedi- ate 3 to ether (C-ribonucleoside) 6.
+2-014	This reaction is usually performed by using Et3SiH in presence of BF3 3 Et2O. Although on pyridine 20-deoxyribonucleosides[17] and on benzene ribonucleosides[16b] these reactions worked perfectly under standard conditions, the reduction of 3 did not proceed even after extensive optimization (for details see the Supporting Information).
+2-015	Since there were some litera- ture examples[10d,23] of efficient reductive 10-deacetoxylations as an alternative 10-deoxygenation in these types of hemi- ketals, we have pursued acetylation of hemiketal 3.
+2-016	It may be converted into a kinetic (β-anomer 4) or a thermodynamic (R-anomer) by acetylation either in situ or after isolation of the hemiketal.[23b] Unfortunately, acylation of 3 with Ac2O, AcCl, or AcCl/DMAP in pyridine was inefficient to give the target 10-OAc derivative 4 only in a maximum 21% yield (Scheme 1, step c, for details see the Supporting Information).
+2-017	In order to increase the nucleophilicity of the 10-OH group, we turned it into an alkoxide by treatment with LiHMDS at -78 °C prior to addition of Ac2O to give the acetate 4 in only slightly improved yield of 34%.
+2-018	Further optimizations of the base, reaction time and acylating agent did not bring any improvement (see the Supporting Information).
+2-019	Therefore, we focused on a one-pot addition of 2 to lactone 1 directly followed by acetylation of the in situ generated hemiketal alkoxide by Ac2O (Scheme 1, step d).
+2-020	This protocol gave the desired acetyl hemiketal 4 in 38%
+2-021	yield accompanied by hemiketal 3 (21%) and another side product 5 (10%).
+2-022	Compound 5 has been characterized by NMR and X-ray diffraction (Figure 1) as product of lithia- tion of 2,6-dibromopyridine to position 4 followed by addi- tion to lactone and acetylation.
+2-023	To avoid its formation, the lithiation protocol was reoptimized.
+2-024	Finally, we used a diluted (0.3 M) solution of n-BuLi in hexanes for the lithia- tion of 2,6-dibromopyridine in THF at -78 °C followed by addition to 1, slow quenching with Ac2O, and warming to ambient temperature to prepare acetate 4 in good yield of 70% accompanied by only a trace amount of 5 (<2%).
+2-025	The acetylated hemiketal 4 was isolated and characterized as a pure β-anomer.
+2-026	The stereoselectivity (β- and R-anomeric products 6 and 7) was strongly dependent on a solvent and temperature.
+2-027	In DCM at -78 °C, a mixture of 6 and 7 (85:15 ratio) was obtained in 71% yield (entry 1), while at -40 °C the yield was increased to 85% without a dramatic change of stereoselec- tivity (entry 2).
+2-028	Increasing the temperature to 0 °C caused a decrease of selectivity to 77:23 (entry 3).
+2-029	Switching to more polar solvent (CH3NO2) at -40 °C gave the same yield and selectivity as in DCM (entry 4).
+2-030	On the other hand, the use of the less polar toluene at -20 °C increased the selectivity to95:5 with 90% yield (entry 5).
+2-031	Finally, the optimized proce- dure was performed in hexanes at -20 °C to achieve an excellent 91% yield of reduction with superior β/R selectivity 99:1 (entry 6).
+2-032	By the optimized sequence consisting of
+2-033	With key intermediate 6 in hand, we turned our attention to cross-coupling,[17] amination,[17] and aminocarbonylation[20] reactions (Scheme 3, Table 2).
+2-034	Cross-coupling reactions with organoaluminum or organozinc reagents were used for in- troduction of sp[3] (alkyl and benzyl) substituents.
+2-035	The reac- tions of 6 with trimetylaluminum, trietylaluminum, and a benzylzinc bromide were performed under standard condi- Conditions: (a) 8 (2 equiv), THF, -78 °C, 30 min, (60%); (b) 8 (2 equiv),
+2-036	THF, -78 °C, 15 min, then Ac2O, -78 °C f rt (45%) 8; (c) Et3SiH (3 tions in the presence of Pd(PPh3)4 in THF at 65 °C without equiv), BF3 3 Et2O (1.2 equiv), 20 min, DCM, 0 °C. any optimization.
+2-037	In all cases, desired nucleosides 12a-c were obtained in excellent yields (90-92%) (entries 1-3).6-one-pot lithiation, addition, and acetylation followed by Phenylpyridine C-ribonucleoside 12d was prepared by the reduction in hexanes, the target TBS-protected 6-bromopyr- Suzuki-Miyaura cross-coupling of 6 with phenylboronic idine-2-yl C-ribonucleoside intermediate 6 was prepared (as acid in toluene in the presence of K2CO3 and Pd(PPh3)4 at pure β-anomer determined by NOE) in 63% isolated overall 100 °C in 92% yield (entry 4).
+2-038	yield based on lactone 1.
+2-039	In order to introduce hetaryl substituents, the Stille cross- In parallel, we were also interested in studying of an coupling reactions in DMF using PdCl2(PPh3) 2 were used.alternative approach for the preparation of pyridine-C- Reactions of 6 with 2-thienyl(tributyl)stannane (entry 5) and ribonucleosides based on addition of 2-lithio-6-bromopyri- 2-furyl(tributyl)stannane (entry 6) proceeded very smoothly dine N-oxide 8 to lactone 1 (Scheme 2).
+2-040	An initial idea was to within 1.5 h at 100 °C to give the desired 4-(2-thienyl)-increase electron density in position 2 of the pyridine moiety pyridine 12e and 4-(2-furyl)pyridine C-ribonucleosides 12f (“umpolung” of the molecule), which may facilitate reduc- in 90% and 92% yield, respectively.
+2-041	On the other hand, tion of the free hemiketal without the need of acetylation.
+2-042	To reaction of 6 with 2-pyridyl(tributyl)stannane (entry 7) re- prove this hypothesis, an addition of 2-lithio-6-bromopyridine quired a longer time to reach complete conversion, and N-oxide 8 to lactone 1 was performed resulting in pyridine moreover, formation of some byproduct was observed.
+2-043	N-oxide hemiketal 9 in 60% yield.
+2-044	The NOESY spectrum The extraction and column chromatography isolation of
+2-045	reaction deprotection
+2-046	toluene 12 h, 100 °C 12d (92) 13d (89) DMF 1.5 h, 100 °C 12e (90) 13e (89) DMF 1.5 h, 100 °C 12f (92) 13f (90) DMF 24 h, 100 °C 12g (61) 13g (88) THF 3.5 h, 60 °C 12h (86) 13h (90) toluene 4.5 h, 40 °C 12i (86) 13i (89) toluene/ 3 h, 80 °C 12j (78) 13j (90) DMSO toluene/ 3 h, 80 °C 12k (82) 13k (93) DMSO toluene 3 h, 80 °C 12l (83) 13l (88)
+2-047	acHex JohnPhos = (2-biphenyl)dicyclohexylphosphane. bJohnPhos = (2-biphenyl)di-tert-butylphosphane. cXantphos = 4,5-Bis(diphenylphos-
+2-048	phino)-9,9-dimethylxanthene.
+2-049	the resulting nucleoside 12g from lipophilic tin-containing side products was more complicated, reflected in the lower isolated yield of 61%.
+2-050	The Hartwig-Buchwald[24] reactions were used for intro- duction of N-substituents.
+2-051	Unsubstituted aminopyridine derivate 12h was prepared by the reaction of 6 with lithium bis(trimetylsilyl)amide in the presence of Pd2dba3 and Buchwald-type ligand (2-biphenyl)dicyclohexylphosphane (cHex JohnPhos)[25] in 86% yield (Table 2, entry 8).
+2-052	The Buchwald reaction was also used for the introduction of the dimethylamino group.
+2-053	The reaction of 6 with dimethylamine hydrochloride (Me2NH 3 HCl) was performed under stan- dard conditions, using Pd2dba3, 2-(di-tert-butylphosphanyl)-biphenyl (JohnPhos),[25] and t-BuONa as a base at 40 °C for 4.5 h to give the target dimethylaminopyridine C-ribonucleoside 12i in 86% yield (Table 2, entry 9) .
+2-054	Amides 12j-l were prepared by Pd-catalyzed aminocarbo- nylation reactions20of 6 with corresponding amine hydrochlor- ides under atmospheric CO pressure in presence of 5 mol % of Pd(OAc)2, 10 mol % of Xanthphos, and K3PO4.
+2-055	All reac- tions were finished within 3 h at 80 °C yielding pyridine-6-carboxamide C-ribonucleosides 12j (78%), 12k (82%), and 12l (83%).
+2-056	For final deprotection of the silylated nucleosides 12a-l, treatment with Et3N 3 3HF[26] was used.
+2-057	Heating at 40 °C for 2days followed by treatment with NaHCO3 resulted in forma- tion of the desired free nucleosides 13a-l.
+2-058	Chromatographic purification on reversed-phase flash chromatography and subsequent lyophylization gave free nucleosides 13a-l in excellent yields (87-93%, Table 2, entries 1-12).
+2-059	Crystal structure of free C-ribonucleoside 13i (Figure 2) reveals the C20-endo (S) conformation typical for 20-deoxyr- ibonucleosides.
+2-060	On the other hand, in DMSO solution the series of C-ribonucleosides 13a-l shows a preference for the expected C30-endo (N) conformation as shown by analysis of interaction constants in 1H NMR (see the Supporting Information).
+2-061	However, remeasuring 13i in chloroform
+2-062	showed again preference for C20-endo (S) conformation.
+2-063	It seems that the intramolecular H-bond of 50-OH to pyridine nitrogen (which is not present in DMSO solution) might be the reason for the preference of the C20-endo (S) conforma- tion in the solid state and chloroform solution.
+2-064	All final C-ribonucleosides 13a-l were tested on cytostatic and anti-HCV activities, and none of them showed any significant effect at 10 μM concentrations.
+2-065	In conclusion, we have developed an efficient methodol- ogy for the synthesis of diverse 6-substituted pyridine-2-yl C-ribonucleosides.
+2-066	The key intermediate, TBS-protected 6-bromopyridine 6, was prepared in three steps: one-pot addi- tion of bromopyridyllithium 2 to protected ribonolactone 1 with in situ acetylation followed by reduction of the acety- lated hemiacetal 4 by Et3SiH/BF3 3 Et 2O, in excellent overall yield of 63%.
+2-067	It must be noted that the protocol is extremely sensitive to efficient cooling and precise adherence of reac- tion times in order to get reproducibly high yields.
+2-068	Interest- ingly, when the same sequence was performed for the corresponding pyridine N-oxide derivatives, each step pro- ceeded with inversion of configuration at C10 giving unde- sired R-anomeric bromopyridine N-oxide C-ribonucleoside
+2-069	11.
+2-070	The bromopyridine C-ribonucleoside intermediate 6 readily undergoes cross-coupling reactions with alkylalumi- num or -zinc reagents and arylboronic acids or hetarylstan- nanes to give 6-alkyl or 6-hetaryl derivatives.
+2-071	Hartwig- Buchwald aminations and Pd-catalyzed aminocarbonyla- tions of 6 gave 6-amino- and 6-carbamoylpyridine C-ribo- nucleosides in high yields.
+2-072	Free nucleosides 13a-l were prepared by desilylation of the intermediates by Et3N 3 3HF.
+2-073	They did not exert any considerable cytotoxicity, and there- fore, they are good candidates for conversion to nucleoside triphosphates as model compounds for studying specificity and fidelity of RNA polymerases or primases.
+3-001	1β-(6-Bromopyridin-2-yl)-1-O-acetyl-2,3,5-tri-O-(tert-butyl- dimethylsilyl)-D-ribofuranose (4). n-BuLi (10.1 mL, 16.3 mmol, 1.6 M solution in hexane, 4 equiv) in dry hexanes (50 mL) was added within 7 min to a vigorously stirred solution of 2, 6-dibromopyridine (3.86 g, 16.3 mmol, 4 equiv) in dry THF (40 mL) at -78 °C, and the resulting brown-yellow solution was stirred for 15 min at -78 °C. A precooled (-78 °C) solution of 1 (2.0 g, 4.07 mmol) in THF (20 mL) was then added via cannula to the reaction mixture in one portion followed by additional stirring for 15 min at -78 °C and dropwise addition of Ac 2O (2.6 mL, 27.7 mmol, 6.8 equiv).
+3-002	The resulting red mixture was stirred for 10 min at -78 °C, slowly warmed to rt, quenched by pouring into satd NaHCO3 (150 mL), extracted with Et2O (3 250 mL), and dried with Na2SO4.
+3-003	After evaporation of solvents, crude product was dissolved in Ac2O (100 mL) and extracted with hexanes (2 300 mL).
+3-004	Collected hexane layers were washed with satd NaHCO3 (500 mL) and dried over Na2SO4 .
+3-005	Evapora- tion under reduced pressure and chromatography in gradient hexanes to 6% Et2O in hexanes furnished compound 4 (2.01 g, 70%) as a colorless oil, which crystallized upon standing.
+3-006	Mp 78-82 °C. HRMS (ESI) C30H56BrNO6Si3 Na: [M þ Na] calcd 712.2491, found 712.2492.[1]
+3-007	H NMR (500 MHz, CDCl3): -0.39, -0.12, 0.06, 0.08, and 0.09 (6 s, 6 3H, CH3Si); 0.88, 0.89, and 0.94 (3 s, 3 9H, (CH3)3C); 2.11 (s, 3H, CH3CO); 3.77 (dd, 1H, Jgem =11.3 Hz, J5 0a,40 =2.1 Hz, H-50a); 3.95 (dd, 1H, Jgem=11.3 Hz, J5 0b,40=2.9 Hz, H-50b); 4.08 (d, 1H, J20 ,30=5.2 Hz, H-20); 4.18 (dd, 1H, J3 0,2 0 = 5.2 Hz, J3 0,4 0= 2.1 Hz, H-30); 4.27 (ddd, 1H, J 0 0 =2.9 Hz, J 0 0 =J 0 0=2.1 Hz, H-40); 7.34 (dd,
+3-008	1H, J5,4=7.8 Hz, J5,3=0.9 Hz, H-5); 7.47 (t, 1H, J4,5=J4,3=7.8 Hz, H-4); 7.62 (dd, 1H, J3,4=7.8 Hz, J3,5=0.9 Hz, H-3).
+3-009	13C
+3-010	NMR (125.7 MHz, CDCl3 ): -5.8, -5.7, -5.5, -4.9, -4.6, and
+3-011	-4.4 (CH3Si); 18.0 ((CH3)3C); 21.9 (CH3CO); 25.7, 25.8, and 25.9((CH3)3 C); 62.7 (CH2-50); 72.4 (CH-30); 79.5 (CH-20); 87.6 (CH-40); 105.1 (C-10); 119.4 (CH-3); 127.1 (CH-5); 138.6 (CH-4); 140.8 (C-6); 159.8 (C-2); 170.0 (CO).
+3-012	IR spectrum (CCl4): 3052, 2954,2897,1756,1581,1559,1472,1463,1436,1402,1402,1390, 1365,1365,1263,1253,1160,1129,1073,1023,1005,989,969, 939, 878, 839, 682, 672, 614 cm-1.
+3-013	[R][20]D = þ21.8(c 4.18, CHCl3).
+3-014	1β-(6-Bromopyridin-2-yl)-1-deoxy-2,3,5-tri-O-(tert-butyldime- thylsilyl)-D-ribofuranose (6).
+3-015	Et3SiH (1.3 mL, 8.16 mmol, 3 equiv) was added in one portion to a stirred solution of acylated hemiketal 4 (1.88 g, 2.72 mmol) in dry hexanes (14 mL) in an ice-brine bath (-20 °C) under argon.
+3-016	After 5 min, BF3 3 Et2O (0.39 mL, 3.26 mmol, 1.2 equiv) was added in one portion.
+3-017	The resulting mixture was stirred for an additional 5 min, followed by addition of Et3N (10 mL) and evaporation of solvents.
+3-018	Crude product was directly chromatographed on silica gel in gradient hexanes to 1.6% EtOAc in hexanes to give 6 (1.58 g, 90%) as a colorless oil.
+3-019	HRMS (ESI) C28H55BrNO4Si3: [M þ H] calcd 632.2617, found 632.2619.
+3-020	1H NMR (499.8 MHz, CDCl3):
+3-021	-0.18, -0.04, 0.070, 0.072, 0.10, and 0.11 (6 s, 6 3H, CH3Si); 0.85, 0.91, and 0.93 (3 s, 3 9H, (CH3)3C); 3.75 (dd, 1H, Jgem =11.2, J50b,40=3.1, H-50b); 3.86 (dd, 1H, Jgem=11.2, J5 0a,40=3.8, H-50a); 4.06 (td, 1H, J40 ,50=3.8, 3.1, J40,30=3.8, H-40); 4.11 (dd, 1H, J30 ,20 =4.3, J3 0,40=3.8, H-30); 4.15 (dd, 1H, J2 0,10=5.7, J20,30=4.3, H-20); 4.88 (d, 1H, J10 ,20=5.7, H-10); 7.35 (dd, 1H, J5,4=7.8, J5,3=1.1, H-5); 7.48 (dd, 1H, J4,5=7.8, J4,3=7.6, H-4); 7.55 (dd, 1H, J3,4=7.6, J3,5=1.1, H-3).
+3-022	13C NMR (125.7 MHz, CDCl3): -5.5, -5.4, -5.0, -4.61, -4.58, and -4.4 (CH3Si); 18.0, 18.1, and 18.4 (C(CH3)3); 25.86, 25.88, and 26.0 ((CH3 )3C); 63.0 (CH2-50); 72.8 (CH-30); 78.6 (CH-20); 84.2 (CH-10); 85.2 (CH-40); 120.3 (CH-3); 126.8 (CH-5); 138.5 (CH-4); 141.3 (C-6); 162.2 (C-2).
+3-023	IR spectrum (CCl4): 3051, 2956, 2796, 1582, 1557, 1463,1435,1408,1390,1362,1255,1154,1124,1044,1005,996, 989, 967, 940, 878, 838, 682, 571 cm-1.
+3-024	[R][20]D= þ3.8(c 6.01, CHCl3).
+3-025	1β-(6-Methylpyridin-2-yl)-1-deoxy-2,3,5-tri-O-(tert-butyldime- thylsilyl)-D-ribofuranose (12a).
+3-026	Me3 Al (0.48 mL, 0.951 mmol, 2 equiv, 2 M in toluene) was added to a vigorously stirred solution of 6 (301 mg, 0.476 mmol) and Pd(PPh3)4 (28 mg, 0.024 mmol, 5 mol %) in THF (10 mL) under argon.
+3-027	The mixture was stirred at 65 °C for 72 h and then quenched by pouring into saturated NaH2PO 4 (50 mL) and extracted to EtOAc (3 50 mL).
+3-028	Crude product was chromatographed on silica gel in gradient hexanes to 2% EtOAc in hexanes to give 12a (250 mg, 92%) as colorless oil.
+3-029	HRMS (ESI) C29H58NO 4Si3: [M þ H] calcd 568.3668, found 568.3668. 1 H NMR (500 MHz, CDCl3): -0.24, -0.08,0.072, 0.073, 0.10, and 0.11 (6 s, 6 3H, CH3Si); 0.82, 0.92, and 0.93 (3 s, 3 9H, (CH3)3 C); 2.51 (s, 3H, CH3); 3.77 (dd, 1H, Jgem=11.1 Hz, J5 0a,40 =3.4 Hz, H-50a); 3.86 (dd, 1H, Jgem =11.1 Hz, J5 0b,40 = 4.2 Hz, H-50b); 4.06 (dt, 1H, J40,50b = 4.2 Hz, J4 0,5 0a =J4 0,3 0=3.4 Hz, H-40); 4.13 (dd, 1H, J30,20=4.4 Hz, J3 0,40=3.5 Hz, H-30); 4.17 (dd, 1H, J20,10=6.0 Hz, J20,30=4.4 Hz, H-20); 4.89 (d, 1H, J10,20=6.0 Hz, H-10); 7.01 (bd, 1H, J5,4=7.6 Hz, H-5); 7.35 (dp, 1H, J3,4=7.8 Hz, J3,5=J3,CH3 =0.5 Hz, H-3); 7.50 (t, 1H, J4,5=J4,3=7.7 Hz, H-4).
+3-030	13C NMR (125.7 MHz, CDCl3): -5.5, -5.4, -5.2, -4.6, and -4.4 (CH3 Si); 18.0, 18.1, and 18.4 ((CH3)3C); 24.4 (CH3); 25.8, 25.9, and 26.0 ((CH3 )3C); 63.2 (CH2-50); 73.1 (CH-30); 78.6 (CH-20); 84.7 (CH-10); 85.1 (CH-40);
+3-031	118.5 (CH-3); 122.0 (CH-5); 136.3 (CH-4); 157.4 (C-6); 159.7 (C-
+3-032	2).
+3-033	IR spectrum (CCl4): 3063, 2956, 2896, 1594, 1579, 1472, 1462,1406,1389,1375,1362,1254,1154,1127,1104,1078,1046, 1004, 996, 989, 967, 940, 879, 838, 681, 671 cm-1.
+3-034	1β-(6-Phenylpyridin-2-yl)-1-deoxy-2,3,5-tri-O-(tert-butyldime- thylsilyl)-D-ribofuranose (12d).
+3-035	Compound 6 (406 mg, 0.641
+3-036	4 ,5 b
+3-037	4 ,5 a 4 ,3
+3-038	mmol), K2CO3 (178 mg, 1.28 mmol, 2 equiv), Pd(PPh 3)4 (37 mg, mixture was stirred at 60 °C for 3.5 h.
+3-039	After being cooled to room 0.032 mmol, 5 mol %), and PhB(OH)2 (157 mg, 1.28 mmol, 2 temperature, the reaction mixture was diluted with Et2O equiv) were dissolved in toluene (19 mL) under argon, and the (10 mL), and 2 M HCl (0.5 mL) was added.
+3-040	The resulting hetero- mixture was stirred at 100 °C for 12 h.
+3-041	The reaction mixture was geneous mixture was stirred for an additional 5 min and then concentrated under reduced pressure, and crude product was transferred into a saturated NaHCO3 (30 mL) and extracted to chromatographed on silica gel in toluene to give 12d (370 mg, Et2O (3 100 mL).
+3-042	Crude product was chromatographed on 92%) as a colorless oil.
+3-043	HRMS (ESI) C34H 60NO 4Si3: [M þ H] silica gel in gradient hexanes to 9% Et2O in hexanes followed by calcd 630.3825, found 630.3825.
+3-044	1H NMR (500 MHz, CDCl3): gradient of 6% EtOAc in hexanes to 11% EtOAc in hexanes to-0.07, 0.01, 0.07, 0.08, 0.115, and 0.123 (6 s, 6 3H, CH3Si); give 12h (324 mg, 86%) as yellow oil.
+3-045	HRMS (ESI) C28H57N2O4-0.86, 0.92, and 0.94 (3 s, 3 9H, (CH3)3 C); 3.80 (dd, 1H, Si3: [M þ H] calcd 569.3621, found 569.3621.
+3-046	1H NMR (500 Jgem=11.1 Hz, J5 0a,40=3.4 Hz, H-50a); 3.97 (dd, 1H, Jgem=11.1 MHz, CDCl3): -0.15, -0.04, 0.06, 0.07, 0.106, and 0.112 (6 s, Hz, J5 0b,40 = 3.9 Hz, H-50b); 4.13 (dt, J40,30 = 5.4 Hz, J40 ,50 a = 6 3H, CH3 Si); 0.84, 0.91, and 0.93 (3 s, 3 9H, (CH3 )3C);
+3-047	J 0 0 =3.6 Hz, H-40); 4.19 (dd, 1H, J 0 0=5.4 Hz, J 0 0=4.2 Hz, 3.76 (dd, 1H, J =11.1 Hz, J 0 0=3.5 Hz, H-50a); 3.84 (dd, 1H, 4 ,5 b 3 ,4 3 ,2 gem 5 a,4 H-30); 4.35 (t, 1H, J 0 0=J 0 0=4.2 Hz, H-20); 5.03 (d, 1H, J 0 0= J =11.1 Hz, J 0 0=4.5 Hz, H-50b); 4.04 (dt, 1H, J 0 0 =4.6
+3-048	2 ,3 2 ,1 1 ,2 gem 5 b,4 4 ,5 b
+3-049	4.2 Hz, H-10); 7.40 (m, 1H, H-p-Ph); 7.46 (m, 2H, H-m-Ph); 7.55 Hz, J4 0,5 0a =J40,30=3.7 Hz, H-40); 4.11 (bt, 1H, J30 ,20 =J30 ,40 =4.1 (ddd, 1H, J3,4=7.5 Hz, J3,5=1.2 Hz, J3,10 =0.5 Hz, H-3); 7.64 Hz, H-30); 4.14 (dd, 1H, J20 ,10=5.6 Hz, J2 0,30=4.3 Hz, H-20); 4.37
+3-050	0 0 0
+3-051	62.7 (CH2-50); 72.0 (CH-30); 78.4 (CH-20); 83.9 (CH-40); 85.9 and 18.4 ((CH3 )3C); 25.8, 25.9, and 26.0 ((CH 3)3C); 63.1 (CH2-(CH-10); 118.8 (CH-5); 120.1 (CH-3); 126.8 (CH-o-Ph); 128.5 50); 72.8 (CH-30); 78.1 (CH-20); 84.6 (CH-10); 84.7 (CH-40); 107.5 (CH-m-Ph); 128.8 (CH-p-Ph); 137.0 (CH-4); 139.2 (C-i-Ph); (CH-5); 112.0 (CH-3); 138.0 (CH-4); 157.6 (C-6); 158.2 (C-2).
+3-052	IR 156.1 (C-6); 160.3 (C-2).
+3-053	IR spectrum (CCl4): 3067, 3090, spectrum (CCl4): 3510, 3409, 3175, 3063, 2956, 2896, 1610, 1591, 3067,3036,2956,2896,1592,1579,1572,1496,1472,1462, 1579,1471,1462,1406,1391,1389,1336,1253,1155,1129,1101, 1462,1449,1406,1389,1362,1327,1254,1217,1155,1104,1078, 1079, 998, 979, 838, 682, 672 cm-1.
+3-054	1041, 1029, 1006, 996, 968, 940, 878, 838, 672 cm-1. 1β-[6-(Dimethylamino)pyridin-2-yl]-1-deoxy-2,3,5-tri-O-(tert-1β-[6-(2-Thienyl)pyridin-2-yl]-1-deoxy-2,3,5-tri-O-(tert-butyl- butyldimethylsilyl)-D-ribofuranose (12i).
+3-055	Toluene (2.1 mL) was dimethylsilyl)-D-ribofuranose (12e).
+3-056	DMF (3.1 mL) was added to added to a flame-dried and argon-purged flask containing 6 (468 a flame-dried and argon-purged flask containing 6 (419 mg, mg, 0.740 mmol), Pd2(dba)3 (17 mg, 0.019 mmol, 5 mol %), (2-0.662 mmol) and PdCl2(PPh3)2 (23 mg, 0.033 mmol, 5 mol %). biphenyl)di-tert-butylphosphine (22 mg, 0.074 mmol), sodium After 5 min of stirring at room temperature, tributyl(thiophen- tert-butoxide (426 mg, 4.44 mmol, 6 equiv), and Me2 NH 3 HCl2-yl)stannane (0.27 mL, 0.860 mmol, 1.3 equiv) was added, and (302 mg, 3.70 mmol, 5 equiv).
+3-057	The resulting mixture was stirred the reaction vessel was immersed in an oil bath (100 °C).
+3-058	After at 40 °C for 4.5 h and then diluted with Et2O (5 mL), poured into 1.5 h, the reaction mixture became dark-brown, and the reaction water (100 mL), extracted with Et2O (3 100 mL), and dried was complete (monitored by TLC hexanes/EtOAc 10:1).
+3-059	The over MgSO4.
+3-060	After removal of the solvent under reduced pre- crude reaction mixture was diluted with Et2O (300 mL), washed ssure, crude product was chromatographed on silica in gradient with 2 M HCl (80 mL) and saturated NaHCO3 (100 mL), and hexanes to 4% EtOAc in hexanes to give 12i (387 mg, 86%) as a dried over MgSO4.
+3-061	After evaporation of solvents under reduced colorless oil.
+3-062	HRMS (ESI) C30H61N2O4Si3 : [M þ H] calcd pressure, the crude product was chromatographed on silica gel 597.3934, found 597.3934.
+3-063	1H NMR (500 MHz, CDCl3): 0.00, in gradient hexanes to 4% EtOAc in hexanes to obtain 12e (380 0.02, 0.04, 0.05, 0.089, and 0.093 (6 s, 6 3H, CH3Si); 0.88, mg, 90%) as a colorless oil.
+3-064	HRMS (ESI) C32H58NO4SSi3: [M þ 0.90, and 0.92 (3 s, 3 9H, (CH3)3C); 3.07 (s, 6H, (CH3)2N);
+3-065	1 0 0 0
+3-066	H] calcd 636.3389, found 636.3389.
+3-067	H NMR (500 MHz, 3.75 (dd, 1H, Jgem=11.1 Hz, J5 a,4=3.9 Hz, H-5 a); 3.92 (dd, 1H, CDCl3 ): 0.04, 0.05, 0.06, 0.11, and 0.13 (6 s, 6 3H, CH 3Si); Jgem =11.1 Hz, J50 b,40=4.2 Hz, H-50b); 4.07 (dt, 1H, J40,30=6.3
+3-068	0 0 0 0 0 0 0
+3-069	0.89, 0.91, and 0.94 (3 s, 3 9H, (CH3)3 C); 3.78 (dd, 1H, Hz, J4 ,5 a =J4 5 b =4.0 Hz, H-4 ); 4.13 (dd, 1H, J3 ,4 =6.3 Hz,
+3-070	0 0 0 0 0 0 0 0 0 0
+3-071	Jgem=11.2 Hz, J5 a,4 =3.2 Hz, H-5 a); 3.98 (dd, 1H, Jgem=11.2 J3 ,2 =4.2 Hz, H-3 ); 4.31 (dd, 1H, J2 ,3 =4.2 Hz, J2 ,1 =3.3 Hz, 0 0 0 0 0 0 0 0 0 Hz, J5 b,4 =3.4 Hz, H-5 b); 4.10 - 4.15 (m, 2H, H-3 ,4 ); 4.36 (t, H-2 ); 4.79 (d, 1H, J1 ,2=3.3 Hz, H-1 ); 6.39 (d, 1H, J5,4=8.4 Hz,
+3-072	0 0 0 0 0 0 0 0
+3-073	1H, J2 ,1 =J2 ,3 =3.6 Hz, H-2 ); 4.96 (d, 1H, J1 ,2=3.5 Hz, H-1 ); H-5); 6.82 (d, 1H, J3,4=7.3 Hz, H-3); 7.38 (dd, 1H, J4,5=8.5 Hz, 13 7.10 (dd, 1H, J3,5=5.1 Hz, J4,3=3.7 Hz, H-4-thienyl); 7.37 (dd, J4,3=7.3 Hz, H-4).
+3-074	C NMR (125.7 MHz, CDCl3): -5.4, -4.8, 1H, J5,4=5.1 Hz, J5,3=1.2 Hz, H-5-thienyl); 7.47 (dm, 1H, J3,4= -4.7, -4.6, and -4.3 (CH3Si); 18.0, 18.1, and 18.5 ((CH3 )3C); 7.7 Hz, H-3); 7.52 (dd, 1H, J =7.9 Hz, J =1.1 Hz, H-5); 7.58 25.9 and 26.1 ((CH ) C); 38.1 ((CH ) N); 62.8 (CH -50); 71.8 5,4 5,3 3 3 3 2 2 (dd, 1H, J =3.7 Hz, J =1.2 Hz, H-3-thienyl); 7.62 (t, 1H, (CH-30); 77.7 (CH-20); 83.0 (CH-40); 86.5 (CH-10); 104.5 (CH-5); 3,4 3,5
+3-075	J4,3=J4,5=7.8 Hz, H-4).
+3-076	13C NMR (125.7 MHz, CDCl3): -5.4, 109.6 (CH-3); 137.3 (CH-4); 158.1 (C-2); 158.8 (C-6).
+3-077	IR spec- -4.8, -4.6, -4.5, and -4.3 (CH3Si); 18.0, 18.1, and 18.5 trum (CCl4): 2956, 2896, 1597, 1572, 1499, 1472, 1463, 1431, ((CH3)3C); 25.88, 25.9, and 26.1 ((CH3 )3C); 62.6 (CH2 -50); 1405,1389,1374,1362,1253,1154,1126,1101,1078,941,838, 71.6 (CH-30); 78.2 (CH-20); 83.5 (CH-40); 86.0 (CH-10); 117.1 683 cm-1.
+3-078	(CH-5); 119.8 (CH-3); 124.2 (CH-3-thienyl); 127.4 (CH- 1β-[6-(Carbamoyl)pyridin-2-yl]-1-deoxy-2,3,5-tri-O-(tert-butyl-5-thienyl); 127.8 (CH-4-thienyl); 136.9 (CH-4); 145.4 (C-2- dimethylsilyl)-D-ribofuranose (12j).
+3-079	A flame-dried septum-sealed thienyl); 151.7 (C-6); 160.3 (C-2).
+3-080	IR spectrum (CCl4): 3074, flask (10 mL) containing 6 (220 mg, 0.348 mmol), Pd(OAc)2 2956,2896,1588,1572,1535,1525,1472,1458,1458,1434,1406, (3.9 mg, 0.018 mmol, 5 mol %), Xantphos (20 mg, 0.035 mmol, 1389,1362,1287,1254,1103,1076,1045,1006,995,968,940, 10 mol %), NH4 Cl (74 mg, 1.39 mmol, 4 equiv), and K3PO 4 879, 854, 838,702, 682, 671 cm-1.
+3-081	(369 mg, 1.74 mmol, 5 equiv) was evacuated and backfilled with 1β-(6-Aminopyridin-2-yl)-1-deoxy-2,3,5-tri-O-(tert-butyldime- CO(g).
+3-082	Then, toluene (0.6 mL) and DMSO (0.6 mL) were added thylsilyl)-D-ribofuranose (12h).
+3-083	LiN(SiMe3 )2 (1.2 mL, 1 M solu- via syringe.
+3-084	The reaction mixture was stirred at room tempera- tion in THF 1.18 mmol, 1.8 equiv) was added to a flame-dried ture for 5 min and then immersed into a preheated oil bath and argon-purged flask containing 6 (416 mg, 0.6573 mmol), (80 °C) and vigorously stirred for 3 h.
+3-085	After the mixture was Pd2(dba)3, (15 mg, 0.016 mmol, 5 mol %), and (2-biphenyl- cooled to room temperature, Et2 O (8 mL) was added, and the)dicyclohexylphosphine (23 mg, 0.036 mmol, 10 mol %), and the reaction mixture was filtered through a plug of Celite (eluting
+3-086	with Et2O) and concentrated under reduced pressure.
+3-087	The crude product was purified by flash chromatography on silica gel in gradient hexanes to 17% EtOAc in hexanes to give 12j (160 mg, 78%) as a colorless oil.
+3-088	HRMS (ESI) C29H57N2O5Si3: [M þ H] calcd 597.3537, found 597.3557.
+3-089	1H NMR (500 MHz, CDCl3):
+3-090	-0.24, -0.04, 0.066, 0.070, 0.12, and 0.13 (6 s, 6 3H, CH3Si); 0.84, 0.92, and 0.94 (3 s, 3 9H, (CH3)3 C); 3.78 (dd, 1H, Jgem=11.2 Hz, J5 0a,40=2.6 Hz, H-50a); 3.92 (dd, 1H, Jgem=11.2 Hz, J50 b,40=3.2 Hz, H-50b); 4.08 - 4.13 (m, 3H, H-20,30,40);
+3-091	4.95 (d, 1H, J10 ,20 = 4.8 Hz, H-10); 5.77 (d, 1H, Jgem = 4.0 Hz, NH2a); 7.81 (dd, 1H, J4,3=7.9 Hz, J4,5=7.0 Hz, H-4); 7.84 (dd,
+3-092	1H, J3,4=7.9 Hz, J3,5=1.9 Hz, H-3); 7.85 (m, 1H, NH2b); 8.10
+3-093	(dd, 1H, J5,4=7.0 Hz, J5,3=1.9 Hz, H-5).13C NMR (125.7 MHz, CDCl3 ): -5.43, -5.41, -5.1, -4.7, -4.5, and -4.4 (CH3Si); 17.9, 18.1, and 18.4 ((CH3)3C); 25.7, 25.9, and 26.0 ((CH3)3C); 62.7 (CH2-50); 72.4 (CH-30); 78.9 (CH-20); 84.8 (CH-40); 84.9 (CH-10); 121.3 (CH-5); 124.3 (CH-3); 137.8 (CH-4); 148.4 (C-6); 160.0 (C-2); 166.7 (CO).
+3-094	IR spectrum (CCl4): 3528, 3459, 3401,
+3-095	3275,3150,3063,2897,2895,1699,1594,1574,1556,1472,1462, 1435,1404,1388,1362,1256,1155,1127,1075,972,940,887, 838, 680 cm-1.
+3-096	General Procedure for the Deprotection of TBS Group.
+3-097	Method A. Et3N 3 3HF (163 μL, 1.00 mmol, 10 equiv) was added to the solution of silylated compound 12a-l (0.10 mmol) in THF (1.00 mL), and the resulting mixture was stirred at 40 °C
+3-098	for 2 days.
+3-099	After the reaction was complete (monitored by TLC eluted in CHCl3 /MeOH 8:2), solvent was removed under re- duced pressure, the crude product was dissolved in water, and solid NaHCO3 was added until pH 8.
+3-100	Solvents were removed under reduced pressure, and crude product was purified by reversed-phase chromatography (H2O/MeOH as a eluent) to obtain free C-ribonucleosides 13a-l.
+3-101	1β-(6-Phenylpyridin-2-yl)-1-deoxy-D-ribofuranose (13d).
+3-102	Com- pound 13d was prepared from 12d (371 mg, 0.589 mmol) accord- ing to general procedure, in 89% yield, as a colorless oil, which after lyophylization furnished white hygroscopic powder.
+3-103	HRMS (ESI) C16H18NO4: [M þ H] calcd 288.1230, found 288.1232.
+3-104	1H NMR (500 MHz, DMSO-d6): 3.55 (dd, 1H, Jgem =11.7 Hz, J50 a,4 0=4.6 Hz, H-50a); 3.67 (dd, 1H, Jgem=11.7 Hz, J50b,40 =3.7 Hz, H-50b); 3.89 (m, 1H, H-40); 3.95 (bt, 1H, J3 0,20=J30 ,40=5.2 Hz, H-30); 4.11 (bt, 1H, J2 0,10=J20,30=4.9 Hz, H-20); 4.80 (d, 1H, J1 0,20=4.7 Hz, H-10); 4.80 - 5.30 (m, 3H, OH-20,30,50); 7.44 (m, 1H, H-p- Ph); 7.50 (m, 2H, H-m-Ph); 7.53 (dd, 1H, J3,4 =7.0 Hz, J3,5 =1.6 Hz, H-3); 7.84 (dd, 1H, J5,4=7.9 Hz, J5,3=1.7 Hz, H-5); 7.87 (dd, 1H, J4,5=7.9 Hz, J4,3 =7.0 Hz, H-4); 8.07 (m, 2H, H-o-Ph).
+3-105	13C
+3-106	NMR (125.7 MHz, DMSO-d6): 62.1 (CH2-50); 71.4 (CH-30); 76.8 (CH-20); 84.5 (CH-40); 85.7 (CH-10); 119.4 (CH-5); 120.4 (CH-3); 126.9 (CH-o-Ph); 129.0 (CH-m-Ph); 129.3 (CH-p-Ph); 138.0 (CH-
+3-107	4); 138.9 (C-i-Ph); 155.5 (C-6); 160.7 (C-2).
+3-108	IR spectrum (KBr): 3415,3066,3066,1627,1605,1593,1579,1570,1497,1458,1449, 1334,1161,1104,1074,1049,1029,998,816,762,697,624 cm-1.[R][20]D=-14.2(c 2.61, MeOH).
+3-109	Anal. Calcd for C16H17-NO4 3 1H2O: C, 65.05; H, 6.06; N, 4.79.
+3-110	Found: C, 65.31; H, 5.96; N, 4.67.
+3-111	1β-(6-Aminopyridin-2-yl)-1-deoxy-D-ribofuranose (13h).
+3-112	Com- pound 13h was prepared from 12h (307 mg, 0.540 mmol) accord- ing to the general procedure in 90% yield as a colorless oil, which after lyophylization furnished white hygroscopic powder.
+3-113	HRMS (ESI) C10H15N2O4: [M þ H] calcd 227.1026, found 227.1027.
+3-114	1H NMR (500 MHz, DMSO-d6): 3.49 (dd, 1H, Jgem =11.8 Hz,
+3-115	J50 a,4 0=4.4 Hz, H-50a); 3.63 (dd, 1H, Jgem=11.8 Hz, J50b,40 =3.1
+3-116	Hz, H-50b); 3.79 (ddd, 1H, J40,30=6.1 Hz, J40,50a=4.3 Hz, J4 0,50 b=3.1 Hz, H-40); 3.82 (dd, 1H, J30 ,40=6.1 Hz, J30,20=4.7 Hz, H-30);
+3-117	3.94 (t, 1H, J20 ,10=J2 0,30=4.4 Hz, H-20); 4.47 (d, 1H, J1 0,20=4.2 Hz, H-10); 4.80-5.20 (m, 3H, OH-20,30,50); 5.89 (s, 2H, NH2); 6.31 (dd, 1H, J5,4=8.2 Hz, J5,3=1.0 Hz, H-5); 6.61 (dm, 1H, J3,4=7.2 Hz, H-3); 7.32 (dd, 1H, J4,5 = 8.2 Hz, J4,3 = 7.2 Hz, H-4).
+3-118	13C
+3-119	NMR (125.7 MHz, DMSO-d6): 62.2 (CH2-50); 71.3 (CH-30); 76.6 (CH-20); 84.0 (CH-40); 85.8 (CH-10); 107.3 (CH-5); 109.3 (CH-3); 137.8 (CH-4); 159.0 (C-2); 159.4 (C-6).
+3-120	IR spectrum (KBr): 3432, 3366,3230,2000,1628,1607,1576,1471,1339,1106,1082,1046, 993, 795, 739 cm-1.
+3-121	[R][20]D=-43.5(c 3.33, MeOH).
+3-122	Anal. Calcd for C10H14N2O4 3 1/2 H2O: C, 51.06; H, 6.43; N, 11.91.
+3-123	Found: C, 51.11; H, 6.31; N, 11.55.
+3-124	For all other synthetic procedures and for complete charac- terization of all compounds, see the Supporting Information.
+3-125	Single Crystal X-ray Structure Analysis.
+3-126	The diffraction data of single crystals of 13i (colorless, 0.09 0.23 0.40 mm) and 5
+3-127	(colorless, 0.21 0.32 0.51 mm) were collected on Xcalibur X-ray diffractometr with CuKR (λ=1.54180 A) at 150 and 298 K, respectively.
+3-128	Both structures were solved by direct methods with SIR9227 and refined by full-matrix least-squares on F with CRYSTALS.[28]
+3-129	All hydrogen atoms were located in a difference map, but those attached to carbon atoms were repositioned geometrically and then refined with riding constraints, while all other atoms were refined anisotropically in both cases.
+3-130	Crystal data for 5: C30H55Br2 NO6Si3, orthorhombic, space group P21 21 21 , a = 10.8289(9) A, b = 17.5540(19) A, c = 21.7052(19) A, V = 4126.0(7) A[3], Z = 4, M = 769.82, 22646 reflections measured, 8654 independent reflections.
+3-131	Final R=0.0481, wR=0.0757, GoF=1.1709 for 5600 reflections with I
+3-132	> 2σ(I) and 381 parameters.
+3-133	CCDC 752141.
+3-134	Crystal data for 13i: C12H18N2O4, orthorhombic, space group P212121, a=6.8208(3) A , b=9.0452(4) A, c=19.7411(9) A, V= 1217.93(10) A[3] , Z=4, M=254.29, 11567 reflections measured, 2580 independent reflections.
+3-135	Final R = 0.0364, wR = 0.0453,
+3-136	GoF = 1.0933 for 2201 reflections with I > 2σ(I) and 165 parameters.
+3-137	CCDC 752142.

@@ -1,0 +1,152 @@
+# document_id: jp904350e
+# extractor: kordoc-markdown-adapter-1
+1-001	Photocatalytic H2 production with heterogeneous photocata- lysts has received much attention due to its attractive potential of supplying H2 utilizing solar energy.[1-5] For the purpose of producing H2 with high efficiency, much effort has been devoted to the exploration of novel semiconductor catalysts or new photocatalytic reaction systems.[6-17] Up to now, a lot of photocatalysts, including (oxy)nitrides, such as TaON,[6] Ta3N5,[7] Y Ta O5N2,[8] (Ga Zn )(N O ),[9] and (Zn Ge)(N O ),[10] and
+1-002	2 2 1-x x 1-x x 1+x 2 x
+1-003	(oxy)sulfides, such as (AgIn)xZn2(1-x)S2,[11] ZnIn2 S4,[12] and Sm2Ti2S2O5,[13] have been synthesized and demonstrated to be able to produce H2 under visible light irradiation.
+1-004	In addition to the semiconductor materials, surface modification of photo- catalysts with cocatalysts is also crucial for photocatalytic H2 production reactions.
+1-005	Cocatalysts can offer the low activation potentials for H2 or O2 evolution and act as active sites for H2 or O2 formation.[18-25] Moreover, cocatalysts could also suppress the recombination of photogenerated charges by the efficient separation of charges on different sites.
+1-006	However, for most photocatalysts reported so far, mainly noble metals or their oxides are used as the cocatalysts,[26-28] while little work was done on using inexpensive cocatalysts as the substitutes for noble metals.
+1-007	In our recent work, MoS2 was found to be an efficient cocatalyst for CdS in the photocatalytic H2 production reac- tions,[29] while factors influencing the photocatalytic activity of MoS2/CdS and the reasons for the enhanced activity of MoS2/CdS are not clear yet.
+1-008	In the present work, we focused on these two aspects and found that the rate of H2 evolution on MoS2/CdS was influenced by the chemical state of the Mo species loaded on CdS, the junctions formed between CdS and MoS2, and the surface area and the crystallinity of the catalyst.
+1-009	Moreover, we proved that the excellent H2 activation property of MoS2, together with the junctions formed between MoS2 and
+1-010	CdS, is a most important factor responsible for the high activity of MoS2/CdS.
+2-001	2.1.
+2-002	Preparation of Catalysts.
+2-003	The CdS powder was ob- tained commercially, and (NH4 )2MoS4 was prepared according to the literature.[30]
+2-004	The preparation procedure of the catalyst is shown in Scheme 1.
+2-005	CdS was impregnated with ammonia solution containing different amounts of (NH4)2MoS4 and then dried with a water bath.
+2-006	The resulting (NH4)2MoS4/CdS precur- sor powder was calcined at temperatures from 423 to 773 K for 2 h in H2S to obtain the MoS2/CdS catalyst.
+2-007	In most cases, commercial CdS was directly used as the substrate to be loaded with MoS 2, and the resulting sample was denoted as MoS2/CdS.
+2-008	In some cases, CdS was first calcined at 773 K for 5 h in H2S, and the resulting CdS, which is denoted as CdS(HT), was used as the substrate.
+2-009	The corresponding catalyst was denoted as MoS 2/CdS(HT).
+2-010	MoS2 powder was obtained by calcining (NH4)2 MoS4 at temperatures from 573 to 773 K in H2S for 2 h.
+2-011	* To whom correspondence should be addressed.
+2-012	Tel: +86-411-84379070.
+2-013	Fax: +86-411-84694447.
+2-014	E-mail: canli@dicp.ac.cn.
+2-015	10.1021/jp904350e  2010 American Chemical Society
+2-016	Published on Web 01/11/2010
+2-017	Zong et al.
+2-018	2.2.
+2-019	Characterization of Catalysts.
+2-020	The 0.2 wt % MoS2/CdS catalyst was demonstrated to be the most active catalyst among the MoS2/CdS with varied MoS2 loadings.[29]
+2-021	So, in most cases, the 0.2 wt % MoS2/CdS catalyst was specially character- ized.
+2-022	In some cases, for the purpose of XPS and TEM characterizations, the 1 wt % MoS2/CdS catalyst was used.
+2-023	The prepared samples were characterized by X-ray powder diffrac- tion (XRD) on a Rigaku MiniFlex powder diffractometer.
+2-024	Each sample powder was scanned through a 2θ range of 20-60° using Cu KR radiation with an operating voltage of 40 kV and an operating current of 100 mA.
+2-025	X-ray photoelectron spectra (XPS) were recorded on an Amicus X-ray photoelectron spectrometer, using Mg KR radiation.
+2-026	The morphology and particle size of MoS2/CdS were examined by scanning electron microscopy (SEM) images taken with a Quanta 200FEG scanning electron microscope.
+2-027	TEM micrographs were taken using a Tecnai G2 Spirit (FEI Company) transmission electron microscope.
+2-028	The Brunauer-Emmett-Teller (BET) surface areas were measured on a Micromeritics ASAP 2000 system at liquid nitrogen temperature.
+2-029	2.3.
+2-030	Photocatalytic Reactions.
+2-031	The photocatalytic reactions were carried out in a Pyrex reaction cell connected to a closed gas circulation and evacuation system.
+2-032	A 0.1 g portion of catalyst was suspended in 200 mL of aqueous solution containing 20 mL of different organic reagents as sacrificial electron donors.
+2-033	Pt was loaded on CdS by a photoreduction method using H2PtCl6 aqueous solution.
+2-034	The suspension was then thoroughly degassed and irradiated by a Xe lamp (300 W) equipped with an optical cutoff filter (λ > 420 nm) to eliminate ultraviolet light and a water filter to remove infrared light.
+2-035	The temperature of the reactant solution was maintained at 283 ( 5 K by a flow of cooling water during the reaction.
+2-036	The amount of H2 produced was analyzed using an online gas chromatography.
+2-037	The activities of different catalysts were compared by the average rate of H2 evolution in the first 5 h.
+2-038	The apparent quantum efficiency (Φ) was estimated by the method reported in the literature[31] and calculated using the following equation: Φ(%) ) (2 × R/I) × 100, where R and I represent the number of evolved H2 molecules and the number of incident photons, respectively.
+2-039	Here, Φ is quantum efficiency, where it is assumed that all incident photons are absorbed by the photocatalyst.
+2-040	The number of incident photons was measured using a calibrated Si photodiode.
+2-041	2.4.
+2-042	Electrochemical Measurements.
+2-043	The H2 evolution property of MoS2 was investigated by electrochemical measure- ments on two electrodes: bare FTO and MoS2/FTO electrodes.
+2-044	The MoS2/FTO electrode was prepared by dropping a small amount of (NH4)2MoS4 methanol solution onto the FTO glass using a pipet, followed by a calcination at 573 K for 2 h in H2S to convert (NH4)2MoS4 to MoS2.
+2-045	Because treatment with temperatures higher than 673 K in H2S will damage the FTO surface, electrochemical measurement were done on the MoS2/FTO electrode prepared at 573 K. Electrochemical experiments were performed in a three-electrode cell made of quartz.
+2-046	A Pt plate and a saturated calomel electrode (SCE) were employed as the counter and reference electrodes, and the as-prepared electrodes were used as the working electrodes.
+2-047	A 0.5 M Na2SO4 solution was used as the electrolyte.
+2-048	Current-voltage curves were recorded by an electrochemical workstation (CHI660A, Shanghai Chenhua Instruments, China).
+3-001	3.1.
+3-002	Catalyst Characterizations with XRD Patterns, XPS, SEM, and TEM.
+3-003	Figure 1 shows the X-ray diffraction patterns of 0.2 wt % MoS2/CdS catalysts prepared by calcining the
+3-004	(NH4)2 MoS4/CdS precursor at temperatures from 473 to 773 K, along with the data of commercial CdS for a comparison.
+3-005	Diffraction peaks corresponding to the cubic and hexagonal phases of CdS are present for all 0.2 wt % MoS2/CdS catalysts calcined at different temperatures.
+3-006	The intensity of the peaks for the hexagonal phase of CdS is increased with the increase of the preparation temperature, indicating the gradual transfer of CdS from the cubic phase to hexagonal phase at elevated temperatures.
+3-007	Diffraction peaks assigned to MoS2 were not observed for all 0.2 wt % MoS 2/CdS samples, possibly due to the low amount of MoS 2 loaded on CdS.
+3-008	To study the change of the chemical state of Mo with the calcination temperature, the valence state of Mo was investigated by XPS.
+3-009	Figure 2 shows the XPS spectra for Mo 3d in 1 wt % MoS2/CdS catalysts prepared by calcining the (NH4)2MoS4/CdS precursor at temperatures from 473 to 673 K. The doublet peaks for Mo 3d were found at 232.3 and 229.2 eV for the MoS2/CdS catalyst prepared at 473 K, whereas a shift toward a lower binding energy of 231.9 and 228.8 eV was observed for the MoS2/CdS catalysts prepared at 573 and 673 K. The Mo 3d peaks at 231.9 and 228.8 eV indicate the formation of MoS2,[32] and a higher binding energy at 231.9 and 228.8 eV can be attributed to Mo species with the valence between IV and VI.
+3-010	Photocatalytic H 2 Evolution on MoS2/CdS Catalysts
+3-011	Therefore, (NH 4)2MoS4 can be converted to MoS2 at temper- atures higher than 573 K.
+3-012	The 1.0 wt % MoS2/CdS catalysts prepared by calcining the (NH4)2MoS4/CdS precursor at different temperatures were then characterized with TEM and HRTEM to investigate the morphology of MoS2 and the interfacial structures between MoS2 and CdS.
+3-013	As shown in Figure 4A,B, MoS2 particles with a typical layered structure are observed for the 1.0 wt % MoS2/CdS catalyst calcined at 723 K, whereas no MoS2 particles with a layered structure were found for the 1.0 wt % MoS2/CdS catalyst calcined at 573 K. The HRTEM images in Figure 4C-H clearly demonstrate the crystallization process of molybdenum sulfide with the calcination temperature.
+3-014	After a calcination at 573 K, no crystalline MoS2 particles were observed on the surface of CdS.
+3-015	Upon calcination above 673 K, fine MoS2 particles with characteristic slabs appear, indicating the gradual transformation of amorphous MoS2 to crystalline MoS2 at high temperatures.
+3-016	The lattice plane of CdS directly contacted with MoS2 is randomly distributed (Figure 4E-G) due to the impregnation approach employed to prepare the MoS2/CdS catalyst.
+3-017	However, it is easy to find that most of the (002) planes of MoS2 are parallel to the surface of CdS, and intimate junctions are formed between MoS2 and CdS.
+3-018	It has been pointed out that undesirable phase boundary would impair the efficiency of charge separation and collection, and the detrimental influence of phase boundaries can be reduced by lattice matched hetero- interfaces.
+3-019	For the layered materials, the specific properties of the van der Waals plane may offer advantages in this aspect.[33]
+3-020	We think the characteristic stack mode of MoS2 would make it form a more desirable junction with CdS, which will lead to more efficient electron transfer.
+3-021	To compare the morphology of the Pt and MoS2 particles loaded on CdS, the 1.0 wt % Pt/CdS catalyst was then characterized with HRTEM.
+3-022	As shown in Figure 5, island-like Pt nanoparticles with a diameter of about 2 nm were deposited on the surface of CdS, which is drastically different from the MoS2 slabs deposited on CdS.
+3-023	The difference may be ascribed
+3-024	to the different affinities of the two cocatalysts with CdS, which will affect the interelectron transfer process between the cocatalysts and CdS.
+3-025	3.2.
+3-026	Effects of the Preparation Temperature on the Photocatalytic Activity.
+3-027	Figure 6 shows the rate of H2 evolution on CdS and 0.2 wt % MoS2/CdS catalysts prepared by calcining the commercial CdS and (NH4)2MoS4/CdS precursor at tem- peratures from 423 to 773 K. The activities of the CdS catalysts are increased from 12.5 to 31.4 μmol h-1 with the increase of the calcination temperatures from 473 to 773 K. It may be owning to the higher crystallinity and the change of CdS from cubic to hexagonal phase at high temperatures because the hexagonal phase of CdS shows higher activity than the cubic phase, and high crystallinity contributes a lot to the photocata-
+3-028	reactions; MoS2 was directly loaded on CdS by calcining the catalyst.
+3-029	(NH 4)MoS 4/CdS precursor at prescribed temperatures.
+3-030	Reaction conditions: 10 vol % lactic solution (200 mL); light source, xenon lamp (300 W) with a cutoff filter.
+3-031	lytic activity of a photocatalyst.[34]
+3-032	For all the CdS catalysts calcined at different temperatures, their activities are very low.
+3-033	After loading 0.2 wt % of MoS2 on CdS by calcining the (NH4)2MoS4/CdS precursor at different temperatures, the activity of the CdS was significantly enhanced.
+3-034	The rate of H2 evolution on 0.2 wt % MoS 2/CdS calcined at 473 K is 439 μmol h-1, which is about 35 times higher than that on the CdS catalyst calcined at the same temperature.
+3-035	With the increase of the calcination temperature, the overall activities of 0.2 wt % MoS2/CdS increase and attain the highest when the temperature is up to 573 K. The quantum efficiency for the photocatalytic H2 evolution on the 0.2 wt % MoS2/CdS catalyst calcined at 573 K was determined to be 7.3% at 420 nm.
+3-036	It is supposed that, after calcining the (NH4)2MoS4/CdS precursor, the surface area of the resulting catalyst will change with the calcination temperature, which may have some effect on the activity of the catalyst.
+3-037	The BET surface area of 0.2 wt % MoS2/CdS is decreased from 13.2 to 3.8 m2 g-1 with the increase of the calcination temperatures from 473 to 773 K. The activities of 0.2 wt % MoS 2/CdS per surface area increased gradually with the increase of the calcination temperatures from 473 to 773 K. The above results indicate that calcination temperature may change the activity of MoS 2/CdS by two opposite effects.
+3-038	On the one hand, increasing the calcination temperature may improve the crystallinity of CdS and MoS2, strengthening the junction formed between CdS and MoS 2, which may increase the activity of MoS2/CdS.
+3-039	On the other hand, the surface area of MoS2/CdS is decreased with the increase of calcination temperatures, which may decrease the overall photocatalytic activities of MoS2 /CdS.
+3-040	3.3.
+3-041	Effect of Junctions Formed between CdS and MoS2 on the Photocatalytic Activity.
+3-042	From the HRTEM images of MoS2/CdS, the intimate junction formed between CdS and MoS2 is clearly observed (Figure 4).
+3-043	To investigate the role that junctions between MoS2 and CdS played on the photocatalytic activity of MoS2/CdS photocatalysts, a mechanical mixture of MoS2 and CdS was made.
+3-044	MoS2 powder was obtained by calcining (NH4)2MoS4 in H2S at different temperatures.
+3-045	The as- prepared MoS 2 powder was simply mixed with CdS at room temperature and used as catalyst in the photocatalytic reactions.
+3-046	For the sake of comparison, the CdS catalyst obtained by calcining commercial CdS at 573 K for 2 h was used for the mixed catalyst.
+3-047	As shown in table 1, CdS alone demonstrates only a little activity and MoS2 alone is nearly inactive for the production of H2.
+3-048	However, when MoS2 powder (0.01 g) prepared by calcining (NH4)2MoS4 at 573 K was employed in the mixture, the rate of H 2 evolution on the mixture of CdS and MoS2 was greatly enhanced compared with CdS alone (Table 1, entry 1).
+3-049	The activity of the mixed catalyst tends to decrease when a smaller amount of MoS2 was used.[29]
+3-050	If MoS2 was directly loaded on CdS by calcining the (NH4)2MoS4/CdS at 573 K, the resulting MoS 2 (0.0002 g)/CdS (0.1 g) catalyst (Table 1, entry 4) shows even higher activity than the mixture of CdS (0.1 g) and MoS2 (0.01 g), although a much lesser amount of MoS 2 was used.
+3-051	Therefore, the intimate junctions formed between CdS and MoS2 are crucial for the interelectron transfer between the two components.
+3-052	When MoS2 prepared by calcining (NH4)2MoS4 at 673 and 773 K was used in the mixtures, the rate of H2 evolution on the mixtures was further decreased compared with that on the mixture of CdS and MoS2 prepared at 573 K (Table 1, entries 2 and 3).
+3-053	Therefore, the catalytic efficiency of MoS2 is supposed to be decreased with the increase of the calcination temperature of MoS2 from 573 to 773 K.
+3-054	To investigate the role of junctions formed between CdS and MoS2 in detail, 0.2 wt % MoS2/CdS(HT) samples were prepared with the following procedure.
+3-055	CdS(HT) was first obtained by calcining commercial CdS at 773 K for 5 h in H 2S, and the as-obtained CdS(HT) was used as the substrate to prepare MoS2/CdS(HT).
+3-056	During the preparation of MoS2/CdS(HT) by calcining the (NH4)2MoS4/CdS(HT) precursor at temperatures from 423 to 773 K for 2 h, the surface area of MoS2/CdS(HT) and the crystallinity of CdS should not change very much.
+3-057	Thus, MoS2/CdS(HT) samples with almost the same surface area and crystallinity can be obtained.
+3-058	Figure 7 shows the rate of H2 evolution on these 0.2 wt % MoS2/CdS(HT) catalysts prepared at different temperatures.
+3-059	With the increase of the preparation temperature, the overall activities of 0.2 wt % MoS2/CdS(HT)
+3-060	Photocatalytic H 2 Evolution on MoS2/CdS Catalysts
+3-061	increase first and achieve the highest at a calcination temperature of 723 K. For the MoS 2/CdS catalyst, at least four factors, including the surface area of the catalyst, the crystallinity of CdS, the catalytic efficiency of MoS2, and the junctions formed between MoS2 and CdS, may influence the photocatalytic activity.
+3-062	Because the surface area and the crystallinity of CdS are almost the same as those of the MoS2/CdS(HT) catalyst, the catalytic efficiency of MoS 2 and the junctions formed between MoS2 and CdS are supposed to be the main factors affecting the activities of this catalyst.
+3-063	With the increase of the preparation temperature from 573 to 723 K, the catalytic efficiency of MoS2 is decreased (Table 1), whereas the activity of the MoS2/CdS(HT) catalyst is increased.
+3-064	Therefore, the strengthening of the junctions formed between MoS 2 and CdS, which leads to the more efficient electron transfer between the two components, is an important contribution to the enhanced activity of MoS2/CdS(HT) pretreated at higher temperatures.3.4.
+3-065	H2 Evolution Property of MoS2.
+3-066	In the photocatalytic H2 production reactions, the reduction of protons to H2 is a very important step.
+3-067	The H2 evolution property of MoS2 is supposed to be an important reason for the enhanced activity of MoS2/CdS.
+3-068	Therefore, photoelectrochemical measurements were con- ducted to investigate the role of MoS 2.
+3-069	Figure 8 shows the current-voltage curve of the bare FTO and MoS2/FTO elec- trodes.
+3-070	Cathodic current attributed to the reduction of water to H2 was observed for the bare FTO electrode with the increase of the applied potential, while the current is extremely low.
+3-071	However, there is a great increase in the cathodic current for the MoS2/FTO electrode at similar potentials.
+3-072	When the potential is set at -0.9 V versus SCE, the current observed on the MoS2/FTO electrode was about 39 times higher than that on the bare FTO electrode.
+3-073	Therefore, MoS2 was clearly demonstrated to be a good material that can catalyze the evolution of H2, which is deemed to be an important reason for the enhanced activity of the MoS 2/CdS catalyst.
+3-074	3.5.
+3-075	H2 Evolution on MoS2/CdS Catalyst in the Presence of Different Sacrificial Reagents.
+3-076	In the optimized conditions, the MoS2/CdS catalyst was demonstrated to be more active than Pt/CdS when using lactic acid as the sacrificial reagent in the photocatalytic H 2 production reactions.
+3-077	To compare the photo- catalytic activity of MoS 2/CdS with that of Pt/CdS in detail, different sacrificial reagents were used in the photocatalytic reactions.
+3-078	Figure 9 shows the rate of H2 evolution on 0.2 wt % MoS 2/CdS and 0.2 wt % Pt/CdS catalysts using methanol, ethanol, glycol, glycerol, and lactic acid as the sacrificial reagents.
+3-079	CdS alone exhibits extremely low activity for H2 evolution without loading cocatalysts in the presence of the tested sacrificial reagents (not shown).
+3-080	After loading 0.2 wt % of MoS 2 or Pt as cocatalyst on CdS, the activity of MoS2/CdS or Pt/CdS is greatly increased for all these sacrificial reagents.
+3-081	The rate of H2 evolution on 0.2 wt % MoS2/CdS for different sacrificial reagents is in the order of lactic acid > glycerol > glycol > ethanol > methanol.
+3-082	The rate of H2 evolution on 0.2 wt % MoS2/CdS is always higher than that on 0.2 wt % Pt/CdS in the presence of the above sacrificial reagents.
+3-083	Therefore, 0.2 wt % MoS2/CdS is demonstrated to be a superior catalyst than 0.2 wt % Pt/CdS for the production of H2, irrespective of the different sacrificial organic reagents used.
+3-084	Considering the fact that Pt has a higher H2 activation ability than MoS2 (Figure
+3-085	8),[35] the higher activity of MoS2/CdS than Pt/CdS for photo- catalytic H2 production is mainly due to the better junctions formed between MoS2 and CdS, which leads to a more efficient interelectron transfer between MoS2 and CdS.
+3-086	It is interesting to note that the rate of H2 evolution on MoS2/CdS catalysts varies greatly when using different sacrificial reagents, which is similar to the results obtained for the Pt/CdS catalyst.
+3-087	It was reported that CdS demonstrates diverse ability for the oxidation of different sacrificial reagents.[36]
+3-088	Considering the high catalytic efficiency of MoS2 and Pt for the activation of H2, the rate-determining step for the photocatalytic H2 production reactions on MoS2/CdS and Pt/CdS is supposed to
+3-089	be the oxidation of the organic reagents, which leads to the drastic difference between the reaction activity for different sacrificial reagents.
+4-001	The photocatalytic H2 production on CdS under visible light (λ > 420 nm) can be significantly enhanced by loading MoS2 as a cocatalyst using different organic sacrificial reagents.
+4-002	The optimized 0.2 wt % MoS2/CdS catalyst demonstrated even higher activity than the 0.2 wt % Pt/CdS catalyst, regardless of the different sacrificial reagents used.
+4-003	It is found that the excellent catalytic property of MoS2, together with the junctions formed between MoS2 and CdS, is mainly responsible for the greatly enhanced activity of MoS2/CdS in the photocatalytic H2 production.

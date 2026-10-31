@@ -1,0 +1,129 @@
+# document_id: jp2118949
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Electrochemical guest-ion storage in a host framework is an important fundamental issue in both science and technology.[1]
+1-003	Ion insertion/extraction accompanied by a solid-state redox reaction of the host framework can be applied to electro- chromic devices, ionic sensors, and electrode materials in rechargeable batteries.[2−4] Ion storage requires the host framework to possess redox-active sites for electron storage as well as porous space for ion storage.
+1-004	Furthermore, electronic conduction/ionic diffusion paths for mixed conductivity of ions and electrons are essential for ion insertion/extraction.
+1-005	To satisfy these many requisites, porous coordination polymers (PCPs) have a great advantage due to their versatility and designability.
+1-006	In particular, cyanide-bridged PCPs known as Prussian blue analogues (PBAs) are coordination polymers that have the ability to store the ions.[5]
+1-007	The electrochemical properties of PBAs have been intensively studied for decades.[5−11]
+1-008	PBAs have the perovskite-type structure A2MII [M′II(CN)6] (A: alkali metal; M and M′: transition metal).
+1-009	Thus, the electrochemical reaction of PBAs is ideally given by: 2A+ + 2e− + MIII[M′III(CN)6] ⇔ A2MII[M′II(CN)6].
+1-010	Realizing this ideal reaction would enable a high ion storage (2A+) to be attained.
+1-011	However, in practice, the conventional synthetic procedure pro vides PBAs with t he general formula Ax M- [M′(CN)6]1−y·□y·nH2O (0 < x < 2, y < 1), where □
+1-012	© 2012 American Chemical Society
+1-013	polymer
+1-014	defect)
+1-015	represents a [M′(CN)6] vacancy occupied with coordinating and zeolitic water.[12,13]
+1-016	The presence of vacancies is less efficient for ion storage.
+1-017	For example, the precipitation obtained in an aqueous solution by mixing Mn 2+ and K3[Fe3+(CN)6] produces K 0.1Mn2+[Fe3+(CN) 6]0.7·□0.3·4.2H2 O (MnFe-PBA),[8] which undergoes the following ion storage reaction
+1-018	0.8A+ + 0.8e− + Mn2.1+[Fe 3+(CN) ]60.7 ·□0.3·4.2H O2
+1-019	⇔ A 0.8Mn2+[Fe 2+(CN) ]60.7 ·□0.3·4.2H O2
+1-020	This ion storage is too low for practical applications.
+1-021	In the application to electrode materials for Li-ion batteries (A = Li), the MnFe-PBA exhibited a charge/discharge capacity of 60 mAh/g, which is much lower than those of conventional electrode materials.[14,15]
+1-022	In contrast, the theoretical capacity for vacancy-free MIII [M′III (CN)6] is calculated to be 202 mAh/g (M, M′ = Mn).
+1-023	It is thus important to fabricate a PBA framework with the suppressed amount of vacancies.
+1-024	Here, we focus on K 2MnII[Mn II(CN)6].
+1-025	This material has been studied from the viewpoint of magnetism[16−18] and contains only less than 0.3 wt % of H, which implies that it has extremely few vacancies and very little zeolitic water.
+1-026	Thus, if
+1-027	Received: December 10, 2011
+1-028	Revised: March 23, 2012
+1-029	Published: April 9, 2012
+1-030	The Journal of Physical Chemistry C
+1-031	the K+ ions are completely removed, a vacancy-free PBA framework MnIII[Mn III(CN)6] can be fabricated.
+1-032	In this report, electrochemical K-ion extraction from K2Mn[Mn(CN)6 ] was investigated with the aim of fabricating MIII [M′III(CN)6].
+1-033	We also report the Li-ion insertion/extraction properties of the host framework for an electrode material in Li-ion batteries.
+2-001	■
+2-002	K2Mn[Mn(CN)6 ] was synthesized by a precipitation method.
+2-003	An aqueous solution of MnCl2·4H2O (0.25 M) was added to an aqueous solution of KCN (1.28 M) under a N2 atmosphere.
+2-004	The precipitate was centrifuged, washed twice with 40 mL of distilled H2 O, and then dried in vacuum for 24 h.
+2-005	The composition was determined by the standard microanalytical method for C, H, and N elements and by inductively coupled plasma mass spectroscopy (ICP-MS) for K, Mn, and Fe elements.
+2-006	Scanning electron microscopy (SEM) (Carl Zeiss Gemini Supra) and transmission electron microscopy (TEM) (Hitachi H-7100FA) were used to estimate the particle size.
+2-007	Each sample (50 mg, 75 wt %) was ground with acetylene black (13.3 mg, 20 wt %) and polytetrafluoroethylene (PTFE) (3.3 mg, 5 wt %) into a paste for electrochemical experiments.
+2-008	Lithium metal was used for the reference and counter electrodes.
+2-009	For the electrolyte, a 1 M LiClO4 ethylene carbonate/diethyl carbonate solution (1:1 v/v %) was used.
+2-010	The cutoff voltages were 4.3 V for charging (K- and Li-ion extraction) and 2.0 V for discharging (Li-ion insertion).
+2-011	The open circuit voltage (OCV) was recorded by a galvanostatic intermittent titration technique (GITT)[19] where we alternately repeated the slow charge/discharge at 18 mA/g for 10 min and then interruption for 60 min.
+2-012	All measurements were performed at 298 K.
+2-013	The powder X-ray diffraction (XRD) experiments were carried out at BL19B2, SPring-8.[20−23] The wavelength of the X-ray was set to λ = 0.5010 Å.
+2-014	Ex situ XRD measurements were performed using a Bruker D8 Advance with Cu Kα radiation in steps of 0.01° over a 2θ range of 10−80°.
+2-015	The RIETAN-FP was used for the Rietveld refinement.[24]
+2-016	The unit cell parameters were calculated by least-squares fitting.
+2-017	Each sample was washed with ethanol before ex situ XRD measurements.
+2-018	For X-ray photoemission spectroscopy (XPS) experiments, a JEOL JPS9200 analyzer with an Al Kα X-ray source (hν = 1486.6 eV) was employed.
+2-019	The total energy resolution was 0.6 eV.
+2-020	After complete K-ion extraction, the sample surface was washed with ethanol to remove the electrolyte and dried in a vacuum for 24 h before the measurement.
+2-021	A JASCO FT/IR-6200 spectrometer was used for ex situ Fourier transform infrared (FT-IR) spectroscopy.
+2-022	To dilute the samples on the transparent-mode FT-IR, the sample of 0.05 mg was mixed into KBr powder of 150 mg, and the mixed powder was pelletized for 10 min.
+3-001	■
+3-002	K2Mn[Mn(CN)6 ] was synthesized by the precipitation method described in refs 16−18.
+3-003	Although the hydrogen content was measured to be 0.28 wt %, which is similar to that (0.2 wt %) reported by Her et al.,[18] the precise composition was determined to be K1.72Mn[Mn(CN) 6]0.93·□0.07·0.65H 2O (□: a [Mn(CN)6]4− vacancy) by the elemental analyses (standard microanalysis and ICP-MS; anal. calcd for K 1.72Mn[Mn- (CN)6]0.93·□0.07·0.65H2O: K 20.38, M n 32.20, C 20.30, N 23.68, H 0.39; found: K 20.4, M n 32.1, C 19.82, N 22.41, H
+3-004	Article
+3-005	0.28), which suggests the presence of a small amount of [Mn(CN) 6]4− vacancy (7%) in contrast with earlier re- ports.[16−18] However, the amount of vacancies and zeolitic water was remarkably suppressed compared to typical PBAs (e.g., MnFe-PBA contains 30% vacancies).[8]
+3-006	The crystal structure was successfully refined with the space group of P21 /n (see Table S1 in the Supporting Information), which is almost consistent with the crystal structure of K2Mn[Mn(CN)6] reported in the literature.[18]
+3-007	Slight differences in the refinement, e.g., the presence of the small amount of [Mn(CN) 6]4− vacancy, may be attributed to the differences in the synthetic procedure.
+3-008	Most likely, the addition rate of the Mn solution to the KCN solution was slightly faster than that in the previous procedure, resulting in the rapid precipitation of the PBA with a small amount of the vacancy.
+3-009	Figure 1b illustrates the crystal structure of K 1.72Mn[Mn- (CN)6 ]0.93·□0.07·0.65H2 O, in which both the three-dimensional cyanide-bridged framework and the three-dimensional porous channel exist.
+3-010	Both SEM (Figure 1c) and TEM (Figure S1,
+3-011	Supporting Information) images indicated that the average particle size is about 1 μm.
+3-012	To fabricate a vacancy-suppressed PBA framework, K-ions were extracted electrochemically from the compound.
+3-013	Since it is important to completely extract all K-ions, we performed electrochemical K-ion extraction by repeatedly applying a low- density current (18 mA/g) for 10 min, with a 60 min interruption to allow the K-ion concentration in the PBA particle to equilibrate (GITT).[19]
+3-014	Figure 2a shows typical time
+3-015	dependence of the electric current and cell voltage during the GITT.
+3-016	During the interruption, the electrochemical cell voltage showed a relaxation behavior to the equilibrium state.
+3-017	Figure 2b shows OCVs as a function of x in Kx Mn[Mn- (CN)6]0.93·□0.07·0.65H2O. The solid line in Figure 2b indicates the voltage change when an electric current is applied.
+3-018	The amount of extracted K-ions was calculated based on the Faraday's law.
+3-019	The OCV profile (open squares in Figure 2b) during K-ion extraction exhibited two potential plateaus.
+3-020	While K-ion extraction occurs at 3.0 V for 1.72 > x > 1.0, the voltage is raised to 3.7 V for 1.0 > x > 0.
+3-021	During K-ion extraction, K-ions should diffuse the porous network in the perovskite-type PBA
+3-022	structure, while the electrons may move by thermally activated hopping as polarons.
+3-023	The total amount of extracted K-ions calculated by the Faraday law suggests that all the K-ions were successfully extracted.
+3-024	To confirm complete K-ion extraction, K 2s core-level XPS spectra were recorded (Figure 2c).
+3-025	Prior to K-ion extraction, the peak of the K 2s core level was clearly observed at 337 eV.
+3-026	However, after electrochemical K-ion extraction, the K 2s peak completely disappeared.
+3-027	This result shows complete K-ion extraction from the host within the error bars due to XPS measurements (probably a few %).
+3-028	The XPS spectra also indicate that insoluble KClO 4 did not form at the electrode/electrolyte interface.
+3-029	Since KClO 4 at the interface could act as an insulating layer to deteriorate the electrode performance, it is important to confirm the nonexistence of interfacial KClO4 .
+3-030	Thus, Mn[Mn(CN) 6]0.93·□0.07·0.65H2O was successfully fab- ricated by K-ion extraction.
+3-031	As shown in Figure 2b, the OCV change during K-ion extraction exhibits specific potential plateaus at 3.0 and 3.7 V. To clarify the structural changes that occur during K-ion extraction, ex situ XRD experiments were performed as shown in Figure 3a.
+3-032	When K-ion extraction starts, new peaks indexed to a cubic phase appear in addition to the initial monoclinic phase.
+3-033	On extracting the K-ion (1.72 > x > 1.0), the intensities of the cubic phase peaks increase, while those of the initial monoclinic phase decrease.
+3-034	This result clearly suggests that K-ion extraction for 1.72 > x > 1.0 proceeds via a two-phase process.
+3-035	For 1.0 > x, the peaks for the initial monoclinic phase
+3-036	disappear, and only the cubic phase peaks were observed, indicating that K-ion extraction at 3.7 V vs Li/Li+ proceeds via a solid-solution process.
+3-037	As mentioned above, the two potential plateaus have different K-ion extraction mechanisms.
+3-038	To investigate the mechanism, especially the redox-active site, we performed the ex situ IR spectroscopy (Figure S2, Supporting Information) because the CN-stretching frequency νCN can determine the valence state of the C-coordinating metal site.[16]
+3-039	The IR spectrum for x = 1.72 has a single νCN peak at 2057 cm−1, which corresponds to the valence state of Mn2+−CN−Mn.[18]
+3-040	This peak is not affected by K-ion extraction at 3.0 V; thus, the N-coordinating Mn (MnN) rather than the C-coordinating Mn (Mn C) is redox active at 3.0 V. However, a new peak becomes visible at 2144 cm−1 when K ions are extracted at 3.7 V. With progression of K-ion extraction, the intensity of the peak at 2057 cm−1 decreases, while that of the new peak increases.
+3-041	Furthermore, the initial peak of Mn2+−CN−Mn is not visible after K-ion extraction has completed.
+3-042	As reported in previous studies, the new peaks should be ascribed to the valence state of Mn3+−CN−Mn.[17,25]
+3-043	Therefore, MnC is redox active during K-ion extraction at 3.7 V, and it is almost fully oxidized to Mn3+ after the K-ion extraction.
+3-044	Finally, we address the application of the host framework to the electrode materials for Li-ion batteries.
+3-045	If the host framework has Li-ion storage ability, it can be directly used as the electrode material of Li-ion batteries.
+3-046	Therefore, we performed electrochemical Li-ion insertion/extraction experi- ments for Mn[Mn(CN)6]0.93·□0.07·0.65H2O.
+3-047	To confirm reversible Li-ion insertion/extraction from a structural viewpoint, we used ex situ XRD to investigate the structural change that occurs during the first discharge/charge cycle (see Supporting Information).
+3-048	Figure S3a shows the XRD patterns, and Figure S3b (Supporting Information) shows the
+3-049	change in the unit cell parameters.
+3-050	The results indicate that the phase diagram during Li-ion insertion/extraction is quite similar to that during K-ion extraction: the solid solution process of the cubic phase exists in the low ion concentration region, and the two-phase process between the cubic and monoclinic phases exists in the high ion concentration region (Scheme 1).
+3-051	aThe upper figures show crystal structures for x = 1.72, 1.0, and 0.
+3-052	In the middle, schematics of structural changes for a particle are displayed.
+3-053	In the lower part, the redox reactions for the Mn−CN−Mn framework are shown.
+3-054	Compared to the cubic phase with a low ion concentration, the unit cell volume for the monoclinic phase shrinks by 17%.
+3-055	This is a much larger volume change than that for conventional electrode materials such as LiFePO 4 (6%).[15]
+3-056	This large volume change induces strong mechanical strain at the two-phase boundary, producing cracks or causing the electrodes to
+3-057	The Journal of Physical Chemistry C Article
+3-058	decompose.
+3-059	As shown in Figure S3a (Supporting Information), several small impurity peaks (e.g., the peaks around 2θ = 20°) were observed after the charge/discharge cycle.
+3-060	This possible generation of impurities may be one of the causes for the poor cyclability (Figure 4b).
+3-061	Furthermore, we also performed ex situ IR measurements (Figure S4, Supporting Information) to investigate the electronic structure.
+3-062	The IR results could indicate that the electronic structure change during Li-ion insertion was almost equivalent to that during K-ion extraction: the 3.7 and 3.0 V plateaus could correspond to the redox reactions on Mn C and Mn N, respectively.
+3-063	On the other hand, for x > 0.6, a new peak was observed at 2106 cm−1, which is near νCN = 2112 cm−1 for K 3[Mn3+(CN)6].[28]
+3-064	This result indicated that the bridging Mn−CN−Mn bond would be broken during the charge/discharge processes to form nonbridging CN (Mn3+−CN).
+3-065	Breaking the bridging CN bond, apparently due to the large mechanical strain during the phase transformation, may be another possible cause for the poor cyclability.
+3-066	Therefore, to improve the cyclability of the vacancy-suppressed PBA, the large lattice expansion/shrinkage during the charge/discharge processes should be suppressed, for example, by the heteromeal substitution.
+4-001	The enhanced ion storage ability of a cyanide-bridged coordination polymer electrode has been demonstrated.
+4-002	The vacancy-suppressed PBA framework showed the complete K-ion extraction accompanied by the oxidation of both MnC and Mn N. This two-electron redox behavior is distinctly different from that of conventional PBAs.
+4-003	We also studied the cathode performance of the vacancy-suppressed PBA for Li-ion batteries and found that the charge/discharge capacity reached 197 mAh/g.
+4-004	Since the average charge/discharge potential is estimated to be 3.15 V, the energy density per cathode weight (vs Li/Li+) is calculated as 620 Wh/kg.
+4-005	These values are considerably higher than those of typical PBAs (e.g., 60 mAh/g and 200 Wh/kg for LixMnFe-PBA),[8] and they are comparable to those of conventional transition-metal-oxide cathodes such as LiMn 2O4 (120 mAh/g, 480 Wh/kg)[29] and LiCoO2 (137 mAh/g, 550 Wh/kg)[14] and those of LiFePO4 (170 mAh/g, 600 Wh/kg).[15]
+4-006	Although the appearance of nonbridging CN during the charge/discharge process and resulting poor cyclability of the vacancy-suppressed PBA were serious problems for practical applications, the enhanced ion storage ability of the cyanide-bridged coordination polymer should open new perspectives in the possible material designs and applications of PCPs.

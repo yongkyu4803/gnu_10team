@@ -1,0 +1,104 @@
+# document_id: jp1050047
+# extractor: kordoc-markdown-adapter-1
+1-001	Modern electronic devices such as cell phones, laptop computers, and electric vehicles require high-performance batteries to power them.[1]
+1-002	Li-ion battery is one of the most suitable candidates to satisfy the requirements because of its high energy density, high voltage, and light weight.[2]
+1-003	Within the battery, electrode materials are a determining factor for the battery performance.
+1-004	Although graphite performs well as anode for commercial Li-ion batteries, its theoretical capacity (372 mAh/g) is insufficient to satisfy the increasing demand for batteries with higher capacity.
+1-005	Thus, exploring novel anode materials for Li-ion batteries is of key importance.
+1-006	Many materials including metal oxide, metal sulfide, and nonmetal with large specific capacity have been studied to replace graphite.[1,3,4]
+1-007	Among these materials, tin dioxide (SnO 2)[5-7] has attracted much attention because of its high theoretica1 capacity (782 mAh/g),[8] low cost, and no toxicity.
+1-008	However, the major drawback affecting the practical applications of SnO2 is its poor cycling performance caused by volume expansion during the charge-discharge process.[9,10]
+1-009	In order to tackle this problem, various methods have been tested.[11-15] Results have shown that the cycle performance can be improved via compounding of carbon and SnO2.[16-18] However, these methods are usually very complex; a facile and efficient method is needed to synthesis SnO2/carbon composites.
+1-010	Graphene, as the basic plane of graphite, because of its excellent conductivity and high specific surface area, is expected to have a wide range of applications.[19]
+1-011	Composites based on graphene have shown improved mechanical strength, electronic conductivity, and electrochemical properties.[20]
+1-012	Recently, it has been reported that SnO2/graphene-nanosheets composites showed greatly enhanced cycle performance compared to bare SnO2 nanoparticles.[21-23] However, the SnO2/graphene-nanosheets composites processes were complicated, involving a multi-step approach or the use of additional chemicals such as urea or NaBH4.
+1-013	By considering the strong reductive capability of Sn2+, we herein designed a simple method by combining GO reduction and Sn2+ oxidation in one step by using just GO and SnCl2 as reagents to yield SnO2-nanocrystal/graphene-nanosheets com- posites.
+1-014	The electrochemical experiments showed that the cycle
+1-015	performance of composites was greatly enhanced and might pave a way to commercialize the composites electrode because of the simplicity.
+2-001	2.1.
+2-002	Preparation of samples.
+2-003	GO was obtained by the Hummer method,[24,25] followed by ultrasonication in water.
+2-004	SnO2-nanocrystal/graphene-nanosheets were prepared by chemi- cal reduction of 100 mL GO (0.2 g/L, aqueous solution) with SnCl2 · 2H 2O. The amount of SnCl2 ·2H2O was varied (300, 600, and 1200 mg in order to control the ratio of graphene and SnO2.) The mixture was stirred for 24 h at room temperature, leading to a black suspension solution.
+2-005	The products were obtained by centrifugation, washed with distilled water, and dried at 100 °C. The samples were notated as SnO2/G-0.3, SnO2/G-0.6, and SnO 2/G-1.2, respectively.
+2-006	2.2.
+2-007	Characterization.
+2-008	The powder X-ray diffraction (XRD) measurements of the samples were recorded on a Bruker D8-Advance X-ray powder diffractometer by using a graphite monochromator with Cu KR radiation (λ ) 1.5406 Å).
+2-009	The data were collected between scattering angles (2θ) of 5-80° at a scanning rate of 8°/min.
+2-010	Fourier-transform IR (FT-IR) spectra were carried out through a Perkin-Elmer spectrophotometer operating in the infrared domain 400-4000 cm-1 by a KBr matrix.
+2-011	TEM specimens were prepared by drop-casting the as- prepared sample dispersions onto carbon-coated TEM grids and dried in air.
+2-012	A JEOL JEM 2010 transition electronic microscopy was used for TEM analysis and HRTEM analysis.
+2-013	The XPS data were taken on an AXIS Ultra instrument from Kratos Analytical in the range of 0-1100 eV.
+2-014	Thermogravimetric analysis (TGA) was conducted on a TGAQ5000 IR instrument (TA Instruments Co., USA) from 100 to 800 °C at a speed of 10 °C/min under air.
+2-015	2.3.
+2-016	Electrochemical Performance.
+2-017	To evaluate electro- chemical performance, composite electrodes were constructed by mixing the active materials, conductive carbon black, and polyvinylidene fluoride (PVDF), in the weight ratio 80:15:5.
+2-018	The mixture was prepared as slurry in N-methyl pyrrolidinone and spread onto copper foil by using the doctor-blade technique.
+2-019	The electrode was dried under vacuum at 120 °C for 8 h.
+2-020	The cells were assembled inside an argon-filled glovebox by using a lithium-metal foil as the counter electrode and the reference
+2-021	* E-mail: jhli@mail.tsinghua.edu.cn.
+2-022	10.1021/jp1050047  2010 American Chemical Society
+2-023	Published on Web 11/11/2010
+2-024	Preparation of SnO2-Nanocrystal/Graphene-Nanosheets Composites
+2-025	electrode and microporous polypropylene as the separator.
+2-026	The electrolyte used was 1 M LiPF6 in a 1:1 weight ratio ethylene carbonate (EC):dimethyl carbonate (DMC) solvent.
+2-027	Assembled cells were allowed to soak overnight, and then, we began electrochemical testing on a Land battery testing unit (Wuhan, China).
+2-028	Galvanostatic charge and discharge of the assembled cells were performed at the current density of 200 mA/g between voltage limits of 0.01 and 1.5 V (versus Li) at room temperature.
+3-001	XRD data of the products are shown in Figure 1.
+3-002	The peak at 10.4° in curve a is characteristic for GO with an interlayer spacing of 0.85 nm, resulting to facile exfoliation because of weakened the van der Waals forces between layers of GO.[26]
+3-003	The four dominant broadened peaks (110), (101), (211), and (301) (as shown in curves b, c, and d) are attributed to the SnO2 phase (JCPDS No. 41-1445), indicating the formation of tetragonal SnO2 nanocrystals.
+3-004	These diffraction peaks are considerably broadened, suggesting a small particle size of SnO2.
+3-005	The mean crystallite sizes for SnO2/G-0.3, SnO2 /G-0.6, and SnO2/G-1.2 are 8.4, 7.8, and 8.4 nm, respectively, according to the Scherer equation, which is consistent with the broadened peaks.
+3-006	Transmission electronic microscopy (TEM) observation of GO shows a typical exfoliated nanostructure (Figure S1 in the Supporting Information).
+3-007	The TEM images of SnO2/G-0.3 (Figure 2a) clearly illustrate that SnO2 nanocrystals are distrib- uted on the surface of the graphene nanosheets and that the diameters of the SnO2 grains are less than 10 nm (Figure 2b), which is consistent with calculations from XRD.
+3-008	The lattice fringe spacing d (110) is 0.34 nm, in good agreement with the predicted value by Bragg’s equation (0.337 nm).
+3-009	The selected area electron diffraction (SAED) pattern (inset of Figure 2a) shows four sharp diffraction rings corresponding to the (110), (101), (211), and (301) crystalline planes of the cassiterite SnO2, confirming the formation of polycrystalline SnO2 nanocrystal.
+3-010	The graphene nanosheets for SnO2/G-0.6 and SnO2/G-1.2become smaller compared with that of SnO2/G-0.3 with increase of the Sn2+/GO ratio.
+3-011	For SnO2/G-0.3, the SnO2 was distributed sporadically on the surface of graphene nanosheets, shown in Figure 3a.
+3-012	And more SnO2 nanocrystals are observed on graphene nanosheets with an increased Sn2+/GO ratio (Figure 3b,c).
+3-013	It can be seen that the morphology evolution of SnO 2/graphene-nanosheets composite is related to the Sn2+/GO ratio.
+3-014	FTIR spectrum of GO (Figure 3d) shows the O-H deforma- tion peak at 1401 cm-1, a weak band at 1735 cm-1 assigned to
+3-015	COOH, 1220 cm-1 assigned to C-OH stretching, 1052 cm-1 due to C-O stretching vibrations, and 827 cm-1 (weak) due to (OsCdO).
+3-016	The spectrum also depicts a peak at 1620 cm-1 which corresponds to the remaining sp[2] character.[27,28]
+3-017	The introduction of Sn 2+ ion eliminated most of oxygen-containing groups such as COOH peaks (1735 cm-1), C-O stretching vibrations (1052 cm-1), O-H deformation peak (1401 cm-1), and OsCdO peak (827 cm-1).
+3-018	A strong peak at 606 cm-1 was assigned to Sn-O. The IR results confirmed the reduction of GO to graphene and the Sn 2+ oxidiation to SnO2 nanocrystal, which indicated the formation of composites of graphene/SnO2.
+3-019	Raman spectroscopy is a powerful tool to characterize carbonaceous materials.
+3-020	As seen from Figure 4, the Raman spectrum of GO contains both G band (1591.3 cm-1, E2g phonon of C sp[2] atoms) and D bands (1365.6 cm-1, κ-point phonons of A1g symmetry).[29]
+3-021	The Raman spectra of the SnO2-nanocrystal/graphene-nanosheets composites also contain both G and D bands.
+3-022	The D/G intensity ratios of these three samples (1.13, 1.25, and 1.34 for SnO2/G-0.3, SnO2/G-0.6, and SnO2 /G-1.2, respectively) were larger than that of GO, and they increased with the increase of the Sn2+/GO ratio.
+3-023	This suggests a decrease in the average size of the sp[2] domains upon reduction of the exfoliated GO,[30] and it is consistent with the results observed from the TEM images.
+3-024	X-ray photoelectron spectroscopy (XPS) was employed to analyze graphene oxide and as-prepared composites.
+3-025	Figure S2 in the Supporting Information shows the XPS spectra of GO and SnO2/G-0.3 nanocomposites.
+3-026	The peaks of tin (Sn 3p, 3d, 4s, 4p, 4d) in the SnO2/G-0.3 composite spectra can be observed, which are attributed to SnO2.[23]
+3-027	Compared to O 1s spectrum of GO, one obvious peak shift to 531.4 eV was observed; it is due to the existence of O2- species in the SnO2/G-0.3 compos- ites.
+3-028	The Sn 3d 5/2(487.3 eV) and Sn 3d3/2 (495.8 eV, Figure 6) further confirmed the formation of SnO 2.[31]
+3-029	The peak of C 1s is 21772 J. Phys.
+3-030	Chem.
+3-031	C, Vol. 114, No. 49, 2010
+3-032	attributed to graphene sheets.
+3-033	In comparison to the C 1s spectrum of the GO, that of SnO2/G-0.3 sample showed sharply decreased intensity for peak(s) corresponding to the epoxy/ether group (286.9 eV, Figure 5), supporting that these oxygen- containing groups have been removed by Sn2+ ion.
+3-034	This proved that the Sn 2+ ions lead to the deoxygenation process, and this trend is the same for SnO2/G-0.6 and SnO 2/G-1.2.
+3-035	In order to quantify the mass percentage of SnO2, the as-prepared composites were analyzed by TGA.
+3-036	As shown in the TGA curves (Figure 6), SnO2 mass percent is about 63, 68, and 74% for SnO2/G-0.3, SnO2/G-0.6, and SnO2/G-1.2, respec- tively.
+3-037	The SnO2 mass fraction did not increase as quickly as the increase of Sn2+/GO ratio, suggesting the partial loss of SnCl2 during the reaction.
+3-038	To evaluate their abilities in Li storage, the samples were used as the anodes for Li-ion battery.
+3-039	The charge/discharge profiles of SnO2/graphene-nanosheets electrode at a current
+3-040	Preparation of SnO2-Nanocrystal/Graphene-Nanosheets Composites
+3-041	density of 200 mA/g and a voltage cutoff of 1.5/0.01 V versus Li/Li + are shown in Figure 7.
+3-042	All these three samples have a large and irreversible capacity, and the reversible capacities of the SnO2/graphene composites are 541.3, 402.7, and 222.4 mAh/g, respectively.
+3-043	The irreversible initial capacity loss is due to the formation of amorphous Li2O matrix and intense surface reactions with the Li-Sn compounds and the electrolyte solution.[32,33]
+3-044	After 35 cycles, the capacity of SnO2/G-0.3 remained at 377.3 mAh/g, which was about 69.7% retention of
+3-045	the reversible capacity, and SnO2/G-0.6 and SnO2/G-1.2 exhib- ited about 34.2 and 33.6% retention of the reversible capacity, respectively.
+3-046	The good retention of the reversible capacity for SnO2/G-0.3 demonstrated the excellent charge-discharge per- formance for a large current density.
+3-047	The difference among these three samples demonstrated that the cycle performance was related to the different compositions and different morphologies of the samples.
+3-048	It is well known that the main reason for a rapid fading of SnO2 electrode is that a large volume expansion of the SnO2 occurs during the charge-discharge cycle, leading to the pulverization of the electrode.[32]
+3-049	The bare SnO2 nanoparticles have a poor cycle performance;[21,22] the improved performance observed in our experiments should be attributed to the combination of SnO2 and graphene nanosheets.
+3-050	Graphene nanosheets themselves could store Li and act as electronic conductor.
+3-051	Furthermore, the graphene nanosheets in the com- posites can limit the volume expansion upon lithium insertion.
+3-052	As shown in TEM images, there is less SnO2 nanocrystals on the surface of graphene nanosheets with larger sizes (SnO 2/G-0.3) than on the surface of graphene nanaosheets with smaller sizes (SnO2/G-0.6 and SnO2/G-1.2), where the volume expansion of less SnO2 can be easily confined by the larger graphene nanosheets.
+3-053	On the other hand, the graphene nanosheets with large sizes can help to build a better conductive network which is favorable for electron transportation.
+4-001	In conclusion, a facile method to synthesize SnO2-nanocrystal/graphene-nanosheets composites was developed.
+4-002	The synthesis strategy is based on the reduction of GO with Sn2+ ion that combines tin oxidation and GO reduction in one step, which provides a simple, low-cost, and effective way to prepare SnO2/graphene-nanocomposites because no additional chemicals were needed.
+4-003	It is found that changing the ratio of Sn2+ and GO could lead to changes of the morphology.
+4-004	The electrochemical experiments show that a larger graphene sheet size and suitable SnO2 dispersion provide a better Li-storage performance.
+4-005	When considering the plentiful properties for both SnO2 and graphene, the composites might have potential applications in biosensor, gas sensor, and electrochemical analysis in the future.
+4-006	Further- more, the methodology described in this report may provide a simple, economic, and effective strategy for the preparation of other graphene/metal-oxide composites.

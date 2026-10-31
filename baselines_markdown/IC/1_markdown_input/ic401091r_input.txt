@@ -1,0 +1,307 @@
+# document_id: ic401091r
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Supramolecular chirogenesis is one of the most important interdisciplinary fields to be looked into, because of its occurrences in many natural (DNA double helix, heme proteins, secondary α-helix structure of proteins, etc.) and artificial systems.[1]
+1-003	Therefore, it is very important to have clear insight into the various factors that control the processes of chirality transfer, which will help in developing more advanced knowledge about the subject that will promote not only the understanding of the fundamental science but also its applicability in different areas of science.
+1-004	Porphyrinoids have been shown to be well suited for studying the events involved in the supramolecular chirality induction mainly due to their
+1-005	© 2013 American Chemical Society
+1-006	interesting photophysical properties and possibility of versatile modification of the porphyrin at their periphery or by metalations of the porphyrin core.[1−16] As noncovalent interactions are the key elements of supramolecular chemistry, various external (such as temperature, polarity and viscosity of the solvent) and internal (such as bond strength, stoichiometry, steric and conformational freedom of the complex) factors that control the chirality induction process would need extensive investigations.
+1-007	Upon formation of a chiral host−guest supra- molecular complex between an achiral bis-metalloporphyrin
+1-008	Received: May 2, 2013
+1-009	Published: November 25, 2013
+1-010	Inorganic Chemistry Article
+1-011	derivative and a chiral guest, a bisignate CD curve (so-called exciton couplet) is observed, with two bands of opposite sign and similar intensity in the porphyrin spectral region, which is diagnostic of the guest’s absolute configuration.[2]
+1-012	However, in the case of chiral assemblies consisting of more than one porphyrin, the dynamic nature of noncovalent assemblies and the complex electronic structure of the pigments as a consequence of its several possible orientations are the two major factors that make such a study difficult.[2]
+1-013	Studies on the supramolecular chirality induction in Zn(II) bisporphyrins upon coordination with chiral guest ligands are amply documented.[1−13] Upon formation of a 1:1 host−guest sandwich complex through the ditopic binding of the bidentate chiral guest to the porphyrin metal centers, chirality is transferred from the chiral guest to the host due to the generation of a preferential chiral twist in the porphyrin− porphyrin arrangement, producing an exciton-coupled CD response.[2]
+1-014	The sign of the Soret CD couplet is dictated by the direction of interporphyrin helical twist, while its intensity depends on several other factors.
+1-015	Bis(zinc octaethylporphyrin) serves as an effective achiral host molecule to form a chiral 1:1 sandwich complex upon interaction with an enantiopure bidentate guest, (1R,2R)-cyclohexane diamine, which has shown a very high amplitude bisignate CD signal (−590 M−1 cm −1).[3a] The X-ray structure and the spectroscopic data of the complex have been utilized to rationalize the observed sign and amplitude of the CD signal.[3a] There are, however, many 1:1 host−guest complexes reported in the literature in which CD amplitudes are much less[2,3] and also the sign of the “predicted” CD signal is opposite the experimental observations.[7b,e] Thus a comprehensive under- standing of the underpinning mechanisms and various influencing factors responsible for the supramolecular chirality induction phenomena would be extremely important.
+1-016	We report here the synthesis, structure, and spectroscopic proper- ties of a series of supramolecular chiral tweezer−diamine complexes consisting of an achiral diphenyl ether-bridged Zn(II) bisporphyrin host and variety of chiral diamine guests, which, however, provide very rare examples of explicit crystallographic characterization of the chiral host−guest complexes.
+1-017	The bulk of the substituent at the stereogenic center has been varied successively in the present investigation in order to specify the role played by the preorganization of the guest binding sites as well as the steric differentiation at the chiral center in the overall helicity of the complexed porphyrin tweezers.
+1-018	This also provides a unique opportunity to observe the transitions where the steric differentiation at the stereogenic center dominates over the preorganized projection of the guest binding sites and vice versa.
+1-019	Crystallographic and other spectroscopic investigation of the complexes enable us to rationalize the origin of the optical activity unambiguously in the supramolecular host−guest complexes at the molecular level.
+1-020	The present investigation will also allow comparing and correlating the chirality induction process with the nature of the supramolecular host for absolute stereochemical determination.
+1-021	These systematic studies will help in designing efficient chirality sensor for numerous classes of chiral molecules and will create clear perspective for the building of smart chiroptical devices.
+1-022	We have recently reported briefly the X-ray structure and properties of two such complexes as a preliminary communi- cation.[4]
+2-001	■
+2-002	Diphenyl ether-bridged Zn(II) bisporphyrin, Zn2DPO, is prepared using the procedure reported previously.[17]
+2-003	Interaction of the chiral diamine ligands with Zn2DPO has been monitored by UV−visible spectroscopy.
+2-004	Addition of enantiomerically pure (R)-diaminopropane, (R)-DAP, to the chloroform solution of Zn2DPO at room temperature results in a large red shift of the Soret (393 to 412 nm) and Q-bands (536 to 547 nm, 571 to 581 nm) due to the formation of the 1:1 sandwich complex Zn2DPO·DAP in solution.
+2-005	The spectral pattern does not change any more even at a very high concentration of (R)-DAP, which suggests the complex is very stable in the 1:1 sandwich form.
+2-006	Figure 1 demonstrates the spectral changes of
+2-007	Zn2DPO in chloroform upon gradual addition of (R)-DAP, which eventually produces the tweezer−diamine complex Zn2DPO·DAP in solution.
+2-008	The Soret band at 412 nm and shoulder at 426 nm arise because of exciton interactions of high-energy (in-phase) and low-energy (out-of-phase) tran- sition dipole moments, respectively,[2b] of the two cofacial porphyrin units, which is in line with Kasha’s exciton coupling theory.[18]
+2-009	Similar spectral changes are also observed when enantiomeri- cally pure (1S,2S)-diaminocyclohexane, (1S,2S)-CHDA, (S)-phenylpropane diamine, (S)-PPDA, (S)-phenyl ethylenedi- amine, (S)-PEDA, and (1R,2R)-diphenylethylene diamine, (1R,2R)-DPEA, are used as guest molecules to form Zn 2 DPO·CHDA, Zn2 DPO·PPDA, Zn2 DPO·PEDA, and Zn2DPO·DPEA, respectively.
+2-010	All the complexes have been isolated as crystalline solid in good yields and structurally characterized.
+2-011	However, there is no evidence of formation of 1:2 host−guest complexes even at very high concentration of ligand.[3,4]
+2-012	Scheme 1 shows the synthetic outline of all the complexes reported here along with their abbreviations used in the present investigation, while the synthetic procedures and their spectral characterizations are given in the Experimental Section.
+2-013	Job’s continuous variation plot is very helpful in determining the stoichiometry of the complex formation in solution.
+2-014	Figures S1 demonstrates the plot for all five complexes Zn2 DPO·DAP, Zn 2 DPO·CHDA, Zn2 DPO·PPDA, Zn2 DPO·PEDA, and Zn2DPO·DPEA, which shows that the complexes are optimally formed at equimolar concentration of the Zn(II) bisporphyrin host and chiral diamine guest (i.e., 0.5 mol fraction) and thus confirming the formation of a 1:1 sandwich complex.
+2-015	Crystallographic Characterization.
+2-016	Dark purple crystals of Zn2DPO·DAP were grown via slow diffusion of n-hexane into dichloromethane solution of the complex at room Scheme 1
+2-017	temperature in air.
+2-018	The complex crystallizes in the monoclinic crystal system in the C2 chiral space group; a perspective view is depicted in Figure 2.
+2-019	Two amino groups of DAP are
+2-020	coordinated to Zn atoms of Zn2 DPO, forming a 1:1 host−guest complex in which two porphyrin planes make a dihedral angle of 28.6°.
+2-021	The Zn centers of two porphyrin units in Zn2DPO·DAP are separated by 5.99 Å and have five-coordinated square- pyramidal geometry in which the metal ions are displaced by 0.34 and 0.35 Å from the least-squares plane of the C20N4 porphyrinato core for core I and core II, respectively.
+2-022	Two spatially orientated Zn−Nax coordination bonds arising from the projection of the amino coordinating site attached to the stereocenter of the (R)-DAP ligand direct two porphyrin rings to be oriented in a unidirectional screw arrangement in order to minimize the host−guest steric interactions, which eventually
+2-023	transfer the chirality informations from the enantiomeric guest to the achiral host in the supramolecular complex.
+2-024	The porphyrin rings are twisted anticlockwise relative to each other around the diphenyl ether bridge with a torsional angle Φ (Zn1−C33−C33A−Zn2) of −33.4(5)°.
+2-025	Molecular packing in the crystal lattice is shown in Figure 3.
+2-026	Zn2DPO·CHDA crystallizes by slow diffusion of n-hexane into a solution of the complex in chloroform at room temperature in air to give a monoclinic crystal system with the P21 chiral space group.
+2-027	There are two molecules in the asymmetric unit, which are also different structurally;
+2-028	Article
+2-029	100 K (H atoms have been omitted for clarity).
+2-030	perspective views are shown in Figure 4.
+2-031	From the crystal structure of Zn2DPO·CHDA, it can be seen that Zn2DPO holds the ligand inside its cavity through the ditopic binding of two equatorially oriented amino substituents of the ligand moiety to the Zn centers.
+2-032	Two porphyrin units of Zn 2DPO·CHDA open up its jaw to accommodate the CHDA ligand inside its cavity, which make dihedral angles of 28.7° and 30.8° between the two porphyrin rings for molecules I and II, respectively.
+2-033	The Zn center is in a five-coordinate square- pyramidal geometry, and the nonbonding Zn···Zn distances are 5.91 and 5.87 Å, respectively, for molecules I and II.
+2-034	For molecule I, the Zn atoms are displaced by ∼0.36 Å from the mean porphyrin planes, while displacements of 0.37 Å are observed for molecule II.
+2-035	The cyclohexane ring of CHDA is in a chair conformation and lies parallel to the two porphyrin rings, thus allowing attractive CH−π interactions between the ligand and porphyrin moieties, which further stabilize the host−guest complexation.
+2-036	Most significantly, projection of the binding sites of the ligand moiety from the chiral center compel the two porphyrin rings to have a stereospecific orientation in order to minimize the host−guest steric interactions.
+2-037	The induction of asymmetry information of the enantiomerically pure chiral ligand to the achiral host is highly anticipated from the unidirectional screw observed in the bisporphyrin moiety.
+2-038	The porphyrin rings are twisted clockwise around the diphenyl ether bridge, with torsional angles Φ (Zn1−C33−C33A−Zn1A) of +30.9(5)° and +30.8(5)° for molecules I and II, respectively.
+2-039	Molecular packing of the complex in the crystal lattice is shown in Figure 5.
+2-040	Dark purple crystals of Zn2DPO·PPDA were deposited in high yields by slow diffusion of acetonitrile into the dichloromethane solution of the complex at room temperature in air.
+2-041	The complex crystallizes in the monoclinic crystal system with the C2 chiral space group; a perspective view is shown in Figure 6.
+2-042	Chiral (S)-PPDA is coordinated to the Zn atoms of
+2-043	the two porphyrin units of Zn2DPO through the amino binding sites, yielding a supramolecular 1:1 sandwich complex with a dihedral angle of 32.5° defined by the mean porphyrin planes (C20N 4 porphyrinato core).
+2-044	The Zn centers of the two porphyrin units in a molecule are separated by a distance of 5.99 Å and are displaced by 0.39 Å from the least-squares plane of the C 20N4 porphyrinato core.
+2-045	The projection of the two amino coordinating sites of the PPDA ligand direct two porphyrin rings to produce unidirectional screw with a torsional angle Φ (Zn1−C33−C33A−Zn1A) of +32.7(5)° in order to minimize the host−guest steric interactions.
+2-046	A diagram illustrating the molecular packing in the crystal lattice is shown in Figure 7.
+2-047	Crystals of Zn2DPO·PEDA have been obtained via slow diffusion of acetonitrile to the dichloromethane solution of the
+2-048	C33A−Zn1A) of +35.2(5)°.
+2-049	A diagram illustrating the molecular packing in the crystal lattice is shown in Figure 9.
+2-050	complex in air at room temperature, and one such crystal was used for X-ray structure determination.
+2-051	The molecule crystallizes in the monoclinic crystal system with the C2 chiral space group.
+2-052	A perspective view of the crystal structure is illustrated in Figure 8.
+2-053	The coordinating −NH2 sites of the
+2-054	chiral (S)-PEDA bind to the zinc centers of Zn2DPO to produce a 1:1 sandwich complex with a dihedral angle of 39.5° defined by two mean porphyrin planes.
+2-055	Zn centers are displaced by ∼0.32 Å from the mean porphyrin plane with a nonbonding Zn···Zn distance of 6.72 Å.
+2-056	It is interesting to note that the two Zn−Nax distances are different in the molecule: the longer distance involves the nitrogen that is closer to the bulky phenyl group.
+2-057	The phenyl group of the PEDA ligand lies perpendicular to the porphyrin rings, which facilitates the attractive CH−π interactions with the porphyrin rings and, thus, brings some stability for the complex.
+2-058	The coordination of the preorganized amino binding sites of the chiral ligand leads to the formation of unidirectional screw with a torsional angle Φ (Zn1−C33−
+2-059	Slow diffusion of n-hexane into a chloroform solution of the molecule at room temperature gave dark purple crystals, from which an appropriate crystal was chosen for X-ray diffraction experiments.
+2-060	The molecule crystallizes in the monoclinic crystal system in the C2 chiral space group; a perspective view is shown in Figure 10.
+2-061	There are two molecules in the asymmetric unit with very different structural and geometrical parameters.
+2-062	Each Zn center is in square-pyramidal geometry, where the metals are displaced by 0.36 and 0.43 Å for molecules I and II, respectively, from the mean porphyrin planes.
+2-063	The bulky phenyl substituents in DPEA generate significant steric
+2-064	interactions in the 1:1 sandwich complex, which results in a significant increase in the interporphyrin angle to 40.3° and 38.7° for molecules I and II, respectively.
+2-065	Zn···Zn separations also have increased significantly in order to minimize the nonbonding contacts within the supramolecular host−guest complex and thus leads to the weaker binding of the DPEA ligand in Zn2DPO·DPEA (vide infra).
+2-066	As a result, the average Zn−Nax distance is longer in Zn2DPO·DPEA as compared to the similar distance observed in Zn2DPO·DAP, Zn2DPO·CHDA, and Zn 2DPO·PPDA.
+2-067	The nonbonding Zn···Zn distances are found to be very different between the two molecules: 6.37 Å for molecule I and 5.88 Å for molecule II.
+2-068	Interestingly, the two zinc porphyrin units are twisted clockwise and anticlockwise around the bridging ligand, with a torsional angle Φ (Zn1−C33−C33A−Zn1A) of +34.5(7)° and −33.1(7)° for molecules I and II, respectively.
+2-069	According to the projection of the ligand’s two amino groups, there could have been unidirectional molecules of left-handed screw sense only; however, the molecule with right-handed screw sense are also apparent, as evident in the X-ray crystallography.
+2-070	Molecular packing in the crystal lattice is demonstrated in Figure 11.
+2-071	The selected bond distances and angle are given in Table S1, while data collection parameters for all the 1:1 complexes are listed in Table S2.
+2-072	The salient structural features of the 1:1 complexes consisting of the chiral diamine guests and Zn(II) bisporphyrin host reported here and the lone structurally characterized chiral tweezer−diamine reported in the literature are compared in Table 1.
+2-073	Among the host−guest complexes reported here with Zn2DPO, an increase in the size of the substituent at the chiral diamine guest results in an increase of Zn−Nax distance.
+2-074	Also, the angle between the two porphyrin rings and the average displacement of atoms from the mean porphyrin plane gradually increases with the increase in the bulk of the substituent at the diamine ligand in order to accommodate the guest within the bisporphyrin cavity with minimum steric host−guest clash.
+2-075	A diagram illustrating the bulk of the chiral guest ligand within the bisporphyrin cavity is shown in Figure S2.
+2-076	For Zn2DPO·DAP, Zn2DPO·PPDA, Zn2DPO·PEDA, and Zn2(ethane-bridged bisporphyrin)·CHDA, there is only one molecule in the asymmetric unit, while in Zn2DPO·CHDA and Zn2DPO·DPEA, there are two molecules and each is present in the asymmetric unit.
+2-077	However, only in Zn2DPO·DPEA are very
+2-078	different structural and geometrical parameters observed between the two molecules due to the presence of bulky phenyl substituents in DPEA guest ligand.
+2-079	For molecule I, the Zn−Np distance is shortest in the series, while the Zn···Zn nonbonding distance is much longer than that of molecule II.
+2-080	For molecule II, the Zn−Nax distance is remarkably longer than that of molecule I. In both Zn2DPO·PEDA and Zn2DPO·DPEA, there are bulky phenyl substituents at the chiral center of the guest ligand, which, however, produces large steric interaction with the porphyrin rings.
+2-081	The effect can be seen just by looking at two Zn−Nax distances of 2.189(4) and 2.247(4) Å observed in Zn 2DPO·PEDA: the −NH2 group nearer to the phenyl group binds weaker compared to the distant −NH2.
+2-082	It is also interesting to note in Zn2 DPO·DPEA that two zinc porphyrin rings twisted in a clockwise direction around the diphenyl ether bridge in molecule I, while they rotate in the anticlockwise direction in molecule II.
+2-083	In sharp contrast, the two molecules that are present in the asymmetric unit in Zn2DPO·CHDA are very similar and, in both molecules, two zinc porphyrins are twisted only in a clockwise direction around the diphenyl ether bridge with a torsional angle of +30.9(5)° and +30.8(5)°, respectively.
+2-084	It would be interesting to compare the binding of 1,2-diaminocyclohexane (CHDA) with Zn2DPO reported here and also with ethane-bridged Zn(II) bisporphyrin reported earlier.[3a] While the average Zn−N p distance is similar for both molecules, the Zn−Nax distances are relatively shorter in the latter complex.
+2-085	Also, several geometrical parameters such as displacement of the metal from the mean porphyrin plane, the dihedral angle between the two porphyrin planes, and the torsional angles are higher in the latter complex with a lesser value of Zn···Zn separation.
+2-086	Two oppositely oriented amino groups in CHDA result in the exclusive formation of a 1:1 complex with a binding constant of 1.60 × 105 M −1 (vide infra) with Zn2DPO and 1.25 × 107 M −1 with ethane-bridged Zn(II) bisporphyrin.
+2-087	Thus, CHDA binds strongly with a highly flexible ethane-bridged bisporphyrin, which results in a very large torsional angle of −54.1°.[3a]
+2-088	1H NMR.
+2-089	The formation of 1:1 complexes in solution between the Zn2DPO host and all five chiral diamines is also established by the 1H NMR spectra.
+2-090	Figure 12 shows the relevant spectra coming from the reaction between Zn2 DPO and (R)-diaminopropane.
+2-091	Trace A shows the well-resolved spectrum of Zn2DPO in CDCl3, while trace B shows the 1H NMR spectra of the crystalline sample of Zn2 DPO·DAP dissolved in the same solvent.
+2-092	Trace C, however, shows the 1H NMR spectrum of the free (R)-DAP alone under identical conditions.
+2-093	As can be seen, the 1H NMR spectrum of Zn2DPO·DAP (trace B) shows a large change from that of Zn2DPO and the free (R)-DAP ligand.
+2-094	The identical 10- and 20-meso protons are noticeably downfield shifted by Δδ = 1.85 and 0.78 ppm, respectively, due to conformational changes upon 1:1 complex- ation, which results in moving the two porphyrin rings further apart from each other.
+2-095	These protons, also, become non- equivalent as a result of their different exposure to the ring current effect due to the twisting of the two porphyrin subunits in solution, which were otherwise identical.
+2-096	However, the 15-meso proton is upfield shifted by Δδ = 0.62 ppm.
+2-097	The most interesting feature is the remarkably large upfield shifts of the guest ligand protons H[3] (Δδ = 9.33 ppm), NH2 (Δδ = 9.52 and 9.40 ppm), H[2] (Δδ = 9.04 ppm), H[1] (Δδ = 8.2 ppm), and CH3(L) (Δδ = 5.65 ppm) as the ligand emerges within the porphyrin ring current.
+2-098	The order of the shifts, as observed here
+2-099	Zn2DPO·DAP core I 2.070(4) 2.191(4) 0.34 0.16 5.992(2) 28.6 25.1 2.80 −33.4(5) core II 2.070(4) 2.177(4) 0.35 0.12 Zn2DPO·CHDA molecule I core I 2.073(4) 2.197(5) 0.37 0.16 5.908(2) 28.7 23.7 2.64 30.9(5)
+2-100	The H[2] proton is shifted by 9.12 ppm from its resonance in the absence of Zn(II) bisporphyrin, while two NH2 protons are shifted by 9.70 and 9.22 ppm.
+2-101	However, the protons of the phenyl ring of the ligand are less upfield shifted because the phenyl group is directed to the outside of the bisporphyrin cavity.
+2-102	The shifting of ortho, meta, and para protons is, respectively, 2.90, 0.41, and 0.35 ppm.
+2-103	The identical 10- and 20-meso protons of the Zn2DPO host produce four nonidentical peaks because of complexation with the asymmetrical chiral PPDA ligand.
+2-104	There also appear two resonances for 15-meso protons for the same reason.
+2-105	in trace B, correlates well with the geometry of the 1:1 sandwich complex and the close proximity of the guest protons
+2-106	to the porphyrin planes.
+2-107	Similar shifts of the guest’s proton clamped between two porphyrin subunits have also been observed from the 1 H NMR spectrum of the crystalline sample of Zn 2DPO·PPDA in CDCl3
+2-108	as depicted in Figure 13.
+2-109	Because of the encapsulation of the guest ligand inside the porphyrin cavity, all the guest protons get upfield-shifted in the 1H NMR spectrum of the complex.
+2-110	tweezer−diamine complexes reported here, the ligand protons of the 1:1 sandwich complex Zn2 DPO·PEDA are also acquainted with a similar shifting, H[3] (Δδ = 9.49 ppm) and NH2 (Δδ = 8.02 and 8.72 ppm).
+2-111	However, three broad meso signals are observed for the complex instead of six distinct meso proton signals that are expected due to the asymmetric nature of the guest ligand.
+2-112	Figures S3 and S4, respectively, demonstrate the 1H NMR spectra of Zn2DPO·CHDA and Zn2DPO·DPEA, in which a similar shift of the guest protons is observed.
+2-113	Zn2DPO·CHDA shows remarkably large upfield shifts of the ligand protons (for H[5], Δδ = 9.33 ppm and for NH2, Δδ = 9.62 ppm).
+2-114	However, because of the lower binding affinity of (1R,2R)-DPEA toward Zn2DPO (vide inf ra), Zn2DPO·DPEA shows very broad signals.
+2-115	Complete assign- ments of the resonances for all the complexes reported here have been made on the basis of relative intensities of the signals and 1 H−1H COSY, as demonstrated in Figures S5−S7 for Zn2DPO·CHDA, Zn2DPO·DAP, and Zn2DPO·PPDA, respec- tively.
+2-116	The spectral patterns observed in the present investigation are also similar to other 1:1 complexes reported in the literature.[2,3,5−7]
+2-117	It would be appropriate to compare now the 1H NMR spectra of all five chiral complexes reported here, which have been demonstrated in Figure 15.
+2-118	The spectral pattern looks very similar; guest protons are all upfield shifted, in which NH2 protons are shifted most followed by other protons.
+2-119	It is found that the largest upfield shifts of the NH2 protons follow the order Zn2DPO·DAP > Zn2DPO·CHDA > Zn2 DPO·PPDA > Zn2DPO·PEDA ≫ Zn2DPO·DPEA, which happens to be the order of binding constants of the respective guest ligands toward Zn2DPO (vide infra).
+2-120	Meso proton signals become nonequivalent as a result of twisting of the bisporphyrin
+2-121	Article
+2-122	framework along the diphenyl ether bridge in the complex.
+2-123	Six meso signals are clearly visible for Zn2DPO·PPDA because of the asymmetric nature of the PPDA guest ligand.
+2-124	However, instead of six meso signals expected for other asymmetric ligands (DAP and PEDA) used in the present investigation, three broad meso peaks are observed in the complex.
+2-125	It is also interesting to note that while other complexes showed well- resolved signals particularly for guest and meso protons, Zn2DPO·DPEA depicts very broad 1H NMR resonances.
+2-126	Also the upfield shifting of the diphenylethylene diamine protons in the tweezer−diamine complex is much less compared to others.
+2-127	This is due to weaker binding of DPEA with Zn2DPO along with the presence of two structurally different molecules in solution, which produces average signals.
+2-128	Binding Constant Determination.
+2-129	Binding constants between Zn2DPO and the chiral diamines are determined by a UV−visible spectroscopic titration method.
+2-130	The addition of PPDA (10−6 to 10−4 M) to the chloroform solution of Zn2 DPO (3.0 × 10−6 M) at room temperature primarily results in a red shift of the Soret (393 to 412 nm) and Q-bands (536 to 547, 571 to 581 nm).
+2-131	The nonlinear least-squares curve fitting of the absorption spectral data at 412 nm for 1:1 complexation was obtained by applying eq 119 in which A0 and A∞ are absorbances of Zn2DPO and Zn2DPO·PPDA, respectively, and [L] is the concentration of guest added.
+2-132	A = (A 0 + K[L]A∞)/(1 + K[L]) (1)
+2-133	Absorbance A at 412 nm is then plotted against the concentration of ligand, [L], as demonstrated in Figure 16; K is found to be 1.50 × 105 M−1 from the nonlinear curve fitting.
+2-134	Similarly, binding constants between Zn2DPO and diamino- propane are also determined.
+2-135	The addition of (R)-DAP (10−6 to 10−5 M) to the chloroform solution of Zn2DPO (4.0 × 10−6 M) at room temperature also results in the red shift of the Soret (393 to 412 nm) and Q-bands (536 to 547, 571 to 581 nm).
+2-136	The nonlinear least-squares curve fitting of the spectral data at 412 nm for 1:1 complexation provides the binding constant (K) of 1.70 × 105 M −1, as shown in Figure S8.
+2-137	The binding constants of three other chiral diamines, CHDA, PEDA, and DPEA, with Zn2DPO have also been estimated similarly and are found to be 1.60 × 105 M −1 (Figure S9), 4.80 × 104 M −1 (Figure S10), and 1.70 × 103 M −1 (Figure S11), respectively.
+2-138	It can be seen that the binding constant values follow the order DAP > CHDA > PPDA > PEDA, while the relatively bulkier ligand DPEA binds ∼100 times weaker compared to the DAP ligand as a result of steric interactions of two phenyl moieties in DPEA with the porphyrin rings.
+2-139	A smaller value of the binding constant with the PEDA guest ligand is also due to the presence of a bulky phenyl moiety.
+2-140	Circular Dichroism (CD).
+2-141	CD has become a versatile tool for configuration assignment and the structural evaluation of the supramolecular complex.
+2-142	The interaction of the chiral diamine L with Zn2DPO was monitored in solution using CD spectroscopy.
+2-143	Upon addition of increasing amounts of (S)-phenylpropanediamine (PPDA) to the chloroform solution of Zn2DPO, the CD intensity gradually increases.
+2-144	The CD amplitude becomes maximal (Aobs, +419 M−1 cm −1) upon addition of 30 equivalents of the chiral ligand.
+2-145	However, further addition of ligand up to 400 equivalents causes no change in CD intensity, which implies formation of a stable 1:1 sandwich complex; the spectral changes have been demonstrated in Figure 17.
+2-146	Thus, there is no evidence of formation of 1:2 host−guest complexes even at very high concentration of the guest ligand (which would result in a lowering of the CD intensity) because of the restricted rotation of the bisporphyrin ligand around the bridging O atom.[4]
+2-147	Similar behavior has also been observed with other diamine guest ligands reported here.
+2-148	high magnitude CD signal (Aobs, −394 M−1 cm −1) (Figure 18A) for Zn2DPO·DAP can be ascribed to the complex’s high stability (K = 1.70 × 105 M −1) and formation of a unidirectional left-handed screw twisted by an angle of −33.4(5)° observed from the X-ray structure of the complex (vide supra).
+2-149	Preorganization of the diamine binding sites and pre-existing chirality therein would cause the two porphyrin macrocycles to be oriented in an anticlockwise direction in order to minimize host−guest steric interactions.
+2-150	The −NH2 binding site of the R-stereocenter of the ligand is projected toward the Zn center (Figure 2) and hence becomes suitable to coordinate with minimal strain, while the other −NH2 has no such preferential direction.
+2-151	Since there is no bulky substituent in the ligand for strong steric interaction with the porphyrin, the −NH2 binding site can coordinate to the zinc center without any restriction.
+2-152	Thus, the direction of twist between the two porphyrin units is solely dictated by the projection of the −NH2 group of the chiral center, i.e., the absolute configuration of the chiral center.
+2-153	On examination of the Corey−Pauling− Koltun (CPK) molecular model shown in Figure 19, it can be seen that the two porphyrin units are twisted in an anticlockwise direction to generate minimal host−guest repulsions.
+2-154	The interchromophoric anticlockwise twisting brings out a negative sign of the first Cotton effect of the CD couplet.
+2-155	A remarkably high amplitude bisignate CD signal (Aobs, +515 M−1 cm −1) (Figure 18B and Table 2) has been observed for Zn2DPO·CHDA.
+2-156	Analysis of the X-ray structure of Zn2DPO·CHDA reveals that two trans-oriented amino groups sitting above and below the chair form of the cyclohexane ring in CHDA are perfectly projected toward two Zn atoms of Zn2DPO, leading to the formation of a 1:1 sandwich complex with high stability (K = 1.60 × 105 M −1), which results in the formation of a unidirectional right-handed screw with torsion angles of +30.8(5)° and +30.9(5)° for molecules I and II, respectively.
+2-157	The CPK molecular model is shown in Figure 20A, which clearly demonstrates clockwise twisting of the two porphyrin units with minimum steric interaction between the bisporphyrin host and CHDA guest.
+2-158	Hence, the observation of the positive CD signal can be concluded from the interporphyrin clockwise twist.
+2-159	Similarly, Zn2DPO·PPDA also Inorganic Chemistry
+2-160	Table 2.
+2-161	UV−Vis and CD Spectral Data in Chloroform at 295 K
+2-162	shows high CD amplitude (Aobs, +419 M−1 cm −1) (Figure 18C).
+2-163	Generation of such a highly intense CD couplet is attributed to the formation of the highly stable tweezer− diamine complex (K = 1.50 × 105 M −1) as well as unidirectional screw (torsional angle, +32.7(5)°) observed in the solid-state structure of the complex.
+2-164	The CPK model, depicted in Figure 20B, clearly shows a clockwise twisting of the two porphyrin units around the diphenyl ether bridge with minimum host−
+2-165	guest steric interactions for the complex.
+2-166	Zn2DPO·PEDA also shows a positive CD signal (Aobs, +258 M−1 cm−1) (Figure 18D) due to the clockwise twisting of the bisporphyrin moiety with a torsional angle of +35.2(5)°.
+2-167	The CPK molecular model, shown in Figure 20C, illustrates the clockwise orientation of the bisporphyrin with minimum host−guest steric strain.
+2-168	Thus for the complexes Zn 2DPO·CHDA, Zn 2 DPO·PPDA, and Zn2DPO·PEDA, two porphyrin macrocycles are twisted in a
+2-169	clockwise direction, for which a positive first Cotton effect in the CD couplet is observed.
+2-170	Thus, the above observations establish a firm correlation between the sign of the CD signal and the interporphyrin twist.
+2-171	Observation of a relatively lower CD amplitude of Zn2DPO·PEDA compared to those of Zn2DPO·DAP, Zn2DPO·CHDA, and Zn2DPO·PPDA is due to the lower binding constant value with PEDA.
+2-172	The more rigid
+2-173	nature of (1S,2S)-CHDA compared to (R)-DAP and (S)-PPDA may be responsible for the relatively large CD amplitude observed in Zn2DPO·CHDA.
+2-174	However, the relatively higher CD amplitude was even observed when CHDA forms a 1:1 sandwich complex with ethane-bridged bis(zinc octaethylpor- phyrin) (Aobs, −590 M−1 cm −1) as compared to Zn2DPO (Aobs, +515 M−1 cm−1).
+2-175	Such enhancement in CD intensity can be attributed to the highly flexible nature of ethane-bridged bisporphyrin, which produces a higher torsional angle of 54.1(5)° as compared to 30.9(5)° and 30.8(5)° observed for molecules I and II, respectively, in Zn2DPO·CHDA.
+2-176	In sharp contrast, Zn2DPO·DPEA shows a very low amplitude bisignate positive CD signal (Aobs, +72 M−1 cm−1 ) (Figure 18E and Table 2).
+2-177	Observation of such a low CD amplitude and, most notably, observation of a positive CD signal for the (R)-ligand is not “expected” according to the correlation obtained with other chiral diamines used in the present investigation.
+2-178	The presence of both right- and left-handed conformations of the complex, as observed in the X-ray crystal structure (Figure 10), contributes toward the intensity of the CD couplet in the opposite direction.
+2-179	The CPK model, shown in Figure 20D, demonstrates the presence of both molecules’ twisted clockwise and anticlockwise orientation of the two porphyrin units with minimum host−guest steric interactions.
+2-180	The observations of a positive CD signal for Zn2DPO·DPEA suggests that the right-handed structure is a greater contributor to the CD intensity than the left-handed one.
+2-181	According to the pre-existing chirality of the (1R,2R)-DPEA, there could have been exclusively a unidirectional twist of left-handed screw sense; however, the right-handed molecule is also formed, as evident in the X-ray structure of Zn2DPO·DPEA.
+2-182	Unlike other chiral ligands, DPEA has two bulky phenyl groups, which increases significantly steric repulsions in the host−guest complex, leading to the weaker binding of the ligand in Zn2DPO·DPEA.
+2-183	A close observation of the X-ray structure of the left-handed molecule (Figure 21A) reveals that the bulky
+2-184	phenyl substituent is syn to the porphyrin, which eventually generates large host−guest steric interactions, leading to a longer Zn−Nax distance of 2.232(8) Å.
+2-185	In order to avoid the steric interaction caused by the two phenyl moieties, the two porphyrin units also undergo a clockwise twisting in which the bulky phenyl group can be placed anti to the porphyrin ring (Figure 21B), leading to a relatively shorter Zn−Nax distance of 2.209(8) Å, which is also evident in the X-ray structure of the complex.
+2-186	From the X-ray structure of Zn2DPO·DPEA, it is observed that there are two factors that control the direction of interporphyrin twist of the complex.
+2-187	The preorganized projection of the NH2 group of the chiral center in (1R,2R)-DPEA dictates anticlockwise twist between two porphyrin units (Figure 21A) which leads to negative sign of the first Cotton effect of the CD couplet.
+2-188	However, steric differentiation would lead clockwise twisting of two porphyrin rings (Figure 21B) which provide positive sign of the first Cotton effect of the CD couplet.
+2-189	From the observed positive CD signal of the complex, it can be concluded that the right-handed structure has relatively greater contribution to the CD amplitude than the left-handed one.
+2-190	Hence, Zn2DPO·DPEA shows a postive CD signal although the intensity is very low.
+2-191	It is important to note that two molecules are also present in the asymmetric unit of Zn2DPO·CHDA (Figure 4) but both of them shows large clockwise twist between the two porphyrin units that are solely dictated by the projection of the -NH 2 group of the (1S,2S)-chiral center since no bulky substituent are present in CHDA for significant steric interactions.
+2-192	As a result, the complex shows a remarkably high amplitude bisignate CD signal (Aobs, +515 M−1 cm−1).
+2-193	It can be concluded that the spatial orientation of the two porphyrin rings, and hence the sign of the CD couplet in the Soret region, is essentially dependent upon the projection of the ligand’s functional groups, size of the ligand’s substituent and the host−guest interactions.
+3-001	■
+3-002	Synthesis, X-ray structure and properties of supramolecular tweezer-diamine complexes Zn2 DPO·DAP, Zn2DPO·CHDA, Zn2DPO·PPDA, Zn2DPO·PEDA, and Zn2DPO·DPEA have been demonstrated here.
+3-003	All these complexes consist of achiral Zn(II) bisporhyrin (Zn2DPO) host and enantiomerically pure chiral diamines, namely, (R)-DAP, (1S,2S)-CHDA, (S)-PPDA, (S)-PEDA, and (1R,2R)-DPEA as guest ligands, respectively.
+3-004	1H NMR of the host−guest complex reveals large upfield shift of the guest protons due to the ring current effect of the bisporphyrin tweezer.
+3-005	Largest upfield shift that is observed for the NH2 protons of the guest ligand follow the order Zn 2DPO·DAP > Zn2DPO·CHDA > Zn2DPO·PPDA> Zn2DPO·PEDA ≫ Zn2DPO·DPEA which happens to be the order of binding constant of the respective chiral diamine with Zn2DPO.
+3-006	While other tweezer−diamine complexes showed well-resolved 1H NMR signals, Zn 2DPO·DPEA depicts very broad resonances.
+3-007	As the bulk of the substituent at the stereogenic center of the diamine guest increases, the Zn−Nax distance in the tweezer−diamine complex also increases which eventually lowers the binding of guest ligand toward the host.
+3-008	While in four 1:1 sandwich complexes, a large unidirectional screw has been observed in the bisporphyrin moiety around the diphenylether bridge, only in Zn2DPO·DPEA, two molecules with very different structure and geometrical parameters are observed due to the presence of two bulky phenyl substituents in the DPEA guest ligand.
+3-009	In one, the two zinc porphyrins are twisted in a
+3-010	clockwise direction while they rotate in an anticlockwise direction in the other one.
+3-011	Two molecules are also present in the asymmetric unit of Zn2DPO·CHDA, however, both of them have similar structural and geometrical parameters with large clockwise twist between two porphyrin units.
+3-012	Upon formation of a tweezer−diamine complex between an achiral Zn2DPO host and a chiral diamine guest, a bisignate CD signal arises in the porphyrin Soret band region.
+3-013	The pre-existing chirality of the diamine guests would make the two porphyrin macrocycles to be oriented in a clockwise/anticlockwise direction in order to minimize host−guest steric interaction.
+3-014	Notably high amplitude bisignate CD signal responded by Zn2 DPO·DAP, Zn2DPO·CHDA, and Zn2DPO·PPDA can be ascribed to the complex’s high stability and formation of unidirectional screw as observed from the X-ray structures.
+3-015	Relatively lower CD amplitude has been observed for Zn2DPO·PEDA because of the lower binding affinity of PEDA due to the presence of a bulky phenyl moiety at the stereocenter.
+3-016	It has been observed that (S)-guest shows positive CD couplet while (R)-guest produces negative CD couplet as dictated by the pre-existing chirality of (R)-DAP, (1S,2S)-CHDA, (S)-PPDA, and (S)-PEDA ligands.
+3-017	In sharp contrast, Zn2DPO·DPEA shows a very low amplitude bisignate positive CD signal (Aobs, +72 M−1 cm −1) and also have very low binding affinity.
+3-018	Observation of such low CD amplitude and the most significantly, observation of positive CD signal for (R)-ligand is contrary to the “expected” negative CD signal.
+3-019	The projection of the −NH2 group in (1R,2R)-DPEA (in which bulky phenyl group is syn to the porphyrin ring) dictates an anticlockwise twist of the two porphyrin units, leading to a negative sign of the first Cotton effect of the CD couplet.
+3-020	However, steric differentiation (in which the bulky phenyl group is anti to the porphyrin ring) also forced the two porphyrin units to be twisted in a clockwise orientation, which, however, provides a positive sign of the first Cotton effect of the CD couplet.
+3-021	The resultant weak positive CD signal expressed by the Zn2DPO·DPEA comes from the contribution of the clockwise twisted molecule surpassing the contribution of the anticlockwise twisted one.
+3-022	In Zn2DPO·CHDA, however, both of the molecules show a large clockwise twist of the two porphyrin units that is solely dictated by the projection of the −NH2 group of the S-chiral center due to lack of significant steric clash within the host−guest complex.
+3-023	As a result, the complex shows a remarkably high amplitude bisignate CD signal (Aobs, +515 M−1 cm −1).
+3-024	Thus, the spatial orientation of the two porphyrin rings is essentially dependent upon the projection of the ligand’s binding functional groups attached to the stereocenter as well as the steric differentiation at the chiral center.
+3-025	Binding affinity of the chiral guest ligand and the flexibility of the bisporphyrin architecture are also responsible for the CD signal intensity.
+3-026	The present work thus demonstrates a full and unambiguous rationalization of the observed chirality transfer processes from the chiral guest to the achiral host that is observed in many natural and artificial supramolecular assemblies.
+4-001	■
+4-002	Materials.
+4-003	The synthesis of 4,6-bis[Zn(II) 5-(3,7,13,17-tetraethyl-2,6,12,16-tetramethylporphyrinyl)]diphenyl ether, Zn2DPO, was accomplished using the literature methods.[17]
+4-004	Reagents and solvents were purchased from commercial sources and purified by standard procedures before use.
+4-005	Enantiomerically pure (S)-3-phenylpropane-1,2-diamine, (S)-PPDA, and (S)-phenylethylenediamine, (S)-PEDA,
+4-006	Inorganic Chemistry
+4-007	have been synthesized by following the procedure reported in the literature.[20]
+4-008	Syntheses of Zn2DPO·DAP.
+4-009	To a solution of Zn(II) bisporphyrin, Zn2DPO (50 mg, 0.039 mmol), in distilled dichloromethane (2.5 mL) was added (R)-diaminopropane (3.5 mg, 0.047 mmol), and the mixture was stirred for 10−12 min.
+4-010	The solution, thus obtained, was then filtered off to remove any solid residue and carefully layered with n-hexanes.
+4-011	On standing for 6−7 days in air at room temperature, dark crystalline solids were precipitated out, which were then isolated by filtration, washed well with n-hexanes, and dried well under vacuum.
+4-012	Yield: 42 mg (79%).
+4-013	Anal. Calcd (found): C, 71.64 (71.55); H, 6.70(6.80); N, 10.58 (10.67).
+4-014	UV−vis (chloroform) [λmax , nm (ε, M−1 cm−1)]: 412 (3.62 × 105),426sh (7.78 × 104),547(2.60 × 104),581(1.36 × 104).
+4-015	1H NMR (CDCl3, 295 K): δ 9.84 (br, 2H, 10-meso-H); 9.41 (s, 2H, 15-meso-H); 8.77 (s, 2H, 20-meso-H); 8.48 (br, 2H, Ar- H); 7.89 (br, 2H, Ar-H); 7.35 (br, 2H, Ar-H); 6.97 (br, 2H, Ar-H); 3.97−2.90 (m, 16H, −CH2); 1.87−1.25 (m, 48H, −CH3); −4.63 (m, 3H, −CH3, DAP); −5.56 (m, 1H, H[1], DAP); −6.53 (m, 1H, H[3], DAP); −6.63 (m, 1H, H[2], DAP); −8.10 (br, 2H, -NH2); −8.22 (br, 2H, −NH2) ppm.
+4-016	Zn 2DPO·CHDA.
+4-017	Zn(II) bisporphyrin, Zn2DPO (50 mg, 0.039 mmol), was dissolved in 2.5 mL of distilled chloroform.
+4-018	(1S,2S)-CHDA (5.4 mg, 0.047 mmol) was added to it and stirred for 10−12 min.
+4-019	The resulting solution was then filtered off to remove any solid residue and carefully layered with n-hexanes.
+4-020	On standing for 6−7 days in air at room temperature, dark crystalline solids were precipitated out, which were then collected by filtration, washed well with n- hexanes, and dried well under vacuum.
+4-021	Yield: 45 mg (82%).
+4-022	Anal. Calcd (found): C, 72.32 (72.23); H, 6.81 (6.92); N, 10.29 (10.38).
+4-023	UV−vis (chloroform) [λmax, nm (ε, M−1 cm−1)]: 412 (3.45 × 105), 429sh (7.87 × 104),546(2.45 × 104),580(1.39 × 104).
+4-024	1H NMR (CDCl3, 295 K): δ 10.04 (s, 2H, 10-meso-H); 9.83 (s, 2H, 15-meso-H); 9.43 (s, 2H, 20-meso-H); 8.58 (d, 1H, Ar-H); 8.16 (d, 1H, Ar-H); 7.96 (t, 1H, Ar-H); 7.92 (t, 1H, Ar-H); 7.76 (t, 1H, Ar-H); 7.15 (t, 1H, Ar- H); 7.08 (d, 1H, Ar-H); 6.99 (d, 1H, Ar-H); 3.96−2.93 (m, 16H, −CH2); 1.85−1.04 (m, 48H, −CH3); −0.75 (m, 2H, H[1], CHDA); −2.33 (m, 2H, H[2], CHDA); −3.50 (m, 2H, H[3], CHDA); −6.42 (m, 2H, H[4], CHDA); −7.05 (m, 2H, H[5], CHDA); −7.91 (m, 4H, -NH2).
+4-025	Zn 2DPO·PPDA.
+4-026	Zn(II) bisporphyrin, Zn2DPO (50 mg, 0.039 mmol) was dissolved in 2.5 mL of distilled dichloromethane, and (S)-PPDA (7.1 mg, 0.047 mmol) was added to the solution, which was stirred at room temperature for 10−12 min.
+4-027	The resulting solution was filtered to remove any solid residue and then carefully layered with acetonitrile and kept for slow diffusion at room temperature in air.
+4-028	On standing for 6−7 days, a dark crystalline solid of the molecule was formed, which was then collected by filtration, washed well with acetonitrile, and dried well under vacuum.
+4-029	Yield: 43 mg (77%).
+4-030	Anal. Calcd (found): C, 72.90 (72.82); H, 6.62 (6.71); N, 10.00 (10.12).
+4-031	UV−vis (chloroform) [λmax, nm (ε, M−1 cm−1)]: 412 (3.58 × 105), 426sh (7.75 × 104),547(2.58 × 10 4),581(1.36 × 104).
+4-032	1H NMR (CDCl3, 295 K): δ 9.87 (s, 1H, 10-meso-H); 9.80 (s, 1H, 10-meso-H); 9.53 (s, 1H, 15-meso-H); 9.39 (s, 1H, 15-meso-H); 8.84 (s, 1H, 20-meso-H); 8.69 (s, 1H, 20-meso-H); 8.53 (d, 2H, Ar-H); 7.89 (m, 2H, Ar-H); 7.34 (br, 2H, Ar-H); 7.19 (br, 2H, Ar-H); 6.87 (m, 1H, −CH, PPDA); 6.81 (m, 2H, −CH, PPDA); 4.32 (br, 2H, −CH, PPDA); 4.09−2.91 (m, 16H, −CH2); 1.87−1.19 (m, 48H, −CH3); −3.06 (br, 1H, H[4], PPDA); −3.85 (br, 1H, H[5], PPDA); −5.21 (br, 1H, H[1], PPDA); −5.74 (br, 1H, H[3], PPDA); −6.36 (br, 1H, H[2], PPDA); −7.55 (br, 2H, −NH2); −7.87 (br, 2H, −NH2) ppm.
+4-033	Zn2DPO·PEDA.
+4-034	Zn(II) bisporphyrin, Zn2DPO (50 mg, 0.039 mmol), was dissolved in 2.5 mL of distilled dichloromethane, and (S)-PEDA (6.4 mg, 0.047 mmol) was added to the solution, which was stirred at room temperature for 15 min.
+4-035	The solution was filtered to remove any solid residue and slowly layered with acetonitrile.
+4-036	After allowing to stand for 6−7 days, a dark crystalline solid were precipitated out, which was filtered, washed with acetonitrile, and dried well under vacuum.
+4-037	Yield: 42 mg (76%).
+4-038	Anal. Calcd (found): C, 72.77 (72.71); H, 6.54 (6.59); N, 10.10 (10.18).
+4-039	UV−vis (chloroform) [λmax, nm (ε, M−1 cm−1)]: 412 (3.22 × 10 5),426sh (7.71 × 104),547(2.55 × 104),581(1.32 × 10 4).
+4-040	1H NMR (CDCl3, 295 K): δ 9.85 (s,
+4-041	Article
+4-042	2H, 10-meso-H); 9.50 (br, 2H, 15-meso-H); 9.00 (s, 2H, 20-meso-H); 8.52 (br, 2H, Ar-H); 7.90 (br, 4H, Ar-H); 7.08 (br, 2H, Ar-H); 6.39 (br, 1H, −CH, PEDA); 6.03 (br, 2H, −CH, PEDA); 3.92−3.02 (m, 18H, −CH, PEDA, −CH2); 2.11−1.26 (m, 48H, −CH3); −4.97 (br, 1H, H[1]); −5.57 (br, 1H, H[3]); −6.28 (br, 1H, H[2]); −6.78 (br, 2H, −NH2); −7.48 (br, 2H, −NH2) ppm.
+4-043	Zn 2DPO·DPEA.
+4-044	Zn(II) bisporphyrin, Zn2DPO (50 mg, 0.039 mmol), was dissolved in 2.5 mL of distilled chloroform.
+4-045	(1R,2R)-DPEA (9.9 mg, 0.047 mmol) was added to it and stirred for nearly 15 min.
+4-046	The resulting solution was then filtered off to remove any solid residue and carefully layered with n-hexanes.
+4-047	On standing for 6−7 days in air at room temperature, a dark crystalline solid of the molecule was formed, which was then collected by filtration, washed well with cyclohexane, and dried well under vacuum.
+4-048	Yield: 44 mg (75%).
+4-049	Anal. Calcd (found): C, 74.04 (74.15); H, 6.49 (6.55); N, 9.60 (9.69) UV−vis (chloroform) [λmax , nm (ε, M−1 cm−1)]: 412 (2.47 × 105),429sh (5.39 × 104),543(2.44 × 104),577(1.77 × 104).
+4-050	1H NMR (CDCl3, 218 K): 10.07 (s, 2H, 10-meso-H); 10.03 (s, 2H, 15-meso-H); 10.01 (s, 2H, 20-meso-H); 8.05 (d, 1H, Ar-H); 7.81 (d, 1H, Ar-H); 7.69 (m, 2H, Ar-H); 7.29 (d, 2H, Ar-H); 7.07 (t, 1H, Ar-H); 6.91 (br, 1H, Ar-H); 6.74 (m, 2H, −CH, DPEA); 6.60 (m, 4H, −CH, DPEA); 5.31 (m, 4H, −CH, DPEA); 4.08−3.61 (m, 16H, −CH2); 2.69−0.80 (m, 48H, −CH3); −0.62 (br, 2H, −CH, DPEA); −1.60 (br, 4H, −NH2, DPEA).
+4-051	Instrumentation.
+4-052	UV−visible and circular dichroism spectra were recorded on a PerkinElmer UV/vis spectrometer and JASCO J-815 spectrometer, respectively.
+4-053	Elemental (C, H, and N) analyses were performed on a CE-440 elemental analyzer.
+4-054	1H NMR spectra were recorded on a JEOL 500 MHz instrument.
+4-055	The residual 1H resonances of the solvents were used as a secondary reference.
+4-056	X-ray Structure Solution and Refinement.
+4-057	Crystals were coated with light hydrocarbon oil and mounted in the 100 K dinitrogen stream of a Bruker SMART APEX CCD diffractometer equipped with a CRYO Industries low-temperature apparatus, and intensity data were collected using graphite-monochromated Mo Kα radiation (λ = 0.71073 Å).
+4-058	The data integration and reduction were processed with SAINT software.[21]
+4-059	An absorption correction was applied.[22]
+4-060	Structures were solved by the direct method using SHELXS-97 and were refined on F[2] by a full-matrix least-squares technique using the SHELXL-97 program package.[23]
+4-061	Non-hydrogen atoms were refined anisotropically.
+4-062	In the refinement, hydrogens were treated as riding atoms using SHELXL default parameters.
+4-063	In the structure of Zn 2DPO·DAP, two badly disordered CH2Cl2 were present, which could not be modeled successfully and, therefore, SQUEEZE[24] was used.
+4-064	Crystal data and data collection parameters are shown in Table S2.

@@ -1,0 +1,272 @@
+# document_id: jo902300e
+# extractor: kordoc-markdown-adapter-1
+1-001	found broad application in chemistry,1biology,2drug develop- ment,[3] and material science.[4]
+1-002	The reaction is high yielding, The Huisgen-Meldal-Sharpless cycloaddition “click” 1b
+1-003	robust, and can be performed under aqueous conditions.
+1-004	In reaction performed with organic azides and alkynes has
+1-005	the field of DNA and RNA chemistry as well as in chemical
+1-006	*To whom correspondence should be addressed.
+1-007	Phone: þ49(0)25153 biology, the method has been used to introduce reporter
+1-008	406 500.
+1-009	Fax: þ49 (0)251 53 406 857.
+1-010	Homepage: www.seela.net. groups into biomolecules in a very efficient way.5 Recently,
+1-011	our laboratory has reported on nucleosides and oligonucleo- tides with alkynylated side chains in the 5-position of pyrimi- dines or the 7-position of 7-deazapurines and 8-aza-7-deazapurines.[6]
+1-012	The terminal triple bonds of the side chain were functionalized with various azides including those of AZT and coumarin.[6e,7] As there is an ongoing interest in the high density labeling of nucleosides and oligonucleotides, we have introduced a tripropargylamine residue instead of the octa-1,7-diynyl side chain in 20-deoxyuridine as well as in corresponding DNA fragments.[8]
+1-013	Thus, a branched side chain was generated with two reactive terminal triple bonds.
+1-014	As two terminal triple bonds can be functionalized simultaneously, the density of labels on the oligonucleotide chain is increased.
+1-015	The current method called “double click” reaction[8] brings the new ligands of the branched side chain in close proximity.
+1-016	This prompted us to study the functionalization of nucleosides
+1-017	and oligonucleotides with pyrene residues.
+1-018	Various pyrene derivatives of nucleosides and oligonucleotides have been prepared.
+1-019	This includes the use of pyrene as nucleobase surrogate[9] or conjugated to the sugar[10] or abasic site in DNA[11] or base moiety of nucleosides[12] and oligonucleotides.
+1-020	Bispyrene probes have been prepared[13] as well as click reactions with 3 and pyren-1-yl azide have been reported.[14]
+1-021	They were used for DNA and RNA sensing[15] or as nano- materials.[16]
+1-022	Pyrene shows monomer as well as excimer fluorescence.[17]
+1-023	Excimer fluorescence occurs when one pyrene molecule in the excited state forms a contact dimer with a second molecule in the ground state.[18]
+1-024	We have selected 7-deaza-20-deoxyguano- sine (1a)[19] (Figure 1) as 20-deoxyguanosine surrogate for DNA modification as it exhibits extraordinary chemical, physical, and biological properties.
+1-025	Base pairing is limited to the Watson-Crick mode;[20] it can be functionalized with rather bulky substituents at the 7-position without perturbing the DNA duplex structure,[6c,d,21] and its triphosphate is well- accepted by DNA polymerases.[22]
+1-026	Furthermore, 20,30-dideoxy derivatives have been already tethered with fluorescent dyes[23] and are used as chain terminators in the Sanger dideoxy sequencing protocol and MALDI-TOF mass spectrometry.[24]
+1-027	a 0
+1-028	Reagents and conditions: (i) tri(prop-2-ynyl)amine, [Pd [P(Ph3)4], CuI, dry DMF, Et3N, rt, 12 h; (ii) i-Bu2O, TMSCl, anhydrous pyridine, rt, 3 h; (iii) 4,40-dimethoxytriphenylmethyl chloride, anhydrous pyridine, rt, 8 h; (iv) 2-cyanoethyl-N,N-diisopropylchlorophosphoramidite, anhydrous
+1-029	CH2Cl2, (i-Pr)2EtN, rt, 30 min.
+1-030	Consequently, compound 1a has found broad applications as a 20-deoxyguanosine mimic in nucleoside, nucleotide, and oligo-
+1-031	nucleotide chemistry and biology.
+1-032	Recent review on pyrrolo- [2,3-d]pyrimidines covers various aspects of this molecule.[25]
+1-033	This paper describes the functionalization of the iodo nucleoside 1b[26a] with tripropargylamine to yield nucleoside
+1-034	2 followed by the “double click” reaction with the 1-azido- methyl pyrene (3), affording the dye conjugate 4.
+1-035	Oligo- nucleotides were prepared containing 2, which were then functionalized in a similar way as the nucleoside.
+1-036	The “double click” protocol is used to introduce identical pyrene labels simultaneously by the azide-alkyne click reaction into a side chain of an oligonucleotide.
+1-037	The influence of the tripropargylamine residue on the duplex stability is investi- gated, and monomer as well as excimer fluorescence is studied on nucleosides and oligonucleotides.
+1-038	For compar- ison, pyrene functionalization was also investigated on nu- cleosides and oligonucleotides bearing an octadiynyl side chain in the 7-position of 7-deaza-20-deoxyguanosine (8).[6d]
+2-001	Synthesis and Characterization of Monomers.
+2-002	For oligo- nucleotide synthesis, phosphoramidite building block 7 was synthesized.
+2-003	The 7-iodo-7-deaza-20-deoxyguanosine (1b) served as starting material in the Sonogashira cross-coupling reaction.
+2-004	The reaction was performed in dry DMF in the presence of Et3N, [Pd0(PPh3)4], and CuI, with a 10-fold excess of alkyne affording nucleoside 2 in 55% yield.
+2-005	Next,
+2-006	compound 2 was protected at the 2-amino group with an iso-butyryl residue affording the protected intermediate 5 in 72% yield.
+2-007	Then, compound 5 was converted to the 50-O-DMT derivative 6 under standard conditions.
+2-008	Further phosphityla- tion yielded the phosphoramidite 7 (82%) (Scheme 1).
+2-009	For the Cu(I)-catalyzed click reaction, the 1-azidomethyl pyrene (3) was prepared from 1-pyrenemethanol following an already published procedure.[14a] Next, the “double click” reaction was performed on compound 2 with 3 yielding the bispyrene derivative 4 in 79% yield.
+2-010	We found that both terminal triple bonds were functionalized simultaneously by two reporter groups (pyrenes) even though they are space demanding.
+2-011	Monofunctionalized side chains were not detected, which might result from direct participation of copper ions bound to the tripropargylamine side chain, thereby catalyzing the click reaction at the active center.
+2-012	For comparison, the click reaction was also undertaken on the octa-1,7-diynyl nucleoside 86d with 3 giving the click product 9 in 83% yield (Scheme 2).
+2-013	All compounds were characterized by elemental analyses and 1H and 13C NMR spectra.
+2-014	The 13C NMR chemical shifts are listed in Experimental Section (see also Table S2, Sup- porting Information).
+2-015	The 1H-13C coupling constants were determined from 1H-13C gated-decoupled spectra (see Table S3, Supporting Information).
+2-016	The intact structure of the tripropargylamine side chain was confirmed by 13C
+2-017	Duplexes Containing the 7-Deazaguanine Derivatives 2 and 8a
+2-018	Tm ΔTmb ΔG°310c
+2-019	duplexes (°C) (°C) (kcal/mol) 50-d(TAG GTC AAT ACT) (10) 50 - -11.8
+2-020	30-d(ATC CAG TTA TGA) (11)
+2-021	50-d(TA2 GTC AAT ACT) (12) 52 þ2 -13.7
+2-022	30-d(ATC CAG TTA TGA) (11)
+2-023	50-d(TAG GTC AAT ACT) (10) 50 þ0 -12.3
+2-024	30-d(ATC CA2 TTA TGA) (13)
+2-025	50-d(TAG GTC AAT ACT) (10) 54 þ4 -14.4
+2-026	30-d(ATC CAG TTA T2A) (14)
+2-027	50-d(TAG GTC AAT ACT) (10) 51 þ1 -12.7
+2-028	30-d(ATC CA2 TTA T2A) (15)
+2-029	50-d(TA22TC AAT ACT) (16) 54 þ4 -14.5
+2-030	30-d(ATC CAG TTA TGA) (11)
+2-031	50-d(TA22TC AAT ACT) (16) 55 þ5 -14.3
+2-032	30-d(ATC CAG TTA T2A) (14)
+2-033	50-d(TA22TC AAT ACT) (16) 56 þ6 -14.2
+2-034	30-d(ATC CA2 TTA T2A) (15)
+2-035	50-d(TA8 GTC AAT ACT) (17) 52 þ2 -13.0
+2-036	30-d(ATC CAG TTA TGA) (11)
+2-037	50-d(TAG GTC AAT ACT) (10) 51 þ1 -12.6
+2-038	30-d(ATC CA8 TTA TGA) (18)
+2-039	50-d(TA88TC AAT ACT) (19) 536d þ3
+2-040	30-d(ATC CAG TTA TGA) (11)
+2-041	50-d(TA88TC AAT ACT) (19) 556d þ5
+2-042	30-d(ATC CAG TTA T8A) (20)
+2-043	50-d(TA88TC AAT ACT) (19) 586d þ8
+2-044	30-d(ATC CA8 TTA T8A) (21)
+2-045	aMeasured at 260 nm in 1 M NaCl, 100 mM MgCl2, and 60 mM Na- cacodylate (pH 7.0) with 5 μM þ 5 μM single-strand concentration. bRefers to the temperature difference of the modified duplex versus the unmodified reference duplex. cThe ΔG°310 values were calculated with the software package “Cary WinUV” for thermal applications supplied with the Cary UV/vis spectrometer.
+2-046	The ΔG°310 values are given with 15% error.
+2-047	NMR spectra showing two signals of the methylene groups (41.1 and 42.2 ppm) and four signals for the triple bond carbons (2: 75.9, 79.2, 79.3, 84.5 ppm; Table S2), confirmed by inverted signals of distortionless enhancement by polarization transfer (DEPT-135) spectra (Supporting Information).
+2-048	From this, it was concluded that the triple bonds are not affected by the Pd-assisted Sonogashira cross coupling (allene formation[26b]).
+2-049	Synthesis and Duplex Stability of Oligonucleotides Con- taining 7-Tripropargylamine Side Chain.
+2-050	Earlier, it was shown that nucleoside derivatives with alkynyl side chains in the 5-position of pyrimidine or the 7-position of pyrrolo- [2,3-d]pyrimidine nucleobases are well-accommodated in the major groove of DNA.[6c,d,7,21] In many cases, propynyl and octadiynyl side chains have a positive effect on the stability of the DNA duplex.
+2-051	Recently, a branched tripropargylamine linker was introduced at the 5-position of 20-deoxyuridine as well as in corresponding oligonucleotides.[8]
+2-052	To evaluate the potential of the 7-tripropargylamine residue on 7-deazapur- ine bases regarding duplex stability, functionalization, and charge transfer, the “double click” reaction was performed on a series of oligonucleotides.
+2-053	For this, phosphoramidite 7 was employed in solid-phase synthesis in a 1 μmol scale.
+2-054	The coupling yields were always higher than 95%.
+2-055	Deprotection of the oligomers was performed in 25% aqueous NH3 at 60 °C for 16 h.
+2-056	The oligonucleotides were purified before and after detritylation by reversed-phase HPLC.
+2-057	The incorpora- tion of the modified residue 2 into the oligonucleotides was confirmed by MALDI-TOF mass spectrometry (see Supporting Information, Table S1).
+2-058	Single and multiple incorporations of 2, replacing dG residues within various positions of the reference duplex 50-d(TAG GTC AAT ACT) (10) and 30-d(ATC CAG TTA TGA) (11), were performed.
+2-059	Modified oligonucleotides and their duplexes are shown in Table 1.
+2-060	In all cases, more stable duplexes were formed when the tripropargylamine nucleo- side 2 was replacing dG.
+2-061	These values are close to the Tm values found for oligonucleotide duplexes containing 7-deaza-7-octa-1,7-diynyl-dG (8) at identical positions.[6d] Thus, the more bulky tripropargylamine side chain is not perturbing DNA duplex structure as it was found for the even less space demanding octadiynyl linker.
+2-062	The more hydrophilic character arising by virtue of terminal triple bonds has this advantage over fully saturated side chains.
+2-063	Water molecules will bind to the terminal triple bonds via hydrogen bonding, reducing the hydrophobicity.
+2-064	Synthesis and Duplex Stability of Oligonucleotide Pyrene Conjugates.
+2-065	Next, the “double click” reaction was performed on the oligonucleotides 50-d(TA2 GTC AAT ACT) (12) and 50-d(AGT ATT 2AC CTA) (13) each containing one 7-deaza-7-(tripropargylamine)-20-deoxyguanosine residue.
+2-066	Both oligonucleotides were functionalized with 3.
+2-067	The reac- tion was performed in aqueous solution (H2O/t-BuOH/ DMSO) in the presence of CuSO4-TBTA (tris(benzyltri- azoylmethyl)amine) (1:1) complex, TCEP (tris(carboxyethyl)-phosphine), and NaHCO3 (Scheme 3).
+2-068	NaHCO3 was essential for the completion of the reaction within 12 h, yielding the strongly fluorescent oligonucleotides 50-d(TA4 GTC AAT ACT) (22) and 50-d(AGT ATT 4AC CTA) (23).
+2-069	For compar- ison, the click reaction was also performed with the pyrene azide 3 on the oligonucleotides 50-d(TA8 GTC AAT ACT)
+2-070	All oligonucleotides were purified by reversed-phase HPLC and characterized by MALDI-TOF mass spectra (see Supporting Information Table S1).
+2-071	As discussed above, the tripropargylamine as well as the octadiynyl linkers does not perturb the DNA duplex struc- ture.
+2-072	Now, the influence of dye modification on the duplex stability is evaluated.
+2-073	For this, the Tm value of the reference oligonucleotide duplex 50-d(TAG GTC AAT ACT) (10) and 30-d(ATC CAG TTA TGA) (11) modified with 2 and 8, and functionalized with pyrene azide 3, was measured.
+2-074	More stable duplexes are formed by the pyrene-modified oligonu- cleotides compared to the unmodified duplex with a ten- dency of higher Tm values for modification near the terminus than those modified at central position.
+2-075	Overall, Tm data confirm that even four pyrene ligands do not destabilize the DNA duplex (Table 2).
+2-076	Fluorescence Properties of Nucleoside and Oligonucleotide Pyrene “Click” Derivatives.
+2-077	Pyrene shows monomer emis- sion around 370-400 nm and excimer fluorescence around 450-500 nm.[17,18]
+2-078	Excimer fluorescence requires a proximal positioning of the pyrene residues.[27]
+2-079	Two[28] or more than two[29] pyrene residues attached to oligonucleotides were used in nucleic acid hybridization, including parallel duplexes,[30]
+2-080	triplexes,[31] and quadruplexes.[32]
+2-081	For this, pyrene residues were linked to various positions of sugar, nucleosides, and oligonucleotides.[9-12] The 20-hydroxyl group of a sugar moiety was chosen as target position along with the
+2-082	5-position of pyrimidine and the 8-position of purine bases.
+2-083	Photoexcitable pyrene was used for electron and hole trans- fer.
+2-084	When the guanine base was modified, charge separation has been observed to form a guanine radical cation and a pyrene radical anion (Py•--G•þ).[33]
+2-085	In pyrenyl dU nucleo- sides, the process is reversed (electron transport).
+2-086	Now, charge separation yields a uracil radical anion and a pyrene radical cation (Py•þ-dU•-).34Consequently, DNA bases act in either way leading to the quenching of pyrene fluores- cence.
+2-087	As said earlier, for excimer fluorescence, both pyrene residues have to be in proximal position.[27]
+2-088	Yamana and co-workers exploited this phenomenon by introducing two
+2-089	Duplex Pyrene Conjugatesa
+2-090	Tm ΔTmb ΔG°310c
+2-091	duplexes (°C) (°C) (kcal/mol) 50-d(TAG GTC AAT ACT) (10) 50 - -11.8
+2-092	30-d(ATC CAG TTA TGA) (11)
+2-093	50-d(TA4 GTC AAT ACT) (22) 54 þ4 -13.1
+2-094	30-d(ATC CAG TTA TGA) (11)
+2-095	50-d(TAG GTC AAT ACT) (10) 51 þ1 -11.9
+2-096	30-d(ATC CA4 TTA TGA) (23)
+2-097	50-d(TA9 GTC AAT ACT) (24) 54 þ4 -13.3
+2-098	30-d(ATC CAG TTA TGA) (11)
+2-099	50-d(TAG GTC AAT ACT) (10) 55 þ5 -13.3
+2-100	30-d(ATC CA9 TTA TGA) (25)
+2-101	50-d(TA4 GTC AAT ACT) (22) 54 þ4 -13.1
+2-102	30-d(ATC CA4 TTA TGA) (23)
+2-103	50-d(TA9 GTC AAT ACT) (24) 55 þ5 -13.7
+2-104	30-d(ATC CA9 TTA TGA) (25)
+2-105	50-d(TA4 GTC AAT ACT) (22) 54 þ4 -13.8
+2-106	30-d(ATC CA9 TTA TGA) (25)
+2-107	aMeasured at 260 nm in 1 M NaCl, 100 mM MgCl2, and 60 mM Na-cacodylate (pH 7.0) with 5 μM þ 5 μM single-strand concentration. bRefers to the temperature difference of the modified duplex versus the unmodified reference duplex. cThe ΔG°310 values were calculated with the software package “Cary WinUV” for thermal applications supplied with the Cary UV/vis spectrometer.
+2-108	The ΔG°310 values are given with 15% error.
+2-109	pyrene residues in an acyclic propanediol moiety.[35]
+2-110	With this, excimer fluorescence was used to distinguish between single strands and duplex DNA.
+2-111	To evaluate photophysical properties, UV/vis, excitation, and emission spectra of the nucleoside click products 4 and 9 as well as of oligonucleotide click products 22 and 23 (tripropargylamine pyrene conjugates) and 24 and 25 (octadiynyl pyrene conjugates) were measured.
+2-112	In order to determine the quenching of the pyrene fluorescence by the 7-deazaguanine, the abasic derivative 27 was prepared from 1-octyne (26) and the pyrene azide 3 containing all necessary elements of the dye conjugate except 7-deazaguanine (Scheme 4).
+2-113	All measurements were performed in methanol and acetonitrile.
+2-114	For solubility reasons, the monomeric pyrene-1,2,3-triazolyl conjugates 4, 9, and 27 were dissolved first in 1 mL of DMSO and then diluted with 99 mL of the solvent (MeOH or MeCN).
+2-115	In all experiments, the concentration of the dye conjugates was identical (6.8 10-6 M).
+2-116	Next, fluorescence measurements were performed for all three pyrene derivatives (Figure 3) using identical concen- trations as used for the measurement of the UV/vis spectra.
+2-117	Only the nucleoside click product 4 with two proximal pyrenes shows strong excimer fluorescence (464 nm) and rather low monomer fluorescence at 377 and 394 nm, while the conjugate 9 containing one pyrene shows only mono- meric pyrene emission.
+2-118	Monomeric pyrene emission was also observed for the abasic octyne derivative 27.
+2-119	From this, we concluded that in conjugate 4 the two pyrenes are in pro- ximal position, thereby developing strong excimer fluore- scence in methanol as well as in acetonitrile.
+2-120	For conjugate 4, the excimer fluorescence was also observed in DMSO/water mixture (data not shown).
+2-121	However, quantification of data was not possible as this conjugate is not fully soluble (opaque solution).
+2-122	From Figure 3, it is also apparent that both nucleoside conjugates (4 and 9) show rather low monomer fluorescence compared to the abasic conjugate 27 (identical concentration were used in all cases).
+2-123	This points to a quenching of the pyrene fluorescence by the 7-deazaguanine moiety within both nucleoside conjugates.
+2-124	As there is no overlap between excitation and emission spectra of the pyrene residue with a nucleobase FRET (F€orster resonance energy transfer), quenching results from an intramolecular charge transfer.
+2-125	Upon irradiation, the pyrene-7-deazaguanine conjugate 4 forms a 7-deazaguanine radical cation and a pyrene radical anion (c7G•þ-Py•-) resulting in charge separation.
+2-126	A charge transfer was already observed for 7-deazaguanine nucleo- sides and oligonucleotides with other dyes[36] and for the pyrene residue with canonical bases.[33,34]
+2-127	Then, the photophysical properties of single-stranded oligo- nucleotides (ss) and oligonucleotide duplexes (ds) with branched linker were investigated.
+2-128	For that, two oligonucleo- tides 22 and 23 were selected bearing the two proximal pyrene residues in a central or a flanking position.
+2-129	For comparison, the nonbranched oligonucleotides 24 and 25 with octadiynyl linker located at exactly the same position were measured.
+2-130	Then, the corresponding duplexes were measured.
+2-131	In all cases, the complementary strand was unmodified (10 and 11).
+2-132	A 3 nm UV/vis bathochromic shift is observed when duplexes are formed (Figures 4a and 5a).
+2-133	Figures 4b and 5b display the fluorescence emission spectra measured between 360 and 600 nm.
+2-134	Emission maxima are centered near 400 nm.
+2-135	Surpris- ingly, a pyrene excimer emission is not observed for the ss-oligonucleotides 22 and 23 as well as for their duplexes with two proximal pyrenes in one strand (Figure 4b).
+2-136	Measure- ments of the octadiynyl oligonucleotides 24 and 25 gave similar results (Figure 5b).
+2-137	Thus, pyrene-pyrene interactions do not exist neither in ss-oligonucleotides nor in corresponding
+2-138	conjugates were excited at 340 nm.
+2-139	10 325.
+2-140	(b) Fluorescence emission spectra of 2 μM single-stranded oligonucleotides 24, 25 and duplex DNA 11 3 24, 10 3 25 (2 μM of each strand).
+2-141	All spectra were measured in 1 M NaCl, 100 mM MgCl2, and 60 mM Na-cacodylate (pH 7.0).
+2-142	(2 μM þ 2 μM single-strand concentration).
+2-143	(b) Emission spectra of the
+2-144	duplex 22 3 23, 24 3 25, and 22 3 25 (2 μM þ 2 μM single-strand concentration) when excited at 341 nm.
+2-145	All spectra were measured in 1 M NaCl,
+2-146	100 mM MgCl2, and 60 mM Na-cacodylate (pH 7.0).
+2-147	or two (tripropargylamine derivatives) pyrene residues in each strand.
+2-148	Now, all of the duplex combinations show excimer fluorescence, including those containing only one pyrene modification in each strand.
+2-149	However, the fluores- cence intensities are higher for the duplex with four pyr- enes (22 3 23) than for those incorporating two or three pyrene residues (Figure 6b).
+2-150	This excimer fluorescence results from an interstrand cross-talk of the pyrene resi- dues.
+2-151	Figure 7 illustrates the set of combination of the various duplexes.
+2-152	However, it does not display the steric consequences.
+2-153	Inspection of a B-DNA model shows that the modification sites separated by two base pairs within the duplex DNA allow a proximal positioning of two pyrene residues within the major groove supplied by complementary strands.
+2-154	Such a phenomenon was already reported for pyrene residues located in the minor groove.
+2-155	In this case, the pyrene moiety was linked to the sugar moiety of locked nucleosides.[37]
+2-156	From Figure 6b, it is
+2-157	obvious that the number of pyrene residues increases the excimer fluorescence.
+2-158	These findings are supported by molecular dynamics simula- tions using Amber MMþ force field (Hyperchem 7.0/8.0; Hypercube Inc., Gainesville, FL).
+2-159	Calculations were performed on the 12-mer duplexes 11 3 22 and 22 3 23.
+2-160	The energy-mini- mized molecular structures are built as B-type DNA and are shown in Figure 8.
+2-161	Figure 8a displays a duplex decorated with two pyrene moieties (11 3 22) in which a terminal dG residue is replaced by the branched tripropargylamine derivative of 7-deaza-20-deoxyguanosine.
+2-162	Moreover, the duplex structure is not disturbed even after modification.
+2-163	As indicated in the picture, the pyrene residues lie apart from each other, exhibiting only monomer fluorescence.
+2-164	A duplex containing two 7-tripro- pargylamine-7-deaza-20-deoxyguanosine functionalized with pyrene residues (22 3 23), one in each strand, displays an excimer fluorescence (Figure 8b).
+2-165	The two pyrene residues in this duplex lie in a close proximity facilitating the π-π interaction between electronic clouds, thus giving rise to excimer fluorescence.[27]
+2-166	It is noteworthy that each pyrene residue involved in excimer for- mation comes from opposite strands.
+2-167	calculations.
+3-001	The 7-tripropargylamine-7-deazaguanine nucleoside (2) was synthesized by the Sonogashira cross-coupling reaction with branched side chains containing two terminal triple bonds.
+3-002	For this, 7-iodo-7-deaza-20-deoxyguanosine (1b) was converted into the 7-tripropargylamine derivative 2 and
+3-003	corresponding phosphoramidite building block 7 was synthesized.
+3-004	Oligonucleotides incorporating 2 were prepared and hybridized.
+3-005	Modified duplexes with single or multiple incorporations have a positive effect on the DNA duplex stability and do not perturb the DNA structure.
+3-006	Cu(I)-assisted functionalization of both terminal triple bonds by
+3-007	the Huisgen-Meldal-Sharpless click reaction, “double click reaction”, with the pyrene azide 3 results in nucleosides and oligonucleotides with proximal pyrenes.
+3-008	The space demanding reporter groups are well-accommodated in the major groove of DNA due to the noncritical modification site (N-7) of the 7-deazaguanine base.
+3-009	While the monomeric tripropargylamine click product 4 with two proximal pyr- enes shows excimer fluorescence, the octadiynyl click adduct 9 with one pyrene unit does not.
+3-010	The ss-oligonucleotides containing compound 4 as well as 9 do not show excimer fluorescence.
+3-011	The same is observed for ds-oligonucleotides with unmodified complementary strands.
+3-012	However, duplex DNA bearing pyrene residues in both strands exhibits strong excimer fluorescence when each strand contains a tripropar- gyl moiety clicked with two pyrenes each.
+3-013	The DNA duplex having two pyrene reporter groups in each strand displays weak excimer fluorescence when the octadiynyl side chain is functionalized with 3.
+3-014	This pyrene-pyrene interstrand inter- action occurs when the pyrene modification sites are separated by two base pairs, which bring the fluorescent dyes in a proximal position.
+3-015	However, the linear increase in the excimer fluorescence intensity with a number of pyrene units may account for both the number of pyrene residues as well as their most favored spatial alignment, which brings them to inter- actable proximity.
+3-016	Molecular dynamics calculations show that only two out of four pyrene residues are communicating, thereby forming the exciplex, while the other two are buried in the major groove of DNA.
+3-017	The modeling data are supported by the photophysical properties of the pyrene-modified duplexes showing monomer and excimer fluorescence.
+3-018	Thus, hybridization can be detected by pyrene excimer fluorescence when a click reaction is performed on oligonucleotides con- taining triprogargylamine as well as octadiynyl side chains.
+4-001	2-Amino-7-(2-deoxy-β-D-erythro-pentofuranosyl)-5-{3-[di(prop-2-ynyl)amino]prop-1-ynyl}-3,7-dihydro-4H-pyrrolo-[2,3-d]pyrimidin-4-one (2).
+4-002	To a suspension of 1b (1.0 g, 2.55 mmol) and CuI (0.097 g, 0.51 mmol) in anhydrous DMF (10 mL) were added successively [Pd(PPh3)4] (0.295 g, 0.255 mmol), anhydrous Et3N (0.516 g, 5.1 mmol), and tri(prop-2-ynyl)amine (3.345 g, 25.5 mmol).
+4-003	The reaction was stirred at room temperature under nitrogen atmos- phere and allowed to proceed until the starting material was consumed (TLC monitoring).
+4-004	Then, the mixture was diluted with MeOH-CH2Cl2 (1:1, 25 mL), and Dowex HCO3h form (100-200 mesh, 1.5 g) was added.
+4-005	After stirring for 15 min, the evolution of gas ceased.
+4-006	Stirring was continued for another 30 min, and the resin was filtered off and washed with MeOH-CH2Cl2 (1:1, 250 mL).
+4-007	The combined filtrate was concentrated and the residue purified by flash chromatography (FC) (silica gel, column 15 3 cm, CH2Cl2/MeOH 96:4) to give 2 (0.554 g, 55%) as a colorless solid: TLC (CH2Cl2/MeOH 90:10) Rf 0.23; λmax (MeOH)/nm 239 (ε/dm[3] mol-1 cm-1 26600), 273 (13200), 291 (11 500); 1H NMR (DMSO-d6, 300 MHz) (δ, ppm) 2.04-2.11 (m, 1H, HR-20), 2.27-2.36 (m, 1H, Hβ-20),3.21-3.32 (m, 2H, 2 CtCH), 3.46-3.52 (m, 6H, 3 NCH2), 3.55 (s, 2H, H-50),3.74-3.77 (m, 1H, H-40),4.27-4.28 (m, 1H, H-30),4.90-4.94 (t, J = 5.7 Hz, 1H, HO-50),5.21-5.23 (d, J = 3.6 Hz, 1H, HO-30),6.24-6.29 (m, 1H, H-10), 6.36 (s, 2H, NH2), 7.25 (s, 1H, H-8), 10.42 (s, 1H, NH); 13C NMR (DMSO-d6, 75 MHz) (δ, ppm) 157.9, 153.2, 150.3, 121.7, 99.5,98.3,87.2,84.5,82.3,79.3,79.2,75.9,70.9,61.9,42.2,41.1.
+4-008	Anal. Calcd for C20H21N5O4 (395.41): C, 60.75; H, 5.35; N, 17.71.
+4-009	Found: C, 60.63; H, 5.26; N, 17.60.
+4-010	7-(2-Deoxy-β-D-erythro-pentofuranosyl)-2-(isobutyrylamino)-5-{3-[di(prop-2-ynyl)amino]prop-1-ynyl}-3,7-dihydro-4H-pyrrolo-[2,3-d]pyrimidin-4-one (5).
+4-011	Compound 2 (0.3 g, 0.76 mmol) was dried by repeated coevaporation with anhydrous pyridine (3 5 mL) and then dissolved in anhydrous pyridine (8 mL), and trimethylsilyl chloride (0.412 g, 3.79 mmol) was added to the solution.
+4-012	The reaction mixture was stirred for 15 min at room temperature, and then isobutyric anhydride (0.6 g, 3.79 mmol) was added.
+4-013	The solution was stirred for 3 h at room temperature.
+4-014	Then, the solution was cooled in an ice bath, and H2O (1 mL) and subsequently (5 min later) 28-30% aq NH3 solution (1 mL) were added, and stirring was continued for 30 min at room tempera- ture.
+4-015	The solvent was evaporated to near dryness, coevaporated with toluene (3 5 mL), and the residue was purified by FC (silica gel, column 15 3 cm, CH2Cl2/MeOH 97:3) to give 5 (0.255 g, 72%) as a colorless solid: TLC (CH2Cl2/MeOH 90:10) Rf 0.51; λmax (MeOH)/nm 238 (ε/dm3mol -1 cm-119 500), 281 (16 100);[1] H NMR (DMSO-d6, 300 MHz) (δ, ppm) 1.10, 1.12 (s, 6H, 2 CH3), 2.10-2.16 (m, 1H, HR-20),2.33-2.42 (m, 1H, Hβ-20),2.67-2.78 (m, 1H, CH), 3.22 (s, 2H, 2 CtCH), 3.46-3.53 (m, 6H, 3 NCH2), 3.58 (s, 2H, H-50),3.78-3.80 (d, J = 1.8 Hz, 1H, H-40), 4.30-4.31 (d, J = 2.4 Hz, 1H, H-30),4.93-4.96 (t, J = 5.1 Hz, 1H, HO-50),5.25-5.26 (d, J = 3.33 Hz, 1H, HO-30),6.34-6.39 (m, 1H, H-10), 7.56 (s, 1H, H-8), 11.57, 11.80 (s, 2H, 2 NH); 13C NMR (DMSO-d6, 75 MHz) (δ, ppm) 180.0, 155.9, 147.6, 147.1, 123.9,103.5,98.9,87.4,85.4,82.7,79.2,78.3,75.9,70.8,61.7,42.1, 41.1, 34.8, 18.9, 18.9.
+4-016	Anal. Calcd for C24H27N5O5 (465.50): C, 61.92; H, 5.85; N, 15.04.
+4-017	Found: C, 61.91; H, 5.82; N, 15.00.
+4-018	7-(2-Deoxy-5-O-(4,40-dimethoxytrityl)-β-D-erythro-pentofura- nosyl)-2-(isobutyrylamino)-5-{3-[di(prop-2-ynyl)amino]prop-1-ynyl}-3,7-dihydro-4H- pyrrolo-[2,3-d]pyrimidin-4-one (6).
+4-019	Compound 5 (0.300 g, 0.65 mmol) was dried by repeated coevaporation with anhydrous pyridine (3 5 mL).
+4-020	The residue was dissolved in anhydrous pyridine (8 mL) and stirred with 4,40-dimethoxytrityl chloride (0.338 g, 0.97 mmol) at room temperature for 8 h.
+4-021	The solution was poured into 5% aq NaHCO3 solution and extracted with CH2Cl2 (3 30 mL).
+4-022	The combined extracts were dried (Na2SO4), and the solvent was evaporated.
+4-023	The residue was purified by FC (silica gel, column 15 3 cm, CH2Cl2/acetone 88:12) to give6 (0.361 g, 73%) as a colorless solid: TLC (CH2Cl2/acetone 80:20) Rf 0.40; λmax (MeOH)/nm 236 (ε/dm[3] mol-1 cm-1 35600),281 (17 300);1H NMR (DMSO-d6, 300 MHz) (δ, ppm) 1.10, 1.13 (s, 6H, 2 CH3),2.24-2.26 (m, 1H, HR-20),2.47-2.55 (m, 1H, Hβ-20), 2.71-2.80 (m, 1H, CH), 3.05-3.18 (m, 2H, H-50), 3.22 (s, 2H, 2 CtCH), 3.45 (s, 4H, 2 NCH2), 3.57 (s, 2H, NCH2), 3.72 (s, 6H, 2 OCH3),3.91-3.92 (m, 1H, H-40), 4.33 (s, 1H, H-30),5.32-5.33 (d, J = 3.9 Hz, 1H, HO-30),6.36-6.41 (t, J = 6.3 Hz, 1H, H-10), 6.82-6.85 (d, J = 8.4 Hz, 2H, Ar-H), 7.21-7.37 (m, 9H, Ar-H), 7.42 (s, 1H, H-8), 11.59, 11.84 (s, 2H, 2 NH); 13C NMR (DMSO- d6, 75 MHz) (δ, ppm) 179.6, 157.5, 155.4, 147.1, 146.8, 144.4, 135.1, 134.9,129.2,127.3,127.2,126.1,123.3,112.6,103.3,98.5,85.1,85.0, 82.2,78.7,77.6,75.3,70.0,63.6,54.5,41.6,40.6,34.3,29.9,18.4,18.3.
+4-024	Anal. Calcd for C45H45N5O7 (767.87): C, 70.39; H, 5.91; N, 9.12.
+4-025	Found: C, 70.36; H, 6.01; N, 9.06.
+4-026	7-[2-Deoxy-5-O-(4,40-dimethoxytrityl)-β-D-erythro-pentofura-
+4-027	nosyl]-2-(isobutyrylamino)-5-{3-[di(prop-2-ynyl)amino]prop-1-ynyl}-3,7-dihydro-4H-pyrrolo-[2,3-d]pyrimidin-4-one-30-[(2-cyanoethyl)-N, N-(diisopropyl)]phosphoramidite (7).
+4-028	To stirred solution of 6 (0.2 g, 0.26 mmol) in anhydrous CH2Cl2 (10 mL) was preflushed with nitrogen and treated with (i-Pr)2NEt (0.067 g, 0.52 mmol) followed by 2-cyanoethyl-N,N-diisopropylphosphoramidochlori- dite (0.082 g, 0.35 mmol).
+4-029	After stirring for 30 min at room temperature, the solution was diluted with CH2Cl2 (30 mL) and extracted with 5% aquous NaHCO3 solution (20 mL).
+4-030	The organic layer was dried over Na2SO4 and evaporated.
+4-031	The residue was purified by FC (silica gel, column 10 2 cm, CH2Cl2/acetone 90:10) to give 7 (0.206 g, 82%) as a colorless foam: TLC (CH2Cl2/acetone 90:10) Rf 0.26; 31P NMR (CDCl3) δ 147.4,148.1.
+4-032	Huisgen-Meldal-Sharpless [3 þ 2] Cycloaddition of Com- (1.3 mol % with respect to total alkyne units).
+4-033	Then, the reaction pound 2 with 3. 2-Amino-7-(2-deoxy-β-D-erythro-pentofuranosyl)- mixture was stirred at room temperature for 24 h, and a white 3,7-dihydro-5-{[di(10,20,30-triazol-1-methylpyrene]-propargyl- solid precipitated from the reaction mixture.
+4-034	Filtration and amino}-4H-pyrrolo-[2,3-d]pyrimidin-4-one (4).
+4-035	Compound 2 washing with cold acetonitrile afforded 27 as a colorless solid (0.06 g, 0.15 mmol) and 1-azidomethyl pyrene (0.104 g, 0.4 mmol) (0.110 g, 79%): TLC (PE/EtOAc 80:20) Rf 0.26; λmax (MeOH)/were dissolved in THF/H2O/tBuOH (3:1:1, v/v, 4 mL), then nm 265 (ε/dm[3] mol-1 cm-1 28900),275(54400),312(13400), sodium ascorbate (60 μL, 0.06 mmol) of freshly prepared 1 M 326 (31 700), 342 (48 100);1H NMR (CDCl3, 300 MHz) (δ, ppm) solution in water was added, followed by the addition of copper- 0.78 (s, 3H, CH3), 1.20 (s, 6H, 3 CH2),1.50-1.55 (m, 2H, CH2), (II) sulfate pentahydrate 7.5% in water (54 μL, 0.015 mmol).
+4-036	The 2.56-2.61 (t, J = 7.5 Hz, 2H, CH2), 6.21 (s, 2H, pyrene-CH2), reaction mixture was stirred for 16 h at room temperature.
+4-037	The 7.00 (s, 1H, H-5-triazole), 7.92-8.23 (m, 9H, Ar-H); 13C NMR solvent was evaporated, and the residue was purified by FC (silica (CDCl3, 75 MHz) (δ, ppm) 148.9, 132.0, 131.2, 130.6, 129.3, gel, column 10 3 cm, CH2Cl2/MeOH 90:10) to give 4 (0.110 g, 128.9,128.2,125.5,127.2,127.2,126.4,125.9,125.0,124.9,124.5, 79%) as a colorless solid: TLC (CH2Cl2/MeOH 90:10) Rf 0.53; 122.0, 120.4, 52.3, 31.5, 29.3, 28.8, 25.7, 22.5, 14.0.
+4-038	Anal. Calcd for λmax (MeOH)/nm 265 (ε/dm[3] mol-1 cm-1 54100),275(90720), C25H25N3 (367.49): C, 81.71; H, 6.86; N, 11.43.
+4-039	Found: C, 81.70; 312 (24 200), 326 (49 900), 342 (73 600); 1H NMR (DMSO-d6, H, 7.00; N, 11.35.
+4-040	300 MHz) (δ, ppm) 2.03-2.09 (m, 1H, HR-20),2.26-2.35 (m, 1H, General Procedure for Huisgen-Meldal-Sharpless [3 þ 2] Hβ-20), 3.33 (s, 2H, NCH2),3.46-3.49 (m, 2H, H-50), 3.74 (s, 5H, Cycloaddition Performed on Oligonucleotides in Aqueous Solu-
+4-041	NH); 13C NMR (DMSO-d6, 75 MHz) (δ, ppm) 158.1, 153.2, NaHCO3 (50 μL, 20 mM stock solution in water), 1-azidomethyl-150.4,143.8,130.9,130.7,130.1,129.3,128.3,128.2,127.7,127.6, pyrene (3, 100 μL of a 20 mM stock solution in H2O/dioxane/126.4,126.1,125.6,125.0,124.6,124.0,123.7,122.8,121.7,99.7, DMSO, 1:1:1), and DMSO (30 μL), and the reaction mixture was 98.5, 87.2, 84.7, 82.3, 79.6, 70.9, 61.9, 50.8, 47.5, 42.4, 30.7.
+4-042	Anal. stirred at room temperature for 12 h.
+4-043	The reaction mixture was Calcd for C54H43N11O4 (909.99): C, 71.27; H, 4.76; N, 16.93. concentrated in a speed vac and dissolved in 500 μL bidistilled Found: C, 70.91; H, 4.39; N, 16.52. water and centrifuged for 30 min at 14 000 rpm.
+4-044	The supernatant Huisgen-Meldal-Sharpless [3 þ 2] Cycloaddition of Com- solution was collected and further purified by reversed-phase pound 8 with 3. 2-Amino-7-(2-deoxy-β-D-erythro-pentofuranosyl)- HPLC with the gradient 0-20 min 0-20% B in A, 20-25 min 3,7-dihydro-5-{[10,20,30-triazol-1-methylpyrene]hexylidyne}-4H- 20% B in A, 25-30 min 20-0% B in A, flow rate 1 cm3 min-1.pyrrolo[2,3-d]pyrimidin-4-one (9).
+4-045	As described for 4, com- The molecular masses of the oligonucleotides were determined by pound 8 (0.06 g, 0.16 mmol), 1-azidomethyl pyrene (0.058 g, MALDI-TOF spectra (Table S1, Supporting Information).
+4-046	0.23 mmol), THF/H2O/tBuOH (3:1:1, v/v, 4 mL), sodium
+4-047	ascorbate (67 μL, 0.064 mmol), copper(II) sulfate pentahydrate

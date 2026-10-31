@@ -1,0 +1,189 @@
+# document_id: jo101346t
+# extractor: kordoc-markdown-adapter-1
+1-001	DMAP (4-dimethylaminopyridine),2 a broad range of organo- catalysts have been developed, including N-heterocyclic The past decade has witnessed spectacular progress in organo- 3 4 5 6 1 carbenes, sulfonic acids, guanidines, phosphazenes, etc. catalyzed ring-opening polymerization (ROP).
+1-002	Following the The combination of tertiary amines with various types of pioneering contribution of Hedrick and Waymouth using 7 8 hydrogen-bond donors such as thioureas, amides, (1) (a) Bourissou, D.; Moebs-Sanchez, S.; Martin-Vaca, B. C. R. Chim.
+1-003	(5) (a) Pratt, R. C.; Lohmeijer, B. G. G.; Long, D. A.; Waymouth, R. M.; 2007, 10, 775–794.
+1-004	(b) Kamber, N. E.; Jeong, W.; Waymouth, R. M.; Pratt, Hedrick, J. L. J. Am.
+1-005	Chem.
+1-006	Soc. 2006, 128, 4556–4557.
+1-007	(b) Lohmeijer, B. G. G.; R. C.; Lohmeijer, B. G. G.; Hedrick, J. L. Chem.
+1-008	Rev. 2007, 107, 5813–5840.
+1-009	Pratt, R. C.; Leibfarth, F.; Logan, J. W.; Long, D. A.; Dove, A. P.; Nederberg, (c) Kiesewetter, M. K.; Shin, E. J.; Hedrick, J. L.; Waymouth, R. M. F.; Choi, J.; Wade, C.; Waymouth, R. M.; Hedrick, J. L. Macromolecules 2006, Macromolecules 2010, 43, 2093–2107. 39, 8574–8583.
+1-010	(c) Kiesewetter, M. K.; Scholten, M. D.; Kirn, N.; Weber, R. L.; (2) Nederberg, F.; Connor, E. F.; Moller, M.; Glauser, T.; Hedrick, J. L. Hedrick, J. L.; Waymouth, R. M. J. Org.
+1-011	Chem. 2009, 74, 9460–9496.
+1-012	(d) Zhang, Angew.
+1-013	Chem., Int.
+1-014	Ed. 2001, 40, 2712–2715.
+1-015	L.; Pratt, R. C.; Nederberg, F.; Horn, H. W.; Rice, J. E.; Waymouth, R. M.; (3) (a) Dove, A. P.; Pratt, R. C.; Lohmeijer, B. G. G.; Culkin, D. A.; Hagberg, Wade, C. G.; Hedrick, J. L. Macromolecules 2010, 43, 1660–1664.
+1-016	E. C.; Nyce, G. W.; Waymouth, R. M.; Hedrick, J. L. Polymer 2006, 47, 4018– (6) (a) Zhang, L.; Nederberg, F.; Messman, J. M.; Pratt, R. C.; Hedrick, 4025.
+1-017	(b) Dove, A. P.; Pratt, R. C.; Lohmeijer, B. G. G.; Li, H.; Hagberg, E. C.; J. L.; Wade, C. G. J. Am.
+1-018	Chem.
+1-019	Soc. 2007, 129, 12610–12611.
+1-020	(b) Zhang, L.; Waymouth, R. M.; Hedrick, J. L. N-Heterocyclic Carbenes in Synthesis; Nolan, Nederberg, F.; Pratt, R. C.; Waymouth, R. M.; Hedrick, J. L.; Wade, C. G. S. P., Ed; Wiley-VCH: Weinheim, 2006; pp 275-296.
+1-021	Macromolecules 2007, 40, 4154–4158.
+1-022	(4) (a) Bourissou, D.; Martin-Vaca, B.; Dumitrescu, A.; Graullier, M.; (7) (a) Dove, A. P.; Pratt, R. C.; Lohmeijer, B. G. G.; Waymouth, R. M.; Lacombe, F. Macromolecules 2005, 38, 9993–9998.
+1-023	(b) Gazeau-Bureau, S.; Hedrick, J. L. J. Am.
+1-024	Chem.
+1-025	Soc. 2005, 127, 13798–13799.
+1-026	(b) Pratt, R. C.; Delcroix, D.; Martin-Vaca, B.; Bourissou, D.; Navarro, C.; Magnet, S. Macro- Lohmeijer, B. G. G.; Long, D. A.; Lundberg, P. N. P.; Dove, A. P.; Li, H. B.; molecules 2008, 41, 3782–3784.
+1-027	(c) Basko, M.; Kubisa, P. J. Polym.
+1-028	Sci., Part A: Wade, C. G.; Waymouth, R. M.; Hedrick, J. L. Macromolecules 2006, 39, Polym.
+1-029	Chem. 2006, 44, 7071–7081.
+1-030	(d) Basko, M.; Kubisa, P. J. Polym.
+1-031	Sci., Part 7863–7871.
+1-032	A: Polym.
+1-033	Chem. 2007, 45, 3090–3097.
+1-034	(e) Basko, M.; Kubisa, P. J. Polym.
+1-035	Sci., (8) (a) Koeller, S.; Kadota, J.; Deffieux, A.; Peruch, F.; Massip, S.; Leger, Part A: Polym.
+1-036	Chem. 2008, 46, 7919–7923.
+1-037	(f) Basko, M.; Kubisa, P. J. Polym.
+1-038	J.-M.; Desvergne, J.-P.; Bibal, B. J. Am.
+1-039	Chem.
+1-040	Soc. 2009, 131, 15088–15089.
+1-041	Sci., Part A: Polym.
+1-042	Chem. 2010, 48, 2650–2658.
+1-043	(g) Jaipuri, F. A.; Bower, B. D.; (b) Koeller, S.; Kadota, J.; Peruch, F.; Deffieux, A.; Pinaud, N.; Pianet, I.; Massip, Pohl, N. L. Tetrahedron: Asymmetry 2003, 14, 3249–3252.
+1-044	S.; Leger, J.-M.; Desvergne, J.-P.; Bibal, B. Chem.;Eur.
+1-045	J. 2010, 16, 4196–4205.
+1-046	DOI: 10.1021/jo101346t Published on Web 08/27/2010 J. Org.
+1-047	Chem. 2010, 75, 6581–6587 6581 r 2010 American Chemical Society
+1-048	sulfonamides,[9] and fluorinated alcohols[10] also proved efficient in promoting controlled ROP.[11]
+1-049	In addition to catalytic perfor- mance and polymerization control, increasing efforts have been devoted to better understand the precise mode of action of the various organo-catalysts in order to determine the key factors in terms of activity and selectivity.
+1-050	In contrast with metal alkoxi- des that invariably promote ROP via a coordination-insertion mechanism,[12] various pathways can be distinguished with organo-catalysts: (i) electrophilic or nucleophilic activation of the monomer, (ii) basic activation of the initiating/propagating alcohol, and (iii) concomitant activation of the monomer and initiating/propagating alcohol, that is, bifunctional activation.[1c]
+1-051	Recently, more insight into the precise role of the catalyst as well as the true nature of the key intermediates has been gained experimentally by spectroscopic studies as well as X-ray diffraction studies.[1c] Computational studies have also attracted increasing interest to shed light on the mechanism of organo-catalyzed ROP.[13-16] Accordingly, the concomi- tant activation of the monomer and alcohol has been sub- stantiated for the bicyclic guanidine TBD (1,5,7-triazabicyclo- [4.4.0]dec-5-ene)[14] and for a thiourea/sparteine derivative.[15]
+1-052	Surprisingly, such a cooperativity has also been pointed out recently for DMAP-catalyzed ROP.[16,17]
+1-053	In addition to the basic activation of the alcohol, the acidic ortho-hydrogen atoms were predicted to activate the monomer by nonclassical hydro- gen bonding.
+1-054	Significant progress has been achieved over the past few years in the ROP catalyzed by sulfonic acids.[4]
+1-055	Trifluoro- methane and methane sulfonic acids were found to be simple, robust, and efficient catalysts to promote the controlled ROP of lactide, ε-caprolactone, and β-butyrolactone under mild conditions in the presence of an alcohol as the initiator.[4]
+1-056	Interestingly, these two acids display similar activities toward ε-caprolactone, despite a significant difference in acidity.
+1-057	This prompted us to investigate theoretically the mechanism of the ROP catalyzed by sulfonic acids in order to shed light on the precise mode of action of these acid catalysts.
+1-058	A detailed DFT (density functional theory) study has been performed
+1-059	on the model reaction of ring-opening of ε-caprolactone (ε-CL) by methanol catalyzed by trifluoromethane sulfonic acid (HOTf) and methane sulfonic acid (MSA).18The results of this study are reported here.
+2-001	Trimolecular reactions involving a sulfonic acid (either MSA or HOTf), ε-caprolactone, and an alcohol (methanol) have been investigated, and their free energy profiles have been determined (Scheme 1).
+2-002	For both elementary steps, namely, nucleophilic addition and ring-opening, different pathways have been con- sidered.
+2-003	The nucleophilic addition and ring-opening of ε-capro- lactone can also be envisaged to occur concertedly, but this reaction pathway was found to require a prohibitive activation energy (∼40 kcal mol-1). 18 Due to the fact that the reactions 3
+2-004	involve three molecules, the reference energy has been set to the most stable adduct involving the three molecules.
+2-005	Indeed, it is now well established that classical DFT methods have a problem in computing the entropy within the harmonic approximation.
+2-006	Moreover, this error is increased when the molecularity is strongly reduced from the separated molecules to the ternary adduct.
+2-007	Thus, to reduce this problem, it has been decided in this study to set the reference energy to zero for the most stable ternary adduct of reactants.
+2-008	Calculations were carried out with the Gaussian 0319 suite of programs at the DFT level of theory using the hybrid functional B3PW91.[20]
+2-009	Sulfur, carbon, oxygen, and hydrogen atoms were described with a 6-31G(d,p) double-ζ basis set.[21]
+2-010	Fluorine atom was treated with a Stuttgart-Dresden pseudopotential in com- bination with its adapted basis set,[22] augmented by a set of polarization function d.[23]
+2-011	Geometry optimizations were carried out without any symmetry restrictions, and the nature of the extrema was verified with analytical frequency calculations.
+2-012	The intrinsic reaction coordinate was followed using the IRC tech- nique for all located transition states.
+2-013	Solvent effects (toluene and dichloromethane) were estimated by single-point CPCM calculations[24] on the optimized gas phase structures.
+3-001	Reaction of ε-Caprolactone with Methanol Catalyzed by HOTf.
+3-002	For clarity, the two steps of the reaction, namely, nucleo- philic addition and ring-opening, will be discussed separately.
+3-003	First Step: Nucleophilic Addition (NA) of Methanol on ε-Caprolactone.
+3-004	Three different transition states connecting the ternary adduct of reactants R and the tetrahedral inter- mediate TI were located on the potential energy surface (PES) (Figure 1).
+3-005	The first transition state, 1, corresponds to the nucleophilic attack of methanol on the carbonyl group of ε-CL with electrophilic assistance of the acid.
+3-006	The hydrogen of the acid is engaged in a weak hydrogen bond with the exo-oxygen of ε-CL (O exo 333 H distance is 1.44 A vs 1.05 A for the H 333 Oacid distance).
+3-007	The proton of methanol is partially transferred to the exo-oxygen of ε-CL (the two O 333 H distances are 1.22 A), leading to a four-membered ring.
+3-008	In addition to the electrophilic assistance of ε-CL by the acid, the second transition state, 2, involves activation of methanol by the acid through hydrogen bonding.
+3-009	The transfer of the proton of the acid to the exo-oxygen of ε-caprolactone is enforced (Oexo 333 H distance of 1.07 A vs Oacid 333 H distance of 1.38 A).
+3-010	Moreover, the hydrogen of methanol is engaged in a weak interaction with one basic oxygen (different from the one carrying the hydrogen) of the acid (Oacid 333 H distance of 1.66 A vs 0.99 A for the O 333 H bond in methanol).
+3-011	This leads to an eight-membered ring structure.
+3-012	Even though the activation of ε-CL predominates over that of methanol, the geometry of transition state 2 indicates the ability of the acid to activate simultaneously the two partners.
+3-013	The sulfonic acid can thus be considered to act in this case as a “proton shuttle”.
+3-014	The NA of methanol on ε-CL is less advanced in 2 than in transition state 1: the oxygen atom of methanol is only loosely bonded to the carbonyl group (O 333 C distance of 2.02 A in 2 vs 1.73 A in 1), while the CdO bond of ε-CL retains marked double-bond character (C 333 O distance of 1.27 A in 2 vs 1.35 A in 1).
+3-015	The third located transition state, 3, also involves a co- operative activation of ε-CL and methanol by the sulfonic acid.
+3-016	Here, only one oxygen of the acid is involved.
+3-017	The proton transfer from the acid to ε-CL is further enhanced with respect to 2 (Oexo 333 H distance of 1.00 A vs Oacid 333 H distance of 1.77 A).
+3-018	The hydrogen of the methanol is engaged in a weak hydrogen bond with the oxygen atom of the acid carrying the proton (Oacid 333 H distance of 1.52 A vs 1.03 A for the O 333 H bond in methanol).
+3-019	Here also, the sulfonic acid formally acts as a “proton shuttle” but via a six-membered- ring structure.
+3-020	The NA of methanol on ε-CL is more advanced than in 2, but less than in 1, as apparent from the intermediate values of the forming C-O and disrupting CdO bonds.
+3-021	From an energetic viewpoint (Figure 2), the activation barrier for the monofunctional mechanism (via transition state 1) is high (38 kcal 3 mol-1) and hardly compatible with4b,c the mild conditions of polymerization.
+3-022	The experimental observations are in better agreement with the barriers pre- dicted for the two bifunctional pathways (via transition states 2 and 3).
+3-023	Indeed, the two respective barriers are almost identical (∼16.5 kcal 3 mol-1) and much lower than the one found for the monofunctional pathway.
+3-024	The large differ- ences found between transition state 1 on one hand and transition states 2 and 3 on the other hand strongly support a bifunctional activation for the NA step.
+3-025	Although the main role of the sulfonic acid is, as expected, the activation of ε-CL, these results underline the important influence of the concomitant activation of the alcohol (methanol here) by the acid.
+3-026	These secondary interactions allow reducing the ring strain associated with the proton transfer from the alcohol to the ε-CL (four-membered ring for 1 vs eight- and six- membered rings for 2 and 3, respectively).
+3-027	The three path- ways lead to the formation of three adducts between the acid and tetrahedral intermediate that differ by the nature of the hydrogen bonds involved.
+3-028	The difference in energy between these three adducts is small (less than 3.5 kcal 3 mol-1), and the formation of this intermediate is predicted to be endo- thermic by about 10 kcal 3 mol-1.
+3-029	Second Step: Ring-Opening (RO) of the Tetrahedral Inter- mediate.
+3-030	This step involves the cleavage of the endo C-O bond of the tetrahedral intermediate TI with concomitant proton transfer.
+3-031	Two different TSs were located on the PES (Figure 3).
+3-032	The first one, 4, is a direct ring-opening without active participation of the acid that remains in the interaction through a hydrogen bond with the OMe group.
+3-033	The endo C-O bond is almost broken (1.79 A vs 1.38 A in the tetrahedral intermediate), and the proton bridges almost symmetrically the two oxygen atoms (1.20 and 1.24 A).
+3-034	In the second transition state, 5, the sulfonic acid bridges the hydroxyl group and endo oxygen involved in the ring-opening.
+3-035	The proton transfer from the acid to the endo oxygen is highly advanced (Oendo 333 H distance of 1.05 A vs 1.44 A for the Oacid 333 H one) and is concomitant with the breaking of the endo C-O bond (1.65 A vs 1.38 A in the tetrahedral intermediate).
+3-036	Moreover, a weak hydrogen bond is formed between the hydroxyl group and the dicoordinate oxygen atom of the acid (Oacid 333 H distance of 1.85 A vs 0.98 A in the hydroxyl group).
+3-037	Accordingly, the sulfonic acid can be considered to act here also as a “proton shuttle” via a six- membered-ring transition state (similar to 3 for the NA step).
+3-038	A related eight-membered-ring structure (similar to that
+3-039	(calculations in the gas phase at the B3PW91/SDDALL(F),6-31G(d,p)(C,H,O,S) level of theory).
+3-040	encountered in 2 for the NA) can also be envisioned, but no respective transition state could be located on the PES.
+3-041	Compared to transition state 4, the ring-opening is less advanced in 5, as apparent from the values of the disrupting C-O and re-forming CdO bonds.
+3-042	From an energetic point of view (Figure 2), the uncata- lyzed pathway for the ring-opening step (via transition state
+3-043	4) requires an energy barrier of about 32 kcal 3 mol-1from the tetrahedral intermediate.
+3-044	Assistance by the sulfonic acid (transition state 5) reduces drastically the barrier (to about 3-4 kcal 3 mol-1), so that the ring-opening becomes an easy process.
+3-045	The products P arising from transition states 4 and 5 are monoadducts between methanol and ε-CL in interaction with the acid through hydrogen bonding.
+3-046	The energetic difference of 8 kcal 3 mol-1 between these two products results from the nature of the hydrogen bonds involved: either with the methoxy group (for the product coming from
+3-047	4) or with the carbonyl group (for the most stable product coming from 5).
+3-048	Overall, the reaction of ε-caprolactone with methanol is predicted to be slightly exothermic, in agreement with the free enthalpy of polymerization determined experi- mentally (ΔG°p ≈ -3 kcal 3 mol-1 at 25 °C).[25]
+3-049	Analyzing the whole reaction profile, it is clear that the sulfonic acid plays a major role in both steps, acting as a “proton shuttle” via its acidic hydrogen atom and basic oxygen atoms.
+3-050	Such a bifunctional behavior has been re- cently pointed out computationally for the p-toluenesulfonic acid-catalyzed nucleophilic substitution of phenolic hydro- xyl groups with sulfur nucleophiles[26a] and for the trifluoro- methanesulfonic acid-catalyzed addition of phenols to simple olefins.[26b] The most favorable TS (2 and 3 for NA, and 5 for RO) are close in energy, and since the tetrahedral intermedi- ate is destabilized by about 10 kcal 3 mol-1 with respect to the ternary adduct of reactants, the rate-determining step app- ears to be the initial nucleophilic attack.
+3-051	Reaction of ε-Caprolactone and Methanol Catalyzed by MSA.
+3-052	A similar study has then been carried out with methanesulfonic acid as the catalyst.
+3-053	The free energy profile computed at room temperature is given in Figure 4.
+3-054	The two steps, nucleophilic addition and ring-opening, will be dis- cussed successively, and special attention will be devoted to the differences observed between the two acids.
+3-055	First Step: Nucleophilic Addition of Methanol on ε-Capro- lactone.
+3-056	As for HOTf, three transition states were found to
+3-057	connect the ternary adduct of reactants R0 and the tetra- hedral intermediate TI0.
+3-058	They relate to 1, 2, and 3 and are thus referred to as 10, 20, and 30, respectively (see Figure 1 for key geometric data).
+3-059	Transition state 10 corresponds to the nucleophilic attack of methanol assisted by hydrogen bond- ing of the carbonyl group of ε-CL to the acid.
+3-060	The O exo 333 H distance in 10 (1.58 A) is noticeably longer than that of 1 (1.44 A), in agreement with the lower acidity of MSA compared to HOTf.[27]
+3-061	Consistently, the NA of methanol is slightly less advanced with MSA than with HOTf, as apparent from the distance of the forming CO bond (1.77 A for 10 vs 1.73 A for 1).
+3-062	Concomitantly, the proton of methanol is partially trans- ferred to the exo oxygen of the ε-CL with quasi-identical O 333 H distances (1.23 and 1.20 A).
+3-063	The second transition state, 20, adopts an eight-membered-ring structure.
+3-064	The sulfonic acid acts as a proton donor toward ε-CL and as a proton acceptor toward methanol.
+3-065	The proton transfer from the acid to the exo oxygen of ε-CL is less advanced with MSA than with HOTf (Oexo 333 H distance of 1.11 A for 20 vs 1.07 A for 2), in line with the relative acidity of the two catalysts.
+3-066	Reciprocally, the proton of methanol forms a stronger hydrogen bond with the oxygen atom of MSA than that of HOTf (Oacid 333 H distance of 1.58 A for 20 vs 1.66 A for 2).
+3-067	Thus, the sulfonic acid acts as a “proton shuttle” in both cases, but the magnitude of the two hydrogen bonds is influenced to some extent by the CH3/ CF3 groups.
+3-068	Note also that the formation of the OC bond between methanol and ε-CL is slightly more advanced in 20 than in 2 (1.95 A for 20 vs 2.02 A for 2).
+3-069	The third located transition state, 30, corresponds to a cooperative activation of ε-CL and methanol by the O-H group of the sulfonic acid.
+3-070	Compared with 3, the major difference is the lower degree of proton transfer toward the exo oxygen of ε-CL (O H distance of 1.62 A for 30 vs
+3-071	acid 333
+3-072	1.77 A for 3), again in agreement with the lower acidity of MSA compared with HOTf.
+3-073	The additional hydrogen bond toward the proton of methanol is only marginally shorter with MSA (1.50 A) than with HOTf (1.52 A).
+3-074	The energy barriers associated with the three pathways also deserve comment.
+3-075	Transition state 10, corresponding to the sole electrophilic activation of ε-CL, lies high in energy (41.9 kcal 3 mol-1).
+3-076	Much lower barriers were predicted for the two bifunctional pathways.
+3-077	Transition states 20 and 30 were found only 20.0 and 22.7 kcal 3 mol-1above the ternary adduct of reactants, in agreement with the relatively fast poly- merization observed experimentally at room temperature.[4b] The difference in energy between 20 and 30 falls within the precision of the computational method,[28] so that none of the pathway can be discarded and eventually they both inter- vene.
+3-078	MSA most likely behaves as HOTf, acting concomi- tantly as a proton donor toward ε-CL and as a proton acceptor toward methanol.
+3-079	Transition states 10, 20, and 30 lead to three forms of the tetrahedral intermediate TI0 that lie close in energy (ΔG < 4.2 kcal 3 mol-1), about 10 kcal 3 mol-1 above the ternary adducts of reactants R0.
+3-080	Second Step: Ring-Opening of the Tetrahedral Intermedi- ate.
+3-081	As for HOTf, two pathways were located for this step.
+3-082	Transition state 40 corresponds to direct ring-opening, the sulfonic acid simply interacting with the OMe group.
+3-083	In line with the lower acidity of MSA, the corresponding Oalcohol 333 H distance is noticeably longer in 40 (1.71 A) than in 4 (1.62 A), but all the other geometric features are very similar.
+3-084	The other transition state, 50, adopts a six-membered-ring struc- ture.
+3-085	Here, the cleavage of the endo C-O bond of ε-CL and the proton transfer are assisted by the O-H group of the sulfonic acid.
+3-086	Compared with that encountered with HOTf, the proton transfer from the acid to the endo oxygen is about as advanced, but the hydrogen bond between the hydroxyl group of the tetrahedral intermediate and the dicoordinate oxygen atom of the acid is significantly enfor- ced (Oacid 333 H distance of 1.65 A in 50 vs 1.85 A in 5).
+3-087	The cleavage of the endo C-O bond proceeds concomitantly with the proton transfer and is further advanced with MSA compared to HOTf (1.75 A vs 1.65 A ).
+3-088	Again, the acid is found here to behave as a “proton shuttle” between the hydroxyl group and the disrupting C-O bond of the tetra- hedral intermediate.
+3-089	Transition state 40 is prohibitively high in energy (about 32 kcal 3 mol-1 above the tetrahedral intermediate), while ring-opening via transition state 50 requires only ca. 8 kcal 3 mol-1.
+3-090	This emphasizes the critical role of MSA in this step as well.
+3-091	The sulfonic acid is predicted to act as a bifunctional catalyst for both the nucleophilic addition and the ring-opening.
+3-092	The respective transition states (20 and 30 for NA, and 50 for RO) are strongly stabilized by hydrogen bonding with both the acidic hydrogen atom and the basic oxygen atoms.
+3-093	Overall, the reaction is slightly exothermic (the most stable form of the ring-opened product lies 6.3 kcal/mol below the ternary
+3-094	the gas phase at the B3PW91/6-31G(d,p)(C,H,O,S) level of theory).
+3-095	adducts of reactants), and the rate of the reaction is likely to be determined by the initial NA.
+3-096	The detailed analysis of the reaction profiles with HOTf and MSA revealed strong analogies between the two sulfonic acids, despite their large difference in acidity.
+3-097	The structures of the key transition states are overall similar and substanti- ate the bifunctional role of the acid in the two elementary steps.
+3-098	The presence of an acidic hydrogen atom as well as basic oxygen atoms makes sulfonic acids efficient proton shuttles.
+3-099	This view is further supported by the variations observed in the magnitude of the hydrogen bonds arising from HOTf and MSA.
+3-100	Indeed, the electron-withdrawing character of the CF3 group compared with CH3 increases the acidity of the hydrogen atom, but decreases the basicity of the oxygen atoms.
+3-101	The activation barriers predicted for MSA and HOTf are in the same range, despite a significant difference in acidity.
+3-102	The slightly higher values found for MSA over HOTf suggest that ring-opening polymerization of ε-CL should proceed faster when catalyzed by HOTf, whereas experimentally, MSA was found to be slightly more active.[4b] Given the precision of the method used and the approximations made, the computed reaction profiles match reasonably well with the experimental results.
+3-103	At this stage, it is certainly not possible to account quantitatively for the slight difference in activity observed experimentally, but the two sulfonic acids can be reasonably considered to behave as proton shuttles and thus to act as bifunctional catalysts.
+3-104	In order to check the validity of the conclusions drawn from the gas phase calculations, solvents were included by
+3-105	means of single-point CPCM calculations on the gas phase optimized structures.
+3-106	The effects of toluene and dichloro- methane (DCM) on the energies of the transition states (1-5, 10-50) were considered (see Table S1 in the Supporting Information).
+3-107	Accordingly, transition states 1(0) and 4(0) were found to be only slightly affected by the inclusion of solva- tion effects and remain around 40 kcal 3 mol-1 above the ternary adducts of reactants R(0).
+3-108	In contrast, the energies of the bifunctional transition states (2(0), 3(0), and 5(0)) are lowered by 5 to 10 kcal 3 mol-1, leading to a substantial dec- rease of the activation barriers compared to the gas phase.
+3-109	This further supports the fact that the bifunctional routes are the preferred pathways for the ROP of ε-caprolactone, with the sulfonic acids acting simultaneously as donor and accep- tor of hydrogen bonds.
+4-001	In conclusion, the mechanism of ring-opening polymeri- zation of lactones catalyzed by sulfonic acids has been studied computationally.
+4-002	The model reaction between ε-caprolactone and methanol was predicted to involve bi- functional activation in both elementary steps.
+4-003	The initial nucleophilic addition proceeds by concomitant activation of the monomer and alcohol, and during the ring-opening step, the sulfonic acid acts as a proton shuttle between the hydro- xyl group and the disrupting C-O bond of the tetrahed- ral intermediate.
+4-004	Such a bifunctional behavior has been only rarely pointed out for sulfonic acids to date,[26] but draws some parallel with that commonly encountered with
+4-005	phosphoric acids.[29]
+4-006	These results are consistent with the experimental observations and further emphasize the impor- tance of secondary interactions and bifunctional activation in hydrogen-bonding catalysis.[30]

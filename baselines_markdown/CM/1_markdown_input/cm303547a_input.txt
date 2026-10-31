@@ -1,0 +1,207 @@
+# document_id: cm303547a
+# extractor: kordoc-markdown-adapter-1
+1-001	Solution processable organic field effect transistors (OFETs)
+1-002	have attracted considerable attention due to their potential for applications in low-cost flexible electronics such as sensors, radio frequency identification tags, and backplane circuitry for active matrix displays.[1−6] To realize these applications, several reports have addressed the correlation of microstructure to charge transport and new molecular design for optimized intermolecular stacking and electronic structure of the organic semiconductor.[7−10] Equally significant for practical applica- tions, however, is the development of reliable gate dielectrics.
+1-003	In
+1-004	the context of printed electronics, dielectrics deposited via a solution-based process are of particular relevance.[11−13] It is known that the electrical performance of an OFET is strongly dependent on the interface between the gate dielectric and the semiconductor as well as on the intermolecular stacking of organic semiconductor.[13−15] Desirable requirements for gate dielectrics include not only good dielectric properties, such as large capacitance and low leakage current density for low voltage operation, but also the possibility of low temperature processing and compatibly with flexible substrates.
+1-005	High performance polymer gate dielectrics have some advantages,
+1-006	© 2013 American Chemical Society 2571
+1-007	such as solution processing and good compatibility with organic semiconductors in terms of forming a favorable dielectric/ semiconductor interface.[16,17]
+1-008	However, the use of these materials is limited by the need for solvents orthogonal to those dissolving the semiconductor.
+1-009	Furthermore, the operation voltage and charge transport of organic semiconductors are restricted by the low capacitance of polymer dielectrics.[18]
+1-010	Hybrid dielectrics composed of self-assembled monolayers (SAMs) on inorganic high-κ metal oxides have been proposed as promising alternative candidates.[12,19]
+1-011	This dielectric stack displays high areal capacitance, allowing the operation of OFETs at low voltage (below −3 V).
+1-012	The hybrid nature of the stack takes advantage of the high-κ metal oxide while simultaneously using the SAMs to improve the interface compatibility between the organic semiconductor and the dielectric layer and to reduce the gate leakage current.
+1-013	Furthermore, the addition of the inorganic layer helps overcome some disadvantages of SAM-based multilayer
+1-014	Received: November 2, 2012
+1-015	Revised: May 8, 2013
+1-016	Published: May 9, 2013
+1-017	dielectrics, such as the reliability and their dependence on the
+1-018	surface chemistry of the substrate.[20,21]
+1-019	Inorganic/SAM
+1-020	dielectric stacks offer many advantages; however, most of the
+1-021	common techniques to deposit high-κ metal oxides may require
+1-022	expensive vacuum-deposition steps[22] and/or high-temperature
+1-023	processing that is incompatible with flexible substrates[19,23,24] or
+1-024	impose limitations on the choices of gate electrode.[12]
+1-025	Here, a systematic study of solution processed high-κ ZrO2
+1-026	dielectrics is reported in order to enable low-voltage operation
+1-027	of OFETs compatible with a solution-based organic semi-
+1-028	conductor.
+1-029	We investigate two different approaches for
+1-030	dielectric fabrication: conventional thermal annealing and UV
+1-031	curing in ambient condition to form high-κ ZrO2 with high
+1-032	areal capacitance and low leakage current when capped with an
+1-033	octadecylphosphonic acid (ODPA) SAM.
+1-034	The microstructure
+1-035	and chemical composition of the solution-processed ZrO2 as
+1-036	well as the dielectric/semiconductor interface obtained using
+1-037	both approaches are compared in detail.
+1-038	We demonstrate that
+1-039	the hybrid dielectrics enable solution-based fabrication of
+1-040	OFETs with high performance (μ> 0.2 cm2/(V s)), operated
+1-041	with low onset voltage (ca. −1 V) on a metal-gated flexible
+1-042	substrate as well as on a rigid substrate, using poly(2,5-bis(3-
+1-043	tetradecylthiophen-2yl(thieno[3,2-b]thiophene) (PBTTT-
+1-044	C14) as the semiconductor.
+2-001	High-κ metal oxides have been used as gate dielectric layers in Figure 1.
+2-002	(a) Areal capacitance vs frequency and (d) leakage current vs conventional metal oxide semiconductor technology.
+2-003	Among applied voltage for thermal annealed ZrO 2, UV cured ZrO2, and ZrO 2 them, ZrO2 has been investigated due to its high dielectric binded with ODPA on Si.
+2-004	constant (25) and wide band gap (5.8 eV), allowing a low onset
+2-005	voltage and low leakage current.[25]
+2-006	However, most techniques and 320 (284) nF/cm[2] for the UV-cured ZrO2 at 50 Hz (50 for the fabrication of ZrO2, such as atomic layer deposition,[26] kHz), due to the introduction of low permittivity alkyl chains. sputtering,[27,28] and e-beam evaporation,[29] require vacuum UV-cured bare ZrO 2 also exhibited a lower leakage current processing and high-temperature annealing, raising both the density (10−6 A/cm[2]) compared to thermally annealed ZrO2 cost and complexity of OFETs.
+2-007	The fabrication of ZrO2 layers (10−4 A/cm[2]) when measured at an applied voltage of −3 V. reported here is based on solution-deposition using zirconium- This difference in current density is consistent with the (IV) acetylacetonate as a precursor in a N, N-dimethylforma- thickness difference between the two samples (Figure 1b).
+2-008	The mide solvent.
+2-009	To achieve high-κ functional ZrO2 layers, two slow decrease of the measured capacitance with frequency can methods for film densification are investigated: high temper- be attributed to series resistance rather than interface trap ature annealing and UV-curing at ambient temperature.
+2-010	We states, which would exhibit a characteristic emission fre- demonstrate that high power UV light can be used to prepare quency.[30]
+2-011	Chemical passivation by ODPA dramatically reduced ZrO 2 films that are as functional as those prepared by the leakage current density (measured at an applied voltage of conventional high temperature annealing with respect to −3 V) to approximately 10−7 A/cm[2] for the UV cured and 10−6 working as gate dielectrics in OFETs.
+2-012	Furthermore, UV-curing A/cm[2] for the thermally annealed ZrO2.
+2-013	The ODPA also raises improves the dielectric-substrate interface compared to thermal the breakdown voltage to a level compatible with low-voltage annealing.
+2-014	The UV-curing process is compatible with flexible OFET operation, below −3 V. Furthermore, the thickness of substrates as the maximum temperature measured during the the ZrO 2 layer, as measured by ellipsometery, decreases with process by placing a thermocouple on the film is approximately UV irradiation time (Figure 2a).
+2-015	The change in capacitance 65 °C. with irradiation time is in line with the thickness change (Figure The dielectric properties of the ZrO2 film fabricated via 2b).
+2-016	This observation is a consequence of the previously thermal annealing and UV irradiation were assessed by proposed mechanism of slow densification of the gel film by fabricating metal−insulator−metal capacitors.
+2-017	The areal UV irradiation and oxidation, following a relatively fast capacitance vs frequency characteristics of bare ZrO2 and photolysis.[31]
+2-018	Over 50% of the total thickness decrease occurs ODPA/ZrO2 hybrid dielectrics on a heavily doped Si substrate within the first 15 min while the entire densification process were measured with an Al top metal electrode (Figure 1a).
+2-019	The takes approximately 90 min to complete.
+2-020	Reactive oxygen capacitance of bare ZrO2 processed by thermal annealing and species generated from ambient O2 by light in the UVV UV curing was ∼760 (661) nF/cm[2] and ∼520 (413) nF/cm[2], wavelength range present in the UV lamp spectrum are respectively, at 50 Hz (50 kHz).
+2-021	The difference in areal absorbed into the ZrO 2 film and remove oxygen vacancies.
+2-022	As a capacitance between the annealed and UV cured ZrO2 can be result, the ZrO2 is formed under high UV power.
+2-023	Assuming that attributed to the thickness of the dielectric stacks, which will be the interface layer between Si and ZrO2 is mostly SiO2 and the discussed in detail later, as the UV-cured ZrO2 is overall thicker thickness of this layer is fixed regardless of irradiation time, the than the thermally cured ZrO 2.
+2-024	After treatment with ODPA, the dielectric constant estimated using a series capacitor model (1/capacitance is reduced to 624 (521) nF/cm[2] for the annealed CSiO2+1/CZrO2 = 1/Ctotal) increases from ∼6 for 15 min of
+2-025	irradiation to ∼10 for 90 min of irradiation which is similar to the dielectric constant of thermally annealed ZrO2, ∼10.
+2-026	(Figure 2c).
+2-027	The lower κ value observed at shorter UV irradiation time is consistent with a lower atomic density and corresponding smaller ionic polarization.
+2-028	Although shorter UV irradiation times produce functional ZrO2 films, the variation of capacitance with measured frequency, shown as a range in Figure 2b, decreases with UV irradiation time.
+2-029	This large variation with frequency is qualitatively believed to be due to the larger density of defects in a film irradiated with UV for only a short time.[32]
+2-030	Furthermore, it was observed that low power UV irradiation, ∼ 15 mW/cm[2], including the UVV wavelength range, enabled the Zr-based sol−gel to undergo decomposition but did not result in functional ZrO2 films with a high dielectric constant.
+2-031	These results indicate that densification by high UV power can produce a functional gate dielectric ZrO 2 film from a Zr-based sol−gel solution.
+2-032	In addition, the estimated dielectric constant of UV irradiated ZrO2 was not significantly different from that of thermally annealed ZrO2, suggesting that UV curing is a method for the densification of ZrO2 film from a metal based sol−gel solution, comparable and able to replace conventional thermal annealing.
+2-033	In addition to the advantages of low temperature processing, UV-curing enables selective patterning of the dielectric layer using a conventional photomask (see the Supporting Information, Figure S1).
+2-034	Masked regions of the initial Zr-based film are easily removed with acetone or the same solvent used for the initial deposition, while the exposed areas are insoluble.
+2-035	Cross-sectional trans- mission electron microscopy (XTEM) was used to investigate the microstructure of the metal−insulator−metal (MIM) capacitor Al/ODPA/ZrO2 on Si for both the thermally annealed and the UV-cured oxide (Figure 3).
+2-036	A low- magnification XTEM micrograph (Figure 3a) shows that the
+2-037	ODPA layer has a thickness of 3.1 nm and is well stacked on the ZrO2 after treatment.
+2-038	XTEM micrographs indicate the existence of an interface layer between the ZrO2 and the Si substrate.
+2-039	The interface layer is thicker (4.2 nm) in the UV- processed ZrO2 stack than in the thermally annealed one (2.2 nm).
+2-040	Assuming that there exists initially a layer of native oxide (∼2 nm) of Si, UV curing increases the thickness of the interface layer, suggesting that the reactive oxygen generated by UV irradiation and photolysis of Zr-based sol−gel layer form a reactive oxygen-rich environment at the interface between the porous Zr based film and the Si substrate, therefore oxidizing the Si substrate.
+2-041	Bare, heavily doped Si samples under the same UV irradiation conditions, on the other hand, do not show any significant change in the native oxide thickness (∼2.2 nm) compared to the Zr based sol−gel deposited ones as measured by ellipsometry, indicating that Zr-based sol−gel layer act as a source for reactive oxygen to oxidize the substrate under UV irradiation.
+2-042	Although the Gibbs free energy of formation of ZrO 2 (−1042 kJ/mol) is more negative than that of SiO2 (−856 kJ/mol) at 298 K,[33] a reactive oxygen-rich environment induces additional oxidation of Si substrate, hence forming a thicker Si-rich oxide interface during UV irradiation.
+2-043	In addition, the ZrO2 layer in the UV-cured sample was thicker than that in the annealed sample (ca. 6.5 nm compared to 5.4 nm).
+2-044	Assuming that same initial amount of Zr sol−gel was deposited by spin-coating in both the UV-cured and the thermally annealed films, this result shows that the UV-cured ZrO 2 is less dense than the thermally annealed ZrO2, in agreement with the areal capacitance measurements.
+2-045	XTEM analysis further shows that the microstructure of ZrO 2 obtained from the Zr based sol−gel is not a single tetragonal phase but a mixture of amorphous and crystalline ZrO2, regardless of the processing method.
+2-046	This mixed structure induces a lower dielectric constant than that of previously reported vacuum-processed crystalline ZrO2.[25,34]
+2-047	Atomic force microscopy (AFM) shows that the ZrO2 surface is pinhole free and smooth after UV curing and thermal annealing (Figure 3c and d).
+2-048	The roughness of the thermally annealed and UV-cured ZrO 2 is 0.32 and 0.34 nm, respectively, which is comparable to that of the thermally grown SiO2 substrate.
+2-049	The presence of a smooth dielectric surface eliminates any effect of roughness on the morphology and charge transport in the organic semiconductor.[35]
+2-050	X-ray photoelectron spectroscopy (XPS) reveals the elemental composition in the film spin-coated from the Zr(acac)4 precursor solution on the Si substrate.
+2-051	We studied the as-deposited, thermally annealed at 400 °C for 1 h, and UV-cured for 90 min films (Figure 4a).
+2-052	In the XPS survey spectra, while carbon and nitrogen from the precursor and solvent are detected in the as-spun film, thermally annealed and UV-cured films do not show any carbon or nitrogen.
+2-053	Since the solution from the precursor is expected to form organometallic structures comprising Zr, O, C, and N, the absence of C and N clearly indicates that UV curing induces a photolysis reaction, similar in final result to the pyrolysis occurring during thermal annealing.
+2-054	Ultimately, C and N are removed from the film as volatile gases, followed by densification and reaction with the reactive oxygen generated by UV light or the oxygen present in the deposited gel film.
+2-055	Furthermore, the atomic ratio of Zr to O is almost 1 to 2 for both thermally annealed and UV-cured films, indicating that the deposited film is oxidized to form the functional ZrO2 dielectric layer.
+2-056	A 90° takeoff angle does not show any Si peak from the interface due to the thickness of
+2-057	min.
+2-058	AFM noncontact mode height image for (c) UV cured ZrO 2, irradiation time of 90 min (roughness: 0.34 nm) and (d) thermally annealed
+2-059	ZrO2, annealing time of 60 min at 400 °C (roughness: 0.32 nm).
+2-060	The scale is 2 μm × 2 μm, height color scale is 0 to 2 nm.
+2-061	both dielectrics.
+2-062	To further investigate the interface between ZrO 2 and the Si substrate.
+2-063	XPS spectra during depth profiling were taken.
+2-064	Chemical state differences between thermally annealed and UV cured Zr films Zr were observed, as evidenced by the Zr 3d feature (Figure4b and c).
+2-065	These differences are observed both at the substrate interface and throughout the film.
+2-066	No metallic peak in the Zr 3d spectra is detected on the surface, indicating fully oxidized ZrO2.
+2-067	While the thermally annealed sample has a Zr 3d5/2 feature at 183.2 eV, the UV-cured sample displays a lower binding energy of Zr 3d5/2 (182.4 eV), suggesting that the Zr−O bond in the thermally annealed film has a more ionic character than in the UV-cured film.[36]
+2-068	In addition to the Zr 3d feature, we fitted the oxygen 1s peak to a superposition of two peak components.
+2-069	(Figure 4d and e) The band around 530 eV can be attributed to lattice oxygen atom in a fully coordinated environment (M−O−M), whereas the band around 532 eV is due to M−OH species in both films.
+2-070	Although both samples contain an appreciable concentration of M−OH defects, the UV irradiated sample exhibits a lower binding energy (530 eV) of the M−O−M peak than the thermally annealed ZrO2 (530.6 eV), consistently with our observations of the Zr 3d feature, indicating a more ionic characteristic in the thermally annealed sample.
+2-071	Furthermore,
+2-072	the interface layer between the ZrO2 and SiO2 is different chemically depending on the densification method.
+2-073	As Ar+ sputters the sample, the Zr-silicide peak (179.1 eV) appears and decreases successively with increasing sputtering time in the thermally annealed sample.
+2-074	The UV-cured sample, on the other hand, shows a Zr-silicide feature (179.1 eV) of lower intensity compared to that measured in the annealed sample, regardless of Ar+ sputtering time, supporting that additional oxidation of the substrate occurs due to a reaction with the oxygen generated by UV radiation.
+2-075	This observation is in agreement with a previous report that SiO2 is decomposed and forms Zr-silicide at the SiO2/ZrO2 interface.[37]
+2-076	Although it is reported that the Zr metallic peak may appear as a result of a sputtering artifact to some extent,[38] the lower intensity of the Zr_Si peak in the UV-cured sample indicates that it is less favorable to form a Zr-sillicide at the interface with the substrate during UV curing, compared to thermally annealing, due to the low temperatures.
+2-077	Hence, processing with UV light reduces the interdiffusion of species between the dielectric and the substrate, hence minimizing the effect of the substrate on the properties of the dielectric stack.
+2-078	OFETs operating at low voltages are obtained using the semiconducting polymer PBTTT deposited on thermally
+2-079	elemental composition.
+2-080	Depth profile high resolution XPS spectra of Zr 3d feature for (b) thermal annealed ZrO2 at 400 °C and (c) UV irradiated
+2-081	ZrO2.
+2-082	High resolution XPS spectra of O 1s feature for (d) the thermally annealed ZrO 2 and (e) UV-irradiated ZrO2.
+2-083	annealed and UV cured ZrO2 films fabricated on a heavily doped Si substrate (Figure 5).
+2-084	The OFET characteristics are summarized in Table 1.
+2-085	OFETs on the bare thermally annealed ZrO 2 did not function properly due to high gate leakage currents.
+2-086	Gate currents, on the order of 10−8 A at −3 V of gate voltage for the device on the hybrid ODPA/annealed ZrO2 dielectric are consistent with the I−V characteristics measured in the capacitor.
+2-087	OFETs fabricated on bare UV-cured ZrO2 show a threshold voltage of −1.1 V, on/off current ratio of 104 and subthreshold swing of ∼150 mV/decade.
+2-088	ODPA passivation, on the other hand, enhances the device perform- ance, lowering the threshold voltage to −0.7 V, raising the on/off current ratio of 105, and lowering the subthreshold swing to ∼110 mV/decade.
+2-089	These results demonstrate that the introduction of a hydrophobic surface reduces the trap states at the interface between the dielectric and organic semiconductor.[39,40]
+2-090	Furthermore, the ODPA treatment enhances the field effect
+2-091	mobility by an order or magnitude, form ∼0.02 to ∼0.2 cm2/(V s), regardless of fabrication method of ZrO2.
+2-092	AFM character- ization shows that the PBTTT film on ODPA-treated ZrO2 exhibits large domain sizes compared to those observed on bare ZrO2 (Figure 6).
+2-093	Hence, the PBTTT surface structure evolution on ZrO2 as a function of substrate functionalization is similar to that observed on SiO2.[41]
+2-094	It has been reported, however, that these surface domains are not single crystalline units but granular regions composed of microstructural subunits with smaller size.[42]
+2-095	Two-dimensional grazing incident X-ray scattering (2D-GIXS) patterns of as-spun PBTTT on bare ZrO2 and ODPA/ZrO2 reveal a strong family of (h00) peaks along the vertical axis (∼q z), corresponding to the lamellar spacing perpendicular to the sample surface (Figure 7).
+2-096	These 2D diffraction patterns are useful for qualitative analysis of film texture.
+2-097	In the images shown, the (h00) peaks display significant arcing, indicating imperfect fiber texture of the crystalline domains on both surfaces.
+2-098	The similarity in the
+2-099	Chemistry of Materials Article Downloaded from pubs.acs.org/cmatex/article-pdf/25/13/2571/7998616/cm303547a.pdf by GYEONGSANG NATL UNIV user on 29 October 2026 Figure 5.
+2-100	(a) Output curve and (b) transfer curve of PBTTT C-14 on a ODPA/thermal annealed ZrO2 hybrid dielectric.
+2-101	(c) Output curve and (d) transfer curve of PBTTT C-14 on UV irradiated ZrO2 with (black) and without (red) ODPA.
+2-102	diffraction patterns between bare ZrO 2 and ODPA/ZrO2 suggests that the presence of ODPA does not have a significant effect on the bulk crystalline microstructure of PBTTT films, as observed with other SAMs such as OTS.[43]
+2-103	Microstructural effects at the semiconductor/dielectric interface cannot, however, be excluded on the basis of the 2D-GIXS patterns.
+2-104	Another possible beneficial effect of the introduction of ODPA is the fact that it generates a low-κ alkyl chain spacer between the semiconductor and the dielectric.
+2-105	The high polarizability of high-κ dielectrics has been shown to reduce mobility; hence, the introduction of a spacer may alleviate this effect.[44]
+2-106	Finally, OFETs operating at low voltage on flexible substrates, poly(ethylene terephthalate) (PET), are demon- strated using the hybrid ODPA/UV-cured ZrO2 dielectric.
+2-107	The dielectric stack deposited on an e-beam evaporated Al gate electrode exhibits a higher areal capacitance of 548 nF/cm[2] at 50 Hz compared to that measured on a Si substrate (322 nF/cm[2]).
+2-108	The improvement is due to the thin high-κ AlOx interface layer between ZrO2 and Al (Figure 8).
+2-109	The leakage current, 10−6 A/cm[2] at −3 V, is similar to that measured in a device on a rigid substrate, indicating that UV-curing does not transfer considerable heat to the substrate and is therefore compatible with processing on flexible substrates.
+2-110	A PBTTT-C14 OTFT
+2-111	substrate.
+2-112	(c) Output curve and (d) transfer curve of PBTTT C-14 on UV irradiated ZrO 2 on Al deposited PET.
+2-113	(inset: photograph of devices on
+2-114	the flexible substrate).
+2-115	was fabricated on the flexible substrate displaying a carrier mobility of 0.09 (±0.01) cm2/(V s), a ∼105 on/off ratio, and an onset voltage of −1.1 V. The degradation of device perform- ance parameters, such as charge carrier mobility and on/off ratio, was expected on the flexible substrate due to higher roughness of Al on PET compared to the Si substrate.
+3-001	In conclusion, we have fabricated solution-processed ZrO2 high-κ dielectric for low-voltage operation of OFETs.
+3-002	Two methods of densification, thermal annealing and UV curing, were compared.
+3-003	TEM and XPS studies shown that UV irradiation can be an alternative low-temperature method to form films from the Zr based sol−gel solution.
+3-004	Furthermore, the UV-curing process minimizes the interfacial intermixing of ZrO 2 with the Si substrate.
+3-005	Treatment of the ZrO2 with ODPA
+3-006	not only allows low gate leakage current and high areal capacitance to be compatible to a low voltage operation of OFETs but also improves the interface between high-κ ZrO2 and organic semiconductor.
+3-007	The use of SAMs does not significantly affect the crystal structure of the polymer semiconductor.
+3-008	With PBTTT-C14 as a polymer semiconduc- tor, OFETs operate at gate voltages lower than −3 V with a high on−off current ratio of 105, a low subthreshold swing of ∼110 mV/decade, and a field effect mobility of ∼0.2 cm2/(V s).
+3-009	The advantage of this low-temperature UV irradiation process is directly demonstrated by fabricating low-voltage solution processable OFETs on flexible substrates.
+3-010	Hence, this work is evidence that solution-based ZrO2 films processed using low or high temperatures are an attractive candidate as solution- processable gate dielectrics while organic transistors advance toward application.
+4-001	Dielectric Film Fabrication.
+4-002	Zirconium based sol−gel solution was prepared by dissolving Zr(IV) acetylacetonate (Zr(C 5H7O2)4) (98% Sigma Aldrich) (0.1M) in 5 mL of N, N-dimethylformamide- (C3H7NO) (Sigma Aldrich) under a nitrogen glovebox with the addition of an equimolar concentration of ethanolamine (C2H7NO) (Sigma Aldrich).
+4-003	The solution was stirred and kept at 70 °C for 3 h to enhance hydrolysis.
+4-004	For the zirconium oxide film deposition, the solution was spin-coated onto substrates (heavily doped p-type Si or e-beam evaporated Al(Pt) on the PET flexible substrate) at 5000 rpm for 60 s to form a 30 nm gel film and briefly baked on a hot plate, as reported previously.
+4-005	As-deposited films were annealed at 400 °C for 1 h under nitrogen atmosphere, then cooled to the room temperature.
+4-006	For UV assisted method, the sample was cured under a high pressure metal halide UV lamp (Dymax Corp., Model No. 38560) including the wavelength of UVA (340−400 nm), UVB (290−315 nm), and UVV (180−200 nm) range at 270 mW/cm[2] in atmosphere (see the Supporting Information, Figure S2) and at room temperature during different times of 15 min, 20 min, 30 min, 60 min, and 90 min.
+4-007	A phosphonic acid self-assembled monolayer was passivated on the ZrO 2 dielectric by immersing substrates in a 5 mM n-octadecylphosphonic acid solution in 2-propanol for about 4 h.
+4-008	Substrates were successively sonicated in pure 2-propanol for 10 min, blown dry with nitrogen, and briefly baked on a hot plate at 60 °C. The contact angle of the surface after phosphonic acid treatment is 102°.
+4-009	Materials Characterization.
+4-010	Cross sectional TEM samples were prepared using conventional methods (polishing and ion milling).
+4-011	TEM images were obtained using an FEI Tecnai G2 F20 operating at 200 kV.
+4-012	Characteristics of the films are measured with Gatan digital micrograph software using contrast profile.
+4-013	The AFM experiment was conducted with a Park Systems XE-70 scanning probe microscope in noncontact mode with a scan rate of 0.8 Hz.
+4-014	Chemical element analysis was performed using a PHI Versa Probe Scanning XPS Microprobe with Al Kα radiation.
+4-015	To obtain depth profile spectra, 1 keV Ar + sputtering was conducted on the both thermal annealed and UV cured film and high resolution spectra was obtained with 1 min interval.
+4-016	Two-dimensional grazing incidence X-ray scattering was performed at Stanford Synchrotron Radiation Lightsource, beamline 11−3, equipped with a MAR345 image plate detector.
+4-017	Beamline 11−3 uses an X-ray energy of 12.7 keV.
+4-018	An incident angle of ∼0.11° was chosen to ensure that the X-ray beam penetrates the entire thickness of the polymer sample.
+4-019	2D-GIXD images were corrected for polarization and the nonlinear relationship between scattering vector q and pixel position using WxDiff software.
+4-020	Samples were kept in an helium chamber during irradiation to minimize beam damage.
+4-021	Exposure time was approximately 10 min.
+4-022	Device Fabrication and Characterization.
+4-023	Prime grade heavily p-doped silicon wafers (100) with a resistivity of 0.001 Ω-cm and PET were used as rigid and flexible substrates, respectively.
+4-024	Before the deposition of the sol−gel solution, Si substrates were cleaned with sonication in acetone, methanol, and isopropanol, and treatment in a UV ozone cleaner for 20 min each.
+4-025	The PET substrate was cleaned with sonication in isopropanol.
+4-026	To define capacitors, a square pattern of Al with an area of 0.012 cm 2 was thermally evaporated on the dielectric.
+4-027	The capacitance measurements were conducted with an HP 4284 LCR meter at frequencies ranging from 50 Hz to 50 kHz.
+4-028	The capacitance value measured at 50 Hz was used to extract the mobility.
+4-029	Based on measured capacitances and microstrucutre, the dielectric constant of ZrO 2 was evaluated with series capacitance model, 1/CInterface + 1/CZrO2 = 1/Ctotal.
+4-030	For the OFETs, poly(2,5-bis(3-tetradecylthiophen-2yl(thieno[3,2-b]thiophene) (PBTTT-C14; Mn 22 000; Mw 44 000 g/mol) was deposited by spin-coating with 1000 rpm from 0.5 wt % solutions in 1,2-dichlorobenzene on the phosphonic acid treated ZrO2 or bare ZrO2.
+4-031	The top-contact Au source and the drain electrodes (thickness = 100 nm) were evaporated thermally through a shadow mask.
+4-032	The dimensions of device were defined as 500 μm channel width × 60 μm channel length by isolating single devices.
+4-033	For the device on the flexible substrate, the source and the drain electrode were depoisted via e-beam evaportation in order to
+4-034	avoid thermal effect on the substrate.
+4-035	The field effect mobility was calculated in the saturation regime using the equation, ID = μsatCiW(2L)−1(VG − Vth)[2], where Ci is capacitance of gate dielectrics and μ is field effect mobility.
+4-036	The threshold voltage was extracted from the intercept of the (−Id)0.5 vs Vg curve with the Vg axis.

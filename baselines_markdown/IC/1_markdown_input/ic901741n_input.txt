@@ -1,0 +1,249 @@
+# document_id: ic901741n
+# extractor: kordoc-markdown-adapter-1
+1-001	The synthesis and characterization of 3d metal clusters with various nuclearities and metal topologies continue to be of great interest for their fascinating physical properties as well as the intrinsic architectural beauty and aesthetically pleasing structures they often possess.[1]
+1-002	In particular, our group has been very interested in paramagnetic MnIII- containing clusters because they often have a large ground state spin (S) and easy-axis-type magnetic anisotropy, giving a significant energy barrier to reversal of the magnetization vector.
+1-003	Thus, at sufficiently low temperatures, they function as nanoscale magnetic particles, and they therefore represent a molecular approach to nanomagnetism[2,3] Such single-molecule magnets (SMMs) not only exhibit hysteresis in magnetization versus dc field scans, the diagnostic property
+1-004	of a classical magnet, but also fascinating quantum mechan- ical properties such as quantum tunneling of magnetization (QTM)[4] and quantum phase interference.[5]
+1-005	Many different types of SMMs are now known,6-8and the majority continue to be in Mn clusters containing at least some MnIII atoms, since the Jahn-Teller distortion of this high-spin d[4] in octahedral geometry is a source of significant single-ion axial anisotropy of the easy-axis type (as gauged by a negative axial
+1-006	zero-field splitting parameter, D) and thus of resulting anisotropy for the multinuclear molecular cluster.
+1-007	In addi- tion, Mn clusters will often possess large ground state S values, the other requirement for a SMM, with the upper limit to the magnetization relaxation being given by S[2]\|D\| to second order.[3]
+1-008	As a result of the above, there is a continuing need for new synthetic methods that can yield new polynuclear Mn/O complexes and new SMMs.
+1-009	In the development of new synthetic routes to metal clusters, the choice of the ligands is always a key issue.
+1-010	We and others have explored a wide variety of potentially chelating and bridging ligands that might foster the formation of high nuclearity products, and many interest-
+1-011	of such efforts, we recently initiated a project in which the steric
+1-012	bulk of a given chelating/bridging ligand was increased by the addition of bulky groups at positions that we expect to influence the identity of the obtained cluster products.
+1-013	We chose for this work to modify the pyridyl-alcohol,
+1-014	8.
+1-015	2-(hydroxymethyl)pyridine (hmpH), and recently reported the use in Mn cluster chemistry of the derivative with two phenyl groups substituted at the CH2 position, that is, diphenyl- hmpH (dphmpH; IUPAC name is diphenyl(pyridine-2-yl)methanol; Scheme 1).
+1-016	The Mn4, Mn6, and Mn11 products obtained with dphmpH were different, as hoped, from those obtained previously with hmpH, and we also saw that dphmp- prefers to bind as a bidentate chelate, disfavoring the bridging modes favored by hmp-.[44]
+1-017	We thus decided to change the substituents to ones that might switch back on the bridging modes while still hopefully giving different products than hmpH and chose to employ dimethyl-hmpH (dmhmpH; IUPAC name is 2-(pyridine-2-yl)propan-2-ol; Scheme 1).
+1-018	Note that dmhmpH has been employed previously only to prepare mononuclear complexes of V, Zr, Mo, and W and dinuclear complexes of Ni and W.[45,46] We deliberately targeted higher- nuclearity Mnx products and have successfully isolated new Mn7 and Mn12 complexes with prototypical metal topologies.
+1-019	The syntheses, structures, and magnetochemical characteriza- tion of these complexes are described herein.
+2-001	Syntheses.
+2-002	All preparations were performed under aerobic conditions except for the synthesis of dmhmpH, which was carried out as previously reported.[47]
+2-003	All chemicals were used as received.
+2-004	[Mn7 O3(OH)3(O2CBut)7(dmhmp)4] (1).
+2-005	To a stirred solution of dmhmpH (0.14 g, 1.00 mmol) and NEt3 (0.14 mL, 1.0 mmol) in MeCN/MeOH (27 mL, 25:2 v/v) was added solid MnCl2 3 4H2O (0.20 g, 1.0 mmol) and NaO2CtBu 3 H2 O (0.25 g, 2.0 mmol).
+2-006	The mixture was stirred overnight, filtered to remove NaCl, and the filtrate left undisturbed to concentrate slowly by evaporation.
+2-007	X-ray-quality crystals of 1 3 7MeCN slowly grew over 2 weeks, and they were collected by filtration, washed with cold MeCN (2 5 mL), and dried under a vacuum.
+2-008	The yield was 50%.
+2-009	The vacuum-dried solid was analyzed as 1 3 MeCN.
+2-010	Anal. Calcd (Found) for C69H113N5Mn7O24: C, 46.53 (46.93); H, 6.39 (6.32); N, 3.93 (3.51).
+2-011	Selected IR data (cm-1): 3423(wb), 2956(m), 2926(w), 2868(w), 1595(s), 1545(s), 1482(s), 1458(w), 1415(s), 1358(s), 1277(w), 1225(w), 1181(m), 1123(m), 1101(w), 1502(w), 1032(w), 982(m), 889(w), 782(m), 757(w), 741(w), 661(s), 611(m), 563(m), 516(w), 436(w).
+2-012	[Mn12O7(OH)(OMe)2(O2CPh)12(dmhmp)4(H2O)] (2. ) Method A. To a stirred solution of dmhmpH (0.14 g, 1.0 mmol) and NEt3 (0.42 mL, 3.0 mmol) in CH2Cl2/MeOH (31 mL, 30:1 v/v) was added solid Mn(O2CPh)2 (0.33 g, 1.0 mmol).
+2-013	The resulting dark brown solution was stirred overnight and filtered and the filtrate carefully layered with Et2O (60 mL).
+2-014	X-ray-quality crystals of 2 3 3CH2Cl2 slowly grew over 2 weeks, and they were collected by filtration, washed with Et2O (2 5 mL), and dried under a vacuum.
+2-015	The yield was 55%.
+2-016	The vacuum-dried solid was slightly hygroscopic and analyzed as 2 3 3H2O. Anal. Calcd (Found) for C118H119N4Mn12O42: C, 48.46 (48.34); H, 4.10 (3.84); N, 1.92 (1.83).
+2-017	Selected IR data (cm-1): 3434(mb), 3063(w), 2974(m), 2922(m), 2813(w), 1603(s), 1565(s), 1483(m), 1401(s), 1305(w), 1278(w), 1252(w), 1180(m), 1123(m), 1101(w), 1067(w), 1052(m), 1027(m), 978(m), 936(w), 885(w), 839(w), 816(w), 782(m), 717(s), 667(s), 620(s), 557(s), 463(m), 433(m).
+2-018	Method B. To a stirred solution of dmhmpH (0.14 g, 1.0 mmol) and NEt3 (0.42 mL, 3.0 mmol) in MeCN/MeOH (30 mL, 5:1 v/v) was added solid Mn(O2 CPh)2 (0.33 g, 1.0 mmol).
+2-019	The resulting dark brown solution was stirred for 3 h and filtered and the filtrate left undisturbed at ambient tem- perature.
+2-020	Brown crystals were obtained after 3 days, and these were collected by filtration, washed with cold MeCN (2 3 mL) and Et 2O (2 5 mL), and dried under a vacuum.
+2-021	The yield was 45%.
+2-022	The product was identified by IR spectral comparison with material from Method A.
+2-023	X-Ray Crystallography.
+2-024	Data were collected on a Siemens SMART PLATFORM equipped with a CCD area detector and a graphite monochromator utilizing Mo KR radiation (λ = 0.71073 A ).
+2-025	Suitable crystals of 1 3 7MeCN and 2 3 3CH2Cl2 were attached to glass fibers using silicone grease and transferred to a goniostat where they were cooled to 173 K for data collection.
+2-026	Cell parameters were refined using up to 8192 reflections.
+2-027	A full sphere of data (1850 frames) was collected using the ω-scan method (0.3° frame width).
+2-028	The first 50 frames were remeasured at the end of data collection to monitor instrument and crystal stability (maximum correction on I was <1%).
+2-029	Absorption correc- tions by integration were applied on the basis of measured indexed crystal faces.
+2-030	The structure was solved by the direct methods in SHELXTL648 and refined on F[2] using full-matrix least squares.
+2-031	The non-H atoms were refined anisotropically, except where stated, whereas the H atoms were placed in calculated, ideal positions and refined as riding on their respective C atoms.
+2-032	For 1 3 7MeCN, the asymmetric unit consists of a Mn7 cluster and seven MeCN molecules.
+2-033	The latter were disordered and could not be modeled properly; thus, the program SQUEEZE,[49] a part of the PLATON package of crystallographic software, was used to calculate the solvent disorder area and remove its
+2-034	contribution to the overall intensity data.
+2-035	The pivalate groups on carboxylate C atoms C48 and C63 were rotationally dis- ordered, and the Me C atoms refined isotropically at two positions with 65/35% and 57/43% occupancies, respectively.
+2-036	The three protons H4, H5, and H6 on O4, O5, and O6 were obtained from a difference Fourier map; H4 and H6 were refined freely, but H5 was refined as riding on O5.
+2-037	A total of 915 parameters were refined in the final cycle of refinement using 14 701 reflections with I > 2σ(I) to yield an R1 and wR2 of 8.59 and 16.20%, respectively.
+2-038	For 2 3 3CH2Cl2, the asymmetric unit consists of a Mn12 cluster and three disordered CH2Cl2 molecules.
+2-039	The latter were disordered and could not be modeled properly; thus, the pro- gram SQUEEZE was again used to calculate the solvent dis- order area and remove its contribution to the overall intensity data.
+2-040	The benzoate ligands at C atoms C81 and C91 are disordered, and each was refined in two positions with their site occupation factors fixed at 0.5 (after refining to near 50%).
+2-041	The phenyl rings of the disordered benzoates were idealized to a hexagonal shape.
+2-042	A total of 30 912 parameters were refined in the final cycle of refinement using 16 954 reflections with I > 2σ(I) to yield a R1 and wR2 of 4.19 and 11.64%, respectively.
+2-043	Unit cell data and details of the structure refinements for the two complexes are listed in Table 1.
+2-044	Other Studies.
+2-045	Infrared spectra were recorded in the solid state (KBr pellets) on a Nicolet Nexus 670 FTIR spectrometer in the 400-4000 cm-1 range.
+2-046	Elemental analyses (C, H, and N) were performed by the in-house facilities of the University of Florida, Chemistry Department.
+2-047	Variable-temperature dc and ac magnetic susceptibility data were collected on vacuum-dried solids using a Quantum Design MPMS-XL SQUID suscepto- meter equipped with a 7 T magnet and operating in the 1.8-300 K range.
+2-048	Samples were embedded in solid eicosane to prevent torquing.
+2-049	Magnetization versus field and temperature data were fit using the program MAGNET.
+2-050	Pascal0s constants[50] were used to estimate the diamagnetic correction, which was subtracted from the experimental susceptibility to give the molar paramagnetic susceptibility (χM).
+3-001	Syntheses.
+3-002	A variety of reactions were explored with different Mn starting materials and under different re- agent ratios, solvents, and other conditions before the following successful procedures were identified.
+3-003	The re- action of dmhmpH with MnCl2 34H2O, NaO2CtBu 3 H2O, and NEt 3 in a 1:1:2:1 ratio in MeCN/MeOH afforded a brown solution from which was subsequently isolated [Mn 7O3(OH)3(O2CtBu) 7(dmhmp)4] (1) in 50% yield.
+3-004	Its formation is summarized in eq 1, assuming atmospheric O2 is the oxidizing agent.
+3-005	The mixed solvent system was needed to ensure adequate solubility of all reagents.
+3-006	Small variations in the Mn/dmhmpH/tBuCO2- ratio also gave complex 1.
+3-007	7Mn2þ þ 4dmhmpH þ 7But CO2 - þ 7NEt3 þ ð3=2ÞO2
+3-008	þ 7NHEt3þ ð1Þ In our previous work with dphmpH, we found the identity of the product was dependent on the carboxylate employed, and we thus investigated this point with dmhmpH also.
+3-009	Indeed, the reaction of dmhmpH with
+3-010	1 2
+3-011	2Fc[2]]/3.
+3-012	Mn(O 2CPh)2 and NEt3 in a 1:1:3 ratio in CH2Cl2/MeOH now gave as the isolated product the dodecanuclear complex [Mn12O7(OH)(OMe)2(O2CPh)12 (dmhmp)4-(H2O)] (2) in 55% yield (Method A).
+3-013	The same reaction in MeCN/MeOH also gave 2 but in a slightly lower yield of 45% (Method B).
+3-014	Its formation is summarized in eq 2.
+3-015	12MnðO2 CPhÞ2 þ 4dmhmpH þ 17NEt3 þ ð9=4ÞO2
+3-016	þ ð9=2ÞH2 O þ 2MeOH f
+3-017	It is clear that the reactions that lead to 1 and 2 are very complicated and involve acid/base and redox chemistry, and the reaction solutions likely contain a complicated mixture of several species in equilibrium.
+3-018	As a result, the isolated product will be sensitive to factors such as relative solubility and crystallization kinetics, and this rationalizes the fact that changing the carboxylate from pivalate to benzoate causes a major change in product.
+3-019	Along these lines, it is worth noting that the results here parallel those previously obtained with the bulkier dphmpH when used in otherwise identical reac- tion systems as those for 1 and 2; the products were [Mn4O2(O2Ct Bu)5(dphmp)3] and [Mn6O4(OMe)2-(O 2CPh)4(dphmp)4] for pivalate and benzoate, respectively.[44]
+3-020	Description of Structures.
+3-021	The structure and a stereo- view of [Mn7O3(OH)3(O2CtBu) 7(dmhmp)4] (1) are shown in Figure 1, and its labeled core in Figure S1 (Supporting Information).
+3-022	Selected interatomic distances and angles are listed in Table 2.
+3-023	The complex contains a [Mn 7(μ4-O)(μ3-O)2(μ-O)5] core comprising a [Mn 4(μ3-O)2] butter- fly-like unit and a [Mn 4(μ4-O)] tetrahedral unit fused at shared Mn atom Mn1.
+3-024	Note that the related [Mn4O2]8þ butterfly complex [Mn4O2(O2CPh)7(hmp)2]- has been
+3-025	obtained previously in discrete form[51] and has an hmp- group chelating to each “wing-tip” MnIII atom, as do two of the dmhmp- groups in 1.
+3-026	One of the latter and the two other dmhmp- groups each bound in a η[1]:η[2]:μ mode, chelating to a MnIII of the tetrahedral unit and bridging with their O atom to the MnII atom, Mn7.
+3-027	Two additional OH- ions, O4 and O5, bridge between a “body” Mn atom (Mn3 or Mn4) and Mn2 or Mn5, respectively, of the tetrahedral unit.
+3-028	Ligation is completed by six η[1]:η 1:μ pivalate groups bridging MnIIIMnIII pairs, a chelating pivalate on MnII atom Mn7, and a terminal OH- ion (O6) on Mn6.
+3-029	Charge considerations, the metric parameters, and the presence of MnIII Jahn-Teller (JT) distortions (axial elongations) indicate a MnIIMn III6 description, as confirmed by bond valence sum (BVS) calculations (Table 3).[52]
+3-030	BVS calculations were also performed on
+3-031	Table 2.
+3-032	Selected Interatomic Distances (A) and Angles (deg) for 1 3 7MeCN
+3-033	1
+3-034	a The underlined value is the one closest to the charge for which it was calculated; the nearest whole number can be taken as the oxidation state of that atom.
+3-035	the inorganic O atoms to identify their degree of proton- ation and thus distinguish O2-, OH-, and H2O situations (Table 4).
+3-036	These confirm three O2- ions (one μ4- and two μ3-) and three OH- ions (a terminal OH- (O6) and two μ-OH-, O4 and O5, ions).
+3-037	The BVS value of 0.63 for O6 is unusually low for a OH- ion but is consistent with it acting as a double H-bond acceptor atom for two hydro- gen bonds with μ-OH- ions O4 and O5 (O4 333 O6 = 2.711(5) A , O5 333 O6 = 2.767(5) A).
+3-038	We have seen in the past a similarly unusual lowering of the BVS of an O atom
+3-039	204 Inorganic Chemistry, Vol. 49, No. 1, 2010 Table 4.
+3-040	BVS for Selected O Atoms in 1 and 2a
+3-041	atom
+3-042	O1
+3-043	O2
+3-044	O3
+3-045	O4
+3-046	O5
+3-047	O6
+3-048	O1
+3-049	O2
+3-050	O3
+3-051	O4
+3-052	O5
+3-053	O6
+3-054	O7
+3-055	O8
+3-056	O37
+3-057	a The O atom is an O
+3-058	-1.2, and a H2O if it is
+3-059	bonding.
+3-060	as a result of it acting as a double H-bond acceptor, for example, a BVS of 1.03 for an unequivocally O bonding to two neighboring H
+3-061	atoms are six-coordinate with distorted octahedral geo- metry; Mn2 and Mn5 are very distorted, with one JT elongated bond being particularly long (Mn2
+3-062	significant intermolecular interactions.
+3-063	ure 2, and its labeled core in Figure S2 (Supporting Information).
+3-064	Selected interatomic distances and angles are listed in Table
+3-065	MnII3MnIII9, as indicated by the metric parameters and confirmed by BVS calculations (Table 3), and contains a [Mn 12(μ4-O)4(μ
+3-066	(Mn1, Mn2, Mn3, and Mn4), and on either side of this is attached a [Mn interesting asymmetry in that the tetrahedral unit is MnIIMnIII3 on one side and Mn
+3-067	BVS calculations were performed on the inorganic O atoms to assess their degree of protonation (Table 4), and there are four
+3-068	O2- (O2, O4, and O5), one (O38), one μ-MeO arms (O9, O10, O11, O12) of
+3-069	and a terminal water molecule (O37).
+3-070	Two additional atoms are provided by benzoate groups bridging in
+3-071	modes (O22 and O16).
+3-072	Peripheral ligation is provided by 12 benzoate groups exhibiting four binding modes: eight bridge two Mn atoms in the common bridge three Mn atoms in the rarer
+3-073	chelates MnII atom Mn12, and one is terminally bound to MnII atom Mn6, with its inbound O atom (O30) statically disordered between forming a H bond to the nearby water (O37) (O30 333 O37 = 2.654(5) A
+3-074	BVS
+3-075	1
+3-076	1.85
+3-077	1.98
+3-078	1.79
+3-079	0.93
+3-080	0.93
+3-081	0.63
+3-082	2
+3-083	1.75
+3-084	1.88
+3-085	1.07
+3-086	1.85
+3-087	1.67
+3-088	1.73
+3-089	1.78
+3-090	1.93
+3-091	0.27
+3-092	2- if the BVS is ∼1.8-2.0, an OH
+3-093	∼0.2-0.4, but the ranges can be affected by H
+3-094	-O13 = 2.522(3) A).
+3-095	There are no
+3-096	and a stereoview of
+3-097	3-O) 5(μ-O) 7] core consisting of a central-O)4] face-sharing incomplete dicubane
+3-098	II2MnIII
+3-099	) or the
+3-100	2007, 46, 3105–3115.
+3-101	assgt O2- O2- O2- OH- OH- OH- O2- O2- OH- O2- O2- O2- O2- O2- H2O - if it is ∼1.0 2- ion H- All of the Mn -O15 = [Mn12O7(OH)- mixed-valent Figure 2.
+3-102	Structure of complex 2 with intramolecular H bonds shown as dashed lines (top) and a stereopair (bottom).
+3-103	Hydrogen atoms and benzoate Ph rings (except for ipso C atoms) have been omitted for clarity.
+3-104	Color code: MnII, yellow; MnIII, green; O, red; C, gray; N, blue. 2 on the other. - group (O30 333 O3 = 2.713(3) A ).
+3-105	The four dmhmp groups all bind in a η1:η2:μ mode.
+3-106	The Mn atoms are μ3- six-coordinate with distorted octahedral geometry, ex- - cept for Mn11, which is five-coordinate unless a long sixth μ3-MeO - bond (Mn11-O24 = 2.842(3) A is included.
+3-107	Again, there alkoxide - are no significant intermolecular interactions. groups, μ-O It is interesting to note that the Mnx topologies of 1 and μ3 2 are related, consisting of one (1) or two (2) [Mn4(μ4-O)]
+3-108	[Mn 12O8Cl4(O2CPh)8(hmp)6] (3).
+3-109	Disregarding differ- ences such as MeO- in 2 versus Cl- in 3, and looking instead at the overall structures, the two complexes are
+3-110	(g = 2) values of 7.88 cm3 K mol-1 expected for an S = 7/2 state.
+3-111	To determine the ground state of 1 3 MeCN, as well as the magnitude and sign of D, magnetization ( M) versus dc field data were collected on restrained samples in the 1 -7 T magnetic field ( H) and 1.8 -10.0
+3-112	K temperature ranges.
+3-113	We attempted to fit the data, using the program MAGNET,[54] by diagonalization of the spin Hamiltonian matrix assuming only the ground state is
+3-114	^ 2
+3-115	populated, incorporating axial anisotropy (DSz ) and Zeeman terms and employing a full powder average.
+3-116	The corresponding spin Hamiltonian is given by eq 3, where S^z is the easy-axis spin operator, g is the Lande g factor, μB is the Bohr magneton, and μ0 is the vacuum permeability.
+3-117	However, we could not get an acceptable fit using data collected over the whole field range, which is a common problem caused by low-lying excited states, especially if some have an S value greater than that of the ground state.
+3-118	This conclusion is supported by the M versus H plot (Figure S3, Supporting Information), which does not show saturation but instead a steadily increasing magnetization with H. A common solution is to use only data collected at low fields (e1.0 T), as we showed for many mixed-valence MnII/MnIII clusters,[55] but for 1 3 MeCN, it was still not possible to obtain a satisfactory fit assuming only the ground state is populated in this temperature range, suggesting particularly low-lying ex- cited states.
+3-119	Thus, we turned to ac susceptibility measure- ments, which are a powerful complement to dc studies for determining the ground state of a system, because they preclude complications from a dc field.[9b,13a,43c]
+3-120	H ¼ DS^[2]z þ gμBμ0 S^ 3H ð3Þ The ac studies on 1 3MeCN were performed in the 1.8-15 K range using a 3.5 G ac field oscillating at frequencies in the 50-1000 Hz range.
+3-121	The obtained in- phase ac susceptibility data (χM0, plotted as χM0T) are shown in Figure 4.
+3-122	In the absence of slow magnetization relaxation and a resulting out-of-phase signal (χM00), the ac χM0T is equal to the dc χMT, allowing determination of the ground state S in the absence of a dc field.
+3-123	The χM0T versus T plot of Figure 4 decreases significantly with decreasing temperature, indicating a population of one or more excited states with S greater than the ground state S, rationalizing the problematic fits of dc magnetization data.
+3-124	Extrapolation of the plot to 0 K, where only the ground state will be populated, gives a χM0T value of
+3-125	∼7 cm3 K mol-1, which is the value expected for an S = 7/2 state, with g slightly less than 2 as expected for a MnII/MnIII complex.
+3-126	Extrapolation of a steeply sloping plot to 0 K can be unreliable, especially for large S ground states and even in the absence of significant intermolecular interactions, but the data for 1 3MeCN clearly distinguish the S = 5/2, 7/2, and 9/2 possibilities, whose χM0T values are 4.38, 7.35, and 12.38 cm3 K mol-1, respectively, for g = 2.
+3-127	We thus feel confident in our conclusion that 1 3 MeCN has an S = 7/2 ground state.
+3-128	Complex 1 3 MeCN exhibited no out-of-phase (χM00) ac signal down to 1.8 K, indicating that it does not exhibit a significant barrier (versus kT) to magnetization relaxation, that is, it is not a SMM.
+3-129	Magnetic Susceptibility Study of Complex 2.
+3-130	Variable-temperature dc magnetic susceptibility data for vacuum-dried complex 2 3 3H2O were collected as for 1 3 MeCN and are shown as a χMT versus T plot in Figure 3. χMT gradually decreases from 29.94 cm3 K mol-1 at 300 K to a minimum of 20.69 cm3 K mol-1 at 40.0 K and then increases to 23.75 cm3 K mol-1at 5 K. The 300 K value is much less than the spin-only (g = 2) value of 40.13 cm3K mol-1 for three MnII and nine MnIII noninteracting ions, indicating the presence of antiferromagnetic interactions, but the χMT versus T profile suggests there may also be significant ferromagnetic interactions as well.
+3-131	The 5.0 K value is indicative of an S = 13/2 ground state (expected χMT = 24.38 cm3 K mol-1 for g = 2).
+3-132	Magnetization data for 2 3 3H2O were collected at dif- ferent fields and temperatures, as for 1 3MeCN, and attempts were made to fit them to eq 3.
+3-133	Again, we could not obtain a satisfactory fit using all data up to 7 T (Figure S4, Supporting Information), but this time we were able to get around the problem with excited states by using only data collected up to 2 T. These are shown as a reduced magnetization (M/NμB) versus H/T plot in Fig- ure 5, where N is Avogadro’s number, and the fit (solid lines in Figure 5) gave S = 13/2, D = -0.18 cm-1, and g = 1.97.
+3-134	Alternative fits with S = 11/2 or 15/2 were rejected because they gave unreasonable values of g.
+3-135	The root-mean-square D versus g error surface for the fit was generated using the program GRID[56] and is shown as a 2-D contour plot in Figure 6 for the D = -0.3 to þ 0.3 cm-1 and g = 1.8-2.2 ranges.
+3-136	Two soft fitting minima
+3-137	are observed with positive and negative D values, with the latter being clearly superior and indicating D to be negative.
+3-138	From the shape and orientation of the contour describing the region of minimum error, we estimate the uncertainties in the fit parameters as S = 13/2, D = -0.18(2) cm-1, and g = 1.95(2).
+3-139	Note that these are fit uncertainties, rather than an estimation of the accuracy of the obtained values.
+3-140	The in-phase (χ0MT) and out-of-phase (χ00M) ac suscept- ibilities for 2 3H O are shown in Figure 7. χ 0T increases
+3-141	3 2 M
+3-142	with decreasing temperature below 15 K to a plateau of ∼24.5 cm3 K mol-1 in the 4-5 K region and then exhibits a frequency-dependent decrease below 3 K. The plateau value is clearly indicative of an S = 13/2 ground state with g ∼ 2.0, in agreement with the dc magnetization fit.
+3-143	S = 11/2 and 15/2 ground states would be expected to give χM0T values of 17.9 and 31.9 cm3 K mol-1, respectively, clearly very different from the experimental value.
+3-144	We conclude that complex 2 33H2O has an S = 13/2 ground state.
+3-145	The frequency-dependent decrease in χM0T below 3 K is accompanied by the appearance of frequency-depen- dent out-of-phase χM00 signals below 3 K, clearly the tails of peaks whose maxima are at <1.8 K. This is sugges- tive of the slow magnetization relaxation of a SMM.
+3-146	To confirm whether 2 33H2O is a SMM, studies were carried out on a single crystal down to 0.04 K.
+3-147	Hysteresis Studies below 1.8 K. Magnetization versus applied dc field studies down to 0.04 K were carried out using a micro-SQUID on single crystals of 2 33CH2Cl2 that had been kept in contact with their mother liquor.57Magnetization versus field hysteresis, the diagnostic property of a magnet, was observed below 0.7 K (Figure 8).
+3-148	The hysteresis loops exhibit increasing coer- civity with increasing field sweep rate at a constant temperature (Figure S5, Supporting Information) and increasing coercivity with decreasing temperature at a constant sweep rate (Figure 8), as expected for the super- paramagnet-like properties of a SMM.
+3-149	These loops thus confirm complex 2 33CH2Cl2 to be a new addition to the family of SMMs.
+3-150	The most dominating feature of the hysteresis loops in Figure 8 is the large step at zero field due to QTM through the anisotropy barrier.
+3-151	The large zero-field step indicates that QTM in zero field is fast, and this is consistent with the low symmetry of the molecule, which introduces a significant rhombic (transverse) anisotropy into the spin
+3-152	^ 2 ^ 2
+3-153	Hamiltonian, that is, E(Sx - S y ), where E is the rhombic zero-field splitting parameter.
+3-154	Of course, half-integer spin SMMs should not display QTM in the absence of trans- verse fields, but sources of the latter are provided pri- marily by the transverse components of dipolar fields from neighboring molecules, hyperfine interactions with the55Mn nuclear spins (I = 5/2, 100%), and intermole- cular exchange coupling.[58]
+3-155	The greater is the transverse anisotropy, the greater will be the mixing of levels on either side of the anisotropy barrier, leading to increased
+3-156	rates of QTM.
+3-157	In order to estimate the effective barrier (Ueff) to magnetization relaxation, the magnetization was first saturated in one direction at ∼5 K with a large dc field, the temperature decreased to a chosen value, the field removed, and the magnetization decay monitored with time (Figure S6, Supporting Information).
+3-158	This provided magnetization relaxation time (τ) versus temp- erature data, shown as a τ versus 1/T plot in Figure 9based on the Arrhenius relationship of eq 4:
+3-159	τ ¼ τ0 expðUeff =kTÞ ð4Þ
+3-160	where τ0 is the pre-exponential factor and k is the Boltz- mann constant.
+3-161	The fit of the thermally activated region above ∼0.7 K (dashed line in Figure 9) gave Ueff = 11 cm-1 (16 K) and τ0 = 2 10-11 s.
+3-162	The small value of τ0, smaller than is typical for purely SMM behavior, is likely due to low-lying excited states; larger clusters often give somewhat smaller τ0 values, particularly for the latter reason.[59,60]
+3-163	It should also be noted that the kinetic Ueff value is slightly greater than the thermodynamic value (U) calculated to second order using S[2]\|D\| of U = 8(1) cm-1.
+3-164	We assign this primarily to two reasons: (i) a greater intrinsic inaccuracy in the D value obtained from the magnetization
+3-165	fit, which is reasonable given the problematic nature of low-lying excited states, and since the symmetry of complex 2 3 3CH2Cl2 is much less than the axial assumed in the fitting model, and (ii) the contributions to the magnetization relaxation of pathways involving low-lying excited states, as we have reported recently elsewhere for [Mn12O12(O2CR)16(H2O)4] complexes, giving an overesti- mation of Ueff and an abnormally small τ0.[60]
+3-166	Structural Comparison of hmp-, dmhmp-, and dphmp- Mnx Products.
+3-167	Three related chelates based on the 2-(hydroxymethyl)pyridine (hmpH) backbone have now been explored in Mn cluster chemistry, hmpH itself and the dimethyl (dmhmpH) and diphenyl (dphmpH) deriva- tives (Scheme 1).
+3-168	In our previous report on dphmpH products, we concluded that the two Ph groups had almost completely removed the ability of the alkoxide O atom to bridge, and thus dphmp- primarily functions as a bidentate chelate.
+3-169	We rationalized this as a combination of the steric bulk of the two Ph groups, as well as their electron-withdrawing effect on the O atom.
+3-170	The choice of dmhmpH for the present work was designed to switch the bridging mode back on, as a result of both the smaller size of Me groups and their electron-donating rather than -withdrawing character, while still hopefully providing sufficient steric differences with hmp- to lead to new products.
+3-171	This hope has been fulfilled, with dmhmp- acting as a perturbed hmp-; that is, it functions as a chelating and bridging ligand, as does hmp-, but it yields products 1 and 2 that are structurally distinct from any seen in Mn/hmp- chemistry.
+3-172	Although the number of products containing dmhmp- is admittedly limited to date, it does appear that even the small Me substituents
+3-173	are sufficient to perturb the reactions to new cluster types compared with hmp-.
+4-001	We began this work asking whether the introduction of R groups at the CH2 position next to the alkoxide O atom of hmp- would provide routes to cluster types not available from hmp- itself, and the answer is clearly “yes”, both for previous work with dphmpH and the present work with dmhmpH.
+4-002	The initial use of the latter in Mn cluster chemistry has provided access to two new mixed-valence Mn7 and Mn12 complexes 1 and 2 with unusually asymmetric structures not seen before, and with ground state spins of S = 7/2 and 13/2, respectively.
+4-003	In addition, 2 has proven to be a new SMM, as confirmed by single-crystal micro-SQUID studies.
+4-004	The com- bined results have shown that the addition of R groups next to the O atom of pyridyl-alcohols is a good way to modify the resulting cluster products, and that variation of the size and nature of the R groups provides a means of systematic modification of products, even though their exact structure cannot be predicted.
+4-005	We are currently extending this idea both to distinctly different R groups added to the hmp-CH2 position and to other alkoxide-containing chelating/bridging ligands, and results will be reported in due course.

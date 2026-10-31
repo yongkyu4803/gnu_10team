@@ -1,0 +1,359 @@
+# document_id: ic401020m
+# extractor: kordoc-markdown-adapter-1
+1-001	can be adjusted over a wide range for a variety of catalytic
+1-002	■ reactions.[2,3]
+1-003	The development of polynuclear transition-metal complexes are
+1-004	The coordination compounds are invaluable in the study of of current interest due to their wide range of applications in
+1-005	interesting magnetic phenomena like spin frustration, spin various fields such as catalysis, adsorption, storage, magnetism, 4 canting, spin glass transitions, and single molecule magnetism. molecular recognition, fluorescence, nonlinear optics, and
+1-006	1 For this purpose, it is necessary to synthesize polynuclear sensors.
+1-007	Molecular materials synthesized to study one
+1-008	complexes of a targeted topology and predefined number of particular property can be made multifunctional by judiciously
+1-009	selecting the metal ions and ligands.
+1-010	For example, a magnetic
+1-011	material can be used as a catalyst if nuclearity, flexibility, metal Received: April 24, 2013
+1-012	coordination sphere, and ligand substitution of the framework Published: October 3, 2013
+1-013	metal atoms.
+1-014	Among the aforementioned properties, spin frustration[5] is an important topic stemming from the topological arrangement of spins.
+1-015	It has been well established in complexes where the spins are arranged in a triangular geometry[6] such as the widely employed M 3(μ3-O) clusters, with M being FeIII , FeII, CoII , NiII, CuII, or CrIII.
+1-016	This phenomenon has also been studied for tetranuclear MnIII, FeIII, or NiII complexes such as the M4O 2 core (where M = Ni(II), Fe(III), and Mn(III)) possessing either a butterfly or rhombic topology.[7−10] Oxime ligands exhibit a noteworthy ability to bridge metal ions[9−11] and are known to produce such tri- or tetranuclear complexes with spin frustration.[9,10]
+1-017	Recently, we have reported a hexanuclear CuII complex with a triangular Cu 3O core synthesized through the use of a tridentate oxime based Schiff base ligand.[12]
+1-018	In the present work, our aim is to characterize oxime based multinuclear Ni(II) complexes in order to study their magnetic behavior and catecholase activity.
+1-019	Catecholase-like activity of some model coordination complexes has been a topic of recent interest for the development of new bioinspired catalysts.[13]
+1-020	Catechol oxidase is a copper-containing type-III active-site protein that catalyzes the oxidation reaction of a wide range of o-diphenols (catechols) to corresponding o-quinones through a process known as catecholase activity.
+1-021	The catalytic action of many dinuclear copper complexes[13−15] has been developed over the past few decades, in addition to a number of manganese(II/III) complexes.[16]
+1-022	Recent investigations have also shown that some dinuclear nickel(II) species can also mediate such catechol oxidation.[3,17]
+1-023	Further, extensive studies with copper-based model complexes have shown that structural factors[13] such as metal−metal distance, exogenous bridging ligand type, coordination geometry around the metal ion, and ligand flexibility may affect their catalytic acitivity.
+1-024	However, for catecholase-like activity of Ni(II) complexes, no such clear structural correlations have been drawn because the number of complexes studied for this purpose are scarce.
+1-025	In this study, we have synthesized and characterized four nickel(II) complexes by using two monocondensed Schiff-base ligands, 3-[2-(diethylamino)ethylimino]butan-2-one oxime (HL[1]) and 3-[3-(dimethylamino)propylimino]butan-2-one oxime (HL[2] ).
+1-026	HL[1] and HL[2] resulted in the dinuclear [Ni2 L12\](ClO4 )2 (1) and trinuclear [Ni3(HL[2])3 (μ3 -O)]-(ClO 4)4·CH3CN (2) complexes, respectively.
+1-027	However, these ligands produce tetranuclear species [{Ni(deen)(H2O)}2(μ3-OH)2{Ni2(moda)4 }\](ClO4)2·2CH3CN (3) and [{Ni(dmpn)-(CH 3CN)}2(μ3 -OH)2 {Ni2 (moda)4}\](ClO4)2·CH3CN (4) in the presence of NaOH.
+1-028	As 3 and 4 possess a rhombic topology, reported to be a good model for studying spin- frustration,[9,10] the magnetic properties were studied in detail.
+1-029	The catecholase-like activity of these four oxime-based Ni(II) complexes was examined, and it was found that only 3 and 4 act as catalysts for the areal oxidation of 3,5-di-tert-butylcatechol to the corresponding o-quinone.
+1-030	Unlike 1 and 2, which display no catalytic behavior or magnetic ordering, 3 and 4 demonstrate both, making them quite interesting multifunctional materials.
+2-001	■
+2-002	Starting Materials.
+2-003	Diacetyl monoxime (modaH), 2-(diethylamino)ethylamine (deen), 3-(dimethylamino)-1-propylamine (dmpn), and sodium hydroxide were purchased from commercial sources and used as received.
+2-004	Nickel perchlorate hexahydrate was prepared by the standard laboratory method; solvents were of reagent grade and used without further purification.
+2-005	Caution!
+2-006	Perchlorate salts of metal complexes coordinated with organic ligands are potentially explosive.
+2-007	Only a small amount of material should be prepared, and it should be handled with care.
+2-008	Synthesis of Schiff Base Ligands (HL[1] and HL[2]).
+2-009	The two monocondensed Schiff base ligands, 3-[2-(diethylamino)ethylimino]-butan-2-one oxime (HL[1]) and 3-[3-(dimethylamino)propylimino]-butan-2-one oxime (HL 2) were prepared by standard methods.
+2-010	Briefly, 8 mmol of diacetyl monoxime (0.808 g) was mixed with 8 mmol of the required amine 2-(diethylamino)ethylamine (1.080 mL)] and [3-(dimethylamino)-1-propylamine (1.008 mL) in ethanol separately (20 mL).
+2-011	The resulting solutions were refluxed for ca. 5 h and allowed to cool.
+2-012	The yellow ethanolic solutions were used directly for complex formation.
+2-013	Synthesis of Complexes [Ni2L 12\](ClO4)2 (1) and [Ni3(HL[2])3(μ3-O)\](ClO4 )4·CH3CN (2).
+2-014	With constant stirring, an ethanolic solution (15 mL) of Ni(ClO4)2·6H2O (0.728 g, 2 mmol) was added to an ethanol solution of HL[1] (2 mmol, 5 mL), resulting in the immediate precipitation of a red crystalline compound.
+2-015	The mixture was further stirred for 1 h at room temperature, with the amount of product gradually increasing.
+2-016	It was then filtered and washed with diethyl ether and redissolved in CH3CN.
+2-017	Red, rectangular-shaped crystals of complex 1 suitable for single-crystal X-ray diffraction (sc-XRD) were then obtained by slow evaporation of the solvent.
+2-018	Complex 2 was synthesized in the same manner as 1, except HL[2] was used instead of HL[1].
+2-019	High-quality crystals were obtained through slow evaporation of CH3CN, resulting in red, rhombic-shaped crystals.
+2-020	Both 1 and 2 were then washed with diethyl ether and dried in a desiccator containing anhydrous CaCl2 and then characterized by elemental analysis, spectroscopic methods, and X-ray diffraction.
+2-021	Complex 1.
+2-022	Yield: 0.580 g (82%).
+2-023	IR (KBr pallet, cm−1): 3438mb, 2974m, 1628w, 1510m, 1449m, 1383m, 1229m, 1092sb, 744m and 619m.
+2-024	UV/vis: λmax (nm) [εmax (M−1 cm −1)] (CH3CN) = 570 (130), 360 (630), 270 (1889) and 228 (1739).
+2-025	Anal. Calcd for C20H40N6O10Cl2Ni2: C, 33.70; H, 5.66; N, 16.47.
+2-026	Found: C, 33.63; H, 5.52; N, 16.31.
+2-027	Complex 2.
+2-028	Yield: 0.593 g (75%).
+2-029	IR (KBr pallet, cm−1): 3459mb, 3117mb, 2940w, 1610w, 1527m, 1468m, 1383m, 1227m, 1095sb, 744m and 622m.
+2-030	UV/vis: λmax (nm) [εmax (M−1 cm −1)] (CH3CN) = 572 (140), 328 (1069), 279 (1894) and 220 (1800).
+2-031	Anal. Calcd for C29H60N10O20Cl4Ni3: C, 29.35; H, 5.10; N, 14.84.
+2-032	Found: C, 29.43; H, 5.12; N, 14.77.
+2-033	Synthesis of Complexes [{Ni(deen)(H2 O)}2 (μ3 -OH) 2 - {Ni2 (moda)4}\](ClO4)2·2CH3 CN (3) and [{Ni(dmpn)(CH3CN)} 2(μ3-OH)2 {Ni2(moda)4}\](ClO4)2·CH3CN (4).
+2-034	An ethanolic solution (15 mL) of Ni(ClO4)2·6H2O (0.728 g, 2 mmol) was added to a mixture containing an ethanol solution of HL[1] (2 mmol, 5 mL) and NaOH (0.120 g, 3 mmol).
+2-035	Continual stirring of the mixture for 1 h at room temperature resulted in a green crystalline precipitate, which was filtered and washed with diethyl ether and then redissolved in CH3CN.
+2-036	Green parallelepiped-shaped crystals of complex 3 suitable for XRD were obtained after the solution stood overnight in air.
+2-037	Similarly, single crystals of 4 were obtained by following the same procedure for 3, but using HL[2] instead of HL[1].
+2-038	Complex 3.
+2-039	Yield: 0.244 g (40%).
+2-040	IR (KBr pallet, cm−1): 3553m, 3445m, 2980w, 1605m, 1450s, 1248s, 1127s, 1098sb, 977m, 658m and 625m.
+2-041	UV/vis: λmax (nm) [εmax (M−1 cm −1)] (CH3CN) = 590 (145), 301 (2730), and 222 (2000).
+2-042	Anal. Calcd for C 32H68N10O20Cl2Ni4: C, 31.54; H, 5.62; N, 11.49.
+2-043	Found: C, 31.53; H, 5.45; N, 11.37.
+2-044	Complex 4.
+2-045	Yield: 0.251 g (42%).
+2-046	IR (KBr pallet, cm−1): 3542m, 3431m, 2925w, 2884w, 1610m, 1453s, 1258s, 1094sb, 975m, 658m and 626m.
+2-047	UV/vis: λmax (nm) [εmax (M−1 cm−1)] (CH3CN) = 596 (150), 302 (2386), and 223 (2220).
+2-048	Anal. Calcd for C30H63N11O18Cl2Ni4: C, 30.76; H, 5.42; N, 13.15.
+2-049	Found: C, 30.63; H, 5.52; N, 13.17.
+2-050	Physical Measurements.
+2-051	Elemental analyses (C, H, and N) were performed using a Perkin-Elmer 2400 series II CHN analyzer.
+2-052	IR spectra in KBr pellets (4000−500 cm−1) were recorded using a Perkin-Elmer RXI FT-IR spectrophotometer.
+2-053	Electronic spectra in methanol(1200−200 nm) and solid state (750−300 nm) were recorded in a Hitachi U-3501 spectrophotometer.
+2-054	Variable-temperature magnetic
+2-055	susceptibility (χ) measurements were carried out on a Quantum High Magnetic Field Laboratory, which have been described Design SQUID magnetometer with an applied field of 2000 G from 2 elsewhere.[18]
+2-056	In addition, X-band (9.5 GHz) EPR spectra were to 300 K. In order to compliment the χ data, we attempted high- recorded using a JEOL JES-FA 200 instrument.
+2-057	Electrochemical frequency electron paramagnetic resonance (HF-EPR) measurements measurements were carried out using a computer-controlled on 3 and 4 using the 375 and 240 GHz spectrometer at the National AUTOLAB (model 263A VERSASTAT) electrochemical instrument
+2-058	with Pt-tip as working electrode.
+2-059	Cyclic voltammograms were recorded at 25 °C versus Ag/AgCl electrode in MeCN under pure N2 atmosphere with 0.1 M tetrabutylammonium perchlorate (TBAPC) as the supporting electrolyte.
+2-060	Electrospray ionization mass spectrom- etry (ESI-MS positive) spectra were recorded with a Micromass Qtof YA 263 mass spectrometer.
+2-061	Well formed single crystals of each complex was mounted on a Bruker-AXS SMART APEX II diffractometer equipped with a graphite monochromator and Mo Kα (λ = 0.71073 Å) radiation.
+2-062	The crystals were positioned 60 mm from the CCD, and frames (360) were measured with a counting time of 5 s.
+2-063	The structures were solved using the Patterson method through the SHELXS 97 program.
+2-064	Non- hydrogen atoms were refined with independent anisotropic displace- ment parameters, while difference Fourier synthesis and least-squares refinement showed the positions of any remaining non-hydrogen atoms.
+2-065	The non-hydrogen atoms were refined with anisotropic thermal parameters.
+2-066	The hydrogen atoms bound to carbon atoms were included in geometric positions and given thermal parameters equivalent to 1.2 (or 1.5 for methyl groups) times those of the atom to which they were attached.
+2-067	Hydrogen atoms that bonded to N or O were located in a difference Fourier map and refined with distance constraints.
+2-068	Successful convergence was indicated by the maximum shift/error of 0.001 for the last cycle of the least-squares refinement.
+2-069	Absorption corrections were carried out using the SADABS program,[19] while all calculations were made via SHELXS 97,20SHELXL 97,[21] PLATON 99,[22] ORTEP-32,[23] and WINGX system ver-1.64.[24]
+2-070	Data collection, structure refinement parameters, and crystallographic data for the four complexes are given in Table 1.
+2-071	Catalytic Oxidation of 3,5-DTBC.
+2-072	In order to study the catecholase activity of 1−4, a 10−4 (M) solution of each complex (molarity was calculated taking half of the molecular weight of tetranuclear complexes 3 and 4 and two-thirds of trinuclear complex 2 to keep the same numbers of Ni(II) in solution for all four complexes and also for a comparison with dicopper system) in acetonitrile was treated with 100 equiv of 3,5-di-tert-butylcatechol (3,5-DTBC) dissolved in acetonitrile under aerobic conditions at room temper- ature.
+2-073	Absorbance vs wavelength (wavelength scan) of these solutions was recorded at a regular time interval of 5 min in the wavelength range 300−500 nm.
+2-074	To determine the dependence of rate on substrate concentration and various kinetic parameters, a 10−4 M solution of complexes was treated with 10, 30, 50, 70, and 100 equiv of substrate.
+2-075	The reactions were followed spectrophotometrically by monitoring the increase in the maximum absorbance of the quinone band at 400 nm as a function of time (time scan).
+2-076	To detect the formation of hydrogen peroxide during the catalytic reaction we followed the iodometric method.[25]
+2-077	Reaction mixtures were prepared as in the kinetic experiments.
+2-078	After 1 h of reaction, the solution was acidified with H2SO4 until a pH of 2 was reached.
+2-079	In order to inhibit further oxidation, an equal volume of water was added, and the formed quinone was extracted three times with dichloro- methane.
+2-080	To the aqueous layer, 1 mL of a 10% solution of KI and three drops of 3% solution of ammonium molybdate were added; the formation of I 3− could be monitored spectrophotometrically due to development of the characteristic I3− band (λ = 353 nm, ε = 26000 M−1 cm−1).
+2-081	The concentration of 3,5-DTBQ was also spectrophoto- metrically determined because of the development of the characteristic band at λ ∼ 400 nm (ε = 26000 M−1 cm−1).
+3-001	■
+3-002	Syntheses of the Complexes.
+3-003	When Schiff base ligands HL[1] and HL[2] were allowed to react with nickel perchlorate hexahydrate in an EtOH medium, HL[1] resulted in the dinuclear species [Ni2L[1]2\](ClO 4)2 (1), whereas HL[2] produced the trinuclear complex [Ni3 (HL[2] )3(μ3-O)\](ClO4)4·CH3CN (2)(Scheme 1).
+3-004	In both compounds, the oximato oxygen atom of Schiff base ligand is deprotonated and coordinated to Ni(II).
+3-005	In 1, the tertiary nitrogen atom does not undergo protonation and instead coordinates to the metal ion.
+3-006	However, in 2, the
+3-007	liberated proton is accepted by the same nitrogen atom of the Schiff base ligands and remains unbonded.
+3-008	Interestingly, when NaOH is added to deprotonate the oximato hydroxyl group, [{Ni(dimp)(H 2 O)} 2 (μ3 -OH) 2 {Ni 2 (moda) 4}\](ClO 4 ) 2 ·2 C H 3 C N ( 3 ) a n d [{Ni(dimp)(CH 3 C N ) 2 } 2 ( μ 3 -OH)2{Ni2(moda)4}\](ClO4)2·CH3CN (4) are formed from HL[1] and HL[2], respectively (Scheme 1).
+3-009	In both cases, the Schiff base undergoes hydrolysis to generate the corresponding diamine and oxime molecules responsible for complex species {Ni(diamine)}2+ and {Ni(moda)2}2+.
+3-010	Two molecules for each of these species self-assemble with the help of two hydroxyl ions, forming tetranuclear complexes 3 and 4.
+3-011	It is to be noted that hydrolysis of various Schiff bases during complex formation has been observed before.[26]
+3-012	IR and UV−vis Spectra.
+3-013	IR spectra of the complexes 1−4 show the characteristic bands of the coordinated oxime ligands.
+3-014	The bands appearing in the regions 1630−1605 and 1260−1225 cm−1 are due to ν(CN) and ν(N−O) vibrational modes, respectively.[27,28]
+3-015	In addition, 3 and 4 display a shoulder at 3540 cm−1 and one broad band of medium intensity at 3450−3430 cm−1.
+3-016	Both can be attributed to the presence of the hydroxido group, while the ν(N−H) stretching vibrations of the coordinated amino group are found in the region 3340−3300 cm−1.
+3-017	Finally, the peaks at 1450 cm−1 (3) and 1454 cm−1
+3-018	The electronic spectra of all four compounds were recorded in acetonitrile, and it was found that CT transitions dominate in all of the spectra (Figure S1, Supporting Information).
+3-019	Sharp, single absorption bands were found near the respective wavelengths of 360, 328, 301, and 302 nm for 1−4, which can each be attributed to ligand-to-metal charge transfer transitions.
+3-020	In addition, a broad absorption band is observed in the visible region at 570, 572, 590, and 596 nm for 1−4, respectively.
+3-021	This is typical for d−d transitions of Ni(II) ions with a square planar (1 and 2) or octahedral (3 and 4) environment.
+3-022	Moreover, an absorption band in the range 220−280 nm, assignable to intraligand charge-transfer transitions, is observed for all four complexes.
+3-023	Structure Description of the Complexes.
+3-024	Structure 1 consists of a cationic centrosymmetric dimer [Ni2L[1]2]2+ [HL[1] is 3-[2-(diethylamino)ethylimino]butan-2-one oxime], together with two perchlorate anions.
+3-025	The cationic moiety is shown in Figure 1, while selected bond lengths and angles are summarized in Table 2.
+3-026	The two nickel atoms have four coordinate square planar environments bound to three nitrogen atoms of one ligand and the oximato oxygen of a second.
+3-027	The distances to two of the nitrogen atoms are similar, Ni(1)−N(1) 1.875(3) Å and Ni(1)−N(2) 1.833(3) Å, but shorter than that to the tertiary nitrogen Ni(1)−N(3) 1.955(3) Å.
+3-028	The Ni(1)−O(1)a oxygen bond is 1.836(3) Å.
+3-029	Moreover, the four donor atoms show a root mean square (rms) deviation of 0.062 Å , while the metal atoms are 0.010(1) Å from the least squared planes through them.
+3-030	The dihedral angles between the N(imine)−Ni-N(oxime) and N(tertiary)−Ni−O are 5.86(14)°, indicating that the basal plane around the nickel atom is almost planar.
+3-031	This is so because the angle should be 0° for a perfectly square planar arrangement and 90° for a perfect tetrahedral arrangement.
+3-032	Trans angles around nickel [N(1)−Ni(1) −N(3) 168.77(12)° and O(1)a−Ni(1)−N(2) 172.92(11)°] indicate slight tetrahedral distortion.
+3-033	complex 1
+3-034	Ni(1)−N(1) 1.875(3) N(1)−Ni(1)−N(2) 82.63(11) Ni(1)−N(2) 1.833(3) N(1)−Ni(1)−N(3) 168.77(12) Ni(1)−N(3) 1.955(3) O(1)a-Ni(1)−N(1) 102.44(11) Ni(1)−O(1)a 1.836(3) N(2)−Ni(1)−N(3) 86.57(12) O(1)a-Ni(1)−N(2) 172.92(11) O(1)a-Ni(1)−N(3) 88.60(12) aSymmetry element = (−x,−y,1−z).
+3-035	Structure 2 consists of a trinuclear cationic moiety [Ni3(HL[2])3(μ3-O)]4+ [where HL[2] is 3-[3-(dimethylamino)-propylimino]butan-2-one oxime], four perclorate anions, and one acetonitrile molecule as a solvent.
+3-036	The cationic moiety is shown in Figure 2.
+3-037	Selected bond lengths and angles are summarized in Table 3.
+3-038	In the trinuclear unit, the environments of all three nickel atoms are equivalent, implying a square planar geometry.
+3-039	Each nickel atom is bonded to an imine nitrogen and oxime nitrogen from a ligand, another to an oximato oxygen from another ligand, and the last to a central oxido O(4) that bridges all three metal atoms.
+3-040	Thus, the protonated tertiary amine groups of the ligands do not coordinate the metal center and instead remain as pendant arms.
+3-041	These four donor atoms are approximately planar, showing rms deviations of 0.039, 0.028, and 0.013 Å with respect to the least squared planes passing through Ni(1), Ni(2), and Ni(3).
+3-042	The metal atoms deviate by 0.036(1), 0.044(1), 0.061(1) Å from their respective planes.
+3-043	Bond lengths to the μ3-bridging oxygen atom O(4) are 1.795(5), 1.790(6), 1.797(5) Å and 1.855(4), 1.852(5), 1.858(4) Å to the oximato oxygen for Ni(1), Ni(2), and Ni(3), respectively.
+3-044	Distances to the nitrogen atoms range from 1.833(4)−1.895(5) Å; Ni−N (oxime) bond distances [1.838(4), 1.842(5), and 1.833(4) Å] are considerably shorter than Ni−N (imine) bond distances [1.882(5), 1.890(5), and 1.895(5) Å].
+3-045	In addition, the bridging oxygen atom O(4) lies 0.113(8) Å from the plane of the three nickel atoms.
+3-046	The ranges of both trans angles [171.5(2)−177.38(18)°] and of cis angles [82.9(2)−94.7(2)°] are close to their respective ideal values of 180° and 90°.
+3-047	Structure 3 consists of a cationic centrosymmetric tetranuclear unit of [{Ni(deen)(H2 O)} 2 (μ3 -OH) 2 - {Ni2(moda) 4}]2+ (where deen is 2-(diethylamino)ethylamin and modaH is butane-2,3-dione monooxime) with two perchlorate anions and two acetonitrile molecules from the solvent.
+3-048	Cationic moiety of 3 is shown in Figure 3, while selected bond lengths and angles are summarized in Table 4.
+3-049	The environment around all four nickel atoms is distorted octahedral, with the basal plane around the central Ni(1) being constituted of two oximate nitrogen atoms [N(3) and N(4)] of two different moda− anions, one ketone oxygen atom [O(3)] of moda− anions and another oxygen [O(1)a] from a μ3-OH− group.
+3-050	These four donors show a rms deviation of 0.189 Å from their mean plane, and each metal atom is displaced 0.039(1) Å from the same plane in the direction of O(1).
+3-051	The basal bond distances around the Ni(1) atom are in the range of 2.019(3)−2.130(3) Å, and the apical bond lengths to ketone oxygen [O(4)] of moda− anions and oxygen [O(1)] from the μ3-OH− group are 2.120(3) and 2.037(3) Å, respectively, while the O(4)−Ni(1)−O(1) angle is 165.45(12)°.
+3-052	Similar to Ni(1), the coordination sphere of terminal Ni(2) has a basal plane consisting of N(1), N(2) [primary and tertiary nitrogens of amine], O(1) [from μ3-OH− group] and O(2)a [oximato oxygen of moda− anions], with bond distances in the range of 2.012(3)−2.194(5) Å.
+3-053	The apical positions are occupied by the other two oxygen atoms from the moda− anions and water solvent at Ni(2)−O(5) 2.032(3) Å and Ni(2)−O(6) 2.203(3) Å, respectively, with the bond angle O(5)−Ni(2)−O(6) being 178.93(15)°.
+3-054	The r.m.s. deviation of four equatorial coordinat- ing atoms is 0.028 Å from their mean plane, and that of Ni(2) from the same plane is 0.022(1) Å in the direction of O(5) atom.
+3-055	Structure 4 also consists of centrosymmetric tetranuclear units [{Ni(dmpn)(CH3CN)} 2 (μ3−OH) 2{Ni 2 (moda)4 }]2+ (where dmpn is 3-(dimethylamino)-1-propylamin and modaH is butane-2,3-dione monooxime), two perchlorate anions, and one acetonitrile molecule as a solvent.
+3-056	The cationic moiety of 4 is shown in Figure 4, while selected bond lengths and angles are
+3-057	Table 3.
+3-058	Bond Distances (Å) and Angles (deg) around Metal Atoms for Complex 2
+3-059	summarized in Table 4.
+3-060	The molecular structure of 4 is very [Ni(1)] and terminal nickel(II) [Ni(2)] atoms, respectively.
+3-061	In similar to that of 3, with the differences being that the amine both complexes, four Ni atoms form a rhomb plane within its molecule is 3-(dimethylamino)-1-propylamin instead of 2- Ni4O2 core.
+3-062	The larger structure as shown in Figure 5 is based (diethylamino)ethylamin, and the coordinated solvent mole- on a rhombic “chair”, with two central nickel atoms (Nic) cule to Ni(2) is acetonitrile instead of water.
+3-063	All of the donor having distorted octahedral N2 O4 donor sets bridged by atoms in the coordination spheres of the Ni centers are bonded hydroxyl ions that form a central Nic2O 2 rhombus.
+3-064	Two in similar fashion to that of 3.
+3-065	Thus, the basal planes around terminal nickel(II) atoms (Nit) are bonded to μ3-OH− groups Ni(1) centers consist of two nitrogen atoms [N(3) and N(4)] on each side of the rhombus such that each μ3-OH− group acts and two oxygen atoms [O(1)b and O(4)].
+3-066	The r.m.s. deviation as a bridge among three nickel(II) atoms.
+3-067	The different amine of these four donor atoms from their mean plane is 0.154 Å. ligands have no significant influence on the molecular structure Similarly, the r.m.s. deviation of the four basal donor atoms of the complex cations of 3 and 4.
+3-068	Thus, the hydroxo bridging [N(1), N(2), O(1), and O(2)] around Ni(2) from their mean angles and the metal−metal distances of the central and planes is 0.001 Å, while Ni(1) and Ni(2) deviate from the mean terminal nickel atoms are very similar.
+3-069	Specifically, the Nic−O− plane by 0.054(1)Å and 0.024(1) Å in the direction of O(1) Nic and Nic−O−Nit angles are 97.43(12) and 112.50(13)° for and N(5), respectively.
+3-070	The Ni−O and Ni−N distances in the 3 and 97.11(16) and 112.37(16)° for 4.
+3-071	The Nic−Nic and Nic− basal planes are in the range 2.071(4)−2.140(5) Å and Nit distances are 3.071(2) and 3.428(2) Å for 3 and 3.116(2) 2.051(4)−2.248(6) Å, respectively, while apical bond lengths and 3.496(2) Å for 4.
+3-072	are Ni(1)−O(1) 2.075(4) Å, Ni(1)−O(4) 2.125(4) Å, Ni(2)− A CSD search for Ni(II) complexes containing a b diacetylmonoxime-based monocondensed tridentate Schiff O(5) 2.058(5) Å, and Ni(2)−N(5) 2.136(7) Å.
+3-073	The trans
+3-074	angles between the apical atoms are O(1)b−Ni(1)−O(4) base ligands reveals that only five Ni(II) complexes are 165.42(15)° and O(5)b −Ni(2)−N(5) 179.5(2)°.
+3-075	All these reported.
+3-076	Among them, three are mononuclear,[30] one is bond distances and angles show only minor variations from dinuclear,[31] and one is trinuclear.[32]
+3-077	Therefore, complexes 1 those of 3. and 2 are only the second example of dinuclear and trinuclear Complexes 3 and 4 crystallize in different monoclinic unit Ni(II) complexes, respectively.
+3-078	Moreover, there are some cells but have similar structures with very minor differences. tetranuclear Ni(II) complexes possessing either rhom-
+3-079	9,10,33−36 37,38
+3-080	Herein, subscripts “c” and “t” will refer to the central nickel(II) bic or butterfly topology, the majority of which
+3-081	complex 3 complex 4 Ni(1)−O(1) 2.037(3) 2.075(4) Ni(1)−O(3) 2.130(3) 2.140(5) Ni(1)−O(4) 2.120(3) 2.125(4) Ni(1)−N(3) 2.019(3) 2.051(4) Ni(1)−N(4) 2.023(4) 2.061(4) Ni(1)−O(1)a,b 2.050(3) 2.082(4) Ni(2)−O(1) 2.073(3) 2.133(4) Ni(2)−O(2)a 2.012(3) 2.071(4) Ni(2)−N(1) 2.068(4) 2.121(6) Ni(2)−N(2) 2.194(5) 2.248(6) Ni(2)−O(6)/N(5) 2.203(3) 2.136(7) Ni(2)−O(5)b 2.032(3) 2.058(5) O(1)a−Ni(1)−O(3) 163.19(11) 164.85(17) O(1)a−Ni(1)−O(4) 92.39(11) 92.91(16) O(1)a−Ni(1)−N(3) 89.66(12) 90.41(16) O(1)a−Ni(1)−N(4) 106.20(12) 102.40(16)
+3-082	O(1)b−Ni(1)−O(3) 90.59(11) 91.78(16)
+3-083	O(1)b−Ni(1)−O(4) 165.45(12) 165.42(15) N(3)−Ni(1)−N(4) 160.07(14) 161.58(18) O(1)b−Ni(1)−N(3) 102.82(12) 105.06(17) O(1)b−Ni(1)−N(4) 91.36(13) 89.79(17)
+3-084	O(1)−Ni(2)−O(5)b 93.40(11) 91.83(16) O(2)a−Ni(2)−N(1) 173.66(15) 177.8(2) O(2)a−Ni(2)−N(2) 89.66(13) 87.6(2) O(2)a−Ni(2)−O(6)/N(5) 90.96(13) 94.5(2) O(2)a−Ni(2)−O(5)b 89.21(13) 85.38(17) N(1)−Ni(2)−N(2) 84.00(16) 90.8(2) N(1)−Ni(2)−O(6)/N(5) 89.53(14) 86.9(3) O(5)b−Ni(2)−N(1) 90.42(14) 93.2(2) N(2)−Ni(2)−O(6)/N(5) 91.74(15) 92.6(2) O(5)b−Ni(2)−N(2) 89.32(14) 87.0(2) O(5)b−Ni(2)−O(6)/N(5) 178.93(15) 179.5(2) aSymmetry element = (1−x,1−y,1−z) for 3. bSymmetry element = (1/2−x,1/2−y,−z) for 4.
+3-085	were prepared by insertion of nickel(II) ions into polyox- otungstates,[33−35] or they contain trimethylacetates[36] or carbonate[8] as bridging groups.
+3-086	Pavlishchuk et al reported three rhombic tetranuclear Ni(II) complexes[9,10] containing diacetylmonooxime and different tridentate ligands (NNN, NNO and NNS donors).
+3-087	It may be mentioned here that all of the reported oxime containing tetranuclear complexes were obtained by mixing the required components separately at fixed molar ratios.
+3-088	In the present case, complexes 3 and 4 are formed by the hydrolysis of monocondensed tridentate oxime based Schiff base ligands.
+3-089	Magnetostructual Properties. χ measurements on powder samples of 3 and 4 were carried out on a Quantum Design MPMS XL magnetometer from 2 to 300 K with an
+3-090	applied field of 2000 G; 1 and 2 were neglected because of their diamagnetism.
+3-091	As seen in Figure 6, χT approaches zero with descending temperature for both complexes, indicating that the dominant interaction is of antiferromagnetic (AF) character;
+3-092	this behavior is quite common for similar compounds found in the literature.[9,10]
+3-093	The respective maxima of 3 and 4 are 3.90 and 3.73 emu K mol−1, both of which are fairly close to the expected value of 4.0 emu K mol−1 for four noninteracting Ni(II) (S = 1) ions when g = 2.0.
+3-094	As expected, the behavior of both tetramers was not significantly different from one another given their similar ligand environments.
+3-095	The spin topology of the nickel(II) core is that of a rhombus as displayed in Figure 7; the symmetry simplifies the general
+3-096	4.
+3-097	spin Hamiltonian into eq 1, which only requires three isotropic spin interactions to account for χ of the two tetramers.
+3-098	Interactions Ja, Jb, and Jc, respectively correspond with interactions between Nic−Nit, Nic−Nic, and Nit−Nit.
+3-099	The relatively large distance between the terminal ions allows one to reasonably neglect Jc, though this was verified through the fitting; the reduced χ[2] as observed in eq 2 (herein labeled as χ[2]red) was not improved by accounting for it.
+3-100	Finding the eigenstates is further simplified by applying the Kambe coupling scheme.[39]
+3-101	When applying it to our problem, pairwise couplings of two spin centers are assumed, i.e., S13 = S1 + S3 and S24 = S2 + S4, with each of these states varying integrally from 0 to 2.
+3-102	In turn, S13 and S24 couple to form total spin ST with integral quantum numbers from 0 to 4.
+3-103	The intermediate spin operators allow one to conveniently form an orthogonal basis set that diagonalizes the Hamiltonian, leading to eq 3.[40]
+3-104	The Van Vleck equation can then be applied to the resulting 19 energy states to be used in eq 4; all of the symbols have their standard meaning save ρ, which represents the mole fraction of paramagnetic impurity.[41]
+3-105	It should also be noted that phenomena such as temperature independent magnetism
+3-106	and axial zero field splitting were not considered as they, like Jc, do not significantly alter χ2red.
+3-107	In addition, one would risk overparameterization of the model, which has been discussed elsewhere.34,35,40 H = − 2(Ja S1·S2 + S1·S4 + S2 · S3 + S3 · S4) − 2Jb (S2·S4) − 2(Jc S1·S3) (1) R2 =∑ [(χT )obs − (χT)calc ] 2 dof (2) Where dof is degrees of freedom E(ST) = −J Sa T (ST + 1) − S13(S13 + 1)(Jc − Ja) − S24( S24 + 1)(Jb − Ja) + 4Jb + 4Jc (3) 2 2 ⎛ −E(ST)/ kT Ng β ∑ ST (ST + 1)(2S T + 1)e χ = ⎜(1 − ρ) ⎜ 3kT ⎝ ∑ (2ST + 1) ⎞ −E(S )/kT e T + 2ρ⎟ ⎟ ⎠ (4) For 3, g = 2.25(3), Ja = −43.5(1) cm−1, Jb = 19(1) cm−1, ρ = 0.016, and R2 = 7.81E−5.
+3-108	For 4, the above procedure resulted in g = 2.27(4), Ja = −48.4(1) cm−1, Jb = 15(1) cm−1, ρ = 0.0427, and R2 = 2.282E−5.
+3-109	These parameters agree quite well with the literature,8−10,42−46 which has made strong structural correla- tions for the Ni(II)−Ni(II) magnetic couplings through an oxygen atom.
+3-110	Selected parameters relevant to the mediated magnetic properties of teranuclear Ni(II) complexes with rhombic topology have been shown in Table 5.
+3-111	It has been found that the sign and magnitude of J is primarily dictated by the Ni−O−Ni angles; \|J\| decreases until it disappears when the angle is somewhere between 95°and 100°.10 explanation for the small magnitude of Jb for both tetramers, as This provides one 3 and 4, respectively, possess a Nic−O−Nic angle 97.6° and of 97.1°.
+3-112	Similarly, it has been shown that angles near 110 result in AF intramolecular coupling.
+3-113	Thus, given the large Ni ° should c− O−Nit angles of 3 and 4 (both 112.7°), one would expect Ja 0) ones in clusters of small
+3-114	Complexesa
+3-115	3 3.071 4 3.116
+3-116	a
+3-117	Nic···Nit Nic−O−Nic Nic−O−Nit Ja Jb ref
+3-118	3.496,3.496 97.11 112.37 −48.4 15.0 this work
+3-119	Subscripts “c” and “t” refer to the central and terminal nickel atoms, respectively.
+3-120	Distances, angles, and J values are given in Å, deg, and cm−1,
+3-121	b
+3-122	respectively.
+3-123	Key: dien =1,5-diamino-3-azapentane, Odien =1,5-diamino-3-oxapentane, Sdien =1,5-diamino-3-thiapentane, and modaH = butane-
+3-124	2,3-dione monooxime.
+3-125	nuclearity.[40]
+3-126	This has been observed for another Ni(II) tetramer chair of chair conformation; plots of the residual fit error R[2](Ja,Jb) display “trough-like” extended minima along the Jb axis.[10]
+3-127	Interestingly enough, this kind of situation has arisen for a similarly shaped Fe(III) butterfly tetramer.[7a]
+3-128	Observation of the energy level diagram serves as a useful guide for understanding the role of spin frustration on the magnetic susceptibility.
+3-129	Consider 4; its first excited state, (1,2,2), is 96.3 cm−1 above the (0,2,2) ground state, while ST = 4 is well removed from the it at 963 cm−1; the remoteness of the singlet ground state (Figure 8) is a logical consequence of
+3-130	−Ja ≫ Jb .[9]
+3-131	This can be seen from calculations using eq 3, which show that the energy states do not cross under this condition.
+3-132	But there is another important consideration to make given these circumstances.
+3-133	It was previously stated that 3 and 4 serve as a good model for spin frustration.
+3-134	Classically, this is not sensible for a singlet ground state.
+3-135	This makes it difficult to discern if the positive Jb is a result of direct coupling or indirectly related to other kinds.
+3-136	Work by Kahn has suggested that a model of competing spin interactions is more suitable.[5,46]
+3-137	Thus, it seems a more appropriate hypothesis to claim that Jb > 0 due to the dominating character of Ja, which in turn is driven by the larger Nic−Nit−Nic bond angles of the Ni(II) core; this is what dictates the alignment of Nic.
+3-138	No signals were detected from either compound in conformity with the above analysis that predicts the ground states to be singlets.
+3-139	We ascribed the absence of the EPR signals to the fact that the first paramagnetic state is around 140 K above the ground state.
+3-140	At such high temperatures, the spin relaxation times are so short that the signals are broadened beyond detection.
+3-141	The magnetic orbitals of nickel(II) with SNi = 1 are singly occupied (dx2−y2)[1] and (dz2)[1] orbitals.
+3-142	There are mainly three dominant interactions between nickel(II) ions and sp[2] -hybridized orbitals of the NO moiety of oximato ligands:[11d] (i) antiferromagnetic coupling through the in plane bonding of Ni(II) center and NO moiety (dx2−y2 \|\| σsp2(NO)\|\| d′x2−y2), (ii) weak antiferromagnetic coupling via in-plane bonding of the Ni(II) center and NO moiety (dz2 \|\| σsp2(NO)\|\| d′z2), and (iii) ferromagnetic coupling by the out-of-plane bonding of the Ni(II) center and NO moiety (dx2−y2 \|\| σsp2(NO) ⊥ dz2).
+3-143	It is important to mention that all reported oximato-bridged nickel(II) complexes exhibit overall antiferromagnetic coupling (Table 5).
+3-144	However, few oxime-based copper(II) complexes show weak ferromagnetic coupling via out-of plane bonding
+3-145	(the axial-basal bridging) between Cu(II) ions and the NO moiety.[47]
+3-146	Catechol Oxidase Studies and Kinetics. 3,5-Di-tert- butylcatechol (3,5-DTBC) is the most widely used substrate for the study of potential catecholase activity of biomimicking coordination compounds, primarily for the following reasons: (i) its low reduction potential makes it easy to oxidize, (ii) the bulky tert-butyl substituents prevent further overoxidation reactions such as ring-opening,[48] and (iii) the oxidation product, 3,5-di-tert-butylquinone (3,5-DTBQ), is highly stable and a characteristic absorption band maxima at 402 nm (ε = 1900 M−1cm−1) in pure acetonitrile.
+3-147	Before the detailed kinetics studies, we first examined the catalytic activity of complexes 1−4 for oxidation of 3,5-di-tert-butylcatechol (3,5-DTBC) to o- quinone (3,5-DTBQ) in air-saturated acetonitrile solvent according to the reaction shown in Scheme 2.
+3-148	For this purpose, 10−4 M acetonitrile solutions of these four complexes were treated with 100 equiv of 3,5-DTBC at ambient temperature under aerobic conditions.
+3-149	After addition of the substrate into the complexes, the progress of the reaction was followed by recording the UV−vis spectra of the mixture at 5 min interval times.
+3-150	The gradual increase of an absorption band around 400 nm was observed in UV−vis spectroscopy for complexes 3 and 4, but not for complexes 1 and 2.
+3-151	This indicates that only complexes 3 and 4 catalyze the areal oxidation of 3,5-DTBC to 3,5-DTBQ.
+3-152	Hence, the detailed kinetic studies were only performed on complexes 3 and 4.
+3-153	Figure 9 presents the variation of the spectral behavior of complex 4 in the presence of 3,5-DTBC.
+3-154	From Figure 9, it is clear that the spectra of 4 in acetonitrile solution shows drastic changes immediately after addition of 3,5-DTBC.
+3-155	Two bands
+3-156	develop at 402 and 352 nm.
+3-157	It is obvious that the band at 402 nm corresponds to 3,5-DTBQ in pure acetonitrile solution.
+3-158	On the other hand, the band at 352 nm may indicate the formation of a stable substrate-catalyst intermediate.[16a,17b,49] The results for 1−3 are shown in the Supporting Information (Figures S2−S4).
+3-159	The kinetics of oxidation of 3,5-DTBC to 3,5-DTBQ by 3 and 4 were determined by the method of initial rates by monitoring the growth of the quinone band at 400 nm as a function of time.
+3-160	The rate constant for a particular complex- substrate mixture was determined from the log[Aα/(Aα − At)] vs time plot (Figure 10).
+3-161	The substrate concentration
+3-162	those reported for dinickel(II) complexes which are obtained from “end-off” compartmental Schiff base ligand.[17b,d]
+3-163	DTBQ Catalyzed by Complexes 3 and 4 and Other Reported Dinuclear Ni(II) Complexes
+3-164	kcat (h−1)
+3-165	in in
+3-166	complexesa CH3CN CH3OH ref
+3-167	(NO3)3
+3-168	propylenebis(3-formyl-5-tert-butylsalicylaldimine.
+3-169	To get a better understanding of the complex-substrate intermediate and a mechanistic inference of catecholase activity during the oxidation reaction, here we have recorded ESI-MS spectra of 1, 4, and a 1:10 mixture of the complexes to and 3,5-DTBC within 10 min of mixing in acetonitrile solvent (Figures S6−S11, Supporting Information).
+3-170	The spectrum of complex 1 shows a base peak at m/z = 613.17 (calcd 613.14), which can be assigned to the dinuclear species [(Ni2L[1]2)(ClO4 )]+.
+3-171	In addition, peaks at m/z = 256.13 and 297.28 indicate the presence of [NiL[1]]+ and [(NiL[1])(CH3CN)]+, respectively.
+3-172	On the other hand, complex 4 displays a base peak at m/z = 493.95(calcd 494.11), which can be assigned to the cationic species [Ni 2(dmpn)(μ2-OH)(moda)2(H2O)(CH3CN)]+.
+3-173	The appear- ance of other peaks at 970.87, 868.85, 417.13, and 260.09 may be attributed to the presence of [Ni4(dmpn)2(μ3 -OH)2 -(moda) 4(ClO 4)]+, [Ni 4(dmpn) 2(μ3-OH)(μ3 -O)(moda)4 ]+, [Ni 2(dmpn)(μ2 -O)(moda)(CH3 CN) 2]+, and [Ni(dmpn)-(ClO 4)]+, respectively, for 4.
+3-174	After the addition of 3,5-DTBC to the solutions of complex 1, no changes occurred except for the appearance of a new peak at m/z = 243.18 (calcd 243.14), corresponding to the quinone sodium aggregate [3,5-DTBQ- Na]+.
+3-175	In contrast, after the addition of 3,5-DTBC to the solutions of the complex 4, drastic changes were observed.
+3-176	In addition to the quinone sodium aggregate [3,5-DTBQ-Na]+ at 243.17 (calcd 243.14), the base peak at m/z = 380.28 (calcd 380.21) corresponding to [Ni(dmpn)(3,5-DTBC−)]+, and other peaks at m/z = 496.31 (calcd 496.16), 657.30 (calcd 657.23) and 1093.10 (calcd 1093.29) corresponding to [Ni 2(dmpn)(μ2-OH)(3,5-DTBC2−)(CH3CN)]+, [Ni2(dmpn)-( μ 2 − OH)(moda)(modaH)(3,5-DTBC − ) ] + , a n d [Ni4(dmpn)2 (μ3-OH)2 (moda)4 (3,5-DTBC−)]+, respectively, were generated (Scheme 3).
+3-177	Therefore, the ESI-MS spectra allow one to conclude that the complex−substrate intermedi-
+3-178	dependence of the oxidation rates and various kinetic parameters were determined by using 10−4 M solutions of 3 and 4 with different concentrations of 3,5-DTBC under aerobic conditions.
+3-179	In both cases, a first-order kinetic dependence was observed at low concentrations of 3,5-DTBC, whereas higher concentrations resulted in saturation kinetics.
+3-180	The observed rates versus concentration of substrate data were then analyzed on the basis of the Michaelis−Menten approach of enzymatic kinetics to get the Lineweaver−Burk (double reciprocal) plot and values of kinetic parameters Vmax, KM, and Kcat .
+3-181	Both the observed rate vs [substrate] and Lineweaver−Burk plot for complex 4 are shown in Figure 10.
+3-182	A similar plot for 3 is given in the Supporting Information (Figure S5).
+3-183	The kinetic parameters for both cases are listed in Table 6.
+3-184	The kcat values can be calculated by dividing the Vmax values by the concentration of the corresponding complexes (Table 6).
+3-185	This value for 4 [kcat = 300.00 h−1] is slightly higher than that of 3 [kcat = 278.40 h−1].
+3-186	The kcat values obtained for complexes 3 and 4 are significantly higher than those reported for dinickel(II) coordination compounds containing tridentate Schiff base ligands[3] (Table 7) and considerably lower than
+3-187	1.77 × 10−5
+3-188	2.50 × 10−5
+3-189	10.17 × 10−3 7.8 × 10−5 278.40
+3-190	9.61 × 10−3 1.00 × 10−4 300.00
+3-191	ates are formed and that seem to be responsible for the catalytic activity of the complex toward the oxidation of 3,5-DTBC to 3,5-DTBQ.
+3-192	Detailed mechanistic studies with copper-based model complexes reveal that there are two possible mechanisms for the oxidation of 3,5-di-tert-butylcatechol to their respective quinone.
+3-193	One proceeds through the formation of a dicopper-(II) catecholate intermediate where the dicopper(II) species stoichiometrically oxidizes the catecholic substrate to one molecule of quinone and itself reduces to a dicopper(I) species.
+3-194	Then, the dicopper(I) species reacts with an oxygen molecule to generate a peroxodicopper(II) adduct, which then oxidizes a second molecule of the substrate to quinone; water is formed as a byproduct through this four electron reduction process.[50]
+3-195	The second mechanism involves in the formation of an organic radical intermediate such as copper(I) semiquinonate.[51]
+3-196	Its subsequent reaction with dioxygen may result in the two- electron reduction of dioxygen, leading to the reoxidation of the copper(I) ion and release of the quinone molecule, with and hydrogen peroxide acting as a byproduct.[52]
+3-197	To gain insight into the mechanism of the catalytic reaction for these Ni(II) complexes, we were interested to know whether any H2O2 was formed and, if so, to find its amount.
+3-198	The estimation of H 2O2 clearly shows that, after approximately 1 h of oxidation, 93% and 95% H2O2 were generated with respect to the formation of 3,5-DTBQ for 3 and 4, respectively.
+3-199	The results indicate that nearly equimolar amount of hydrogen peroxide was formed with respect to 3,5-DTBQ.
+3-200	Therefore, keeping analogy to the mechanism of the oxidation by using the dicopper system,[52] one might assume that the reaction proceeds through the formation of nickel(I) semiquinonate intermediate.
+3-201	However, this possibility seems unlikely since oximate ligands are known to stabilize higher oxidation states of nickel, i.e., Ni(III) and Ni(IV) rather than the lower one, i.e., Ni(I).[27,53]
+3-202	Moreover, recently Baldwin et al. reported[54] a new pathway for the aerobic substrate oxidation involving net hydrogen atom transfer from substrate to O2 to produce hydrogen peroxide, catalyzed by an oxime based Ni(II) complex.
+3-203	They showed that the reaction occurred through the formation of peroxodinickel(III) adduct where dinickel(II) oximate complex was oxidized by one molecule of O2 .
+3-204	The subsequent reaction of this adduct with substrate molecule resulted in the oxidation of the oximate to iminoxyl radicals and reduction of Ni(III) to Ni(II) ions.
+3-205	Thereafter, the intermediate radical species that was produced by intramolecular hydrogen atom transfer from the coordinated substrate, which was proposed to exist either as the oxidized iminoxyl radical or the
+3-206	protonated neutral oxime.
+3-207	The catalytic cycle was completed through the consecutive release of one molecule oxidized product along with one molecule hydrogen peroxide as a byproduct.
+3-208	We therefore assume that the present compounds 3 and 4 catalyzes the oxidation of catechol through similar pathways as reported by Baldwin et al.[54] We have recorded the X-band EPR spectra of the reaction mixture to understand whether any organic radical and nickel(III) complex are produced as intermediate species.
+3-209	For that purpose, EPR spectra of 10−3 M methanol solutions of each complex (1−4) added to 3,5-DTBC (10−1 M) were taken under aerobic conditions at room temperature at different time intervals (within 30 min) of the oxidation reaction.
+3-210	No signals were obtained for 1 and 2.
+3-211	In contrast, an isotropic signal centered at giso ∼ 2.00 for 3 and 4 (Figure 11 and Figure S12, Supporting Information) with a
+3-212	peak-to-peak line width of ca. 5−10 gauss was observed.
+3-213	The g value of the signal is close to 2.0023 (value for a free electron[55]), which is characteristic for organic radicals.
+3-214	The intensity of this signal gradually increases up to 20 min and then decreases.
+3-215	The EPR feature obtained in the present study is comparable to that observed iminoxyl radical derived from oximate group of the oxime based Ni(II) complexes.54,56However, we did not get any signal corresponding to the formation of the nickel(III) species as an intermediate presumably due to the its transient nature.
+3-216	Moreover, complexes 3 and 4 were electrochemically oxidized at room temperature in acetonitrile solution.
+3-217	The cyclic voltammograms showed a quasi-reversible oxidation peaks at around 0.96 and 0.88 V for 3 and 4 respectively (Figure S13, Supporting Information), which can be attributed to the NiII/NiIII couple.[57]
+3-218	As a reference, detailed investigations with copper-based model complexes of catechol oxidase have shown that various factors may affect their catalytic activity, such as the metal−metal distance, ligand flexibility, exogenous bridging ligand, and coordination geometry around the metal center.[13]
+3-219	Among the Ni(II) compounds reported herein, catecholase like activity is observed for 3 and 4, whereas 1 and 2 are inactive toward catechol oxidation.
+3-220	The X-ray crystal structure makes it is clear that the coordination geometry around both terminal and
+3-221	central Ni(II) ions are octahedral in 3 and 4; moreover, in both cases, the terminal nickel(II) ions are coordinated with water and acetonitrile molecules, respectively.
+3-222	These solvent mole- cules can easily be removed from Ni(II) center and create a free coordinating position for 3,5-DTBC.
+3-223	The coordination of 3,5-DTBC to Ni(II) is evidenced for compounds 3 and 4.
+3-224	Therefore, both complexes show catecholase like activity.
+3-225	In contrast, the square planar geometry around Ni(II) in 1 and 2 does not permit its binding.
+3-226	Consequently, these are inactive toward this catalytic oxidation reaction.
+3-227	It was also found that 4 has slightly greater catalytic activity than 3; it may be attributed in part to the conformational flexibility and different substitution on the nitrogen atom of the amine ligand.
+3-228	In the case of 4, the longer propyl linker between the two nitrogen atoms results in a more flexible six-membered coordination ring with less hindrance between the two methyl substitutions on one of the nitrogen atoms.
+3-229	On the other hand, the shorter ethyl linker produces a more rigid five-membered coordination ring with more hindrance between the two ethyl substitutions on one of the nitrogen atoms in 3.
+3-230	As a result, the approach and binding of the substrate to the metal center are more favorable in 4 than that of 3.
+4-001	■
+4-002	In the present report, we have shown for the first time that oxime-based tridentate Schiff base ligands can be used to produce Ni(II) complexes of very different nuclearity and topology depending upon the reaction conditions and chelating ring size of the ligand moiety.
+4-003	HL[1], which is derived from ethylenediamine derivative, yields the dinuclear complex 1 in which metal atoms are joined only through oximato bridges.
+4-004	In contrast, ligand HL[2] , obtained from 1,3-propanediamine derivative, produces trinuclear complex 2 containing three metal atoms in triangular arrangement through the central oxido and peripheral oximato bridges under identical reaction conditions.
+4-005	On the other hand, in slightly alkaline medium, both of the Schiff bases undergo hydrolysis and produce species like {Ni(diamine)}2+ and {Ni(moda)2}2+, which are joined together by hydroxyl ions to form tetranuclear complexes 3 and
+4-006	4.
+4-007	The rhombic tetranuclear complexes consist of two different types of bridging systems between the Ni(II) ions, hydroxido and oximato.
+4-008	Complexes 1 and 2, in which the geometry of Ni(II) is square planar, are found to be diamagnetic as expected, whereas 3 and 4, having the octahedral Ni(II), show evidence of competing spin interactions.
+4-009	Both were found to have a singlet GS due to strong intramolecular coupling between the terminal and central nickel ions with ancillary ferromagnetic coupling between both central nickel ions.
+4-010	Examination of catecholase-like activity for all four complexes reveals that the ligand environment and geometry surrounding the metal play an important role for such catalytic behavior.
+4-011	Octahedral complexes 3 and 4 exbit catecholase like activity, but square planar species 1 and 2 are inactive.
+4-012	These two complexes (3 and 4) are the first oxime-based Ni(II) complexes whose catecholase-like activity have been investigated.
+4-013	Mech- anistic investigations of the catalytic behaviors by X-band EPR spectroscopy and estimation of hydrogen peroxide formation indicate that the oxidation of 3,5-DTBC to 3,5-DTBC proceeds through the formation of iminoxyl-type radical.
+4-014	During the oxidation reaction, these oxime-based Ni(II) complexes are assumed to produce transient Ni(III) species unlike the dicopper complexes where the oxidation states of Cu(II) shuttle between +I and +II.
+4-015	We are trying to develop several heterovalent as well as heteronuclear systems by using such oxime-based ligands.
+4-016	In particular, we aim to produce oxime-based new compounds that may show ferromagnetic behavior or increase catalytic activity by changing the metal ions, substitution of ligand system, counterions, and solvent systems.

@@ -1,0 +1,256 @@
+# document_id: jo100315j
+# extractor: kordoc-markdown-adapter-1
+1-001	The aza-Baylis-Hillman reaction has been recognized as a potentially useful reaction in organic synthesis because it provides a one-step preparation of R-methylene-β-amino esters from readily available R,β-unsaturated esters and imines.[1]
+1-002	Recently, asymmetric syntheses of these compounds have been of interest.
+1-003	Many methods on the catalytic asymmetric modification of the reaction have been published.2For example, chiral amines derived from quinine derivatives[2b,d-f] or chiral
+1-004	2c,g-i,m,q-w
+1-005	phosphines have been examined as good catalysts for the asymmetric aza-Baylis-Hillman reaction.
+1-006	Most of the reports, however, are usually useful for aromatic imines; the use of aliphatic imines is very limited.
+1-007	This is probably due to the instability of aliphatic imines under the reaction conditions.
+1-008	To overcome this drawback, stable and readily accessible aliphatic imines are desired.
+1-009	Chiral sulfinimines are frequently used as stable imines in organic synthesis.[3]
+1-010	The sulfinyl group affords
+1-011	sufficient steric bias in the nucleophilic addition to the imino group and is readily removed by acidic treatment.
+1-012	Use of chiral sulfinimines in the aza-Baylis-Hillman reaction has been re- ported by Aggarwal, but only moderate levels of diastereomeric selectivity were observed.[4]
+1-013	Recently, we have reported an alter- native method, in which we disclosed that a Michael/imino- aldol domino reaction of an acrylate and a chiral sulfinimine followed by a subsequent thermal elimination of sulfoxide gave aza-Baylis-Hillman products.[5]
+1-014	This methodology enabled us to prepare aza-Baylis--Hillman adducts from aliphatic imines in high enantiomeric excesses, although the method requires a two-step sequence.
+1-015	To the best of our knowledge, there are only a few practical methods to prepare aza-Baylis-Hillman adducts from aliphatic imines.[6]
+1-016	To enhance the potential of this meth- odology in organic synthesis, we attempted to prepare chiral 2,5-dihydropyrroles, which are recognized as potential precur- sors for the preparation of aza-multicyclic organic compounds and often seen among natural products such as alkaloids.7With our method, the C2 aliphatic side chain is introduced with sufficient control of chirality.
+1-017	We also examined the preparation of (-)-trachelanthamidine in highly optically pure form.
+1-018	Published on Web 05/13/2010 DOI: 10.1021/jo100315j r 2010 American Chemical Society
+2-001	The optically active aza-Baylis-Hillman adducts 1 were prepared through the domino reaction of chiral sulfinimines[3] and tert-butyl acrylate.[5d] N-Allylation of 1 was carried out via oxidation to 28 and subsequent basic treatment with allyl bromide to give 3 (Scheme 1).
+2-002	The ring-closure metathesis reaction of 3 proceeded smoothly to give 2,5-dihydropyr- roles 4 in the presence of Grubbs’ second-generation catalyst.[9]
+2-003	These results are summarized in Table 1.
+2-004	For example, treatment of 1a with m-CPBA at room temperature resulted in the oxidation of the sulfinimine unit to give the corresponding sulfonamine 2a in 93% yield (entry 1).
+2-005	Subsequent N-allylation progressed under the weak basic
+2-006	conditions by the presence of K2CO 3 and furnished 3a in 90% yield.
+2-007	It should be mentioned that no loss of enantio- meric excess in compound 3 was observed during the trans- formation.
+2-008	We have also examined homoallyl bromide for the alkylation, but the alkylation progressed sluggishly and a trace amount of alkylated products was obtained.
+2-009	The ring-closure metathesis reaction of compound 3a was examined.
+2-010	We employed the Grubbs’ second-generation catalyst for the reaction.
+2-011	The transformation to 2,5-dihy- dropyrrole 4a was achieved smoothly with an isolated yield of 97% (entry 1).
+2-012	The optical purity of 4a was examined by HPLC analysis using a Chiral-Pak IC column, which revealed that the enantiomeric excess of 4a was 90%, the same value as the starting material 2a.
+2-013	Thus, no significant loss of enantiomeric excess was observed during the three-step transformation.
+2-014	Thus, we have successfully provided a new preparation of optically active 2-alkyl-substituted 2,5-dihy- dropyrroles from chiral aza-Baylis-Hillman adducts which are prepared in a few short steps from chiral sulfinimines.
+2-015	Having established the methodology, we then examined the synthesis of a pyrrolizidine alkaloid.
+2-016	Pyrrolizidine alka- loids are important class of natural products, and due to their unique biological activity, there have been many efforts to synthesize these compounds.[10]
+2-017	Among these alkaloids, we chose (-)-trachelanthamidine as a synthetic target.[11]
+2-018	Our synthesis started from the preparation of the optical active sulfinimine 6 (Scheme 2).
+2-019	This chiral sulfinimine was prepared from 1,4-butanediol 5 in three steps.
+2-020	Monoprotec- tion of 5 was carried out using the literature method to give the diol mono-TBS ether in 83% yield,[12] which was then
+2-021	TABLE 1.
+2-022	Preparation of Optically Active 2,5-Dihydropyrroles 4
+2-023	converted into the aldehyde by Swern oxidation.
+2-024	Treatment of the aldehyde with (-)-p-toluenesulfinamine gave the desired chiral sulfinimine 6 in 64% yield (Scheme 2).
+2-025	The Michael/imino-aldol domino reaction with 6 gave a diastereo- meric mixture of chiral β-amino-R-phenylthiomethyl esters 7 in 85% yield.
+2-026	In the preparation of 7, it was possible to scale up to 7 g in a one-pot manipulation.
+2-027	HPLC analysis revealed that the diastereomeric ratio of 7 was 85:15, indicating that the reaction progressed in a highly stereoselective manner.
+2-028	As we reported previously,[5d] the formation of the mixture of diastereomers was mainly caused by epimeric occurrence at the C2 position; thus, the asymmetric induction from the chiral of sulfinimine to the C3 position was almost 100%.
+2-029	Treatment of 7 with m-CPBA resulted in the formation of the corresponding sulfoxide which was treated under toluene refluxing conditions, giving 8 in 76% yield.
+2-030	HPLC analysis of 8 revealed that the diastereomeric ratio was 97:3.
+2-031	Oxidation and N-allylation of compound 8 was carried out in a manner similar to that shown in Scheme 1, and compound 9 was isolated in 78% yield in two steps.
+2-032	The ring-closure metath- esis was achieved using the Grubbs’ second-generation cat- alyst to afford chiral 2,5-dihydropyrrole 10 as a solid in 90% yield.
+2-033	HPLC examination of compound 10 indicated that the enantiomeric excess of 10 was 94%.
+2-034	Recrystallization of 10 enhanced the enantiomeric excess over 99%.
+2-035	We next examined the reduction of compound 10 (Scheme 3).[13]
+2-036	Hydrogenation of 10 in the presence of a
+2-037	10% Pd/C catalyst gave 11 in 88% yield.
+2-038	Unfortunately, 11 was isolated as a 1:1 mixture of diastereomers.
+2-039	Thus, the hydrogenation of 10 took place in a nonstereoselective manner.
+2-040	To improve the stereoselectivity of the reaction, we examined the hydrogenation of the deprotected com- pound 12.
+2-041	The removal of the O-protecting group was accomplished quantitatively by acidic treatment to give alcohol 12.
+2-042	No pyrrole formation was observed during the reaction.
+2-043	Free alcohol 12 was then reduced under standard hydrogenation conditions, giving 13 in 98% yield over two steps.
+2-044	Fortunately, the reduction of alcohol 12 progressed stereoselectively, and the diastereomeric ratio of compound 13 was estimated to be 86:14.
+2-045	The major isomer was separated by flash chromatography, and it was used for the next reaction.
+2-046	The configuration of compound 13 was determined in the following way (Scheme 4).
+2-047	The major isomer of compound 13 was an oil and did not yield good crystals for X-ray analysis.
+2-048	Then, we tried to isolate the minor isomer of 13 by using the 1:1 mixture of 11.
+2-049	Compound 11 was desilylated by treatment with TBAF to give the mixture of isomers of compound 13 in 96% yield.
+2-050	Careful flash chromatography of the mixture of 13 enabled the separation of the two diastereomers of 13.
+2-051	The hydroxyl group of minor-13 was protected by a TBS group, and minor-11 was prepared in 92% yield.
+2-052	Fortunately, minor-11 gave a good crystal that was suitable for X-ray crystallographic analysis.
+2-053	The stere- ochemistry of minor-11 was unambiguously determined to be the 2,3-cis configuration.
+2-054	Thus, the major-11 and major 13 were determined to be 2,3-trans.
+2-055	As the absolute stereogenic center at C2 should be S,[5d] the absolute configuration of major-13 was determined to be 2S,3S.
+2-056	According to the reports by Lamaty, the hydrogenation of a 2,5-dihydropyrrole was expected to take place in a trans- selective manner, although a N-SES group was necessary to achieve high selectivity.[14]
+2-057	In our case, even starting with an N-tosylpyrrolidine, the high trans-selectivity in the hydro- genation are observed.
+2-058	The stereoselectivity for the hydro- genation step was very sensitive to the presence or absence of an O-protecting group in the C2 aliphatic side chain.
+2-059	Epi- merization at the C3 position during hydrogenation was less likely.[14]
+2-060	Thus, we believe that the trans-selectivity is coming from the hydrogenation process itself.
+2-061	We are unsure of precise origin of the trans-selectivity, but the free hydroxyl group might be interacting with Pd/C surface which may cause good steric bias to achieve the trans-selectivity during the hydrogenation of dihydropyrrole.
+2-062	To complete the total synthesis of (-)-trchelanthamidine, obtained alcohol 13 was exposed to PDC to give the corre- sponding carboxylic acid;[15] subsequent esterification gave diester 14 in 75% yield over two steps (Scheme 5).
+2-063	In the esterification stage, the tert-butyl ester was also hydrolyzed under the acidic conditions and converted to methyl ester in
+2-064	14.
+2-065	The N-tosyl protecting group was removed on treatment with magnesium metal in MeOH.
+2-066	Recently, this method has been widely used for the deprotection of the tosyl group because of the mild conditions.[16]
+2-067	In our case, intramolecular cyclization between the deprotected amine and the ester in
+2-068	the C2 side chain occurred simultaneously to give pyrolizi- dinone 15 in 76% yield in one step.
+2-069	The reduction step has already been reported in Nagao’s total synthesis, and com- pound 15 was also known a compound.[17]
+2-070	The specific rotation of 15 was negative and had a value similar to the reported data.[17a] Thus, we have achieved the formal synth- esis of (-)-trachelanthamidine 16.
+2-071	In conclusion, we have successfully developed the efficient synthesis of chiral 2-alkyl-substituted 2,5-dihydropyrroles from optically active aza-Baylis-Hillman adducts.
+2-072	The con- version requires three steps and was achieved in high yields with simple manipulation.
+2-073	No loss of enantiomeric excesses was observed.
+2-074	This conversion was also successfully employed in the preparation of an optically active pyrrolidine alkaloid.
+2-075	The formal synthesis of (-)-trachelanthamidine was achieved in 11 steps in 22% overall yield from a chiral sulfinimine.
+2-076	Dur- ing the synthesis, the high trans-selectivity in the hydrogenation was observed.
+2-077	Since optically active 2,5-dihydropyrroles are regarded as potential precursors in many heterocyclic synth- eses, our methodology will provide a convenient route in the synthesis of these natural products.
+3-001	General Methods.
+3-002	All of the reactions in this paper were performed under nitrogen atmosphere unless otherwise men- tioned.
+3-003	CH2Cl2 was dried over CaH2 and distilled under nitro- gen before use.
+3-004	High-resolution mass spectra (HRMS) were performed by EI or FAB for ionization method.
+3-005	Preparation of (S)-tert-Butyl 2-Methylene-3-(4-methylphenyl- sulfonamido)pentanoate (2a).
+3-006	Typical Procedure.
+3-007	To a solution of 1a (741.2 mg, 2.29 mmol) in CH 2Cl2 (20 mL) was added m-CPBA (77%, 567.7 mg, 2.52 mmol) at room temperature, and the resulting mixture was stirred for 2 h.
+3-008	The reaction mixture was washed with Na2S2O3-NaHCO3(aq) (10 mL x 2) and brine (10 mL).
+3-009	The organic phase was separated and dried over Na2SO4.
+3-010	After filtration, the solution was concentrated under reduced pressure, and the residue was subjected flash chroma- tography (hexane-EtOAc, 10:1) to give 2a in 93% yield (2.12 mmol) as a colorless oil: enantiomeric purity was determined by HPLC analysis (230 nm, 40 °C) tR 16.8 min (minor), tR 22.1 min (major)
+3-011	[Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, 80/20, 0.70 1.78-1.44 (s, 5 H), 1.41 (s, 9 H), 1.13 (m, 3 H), 0.94-0.72 (m, 2 H); mL/min] as 90% ee; [R] D þ7.4 (CHCl3, c 1.04); 1H NMR 13C NMR (101 MHz, CDCl3) δ 165.1,142.8,138.5,138.3,129.3, (CDCl3 , 500 MHz) δ 7.66 (d, 2 H, J = 7.9 Hz), 7.23 (d, 2 H, 127.2, 127.1, 81.5, 62.6, 40.8, 30.3, 29.8, 28.0, 26.2, 25.9, 25.8, 21.5; J = 7.9 Hz), 5.83 (s, 1 H), 5.53 (d, 1 H, 9.8 Hz), 5.37 (s, 1 H), 3.88 HRMS (EI M) m/z 393.1984, calcd for C21H31NO4S 393.1974.
+3-012	(dd, 1 H, J = 7.6, 17.0 Hz), 2.40 (s, 3 H), 1.56-1.64 (m, 2 H), (S)-tert-Butyl 2-((4-methylphenylsulfonamido)(p-tolyl)methyl)-1.41 (s, 9 H), 0.82 (t, 3 H, J = 7.3 Hz); 13C NMR (CDCl3 , 126 acrylate (2g): yellow semisolid; enantiomeric purity was deter- MHz) δ 164.8,142.9,139.6,138.2,129.4,127.1,126.5,81.5,58.9, mined by HPLC analysis (230 nm, 40 °C) tR 11.3 min (minor), tR 28.4, 27.9, 21.4, 10.8; HRMS (EI M) m/z 339.1504, calcd for 12.3 min (major) [Chiralpak IC (0.46 cm 25 cm) hexane/C17H25NO4S 339.1504. i-PrOH, 80/20, 1.00 mL/min] as 94% ee; [R] D þ23.4 (CHCl3, (S)-tert-Butyl 2-methylene-3-(4-methylphenylsulfonamido)hexa- c 1.13);1H NMR (CDCl3, 500 MHz) δ 7.67 (d, J = 8.1 Hz, 1 H), noate (2b): colorless oil; enantiomeric purity was determined by 7.22 (d, J = 8.0 Hz, 1 H), 7.01 (s, 4 H), 6.09 (s, 1 H), 5.67 (s, 1 H), HPLC analysis (230 nm, 40 °C) tR 10.2 min (minor), tR 14.6 min 5.63 (d, J = 8.9 Hz, 1 H), 5.22 (d, J = 8.9 Hz, 1 H), 2.40 (s, 3 H), (major) [Chiralpak IC (0.46 cm 25 cm)) hexane/i-PrOH, 80/20, 2.27 (s, 3 H), 1.30 (s, 9 H); 13C NMR (CDCl3, 126 MHz) δ 164.6, 1.00 mL/min] as 92% ee; [R]D þ10.0 (CHCl3, c 0.99); 1H NMR 143.2,140.0,137.8,137.2,136.0,129.4,129.1,127.2,126.6,126.3, (CDCl3, 500 MHz) δ 7.66 (d, J = 8.2 Hz, 2 H), 7.22 (d, J = 8.1 Hz, 81.7, 58.9, 27.8, 21.4, 20.9; HRMS (EI M) m/z 401.1655, calcd for 2 H), 5.80 (s, 1 H), 5.57 (d, J = 9.5 Hz, 1 H), 5.38 (s, 1 H), 3.99 (dd, C22H27NO4S 401.1661.
+3-013	J = 7.5, 17.2 Hz, 1 H), 2.39 (s, 3 H), 1.70-1.15 (m, 4 H), 1.41 (s, Preparation of (S)-tert-Butyl 3-(N-Allyl-4-methylphenylsulfon-9 H), 0.84 (t, J = 7.3 Hz, 3 H); 13C NMR (CDCl3, 126 MHz) δ amido)-2-methylenepentanoate (3a).
+3-014	Typical Procedure.
+3-015	A mix-164.7,142.9,139.9,138.1,129.3,127.1,126.1,81.4,56.8,37.3,27.9, ture of 2a (678.2 mg, 2.00 mmol), allyl bromide (0.19 mL, 2.20 21.4, 19.2, 13.4.
+3-016	Anal. Calcd for C18H27NO4S: C, 61.16; H, 7.70; mmol), and K2CO3 (830.7 mg, 6.00 mmol) in DMF (2.0 mL) was N, 3.96.
+3-017	Found: C, 60.93; H,7.32; N, 3.64. stirred at room temperature for 1 h.
+3-018	Additional allyl bromide (0.08 (S)-tert-Butyl 4-methyl-2-methylene-3-(4-methylphenylsulfon- mL) was added, and the reaction mixture was stirred for an amido)pentanoate (2c): colorless oil; enantiomeric purity was additional 5 h.
+3-019	Water (10 mL) was added, and the resulting determined by HPLC analysis (230 nm, 40 °C) tR 12.2 min aqueous solution was extracted with ether (10 mL 3).
+3-020	The (minor), tR 16.0 min (major) [Chiralpak IC (0.46 cm 25 cm) organic phase was combined, washed with brine (10 mL), and hexane/i-PrOH, 80/20, 1.00 mL/min] as 98% ee; [R] D þ8.0 dried over Na2SO4.
+3-021	After filtration, the ether solution was con-1 centrated by rotary evaporator and the residue was subjected to (CHCl3 , c 1.00); H NMR (CDCl3, 500 MHz) δ 7.64 (d, J =
+3-022	8.1 Hz, 2 H), 7.21 (d, J = 8.0 Hz, 2 H), 5.79 (s, 1 H), 5.56 (d, J = flash chromatography (hexane-EtOAc 10:1) to give 3a in 90% 10.0 Hz, 1 H), 5.27 (s, 1 H), 3.59 (t, J = 9.4 Hz, 1 H), 2.39 (s, 3 H), yield (681.4 mg): colorless oil; enantiomeric purity was determined 2.12-1.71 (m, 1 H), 1.41 (s, 9 H), 0.97 (d, J = 6.6 Hz, 3 H), 0.74 by HPLC analysis (230 nm, 40 °C) tR 23.4 min (minor), tR 24.7 13 min (major) [CHIRALPAK IC (0.46 cm 25 cm) hexane/ (d, J = 6.7 Hz, 3 H); C NMR (CDCl3 , 126 MHz) δ 165.1,
+3-023	142.8,138.8,138.2,129.3,127.2,127.0,81.5,63.6,31.8,27.9, i-PrOH, 80/20, 0.70 mL/min] as 90% ee: [R]D -48.4 (CHCl3, c 21.4, 19.9, 19.4; HRMS (EI M) m/z 353.1662, calcd for 1.06); 1H NMR (CDCl3, 500 MHz) δ 7.71 (d, J = 8.1 Hz, 2 H), C18H27NO4S 353.1661. 7.23 (d, J = 8.0 Hz, 2 H), 6.23 (s, 1 H), 5.87-5.68 (m, 1 H), 5.63 (s, (S)-tert-Butyl 5-methyl-2-methylene-3-(4-methylphenylsulfon- 1 H), 5.10 (d, J = 17.2 Hz, 1 H), 5.04 (d, J = 10.1 Hz, 1 H), 4.77 (t, amido)hexanoate (2d): colorless oil; enantiomeric purity was J = 7.5 Hz, 1 H), 3.86-3.69 (m, 2 H), 2.39 (s, 3 H), 1.94-1.70 (m, determined by HPLC analysis (230 nm, 40 °C) tR 8.1 min 2 H), 1.42 (s, 9 H), 0.87 (t, J = 7.3 Hz, 3 H);13C NMR (CDCl3, 126 (minor), tR 12.9 min (major) [Chiralpak IC (0.46 cm 25 cm) MHz) δ 165.7,142.7,139.8,138.3,135.8,129.2,127.7,126.2, hexane/i-PrOH, 80/20, 1.00 mL/min] as 92% ee; [R]D þ14.8 117.2, 81.1, 58.9, 47.8, 27.9, 25.0, 21.4, 11.4; HRMS (EI M) m/z 1 379.1817, calcd for C H NO S 379.1817.
+3-024	1.73-1.47 (m, 2 H), 1.41 (s, 9 H), 1.38-1.28 (m, 1 H), 0.85 (d, mined by HPLC analysis (230 nm, 40 °C) tR 13.0 min (minor), tR 13 13.8 min (major) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, J = 6.4 Hz, 3 H), 0.84 (d, J = 6.4 Hz, 3 H); C NMR (CDCl3,
+3-025	101 MHz) δ 164.8,142.9,140.1,138.2,129.3,127.1,126.0,81.5, 80/20, 0.70 mL/min] as 94% ee; [R]D -41.4 (CHCl3, c 1.02); 1 H 55.4, 44.4, 27.9, 24.5, 22.4, 21.8, 21.4; HRMS (EI M) m/z NMR (CDCl3, 400 MHz) δ 7.71 (d, J = 8.2 Hz, 2 H), 7.23 (d, J = 367.1819, calcd for C19H29NO 4S 367.1817. 7.9 Hz, 2 H), 6.20 (s, 1 H), 5.98-5.68 (m, 1 H), 5.61 (s, 1 H), 5.10 (S)-tert-Butyl 2-methylene-3-(4-methylphenylsulfonamido)octa- (td, J = 1.3, 17.2 Hz, 1 H), 5.04 (td, J = 1.3, 10.1 Hz, 1 H), 4.88 (t, noate (2e): colorless oil; enantiomeric purity was determined by J = 7.5 Hz, 1 H), 3.79 (d, J = 6.5 Hz, 2 H), 2.39 (s, 3 H), 2.01-1.55 HPLC analysis (230 nm, 40 °C) tR 8.6 min (minor), tR 12.8 min (m, 2 H), 1.43 (s, 9 H), 1.35-1.19 (m, 2 H), 0.88 (t, J = 7.3 Hz, (major) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, 80/20, 3 H); 13C NMR (CDCl3, 101 MHz) δ 165.6,142.7,140.1,138.2, 1 135.7,129.1,127.6,126.0,117.1,81.1,57.0,47.7,33.9,27.9,21.4, 1.00 mL/min] as 92% ee: [R] D þ8.4 (CHCl3, c 1.01); H NMR
+3-026	(CDCl3, 400 MHz) δ 7.66 (d, J = 8.1 Hz, 2 H), 7.23 (d, J = 8.0 Hz, 19.8, 13.7; HRMS (EIþ M) m/z 393.1974, calcd for C21H31NO4S2 H), 5.81 (s, 1 H), 5.55 (d, J = 9.4 Hz, 1 H), 5.38 (s, 1 H), 3.96 (dt, 393.1974.
+3-027	J = 7.5, 9.7 Hz, 1 H), 2.39 (s, 3 H), 1.72-1.45 (m, 2 H), 1.41 (s, 9 (S)-tert-Butyl 3-(N-allyl-4-methylphenylsulfonamido)-4-meth- H), 1.34-1.08 (m, 6 H), 0.83 (t, J = 6.3 Hz, 3 H); 13C NMR yl-2-methylenepentanoate (3c): colorless oil; enantiomeric purity (CDCl3, 101 MHz) δ 164.8,142.9,140.0,138.1,129.3,127.1,126.1, was determined by HPLC analysis (230 nm, 40 °C) tR 13.2 min 81.4, 57.1, 35.2, 31.1, 27.9, 25.7, 22.3, 21.4, 13.9.
+3-028	Anal. Calcd for (minor), tR 16.1 min (major) [CHIRALPAK IC (0.46 cm 25 C20H31NO4S: C, 62.96; H, 8.19; N, 3.67.
+3-029	Found: C, 63.04; H,8.19; cm) hexane/i-PrOH, 80/20, 1.00 mL/min] as 98% ee; [R] D -48.9N, 3.63.
+3-030	(CHCl3 , c 0.99); 1H NMR (CDCl3, 500 MHz) δ 7.69 (d, J = 8.0 (S)-tert-Butyl 2-(cyclohexyl(4-methylphenylsulfonamido)methyl)- Hz, 2 H), 7.20 (d, J = 7.8 Hz, 2 H), 6.29 (s, 1 H), 6.20-6.17 (m, acrylate (2f): colorless oil; enantiomeric purity was determined by 1 H), 5.86-5.74 (m, 1 H), 5.73 (s, 1 H), 5.10 (d, J = 17.2 Hz, 1 H),
+3-031	MHz, CDCl3) δ 7.64 (d, J = 8.3 Hz, 2 H), 7.21 (d, J = 8.0 Hz, 2 H), 126 MHz) δ 165.8,142.6,139.3,138.3,135.8,129.1,127.9,127.6, 5.77 (d, J = 1.1 Hz, 1 H), 5.59 (d, J = 10.1 Hz, 1 H), 5.24 (s, 1 H), 117.2, 81.0, 63.5, 47.8, 29.2, 27.9, 21.4, 20.6, 20.4; HRMS (FAB 3.65 (t, J = 9.6 Hz, 1 H), 2.39 (s, 3 H), 2.05 (d, J = 13.0 Hz, 1 H), M þ 1) m/z 394.2054, calcd for C21H32NO4S 394.2052.
+3-032	(S)-tert-Butyl 3-(N-allyl-4-methylphenylsulfonamido)-5-meth- (CDCl3 , 500 MHz) δ 7.71 (d, J = 8.2 Hz, 2 H), 7.30 (d, J = 8.0 yl-2-methylenehexanoate (3d): colorless oil; enantiomeric purity Hz, 2 H), 6.48 (s, 1 H), 4.76 (s, 1 H), 4.20 (s, 2 H), 2.42 (s, 3 H), was determined by HPLC analysis (230 nm, 40 °C) tR 8.0 min 2.02 (dqd, J = 4.3, 7.4, 14.7 Hz, 1 H), 1.91 (dqd, J = 3.9, 7.3, (minor), tR 8.4 min (major) [Chiralpak IC (0.46 cm 25 cm) 14.5 Hz, 1 H), 1.45 (s, 9 H), 0.83 (t, J = 7.4 Hz, 3 H); 13C NMR hexane/i-PrOH, 80/20, 1.00 mL/min] as 92% ee; [R] D -40.8 (CDCl3 , 126 MHz) δ 161.6,143.5,135.9,135.4,134.8,129.7, (CHCl3 , c 1.00); 1H NMR (CDCl3, 400 MHz) δ 7.70 (d, J = 8.1 127.3, 81.5, 66.8, 55.2, 28.0, 26.7, 21.5, 7.6; HRMS (EI M) m/z Hz, 2 H), 7.23 (d, J = 8.3 Hz, 2 H), 6.17 (s, 1 H), 6.00-5.65 (m, 351.1503, calcd for C18H25NO 4S 351.1504.
+3-033	J = 6.1, 10.2, 16.4 Hz, 1 H), 5.55 (s, 1 H), 5.11 (d, J = 17.2 Hz, 1 (S)-tert-Butyl 2-propyl-1-tosyl-2,5-dihydro-1H-pyrrole-3-car- H), 5.05 (d, J = 10.1 Hz, 1 H), 4.98 (t, J = 7.2 Hz, 1 H), boxylate (4b): brown oil; enantiomeric purity was determined by 3.88-3.70 (m, 2 H), 2.39 (s, 3 H), 1.76-1.65 (m, 1 H), 1.57-1.46 HPLC analysis (230 nm, 40 °C) tR 10.0 min (major), tR 11.7 min (m, 2 H), 1.44 (s, 9 H), 0.90 (d, J = 6.1 Hz, 3 H), 0.87 (d, J = 6.1 (minor) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, 80/20, Hz, 3 H); 13C NMR (CDCl3, 101 MHz) δ 165.6,142.7,140.2, 1.00 mL/min] as 92% ee: [R] D þ104.1 (CHCl3, c 1.02); 1 H NMR 138.1,135.9,129.2,127.6,125.8,117.0,81.1,55.4,47.6,40.7, (CDCl3 , 500 MHz) δ 7.70 (d, J = 8.2 Hz, 2 H), 7.30 (d, J = 6.8 27.9, 24.7, 22.6, 22.0, 21.4.
+3-034	Anal. Calcd for C22H33NO 4S: C, Hz, 2 H), 6.44 (s, 1 H), 4.75 (s, 1 H), 4.20 (s, 2 H), 2.41 (s, 3 H), 64.83; H, 8.16; N, 3.44.
+3-035	Found: C, 64.85; H, 8.22; N, 3.65. 2.08-1.63 (m, 2 H), 1.44 (s, 9 H), 1.43-1.14 (m, 2 H), 0.90 (t, J = (S)-tert-Butyl 3-(N-allyl-4-methylphenylsulfonamido)-2-methyl- 7.3 Hz, 3 H); 13C NMR (CDCl 3, 126 MHz) δ 161.5,143.5,136.5, eneoctanoate (3e): colorless oil; enantiomeric purity was deter- 135.0,134.6,129.7,127.2,81.4,66.0,54.9,36.0,27.9,21.4,16.9, mined by HPLC analysis (230 nm, 40 °C) tR 12.2 min (major), tR 14.0; HRMS (EI M) m/z 365.1661, calcd for C19H27NO 4S21.0 min (minor) [Chiralpak AD (0.46 cm 25 cm) hexane/i- 365.1661.
+3-036	PrOH, 98/2, 1.00 mL/min] as 92% ee; [R]D -46.6 (CHCl3, c 0.99); (S)-tert-Butyl 2-isopropyl-1-tosyl-2,5-dihydro-1H-pyrrole-3-1H NMR (CDCl3, 500 MHz) δ 7.71 (d, J = 8.1 Hz, 2 H), 7.23 (d, carboxylate (4c): brown oil; enantiomeric purity was determined J = 8.0 Hz, 2 H), 6.21 (s, 1 H), 5.86-5.68 (m, J = 6.3, 16.5 Hz, 1 by HPLC analysis (230 nm, 40 °C) tR 9.9 min (major), tR 11.0 H), 5.61 (s, 1 H), 5.10 (d, J = 17.2 Hz, 1 H), 5.04 (d, J = 10.1 Hz, 1 min (minor) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, H), 4.83 (t, J = 7.4 Hz, 1 H), 3.79 (d, J = 6.0 Hz, 2 H), 2.39 (s, 3 80/20, 1.00 mL/min] as 98% ee: [R] D þ105.6 (CHCl3, c 0.63); 1 H H), 1.91-1.60 (m, 2 H), 1.43 (s, 9 H), 1.36-1.15 (m, 6 H), NMR (CDCl3, 400 MHz) δ 7.68 (d, J = 8.1 Hz, 2 H), 7.27 (d, 1.04-0.80 (m, 3 H); 13C NMR (CDCl3, 126 MHz) δ 166.0, J = 8.1 Hz, 2 H), 6.39 (s, 1 H), 4.69 (s, 1 H), 4.20 (dd, J = 2.7, 142.6,140.4,138.5,135.8,129.2,127.6,126.0,117.2,81.1,57.5, 18.2 Hz, 1 H), 4.07 (dd, J = 4.1, 18.2 Hz, 1 H), 2.40 (s, 3 H), 2.14 47.7, 31.8, 31.4, 27.9, 26.2, 22.4, 21.4, 13.9; HRMS (FAB M þ 1) (dtd, J = 3.2, 6.9, 13.8 Hz, 1 H), 1.43 (s, 9 H), 1.07 (d, J = 6.9 Hz, m/z 422.2363, calcd for C23H36NO4S 422.2365. 3 H), 0.88 (d, J = 6.9 Hz, 3 H); 13C NMR (CDCl 3, 101 MHz) δ (S)-tert-Butyl 2-((N-allyl-4-methylphenylsulfonamido)(cyclohexyl)- 161.8,143.5,136.9,135.6,134.4,129.5,127.4,81.3,71.3,55.7, methyl)acrylate (3f): white solid; mp 108-109 °C; the enantiomeric 33.0, 27.8, 21.4, 19.3, 17.0; HRMS (EI M) m/z 365.1662, calcd purity was determined by HPLC analysis (230 nm, 40 °C) tR 8.8 min for C19H27NO4S 365.1661.
+3-037	(minor), tR 9.4 min (major) [Chiralpak IC (0.46 cm 25 cm) hexane/ (S)-tert-Butyl 2-isobutyl-1-tosyl-2,5-dihydro-1H-pyrrole-3-i-PrOH, 80/20, 1.00 mL/min] as 94% ee; [R]D -34.8 (CHCl3, c 1.04); carboxylate (4d): brown oil; enantiomeric purity was determined 1H NMR (400 MHz, CDCl3) δ 7.68 (d, J = 8.3 Hz, 2 H), 7.20 (d, J = by HPLC analysis (230 nm, 40 °C) tR 8.9 min (major), tR 11.3 8.0 Hz, 2 H), 6.27 (d, J = 0.9 Hz, 1 H), 5.76 (dddd, J = 5.6, 7.3, 10.1, min (minor) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH,
+3-038	1 17.3 Hz, 1 H), 5.70 (s, 1 H), 5.10 (dd, J = 1.4, 17.2 Hz, 1 H), 5.02 (dd, 80/20, 1.00 mL/min] as 92% ee: [R] D þ128.4 (CHCl3, c 0.99); H J = 1.3, 10.1 Hz, 1 H), 4.63 (d, J = 11.2 Hz, 1 H), 3.86 (dd, J = 7.3, NMR (CDCl3, 400 MHz) δ 7.68 (d, J = 8.3 Hz, 2 H), 7.28 (d, 16.3 Hz, 1 H), 3.77 (dd, J = 5.6, 16.3 Hz, 1 H), 2.38 (s, 3 H), J = 8.5 Hz, 2 H), 6.37 (s, 1 H), 4.78-4.69 (m, 1 H), 4.21 (s, 2 H), 13 2.05-1.48 (m, 7 H), 1.41 (s, 9 H), 1.24-0.79 (m, 4 H); C NMR (101 2.41 (s, 3 H), 1.90 (tq, J = 6.4, 12.8 Hz, 1 H), 1.74-1.54 (m, 2 H),
+3-039	MHz, CDCl3) δ 165.9,142.6,139.0,138.3,135.8,129.1,127.9,127.6, 1.44 (s, 9 H), 1.01 (d, J = 6.5 Hz, 3 H), 0.91 (d, J = 6.7 Hz, 3 H); 117.1, 81.0, 62.4, 47.7, 38.4, 30.8, 30.6, 27.9, 26.3, 26.1, 25.9, 21.4; 13C NMR (CDCl3, 101 MHz) δ 161.6,143.6,138.0,134.9,134.5, HRMS (FAB M þ 1) m/z 434.2365, calcd for C24H36NO4S 434.2365. 129.7,127.4,81.4,68,65.1,54.6,43.1,28.0,24.2,23.9,22.5,21.5.
+3-040	(S)-tert-Butyl 2-((N-allyl-4-methylphenylsulfonamido)(p-tolyl)- Anal. Calcd. for C20H29NO 4S: C, 63.30; H, 7.70; N, 3.69. methyl)acrylate (3g): colorless oil; enantiomeric purity was deter- Found: C, 63.47; H, 7.58; N, 3.77.
+3-041	mined by HPLC analysis (230 nm, 40 °C) tR 16.7 min (major), tR (S)-tert-Butyl 2-pentyl-1-tosyl-2,5-dihydro-1H-pyrrole-3-car-38.1 min (minor) [Chiralpak AD (0.46 cm 25 cm) hexane/- boxylate (4e): brown oil; enantiomeric purity was determined i-PrOH, 98/2, 1.00 mL/min] as 94% ee; [R]D þ141.7 (CHCl3, c by HPLC analysis (230 nm, 40 °C) tR 8.7 min (major), tR 10.4 1.04); 1H NMR (CDCl3, 500 MHz) δ 7.71 (d, J = 8.1 Hz, 2 H), min (minor) [CHIRALPAK IC (0.46 cm 25 cm) hexane/ 7.26 (d, J = 8.5 Hz, 2 H), 7.01 (d, J = 7.7 Hz, 2 H), 6.86 (d, J = 7.9 i-PrOH, 80/20, 1.00 mL/min] as 92% ee: [R] D þ118.4 (CHCl3 , c Hz, 2 H), 6.31 (s, 1 H), 6.03 (s, 1H), 5.61 (s, 1 H), 5.41-5.08 (m, 1.01); 1 H NMR (CDCl3, 400 MHz) δ 7.70 (d, J = 8.1 Hz, 2 H), 1 H), 4.84 (d, J = 19.0 Hz, 1 H), 4.81 (d, J = 11.2 Hz, 1 H), 3.81 7.30 (d, J = 8.5 Hz, 2 H), 6.46 (s, 1 H), 4.80-4.57 (br, 1 H), 4.20 (dd, J = 7.3, 16.0 Hz, 1 H), 3.73 (dd, J = 5.2, 16.0 Hz, 1 H), 2.43 (s, (s, 1 H), 2.41 (s, 3 H), 2.08-1.75 (m, 2 H), 1.45 (s, 9 H), 3 H), 2.29 (s, 3 H), 1.26 (s, 9 H); 13C NMR (CDCl3, 126 MHz) δ 1.40-1.03 (m, 6 H), 0.86 (t, J = 6.5 Hz, 3 H); 13C NMR 165.1,143.1,140.9,137.9,137.6,134.5,134.4,129.3,129.0,128.5, (CDCl3 , 101 MHz) δ 161.5,143.5,136.4,135.1,134.7,129.7, 127.5, 126.0, 117.4, 81.2, 61.8, 48.3, 27.7, 21.5, 21.0; HRMS (EI M) 127.3, 81.4, 66.1, 55.0, 33.6, 31.6, 27.9, 23.0, 22.4, 21.4, 13.9; m/z 441.1959, calcd for C25H31NO4S 441.1974.
+3-042	HRMS (EI M) m/z 393.1969, calcd for C21H31NO4 S 393.1974.
+3-043	Preparation of (S)-tert-Butyl 2-Ethyl-1-tosyl-2,5-dihydro-1H- (S)-tert-Butyl 2-cyclohexyl-1-tosyl-2,5-dihydro-1H-pyrrole-3-pyrrole-3-carboxylate (4a).
+3-044	Grubbs’ catalyst (70.6 mg, 0.084 carboxylate (4f): brown solid; mp 88-89 °C; enantiomeric mmol) was added to a solution of 3a (633.6 mg, 1.67 mmol) in purity was determined by HPLC analysis (230 nm, 40 °C) tR CH2Cl2 (167 mL), and the reaction mixture was stirred at 9.9 min (major), tR 10.6 min (minor) [Chiralpak IC (0.46 cm 25 refluxing temperature for 1 h.
+3-045	The resulting solution was con- cm) hexane/i-PrOH, 80/20, 1.00 mL/min] as 96%ee.
+3-046	[R] D þ119.4centrated in vacuo, and the residue was subjected to flash chro- (CHCl3 , c 0.68); 1H NMR (270 MHz, CDCl3) δ 7.67 (d, J = 8.3 matohgraphy (hexane-EtOAc 10:1) to give 4a in 97% yield.
+3-047	Hz, 2H), 7.26 (d, J = 7.9 Hz, 2 H), 6.36-6.33 (m, 1H), 4.65 (t, (566.0 mg): brown oil; enantiomeric purity was determined by J = 2.8 Hz, 1 H), 4.18 (ddd, J = 0.8, 2.7, 18.2 Hz, 1H), 4.04 (ddd, HPLC analysis (230 nm, 40 °C) tR 27.5 min (major), tR 32.5 min J = 1.8, 4.1, 18.3 Hz, 1 H), 2.39 (s, 3 H), 1.57-1.85 (m, 6 H), 1.42 (minor) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, 80/20, (s, 9 H), 1.57-0.99 (m, 5 H); 13C NMR (CDCl3, 101 MHz) δ 0.70 mL/min] as 90% ee: [R] D þ93.9 (CHCl3 , c 1.02); 1H NMR 161.9,143.5,136.9,135.4,129.9,129.5,127.1,81.3,71.0,55.7,
+3-048	43.1, 29.9, 27.9, 27.8, 27.6, 26.4, 26.2, 21.4; HRMS (EI M) m/z 405.1972.
+3-049	Calcd for C22H31NO4 S 405.1974.
+3-050	(S)-tert-Butyl 2-p-tolyl-1-tosyl-2,5-dihydro-1H-pyrrole-3-car- boxylate (4g): brown solid; mp 121-122 °C; enantiomeric purity was determined by HPLC analysis (230 nm, 40 °C) tR 19.4 min (major), tR 32.9 min (minor) [Chiralpak IC (0.46 cm 25 cm) hexane/i-PrOH, 80/20, 1.00 mL/min] as 98% ee: [R] D -46.6 (CHCl3 , c 0.99); 1H NMR (CDCl3, 500 MHz) δ 7.40 (d, J = 7.9 Hz, 2 H), 7.11 (d, J = 7.9 Hz, 2 H), 7.07 (d, J = 7.7 Hz, 2 H), 7.01 (d, J = 7.7 Hz, 2 H), 6.69 (s, 1 H), 5.62 (s, 1 H), 4.45 (d, J = 16.8 Hz, 1 H), 4.31 (dd, J = 5.6, 16.7 Hz, 1 H),2.35 (s, 2 H), 2.30 (s, 3 H), 1.25 (s, 9 H); 13C NMR (CDCl3, 126 MHz) δ 161.0,142.9, 137.4,137.3,136.5,135.7,134.4,129.2,128.6,127.6,127.0,81.4, 68.7, 54.6, 27.7, 21.3, 21.0; HRMS (EI M) m/z 413.1642, calcd for C23H27NO4S 413.1661.
+3-051	Preparation of (S)-N-(4-(tert-Butyldimethylsilyloxy)butylidene)-4-methylbenzenesulfinamide (6).
+3-052	Under nitrogen atmosphere, a solution of 1,4-butanediol 5 (9.013 g, 100.0 mmol) in cyclopentyl methyl ether (CPME, 25 mL) was added to a solution of t-BuOK (11.225 g, 100.0 mmol) in CPME (150 mL) at 0 °C. After being stirred for 30 min, a solution of TBSCl (15.088 g, 100.0 mmol) in CPME (25 mL) was added.
+3-053	The reaction mixture was stirred for 6 h at room temperature.
+3-054	Water (50 mL) was added to the solution, and the organic phase was separated.
+3-055	The water phase was extracted with CPME (50 mL 3).
+3-056	The organic phase was combined and dried over Na2SO4.
+3-057	After filtration and concentration in vacuo, the residue was subjected to flash chromatography (hexane-EtOAc 20:1 then 5:1) to give 4-(tert-butyldimethylsilyl)oxy-1-butanol in 83% yield (16.885 g): colorless oil; 1H NMR (CDCl3, 500 MHz) δ 3.57-3.69 (m, 4 H), 2.78-2.82 (br, 1 H, J = 6.8 Hz), 1.57-1.66 (m, 4 H), 0.88 (s, 9 H), 0.05 (s, 6 H); 13C NMR (CDCl3, 126 MHz) δ 63.4,62.7,30.2,29.9,25.9,25.7,18.3, -5.4.
+3-058	Under nitrogen atmosphere, DMSO (4.58 mL, 64.48 mmol) was added slowly over 10 min to a solution of oxalyl chloride (3.32 mL, 38.69 mmol) in CH2Cl2 (119 mL) at -50 °C. 4-(tert- Butyldimethylsilyl)oxy-1-butanol (6.5886 g, 32.24 mmol) in CH2Cl2 (10 mL) was added to the solution, and the resulting solution was stirred at -50 °C for 10 min.
+3-059	Et3 N (9.82 mL, 70.93 mmol) was added to the solution, and the reaction mixture was stirred at -50 °C for 10 min and gradually warmed to room temperature over 1.5 h.
+3-060	Water (60 mL) was added to the reaction mixture, and the organic phase was separated.
+3-061	The water phase was extracted with CH2Cl2 (60 mL 2).
+3-062	The organic phase was combined, washed with brine (30 mL), and dried over Na2SO4.
+3-063	After filtration, concentration of the filtrate in vacuo gave crude 4-(tert-butyldimethylsilyl)oxybutraldehyde, which was used for the next stage without further purification: 96% yield (6.236 g); pale yellow oil;[1] H NMR (CDCl3, 270 MHz) δ 9.72 (t, 1 H, J = 1.7 Hz), 3.65 (t, 2 H, J = 6.0 Hz), 2.50 (dt, 2 H, J = 1.7, 7.0 Hz), 1.80-1.91 (m, 2 H), 0.88 (s, 9 H), 0.04 (s, 6 H).
+3-064	A mixture of the aldehyde (6.236 g, 30.81 mmol), Ti(OEt)4 (28.96 mL), and (S)-(þ)-p-toluenesulfinamide (4.777 g, 30.81 mmol) in CH2Cl2 (350 mL) was heated at refluxing temperature overnight.
+3-065	The mixture was cooled and water (90 mL) was added.
+3-066	The resulting precipitate was filtered over a glass filter and washed with CH2Cl2 (100 mL 2).
+3-067	The organic phase of the filtrate was separated, washed with water (60 mL 2) and brine (60 mL), and dried over Na2SO4.
+3-068	After filtration, concentration of the filtrate gave crude product which was purified by flash chromatography (hexane-EtOAc 20:1, 15:1, 10:1 then 5:1) to give 6 in 64% yield for two steps (6.6874 g): yellow oil; [R]D þ174.5 (CHCl3, c 1.08); 1 H NMR (270 MHz, CDCl3) δ 8.25 (t, J = 4.6 Hz, 1 H), 7.55 (d, J = 8.2 Hz, 2 H), 7.29 (d, J = 7.9 Hz, 2 H), 3.62 (t, J = 6.1 Hz, 2 H), 2.55 (td, J = 4.6, 7.4 Hz, 2 H), 2.39 (s, 3 H), 1.89-1.74 (m, 2 H), 0.86 (s, 9 H), 0.00 (s, 3 H), -0.01 (s, 3 H); 13C NMR (CDCl3, 126 MHz) δ 167.6,142.0, 141.5, 129.6, 124.4, 61.7, 32.1, 28.0, 25.6, 21.0, 18.0; HRMS (FAB M þ 1) m/z 340.1776, calcd for C 17H30NO2SSi 340.1767.3584 J. Org.
+3-069	Chem.
+3-070	Vol. 75, No. 11, 2010
+3-071	Preparation of (2R,3S)-tert-Butyl 6-(tert-Butyldimethylsilyl- oxy)-3-((S)-4-methylphenylsulfinamido)-2-(phenylthiomethyl)hex- anoate (7).
+3-072	Under nitrogen atmosphere, methylmagnesium bro- mide (13.59 mL, 19.02 mmol, 1.4 M in toluene/tetrahydrofuran (75:25)) was added to a solution of thiophenol (1.62 mL, 15.85 mmol) in CH2Cl2 (40 mL) at -50 °C, and the mixture was stirred for 10 min. tert-Butyl acrylate (2.32 mL, 15.85 mmol) and a solution of sulfinimine (5.3831 g, 15.85 mmol) in CH2Cl2 (13 mL) were added to the mixture at -50 °C, and the mixture was stirred at -50 °C for 37 h.
+3-073	Saturated NH4Cl(aq) (50 mL) was added to the mixture and the mixture allowed to warm to 0 °C for 10 min.
+3-074	The organic phase was separated, and the water phase was extracted with EtOAc (100 mL 3).
+3-075	The organic phase was combined, washed with brine (50 mL), and dried over anhydrous Na2SO4.
+3-076	After filtration, the resulting solution was concentrated under reduced pressure, and crude residue was purified by flash chromatography (hexane-EtOAc 50:1, 20:1, 10:1, then 5:1) to give 7 in 85% yield as a mixture of the two diastereoisomers (7.7611 g): pale yellow oil; HPLC analysis revealed the syn/anti ratio was 85:15. syn-7, major isomer, was separated by further careful chromatography: [R] D þ42.8 (CHCl3, c 1.02); 1H NMR (400 MHz, CDCl3) δ 7.58 (d, J = 8.2 Hz, 2 H), 7.37-7.17 (m, 7 H), 4.73 (d, J = 8.8 Hz, 1 H), 3.67-3.58 (m, 3 H), 3.05 (d, J = 5.3 Hz, 1 H), 3.02 (d, J = 5.3 Hz, 1 H), 2.77 (td, J = 6.0, 7.4 Hz, 1 H), 2.40 (s, 3 H), 1.80-1.48 (m, 4 H), 1.42 (s, 9 H), 0.88 (s, 9 H), 0.04 (s, 3H), 0.04 (s, 3H); 13C NMR (126 MHz, CDCl3) δ 171.7, 142.5,141.4,135.8,129.6,129.0,126.6,125.7,125.4,81.9,62.7, 55.8,51.2,33.6,29.4,25.8,25.7,21.3,21.2,18.2, -5.2.
+3-077	Anal. Calcd. for C30H47NO4S2Si: C, 62.35; H, 8.20; N, 2.42.
+3-078	Found: C, 62.47; H, 8.26; N, 2.46.
+3-079	Preparation of (3S)-tert-Butyl 6-(tert-butyldimethylsilyloxy)-2-methylene-3-(4-methylphenylsulfinamido)hexanoate (8). m-CPBA (75 wt %, 1.1568 g, 5.03 mmol) was added to a solution of 7 (2.6325 g, 4.56 mmol) in CH2Cl2 (45 mL) at 0 °C, and the resulting mixture was stirred at the same temperature for 1 h.
+3-080	The reaction mixture was washed with NaHCO3(aq) (10 mL 2) and brine (10 mL) and dried over anhydrous Na2SO4.
+3-081	After filtration, the filtrate was concentrated under reduced pressure.
+3-082	The residue was dissolved in toluene (40 mL) and heated at 110 °C for 1 h.
+3-083	The reaction mixture was subjected to flash chromatography (hexane-EtOAc 10:1 then 5:1) to give 8 in 76% yield (1.6246 g).
+3-084	HPLC analysis revealed 94% de: white solid; mp 92-93 °C; [R]D þ74.7 (CHCl3, c 1.06); 1 H NMR (500 MHz, CDCl3) δ 7.55 (d, J = 8.0 Hz, 2 H), 7.25 (d, J = 7.9 Hz, 2 H), 5.98 (s, 1 H), 5.40 (s, 1 H), 4.92 (d, J = 8.8 Hz, 1 H), 4.05 (q, J = 7.4 Hz, 1 H), 3.61 (t, J = 6.1 Hz, 2 H), 2.39 (s, 3 H), 1.89-1.71 (m, 2 H), 1.63-1.49 (m, 2 H), 1.47 (s, 9 H), 0.88 (s, 9 H), 0.04 (s, 6 H);13C NMR (126 MHz, CDCl3) δ 165.0,142.5,142.0, 141.0,129.3,125.8,125.2,81.2,62.7,56.3,32.76,29.5,28.0,26.0, 21.3,18.3, -5.1, -5.3.
+3-085	Anal. Calcd for C24H41NO4SSi: C, 61.63; H, 8.84; N, 2.99.
+3-086	Found: C, 61.55; H, 8.65; N, 2.90.
+3-087	Preparation of (S)-tert-Butyl 3-(N-allyl-4-Methylphenylsulfon- amido)-6-(tert-butyldimethylsilyloxy)-2-methylenehexanoate (9). m-CPBA (77 wt %, 1.4292 g, 6.38 mmol) was added to a solution of 9 (2.9745 g, 6.37 mmol) in CH2Cl2 (64 mL) at room tempera- ture, and the resulting solution was stirred for 2 h.
+3-088	An additional portion of m-CPBA (0.1420 g, 0.63 mmol) was added to the mixture, and the mixture was stirred for 30 min at room temperature.
+3-089	The reaction mixture was washed with NaHCO3-(aq) (20 mL 2) and brine (20 mL) successively and dried over Na2SO4.
+3-090	After filtration, concentration of the filtrate in vacuo gave crude sulfonamide which was used for the next step without further purification.
+3-091	The crude sulfonamide was dissolved in DMF (10 mL), and K2CO3 (2.6777 g, 19.37 mmol) and allyl bromide (0.60 mL, 7.10 mmol) were added at room temperature.
+3-092	The resulting mixture was stirred at room temperature for 21 h.
+3-093	The reaction mixture was poured into water (50 mL), and the resulting mixture was extracted Et2O (50 mL 3).
+3-094	The organic phase was combined,
+3-095	washed with brine (20 mL), and dried over Na2SO4 .
+3-096	After filtration, concentration of the filtrate under reduced pressure gave crude 9 which was purified by flash chromatography (hexane-EtOAc 20:1) to give 9 in 78% yield as colorless oil: 96% ee; [R]D -23.2 (CHCl3, c 1.04); 1 H NMR (500 MHz, CDCl3 ) δ 7.71 (d, J = 8.1 Hz, 2 H), 7.22 (d, J = 8.0 Hz, 2 H), 6.22 (s, 1 H), 5.76 (td, J = 6.3, 16.6 Hz, 1 H), 5.65 (s, 1 H), 5.10 (d, J = 17.2 Hz, 1 H), 5.03 (d, J = 10.1 Hz, 1 H), 4.87 (t, J = 7.5 Hz, 1 H), 3.78 (d, J = 6.1 Hz, 2H), 3.64-3.50 (m, 2 H), 2.39 (s, 3 H), 1.97-1.67 (m, 2 H), 1.45-155 (m, 2 H), 1.42 (s, 9 H), 0.88 (s, 9 H), 0.03 (s, 6 H); 13C NMR (126 MHz, CDCl3) δ 165.6, 142.7,140.0,138.3,135.8,129.2,127.7,126.3,117.3,81.2,62.6, 57.2,47.7,30.0,28.5,27.9,25.9,21.4,18.3, -5.4.
+3-097	Anal. Calcd for C27H45NO5SSi: C, 61.91; H, 8.66; N, 2.67.
+3-098	Found: C, 61.76; H, 8.53; N, 2.71.
+3-099	Preparation of (S)-tert-Butyl 2-(3-(tert-Butyldimethylsilyloxy)-propyl)-1-tosyl-2,5-dihydro-1H-pyrrole-3-carboxylate (10).
+3-100	Under nitrogen atmosphere, Grubbs’ second-generation catalyst (0.3658 g, 0.43 mmol) was added to a solution of 9 (4.6330 g, 8.69 mmol) in CH2Cl2 (869 mL) at room temperature, and the reaction mixture was heated at refluxing temperature for 3 h.
+3-101	After the mixture was heated to room temperature, DMSO (0.30 mL) was added, and the mixture was stirred at room temperature for 12 h.
+3-102	The reaction mixture was concentrated under reduced pressure, and the residue was purified by flash chromatography (hexane-EtOAc 20:1 then 5:1) to give 10 in 90% yield as a white solid (3.8589 g).
+3-103	The enantiomeric excess of the product was enhanced to >99% ee by recrystallization from MeOH: mp 101-102 °C; [R] D þ99.7 (CHCl3, c 1.01); 1H NMR (500 MHz, CDCl3) δ 7.70 (d, J = 8.1 Hz, 2 H), 7.30 (d, J = 8.0 Hz, 2 H), 6.46 (s, 1 H), 4.79 (s, 1 H), 4.19 (s, 1 H), 3.62 (dd, J = 8.1, 14.5 Hz, 1 H), 3.55 (dd, J = 6.8, 16.0 Hz, 1 H), 2.42 (s, 1 H), 1.99-1.90 (m, 1 H), 1.64-1.69 (m, 1 H), 1.51-1.63 (m, 2 H), 1.44 (s, 9 H), 0.89 (s, 9 H), 0.04 (s, 3 H), 0.03 (s, 3 H); 13C NMR (126 MHz, CDCl3) δ 161.5,143.6,136.3,135.3, 134.3,129.7,127.4,81.5,65.9,63.2,55.0,30.3,28.0,27.0,26.0,21.5, 18.3, -5.3, -5.4.
+3-104	Anal. Calcd for C25H41NO5SSi: C, 60.57; H, 8.34; N, 2.83.
+3-105	Found: C, 60.42; H, 8.13; N, 2.83.
+3-106	Preparation of (2S,3S)- and (2S,3R)-tert-Butyl 2-(3-Hydroxy- propyl)-1-tosylpyrrolidine-3-carboxylate (13). 10% Pd-C (145 mg) was added to a solution of 10 (1.4485 g, 2.92 mmol) in MeOH (30 mL), and the resulting suspension was stirred vigorously under hydrogen atmosphere at room temperature for 24 h.
+3-107	The reaction mixture was filtered through a pad of Celite.
+3-108	The filtrate was concentrated under reduced pressure.
+3-109	The residue was purified by flash chromatography (hexane-EtOAc 3:1 then EtOAc) to give a 1:1 diastereomeric mixture of 11 in 88% yield (1.3600 g), which was used for the next step without further purification.
+3-110	A THF solution of TBAF (1.0 M, 1.85 mL) was added to a solution of 1:1 mixture of 11 (833 mg, 1.68 mmol) in THF (10 mL) at 0 °C, and the reaction mixture was stirred at room temperature for 1 h.
+3-111	NH4Cl(aq) (10 mL) was added, and organic solvent was removed by rotary evaporator.
+3-112	The aqueous residue was extracted with EtOAc (30 mL 3), and the organic phase was washed with brine (10 mL).
+3-113	After being dried over Na2SO4, the organic solution was concentrated and the residue was subjected to flash chromatography (hexane-EtOAc 5:1. 3:1, then 1:1) to give a diastereomeric mixture of 13 in 96% yield (617.8 mg).
+3-114	This mixture was separated by careful chromatog- raphy. cis-13: colorless oil; [R] D þ65.9 (CHCl3, c 0.99);[1] H NMR (500 MHz, CDCl3) δ 7.73 (d, J = 7.7 Hz, 2 H), 7.33 (d, J = 7.8 Hz, 2 H), 4.10 (dd, J = 6.6, 12.9 Hz, 1 H), 3.77-3.63 (m, 2 H), 3.49 (t, J = 9.6 Hz, 1 H), 3.21 (dd, J = 8.7, 19.2 Hz, 1 H), 2.44 (s, 3 H), 2.41-2.35 (m, 1 H), 2.21-2.10 (m, 1 H), 1.86-1.73 (m, 3 H), 1.58 (m, 1 H), 1.52-1.45 (m, 1 H), 1.43 (s, 9 H); 13C NMR (126 MHz, CDCl3) δ 170.0,143.8,134.9,129.9,127.6,81.6, 62.9, 61.1, 48.2, 46.7, 29.0, 28.1, 28.0, 26.0, 21.6; HRMS (FAB M þ 1) m/z 384.1853, calcd for C19H 30NO 5S 384.1845. trans-13:
+3-115	colorless oil; [R]D þ63.3 (CHCl3, c 0.99); 1 H NMR (500 MHz, CDCl3) δ 7.72 (d, J = 8.0 Hz, 2 H), 7.30 (d, J = 7.9 Hz, 2 H), 3.89-3.82 (m, 1 H), 3.75-3.67 (m, 2 H), 3.42 (dd, J = 6.5, 16.7 Hz, 1 H), 3.30 (dd, J = 7.1, 17.0 Hz, 1 H), 2.64 (dd, J = 5.9, 10.8 Hz, 1 H), 2.41 (s, 3 H), 2.03-1.87 (m, 2 H), 1.60-1.79 (d, 4 H), 1.27 (s, 9H);13C NMR (126 MHz, CDCl3) δ 171.8,143.6,134.4, 129.7,127.8,81.2,62.7,62.6,50.0,48.6,33.2,28.7,27.8,27.6, 21.6; HRMS (FAB M þ 1) m/z 384.1833, calcd for C19H30NO 5S 384.1845.
+3-116	Preparation of cis-(2S,3S)-tert-Butyl 2-(3-tert-Butyldimethyl- silyloxypropyl)-1-tosylpyrrolidine-3-carboxylate (cis-11) by TBS Protection of cis-13.
+3-117	A solution of TBSCl (55.1 mg, 0.35 mmol), imidazole (66.1 mg, 0.96 mmol), and cis-13 (124.1 mg, 0.32 mmol) in DMF (2 mL) was stirred at room temperature for 24 h.
+3-118	TBSCl (55.1 mg) was added, and the reaction mixture was stirred for an additional 24 h.
+3-119	Water (10 mL) was added, and the resulting mixture was extracted with ether (10 mL 4).
+3-120	The combined organic phase was washed with brine (10 mL) and dried over Na2SO4.
+3-121	After filtration, the filtrate was concentrated, and the residue was purified by flash chromatography (hexane-EtOAc 10:1) to give cis-11 in 93% yield (145.7 mg): white solid; mp 67-68 °C; [R] D þ53.7 (CHCl3, c 1.03);1H NMR (270 MHz, CDCl3) δ 7.71 (d, J = 8.3 Hz, 2 H), 7.31 (d, J = 7.9 Hz, 2 H), 4.04 (ddd, J = 4.3, 7.7, 8.9 Hz, 1 H), 3.71-3.53 (m, 2 H), 3.50-3.39 (m, 1 H), 3.22 (dt, J = 8.3, 11.0 Hz, 1 H), 2.42 (s, 3 H), 2.30-2.41 (m, 1 H), 2.22-2.04 (m, 1 H), 1.85-1.44 (m, 5 H), 1.40 (s, 9 H), 0.87 (s, 9 H), 0.02 (s, 3 H), 0.02 (s, 3 H); 13C NMR (68 MHz, CDCl3) δ 170.1, 143.7,135.1,130.0,127.6,81.4,62.9,61.4,48.0,46.5,29.2,28.0, 27.7, 25.9, 25.8, 21.5, 18.3, -5.4, -5.4; Anal. Calcd for C25H43NO5SSi: C, 60.32; H, 8.71; N, 2.81.
+3-122	Found: C, 60.21; H, 8.50; N, 2.82.
+3-123	Preparation of (2S,3R)-tert-Butyl 2-(3-Hydroxypropyl)-1-to- sylpyrrolidine-3-carboxylate (trans-13) by Hydrogenation Reac- tion of Free Alcohol 12.
+3-124	CSA (0.3206 g, 1.28 mmol) was added to a solution of 10 (3.1719 g, 6.40 mmol) in MeOH/CH2 Cl2 (1:1) (64 mL) at room temperature, and the mixture was stirred for 1 h.
+3-125	The reaction mixture was poured into NaHCO3(aq) (20 mL) and extracted with CH2Cl2 (30 mL 4).
+3-126	The organic phase was washed with brine (20 mL) and dried over Na2SO4.
+3-127	After filtration, concentration of the solution in vacuo to give crude 12 which was used for the next step without further purification: 1H NMR (270 MHz, CDCl3) δ 7.70 (d, J = 8.3 Hz, 2 H), 7.30 (d, J = 8.0 Hz, 2 H), 6.46 (d, J = 1.7 Hz, 1 H), 4.77 (t, J = 4.8 Hz, 1 H), 4.24-4.17 (m, 2 H), 3.65 (t, J = 7.2 Hz, 2 H), 2.42 (s, 3 H), 2.10-1.85 (m, 2 H), 1.57 (s, 3 H), 1.44 (s, 9H).
+3-128	Crude 12 was dissolved in MeOH (60 mL), and 10% Pd-C was added to the solution.
+3-129	The reaction mixture was stirred vigorously under hydrogen atmosphere for 48 h.
+3-130	The reaction mixture was filtered through a pad of Celite.
+3-131	The filtrate was concentrated under reduced pressure.
+3-132	The residue was purified by flash chromatography (hexane-EtOAc 3:1, then EtOAc) to give a diastereomeric mixture of 13 in 98% yield (2.3995 g).
+3-133	The diastereomeric ratio was determined by HPLC analysis, which revealed the ratio was cis/trans = 14/86.
+3-134	Anal. Calcd for C19-H29NO5 S: C, 59.51; H, 7.62; N, 3.65.
+3-135	Found: C, 59.26; H, 7.31; N, 3.90.
+3-136	Preparation of (2S,3R)-Methyl 2-(3-Methoxy-3-oxopropyl)-1-tosylpyrrolidine-3-carboxylate (14).
+3-137	PDC (1.8333 g, 4.88 mmol) was added to a solution of trans-13 (0.4690 g, 1.22 mmol) in DMF (3.77 mL) at room temperature, and the mixture was stirred for overnight.
+3-138	The reaction mixture was poured into water (20 mL) and extracted with ether (20 mL 4).
+3-139	The organic phase was dried over anhydrous Na2SO4 .
+3-140	After filtration, the filtrate was concentrated under reduced pressure to give crude carboxylic acid which was used for the next step without further purification.
+3-141	The carboxylic acid was dissolved in MeOH (20 mL), and SOCl2 (0.39 mL, 3.28 mmol) was added to the solution at 0 °C under nitrogen atmosphere.
+3-142	The reaction mixture was
+3-143	heated at refluxing temperature for 12 h.
+3-144	After cooling, the mixture was concentrated under reduced pressure.
+3-145	The residue was purified by flash chromatography (hexane-EtOAc 3:1) to give 14 in 75% yield as a yellow oil (0.3375 g): [R] D þ68.9 (CHCl3, c 0.35); 1 H NMR (400 MHz, CDCl3) δ 7.71 (d, J = 8.3 Hz, 2 H), 7.32 (d, J = 7.9 Hz, 2 H), 4.01 (td, J = 3.9, 6.5 Hz, 1 H), 3.71 (s, 3 H), 3.42 (s, 3 H), 3.47-3.32 (m, 2 H), 2.73-2.66 (m, 1 H), 2.54 (dd, J = 1.5, 7.9 Hz, 1 H), 2.52 (d, J = 8.2 Hz, 1 H), 2.43 (s, 3 H), 2.14-1.90 (m, 3 H), 1.79 (td, J = 5.7, 12.8 Hz, 1 H);13C NMR (101 MHz, CDCl3) δ 173.5,172.5,143.5,134.2,129.5,127.8,62.2,52.0,51.7,48.7,48.3, 31.7, 30.4, 27.3, 21.5.
+3-146	Anal. Calcd for C17H23NO6S: C, 55.27; H, 6.28; N, 3.79.
+3-147	Found: C, 55.18; H, 6.09; N, 3.92.
+3-148	Preparation of (1R,7aS)-Methyl 5-Oxohexahydro-1H-pyrro- lizine-1-carboxylate (15).
+3-149	To a solution of 14 (0.4048 g, 1.10 mmol) in MeOH (20 mL) was added Mg (0.5364 g, 22.06 mmol), and the mixture was stirred for 2 h.
+3-150	The reaction mixture was then heated at refluxing temperature for 4 h.
+3-151	After the mixture was cooled to room temperature, dilute HCl was added to the mixture until all precipitates dissolved.
+3-152	The reaction mixture
+3-153	was extracted with EtOAc (50 mL 4).
+3-154	The organic phase was washed with brine (20 mL) and dried over anhydrous Na2SO4.
+3-155	After filtration, the solution was concentrated under reduced pressure.
+3-156	The residue was purified by flash chromatography (hexane-EtOAc 1:3, then EtOAc) to give 15 in 76% yield as a yellow oil (0.1528 g): [R] D -59.7 (CHCl 3, c 1.06) [lit.[14]
+3-157	[R]D -58.3 (CHCl3, c 0.65)];[1] H NMR (400 MHz, CDCl3) δ 4.10 (td, J = 7.2, 16.2 Hz, 1 H), 3.74 (s, 3 H), 3.65 (td, J = 8.3, 11.7 Hz, 1 H), 3.22 (ddd, J = 3.9, 8.0, 11.7 Hz, 1 H), 2.76 (td, J = 9.6, 16.9 Hz, 1 H), 2.62-2.47 (m, 2 H), 2.47-2.28 (m, 3 H), 1.89 (dtd, J = 7.3, 10.1, 13.0 Hz, 1 H); 13C NMR (101 MHz, CDCl3) δ 175.0, 172.4, 64.4, 52.2, 49.3, 40.7, 34.4, 30.7, 25.9; HRMS (EI M) m/z 183.0892, calcd for C9H13NO3 183.0895.
+3-158	Supporting Information Available: Spectroscopic charts for compounds 2-4, 6-10, cis-11, cis-13, trans-13, 14, and 15, chiral HPLC charts for 2-4, preparation and spectral data for 1f,g, and X-ray crystallographic data for cis-11.
+3-159	This material is available free of charge via the Internet at http://pubs.acs.org.

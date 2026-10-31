@@ -1,0 +1,222 @@
+# document_id: cm501780p
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Polymer field effect transistors (PFETs) have attracted significant interest during the past several years because they have contributed significantly in the fabrication of low cost organic optoelectronic devices such as p−n junctions,[1,2] photovoltaic cells,[3,4] complementary circuits,[5] and driving organic light emitting diodes (OLED) for flexible display.[6,7]
+1-003	All these applications require both hole transporting (p-type)
+1-004	and electron transporting (n-type) materials with suitable physical, chemical, electrical, and photochemical properties.
+1-005	The n-type materials development has lagged behind the p-type materials over the years since the majority of studies reported
+1-006	so far have focused on p-type semiconductor materials and devices.[8,9]
+1-007	In recent years, few reports on the development of ambipolar10,11and n-type semiconductors with encouraging
+1-008	© 2014 American Chemical Society 4030
+1-009	performances have appeared.[12,13]
+1-010	For the electronics industries that rely on organic materials, development of low-cost solution processable n-type semiconducting materials with high performance remains a challenge.
+1-011	One of the major drawbacks with n-type materials is their instability at ambient conditions.
+1-012	In this regard, we demonstrate n-type PFETs with electron mobilities ∼1 cm2 V−1 s −1 which are relatively stable under ambient conditions and could be aligned to improve the transport properties by several orders.
+1-013	There are numerous building blocks being developed to fabricate air stable n-channel semiconducting materials, while
+1-014	Received: May 17, 2014
+1-015	Revised: June 13, 2014
+1-016	Published: June 18, 2014
+1-017	rylene based polymers, especially naphthalene,[14,15] peryle- ne,16,17and pyromellitic tetracarboxylic diimides18,19are the most promising.
+1-018	Naphthalene (NDI) and perylene diimides (PDI) possess aromatic planar conjugated structure and are favorable for good charge transport with performances comparable to p-type semiconducting materials.
+1-019	These classes of materials have an excellent combination of thermal, optical, redox, and electrical properties as well as very high moisture and oxygen resistance.[20]
+1-020	The functionalization at the diimide position with aliphatic alkyl chain, either branched or long chain, provides good solubility in common organic solvents, enhancing their processability.[21]
+1-021	Additionally, the possibility to obtain interdigitated structures limits the percolation of moisture to the conjugated core, thereby making it stable for ambient performance.[22]
+1-022	Many NDI and PDI based small molecules[23,24] and oligomers[25,26] have been reported with self- assembling properties and good charge transporting ability.
+1-023	Few newly developed materials showing high electron mobility include: ladder type naphthalene,[27] perylene diimide,[28] and D−A type copolymers of NDI, PDI with thiophene,[29,30] bithiophene,[31] dithienothiophene,[32] phenothiazine,[33] dithieno- pyrrole,34and phenylene.35High electron mobility of up to 0.45−0.85 cm2 V−1 s −1 was reported with NDI/PDI derivative and bithiophene copolymers[36] and NDI−vinylene−thiophene copolymers which exhibited mobilities of up to 1.8 cm2 V−1 s−1.[37]
+1-024	In PDI based copolymer, electron mobilities of up to 0.075 cm2 V−1 s−1 have been possible with the dithienothio- phene unit,[38] and with liquid crystalline copolymers.[39,40]
+1-025	Despite these efforts it remains unclear why D−A based NDI and PDI copolymers have better μFET.
+1-026	In addition, the role of anisotropic properties, improving the structural order in solution-processed n-type polymers, and the enhanced film morphology on the macroscopic scale are also very crucial for obtaining high-performance OFETs.
+1-027	In this manuscript, we have synthesized four (thiophene-free) copolymers based on phenyl and/or benzothiadiazole as copolymerizing units with linear C18 substituted NDI and PDI derivatives in order to gain a relatively higher understanding on the roles and features of different D−A and A−A structures and carefully study the transport behavior in these polymers.
+1-028	We also demonstrate that enhancing the polymer anisotropic properties by annealing at appropriate temperature significantly improves the intermolec- ular interactions as well as the formation of crystalline domains on the macroscopic scale, facilitating large enhancement in charge carrier transport.
+1-029	Since conjugated polymers inherently possess anisotropic characteristics, they can be realized in device applications only when these conjugated chains are aligned in such a manner that the crystallites do not remain entrenched within the amorphous polymer phases.
+1-030	Tuning the thin film structures of the polymers by annealing facilitates the conjugated chains alignment over larger macrodomains and enhances the structure−property relationships by demonstrat- ing highly improved charged transport behavior here.
+1-031	Hence, developing processing strategies in these materials to overcome the amorphous domains and recognizing the importance of conjugated backbone macrostructure chain alignment are, in principle, extremely crucial for device improvements.
+2-001	■
+2-002	Materials and Characterization.
+2-003	Perylene tetracarboxylic dia- nhydride, naphthalene tetracarboxylic dianhydride, 1,4-benzene diboronic acid, and 2,1,3-benzothiadiazole-4,7-bis(boronic acid pinacol ester) were purchased from Sigma-Aldrich and were used without
+2-004	further purification.
+2-005	The dielectric material hydroxyl free divinylte- tramethylsiloxanebis-benzocyclobutene (BCB) is obtained from Dow Chemicals. 2,6-Dibromo naphthalene tetracarboxylic dianhydride (NTCDA-Br 241and 1,7-dibromo-3,4:9,10-perylene teracarboxylic dia- nhydride (PTCDA-Br2), N,N′-bis(octadecyl)-1,7-dibromo-3,4:9,10-perylenetetracarboxylicdianhydride, and N,N′-bis(octadecyl)-2,6-di- bromonaphthalene-1,4,5,8-tetracarboxylic dianhydride were synthe- sized following the published literature procedure (Scheme 1).[31]
+2-006	All
+2-007	a(i) o-Xylene, propionic acid, n-octadecylamine, 140 °C, 6 h; (ii) Pd(PPh3)4, K2CO3, 2:1 mixture of THF/H2O, aliquat, 80 °C, 36 h, 1,4-benzene diboronic acid, or 2,1,3-benzothiadiazole-4,7-bis(boronic acid pinacol ester).
+2-008	the polymers were synthesized by Suzuki coupling reaction.
+2-009	1H NMR and 13C NMR were recorded on Varian AS 400 MHz and Bruker 600 MHz NMR spectrometers.
+2-010	MALDI-TOF-MS experiments were done on AB SCIEX, U.S.A., instrument with a4800 plus MALDI TOF/TOF Analyzer.
+2-011	Elemental analysis was done on CHNS Analyzer, PerkinElmer, 2400 (U.S.A.).
+2-012	UV−vis spectra were recorded on a PerkinElmer Model Lambda-25 spectrophotometer.
+2-013	Photolumines- cence spectra were recorded on Varian Cary Eclipse spectropho- tometer.
+2-014	Electrochemical measurements were carried out under argon on a deoxygenated solution of tetra n-butyl ammonium perchlorate (0.1M) in acetonitrile using a CH instruments Model 700D series Electrochemical workstation.
+2-015	A glassy carbon as working electrode, platinum wire as counter electrode, and Ag/Ag+ as reference electrodes were used.
+2-016	Thermogravimetric analysis (TGA) was performed on Mettler Toledo, model TG/SDTA 851 e, thermogravi- metric analyzer under a nitrogen flow at a heating rate of 10 °C/min.
+2-017	Differential scanning calorimetry was done on a Mettler Toledo, Model DSC 1, Stare system.
+2-018	The gel permeation chromatography measurements were performed on a waters 515 chromatograph connected to waters 2414 refractive index detector using THF as eluent and polystyrene standards as calibrants.
+2-019	AFM images were taken by an Agilent 5500-STM instrument, and FESEM images were recorded in a Sigma Carl ZEISS scanning electron microscope.
+2-020	XRD analyses were done by Bruker D8 Discover Diffractometer.
+2-021	A Leica polarizable optical microscope was used to study the anisotropic morphology of the copolymer films.
+2-022	Preparation of Films for AFM, FESEM, XRD, and POM.
+2-023	The copolymers were spin coated on glass substrates at 500 rpm for 2 min and then heated for 30 min at 50 °C to evaporate the solvent.
+2-024	FESEM images were recorded with these films.
+2-025	Similarly, AFM images of the films were recorded for as-spun and annealed (30 min at 150 °C) films.
+2-026	For XRD measurement the films were prepared under the same conditions as followed for the device fabrication.
+2-027	For POM studies, the copolymers were dissolved in chloroform and drop-casted on a glass
+2-028	NDI-Ph
+2-029	NDI-BT
+2-030	PDI-Ph
+2-031	PDI-BT
+2-032	a
+2-033	6811
+2-034	5171
+2-035	16082
+2-036	30619
+2-037	13579
+2-038	6627
+2-039	24657
+2-040	35739
+2-041	1.99 (84%)
+2-042	1.74 (85%)
+2-043	1.53 (83%)
+2-044	1.16 (86%)
+2-045	−5.173
+2-046	−5.14
+2-047	−5.89
+2-048	−5.49
+2-049	−3.15
+2-050	−3.03
+2-051	−3.49
+2-052	−3.08
+2-053	2.02
+2-054	2.10
+2-055	2.40
+2-056	2.41
+2-057	bHOMO and LUMO
+2-058	Mn, Mw, number-average and weight-average molecular weights, and PDI, polydispersity index, are obtained from GPC.
+2-059	estimated from the onset oxidation and reduction potentials, respectively, assuming the absolute energy level of ferrocene/ferrocenium couple to be
+2-060	4.8 eV below vacuum. cHOMO−temperature by TGA.
+2-061	dOptical band gap calculated from absorption.
+2-062	Td: degradation
+2-063	LUMO gap estimated by electrochemistry.
+2-064	slide and heated for 2 h at 50 °C to remove residual solvent.
+2-065	During the POM annealing experiments the films were heated from 50 to 180 °C at a rate of 5 °C/min and then cooled to 50 °C at the same rate, and the images were recorded at 50× resolution.
+2-066	Device Fabrication and Characterization.
+2-067	Detailed transport study of the NDI and PDI copolymers was performed using bottom gate top contact FET geometry.
+2-068	For device fabrication, Al metal is coated as the gate electrode by physical vapor deposition (10−6 mbar, 40 nm thick) on RCA cleaned glass substrate.
+2-069	Dielectric layer hydroxyl free divinyltetramethylsiloxane bis-benzocyclobutene (BCB) is then coated at 1000 rpm for 1 min and annealed in N 2 filled glovebox atmosphere at 290 °C. The resultant dielectric layer had a Ci ∼ 4 nF/cm 2 measured directly using the C−V meter inbuilt in Keithley 4200 semiconductor parameter analyzer.
+2-070	Typical dielectric thickness is estimated to be around 0.5−0.6 μm as measured using Filmetrics (F20EXR) thickness measurement setup.
+2-071	The surface of the dielectric was coated (1500 rpm for 30 s) with a thin monolayer of hexamethyldisilazane (HMDS) and annealed at 110 °C for 2 h.
+2-072	The copolymer layer is then introduced from the solution phase (15 mg/mL in THF) by spin coating at 1000 rpm for 1 min and annealed at different temperatures (110−150) °C for 30 min to optimize the performance.
+2-073	In order to facilitate electron injection Al source-drain electrodes were then coated (10−6 mbar, 40 nm thick) to complete the device fabrication.
+2-074	We observe an injection limited response with lower μFET for Au S-D electrodes.
+2-075	The device characterizations were
+2-076	performed using standard Keithley 4200 semiconductor character- ization systems and cross-checked with measurement using Keithley 2400 Source meters and high-impedance Keithley 6514 electrometer.
+2-077	Typical FET performance is estimated from average characteristics of five to seven devices.
+3-001	■
+3-002	Synthesis and Characterization.
+3-003	The syntheses of four new conjugated copolymers were achieved in 83−86% yields (Scheme 1).
+3-004	The synthesis details of the monomers and copolymers are reported in the Supporting Information.
+3-005	The Suzuki coupling reaction of dibrominated NDI and PDI derivatives with benzene-1,4-diboronic acid and 2,1,3-benzo- thiadiazole bisboronic ester resulted in the formation of NDI-Ph, NDI-BT, PDI-Ph, and PDI-BT copolymers.
+3-006	All the monomers and polymers were well-characterized by NMR (Supporting Information Figures S1−S2, S4−S9, and S11−S14), MALDI (Supporting Information Figure S3 and S10)/gel permeation chromatography (GPC), elemental analysis, DSC, TGA, PL, UV−vis, and cyclic voltammetry and their morphologies studied by AFM, FESEM, POM, and XRD techniques (Figure 2), (Supporting Information Figure S15).
+3-007	The TGA analysis reveals that the copolymers are stable up to
+3-008	Chemistry of Materials Article
+3-009	350 °C. These polymers were fabricated and tested for solution processable polymer field effect transistors (PFETs).
+3-010	It was observed that these NDI and PDI derivatives exhibit field effect
+3-011	modulation in the range of 104−105.
+3-012	High μFET can be attributed to the enhanced intermolecular overlap of the D π−π stacking originating from the −A orbitals.
+3-013	Table 1 represents their molecular weight and polydispersity index (PDI) as obtained from GPC in THF (polystyrene standard).
+3-014	Due to the presence of alkyl chains all four copolymers were readily soluble in common organic solvents such as toluene, THF, chloroform, dichloromethane, chlorobenzene, and xylenes and could be solution processed onto desired substrates for achieving smooth films.
+3-015	Photophysical Properties. mechanism, the UV studied in THF at a concentration of 10 absorption peaks at 360, 371, and 449 nm, which are assigned to basic naphthalene diimide core transitions while the peak at 538 nm is due to general polymer aggregation.
+3-016	Another peak To understand the aggregation −visible spectra of the copolymers were −5 M. NDI-BT shows observed at 438 nm is generally observed for the benzothiadiazole moiety.
+3-017	NDI-Ph shows peaks at 360 nm and 370 nm which are assigned to the basic naphthalene core transitions and a peak of polymer aggregation at 540 nm.
+3-018	The PDI-BT gives absorption bands at 550 nm, 525 nm, and 489 nm and those of PDI-Ph are at 548 nm, 513 nm, and 485 nm which are assigned to the general PDI based (S o −So, So−S1, So−S2) transitions (Figure 1a).
+3-019	42The absorption spectra of the spin coated polymer films on glass (Figure 1b) show a red shift in the peaks for all the copolymers as compared to the solution state absorption peaks.
+3-020	For NDI-BT copolymer the 538 nm peak was significantly red-shifted to around 625 nm with similar red shift of up to 371, 391, and 449 nm from the initial positions of 360, 371, and 438 nm, respectively.
+3-021	Similarly, the 540 nm peak of the NDI-Ph copolymer was shifted to 600 nm caused by the strong polymer interchain interaction.
+3-022	The other peaks observed at 360 nm and 370 nm for NDI-Ph are also shifted to 370 nm and 390 nm in thin films as compared to the solution spectra.
+3-023	The shoulders at 675 nm in PDI-BT and 660 nm in PDI-Ph which are assigned to π−π polymer interactions are observed to be shifted to 739 and 721 nm, respectively, in thin films indicating the general polymer aggregation in solid state.
+3-024	All other peaks of PDI-BT are also found to be red- shifted.
+3-025	The optical band gaps calculated from the absorption edge for NDI-Ph and NDI-BT were found to be 1.55 eV and 1.72 eV and those of PDI-BT, PDI-Ph copolymers are 1.57 and 1.59 eV, respectively (Table 1).
+3-026	PL spectroscopy measurements of polymers were performed in dilute 10 −5 M THF solutions.
+3-027	The NDI-BT copolymer shows an emission peak at 480 nm which corresponds to the main absorption peak at 371 nm of the naphthalene core transition.
+3-028	NDI-Ph polymer exhibits an emission peak at around 472 nm corresponding to that of 370 nm in the absorption spectra.
+3-029	The PDI-BT polymer shows emission peaks at 537 nm and 577 nm corresponding to 525 nm and 550 nm peaks in UV (Figure 1c).
+3-030	PDI-Ph polymer gives emission peaks at 538 and 575 nm corresponding to 513 and 548 nm absorption peaks in THF.
+3-031	Thermal Properties.
+3-032	The thermal properties of the polymers were studied by thermogravimetric analysis (TGA) and differential scanning calorimeter (DSC).
+3-033	TGA analysis was done in the range 25 −800 °C at a rate of 5 °C/min under
+3-034	nitrogen flow.
+3-035	All the polymers were very stable, and their onset degrading temperatures were found to be in the range of 341−385 °C (Figure 1d).
+3-036	The onset thermal degradation temper- atures of all the polymers are shown in Table 1.
+3-037	In DSC, the polymers were heated from 25 to 325 °C and then again cooled to 25 °C with a rate of 5 °C/min for three cycles under nitrogen flow.
+3-038	The chromatograms of the second cycle are shown in Figure 1e.
+3-039	NDI-Ph copolymer shows an endothermic peak at 145 °C in the second heating cycle and an exothermic peak at 132 °C in the second cooling cycle which indicates the melting and crystalline temperatures of the polymer, respectively.
+3-040	Similarly, NDI-BT copolymer shows an endother- mic peak at 142 °C and an exothermic peak at 125 °C in the second heating and cooling cycles corresponding to the melting and crystalline temperatures respectively showing that both polymers are crystalline in nature.
+3-041	The PDI-Ph copolymer did not undergo any change during the heating or cooling process.
+3-042	The PDI-BT copolymer shows an endothermic peak at 164 °C during heating which corresponds to melting and exothermic peak of crystallization at 110 °C during cooling process, which indicates the crystalline behavior of the copolymer.
+3-043	Hence, the DSC reveals that NDI-Ph, NDI-BT, and PDI-BT copolymers possess crystalline domains within their structures.
+3-044	Electrochemical Properties.
+3-045	To estimate the HOMO and LUMO energy levels of the copolymers, cyclic voltammetry (CV) was performed.
+3-046	The copolymers were drop casted on carbon working electrode.
+3-047	Silver as the reference electrode and platinum wire as the counter electrode were used in these experiments.
+3-048	The HOMO and LUMO levels were estimated by the onset oxidation and onset reduction peaks assuming the absolute energy level of the ferrocene/ferrocenium couple to be 4.8 eV below vacuum. 0.1 M tetrabutylammonium perchlorate (TBAP) as electrolyte in deoxygenated acetonitrile and ferrocene as standard were used in argon atmosphere.
+3-049	The HOMO/LUMO energies were calculated by substituting the onset reduction and onset oxidation peak values in ELUMO = [(Ered − E1/2 (ferrocene)) + 4.8] eV, EHOMO = [(Eox − E1/2(ferrocene)) + 4.8] eV.
+3-050	The LUMO levels of NDI-BT, NDI-Ph, PDI-BT, and PDI-Ph are −3.03 eV, −3.15 eV, −3.49 eV, and −3.08 eV, respectively.
+3-051	Similarly HOMO levels of the copolymers NDI-BT, NDI-Ph, PDI-BT, and PDI-Ph calculated from CV are −5.14 eV, −5.173 eV, −5.89 eV, and −5.49 eV, respectively (Figure 1f).
+3-052	The energy levels and band gaps calculated from cyclic voltammetry of thin films are represented in Table 1
+3-053	Morphology Characterization.
+3-054	Polymer thin films were characterized by AFM, FESEM, XRD, and polarized optical microscopy (POM) to obtain further information on crystallinity and morphology which is relevant for device characterization.
+3-055	Out-of plane XRD measurements were performed on thin films of the NDI and PDI copolymers (Figure 2) to obtain information regarding the molecular reorganization.
+3-056	As-spun polymeric films reveal π−π stacking in the range of 4.02−4.18 Å and a broad primary diffraction peaks at 2θ = 4.09−4.34° corresponding to the d-spacing values of 18.51−27.84 Å.
+3-057	Annealing of the thin films reduced the d-spacing to a range of 18.26−24.65 Å and π−π stacking distance to 4.0−4.16 Å.
+3-058	This indicates that denser interdigitated lamellar packing is obtained by annealing the polymer films, which is an inherent anisotropic characteristic of conjugated backbone possessing polymers.
+3-059	It should be noted that these magnitudes of d-spacing and π−π stacking obtained in these polymers are
+3-060	relatively lower than other nonthiophene based NDI polymers reported[35] which gets reflected in the enhanced transport properties.
+3-061	In addition, annealing the polymer films decreases the fwhm of the peaks (Table S1 in Supporting Information) corresponding to π−π stacking as well as the d-spacing pointing to the enhanced morphological ordering with annealing.
+3-062	AFM imaging was carried out on optical quality films coated under similar condition as those used in device studies.
+3-063	AFM images for as-spun films do not exhibit any crystallite formation (Figure 3a,c,e,g).
+3-064	However, it was observed that annealing the thin films at 150 °C introduces crystallites in the film (Figure 3b,d,f,h).
+3-065	This trend is consistent with DSC measurement which shows crystallization at ∼150 °C. It should be noted that the degree of enhancement of crystallinity is more prominent for PDI films compared to NDI copolymer films.
+3-066	This was substantiated from observations of a larger number of crystallites obtained in case of PDI-Ph and PDI-BT compared to NDI-Ph and NDI-BT.
+3-067	Furthermore, FE-SEM measurements were also performed on these copolymers to examine the thin film microstructure.
+3-068	FE-SEM images show interconnected crystalline fibrillar network of the copolymers which supports enhanced transport, weakly affected by defects.[43,44]
+3-069	In addition, POM studies performed on films of the these four copolymers confirmed the appearance of macroscale crystalline domains after annealing above 150 °C (Figure 4) due to their inherent structural anisotropic.
+3-070	These features can be directly correlated to large enhancement of μFET upon thermal annealing in PDI derivatives as compared to the NDI derivatives.
+3-071	NDI-BT, (k) PDI-Ph, and (l) PDI-BT films.
+3-072	dx.doi.org/10.1021/cm501780p \|Chem.
+3-073	Mater. 2014,26,4030−4037 Downloaded from pubs.acs.org/cmatex/article-pdf/26/13/4030/8085028/cm501780p.pdf by GYEONGSANG NATL UNIV user on 29 October 2026
+3-074	FET Measurements.
+3-075	Top contact bottom gated FETs were fabricated with all the copolymers in the procedure as described in the Experimental Section.
+3-076	The devices demonstrated well- defined linear and saturation behavior with electron only mobility and ON/OFF ratio exceeding 104 (Figure 5,
+3-077	Supporting Information Figure S16).
+3-078	A typical plot showing FET characteristics measured under inert conditions is shown in Figure 5.
+3-079	Similar FET characteristic with lower μFET is obtained when the devices are operated under ambient conditions (Supporting Information Figure S17).
+3-080	Although molecules with phenylene substitution are of D−A type, hole transport was not observed even with Au S-D electrodes.
+3-081	This
+3-082	feature can be attributed to weaker electron donating ability of the phenylene group.
+3-083	NDI-Ph showed the highest electron μFET ∼ 0.8 cm2 V−1 s−1 whereas FETs fabricated with NDI-BT had μFET ∼ 0.2 cm2 V−1 s−1 after annealing at 150 °C. The PDI derivatives, PDI-Ph and PDI-BT, also demonstrated μFET ∼ 0.04 cm2 V−1 s −1 and 0.032 cm2 V−1 s−1 respectively, upon annealing up to 150 °C. Annealing increases the μFET by several orders, which are among the highest enhancement values for NDI and PDI based copolymers (Table 2).
+3-084	The observed
+3-085	Table 2.
+3-086	Performance Parameters of OFETs Obtained under Different Annealing Conditions
+3-087	110 0.4 150 0.6
+3-088	in the μFET.
+3-089	Upon comparing the NDI and PDI derivatives, it is evident that the NDI derivatives exhibit μFET values which are at least 4035 dx.doi.org/10.1021/cm501780p \|Chem.
+3-090	Mater. 2014,26,4030 −4037
+3-091	an order of magnitude higher than the corresponding PDI derivatives.
+3-092	This can be attributed to the enhanced interdigitated lamellar packing and better π−π stacking in NDI polymers.
+3-093	Annealed films of NDI polymers exhibit d-spacing in the range of 18.26−19.82 Å compared to 21.00−24.65 Å for PDI based polymers.
+3-094	Similarly, the π−π stacking distance increases from 4.06 Å in NDI-Ph to 4.16 Å in PDI-Ph polymer (Table 3).
+3-095	Spacing of the Polymers
+3-096	Importantly, the observed μFET values are higher than those of other nonthiophene based NDI polymers and are comparable to NDIOD-T2.36,45A plot of FET characteristics obtained under similar conditions at our laboratory with NDIOD-T2 is shown in Supporting Information Figure S16c.
+3-097	This comparable μFET can be attributed to a combination of factors, ranging from the molecular level to an optimum dielectric-semiconductor interface.
+3-098	The presence of linear alkyl chains in NDI-Ph and NDI-BT polymer improves the polymer packing and the π−π stacking.
+3-099	In comparison to the typical d-spacing of 23−24 Å observed for nonthiophene based NDI the d-spacings in these NDI polymer films were obtained as 18.26−19.82 Å,[35] indicating better lamellar structure and closely packed interdigitated structure.
+3-100	In addition, the π−π stacking distance of the NDI copolymers is in the range of 4.00−4.06 Å which is comparable to NDIOD-T2 (3.93 Å)[46] and better than other nonthiophene based NDI molecules (4.51 Å).[35]
+3-101	Hence, these molecules have a higher propensity to form ordered crystallites and interconnected aggregates on the macroscopic scale which supports enhanced transport as observed for other high mobility polymers reported recently.[43,47]
+3-102	Another interesting observation in the transport measurement is the enhanced performance of the D−A type molecules (NDI-Ph or PDI-Ph) compared to A−A type (NDI-BT or PDI-BT molecule).
+3-103	This indicates the apparent importance of the intermolecular D−A type interaction on the charge transport compared to the geometry and microstructure of the molecule which can be a general way to achieve high mobility in NDI or PDI polymeric materials.
+3-104	■
+4-001	In summary, we demonstrated the importance of the correlation between the conjugated backbone macrostructure, linear alkyl chains, and anisotropy behavior in spin-coated aligned thin films of perylene diimide and naphthalene diimide
+4-002	copolymers.
+4-003	The thin film structures and electronic anisotropic properties in conjugated copolymers can be regulated, which results in efficient intermolecular interactions, polymer packing, π−π stacking, and the formation of crystalline domains over large area after annealing, thereby facilitating large enhance- ment in charge carrier transport.
+4-004	The optical, thermal, and redox characterization of the copolymers indicates good polymeric aggregates, high thermal stability with the tendency to form crystalline domains, and suitable energetics which support efficient electron injection.
+4-005	This was further supported by the morphology patterns observed in the AFM, FESEM, and POM images.
+4-006	The transport studies performed under different annealing conditions up to 150 °C demonstrated huge enhancement in electron μFET with maximum values of 0.8 cm2 V−1 s−1 for the NDI-Ph and 0.04 cm2 V−1 s−1 for the PDI-Ph polymers.
+4-007	The extended conjugation and efficient intermolecular interactions observed in thin films, along with the formation of crystalline domains as also confirmed by DSC analysis after annealing are collectively responsible for the enhanced device characteristics.
+4-008	This study conclusively illustrates that D−A copolymers display better properties compared to A−A copolymers and demonstrates a route to develop high-performing, solution processable copolymers.

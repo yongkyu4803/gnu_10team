@@ -1,0 +1,282 @@
+# document_id: cm300938s
+# extractor: kordoc-markdown-adapter-1
+1-001	The field of organic electronic devices, such as organic light- emitting diodes (OLEDs), thin-film transistors (OTFTs), and photovoltaic cells (OPVs), is characterized by fast-paced progress and mainly driven by the discovery and availability
+1-002	of key chromophores as building blocks.
+1-003	Diketopyrrolo[3,4- c]pyrrole (DPP) is present as a key structural unit in an important class of red pigments that has exceptional light, weather, and heat stability,[1] and is widely used as a building block in the construction of a variety of compounds and
+1-004	based on DPP-fluorene copolymers emit orange light with an external quantum efficiency of 0.45%.[3]
+1-005	Bulk heterojunction solar cells showing a power conversion efficiency of 4.4% for DPP oligomers and 5.5% for DPP polymers have been reported,[6,8] which is comparable to the one based on regioregular poly(3-hexylthiophene).[13]
+1-006	The hole mobility up
+1-007	to 1.95 cm2 V−1 s−1 for the DPP polymer-based transistor has
+1-008	been achieved.[5]
+1-009	In looking for other champion materials, structural modifications on DPP derivatives have been done mainly at
+1-010	the 3,6-positions and the nitrogen atom of the lactam moiety.
+1-011	© 2012 American Chemical Society 2364
+1-012	The N-alkylation can improve solubility and alter molecular stacking in the solid state.
+1-013	Thiophene,[4] furan,[14,15] benzene,[3,16] thienothiophene,[5] fluorene,[17] carbazole,[18] cyclopenta[2,1-b:3,4-b′]dithiophene,[17] dithieno[3,2-b:2′,3′-d]pyrrole,[19] and other groups have been introduced at the 3,6-positions, affording many compounds and polymers with different band gaps and some unique properties.
+1-014	However, a decrease in the band gap of DPP compounds is always accompanied along by an increase in the highest occupied molecular orbital (HOMO) level.[17]
+1-015	For solar cell applications, donor materials with a narrow band gap and low-lying HOMO level are desirable because of their contribution to an increase in short-circuit current (Jsc) and open-circuit voltage (Voc),[20,21] and improvement of the long- term stability of organic optoelectronic devices.
+1-016	For photo- detector applications, narrow-band-gap polymers can extend photocurrent spectral response to the near infrared (NIR) region, and low-lying HOMO level could lead to a high detectivity by decreasing the dark current.[22]
+1-017	However, as in the case of the development of DPP-based optoelectronic
+1-018	Received: March 24, 2012
+1-019	Revised: May 31, 2012
+1-020	Published: June 1, 2012
+1-021	materials, the common methods to reduce the energy gap, such as extension of conjugation length or introduction of strong donor and acceptor groups, often lead to a rise in the HOMO level.[23,24]
+1-022	DPP has a planar, conjugated 8π-electron bicyclic ring and contains the indigo-like, cross-conjugated vinylogous amidic and vinylogous hydrazine units.
+1-023	Its lactim form has a bicyclic 2,5-diazapentalene (DAP) unit (Figure 1).
+1-024	By chemical
+1-025	transformation of the lactam group in DPP to the lactim derivatives, the two chromophores PPO (pyrrolo[3,4-c]pyrrol-1(2H)-one) and DAPO[25] could be produced.
+1-026	By analogy, dithioketopyrrolopyrrole (DTPP), derived from DPP by thionation,[26] could also yield the two new chromophores, PPT (pyrrolo[3,4-c]pyrrol-1(2H)-thione) and DAP (Figure 1).
+1-027	However, due to relative reactivity S-alkylation > N-alkylation > O-alkylation, DPP, PPO, and DAP are preferably produced during the alkylation of DPP and DTPP, respectively.
+1-028	Therefore, PPO and DAP are potentially useful building blocks for a variety of new optoelectronic compounds and polymers that may show some interesting properties.
+1-029	The computational calculation was carried out on the three chromophores DPP, PPO, and DAP.
+1-030	The energy gap of three chromophores shows the order DPP > PPO > DAP, and their HOMO levels gradually decease in order from DPP to PPO to DAP (Figure 2).
+1-031	In comparison with DPP, lack of the donation from lone-pair electrons on the nitrogen to the π-orbit of the diene moiety may contribute to lowering the HOMO levels in PPO and DAP.
+1-032	The calculation results imply that DAP-
+1-033	containing compounds and polymers could have a low band gap and also low-lying HOMO levels.
+1-034	Encouraged by this predication from calculation results, several representative compounds and polymers (Figure 3) containing PPO and DAP were designed, synthesized, and characterized.
+1-035	By studying the chemical and photophysical properties, the unique halochromic and halofluoric properties of these new chromophores and polymers were also revealed.
+1-036	Furthermore, the NIR photodetectors with photocurrent spectral response up to 1000 nm were fabricated and characterized.
+2-001	■
+2-002	Materials.
+2-003	All chemicals and reagents were used as received from commercial sources without purification.
+2-004	Solvents for chemical synthesis were purified by distillation.
+2-005	Chemical reactions were carried out under an argon atmosphere. 3,6-Di(thiophen-2-yl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dithione (9),[26] 2,5-bis-(2- ethylhexyl)-3,6-di- thiophen-2-ylpyrrolo[3,4-c]pyrrole-1,4-dione (1),[27] 2,2′-(9,9-dioctyl-9H-fluorene-2,7-diyl)bis(4,4,5,5-tetramethyl-1,3,2-dioxaborolane),[28] 9-(2-ethylhexyl)-2,7-bis(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-9H-carbazole,[29] 1-dodecyl-2,5-bis(5-(4,4,5,5-tetramethyl-1,3,2-dioxa- borolan-2-yl)thiophen-2-yl)-1H-pyrrole,[30] and 2,6-bis(trimethyltin)-4,8-bis(octyloxy)benzo[1,2-b:4,5-b′]dithiophene (14)[31] were prepared according to literature methods.
+2-006	General Methods.
+2-007	1H and 13C NMR spectra were recorded using a Bruker Avance 300 NMR spectrometer ( 1H NMR, 300 MHz; 13C NMR, 75 MHz).
+2-008	1H−1H COSY and 1H−13C HSQC were recorded using a Bruker Avance 400 NMR spectrometer.
+2-009	Elemental analysis was performed on a Vario EL Elementar Analysis Instrument.
+2-010	High- resolution mass spectrometry (HRMS) was obtained from 7.0 T actively shielded Fourier transform ion cyclotron resonance mass spectrometers.
+2-011	Mass spectroscopy data (electrospray ionization, ESI) were measured with a Micromass Quattro LC ESI mass spectrometer.
+2-012	Mass spectroscopy data (matrix-assisted laser desorption ionization, MALDI) were measured with Bruker Daltonics Reflex III MALDI- TOF (MALDI-time-of-flight).
+2-013	The number-average (Mn) and weight- average (Mw) molecular weights of the polymers were determined by gel-permeation chromatography (GPC) with a Waters 410 instrument and polystyrene as standards and tetrahydrofuran (THF) as eluent.
+2-014	Thermogravimetric analysis (TGA) and differential scanning calorim- etry (DSC) were carried out in nitrogen with a heating rate of 10 °C/ min on a Hi-Res TGA 2950 thermogravimetric analyzer and a TA- DSC Q100 (TA Instruments), respectively.
+2-015	Absorption and fluorescence spectra were recorded with a Lambda 900 Perkin-Elmer UV/vis/NIR spectrometer and PTI fluorescence system (near-infrared region) or Shimadzu RF-1501 spectrofluorophotometer (visible region), respectively.
+2-016	Cyclic voltammetry (CV) was performed using a BAS 100B/W electrochemical workstation.
+2-017	Anhydrous dichloro- methane was used as the solvent under an argon atmosphere, and 0.1 M of tetrabutylammonium hexafluorophosphate was used as the supporting electrolyte.
+2-018	A platinum disk (2 mm diameter) was used as working electrode, a platinum wire was used as counter electrode, and a Ag/AgCl electrode was used as reference electrode.
+2-019	All measure- ments were done using a scan rate of 50 mV/s at room temperature.
+2-020	The energy levels were calculated relative to a ferrocenium/ferrocene redox couple as an internal reference.
+2-021	Computational Method.
+2-022	The structures were drawn with GaussView 4.
+2-023	The geometries were initially optimized using the AM132 method in the gas phase, followed by gas-phase B3LYP/6-31+G(d)[33,34] optimization using Gaussian 0935 running on an AMD Aspire X3400 computer (AMD Athlon II quad core 645 processor, 3.1 GHz with 4GB RAM).
+2-024	The optimized geometries were checked for negative vibrations.
+2-025	The HOMO and LUMO energies and coordinates were taken from the Gaussian output, and the graphical oribtal plots were generated with GaussView 4.
+2-026	The calculation time was reduced by replacing the long alkyl chains with methyl groups.
+2-027	Device Fabrication.
+2-028	The active layer solution comprised of polymer 6d and [6,6]-phenyl-C61-butyric acid methyl ester (PC61BM) at a weight ratio of 1:3 was dissolved in chlorobenzene and stirred at 30 °C for more than 48 h in the air to form a solution of 20 mg/mL.
+2-029	Indium tin oxide (ITO) coated glass substrates were cleaned, sequentially, by ultrasonic treatment in detergent at 90 °C for 3 h, then washed with water and deionized water, dried under a stream of air and then in an oven at 110 °C. Prior to use, the ITO-coated slides were treated with UV-ozone for 15 min.
+2-030	A conducting film of poly(3,4- ethylenedioxythiophene) doped with poly(styrenesulfonate) (PE- DOT:PSS) was spin coated at a speed of 3000 rpm for 60 s, followed by annealing at 120 °C for 30 min, forming a film of about 35 nm thickness.
+2-031	The active layer solution was spin coated at a speed of 1000 rpm for 60 s and Al (100 nm) electrode was deposited by thermal evaporation on top of the active layer.
+2-032	The devices were annealed at 140 °C for 30 min, then taken out of the oven immediately to cool them quickly.
+2-033	The PD device area is 12 mm2.
+2-034	All the procedures were carried out in air except for the evaporation of Al electrode.
+2-035	External Quantum Efficiency (EQE) and Detectivity Meas- urement.
+2-036	EQE measurements were done using tungsten lamp (250 W) passing through a monochromator, which was chopped at 160 Hz and focused on the active area of the device.
+2-037	The reference was a calibrated Si photodiode with known EQE spectra.
+2-038	The photocurrent from the device is converted to the voltage and measured with a lock- in amplifier to eliminate background noise.
+2-039	The photodiode signal was first amplified using a low-noise current amplifier and then detected by
+2-040	a lock-in amplifier (SR830, Stanford Research Systems).
+2-041	Reverse bias on the device was provided by Keithley 236 Source Measure Unit.
+2-042	The detectivity was calculated according to the ref 36.
+2-043	If the shot noise from the dark current is the major contribution, the detectivity (D*) is calculated from the following equation:
+2-044	D* = R /(2qJd)1/2 = (Jph /L light)/(2qJd)1/2
+2-045	Synthesis. 2-(2-Ethylhexyl)-4-(2-ethylhexyloxy)-3,6-di(thiophen- 2-yl)pyrrolo[3,4-c]pyrrol-1(2H)-one (2).
+2-046	This compound was synthe- sized according to the same procedure as that for compound 1.
+2-047	Compound 7 (7.4 g, 25 mmol), K2CO3 (13.8 g, 100 mmol), and dimethylformamide (DMF; 180 mL) were added to a 500-mL, three- neck round-bottomed flask.
+2-048	The reaction mixture was purged with argon for 30 min and heated to 120 °C for 1 h. 2-Ethylhexyl bromide (12.5 mL, 62.5 mmol) was added dropwise via syringe, and the reaction mixture was stirred for 5 h at 130 °C. The mixture was cooled down to room temperature and poured into 200 mL of water.
+2-049	Then, the mixture was extracted with dichloromethane (100 mL) three times, and the combined organic phase was washed with brine and dried over MgSO4.
+2-050	After removal of the solvent by rotary evaporation,
+2-051	1: PPO 2 and 4, DAP 3 and 5, and DAP polymers 6a−d.
+2-052	R = 2-ethylhexyl,
+2-053	the crude product was purified by column chromatography (silica gel, dichloromethane/hexane =1/1 v/v) and the product was obtained as red needle crystals.
+2-054	Yield: 1.9 g, 14%.
+2-055	1H NMR (300 MHz, CDCl3) δ (ppm): 8.49 (dd, 1H, J1= 3.9 Hz, J2 = 0.9 Hz), 8.22 (dd, 1H, J1= 3.9 Hz, J2= 0.9 Hz), 7.70 (dd, 1H, J1= 5.1 Hz, J2= 0.9 Hz), 7.52 (dd, 1H, J1 = 5.1 Hz, J2 = 0.9 Hz), 7.25 (dd, 1H, J1= 3.9 Hz, J2= 5.1 Hz), 7.22 (dd, 1H, J1= 3.9 Hz, J2= 5.1 Hz). 4.58−4.82 (m, 2H), 4.05−3.89 (m, 2H), 1.80 (br, 2H), 1.53−1.23 (m, 16H), 1.00−0.85 (m, 12H).
+2-056	13C NMR (75 MHz, CDCl3) δ (ppm): 166.34, 161.70, 149.58, 142.42, 138.68, 134.86,131.61,131.53,130.08,130.00,128.96,127.96,114.22,111.12, 72.39,45.48,39.32,39.08,30.92,30.73,30.23,29.07,28.35,24.08, 23.56, 23.02, 14.07, 14.02, 11.27, 10.49.
+2-057	MS (ESI): calcd., 524.25; found, 525.25 [M+H +].
+2-058	1,4-Bis(2-ethylhexylthio)-3,6-di(thiophen-2-yl)pyrrolo[3,4-c]-pyrrole (3).
+2-059	Compound 9 (1.7 g, 5.0 mmol), anhydrous K2CO3 (2.8 g, 20 mmol), 2-ethylhexyl bromide (2.3 mL, 12 mmol), and acetone (100 mL) were added to a one-neck, round-bottomed flask.
+2-060	The mixture was purged with Ar for 30 min and heated at 70 °C for 12 h.
+2-061	After removal of the solvent under vacuum, the crude compound was dissolved in dichloromethane and filtered.
+2-062	The filtrate was evaporated to dryness, and the residue was purified by column chromatography (silica gel, ethyl acetate/hexane = 1/9 v/v) to afford the product as grayish blue solids.
+2-063	Yield: 2.2 g, 79%.
+2-064	1H NMR (300 MHz, CDCl3) δ (ppm): 8.12 (d, 2H, J = 3.9 Hz), 7.64 (d, 2H, J = 5.0 Hz), 7.33−7.24 (m, 2H), 3.65−3.45 (m, 4H), 1.96−1.74 (m, 2H), 1.66−1.25 (m, 16H), 1.11−0.81 (m, 12H).
+2-065	13C NMR (75 MHz, CDCl3) δ (ppm): 166.95,152.12,139.24,132.54,132.40,131.98,128.96,39.80,36.45, 32.68, 28.97, 25.86, 23.03, 14.13, 11.05.
+2-066	MS (MALDI): calcd., 556.21; found, 557.20 [M+H+].
+2-067	3,3′-(5,5′-(9,9-Dioctyl-9H-fluorene-2,7-diyl)bis(thiophene-5,2-diyl))bis(2-(2-ethylhexyl)-4-(2-ethylhexyloxy)-6-(thiophen-2-yl)-pyrrolo[3,4-c]pyrrol-1(2H)-one) (4a).
+2-068	Under argon atmosphere, a solution of compound 8 (0.67 g, 1.1 mmol), 2,2′-(9,9-dioctyl-9H- fluorene-2,7-diyl)bis(4,4,5,5-tetramethyl-1,3,2-dioxaborolane) (0.30 g, 0.46 mmol), aqueous 2 M potassium carbonate (8.5 mL, 17 mmol), and Pd(PPh3)4 (11.2 mg, 0.01 mmol) in THF (17 mL) was stirred and heated at reflux for 18 h.
+2-069	After being cooled to room temperature, the reaction mixture was extracted with dichloromethane, washed with brine and dried over anhydrous Na 2SO4.
+2-070	The crude product was purified by column chromatography (silica gel, dichloromethane/hexane =1/1 v/v).
+2-071	The product was obtained as brown solids.
+2-072	Yield: 0.33 g, 50%.
+2-073	1H NMR (300 MHz, CDCl3) δ (ppm): 8.43 (d, 2H, J = 4.2 Hz), 8.22 (dd, 2H, J1 = 3.6 Hz, J2 = 0.9 Hz), 7.74−7.69 (m, 6H), 7.55 (d, 2H, J = 3.9 Hz), 7.28−7.24 (m, 4H), 4.59−4.56 (m, 4H), 3.40−3.97 (m, 4H), 2.10−2.00 (m, 4H), 1.90−1.70 (m, 4H), 1.60−0.60 (m, 86H).
+2-074	13C NMR (75 MHz, CDCl3) δ (ppm): 161.64, 152.01,
+2-075	149.89,140.94,134.79,133.31,133.17,131.53,130.08,128.00,125.28, 125.08,120.32,120.22,72.57,55.47,45.59,40.42,39.37,39.11,31.74, 30.74,30.28,29.99,29.20,29.13,28.38,24.12,23.79,23.61,23.06, 22.57, 14.12, 14.05, 11.32, 10.54.
+2-076	MS (MALDI): calcd., 1434.80; found, 1435.80 [M+H +].
+2-077	3,3′-(5,5′-(9-(2-Ethylhexyl)-9H-carbazole-2,7-diyl)bis(thiophene-5,2-diyl))bis(2-(2-ethylhexyl)-4-(2-ethylhexyloxy)-6-(thiophen-2-yl)-pyrrolo[3,4-c]pyrrol-1(2H)-one) (4b).
+2-078	Compound 4b was synthesized according to the same procedure for 4a.
+2-079	Yield: 0.18 g, 27%.
+2-080	1H NMR (300 MHz, CDCl3) δ (ppm): 8.55 (d, 2H, J = 3.9 Hz), 8.23 (dd, 2H, J1 = 3.9 Hz, J2 = 1.2 Hz), 8.08 (d, 2H, J = 8.1 Hz), 7.71−7.69 (m, 4H), 7.64 (dd, 2H, J1 = 8.1 Hz, J2 = 1.2 Hz), 7.57 (d, 2H, J = 4.2 Hz), 7.28−7.24 (m, 2H), 4.58−4.56 (m, 4H), 4.35−4.20 (m, 2H), 4.00−3.90 (m, 4H), 2.20−2.10 (m, 1H), 1.90−1.70 (m, 4H), 1.6−1.2 (m, 40H), 1.05−0.80 (m, 30H).
+2-081	13C NMR (75 MHz, CDCl3) δ (ppm): 166.35, 161.56,150.32,149.29,142.07,141.56,137.65,134.69,133.31,131.93,131.33,130.15,127.95,125.29,122.77,120.74,117.78,114.41, 111.30,106.19,72.39,47.29,45.53,39.43,39.36,39.12,30.95,30.76, 30.28,29.12,28.93,28.39,24.66,24.12,23.60,23.13,23.08,14.20, 14.14, 14.06, 11.32, 11.06, 10.54.
+2-082	MS (MALDI): calcd., 1323.67; found, 1324.67 [M+H+].
+2-083	3,3′-(5′,5″-(1-Dodecyl-1H-pyrrole-2,5-diyl)bis(2,2′-bithiophene-5′,5-diyl))bis(2-(2-ethylhexyl)-4-(2-ethylhexyloxy)-6-(thiophen-2-yl)-pyrrolo[3,4-c]pyrrol-1(2H)-one) (4c).
+2-084	Compound 4c was synthesized according to the same procedure for 4a.
+2-085	Yield: 0.28 g, 40%.
+2-086	1H NMR (300 MHz, CDCl3) δ (ppm): 8.43 (d, 2H, J = 3.9 Hz), 8.21 (dd, 2H, J1 = 3.9 Hz, J2 = 1.2 Hz), 7.70 (dd, 2H, J1 = 5.1 Hz, J2 = 1.2 Hz), 7.32−7.23 (m, 6H), 7.03 (d, 2H, J = 3.9 Hz), 6.43 (s, 2H), 4.60−4.45 (m, 4H), 4.30−4.20 (m, 2H), 4.03−3.90 (m, 4H), 1.90−1.70 (m, 4H), 1.60−1.20 (m, 52H), 1.00−0.80 (m, 27H).
+2-087	13C NMR (75 MHz, CDCl3) δ (ppm): 166.32, 161.58, 148.87, 141.78, 141.74, 137.31, 136.85,134.95,134.73,132.89,131.56,131.43,130.12,128.95,127.98, 126.28,125.55,124.94,114.48,111.57,72.39,45.55,39.34,39.11, 31.94,31.09,30.75,30.26,29.67,29.57,29.44,29.38,29.11,28.98, 28.37, 26.39, 24.11, 23.59, 23.05, 22.70, 14.12, 14.05, 11.30, 10.52.
+2-088	MS (MALDI): calcd., 1443.68; found, 1444.69 [M+H+].
+2-089	1,4-Bis(5-(6-ethoxynaphthalen-2-yl)thiophen-2-yl)-3,6-bis(2-ethylhexylthio)pyrrolo[3,4-c]pyrrole (5).
+2-090	In a 25-mL, round-bottomed flask, compound 10 (0.25 g, 0.35 mmol), 6-ethoxynaphthalen-2-ylboronic acid (13) (0.22 g, 1.0 mmol), and Aliquat 336 (0.07 g, 0.17 mmol) were dissolved in 5 mL of anhydrous toluene, and the resulting solution was degassed for 15 min.
+2-091	A degassed 2.0 molar solution of potassium phosphate (3 mL) was added, and the mixture was degassed for another 5 min.
+2-092	Tetrakis(triphenylphosphine)palladium (7.7 mg, 6.7 μmol) was added, and the reaction mixture was stirred and heated to 90 °C under argon for 24 h.
+2-093	The mixture was cooled to room temperature and then poured into water.
+2-094	The precipitated solid was collected by vacuum filtration and washed with water, methanol, and dichloromethane.
+2-095	The product was obtained as brown solids.
+2-096	Yield: 0.24 g, 77%.
+2-097	1H NMR (300 MHz, CDCl3) δ (ppm): 8.12−8.10 (m, 4H), 7.82−7.75 (m, 6H), 7.62−7.61 (m, 2H), 7.22−7.15 (m, 4H), 4.21 (t, 4H, J = 6.9 Hz), 3.67−3.54 (m, 4H), 2.00−1.80 (m, 2H), 1.70−1.20 (m, 22H), 1.10−0.80 (m, 12H).
+2-098	HRMS: calcd., 896.35376; found, 897.36731 [M+H+].
+2-099	3-(5-Bromothiophen-2-yl)-2-(2-ethylhexyl)-4-(2-ethylhexyloxy)-6-(thiophen-2-yl)pyrrolo[3,4-c]pyrrol-1(2H)-one (8).
+2-100	Compound 2 (0.22 g, 0.42 mmol) was dissolved in dry chloroform (30 mL), and the solution was purged with argon for 30 min.
+2-101	N-Bromosuccinimide (NBS) (0.16 g, 0.92 mmol) was added in a few portions, and the mixture was stirred at room temperature in the dark overnight.
+2-102	Chloroform was removed by evaporation, and the crude product was purified by column chromatography (silica gel, dichloromethane/hexane =1/1 v/v).
+2-103	The product was obtained as dark red solid.
+2-104	Yield: 0.11 g, 45%.
+2-105	1H NMR (300 MHz, CDCl3) δ (ppm): 8.24 (d, 1H, J = 3.9 Hz), 8.19 (d, 1H, J = 3.9 Hz), 7.72 (d, 1H, J = 4.8 Hz), 7.25 (m, 1H), 7.16 (d, 1H, J = 4.2 Hz), 4.55−4.45 (m, 2H), 3.97−3.88 (m, 2H), 1.81−1.70 (m, 2H), 1.50−1.10 (m, 16H), 1.05−0.80 (m, 12H).
+2-106	13C NMR (75 MHz, CDCl3) δ (ppm): 166.10, 161.59, 148.12, 143.02, 140.19,135.15,131.96,131.86,131.30,129.93,128.05,117.95,114.04, 111.13,72.48,45.52,39.29,39.07,30.72,30.22,29.05,28.33,24.06,
+2-107	23.54, 23.04, 14.07, 14.02, 11.25, 10.47.
+2-108	MS (ESI): calcd., 602.16; found, 603.19 [M+H +].
+2-109	1,4-Bis(5-bromothiophen-2-yl)-3,6-bis(2-ethylhexylthio) pyrrolo- [3,4-c]pyrrole (10).
+2-110	Compound 3 (1.0 g, 1.8 mmol) was dissolved in dry chloroform (50 mL), and the solution was purged with argon for 30 min.
+2-111	NBS (0.71 g, 4.0 mmol) was added in a few portions, and the solution was stirred at room temperature in the dark overnight.
+2-112	Chloroform was removed by evaporation, and the crude product was washed with methanol.
+2-113	The pure product was obtained as dark purple solids.
+2-114	Yield: 0.82 g, 63%.
+2-115	1H NMR (300 MHz, CDCl3) δ (ppm): 7.82 (d, 2H, J = 4.1 Hz), 7.23 (d, 2H, J = 4.1 Hz), 3.60−3.41 (m, 4H), 1.89−1.73 (m, 2H), 1.61−1.27 (m, 16H), 1.06−0.87 (m, 12H).
+2-116	13C NMR (75 MHz, CDCl3) δ (ppm): 166.71, 151.01, 140.78, 132.56, 132.16,121.07,39.79,36.59,32.68,29.05,25.83,23.07,14.18,11.03.
+2-117	Elemental analysis for C30H38Br2N2S 4: calcd., C, 50.42; H, 5.36; N, 3.92; found, C, 50.22; H, 5.29; N, 3.67.
+2-118	HRMS: Calcd., 714.70412; found, 715.03891.
+2-119	1,4-Bis(heptadecan-9-ylthio)-3,6-di(thiophen-2-yl)pyrrolo[3,4-c]-pyrrole (11).
+2-120	This compound was synthesized according to the same procedure for compound 3 just by replacing 2-ethylhexyl bromide to 9-bromoheptadecane.
+2-121	Yield: 40%.
+2-122	1H NMR (300 MHz, CDCl3) δ (ppm): 8.09 (dd, 2H, J1 = 3.6 Hz, J2 = 0.9 Hz), 7.62 (dd, 2H, J1 = 4.8 Hz, J2 = 0.9 Hz), 7.29−7.26 (m, 2H), 4.39−4.30 (m, 2H), 2.10−1.20 (m, 56H), 0.95−0.80 (m, 12H).
+2-123	1,4-Bis(5-bromothiophen-2-yl)-3,6-bis(heptadecan-9-ylthio)-pyrrolo[3,4-c]pyrrole (12).
+2-124	This compound was synthesized according to the same procedure for compound 10.
+2-125	Yield: 26%.
+2-126	1H NMR (300 MHz, CDCl 3) δ (ppm): 7.82 (d, 2H, J = 3.0 Hz), 7.23 (d, 2H, J = 3.9 Hz), 4.34−4.29 (m, 2H), 2.20−1.20 (m, 56H), 0.90−0.88 (m, 12H).
+2-127	MS (MALDI): calcd., 964.3; found, 983.5 [M+H 2O+H +].
+2-128	Compound 3-Me.
+2-129	In a 25 mL round-bottomed flask, compound 3 (28 mg, 0.05 mmol) was dissolved in 5 mL of anhydrous dichloromethane, and the solution was degassed for 15 min.
+2-130	Trimethyloxonium tetrafluoroborate (22 mg, 0.15 mmol) was added, and the mixture was stirred at room temperature for 2 h under argon.
+2-131	The mixture was filtrated, and the precipitate was washed with dichloromethane.
+2-132	The filtrate was collected, and after removal of solvent, the product was obtained as golden solid with no need for further purification.
+2-133	Yield: 29 mg (90%).
+2-134	1H NMR (300 MHz, CDCl3) δ (ppm): 8.48 (d, 2H, J = 3.9 Hz), 8.07−7.94 (m, 2H), 7.46 (br, 2H), 3.77−3.74 (m, 4H), 1.91−1.87 (m, 2H), 1.57−1.38 (m, 19H), 1.01−0.93 (m, 12H).
+2-135	Typical Synthetic Procedure for Polymers 6a−c.
+2-136	Under argon atmosphere, a mixture of 9,9-dioctyl-2,7-bis(trimethyleneboronate)-fluorene (0.279 g, 0.5 mmol) and compound 10 (0.357 g, 0.5 mmol), Pd(PPh3)4, and aqueous 2 M potassium carbonate in THF was heated under reflux for 36 h.
+2-137	After being cooled to room temperature, the reaction mixture was extracted with dichloromethane (3 × 50 mL), washed with brine, and dried over anhydrous Na 2SO4.
+2-138	The solution was concentrated and precipitated in methanol.
+2-139	The crude polymer was collected by filtration and washed in a Soxhlet apparatus with methanol, acetone, and hexane consecutively until the washings were colorless.
+2-140	Finally, the polymer was placed in a Soxhlet trap and extracted by chloroform.
+2-141	The chloroform solution was condensed to 10 mL under the reduced pressure and then precipitated in 250 mL of methanol.
+2-142	The fiber-like polymer 6a was collected by filtration and dried in vacuum.
+2-143	Yield: 0.40 g, 85%.
+2-144	1H NMR (300 MHz, CDCl3) δ (ppm): 8.17−8.16 (m, 2H), 7.95−7.61 (m, 8H), 3.67−3.59 (m, 4H), 2.09−2.07 (m, 4H), 1.93−1.92 (m, 2H), 1.6−0.6 (m, 58H).
+2-145	GPC: Mn = 11 kDa, Mw = 18 kDa, PDI = 1.6.
+2-146	Polymer 6b.
+2-147	Dark blue fiber; Yield: 0.34 g, 70%.
+2-148	1H NMR (300 MHz, CDCl3) δ (ppm): 8.20−8.10 (m,4H), 7.80−7.40 (m, 6H), 4.67 (br, 1H), 3.65 (br, 4H), 2.43−2.37 (br, 2H), 2.10−1.80 (m, 4H), 1.80−0.80 (m, 58H).
+2-149	GPC: Mn = 14 kDa, Mw = 28 kDa, PDI = 2.0.
+2-150	Polymer 6c.
+2-151	Dark blue fiber; Yield: 0.33 g, 65%.
+2-152	1H NMR (300 MHz, CDCl3) δ (ppm): 8.07−8.03 (m, 2H), 7.40−7.34 (m, 4H), 7.10−6.90 (m, 2H), 6.36−6.33 (m, 2H), 4.41−4.38 (m, 1H), 3.66−3.51 (m, 4H), 2.00−1.80 (m, 4H), 1.70−1.10 (m, 42H), 1.10−0.80 (m, 18H).
+2-153	GPC: Mn = 12 kDa, Mw = 26 kDa, PDI = 2.2.
+2-154	a
+2-155	a
+2-156	Reagents and conditions: (i) Pd(PPh3)4, K2CO3 (aq, 2M), THF; (ii) Pd(PPh3)4, Aliguat 336, K3PO4 (aq, 2M), toluene; (iii) Pd(PPh 3)4, toluene.
+2-157	Polymer 6d.
+2-158	Under argon atmosphere, a mixture of compound 12 (0.193 g, 0.2 mmol), 2,6-bis(trimethyltin)-4,8-bis(octyloxy)benzo[1,2-b:4,5-b′]dithiophene (14) (0.155 g, 0.2 mmol), and Pd(PPh3)4 (11 mg, 9.8 μmol) in toluene (5 mL) was heated at reflux for 36 h.
+2-159	After being cooled to room temperature, the reaction mixture was extracted with dichloromethane, washed with brine, and dried over anhydrous Na2SO4.
+2-160	The solution was concentrated and precipitated in methanol.
+2-161	The product was collected by filtration and dried in vacuum.
+2-162	Polymer 6d was obtained as dark greenish blue fiber.
+2-163	Yield: 0.15 g, 60%.
+2-164	1H NMR (300 MHz, CDCl 3) δ (ppm): 8.10−8.00 (m, 2H), 7.75−40 (m, 4H), 4.70−4.20 (m, 6H), 2.20−1.80 (m, 12H), 1.80−1.10 (m, 68H), 1.10−0.70 (m, 18H).
+2-165	GPC: Mn = 23 kDa, Mw = 83 kDa, PDI = 3.6.
+3-001	■
+3-002	Design and Synthesis.
+3-003	The chemical structures of the PPO and DAP-based compounds and polymers are illustrated in Figure 3, and the synthetic routes are outlined in Scheme 1.
+3-004	As a result of competitive N- and O-alkylations, PPO 2 was obtained in 14% yield along with N-alkylated DPP 1 (Scheme
+3-005	1).
+3-006	Bromination of 2 yielded only monobrominated PPO, and subsequent Suzuki cross-coupling reaction afforded three PPO compounds 4a−c.
+3-007	A large family of DAP-containing compounds can be readily derived in high yields from the corresponding DTPP compounds.
+3-008	As an example, alkylation of DTPP gave exclusively DAP 3.
+3-009	Bromination at the two terminal thiophene rings of 3 yielded a dibromo compound that is useful as a building block for constructing a variety of DAP-containing compounds (e.g., 5) and as a monomer for making many conjugated polymers (e.g., 6a−d) by the Suzuki or Stille cross-coupling reaction.
+3-010	The fluorene, carbazole, and other electron- donating moieties were introduced in compounds 4 and polymers 6 in order to tune the optical and electrochemical properties.
+3-011	Thermal and Optical Properties.
+3-012	The thermal properties of 4a−c and polymers 6a−d were evaluated by differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) (Figure S1, Supporting Information).
+3-013	The TGA study indicates that both the PPO-based compounds and DAP-based polymers possess good thermal stability in nitrogen with a decomposition temperature (5% weight loss) up to 250 °C. Compound 4a exhibits crystallization (Tc) and melting transitions (Tm) at 95 and 149 °C, respectively.
+3-014	Polymer 6a has a clear glass-transition temperature (Tg) at 107 °C.
+3-015	The absorption and emission maxima of DPP 1 are at 546and 567 nm, respectively (Figure 4).
+3-016	In comparison, the absorption onset of PPO 2 is red-shifted about 25 nm and the emission shifts to 600 nm (Table 1).
+3-017	Similarly, the absorption onset of 3 is red-shifted about 70 nm relative to DPP 1 and 45 nm relative to PPO 2.
+3-018	Extension of π-conjugation of PPO chromophore leads to further red-shift in both absorption and emission spectra, as compounds 4a−c having the fluorene, carbazole, and thiophene-pyrrole-thiophene units display a red-shift of 80 nm in absorption and 30−50 nm in emission relative to 2 (Figure S2, Supporting Information; Table 1).
+3-019	In comparison with DAP 3, the absorption maxima of compound 5 and polymer 6a are red-shifted by 120 and 160 nm (Figure 4b).
+3-020	Polymerization allows for further band gap tuning and realization of other unique optoelectronic properties of the resulting polymers through incorporation of many other conjugated moieties (Figure S3 and Table S1, Supporting Information).
+3-021	Among all the representative compounds and polymers, polymer 6d absorbs at the longest wavelength at 807 nm as a result of incorporation of a benzodithiophene moiety in the conjugated polymer backbone.
+3-022	Similar to compounds 3 and 5, polymers 6a−d are not fluorescent, presumably due to the presence of thio-lactim group.
+3-023	Table 1.
+3-024	Absorption, Fluorescence, and Energy Gaps
+3-025	4a- 651 5.18 710 NDd 5.30 3.58f 1.72g
+3-026	H+
+3-027	4b- 652 5.20 706 ND 5.35 3.66f 1.69g
+3-028	H+
+3-029	4c- 662 5.10 653 ND 5.00 3.48f 1.52g
+3-030	H+
+3-031	+ h f g
+3-032	H+
+3-033	6d- 969 4.60 1200 <1h 5.18 4.10f 1.08g
+3-034	H+
+3-035	aIn chloroform (10−5 M). bIn chloroform (10−4 M). cFluorescence quantum yield relative to rhodamin 6G (Φf = 0.86 in methanol).[37] dND: not detectable. eRelative to methylene blue (Φf = 0.03 in methanol).[37] fCalculated from HOMO and Eg. gOptical energy gap. hRelative to IR-125 (Φf = 0.13 in DMSO).[38]
+3-036	Electrochemical Properties.
+3-037	The electrochemical proper- incorporation of stronger electron donor (6d vs 6a) effectively ties are investigated by cyclic voltammetry (CV), and the data decreases the band gap.
+3-038	are summarized in Table 1.
+3-039	They are all electrochemically active Halochromic and Halofluoric Properties.
+3-040	Besides the and have two or three quasi-reversible reduction waves in cyclic changes in band gap and the HOMO levels, since the lactim voltammogram.
+3-041	The first reduction potentials are from the nitrogen in DAP is more basic than the lactam nitrogen in DPP, reduction of acceptor cores, such as DPP, PPO, or DAP units. the acid−base reaction can occur.[39,40]
+3-042	In a test, when The LUMO levels are decreased from compound 1 to 3 due to camphorsulfonic acid (CSA) was added to DPP 1 in the presence of a stronger acceptor (Figure 5).
+3-043	The reversible chloroform, its absorption spectrum did not show any change, oxidation waves were observed (Figure S9, Supporting indicating its chemical inertness to acid (Figure S4, Supporting Information), and the first one may be attributed to the Information).
+3-044	In contrast to DPP, PPO 2 can be readily oxidation of the donors such as the thiophene.
+3-045	It is interesting protonated by CSA or other mineral and organic acids,[39] and to note that the stronger acceptor not only narrows the band the absorption and emission maxima of 2-H+ were red-shifted gap, but also lowers the HOMO levels.
+3-046	These results are highly about 15 nm (Figure 4, Table 1).
+3-047	The HOMO and LUMO consistent with the computational calculation.
+3-048	When comparing levels of 2-H+ are lowered by 0.09 and 0.15 those of 2, each pair of the DPP-and DAP-based compounds and respectively, due to the decrease of electron density of the polymers, the latter always shows a decrease in energy gap entire π-conjugated system (Figure 5).[41]
+3-049	Interestingly, when and a drop in the HOMO levels at the same time (Table S2, compound 3 was protonated, the absorption at 560 nm Supporting Information), which is unique and desirable for decreased and a new, intense peak at 630 nm appeared (Figure designing donor materials in organic bulkheterojunction (BHJ) 6a).
+3-050	Visually, the color changes from purple for 3 to dark cyan solar cells.[20,21]
+3-051	Extension of π-conjugation (6a vs 3) or for 3-H+ upon addition of CSA.
+3-052	However, only one of the two
+3-053	basic nitrogen atoms in 3 is protonated, as evident by the presence of several isosbestic points at about 335, 447, 529, and 593 nm in the titration spectra and the Job’s plot (Figure S5, Supporting Information).
+3-054	The halochromic property was confirmed by adding triethylamine (TEA) to 3-H+ and recovering the absorption spectrum of 3 (Figure S6, Supporting Information).
+3-055	Similar to the case of 2-H+, the energy levels of compound 3-H+ also decreased about 0.1 eV.
+3-056	As expected, compound 5 and polymers 6 are also halochromic.
+3-057	Polymers 6a-H+ and 6d-H+ absorb in the NIR spectral region at 883 nm (160-nm red-shift relative to 6a) and 700−1100 nm, respectively (Figure 4b).
+3-058	In fact, polymers 6 are halochromic upon protonation by mineral acids (e.g., HCl and H2SO4), organic acids (e.g., camphorsulfonic acid and CH 3COOH), Lewis acid (e.g., BCl3 ), and even phenols (e.g., 2-chlorophenol).
+3-059	In contrast to nonemissive compound 3, the protonated salt 3-H+ is highly fluorescent, exhibiting a bright red emission at 660 nm and higher emission efficiency (20%) than DPP 1 (Figure 6b, Table 1).
+3-060	Narrow-band gap polymers 6a and 6d are basically nonfluorescent.
+3-061	Protonation effectively induces the NIR fluorescence turn-on, as polymer 6a-H+ emits at 970 nm (Figures 4c and 6c) and 6d-H+ emits at the telecommunication wavelength of 1300 nm (Figure 4c).
+3-062	The cation-induced fluorescence or halofluorism is unique for a certain type of heterocyclic chromophores[42−44] and potentially applicable for “fluorescence turn-on” probing.
+3-063	These narrow-band gap polymers represent the first example of NIR halochromic and halofluoric materials.
+3-064	As expected, the basic lactim nitrogen could be methylated as well, and the salt 3-Me, obtained by reaction of 3 with trimethyloxonium tetrafluoroborate (Scheme
+3-065	2),[45] had the enhanced emission (Figure S7, Supporting
+3-066	Information).
+3-067	By complexation with a Lewis acid, the polymer 6d-BCl 3 adduct emits in the NIR region similar to the emission of 6d-H+ (Figure S8, Supporting Information).
+3-068	Photodetector and Detectivity.
+3-069	To demonstrate the potential applications of DAP-based materials, polymer 6d with a narrow band gap of 1.19 eV was used to fabricate polymer photodetector devices.
+3-070	The device configuration is ITO/ PEDOT:PSS (35 nm)/active layer (100 nm)/Al (100 nm), the active layer comprises a blend of polymer 6d and [6,6]-phenyl-C61-butyric acid methyl ester (PC61BM) in a weight ratio of 1:3.
+3-071	The dark current density was 3.27 × 10−9 (A/cm[2]) at bias of −0.1 V (Figure S10, Supporting Information) and even lower than that of the reported high-detectivity photo- detector based on a narrow-band gap polymer,[22] which may be attributed to, at least in part, the lower HOMO level of polymer 6d.
+3-072	The photocurrent spectral response covered a wide range from 400 nm to 1000 nm, matching well with the absorption profile of the film of polymer 6d and PC61BM mixture (Figure
+3-073	7).
+3-074	The EQE and detectivity were calculated at 800 nm (points A and B in Figure 7d) as 4.0% and 1.6 × 1011 Jones, respectively.
+3-075	The relatively low EQE value may be due to the large domain size of the active layer (about 100 nm, Figure S10, Supporting Information) and the close LUMO levels of 6d and PC 61BM, which could lead to insufficient exciton dissociation.
+3-076	At the wavelengths from 400 to 850 nm, the device exhibited a photodetectivity greater than 1011 Jones, being comparable to previously reported polymer photodetectors.[46,47]
+3-077	In conclusion, by simple chemical transformation of readily available DPP derivatives, a new family of DAP chromophores and polymers are obtained.
+3-078	DAP-based materials have smaller energy gaps and lower HOMO levels relative to DPP analogs and display unique acid-induced halochromic fluorescence in the NIR spectral region.
+3-079	Further band gap tuning is likely to afford suitable DAP polymers for applications in NIR optoelectronic devices such as NIR photodetectors and NIR OLEDs.

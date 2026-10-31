@@ -1,0 +1,173 @@
+# document_id: cm1018585
+# extractor: kordoc-markdown-adapter-1
+1-001	N,N0-bis(3-methylphenyl)-1,10-biphenyl-4, 40-diamine (TPD), are 96 and 65 °C, respectively.[3]
+1-002	The expansion of Triarylamine derivatives have been widely used as hole-
+1-003	the hole-transporting layer (HTL) in a thermally stressed transporting materials in thin layer optoelectronic devices
+1-004	OLED can cause the device degradation.
+1-005	This effect can such as organic light-emitting diodes (OLEDs), organic 4
+1-006	be reduced using HTL materials with high Tg.
+1-007	To improve photovoltaic cells (OPV), and organic field-effect transistors
+1-008	1 the amorphous nature, various oligotriarylamines with linear, (OFETs).
+1-009	However, the monomeric molecules do not exhibit
+1-010	star-shaped, branched or dendritic structures have been a high hole-transport efficiency due to their easy crystallinity 5
+1-011	2 developed.
+1-012	Shirota et al. have reported several families and/or low thermal stability.
+1-013	In many OLEDs, the hole-
+1-014	of high Tg star-shaped oligotriarylamines with different transporting materials are the weakest link, with regard to
+1-015	cores (benzene, triphenylbenzene or triphenylamine); further- thermal stability.
+1-016	For example, the glass-transition tem-
+1-017	more, in these systems the extended conjugation can result in perature (Tg) for aluminum tris(8-hydroxyquinoline) (Alq3),
+1-018	a low oxidation potential, in consequence a low barrier for a common electron-transporting material, is 175 °C, whereas 6
+1-019	hole injection from anode.
+1-020	The most efficient conjugation those for the standard hole-transporting materials, such
+1-021	as 1, 4-bis(1-naphthylphenyl)amino)biphenyl (NPB) and
+1-022	† Accepted as part of the “Special Issue on π-Functional Materials”.
+1-023	(4) O’Brien, D. F.; Burrows, P. E.; Forrest, S. R.; Koene, B. E.; Loy, *Corresponding author.
+1-024	E-mail: clyang@whu.edu.cn (C.Y.); mdg1014@ D. E.; Thompson, M. E. Adv.
+1-025	Mater. 1998, 10, 1108.
+1-026	ciac.jl.cn (D.M.).
+1-027	(5) (a) Shirota, Y. J. Mater.
+1-028	Chem. 2000, 10, 1.
+1-029	(b) Satoh, N.; Cho, J. S.;
+1-030	Mackay, K.; Friend, R. H.; Burn, P. L.; Holmes, A. B. Nature 1990, (6) (a) Ishikawa, W.; Inada, H.; Nakano, H.; Shirota, Y. Chem.
+1-031	Lett. 347, 539.
+1-032	(b) Friend, R. H.; Gymer, R. W.; Holmes, A. B.; Burroughes, 1991, 1731.
+1-033	(b) Shirota, Y.; Kobata, T.; Noma, N. Chem.
+1-034	Lett. 1989, 1145.
+1-035	was observed in the 4,40,400-tris(diphenylamino)triphenyl- amine (TDATA) series in which the nitrogen atoms are connected through a phenylene group via paralinkages.[6b] The layer-by-layer evaporation has been proven to be a successful technique in the fabrication of OLEDs; how- ever, it is also restricted by high cost, time-consuming and low process yield.
+1-036	Convenient solution processing such as spin coating or inkjet printing has been desired as an easy preparation of devices with low cost and large area.[7]
+1-037	For example, PVK (polyvinylcarbazole), has been widely used as solution-processable hole-transporting material in OLEDs.[8]
+1-038	However, as compared to vacuum-evaporated materials, the solution-processable, small-molecule-based hole-transporting materials have little reported to date.
+1-039	Hellwinkel et al. initially reported a series of bridged triarylamine compounds.[9]
+1-040	Recently, the bridged triaryl- amine derivatives attracted attentions in organic opto- electronics.[10]
+1-041	We reported a new fully diarylmethene-bridged triphenylamine (FATPA), which has an almost planar tri- phenylamine (TPA) skeleton and exhibits excellent thermal and morphological stability.[11]
+1-042	In this paper, we report the synthesis and the structures of two novel star-shape arylamines with the planarized FATPA as molecular core and triphenylamine or carbazole as peripheral group.
+1-043	The new star-shaped arylamines are applicable in the OLEDs as morphologically stable hole-transport materials having a good hole mobility, efficient hole injection, and electron- blocking functions.
+1-044	Moreover, the novel materials are solution-processable.
+1-045	All the merits make them very attrac- tive hole-transporting materials in OLEDs.
+2-001	measuring their weight loss while heating at a rate of 10 °C min-1 from 25 to 600 °C. UV-vis absorption spectra were recorded on Shimadzu UV-2550 spectrophotometer.
+2-002	PL spectra were recorded on Hitachi F-4500 fluorescence spectrophotometer.
+2-003	Cyclic voltam- metric measurements were carried out on a computer-controlled EG&G potentiostat/galvanostat model 283 using tetrabutyl- ammonium hexafluorophosphate (0.1 M) in freshly distilled CH2Cl2 solution as supporting electrolyte and conventional three-electrode cell with a Pt button working electrode of 2 mm diameter, a platinum- wire counter electrode, and a Ag/AgCl reference electrode with ferrocenium-ferrocene (Fcþ/Fc) as the internal standard.
+2-004	Synthesis of FATPA-Br.
+2-005	To a solution of FATPA (1.0 g, 1.22 mmol) in 20 mL of chloroform was added NBS (0.68 g, 3.82 mmol) at 0 °C. The mixture was stirred for 12 h at room temperature, and then filtered.
+2-006	The filtrate was washed with water three times, and the organic layers were dried with anhydrous sodium sulfate.
+2-007	After removal of organic solvent, the resulting solid was recrystallized from ethanol to give a white solid (Yield: 95%). 1 H NMR (300 MHz, CDCl3, δ): 6.91 (s, 6H), 6.86 (d, J =8.1 Hz, 12 H), 6.55 (d, J=8.1 Hz, 12 H), 2.30 (s, 18 H); 13C NMR (75 MHz, CDCl3, δ): 141.81, 136.13, 134.26, 130.77, 130.70, 130.01, 128.70, 116.10, 55.29, 21.12.
+2-008	Anal. Calcd. for C63H48Br3 N (%): C, 71.47; H, 4.57; N, 1.32.
+2-009	Found: C, 71.23; H, 4.40; N, 1.35; MALDI-TOF-MS: m/z 1059.2 (Mþ).
+2-010	Synthesis of FATPA-T. A mixture of FATPA-Br (0.60 g, 0.57 mmol), N-(4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl)-N-phenylbenzenamine (0.84 g, 2.26 mmol), Pd(PPh3)4 (40 mg, 2% mmol) and sodium carbonate (1.81 g, 17.1 mmol) in 40 mL of toluene and 9 mL of distilled water was stirred at 90 °C for 36 h under argon.
+2-011	The mixture was extracted with toluene, and the organic layers were washed with brine, dried over anhydrous sodium sulfate.
+2-012	The crude product was purified by column chromatog- raphy on silica gel using 3:1 (v/v) petroleum/chloroform as the eluent to afford a yellow solid (Yield: 81%).
+2-013	1H NMR (300 MHz, CDCl3, δ): 7.18-7.15 (m, 18 H), 7.05-6.91 (m, 30 H), 6.78 (d, J = 7.2 Hz, 12 H), 6.65 (d, J = 7.2 Hz, 12 H), 2.21 (s, 18 H); 13C NMR (75 MHz, CDCl3, δ): 165.17, 165.13, 149.00, 147.91, 144.45, 136.60,135.70,135.08,131.47,130.56,129.52,128.19,127.03,125.64, 125.25, 124.13, 56.93, 22.32.
+2-014	Anal. Calcd. for C117H90N4 (%): C, 90.54; H, 5.85; N, 3.61.
+2-015	Found: C, 91.01; H, 6.16; N, 3.36.
+2-016	MALDI-TOF-MS: m/z 1551.5 (Mþ).
+2-017	Synthesis of FATPA-Cz.
+2-018	A mixture of FATPA-Br (0.60 g, 0.57 mmol), 9-(4-tert-butylphenyl)-3-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-9H-carbazole (0.28 g, 2.26 mmol), Pd(PPh3)4 (40 mg, 2% mmol) and sodium carbonate (1.81 g, 17.1 mmol) in 40 mL of toluene and 9 mL of distilled water was stirred at 90 °C for 36 h under argon.
+2-019	The mixture was extracted with toluene, and the organic layers were washed with brine, dried over anhydrous sodium sulfate.
+2-020	The crude product was purified by column chro- matography on silica gel using 3:1 (v/v) petroleum/chloroform as the eluent to afford a yellow solid (Yield: 73%).
+2-021	1H NMR (300 MHz, CDCl3, δ): 7.99 (d, J=8.1 Hz, 3H), 7.52 (d, J=8.1 Hz, 9H), 7.37-7.26 (m, 24H), 6.83-6.76 (m, 27H), 2.25 (s, 18H), 1.34 (s, 27H); 13C NMR (75 MHz, CDCl3, δ): 150.40, 143.28, 141.37,140.09,135.39,135.19,134.85,134.18,132.94,130.24,129.24, 128.15,126.97,126.67,126.61,126.54,126.45,125.85,124.99,123.47, 123.26,120.17,119.68,117.95,109.92,109.87,55.69,30.88,29.67, 20.94.
+2-022	Anal. Calcd. for C129H108N4 (%): C, 90.38; H, 6.35; N, 3.27.
+2-023	Found: C, 90.71; H, 6.63; N, 2.94.
+2-024	MALDI-TOF-MS: m/z 1712.9 (Mþ).
+2-025	Device Fabrication and Measurements.
+2-026	The ITO-coated glass substrates were cleaned with special detergent and deionized water.
+2-027	After cleaning, the substrates were baked at 120 °C for 20 min followed by O2 plasma treatment.
+2-028	FATPA-T or FATPA-Cz were
+2-029	General Information.
+2-030	1H NMR and 13C NMR spectra were measured on Varian Unity 300 MHz spectrometer using CDCl3 as solvent.
+2-031	Elemental analyses of carbon, hydrogen, and nitro- gen were performed on a Vario EL-III microanalyzer.
+2-032	EI-MS spectra were recorded with a VJ-ZAB-3F-Mass spectrometer.
+2-033	MALDI-TOF mass spectrometric measurement was performed on Bruker Biflex III MALDI TOF instrument.
+2-034	Differential scanning calorimetry (DSC) was performed on a NETZSCH DSC 200 PC unit at a heating rate of 10 °C min-1 from 30 to 600 °C under argon.
+2-035	Thermogravimetric analysis (TGA) was undertaken with a NETZSCH STA 449C instrument.
+2-036	The thermal stability of the samples under a nitrogen atmosphere was determined by
+2-037	Article
+2-038	spin-coated from the solution in chlorobenzene onto the pre- cleaned ITO substrates.
+2-039	After baking at 120 °C for 30 min, the emitting layer of Alq3 was deposited by thermal evaporation at a base pressure <1 10-4 Pa.
+2-040	At last, a 1 nm thick layer of LiF and a 100 nm thick film Al were thermally deposited as a cathode under vacuum.
+2-041	If needed, NPB was also deposited by thermal evaporation in the same condition.
+2-042	The thickness of the films deposited by thermal evaporation was monitored by the crystal thickness meter and the thickness of spin-coated films was mea- sured by the terrace detector.
+2-043	The active area of the device are 16 mm2, determined by the cross breadth between the cathode and the ITO.
+2-044	The EL spectra were measured by the JY SPEX CCD3000 spectra.
+2-045	Steady current-luminance-voltage was mea- sured by Keithley 2400 with silicon photodiode.
+2-046	All tests were performed under air atmosphere and at room temperature.
+2-047	The samples for the TOF measurement were prepared by vacuum deposition using the structure: glass/Ag (30 nm)/HTL (1.1 μm for FATPA-Cz and 1.3 μm for FATPA-T/Al (150 nm).
+2-048	Optical excitation of the carrier packet was achieved by illumi- nation through the Ag electrode using an intense short duration (5-6 ns) light pulse from a frequency-tripled (355 nm) Nd:YAG laser.
+2-049	The transient current was measured across the load resistor using Agilent 54825A Infinium Digital Oscilloscope.
+3-001	The synthesis of the star-shaped arylamines, namely FATPA-T and FATPA-Cz, is outlined in Scheme 1.
+3-002	The intermediate 3Br-FATPA was prepared by the bromination of FATPA with NBS in a high yield of 95%.
+3-003	FATPA-T and FATPA-Cz were synthesized by the Suzuki cross-coupling reactions of 3Br-FATPA with 4-triphenylamine pinacol borate or 3-(9-(4-t-butyl-phenyl)-9H-carbazole) pinacol borate in good yields of 70-80%.
+3-004	Their chemical structures were fully characterized by 1H NMR, 13C NMR, mass spectrometry, and elemental analysis (see the Experimental Section).
+3-005	The excellent thermal stability of the compounds is indi- cated by their high decomposition temperatures (Td, cor- responding to 5% weight loss) of 511 °C for FATPA-T and 506 °C for FATPA-Cz in the thermogravimetric analysis (TGA).
+3-006	Distinct glass transition temperatures (Tg) were observed at 237 °C for FATPA-T and 272 °C for FATPA-Cz from the differential scanning calorimetry (DSC), which are much higher than the parent core FATPA (178 °C).
+3-007	To our knowledge, these values are among the highest Tg for hole-transporting materials to date.[12]
+3-008	The bulky star-shaped molecular configuration and the aryl peripheries on the rigid FATPA core could cause entan- glement in the amorphous state and hinder recrystalliza- tion, which is highly desirable to improve the efficiency and lifetime of OLEDs, especially for high-temperature applications of devices.[13]
+3-009	in toluene solution and film state, and the photophysical data are summarized in Table 1.
+3-010	Both compounds show almost no absorption beyond 400 nm.
+3-011	The high optical transparency to visible light allows the passage of light emitted from the device to ensure a high light collecting efficiency.
+3-012	The energy gaps are evaluated from the onset of optical absorption of thin films to be 2.88 and 3.02 eV for FATPA-T and FATPA-Cz, respectively.
+3-013	FATPA-T shows the significantly red-shifted absorption and emission, as well as the small band gap as compared to FATPA-Cz, which could be attributed to its larger conjugation than that of FATPA-Cz (Table 1).
+3-014	The oxidative electrochemical behavior of the compounds was examined by cyclic voltammetry (CV; see Figure 2).
+3-015	FATPA-T and FATPA-Cz show four and three well-defined stepwise-oxidation waves, respectively.
+3-016	Furthermore, the two compounds all exhibit the first reversible oxidation process around 0.29 V (vs Fcþ/Fc).
+3-017	Considering that the identical FATPA core of the two molecules, we assigned the first wave to the oxidation of the central triphenyl- amino core.
+3-018	Further multistep oxidations occur at the terminal triarylamine units.[14]
+3-019	Their ionization potential (IP) values estimated from E1/2 (half-wave potential) of the oxidation are -5.03 and -5.05 eV with regard to the energy level of ferrocene (4.8 eV below vacuum), which are significantly higher than that of central core FATPA (-5.22 eV),[11] hence there must be some delocalization of the charge onto one or more arms of extended structures.
+3-020	The IPs of the two new compounds are close to that of ITO (-4.70 eV), which implies that they could serve as efficient hole-injection materials.
+3-021	The electron affinity (EA) values are deduced from IP values and energy gaps to be -2.15 eV for FATPA-T and -2.04 eV for FATPA-Cz, which suggests that they could also act as efficient electron- blocking materials.
+3-022	The estimate of EA is a gross approx- imation that does not take the exciton binding energy into account.
+3-023	We initially fabricated the electroluminescent devices with a simple configuration (Structure I): ITO/HTL (50 nm)/Alq3 (40 nm)/LiF (1 nm)/Al (100 nm).
+3-024	In these devices, FATPA-T or FATPA-Cz was processed by spin-coating method to serve as hole-transport layer (HTL), and Alq3 was used as both emissive and electron-transport layer (EML and ETL).
+3-025	A reference device using NPB as HTL by vacuum vapor deposition under the identical configuration was also fabricated for comparison.
+3-026	All the devices show the exclusive green emission originating from Alq3, indicat- ing no exciplex formation at the interface of HTL/EML.
+3-027	Figure 3 shows the current-voltage-luminance (J-V-L) characteristics and current efficiency vs. current density curves of the three devices.
+3-028	The current densities and luminances of the devices with FATPA-T or NPB as HTL are very similar, while those of the device with FATPA-Cz as HTL are markedly low under the same driving voltage.
+3-029	The device based on FATPA-T and FATPA-Cz exhibit a maximum current efficiency (ηc max) of 3.39 and 4.41 cd/A
+3-030	Jiang et al.
+3-031	(Table 2), respectively, which are comparable or significantly higher as compared to the NPB-based device (3.14 cd/A).
+3-032	It is worthy to mention that the high efficiencies of the
+3-033	device were achieved by using wet technique to fabricate the hole-transporting layer, which means a more simple process and low cost in comparison with the vacuum vapor deposition for NPB.
+3-034	To gain insight into the device performances with dif- ferent HTL, we measured the hole mobilities of the star-shaped arylamines by the time-of-flight (TOF) transient photocurrent technique at room temperature.
+3-035	Both com- pounds exhibit nondispersive hole-transport characteristics as indicated by the TOF transients.
+3-036	The field-dependence of mobilities determined from the TOF transients (Figure 4) follows the nearly universal Poole-Frenkel relationship.[15]
+3-037	The hole mobilities of 3.1 10-4 cm2 V-1s-1for FATPA-Cz and 6.510-4 cm2 V-1 s-1 for FATPA-T at an electric
+3-038	field of ca. 1 105V cm-1are lower than that of the typical HTL material NPB (1 10-3 cm2 V -1 s-1).[16]
+3-039	In view of the hole-injection and hole-transport char- acters of the HTLs, the device performance could be elucidated as follows: (i) Comparing the FATPA-T and NPB, FATPA-T has a substantially lower hole injection barrier from ITO to HTL (∼0.35 eV) than NPB (∼0.9 eV) (Figure 5), whereas NPB has a significantly lower hole
+3-040	injection barrier from HTL to EML of Alq3 (0.2 eV) and a higher hole mobility than FATPA-T, the two factors are counteracted to result in the similar current densities and comparable efficiencies for the FATPA-T and NPB-based devices.
+3-041	(ii) Comparing the FATPA-T and FATPA-Cz, both have the same hole-injection barriers, but the hole mobility of FATPA-Cz is smaller than that of FATPA-T, and thus the usage of FATPA-Cz with moderate hole mobil- ity would decrease the hole current, consequently result in more balanced recombination of holes and electrons in the emitting layer.
+3-042	This point could be supported by the lower current density of the FATPA-Cz based device at the given voltage relative to those of FATPA-T or NPB-based devices as discussed above.
+3-043	Because the hole mobility of FATPA-Cz is still signif- icantly higher than electron mobility of Alq3,[17] the efficien- cies of FATPA-Cz based device were further improved by optimizing the thickness of HTL (90, 115, 135, 150 nm).
+3-044	The best performance is attained in a device with 115 nm thick HTL, and its maximum current efficiency reaches 5.81 cd/A (Figure 6).
+3-045	This indicates that the carrier balance factor is optimal in such a device.
+3-046	For thinner FATPA-Cz layer (50, 90 nm), the holes could be in excess, on the contrary, for thicker FATPA-Cz layer (135, 150 nm), the electrons could be overflow.
+3-047	Another possible origin of the high device efficiency for FATPA-Cz could be attributed to its efficient electron- blocking function.
+3-048	To confirm the assumption, device struc- ture II: ITO/HTL(115 nm)/Alq3 (5, 15, 25, or 35 nm)/ DCJTB (1 nm)/Alq3 (35, 25, 15, or 5 nm)/LiF (1 nm)/Al (100 nm), was designed to measure the excitons distribution.[18]
+3-049	In structure II, a thin layer (l nm) of 4-(dicyanomethylene)-2-(t-butyl)-6-methyl-4H-pyran (DCJTB) was inserted into the EML at different distances from the interface between the EML and HTL.
+3-050	When excitons were distributed over and decayed in the layer of DCJTB, the corresponding emission spectrum represented a composite of the Alq3 and DCJTB emissions as shown in Figure 7.
+3-051	The dominant red emission at 5 nm distance away from the HTL layer indicates that the recombination zones of holes and elec- trons are near the interface of HTL/EML.
+3-052	The small hole mobility relative to electron mobility in Alq3 layer cause the recombination zone to approach the HTL, whereas the efficient electron blocking function of FATPA-Cz make the recombination occur near the interface of HTL/EML.
+3-053	In terms of the IP values of HTLs, we finally optimized the device structures by using FATPA-Cz and NPB as double hole-transport layers (Structure III): ITO/FATPA-Cz
+3-054	Turn on voltage.
+3-055	Maximum luminance.
+3-056	Maximum current efficiency.
+3-057	Maximum power efficiency.
+3-058	Maximum external quantum efficiency.
+3-059	(115 nm)/NPB (10, 20, 30, or 40 nm)/Alq (40 nm)/LiF (1 nm)/Al (100 nm).
+3-060	Hole carriers are injected in a stepwise process from the anode ITO to the first hole-transport
+3-061	layer FATPA-Cz, subsequently to the second hole-transport layer NPB, and then to the emitting layer Alq3.
+3-062	All the devices exhibit high current efficiencies with ηc max in the range of 6.03-6.83 cd/A (Figure 8).
+3-063	The high device efficiencies could be attributed to: (i) The energy barriers for hole injection are lowered by the use of double hole-transport layer structure.
+3-064	The FATPA-Cz here is referred as a hole-injection buffer layer.
+3-065	(ii) When only FATPA-Cz was used as HTL, the recombination zone was located near the interface of HTL/EML since the hole injection barrier from HTL to EML was large.
+3-066	When NPB with faster hole mobility and lower IP was inserted between FATPA-Cz and EML, the hole injection to EML became facile and the recombination zone was extended in the EML and the exciton quenching was efficiently suppressed, in consequence
+3-067	Article
+3-068	the device efficiency was further improved.[19]
+3-069	To the best of our knowledge, the maximum current efficiency of 6.83 cd/A obtained at the 10 nm NPB thickness is the highest for the Alq3-based green emission under the similar device structures until now.[20]
+3-070	Noticeably, the excellent device performance is achieved by using spin-coating method for the hole-transporting layer.
+4-001	In summary, we reported two novel star-shaped oligo- triarylamines based on a rigid planar triphenylamine core for the first time.
+4-002	The molecular design imparts the materials with the excellent thermal and morphological stabilities, good solution-processability, and low oxidation potential, which are promising properties for organic optoelectronic devices.
+4-003	Furthermore, their optoelectronic properties can be tuned by the peripheral triarylamine groups.
+4-004	Double-
+4-005	layer Alq3 emitting OLEDs using FATPA-T or FATPA-Cz as hole-transport layer by spin-coating method were fabricated, and the FATPA-Cz-based device show sig- nificantly improved performance as compared to standard NPB-based device by vacuum-evaporation of NPB.
+4-006	Three- layer Alq3 emitting OLEDs by using FATPA-Cz and NPB as double hole-transport layers exhibit high current efficiencies with ηc max in the range of 6.03-6.83 cd/A, which are the highest for the Alq3-based green emission under the similar device structures.
+4-007	The advantages of solution-processablity and very high Tg make the star-shaped oligotriarylamines ideal substitutes for conventional aryl- amines as hole-injection and hole-transport materials.

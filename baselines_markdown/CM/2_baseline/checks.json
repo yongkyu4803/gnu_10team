@@ -1,0 +1,322 @@
+{
+ "version": "hedge-baseline-0.4.4",
+ "papers": 21,
+ "items": [
+  {
+   "check": "논문 수 2~25편",
+   "result": "Pass",
+   "detail": "21편"
+  },
+  {
+   "check": "cm1002737: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 25,
+    "MET": 66,
+    "RD": 94,
+    "CON": 8
+   }
+  },
+  {
+   "check": "cm1002737: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3403
+  },
+  {
+   "check": "cm1018585: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 45,
+    "MET": 49,
+    "RD": 70,
+    "CON": 7
+   }
+  },
+  {
+   "check": "cm1018585: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2823
+  },
+  {
+   "check": "cm2019668: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 29,
+    "MET": 129,
+    "RD": 204,
+    "CON": 12
+   }
+  },
+  {
+   "check": "cm2019668: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 7360
+  },
+  {
+   "check": "cm203058p: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 37,
+    "RD": 78,
+    "CON": 11,
+    "MET": 28
+   }
+  },
+  {
+   "check": "cm203058p: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2528
+  },
+  {
+   "check": "cm300938s: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 36,
+    "MET": 165,
+    "RD": 79
+   }
+  },
+  {
+   "check": "cm300938s: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3636
+  },
+  {
+   "check": "cm3010858: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 39,
+    "MET": 36,
+    "RD": 177,
+    "CON": 7
+   }
+  },
+  {
+   "check": "cm3010858: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 5890
+  },
+  {
+   "check": "cm301095x: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 56,
+    "MET": 106,
+    "RD": 224,
+    "CON": 9
+   }
+  },
+  {
+   "check": "cm301095x: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 6514
+  },
+  {
+   "check": "cm302341m: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 32,
+    "MET": 47,
+    "RD": 72,
+    "CON": 7
+   }
+  },
+  {
+   "check": "cm302341m: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2976
+  },
+  {
+   "check": "cm303547a: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 44,
+    "RD": 115,
+    "CON": 10,
+    "MET": 36
+   }
+  },
+  {
+   "check": "cm303547a: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4018
+  },
+  {
+   "check": "cm303908f: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 49,
+    "MET": 60,
+    "RD": 137,
+    "CON": 12
+   }
+  },
+  {
+   "check": "cm303908f: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 5487
+  },
+  {
+   "check": "cm303953e: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 27,
+    "RD": 182,
+    "CON": 10
+   }
+  },
+  {
+   "check": "cm303953e: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3630
+  },
+  {
+   "check": "cm401122h: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 25,
+    "MET": 58,
+    "RD": 77,
+    "CON": 5
+   }
+  },
+  {
+   "check": "cm401122h: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2897
+  },
+  {
+   "check": "cm402381w: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 31,
+    "MET": 100,
+    "RD": 83,
+    "CON": 9
+   }
+  },
+  {
+   "check": "cm402381w: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3416
+  },
+  {
+   "check": "cm403039y: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 36,
+    "MET": 29,
+    "RD": 145
+   }
+  },
+  {
+   "check": "cm403039y: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3774
+  },
+  {
+   "check": "cm4032013: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 32,
+    "MET": 41,
+    "RD": 63
+   }
+  },
+  {
+   "check": "cm4032013: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2768
+  },
+  {
+   "check": "cm501780p: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 31,
+    "MET": 77,
+    "RD": 104,
+    "CON": 8
+   }
+  },
+  {
+   "check": "cm501780p: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3542
+  },
+  {
+   "check": "cm502991d: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 32,
+    "RD": 116,
+    "CON": 11
+   }
+  },
+  {
+   "check": "cm502991d: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2921
+  },
+  {
+   "check": "cm503203w: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 48,
+    "RD": 217,
+    "CON": 14,
+    "MET": 197
+   }
+  },
+  {
+   "check": "cm503203w: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 7662
+  },
+  {
+   "check": "cm503773j: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 28,
+    "MET": 70,
+    "RD": 157,
+    "CON": 5
+   }
+  },
+  {
+   "check": "cm503773j: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 5164
+  },
+  {
+   "check": "cm5b03197: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 73,
+    "RD": 129,
+    "CON": 8,
+    "MET": 60
+   }
+  },
+  {
+   "check": "cm5b03197: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 5217
+  },
+  {
+   "check": "cm903492k: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 47,
+    "RD": 112,
+    "CON": 8
+   }
+  },
+  {
+   "check": "cm903492k: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3751
+  }
+ ],
+ "model": "en_core_web_sm",
+ "include_abstract": false
+}

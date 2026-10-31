@@ -1,0 +1,195 @@
+# document_id: cm1002737
+# extractor: kordoc-markdown-adapter-1
+1-001	Organic light-emitting devices (OLEDs) have been widely studied in the past two decades for use in flat panel displays and more-efficient lighting products.[1]
+1-002	For lighting applications, high external quantum efficiency at low operating voltages and high brightness is required for improved energy utilization.
+1-003	High internal quantum effi- ciency (IQE) has been achieved by utilizing organome- tallic phosphorescent emitters doped into host materials, which enable harvesting of both singlet and triplet excitons.[2]
+1-004	Conductivity doping of the charge transporting layers reduces device operating voltages.
+1-005	It has been demonstrated that doping the hole transport and/or the electron transport layers in an OLED improves bulk conductivity and decreases the injection barriers at the interfaces, resulting in lower operating voltage.[3]
+1-006	There are a limited number of p-type conductivity dopants ( p-dopants) suitable for use in organic electronic hole
+1-007	transporting layers (HTLs).
+1-008	Although inorganic oxidants such as I2,[4] FeCl3,[5] SbCl5,[6] ReO3,[7] and WO3[8] have been employed as p-dopants; these dopants are highly toxic, require high evaporation temperatures, and generate mobile ions that diffuse or drift at high electric field.
+1-009	These drawbacks severely lower device efficiency and lifetime.
+1-010	A molybdenum tris(dithiolene) complex has recently been reported as a p-dopant.[9]
+1-011	Strong organic acceptor compounds such as 2,3,5,6-tetrafluoro-7,7,8,8,-tetracyanoquinodimethane (F4-TCNQ)[10] and its deriva- tive F2-HCNQ[11] have also been exploited as dopants in OLEDs.
+1-012	However, controlling doping concentration dur- ing vacuum evaporation and preventing molecular diffu- sion of dopants through the layers in a device remain a
+1-013	*Author to whom correspondence should be addressed.
+1-014	Tel.: 509-372-4895.
+1-015	Fax: 509-375-2186.
+1-016	E-mail: asanga.padmaperuma@pnl.gov.
+1-017	Published on Web 06/09/2010
+1-018	r 2010 American Chemical Society
+1-019	challenge for these molecules because of the high volati- lity and low sticking coefficient.
+1-020	These problems reinforce the need for development of less-volatile organic p-dopants that can be vacuum-processed for organic electronics appli- cations.
+1-021	Herein, we report the synthesis, photophysical, and device characteristics of the p-dopant 1,3,4,5,7,8-hexafluoro- tetracyanonaphthoquinodimethane (F6-TNAP) based on the tetracyanonaphthoquinodimethane (TNAP) core.
+1-022	TNAP has been synthesized12and its charge-transfer prop- erties studied.[12a,13] The reduction potential of this mole- cule is 0.2 V (vs SCE),[14] which is similar that of TCNQ.
+1-023	Thus, similar to TCNQ, the TNAP molecule cannot be used as a p-dopant for commonly used hole transporting materials, which require reduction potentials close to 0.5 V. Substitution of the H atoms in TNAP with F atoms yields a reduction potential closer to 0.5 V, allowing for favorable electron transfer.
+1-024	Furthermore, the increased molecular weight renders the F6-TNAP more amenable to vapor deposition than F4-TCNQ.
+1-025	To the best of our knowledge, there are no reports describing the synthesis of this compound in the chemical literature; however, the use of this compound as a conductivity dopant has been reported in the patent literature.[15]
+2-001	under N2 gas at a flow rate of 50 mL/min.
+2-002	The STA 449 Type-K thermocouples were calibrated using gallium, indium, and tin metals, and the sensitivity of the DSC signal was calibrated by heating a sapphire standard.
+2-003	2-Tert-butyl-2-[6-(1,1-dicyano-2,2-dimethyl-propyl)-1,3,4,5,7,8-hexafluoro-naphthalen-2-yl]-malononitrile (2).
+2-004	Sodium hydride (1.62 g, 40.43 mmol, 60% in mineral oil) was charged into a clean dry Schlenk flask, and then anhydrous DME 10 mL was added.
+2-005	The resulting suspension was cooled to 0 °C, and then a solution of t-butylmalononitrile (4.71 g, 38.59 mmol) in 10 mL of DME was added dropwise.
+2-006	The reaction mixture was allowed to warm to room temperature, and stirring was continued at this temperature for 30 min.
+2-007	Octafluoronapthalene (5 g, 18.37 mmol) in 10 mL of DME was added to the resulting homogeneous solution.
+2-008	When the addition was complete, the reaction was heated at reflux for 18 h.
+2-009	The reaction mixture was allowed to cool to room tempera- ture and then quenched with water (100 mL), whereupon a brown precipitate formed.
+2-010	The precipitate was filtered and rinsed with water (2 50 mL) and diethyl ether (3 30 mL).
+2-011	The resulting off- white solid was dried under vacuum to give intermediate 2 (6.70 g, 14.5 mmol) in 79% yield.
+2-012	1H NMR (500 MHz, DMSO-d6) δ (ppm): 1.29 (s, 18H).
+2-013	19F NMR (470 MHz, DMSO-d6) δ (ppm, referenced to C6F6 at -164.9 ppm): -113.2 (dd, JF-F = 73.2, 18.3 Hz, 1F), -133.8 (d, JF-F = 18.3 Hz, 1F), -147.2 (d, JF-F = 76.3 Hz, 1F).
+2-014	HRMS (ESI): calculated [MþNa] for C24H18F6N4Na, m/z = 499.1300; found, m/z = 499.1331.
+2-015	1,3,4,5,7,8-Hexafluorotetracyanonaphthoquinodimethane (F6-TNAP).
+2-016	To a refluxing solution of diphenyl ether (150 mL) was added 2-tert-butyl-2-[6-(1,1-dicyano-2,2-dimethyl-propyl)-1,3,4,5,7,8-hexafluoro-naphthalen-2-yl]-malononitrile (2) (5.0 g, 10.84 mmol) as a solid in one portion; vigorous gas evolution was observed instantly.
+2-017	The reaction was refluxed for 5 min, and then the heat source was removed to allow air cooling to 195 °C. The reaction mixture was then immersed in a water bath until the temperature reached 40 °C. At this point, 150 mL of diethyl ether were added followed by 150 mL of 4% sodium bicarbonate.
+2-018	The aqueous phase was separated and the organic phase was extracted with 2% NaHCO3 solution (2 70 mL).
+2-019	The combined bicarbo- nate fraction was filtered, and the filtrate was acidified to pH 1.0, using concentrated HCl to form a white precipitate.
+2-020	To this suspension, bromine water was added until the brownish color persisted, at which point the precipitate turned purple.
+2-021	This precipitate was collected by filtration and then washed with water until the washing reached pH ∼7.0.
+2-022	The purple solid was washed with diethyl ether (30 mL) and then dried under vacuum to give (2.7 g, 7.45 mmol) 69% yield of F6-TNAP.
+2-023	19F NMR (470 MHz, Tol-d8) δ (ppm, referenced to C6F6 at -164.9 ppm): -103.5 (d, JF-F = 79.4 Hz, 1F), -137.1 (m, 2F).
+2-024	MS (ToF-SIMS) m/z 362.02 (calcd m/z 362.00).
+2-025	Anal. Calcd for C16F6N4: C, 53.06; N, 15.47; Found: C, 53.10%; N, 15.96%.
+2-026	Synthesis and Characterization.
+2-027	All reactions were run under an atmosphere of argon, unless otherwise indicated.
+2-028	Solvents were transferred via canula or a plastic syringe.
+2-029	Flasks were oven-dried and cooled under vacuum.
+2-030	Anhydrous dimethoxy- ethane (DME) and octafluoronapthalene were purchased from Aldrich Chemical Co. and used without further purification.
+2-031	Tert-butylmalonitrile was purchased from TCI America Che- mical Co. and was used as received.
+2-032	Nuclear magnetic resonance (NMR) spectra were obtained using a Varian Oxford 500 MHz spectrometer at the following frequencies: 499.8 MHz (1H), 202.3 MHz ([31] P), 125.7 MHz (13C), and 470.2 MHz (19F).
+2-033	The chemical shifts are reported in delta (δ) units, parts per million (ppm) downfield from tetramethylsilane or appropriate solvent reference.
+2-034	Coupling constants are reported in Hertz (Hz) for 1H,[19] F, and13C spectra.
+2-035	High-resolution mass spectra (HRMS) were acquired using a LTQ Orbitrap mass spectrometer from Thermo Scientific Com- pany as m/e (relative intensity).
+2-036	Time-of-flight secondary ion mass spectra (ToF-SIMS) were obtained using a ToF-SIMS V time-of- flight secondary ion mass spectrometer (IONTOF GmbH, M€unster, Germany).
+2-037	Elemental analysis was performed by Colum- bia Analytical Services (Tuscon, AZ).
+2-038	The thermal behavior of F6-TNAP powders was studied with differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) using a Netzsch simultaneous thermal analyzer (STA 449 Jupiter).
+2-039	Powder samples with a mass of ∼5 mg were lightly pressed into the bottom of open aluminum pans and heated at 10 °C/min from 25 °C to 532 °C
+2-040	Theoretical Calculations.
+2-041	All calculations were performed using the NWChem computational package[16] at the Molecular Science Computing Facility at the Environmental Molecular Science Laboratory.
+2-042	Molecular orbitals and bond lengths were visualized using the Extensible Computational Chemistry En- vironment (ECCE),[17] which is a component of the Molecular Science Software Suite (MS[3]) developed at Pacific Northwest National Laboratory.
+2-043	Electrochemical Measurements.
+2-044	Conducted using a Princeton Applied Research model 263A potentiostat with a Ag/AgCl reference electrode, a platinum wire as the counter electrode, and glassy carbon as the working electrode (scan speeds of 20-300 mV/s).
+2-045	The potentials were measured in dichloromethane distilled over CaH2.
+2-046	Tetrabutylammonium hexafluorophosphate was used as a supporting electrolyte.
+2-047	UV-visible absorption spec- tra were collected on a Varian Cary 5 UV-vis-NIR spectrophot- ometer.
+2-048	Lowest unoccupied molecular orbital (LUMO) energy levels were estimated from solution electrochemical reduction po- tentials.
+2-049	Highest occupied molecular orbital (HOMO) levels were estimated from electrochemical oxidation potentials or the optical band gap where electrochemical measurements were not feasible.
+2-050	OLED Fabrication and Testing.
+2-051	Commercial ITO substrates (Colorado Concept Coatings, 15 Ω/sq) were cleaned by a sequential series of solvents, including a dilute Tergitol solution, deionized water, trichloroethane, acetone, and 2-propanol with sonication.
+2-052	The substrates were dried with flowing nitrogen.
+2-053	As a final cleaning step before use, the substrates were treated with UV ozone for 10 min.
+2-054	The substrates were then loaded into a nitrogen glovebox (2O, 2) coupled to a multichamber vacuum deposition system.
+2-055	Organic layers were sequentially deposited onto the ITO substrates by thermal evaporation from Ta boats in a high-vacuum chamber with base pressure below 3 10-7 Torr.
+2-056	Cathodes were defined by thermally depositing a 1-nm-thick layer of LiF, immediately followed by a 100-nm-thick layer of aluminum through a shadow mask with 1-mm-diameter circular openings.
+2-057	A quartz crystal oscillator placed near the substrate was used to monitor the thicknesses of the films, which were calibrated ex situ using ellipsometry.
+2-058	The deposited stack of organic and metal layers is depicted as ITO/350 A x% F6TNAP:R-NPD/50 A TCTA/150 A 6% FIrpic:mCP/500 A PO15/10 A LiF/1000 A Al, where x% = 0%, 1%, 2%.
+2-059	Here, the F6-TNAP doped (x%) N,N0-di-1-naphthyl-N,N0-diphenyl-1,10-biphenyl-4,40diamine (R-NPD) constitutes the hole-transporting layer (HTL).
+2-060	The emissive layer (EML) is composed of host 3,50-N,N0-dicarbazole-benzene (mCP) doped with a blue phosphor iridium(III) bis[(4,6-difluorophenyl)-pyridinato-N,C20]picolinate (FIrpic), and 2,8-bis(diphenylphosphoryl)dibenzothiophene (PO15) functions as
+2-061	a hole-blocking/electron-transporting layer (ETL).
+2-062	Devices were tested in air with electrical contact made using a tungsten probe tip on the ITO anode and a 0.002-in.-diameter gold wire directly probing the aluminum cathode.
+2-063	Current-voltage characteristics were measured with an Agilent Technologies Model 4155B semiconductor parameter analyzer.
+2-064	Light output was detected using a 1 cm2 Si photodetector placed behind the OLED, and device brightness was directly measured using a Konika-Minolta Chromameter CS-200.
+2-065	No corrections were made for light waveguided in the organic thin films or the substrate.
+2-066	EL spectra were recorded with an Acton Research Corporation (ARC) Spectrum model CCD detector on an ARC Spectra Model 150dual grating monochromator.
+3-001	Synthesis.
+3-002	Synthesis of F6-TNAP starts with nucleo- philic aromatic substitution on commercially available octafluoronaphthalene using the sodium anion of t-bu- tylmalononitrile to furnish 2-tert-butyl-2-[6-(1,1-dicyano-2,2-dimethyl-propyl)-1,3,4,5,7,8-hexafluoro-naphthalen-2-yl]-malononitrile 2 (see Scheme 1).
+3-003	Compound 2 was converted to F6-TNAP by refluxing in diphenyl ether to remove the t-butyl groups, followed by acidification of the incipient dianion, which is then treated with bromine water to provide F6-TNAP as chemically pure material, according to 19 F NMR analysis.
+3-004	Thermal Studies.
+3-005	F6-TNAP was purified by gradient sublimation under high vacuum in a Teflon-lined ceramic boat placed in a Teflon-lined glass tube to prevent undesired chemical reactions from occurring between F6-TNAP and the glass at elevated temperature.[18]
+3-006	F6-TNAP sublimes at 220-260 °C, which is significantly higher that of F4-TCNQ, which has a sublimation temperature of 135-145 °C under high vacuum (10-6 Torr).
+3-007	After sublimation, two forms of the product were isolated, in the form of purple plates and green crystals, possessing identical 19F NMR and UV-vis absorption spectra.
+3-008	The purple plates were collected at the cooler zone of the furnace below 250 °C and the green crystals at the zone above 260 °C. This indicates a possible phase change in the 250-260 °C range.
+3-009	This phenomenon has been observed in the literature for TNAP, where a purple black solid transforms to a lavender solid upon heating above 155 °C.[18] This report presumes that the lavender material of TNAP is a polymeric form.
+3-010	DSC analysis was conducted on both purple and green fractions of F6-TNAP.
+3-011	Results are shown in Figure 1a.
+3-012	The purple sample exhibits an exotherm between 240 °C and 270 °C that is not seen in the green sample.
+3-013	We attribute this exotherm to a phase change from the purple
+3-014	form to the green form.
+3-015	The TGA analysis confirms that F6-TNAP does not exhibit weight loss upon heating up to 280 °C, at which temperature decomposition occurs.
+3-016	No significant differences were observed between the mass-loss behaviors of the green and purple versions of F6-TNAP.
+3-017	Figure 1b shows both green and purple F6-TNAP before and after heating at 280 °C. As expected, most of the purple sample had turned green, whereas the green sample did not change color.
+3-018	Our experimental data (see the Supporting Information) indicates that the dif- ferent colors of these two crystals are unlikely to be due to impurities, because no difference was found in the perfor- mance of devices using F6-TNAP sublimed from these two crystal sources.
+3-019	Therefore, we speculate that these materi- als are chemically identical but differ in the morphology or molecular packing, which exists in two different phases, at
+3-020	low and high temperatures, showing purple and green colors, respectively.
+3-021	Despite the morphological differences of the green and purple F6-TNAP, single-carrier and OLED devices fabricated from either source exhibited identical performance.
+3-022	Electronic Properties.
+3-023	The geometries of F4-TCNQ and F6-TNAP were optimized at the B3LYP/cc-PVTz level.
+3-024	The energy of the HOMO and LUMO levels were calcu- lated from the optimized structures and are summarized in Table 1.
+3-025	The HOMO and LUMO energies of F6-TNAP are predicted to be -7.48 eV and -5.57 eV, respectively.
+3-026	The ELUMO of the F6-TNAP is close to that of F4-TCNQ, whereas the HOMO energy of F6-TNAP is shallower than that of F4-TCNQ, which results in a narrower bandgap for the former.
+3-027	Excitation energies of the singlet states were calculated using the time-dependent DFT method (TD- DFT) utilizing the B3LYP functional with the cc-PVTz basis set.
+3-028	The lowest energy absorbance bands of both molecules are due to the S1 r S0 transition.
+3-029	The energies of the first nonzero singlet excitation for F6-TNAP and F4-TCNQ are 1.92 and 2.45 eV, respectively.
+3-030	Thus, the TD- DFT studies predict a 0.52 eV red shift in absorbance for F6-TNAP, compared to F4-TCNQ.
+3-031	The solution absorbance spectrum of F6-TNAP was measured in CH2Cl2 (1 10-5 M) and compared to that of F4-TCNQ (Figure 2).
+3-032	The absorbance spectrum of F6-TCNQ is slightly broader and, as predicted by TD-DFT studies, the absorbance maximum is red-shifted by 89 nm (0.59 eV), compared to that of F4-TCNQ.
+3-033	The optical bandgap of the molecules were estimated from the absor- bance spectra and are shown in Table 1.
+3-034	Based on CV data and optical bandgap data, the lowest unoccupied molecular orbital (LUMO) and the highest occupied molecular orbital (HOMO) energy levels can be estimated.
+3-035	ELUMO = Eref - Ered, where Eref is the potential of the reference, relative to the vacuum level (for Ag/AgCl, -4.72 eV),[19] and Ered is the potential of the first reduction peak extracted directly from the CV data.
+3-036	Kahn reported a value of ELUMO = -5.24 eV for F4-TCNQ, using inverse photoelectron spectroscopy (IPES),[20] which is consistent with the ELUMO value estimated from CV data by Gao and co-workers.[11]
+3-037	Based on the reduction potential measured for F6-TNAP (see Figure 3), it is predicted to have a value of ELUMO of -5.37 eV, which is similar to but slightly deeper than that of F4-TCNQ.
+3-038	For effective doping, the LUMO of the dopant should be slightly lower in energy than the HOMO of the donor or host material.
+3-039	From our results, it is apparent that HTL materials for which F4-TCNQ is a suitable conductivity dopant can also be used as hosts with F6-TNAP.
+3-040	Solution Absorbance Solution Electrochemistry Theory
+3-041	material λ (nm) E (eV) E red (V)a E (eV)b E (eV)c E (eV)d E (eV)d
+3-042	max g 1/2 LUMO HOMO LUMO HOMO
+3-043	aFirst half-electron reduction potential in CH2Cl2, with respect to a Ag/AgCl electrode. b Estimated from solution electrochemistry data using the following equation: ELUMO = -4.72 - Ered. c Estimated from solution electrochemistry data and the optical gap using the following equation: EHOMO = ELUMO þ Eg.
+3-044	The measured potential for Fc/Fcþ in DCM vs Ag/AgCl electrode is þ0.44 V. d NWChem theoretical gas phase prediction.
+3-045	Absorbance Studies of the Host-Dopant Interaction.
+3-046	The UV-vis absorption spectra of undoped N,N0-di-1-naphthyl-N,N0-diphenyl-1,10-biphenyl-4,40diamine (R- NPD, 35 nm) and F6-TNAP-doped R-NPD (1% to 5%, 35 nm) films deposited on quartz are shown in Figure 4.
+3-047	The absorption spectrum of undoped R-NPD shows a strong absorption peak centered at 350 nm, while doping with F6-TNAP reveals additional absorption peaks at 475 and 950 nm, the intensity of which increases with the amount of F6-TNAP.
+3-048	The peak at 350 nm is due to the π,π* transition of R-NPD.
+3-049	These observations are simi- lar to those seen when doping R-NPD with ReO3[7] or F4-TCNQ.
+3-050	The absorption peak at 475 nm is due to the π,π* transition of R-NPD• þ which could be superim- posed with F6-TNAP.[9]
+3-051	The near-IR absorption peak at ∼950 nm is attributed to the F6-TNAP• -.
+3-052	This radical anion was assigned by reducing F6-TNAP in solution with ferrocene, which gave two near-IR absorption peaks at 970 and 1150 nm (see the Supporting Information).
+3-053	Although the intensity of the absorption band in the near IR is most evident at doping levels beyond 5%, there is evidence of charge transfer, even at lower doping levels.
+3-054	The charge transfer occurs when electrons are donated from the HOMO of R-NPD to the LUMO of F6-TNAP, leaving a mobile charge carrier (hole) on the hole trans- port material R-NPD.
+3-055	Therefore, the hole density in the hole transport layer is expected to increase upon doping with F6-TNAP.
+3-056	This should improve hole transport through the NPD layer within an OLED structure and thereby reduce the operating voltage of the OLED device.
+3-057	Single-Carrier Device Studies.
+3-058	To further evaluate the hole injection and transport characteristics of the R-NPD/F6-TNAP system, hole-only devices were fabri- cated.
+3-059	The J-V characteristics of the hole-only devices are shown in Figure 5.
+3-060	Three device architectures were tested.
+3-061	A control device (ITO/undoped R-NPD (150 nm)/Au (10 nm)/Al (150 nm)), a bulk conductivity-doped device (ITO/R-NPD:1.5% F6-TNAP (150 nm)/Au (10 nm)/Al (150 nm)), and an interface conductivity- doped device (ITO/R-NPD:1.5% F6-TNAP (5 nm)/R-NPD (145 nm)/Au (10 nm)/Al (150 nm)) were also
+3-062	fabricated and studied.
+3-063	The undoped device demon- strates typical charge transport behavior for an organic thin film.
+3-064	Upon bulk doping (the blue line), the con- ductivity of the device significantly improved with a corresponding decrease in the operating voltage.
+3-065	In the interface-doped devices (the red line), no such improve- ment to the conductivity or a reduction of the voltage was observed; the J-V properties were similar to that of the undoped (the green line) devices.
+3-066	Bulk conductivity doping gave the largest decrease in operating voltage, compared to interface doping.
+3-067	This data indicates dop- ing R-NPD with F6-TNAP enhances transport in the HTL due to the increase of charge carrier (hole) con- centration.
+3-068	The hole-only device with R-NPD:1.5% F6-TNAP/undoped R-NPD layers follows similar be- havior to that of the device with the undoped R-NPD layer, indicating that the primary contribution of F6-TNAP is to increase the bulk conductivity of R-NPD, rather than just modifying the anode/HTL interface for better charge injection.
+3-069	A similar enhancement of R-NPD bulk conductivity by p-doping with F4-TCNQ has been shown by other researchers.[21]
+3-070	Blue OLED Studies.
+3-071	To demonstrate improvement in OLED power efficiency, the F6-TNAP/R-NPD system was used as the HTL in a blue OLED.
+3-072	The emissive layer (EML) consisted of the host 3,50-N,N0-dicarbazole-ben- zene (mCP) doped with the blue phosphor iridium(III) bis[(4,6-difluorophenyl)-pyridinato-N,C20]picolinate (FIrpic).
+3-073	A wide bandgap material, 2,8-bis(diphenylphosphoryl)-dibenzothiophene (PO15), which was developed in our laboratories, was used as the hole blocking/electron-trans- porting layer (HBL/ETL).
+3-074	The device studied had the following structure: ITO/x% F6TNAP:R-NPD (35 nm)/TCTA (5 nm)/6% FIrpic:mCP (15 nm)/PO15 (50 nm)/LiF
+3-075	quantum efficiency (EQE) (denoted by solid symbols) and power
+3-076	efficiency (denoted by hollow symbols) as a function of current density
+3-077	for blue OLEDs with the following device structure: ITO/x% F6-TNAP:
+3-078	R-NPD (35 nm)/TCTA (5 nm)/6% FIrpic:mCP (15 nm)/PO15 (50 nm)/
+3-079	LiF (1 nm)/Al (100 nm), where x = 0% (black squares) and 2% (red
+3-080	triangles) F6-TNAP doped into the R-NPD HTL.
+3-081	(1 nm)/Al (100 nm), where x% is 0 and 2 wt % F6-TNAP doped into the R-NPD HTL.
+3-082	The effects of doping on the drive voltage, external quantum efficiency (EQE), and power efficiency for these OLEDs are shown in Figure 6.
+3-083	The J-V characteristics for the devices are shown in Figure 6a.
+3-084	There is a clear reduction in drive voltage upon doping R-NPD with 2 wt % F6-TNAP, which is consis- tent with increased conductivity of R-NPD upon doping with F6-TNAP, as demonstrated in Figure 5.
+3-085	At a current density of 10 mA/cm[2], the undoped device has an operat- ing voltage of 5.8 V, whereas upon doping R-NPD with 2 wt % F6-TNAP, the voltage reduces to 4.6 V. This decrease in the operating voltage is attributed to the formation of a charge-transfer complex between F6-TNAP and R-NPD and the consequent increase of hole density within HTL.
+3-086	There is a slight reduction in EQE when the HTL is doped with F6-TNAP, as seen in Figure 6b.
+3-087	Absorption of the FIrpic electroluminescence by F6-TNAP is one possible explanation for this observation, since the ab- sorption spectra of F6-TNAP overlaps with the emission spectra of FIrpic.
+3-088	However, at lower doping concentra- tions (5%, then the absorption by F6-TNAP becomes more significant.
+3-089	Since we use the
+3-090	Koech et al.
+3-091	p-dopant at very low concentrations, absorption is not expected to be an issue.
+3-092	We observe that the EQE loss upon doping varies with current density, which indicates the decrease in EQE is more likely due to imperfect charge balance (i.e., an equal number of holes and electrons in the emissive region) in the emissive layer, given the larger hole conduction caused by increased hole conductivity.
+3-093	Despite the slight reduction in EQE, Figure 6b shows that the power efficiency of the F6-TNAP-doped devices is better than that of the undoped devices.
+3-094	Thus, we have reported that conductivity doping of NPD with F6-TNAP leads to increased power efficiency in blue phos- phorescent OLEDs.
+4-001	We have reported the synthesis and chemical, photophys- ical, and electrochemical properties of 1,3,4,5,7,8-hexa- fluorotetracyanonaphthoquinodimethane (F6-TNAP).
+4-002	We have demonstrated that doping F6-TNAP into a hole transport layer (HTL) can significantly reduce the operating voltage in both hole-only devices and organic light-emitting devices (OLEDs).
+4-003	This is the first time that F6-TNAP has been demonstrated as a conductivity dopant in a blue OLED.
+4-004	In combination with its simple, low-cost, and easy- to-scale-up synthesis, F6-TNAP has the potential to improve OLED performance.
+4-005	Therefore, the use of conductivity doping is a promising approach in the push to develop OLEDs that reach the power efficiency goals for solid-state lighting.
+4-006	Future research will focus on fabricating and testing p-i-n devices, using F6-TNAP as the p-dopant, in combina-
+4-007	tion with an n-dopant in the electron transport layer (ETL).
+4-008	This approach should enhance charge balance (external quantum efficiency, EQE) and further reduce the drive voltages, leading to optimal power efficiency in blue phos- phorescent OLEDs.

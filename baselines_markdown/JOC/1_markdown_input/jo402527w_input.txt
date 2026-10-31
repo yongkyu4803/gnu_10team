@@ -1,0 +1,515 @@
+# document_id: jo402527w
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	The benzazepine scaffold is a privileged structure in medicinal chemistry and can be found in many biologically active compounds.
+1-003	Some of them are the active pharmaceutical ingredient (API) of marketed drugs, such as galanthamine, used to treat mild to moderate Alzheimer’s disease and lorcaserin, a weight-loss drug (Scheme 1).
+1-004	Within this heterocyclic group, 2-
+1-005	at C5 and a carboxy moiety at C3 are unknown.
+1-006	Many different approaches for assembling this heterocycle are known.
+1-007	Within the most recent papers, two different ring closures to give the 2-benzazepine skeleton, based on a Friedel−Crafts reaction, have been described: the first one couples 3-arylpropionamides and formaldehyde,[6] and the second one involves a 7-endo selective cyclization of vinyloxirane.[7]
+1-008	In addition, other approaches have been reported in recent years, including, for example, ring- closing metathesis[8] and lactamization.[9,10]
+1-009	In this paper, we present a new stereoselective approach to an unprecedented class of chiral seven-membered 2-benzaze- pines, namely 4,5-dihydro-1H-benzo[c]azepine of general structure 1, characterized by three adjacent stereogenic centers.
+1-010	The synthetic strategy, depicted in Scheme 2, allows the introduction of at least four diversity points.
+1-011	The key step in our synthetic plan is the three-component Ugi−Joullie reaction[11,12] using chiral, enantiomerically pure, cyclic imines 2.
+1-012	This Ugi three-component reaction has recently emerged as a powerful method for synthesizing in a stereocontrolled way and, in just one step, various druglike nitrogen heterocycles.
+1-013	Two diversity points are embodied by the appendages derived from the isocyanide and carboxylic acid components.
+1-014	The third diversity point is the heterocyclic scaffold itself resulting from the cyclic imine.
+1-015	In order to fully explore the scaffold diversity, efficient and short synthetic pathways to access a variety of chiral cyclic imines with different ring size in enantiomerically pure form are needed.
+1-016	For this purpose, the ideal methodology would be diversity-oriented as
+1-017	Received: November 14, 2013
+1-018	Published: December 11, 2013
+1-019	benzazepines have been deeply investigated in the last decades,
+1-020	and recently several interesting biological properties have been reported.
+1-021	For example, they can act as kinase inhibitors,[1] histone deacetylase inhibitors,[2] glycine transporter 1 inhibitors (antipsychotic drugs),[3] selective PPARδ agonists,[4] and inhibitors of factor Xa (anticoagulants),[5] and they may also
+1-022	be involved in new drug therapies to treat skin wounds.[6]
+1-023	While a huge variety of substituents has been introduced on
+1-024	the benzene ring and on the heterocyclic nitrogen, the diversity
+1-025	of the appendages on the seven-membered heterocyclic ring
+1-026	has been little explored to date and very few enantio- and/or diastereoselective approaches to these scaffolds have been reported.
+1-027	In particular, compounds with a nitrogen substituent
+1-028	© 2013 American Chemical Society 339
+1-029	well, allowing the introduction of additional diversity points during the construction of the cyclic imines.
+1-030	Most examples of the Ugi−Joullie reaction on enantiomeri- cally pure substrates reported to date involve chiral pyrrolines, which have been obtained either by a Staudinger/aza-Wittig reaction on acyclic precursors, derived from the chiral pool[12−17] or through enzymatic desymmetrizations[18,19] or by biocatalytic oxidation of meso-pyrrolidines.[20,21]
+1-031	On the other hand, chiral six-membered cyclic imines have been mostly used as racemates[22,23] and only in few cases in enantiomerically pure form.[24−27] In most cases, although not always, a good control of the diastereoselectivity has been observed.
+1-032	All the chiral five- membered or six-membered cyclic imines employed to date in Ugi−Joullie reactions have been prepared in a target-oriented way, without the possibility of introducing diversity prior to the multicomponent reaction.
+1-033	In the last years, we have been particularly interested in the use of isocyanide multicomponent reactions for the synthesis of seven-membered heterocycles, which represent a typical
+1-034	privileged scaffold in medicinal chemistry.
+1-035	In this context, we are developing diversity-oriented and enantioselective ap- proaches to dihydrobenz(oxa)azepines to be used as input in the Ugi−Joullie reaction.
+1-036	We have recently reported a first successful achievement of this strategy, where the imine was constructed by joining a salicylaldehyde derivative with a chiral alcohol using a Mitsunobu reaction.[28,29]
+1-037	This has represented the first example of a diastereoselective Ugi−Joullie reaction on a seven-membered cyclic imine.
+1-038	While in that work the stereochemistry of the dihydrobenzoxazepine was controlled by the starting chiral alcohol, in this report we decided to follow a truly enantioselective approach.
+1-039	To accomplish the enantioselective synthesis of imine 2 we planned to apply an organocatalytic methodology, involving an asymmetric Mannich reaction on Boc-protected imines 4, to give β-amino aldehydes 3.
+1-040	This methodology allows to introduce two diversity points and requires just two synthetic steps from readily available ureido sulfones 5.
+1-041	The latter intermediates can be prepared through an efficient sequence where the two alcoholic moieties of 6 are differentiated by a chemoenzymatic approach.
+2-001	■
+2-002	In an exploratory study we chose to synthesize first aldehyde 13 (Scheme 3).
+2-003	For our purposes we needed to differentiate the two equivalent hydroxy groups of 1,2-phenylenedimethanol 8, obtained in nearly quantitative yield from commercially available phthalide 7.
+2-004	Every attempt to selectively manipulate just one of the hydroxy groups under classical chemical conditions gave poor results[30] until we discovered that an enzymatic acylation mediated by supported porcine pancreatic lipase[31] is able to afford monoacetate 9 in excellent yield.
+2-005	Starting from this monoacetate, azido alcohol 1030 was obtained in excellent overall yield and without the need of any purification.
+2-006	The following oxidation to give 11 was successfully performed using catalytic tetraproylammonium perruthenate (TPAP) even with only 2% of the catalyst but with a 2 days reaction time.[32]
+2-007	However, a shorter reaction time (2 h) and comparable yields were obtained using a more practical (no dry solvents nor inert atmosphere needed) and less expensive
+2-008	oxidant, which is catalytic TEMPO (2,2,6,6-tetramethyl-1-piperidinyl oxide, free radical) in the presence of (diacetoxyiodo)benzene as stoichiometric oxidant.[33]
+2-009	Also thanks to the high yield (>90%) and to the purity of aldehyde 11, we decided not to isolate it because of its volatility, and after a rapid filtration over silica gel, the concentrated solution was directly used for the synthesis of ureidosulfone 12.
+2-010	The standard method to prepare these ureido sulfones,[34,35] using a large excess of aldehyde, was not practical in this case.
+2-011	After several attempts, we finally obtained good results using an excess of sodium p-toluenesulfinate and isolating 12 in pure form by precipitation after sonication of the crude reaction mixture.
+2-012	It is worth noting that pure 12 was obtained in 44% overall yield from monoacetate 9 (five steps) using a single final purification operation (precipitation).
+2-013	The base-mediated elimination step to give the key Boc-protected imine 4 (R[1] = H) was not trivial as well, and only cesium carbonate at 40 °C[19] was successful.[36]
+2-014	The following Mannich reaction was directly performed using either L- or D-proline as the catalyst, according to List’s protocol,[34,35] and the respective aldehydes 13 or ent-13 were isolated in 77% overall yield from
+2-015	12.
+2-016	The ee, determined by HPLC on chiral stationary phase on the corresponding alcohol 14,[37] was >99% for both enantiomers.
+2-017	The absolute and relative stereochemistry of 13 and its enantiomer were established according to literature precedent.[38]
+2-018	Also the diastereoselectivity, if determined by NMR on the crude aldehyde, was excellent, but after chromatography, a significant degree of epimerization occurred.
+2-019	In our experience, 13 has a stronger tendency to epimerize than other similar products devoid of the azido group.
+2-020	We also tried the one-pot elimination−Mannich reaction, starting from 12, following the procedure reported by Cordova (KF as base).[39]
+2-021	In our hands, the reaction was sluggish, and starting 12 was completely consumed only after 63 h.
+2-022	In addition, crude 13 was an equimolar mixture of syn (ee 80%) and anti stereoisomers, and the isolated yield was only around 30%.
+2-023	The extended reaction time and the coexistence of an easily epimerizable aldehyde with a base may explain the lack of diastereoselectivity, while we
+2-024	have no explanation for the formation of several byproducts and for the low ee observed.
+2-025	In order to gain access to the anti stereoisomer of 13, we tried the “complementary” Jørgensen−Hayashi catalyst 15, known to induce the opposite relative stereochemistry with respect to proline in both aldol and Mannich reactions.[38]
+2-026	This catalyst showed poor activity: after 10 days only 20% of 13 was isolated with a 1:0.8 anti:syn ratio, while the prevailing product was aldehyde 11, arising from the decomposition of the Boc- imine.
+2-027	For reasons that will become clear below, we decided not to pursue further the synthesis of anti isomers.
+2-028	To avoid the epimerization of 13, we decided to investigate the following transformations on the crude aldehyde (Scheme
+2-029	4).
+2-030	The Staudinger/aza-Wittig reaction is an efficient method for the construction of carbon−nitrogen double bonds.[40]
+2-031	The possibility of coupling the Staudinger reduction of azides with the aza-Wittig reaction in a one-pot sequence has been applied to the synthesis of five- and six-membered cyclic
+2-032	14−16,18,24
+2-033	imines but never to build a seven-membered ring.
+2-034	The conditions previously developed in our group for the sequential Staudinger/aza-Wittig/Ugi−Joullie reaction[18] did not afford any trace of the expected products.
+2-035	An extensive investigation of the reaction outcome, by repeatedly recording proton spectra of the reaction mixture in the appropriate deuterated solvent (THF or toluene), unequivocally demon- strated the instability of imine 16.
+2-036	After careful optimization (see Table 1), we found that the most important factor was a very short reaction time (30 min) for the Staudinger/aza-Wittig reaction.
+2-037	For this step we found that PPh 3 at 0 °C in THF represents the best conditions.
+2-038	However, the following MCR could not be performed in THF because the reaction was too slow in this solvent.[15,29]
+2-039	On the other hand, the use of methanol, one of the solvents of choice for the Ugi reaction, for both steps, afforded 19 only in traces.
+2-040	Eventually, the best results were obtained by a quick evaporation of THF, followed by addition of methylene chloride, a solvent often used in MCRs on other cyclic imines.[15,20,41]
+2-041	The possible competition with the Passerini reaction, favored by less polar solvents,[42] was not a problem, since we were working on a preformed imine.
+2-042	In
+2-043	temp (°C) yield
+2-044	(Staudinger/ solvent dr of 19c entry phosphine aza-Wittig) (Ugi)a (19a:19b:19c)b (%)
+2-045	1
+2-046	2
+2-047	3
+2-048	4
+2-049	PPh3
+2-050	PPh3
+2-051	PPh3
+2-052	PPh3
+2-053	rt
+2-054	rt
+2-055	rt
+2-056	rt
+2-057	19
+2-058	18
+2-059	13
+2-060	14
+2-061	aAll reactions performed at rt. bBy HPLC. cIsolated yields from 12 of
+2-062	the whole stereoisomeric mixture of 19. dResults of the one-pot procedure from 12 to 13 using KF as base.
+2-063	the end, we were able to obtain a good overall yield of benzazepines 19 (58% from 12 for four steps).
+2-064	As far as stereoselectivity was concerned, we expected the formation of two diastereomers, hopefully in a good ratio, thanks to the close position of the preexisting stereogenic centers.
+2-065	We were therefore quite surprised when the crude reaction mixture displayed the presence of three isobaric (HPLC−MS) compounds, with one of them highly prevailing.
+2-066	The major stereoisomer was very easily separated from the other two by chromatography, whereas the obtainment in pure form of the other two was rather difficult, but eventually feasible.
+2-067	Analysis
+2-068	of 1H and 13C NMR spectra, also supported by computational methods, allowed us to assign structures 19a to the major product and 19b and 19c to the minor ones (a detailed discussion is reported in the Supporting Information).
+2-069	Starting from 13, we expected to obtain 19b and 19c, but the prevailing product was 19a instead, with the opposite configuration at C4 (with respect to 16).
+2-070	The most likely explanation of our experimental results is an equilibration between the two epimeric imines 16 and 18, through the enamine 17.
+2-071	This hypothesis is corroborated by semiempirical calculations carried out on 16, 17, and 18 (see the Supporting Information), which indicated the following order of stability: 17 > 18 ≈ 16.
+2-072	Moreover, when we started from a nearly 1:1 syn/anti mixture
+2-073	of aldehydes (derived from the poorly stereoselective one-pot Mannich reaction accomplished in the presence of potassium fluoride), the diastereomeric ratio between 19a, 19b, and 19c
+2-074	was nearly the same (Table 1, entry 8).
+2-075	This result suggests a fast pre-equilibrium between the three species.
+2-076	Due to this equilibration, the search for an appropriate organocatalyst able to afford the anti stereoisomer of 13 was useless.
+2-077	From our evidence we cannot decide whether the preference for diastereomer 19a relative to 19b,c derives from the fact that pre-equilibrium favors 18 (thermodynamic control) or from a faster reaction of 18 compared to 16 (kinetic control).
+2-078	However, we guess that the second hypothesis is more likely, in view of the similar energy of 16
+2-079	and 18 as deduced from our calculations.
+2-080	From the stereo- chemical results it is clear that cis imine 18 undergoes a highly diastereoselective Ugi−Joullie reaction (19d was not detected
+2-081	at all), whereas the reaction of the corresponding epimeric trans imine 16 is less diastereoselective.
+2-082	The calculations reported in
+2-083	the Supporting Information indicate that both imines 16 and
+2-084	18 should exist essentially in a single conformation, depicted in Figure 1.
+2-085	In 18 attack from the bottom, leading to 19a, is
+2-086	expected to be highly favored.
+2-087	On the other hand, for trans imine 16, a clear preference for one of the two diastereotopic faces can not be envisaged because the upper face is encumbered by the axial NH(Boc) group, whereas the lower face is encumbered by the axial methyl group.
+2-088	This fact probably makes reaction of 16 slower compared to 18.
+2-089	Eventually, under the best conditions, the major stereoisomer 19a was obtained in 64% ratio with respect to the other two (entry 5).
+2-090	We also demonstrated, by 1H NMR of Mosher amides derived from 19a, that its ee corresponds with that determined on the Mannich aldehyde 13 (through the corresponding alcohol 14).
+2-091	In order to study the scope of our procedure, apart from using diverse aldehydes, isocyanides, and carboxylic acids, we also planned to synthesize different ureido sulfones, charac- terized by the presence of a derivatizable group on the aromatic ring.
+2-092	We therefore targeted regioisomers 26 and 27 (Scheme 5) through a regiodivergent approach starting from 5-bromoph- thalide 20 that was reduced with LiBH4 to avoid the loss of bromine from the aromatic ring, which occurred in part using LiAlH 4 instead.
+2-093	This time, the two hydroxy groups are no longer equivalent, and therefore, a problem of regioselectivity arose.
+2-094	We again found valuable help in the enzymatic catalysis, and some representative results are reported in Table 2 (more information is available in the Supporting Information).
+2-095	Several parameters have been varied: the reaction (acylation or hydrolysis), the lipase, and its amount with respect to substrate, temperature, and reaction time.
+2-096	this strategy is less convenient from the point of view of step and atom economy.
+2-097	Therefore, for preparative reactions, we preferred to perform acetylations.
+2-098	The transformation of 22 and 23 into 26 and 27 followed exactly the same strategy reported in Scheme 3 on compound
+2-099	9.
+2-100	The yields of ureido sulfones 26 and 27 were in this case lower, most likely for the difficulty to precipitate them from the reaction mixture.
+2-101	Another point of diversity that was considered is the aldehyde to be used as donor in the organocatalytic Mannich reaction.
+2-102	Using hydrocinnamaldehyde we obtained comparable results with only a small decrease of diastereoselectivity starting from the bromine-bearing ureido sulfones 26 and 27 (Scheme
+2-103	6).[44]
+2-104	On the contrary, when we switched to the branched
+2-105	isovaleraldeyde, no reaction occurred at all with ureidosulfone
+2-106	12.
+2-107	This aldehyde was chosen hoping to obtain a cyclic imine less prone to be converted into the enamine.
+2-108	However, the observed result is really unexpected as isovaleraldehyde behaves as a good donor with several Boc-imines with different substituents on the aromatic ring (also in ortho position) but lacking the azidomethyl group.[19]
+2-109	The possibility of increasing the diversity is ensured by the Ugi−Joullie reaction: actually, we synthesized a small library of 4,5-dihydro-1H-benzo[c]azepines by changing, in addition to the cyclic imine, the isocyanide and the carboxylic acid.
+2-110	Contrary to what we have done in the optimization step, we preferred to isolate and purify the Mannich aldehyde.
+2-111	Even if a bit longer, this procedure allowed to obtain the final products with a higher overall yield and a higher degree of purity.
+2-112	Thanks to the fact that the diastereomeric ratio of the final products is independent from the syn/anti ratio of the Mannich product,
+2-113	We were not able to obtain a single regioisomer unless at a very high degree of conversion, but this was at the expense of the yield.
+2-114	Eventually, the best compromise was a conversion around 50%, which implies an acceptable ratio between the two regioisomers in such a way that the chromatographic separation becomes straightforward enough.
+2-115	Depending on the lipase, the acylation afforded preferentially 22 (vinyl acetate as acyl donor) and 28 (vinyl butyrate as acyl donor) or 23 (vinyl acetate) and 29 (vinyl butyrate): with supported PPL and CAL 22 and 28 prevailed (entries 2, 4, and 5).
+2-116	On the contrary, supported lipase Amano PS[43] and lipase Amano AK gave larger amounts of 23 and 29 (entries 1 and 3).
+2-117	We also studied the monohydrolysis of either diacetate 30 or dibutyrate 31, prepared by standard acylation of 21 in 93% and 89% yield.
+2-118	The results were less encouraging, and most of all,
+2-119	5 21 28, 29 CAL vinyl butyrate 22 10 6 68:32 76 62
+2-120	6 30 22, 23 CAL buffer/iPr2Od 29 20 15 21:79 20 85
+2-121	7 31 28, 29 CAL buffer/iPr2Od 29 10 19 12:88 25 33
+2-122	aKey: lipase Amano PS, from Burkholderia cepacia; lipase Amano AK, from Pseudomonas fluorescens; PPL, lipase from porcine pancreas; CAL, lipase from Candida anctartica; S-PPL or S-Amano PS, lipase supported on Celite. bDetermined by 1H NMR. cConversion is the ratio of acylated hydroxy groups vs initially present hydroxy groups (acylation) or the ratio of hydrolyzed acyl groups vs initially present acyl groups (hydrolysis). dpH(buffer): 7.0; ratio (buffer/cosolvent): 9:1.
+2-123	The Journal of Organic Chemistry Article
+2-124	aliphatic, and functionalized ones) and carboxylic acids (including aliphatic, aromatic and heteroaromatic ones, and also N-protected different aldehydes.
+2-125	The overall yields of the Staudinger/aza- Wittig-MCR protocol are good and, in most cases, excellent.
+2-126	In all cases, we obtained a mixture of the previously described diastereomers, obtained in pure form by chromatography, always prevailing.
+2-127	The average ratio to around 5:1 (entry 12).
+2-128	Within the minor stereoisomers, one of them, presumably amino with stereoisomer a:(b + b, is sometimes highly prevailing. acids) have a, c) ranges from a minimum of 2:1 up been combined with which was very easily 45 The noticeable variety of the decorations introduced in these scaffolds demonstrates the robustness of this highly convergent methodology.
+2-129	We also wanted to demonstrate that the presence of a bromine atom on the aromatic ring ( further derivatization.
+2-130	As shown in Scheme 7, the possibility of forming a new C(sp 2 )− 47a 2 C(sp ) bond by means of a Suzuki ) may be exploited for coupling.
+2-131	This enables, after easy chromatography, the isolation in good overall yield of a single stereoisomer (out of eight) of a new heterocyclic structure endowed with three contiguous stereogenic centers.
+2-132	It is also worth noting that the sequence coupling ( 48) has been fully proved. from the o-azido benzyl alcohols 10, 24, and 25 to the final products requires just two separation steps and that the final products can be further derivatized using the NHBoc group or ■ CONCLUSION the bromine present on derivatives 45, 46, or 47 .
+2-133	In conclusion, we developed a new method for fast assembly of a new family of seven-membered heterocycles.
+2-134	Our strategy EXPERIMENTAL SECTION ■ relies on the possibility of synthesizing, in high enantiomeric General Experimental Methods.
+2-135	NMR spectra were taken in excess, unknown custom-made azido aldehydes by an organo- 1 13 CDCl 3 or in DMSO- d6 at 300 MHz ( H) and 75 MHz ( C) using, as catalytic procedure.
+2-136	These aldehydes then undergo a chemically 1 internal standard, TMS ( H NMR in CDCl 3; 0.000 ppm), the central efficient and operationally simple one-pot sequence involving a peak of DMSO (1H NMR in DMSO- d6; 2.506 ppm), the central peak Staudinger/aza-Wittig reaction followed by an Ugi−Joullie of CDCl 3 (13C in CDCl 3; 77.02 ppm), or the central peak of DMSO 344 dx.doi.org/10.1021/jo402527w \|J. Org.
+2-137	Chem. 2014,79,339−351
+2-138	The Journal of Organic Chemistry Article (13C in DMSO-d6; 39.43 ppm).
+2-139	Chemical shifts are reported in ppm then it was treated with saturated aqueous NH 4Cl (100 mL) and (δ scale); coupling constants are reported in hertz.
+2-140	Peak assignments extracted with CH2Cl2 (2 × 100 mL).
+2-141	The combined organic phases were also made with the aid of gCOSY and gHSQC experiments.
+2-142	In an were washed with brine (100 mL), dried (Na2SO4), and concentrated.
+2-143	ABX system, the proton A is considered upfield and the B proton is The crude was taken up in dry DMF (34 mL), treated with NaN 3 considered downfield.
+2-144	IR spectra were recorded as CHCl 3 solutions or (4.37 g, 67.26 mmol), stirred for 18 h at room temperature, diluted directly on solid, oil, or foamy samples, with the ATR (attenuated total with H2O (100 mL), and extracted with Et 2O (2 × 100 mL).
+2-145	The reflectance) technique.
+2-146	TLC analyses were carried out on silica gel combined organic phases were dried (Na2SO4) and concentrated.
+2-147	To a plates, viewed at UV (λ = 254 nm) and developed with Hanessian solution of this crude in MeOH (200 mL) at 0 °C was added a 1 M stain (dipping into a solution of (NH4)4MoO 4·4H2O (21 g) and solution of KOH in MeOH (50.5 mL, 50.5 mmol).
+2-148	The reaction Ce(SO 4)2·4H2O (1 g) in H2SO4 (31 mL) and H 2O (469 mL) and mixture was stirred for 1 h at 0 °C and then treated with saturated warming), or (only for compounds 13, 32 −34) with ninhydrin aqueous NH4Cl (100 mL), and most of the MeOH was evaporated (ninhydrin (900 mg) in n-BuOH (300 mL) and AcOH (9 mL), under reduced pressure.
+2-149	The aqueous phase was extracted with Et2O followed by warming.
+2-150	R f values were measured after an elution of 7 − 9 (3 × 80 mL), washed with H2O (80 mL), dried (Na2SO4), and cm.
+2-151	GC−MS were carried out using an HP-1 column (12 m long, 0.2 concentrated to give azido alcohol 10 as a colorless oil (4.83 g, 88%). mm wide), electron impact at 70 eV, and a mass temperature of about The analytical data conform to those reported in literature.48 170 °C. Only m/z > 33 were detected.
+2-152	All analyses were performed tert-Butyl ((4-Methylsulfonyl)(2-azidomethyl)phenyl)- (unless otherwise stated) with a constant He flow of 1.0 mL/min with carbamate (12).
+2-153	To a solution of (2-azidomethyl)benzyl alcohol initial temperature 50 °C, initial time 2 min, rate 20 °C/min, final (10) (4.04 g, 24.8 mmol) and TEMPO (2,2,6,6-tetramethyl-1- temperature 260 °C, inj temperature 250 °C, det temperature 280 °C. piperidinyl oxide, free radical, 387 mg, 2.48 mmol) in dry CH 2Cl2 HPLC analyses for the determination of enantiomeric ratios were (25 mL) at 0 °C was added (diacetoxyiodo)benzene (8.79 g, 27.3 performed on a DAICEL Chiral Pak AD 250 × 4.6 mm column, at mmol).
+2-154	The solution was stirred for ca. 10 min and then for 1 h at 25−28 °C with a flow of 1 mL/min (UV detection at λ = 220 nm). room temperature.
+2-155	The reaction mixture was diluted with Na 2S2O3 0.4 HPLC−MS analyses were performed on Synergi Hydro RP 150 × 3 M solution (50 mL) and extracted with CH2Cl2 (2 × 100 mL).
+2-156	The mm column, at 30 °C with a flow of 0.5 mL/min (where not otherwise organic phase was washed with saturated aq NaHCO3 (80 mL), dried stated).
+2-157	For MS the ESI+ ionization method was used.
+2-158	HRMS were (Na2SO4), and concentrated.
+2-159	The residue was filtered through a performed employing an ESI+ ionization method and TOF as column of silica gel (60 g) and eluted with 4:1 PE−Et2O to give a analyzer.
+2-160	Column chromatography was performed with the “flash ” solution of 2-(azidomethyl)benzaldehyde (11) that was concentrated methodology using 220−400 mesh silica.
+2-161	Petroleum ether (40 −60 °C) to about 5−6 mL at about 100 mbar (it was not completely evaporated is abbreviated as PE.
+2-162	All reactions employing dry solvents were carried at higher vacuum because of its relative volatility).
+2-163	After dilution with out under a nitrogen atmosphere.
+2-164	Amano PS and AK enzymes were a methanol (10 mL), H2O (20 mL), sodium p-toluenesulfinate (5.30 g, kind gift of Amano-Mitsubishi Italia.
+2-165	Lipase from Candida antarctica 29.7 mmol), tert-butyl carbamate (2.90 g, 24.8 mmol), and finally, (Novozym 435) was a kind gift of Novo Nordisk. formic acid (1.12 mL, 29.7 mmol) were added.
+2-166	The reaction mixture 1,5-Benzenedimethanol (8).
+2-167	To a suspension of LiAlH 4 (3.33 g, was vigorously stirred at room temperature for 48 h, diluted with H2O 87.69 mmol) in Et2O (130 mL) at 0 °C under nitrogen atmosphere (30 mL), and sonicated for 30 min.
+2-168	The resulting fine crystalline solid was added dropwise (30 min) a solution of phthalide (6.43 g, 48.71 was filtered through a sintered funnel and washed first with H2O and mmol) in dry THF (30 mL).
+2-169	The mixture was allowed to reach room then with Et 2O/pentane to give ureidosulfone 12a as a white powder temperature over a period of 3 h, and then it was cooled to 0 °C and (5.16 g, 12.4 mmol, 50%).
+2-170	This compound was relatively stable as a carefully quenched with a solution of NaOH (3.99 g, 13.4 mL of H 2O; solid at low temperature but tended to rapidly decompose in solution added dropwise in 45 min).
+2-171	The mixture was diluted with THF (40 in the presence of traces of water.
+2-172	Therefore, only fast 1H NMR were mL), stirred for 3 h, filtered on a sintered funnel, and washed with recorded.
+2-173	For the same reason, HRMS (ESI+) and elemental analysis THF.
+2-174	In order to fully recover the product, which in part remains were not feasible.
+2-175	Only p-toluenesulfinic acid was detected at HRMS. adsorbed on the aluminates, they were dissolved in 1 M HCl (20 mL) Mp: 124.1−124.7.
+2-176	IR (ATR): ν = 3372, 2987, 2953, 2227, 2100, 1701, and extracted with EtOAc (3 × 40 mL).
+2-177	The organic phase was dried 1508,1491,1463,1455,1433,1363,1338,1315,1307,1290,1278, over Na2SO4 and united with the THF filtrate above.
+2-178	Evaporation to 1244, 1159, 1140, 1083, 1047, 1019 cm−1.
+2-179	1H NMR (CDCl3, 25 °C): dryness gave 8 (6.58 g, 98%) as a white solid: mp 68.1 −4669.4 °C. The δ = 8.32 (d, J = 8.2 Hz, 2H, H ortho to SO2),7.62−7.55 (m, 1H, analytical data conform to those reported in literature. aromatic H),7.49−7.36 (m, 3H, aromatic H), 7.35 (d, J = 8.2 Hz, 2H, 2-(Hydroxymethyl)benzyl Acetate (9).
+2-180	Diol 8 (5.54 g, 40.1 H meta to SO2), 6.29 and 5.85 (AB syst, J = 10.7 Hz, 2H, ArCH and mmol) was dissolved in vinyl acetate (60 mL) and diisopropyl ether NH), 4.66 and 4.48 (AB syst, J = 14.1 Hz, 2H, CH2N3), 2.43 (s, 3H, (120 mL) and treated with 2.00 g of pig pancreatic lipase (PPL, 31 CH3), 1.25 (s, 9H, C(CH3)3).
+2-181	Sigma) supported on Celite as previously described.
+2-182	[(SPPL-4): 1 g tert-Butyl ((3R,4R,5S)-3-(tert-Butylcarbamoyl)-2-(5-chloro- of this supported enzyme corresponds to 0.23 g of crude PPL].
+2-183	After thiophene-2-carbonyl)-4-methyl-2,3,4,5-tetrahydro-1H-benzo- being stirred for 40 h at rt (when the amounts of starting 8 and of its [c]azepin-5-yl)carbamate (19a) and Its Diastereoisomers 19b diacetate seem equal at TLC), the suspension was filtered through a and 19c.
+2-184	Ureidosulfone 12 (388 mg, 0.93 mmol) in dry THF (9 mL) sintered funnel.
+2-185	The filtrate was evaporated and chromatographed was treated, under a nitrogen atmosphere, with Cs2CO3 (763 mg, 2.34 (PE/Et2O 75:25) to give pure 9 as an oil (6.60 g, 91%).
+2-186	A partial mmol).
+2-187	The mixture was warmed at 40 °C and stirred for 2 h, then 47 filtered on a sintered funnel, washed with CH Cl , and concentrated. characterization of 9 has already been reported.
+2-188	Rf = 0.40 (PE/Et2O 2 2 25:75).
+2-189	IR: see literature.
+2-190	1H NMR (CDCl3, 25 °C): δ = 7.50−7.30 The residue was dissolved in dry CH3CN (9 mL), cooled to 0 °C, and (m, 4 H); 5.24 (s, 2 H, CH2OAc); 4.76 (d, J = 6.0 Hz, 2 H, C H2OH); treated with propanal (142 μL, 1.98 mmol) and L-proline (23 mg, 13 0.198 mmol) for 44 h at 0 °C. The crude was then diluted with H O, 2.10 (s, 3 H, CH3CO); 2.07 (t, J = 6.0 Hz, 1 H, O H).
+2-191	C NMR 2 (CDCl3, 25 °C): δ = 170.8 (CO), 139.3, 133.8 (quat), 129.8, 128.9, extracted with CH2Cl2, dried (Na2SO4), and concentrated.
+2-192	The dr was determined as 97:3 on the crude by 1H NMR.
+2-193	The residue was eluted 128.8, 128.2 (aromatic CH), 63.9 (CH2OAc), 62.9 ( CH2OH), 21.0 (CH3).
+2-194	GC−MS (initial temp 80 °C, initial time 2 min, rate 20 °C/ from a column of silica gel with 6:1 PE/EtOAc to give 13 (229 mg, + 77%), which was directly submitted to the next Staudinger/aza-Wittig/ min, final temp 260 °C): tR 6.36 min. m/z: 162 (M −18, 1.1); 120 (100); 119 (58); 92 (5.4); 91 (33); 77 (13); 65 (6.8); 51 (4.4); 43 Ugi−Joullie sequence (due to the partial epimerization during the (31).
+2-195	Anal. Calcd for C10H12O3: C, 66.65; H, 6.71.
+2-196	Found: C, 66.7; H, purification step it was not possible to characterize 13).
+2-197	This crude 6.8. aldehyde (229 mg, 0.72 mmol) was dissolved in dry THF (18 mL). 2-(Azidomethyl)benzyl Alcohol (10).
+2-198	A solution of monoacetate Triphenylphosphine (227 mg, 0.86 mmol) was added at room 9 (6.06 g, 33.6 mmol) in dry CH2Cl2 (100 mL) was cooled to −30 °C temperature.
+2-199	The reaction mixture was stirred for 30 min and then and treated with Et 3N (6.10 mL, 43.72 mmol) and methanesulfonyl rapidly concentrated under reduced pressure.
+2-200	The residue was chloride (3.12 mL, 40.36 mmol).
+2-201	The mixture was stirred for 2 h, and immediately dissolved in CH2Cl2 (1.8 mL) and treated with 5- 345 dx.doi.org/10.1021/jo402527w \|J. Org.
+2-202	Chem. 2014,79,339−351
+2-203	The Journal of Organic Chemistry Article
+2-204	chloro-2-thienoic acid (129 mg, 0.79 mmol) and tert-butyl isocyanide 3.50−3.33 (m, 2H, CH2OH), 3.17−3.05 (broad s, 1H, OH), 2.08− (90 μL, 0.79 mmol).
+2-205	Then it was stirred at room temperature for 18 h, 1.93 (m, 1H, H-2), 1.42 (s, 9H, C(CH3)3), 0.90 (d, J = 6.8 Hz, 3H, diluted with saturated aq NaHCO 3, extracted with CH2Cl2, dried CH3).
+2-206	13C NMR (CDCl3, 25 °C): δ = 156.1 (CO), 139.9, 132.9 (2 (Na2SO4), and concentrated.
+2-207	The diastereomeric ratio was determined quat), 130.1, 128.6, 127.4, 126.4 (4 aromatic CH), 80.1 (C(CH3)3), as 64:22:14 (19a:19b:19c) by reversed-phase HPLC on this crude 64.7 (C-1), 52.3 (CH2N3), 50.1 (C-3), 41.0 (C-2), 28.3 (C(CH3)3), mixture: tR (19a) = 8.44 min, tR (19b) = 6.80 min, tR (19c) = 5.85 11.3(CH3).
+2-208	HRMS (ESI+) m/z: [M + Na]+ calcd for C16H24N4O3Na min.
+2-209	The crude product was purified by chromatography using 6:1 343.1746, found 343.1743.
+2-210	PE−Et2O to give first 19a (198 mg, 53% from 13, 41% from 12) as a Determination of Enantiomeric Excess of Diastereomer 19a. white foam and then the mixture of 19b and 19c (112 mg, 30% from Product 19a (10 mg, 24 μmol), obtained using L-proline as the catalyst 13, 23% from 12).
+2-211	Analytically pure samples of 19b and 19c were for the Mannich step, was treated with 1:2 TFA/CH2Cl2 (1.5 mL).obtained by repeated chromatographies on silica gel using 4:1 PE/ The mixture was stirred at room temperature for 30 min and then EtOAc.
+2-212	(3R,4R,5S) Diastereomer 19a.
+2-213	Rf = 0.57 (PE/Et2O 1:1). coevaporated with n-heptane.
+2-214	The crude was solubilized in dry CH2Cl2 [α][20]D +81.5 (c 1.1, CHCl3).
+2-215	IR (ATR): ν = 3343, 2969, 2932, 1703, (1 mL) and treated with 4-(dimethylamino)pyridine (DMAP) (12 mg, 1673,1610,1588,1543,1481,1431,1389,1364,1315,1222,1153, 96 μmol) and (R)- or (S)-α-methoxy-α-trifluoromethylphenylacetyl 1101, 1065, 1009 cm−1.
+2-216	1H NMR (d6-DMSO-d6, 70 °C): δ = 7.56 chloride (7 μL, 36 μmol).
+2-217	The mixture was stirred at room (broad s, 1H, NHtBu), 7.28−7.15 (m, 4H, aromatic H), 7.11 (d, J = temperature for 1 h and then it was concentrated.
+2-218	The crude was 4.0 Hz, 1H, H thienyl), 7.05 (d, J = 4.0 Hz, 1H, H thienyl), 6.69 purified by preparative TLC (PE−Et2O 2:3) to give the corresponding (broad s, 1H, NHBoc), 5.17 (d, J = 9.3 Hz, 1H, H-5), 5.08, 4.84 (AB Mosher amides.
+2-219	The ee (97.3%) was determined by reversed-phase syst, J = 16.1 Hz, 2H, H-1), 4.61 (d, J = 6.5 Hz, 1H, H-3), 2.64 (dq, Jd HPLC on the (S) Mosher amide, obtained starting from the (R) = 6.5, Jq = 6.3 Hz, 1H, H-4), 1.42 (s, 9H, Boc), 1.34 (s, 9H, C(CH3)3), Mosher chloride.
+2-220	Conditions: column phenyl C6 150 × 3 mm, 3 μm.0.74 (broad s, 3H, CH3).
+2-221	13C NMR (DMSO-d6, 70 °C): δ = 168.9, Flow: 0.34 mL/min.
+2-222	Temperature: 25 °C, isocratic elution with 163.0, 154.8 (3 CO), 139.9, 136.0, 134.7, 131.5 (quat), 128.3, 126.9, MeOH/H 2O 70:30, Detection: UV (280 nm). tR 36.59 min. tR of (R) 126.5, 126.2 (aromatic CH), 77.8 (C(CH3)3), 61.9 (C-3), 54.2 (C-5), amide: 34.47 min (see the Supporting Information for the HPLC50.2 (quat), 48.3 (C-1), 37.9 (C-4), 28.1 (CH3 of tBu), 27.8 (CH3 of chromatograms).
+2-223	Boc), 14.4 (CH3).
+2-224	HPLC−MS: see the Supporting Information. 4-Bromo-1,2-benzenedimethanol (21).
+2-225	To a suspension of HRMS (ESI+) m/z: [M + H]+ calcd for C26H35ClN3O4S 520.2037, LiBH4 (0.45 g, 20.65 mmol) in Et2O (30 mL) at 0 °C under a nitrogen found 520.2043.
+2-226	(3R,4R,5S) Diastereomer 19b .
+2-227	Rf = 0.40 (PE/Et2O atmosphere was added dropwise (30 min) a solution of 5-1:1).
+2-228	[α][20]D −74.1(c 1.6, CHCl3).
+2-229	IR (ATR): ν = 3340, 2972, 1707, bromophthalide (2.00 g, 9.39 mmol) in dry THF (35 mL).
+2-230	The 1671,1600,1518,1455,1431,1390,1364,1244,1163,1046,1010 mixture was allowed to reach room temperature and was stirred for 44 cm−1.
+2-231	1H NMR (DMSO-d6, 70 °C): δ = 7.33−7.18 (m, 5H, NHtBu h.
+2-232	Then the mixture was cooled to 0 °C, carefully quenched with a and aromatic H), 7.14 (d, J = 9.6 Hz, 1H, NHBoc), 7.10 (d, J = 4.0 Hz, saturated solution of NH4Cl (50 mL; added dropwise in 20 min), and 1H, H thienyl), 7.08 (d, J = 4.0 Hz, 1H, H thienyl), 5.21, 4.82 (AB extracted with Et 2O (60 mL) and EtOAc (60 mL).
+2-233	The organic phase
+2-234	140.0, 136.3, 134.3, 132.1 (quat), 128.5, 126.8, 126.7, 126.4 (aromatic 4-Bromo-2-(hydroxymethyl)benzyl Acetate (22).
+2-235	To a sol- CH), 77.6 (C(CH3)3), 62.9 (C-3), 54.8 (C-5), 50.1 (quat), 49.2 (C-1), ution of diol 21 (1.85 g, 8.55 mmol) in vinyl acetate (104 mL) at 20 37.8 (C-4), 27.9 (CH3 of tBu), 27.8 (CH3 of Boc), 15.7 (CH3). °C, porcine pancreatic lipase supported on Celite as described in HPLC−MS: see the Supporting Information.
+2-236	HRMS (ESI+) m/z: [M literature (SPPL-4)[31] (2.44 g; 1 g of this supported enzyme + H]+ calcd for C26H35ClN3 O4S 520.2037, found 520.2048. corresponds to 0.23 g of crude Lipase) was added.
+2-237	The reaction 20 mixture was stirred at 20 °C for 2 h, filtered through a sintered funnel, (3R,4S,5S) Diastereomer 19c.
+2-238	Rf = 0.38 (PE/Et2O 1:1).
+2-239	[α] D
+2-240	−16.8(c 1.2, CHCl3).
+2-241	IR (ATR): ν = 2968, 1667, 1615, 1531, and washed with CH2Cl2 (100 mL).
+2-242	The filtrate was concentrated −1 1 (regioisomers ratio 75:25 by 1H NMR analysis of the crude), and the 1429, 1366, 1260, 1200, 1131, 1009 cm .
+2-243	H NMR (DMSO-d6, 70
+2-244	°C): δ = 7.33−7.13 (m, 5H, NHtBu and aromatic H), 7.12 (d, J = 4.0 residue was eluted from a column of silica gel with PE/Et 2O (2:3) to Hz, 1H, H thienyl), 7.09 (d, J = 4.0 Hz, 1H, H thienyl), 6.24 (broad d, give first 22 (1.16 g, 52%) as a white solid and then a mixture of 22 J = 7.7 Hz, 1H, NHBoc), 4.99 (dd, J = 8.7, 7.2 Hz, 1H, H-5), 4.98, 4.87 and 23 (0.53 g, 24%) as a white solid.
+2-245	Further chromatography of (AB syst, J = 16.7 Hz, 2H, H-1), 4.80 (d, J = 6.0 Hz, 1H, H-3), 2.83 (d these mixed fractions afforded other 110 mg of 22.
+2-246	The overall yield of quint, Jq = 7.2, Jd = 6.0 Hz, 1H, H-4), 1.39 (s, 9H, Boc), 1.23 (s, 9H, was 1.27 g, 57%.
+2-247	Rf = 0.43 (PE/Et2O 3:7).
+2-248	Mp: 40.3−41.0 °C. IR C(CH3)3), 1.06 (d, J = 7.2 Hz, 3H, CH3).
+2-249	13C NMR (DMSO-d6, 70 (ATR): ν = 3230, 2866, 1728, 1689, 1482, 1455, 1404, 1385, 1360, °C): δ = 168.6, 162.7, 155.9 (CO), 138.5, 136.6, 136.0, 131.9 1254, 1207, 1176, 1104, 1086, 1051, 1025, 802 cm−1.
+2-250	1H NMR (quat), 131.2, 128.7, 128.0, 127.5, 127.1, 126.7 (aromatic CH), 77.9 (CDCl3, 25 °C): δ = 7.61 (d, J = 2.1 Hz, 1H, H-2), 7.44 (dd, J = 8.1, (C(CH3)3), 59.8 (C-3), 57.1 (C-5), 50.1 (quat), 49.6 (C-1), 36.5 (C- 2.1 Hz, 1H, H-6), 7.25 (d, J = 8.1 Hz, 1H, H-5), 5.14 (s, 2H,
+2-251	4),28.2(CH3 of tertBut), 27.9 (CH3 of Boc), 14.9 (CH3).
+2-252	HPLC− CH 2OAc), 4.72 (d, J = 5.4 Hz, 2H, CH2OH), 2.20 (t, J = 5.4 Hz, 1 H, MS: see the Supporting Information.
+2-253	HRMS (ESI+) m/z: [M + H]+ OH), 2.09 (s, 3H, CH3).
+2-254	13C NMR (CDCl3, 25 °C): δ = 170.8 (C calcd for C26H35ClN3O4S 520.2037, found 520.2041.
+2-255	O), 141.3, 132.5 (quat), 131.4, 131.3, 130.9 (aromatic CH), 122.8 (2S,3S) 3-(2-(Azidomethyl)phenyl)-3-tert-butoxycarbonyla- (quat), 63.2 (CH2OAc), 62.2 (CH2OH), 20.9 (CH3).
+2-256	GC−MS: tR 9.19 mino-2-methylpropanol (14).
+2-257	Crude aldehyde 13 (0.24 mmol), + 81 +
+2-258	min. m/z: 200 (M −60,62,( Br)), 199 (29), 198 (M −60,62, obtained as described above, was diluted with MeOH (1 mL) and 79
+2-259	( Br)), 197 (24), 171 (8.3), 169 (8.8), 92 (18), 91 (33), 90 (14), 89 treated with NaBH 4 (13.6 mg, 0.36 mmol) at 0 °C. After being stirred (16),78(8.0),77(13),65(9.1),63(9.9),51(9.5),43(100),39 for 30 min, the reaction mixture was diluted with H O, extracted with +
+2-260	2 (7.0).
+2-261	HRMS (ESI+) m/z: [M + H] calcd for C10H12BrO3 258.9970, EtOAc, dried (Na2SO4), and concentrated.
+2-262	The crude residue was found 258.9975.
+2-263	purified by silica gel column chromatography with PE/EtOAc 5:2 to 5-Bromo-2-(hydroxymethyl)benzyl Acetate (23).
+2-264	Preparation give 14 (41 mg, 54% from 12) as a colorless oil.
+2-265	HPLC on chiral of the Catalyst.
+2-266	Amano PS lipase (from Burkholderia cepacia) (3.00 g) stationary phase: hexane/iPrOH 95:5. tR = 28.80 min (tR of ent-14 was suspended in 0.067 M pH 7 buffer (phosphate) (50 mL) and 20 immediately treated with Hyflo Supercel (10 g).
+2-267	The suspension was prepared using D -proline: 25.10 min); ee > 98%.
+2-268	[α] D +15.2 (c 1.5,
+2-269	CHCl3).
+2-270	IR (ATR): ν = 3353, 2974, 2932, 2097, 1687, 1646, 1525, magnetically stirred for 15 min at rt and then allowed to stand still for 1365, 1289, 1247, 1160, 1075, 1031 cm−1.
+2-271	1H NMR (CDCl3, 25 °C): 9 h.
+2-272	The resulting suspension was frozen at −25 °C while gently δ = 7.39−7.22 (m, 4H, aromatic H),5.21−5.09 (m, 1H, H-3), 5.11 (d, manually stirring.
+2-273	The frozen mixture was then lyophilized at 10−2 J = 9 Hz, 1H, NH), 4.63, 4.52 (AB syst, J = 13.8 Hz, 2H, CH2N3), mbar.
+2-274	The resulting solid was removed from the flask, gently ground,
+2-275	and further stripped at 10−2 mbar in a desiccator over P2O5.
+2-276	Yield = 13.452 g.
+2-277	Thus, 1 g of this supported catalyst corresponds to 0.223 g of native Amano PS.
+2-278	To a solution of diol 21 (1.10 g, 5.07 mmol) in vinyl acetate (60 mL) at 10 °C was added lipase Amano PS supported on Celite as described above (0.47 g).
+2-279	The reaction mixture was stirred at 10 °C for 2 h, filtered through a sintered funnel, and washed with CH2Cl2 (80 mL).
+2-280	The filtrate was concentrated (regioisomers ratio 37:63 by 1H NMR analysis of the crude), and the residue was eluted from a column of silica gel with PE/Et2O (2:3) to give first a mixture of 22 and 23 (0.64 g, 49%) as a white solid and then 23 (0.37 g, 28%) as a white solid.
+2-281	A second chromatography of the mixed fractions afforded other 0.22 g of 23.
+2-282	Overall yield: 0.59 g (45%).
+2-283	Rf = 0.35 (PE/Et2O 3:7).
+2-284	Mp: 70.2−71.1 °C; IR (ATR): ν = 3507, 3071, 2930, 2872, 2808, 1726,1595,1567,1482,1454,1428,1406,1378,1360,1313,1245, 1210, 1179, 1114, 1086, 1042, 989 cm−1.
+2-285	1H NMR (CDCl 3, 25 °C): δ = 7.53 (d, J = 2.1 (meta) Hz, 1H, H-2), 7.46 (dd, J = 8.1 (ortho), 2.1 (meta) Hz, 1H, H-6), 7.29 (d, J = 8.1 Hz, 1H, H-5), 5.17 (s, 2H, CH 2OAc), 4.69 (d, J = 5.7 Hz, 2H, CH2OH), 2.20 (t, J = 5.4 Hz, 1H, OH), 2.11 (s, 3H, CH3).
+2-286	13C NMR (CDCl3, 25 °C): δ = 170.7 (CO), 137.8, 135.9 (quat), 132.1, 131.6, 130.3 (aromatic CH), 121.8 (quat), 62.9 (CH2OAc), 62.2 (CH2OH), 20.9 (CH3).
+2-287	GC−MS: tR 9.12 min. m/z: 200 (M+ − 60,36,(81Br)), 199 (25), 198 (M+ −60,38, (79Br)), 197 (23), 171 (6.7), 169 (6.8), 92 (14), 91 (30), 90 (14), 89
+2-288	(2-(Azidomethyl)-4-bromophenyl)methanol (24).
+2-289	Compound 24 was prepared using the same procedure described for 10, starting from 0.97 g of 22.
+2-290	Oil.
+2-291	Yield from 22: 77%.
+2-292	R f = 0.42 (PE/EtOAc 3:2); IR (ATR): ν = 3331, 2885, 2093, 1594, 1568, 1482, 1450, 1400, 1339, 1285, 1244, 1216, 1174, 1116, 1084, 1042, 1005, 821 cm−1; 1H NMR (CDCl3, 25 °C): δ = 7.50 (s, 1H, H-3), 7.48 (dd, J = 7.8 (ortho), 2.1 (meta) Hz, 1H, H-5), 7.30 (d, J = 7.8 Hz, 1H, H-6), 4.69 (broad d, J = 3.6 Hz, 2H, CH 2OH).
+2-293	13C NMR (CDCl3, 25 °C): δ = 137.8, 135.8 (quat), 132.3, 131.7, 130.6 (aromatic CH), 122.0 (quat), 62.5 (CH2OH), 51.8 (CH2N3).
+2-294	GC−MS: tR 8.94 min. m/z: 214 (M+ −29,6.3,(81Br)), 212 (M+ −29,6.2,(79Br)), 198 (21), 169 (6.4), 157 (5.9),133(10),116(69),104(18),89(100),77(81),63(54),51
+2-295	(2-(Azidomethyl)-5-bromophenyl)methanol (25).
+2-296	Compound 25 was prepared using the same procedure described for 10, starting from 740 mg of 23.
+2-297	Oil.
+2-298	Yield from 23: 78%.
+2-299	Rf = 0.41 (PE/EtOAc 3:2).
+2-300	IR (ATR): ν = 3359, 2927, 2099, 1594, 1481, 1403, 1246, 1014 cm−1.
+2-301	1H NMR (CDCl 3, 25 °C): δ = 7.61 (d, J = 2.1 Hz, 1H, H-6), 7.46 (dd, J = 8.1 (ortho), 2.1(meta) Hz, 1H, H-4), 7.21 (d, J = 8.1 Hz, 1H, H-3), 4.72 (d, J = 4.2 Hz, 2H, CH2OH), 4.41 (d, 2H, CH 2N3), 1.95 (t, J = 4.2 Hz, 1H, OH).
+2-302	13C NMR (DCl3, 25 °C): δ = 141.1, 132.3 (quat), 131.8, 131.3, 131.2 (aromatic CH), 122.8 (quat), 62.4 (CH2OH), 51.9 (CH2N3); GC−MS: tR 9.10 min; m/z: 214 (M+ − 29, 7.6,(81Br)), 212 (M+ − 29,7.3,(79Br)), 198 (30), 169 (6.6), 157 (6.5),133(9.3),116(71),104(19),92(60),89(100),77(99),63
+2-303	tert-Butyl ((4-Methylsulfonyl)(2-azidomethyl-4-bromo)-phenyl)carbamate (26).
+2-304	Compound 26 was obtained as a white powder in 26% yield starting from 550 mg of 24, using the same procedure above-described for 12.
+2-305	This compound was relatively stable as a solid at low temperature, but tended to rapidly decompose in solution in the presence of traces of water.
+2-306	Therefore only fast 1H NMR were recorded.
+2-307	For the same reason HRMS (ESI+) and elemental analysis were not feasible.
+2-308	Mp: 173.4−174.5 °C. IR (ATR): ν = 3353, 2956, 2098, 1698, 1595, 1516, 1483, 1365, 1335, 1316, 1307, 1249, 1181, 1162, 1143, 1082 cm−1.
+2-309	1H NMR (CDCl3, 25 °C): δ = 7.83 (d, J = 8.2 Hz, 2H, H ortho to SO2),7.63−7.56 (m, 2H, aromatic H),7.46−7.34 (m, 3H, aromatic H), 6.20 and 5.70 (AB syst, J = 10.4 Hz, 2H, ArCH and NH), 4.65 and 4.49 (AB syst, J = 14.4 Hz, 2H, CH2N3), 2.44 (s, 3H, CH3), 1.25 (s, 9H, C(CH3)3).
+2-310	tert-Butyl ((4-Methylsulfonyl)(2-azidomethyl-5-bromo)-phenyl)carbamate (27) (R = 4-Br).
+2-311	Compound 27 was obtained as a white powder in 35% yield starting from 400 mg of 25, using the same procedure above-described for 12.
+2-312	This compound was relatively stable as a solid at low temperature but tended to rapidly decompose in solution in the presence of traces of water.
+2-313	Therefore, only fast 1H NMR were recorded.
+2-314	For the same reason HRMS (ESI+) and elemental analysis were not feasible.
+2-315	Mp: 134.3−136.0 °C. IR (ATR): ν = 3353, 2956, 2098, 1698, 1595, 1516, 1483, 1365, 1361, 1271, 1249, 1162, 1144, 1083 cm−1.
+2-316	1H NMR (CDCl3, 25 °C): δ = 7.83 (d, J = 8.1 Hz, 2H, H ortho to SO2), 7.67 (broad s, 1H, aromatic H), 7.57 (dd, J = 8.1 (ortho), 1.8 (meta) Hz, 1H, aromatic H), 7.37 (d, J = 8.1 Hz, 2H, H meta to SO2), 7.28 (d, J = 8.1 Hz, 1H, aromatic H), 6.22 and 5.70 (AB syst, J = 10.5 Hz, 2H, ArCH and NH), 4.63 and 4.47 (AB syst, J = 14.1 Hz, 2H, CH2N3), 2.45 (s, 3H, CH3), 1.25 (s, 9H, C(CH3)3).
+2-317	1,2-Bis(acetoxymethyl)-4-bromobenzene (30).
+2-318	A solution of diol 21 (1.89 g, 8.70 mmol) in dry CH2Cl 2 (17 mL) was cooled to 0 °C and treated with pyridine (3.5 mL, 43.50 mmol) and acetic anhydride (2.5 mL, 26.10 mmol).
+2-319	The mixture was allowed to reach room temperature in 1 h and stirred at this temperature for 11 h, and then it was was treated with 1 M HCl (40 mL) and extracted with CH2Cl2 (2 × 80 mL).
+2-320	The combined organic phases were washed with brine (20 mL), dried (Na2SO4), and concentrated to give 30 (2.43 g, 93%) as a white solid, pure enough for characterization.
+2-321	Rf = 0.71 (PE/EtOAc 6:4).
+2-322	Mp: 38.5−39.7 °C (CH2Cl2).
+2-323	IR (ATR): ν = 2937, 2166, 1735,1597,1573,1485,1460,1378,1362,1260,1230,1179,1110, 1091, 1044 cm−1.
+2-324	1H NMR (CDCl3, 25 °C): δ = 7.56 (d, J = 1.8 (meta) Hz, 1H, H-2), 7.47 (dd, J = 8.4 (ortho), 1.8 (meta) Hz, 1H, H-
+2-325	6), 7.28 (d, J = 8.4 Hz, 1H, H-5), 5.15 (s, 2H, CH 2OAc), 5.13 (s, 2H, CH 2OAc), 2.12 (s, 3H, CH3), 2.09 (s, 3H, CH3).
+2-326	13C NMR (CDCl3, 25 °C): δ = 170.5 (CO), 136.7, 133.2 (quat), 132.3, 131.6, 131.4 (aromatic CH), 122.6 (quat), 63.1 (CH2OAc), 62.8 (CH2OAc), 20.9 (CH3).
+2-327	GC−MS: tR 9.54 min. m/z: 242 (M+ −60,6.1,(81Br)), 240 (M+ − 60,6.1,(79Br)), 200 (23), 198 (25), 89 (5.2), 43 (100).
+2-328	HRMS (ESI+) m/z: [M + H]+ calcd for C12H14BrO4 301.0075, found 301.0084.
+2-329	1,2-Bis(butyryloxymethyl)-4-bromobenzene (31).
+2-330	A solution of diol 21 (0.50 g, 2.30 mmol) in dry CH2Cl2 (25 mL) was cooled to 0 °C and treated with Et3N (1.7 mL, 12.19 mmol) and butyryl chloride (0.5 mL, 4.83 mmol).
+2-331	The mixture was allowed to reach room temperature for 2 h, and then it was was treated with saturated aqueous NaHCO3 (20 mL) and extracted with CH2Cl2 (2 × 50 mL).
+2-332	The combined organic phases were dried (Na2SO4) and concentrated.
+2-333	The residue was eluted from a column of silica gel with 9:1 PE/EtOAc to give 31 (0.73 g, 89%) as colorless oil.
+2-334	Rf = 0.70 (PE/EtOAc 8:2).
+2-335	IR (ATR): ν = 2965, 2876, 1736, 1597, 1571, 1487, 1458, 1417, 1382, 1303, 1252, 1165, 1087, 1042 cm−1.
+2-336	1H NMR (CDCl3, 25 °C): δ = 7.55 (d, J = 2.1 (meta) Hz, 1H, H-2), 7.46 (dd, J = 8.1 (ortho), 2.1 (meta) Hz, 1H, H-6), 7.26 (d, J = 8.1 Hz, 1H, H-5), 5.15 (s, 2H, ArCH2O), 5.13 (s, 2H, ArCH2O), 2.35 (t, J = 7.2 Hz, 2H, OCH2), 2.32 (t, J = 7.5 Hz, 2H, OCH2),1.74−1.57 (m, 4H, 2 OCH2CH2), 0.95 (t, J = 7.5 Hz, 3H, CH3), 0.94 (t, J = 7.5 Hz, 3H, CH3).
+2-337	13C NMR (CDCl3, 25 °C): δ = 173.1, 173.0 (CO), 136.8, 133.4 (quat), 132.1, 131.4, 131.2 (aromatic CH), 122.5 (quat), 62.9, 62.6 (CH2O), 36.0 (OCH2CH2),18.3(CH2CH3),13.6(CH3).
+2-338	GC−MS: tR 11.17 min. m/z: 270 (M+ − 86; 0.86 (81Br)), 268 (M+ − 86; 0.86 (79Br)), 71 (100), 44 (8.4), 43 (33), 40 (5.7).
+2-339	HRMS (ESI+) m/z: [M + H]+ calcd for C16H22BrO4 357.0701, found 357.0695
+2-340	tert-Butyl ((3R,4R,5S)-2-(3-Bromobenzoyl)-3-(butylcarbamo- yl)-4-methyl-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-carbamate (36a).
+2-341	Compound 36a was prepared from 300 mg of ureidosulfone 12 (0.72 mmol) through aldehyde 13, following the typical procedure described above for 19a. n-Butyl isocyanide and 3-bromobenzoic acid have been use in the Ugi−Joullie reaction.
+2-342	The residue was eluted from a column of silica gel with 1:1 PE/Et 2O to give first 36a (149 mg, 48% from 13, 37% from 12) as a white foam and a mixture of 36b and 36c (87 mg, 22% from 13) (foam).
+2-343	36a.
+2-344	Rf = 0.50 (PE/Et 2O 1:1).
+2-345	[α][20]D −16.3(c 1.0, CHCl3).
+2-346	IR (ATR): ν = 3317,2967,2931,1655,1621,1560,1516,1454,1422,1364,1291,
+2-347	1246, 1160, 1069 cm−1.
+2-348	1H NMR (CDCl3, 40 °C): δ = 7.57 (ddd, J = 8.0 (ortho), 1.7, 1.1 (meta) Hz, 1H, H ortho to CO), 7.48 (broad d, J = 7.5 Hz, 1H, H ortho to CHNHBoc), 7.30 (t, J = 7.5 Hz, 1H, H meta to CHNHBoc), 7.27−7.19 (m, 2H, aromatic H), 7.18 (t, J = 8.0 Hz, 1H, H meta to Br), 7.03 (broad d, J = 8.0 Hz, 1H, H ortho to Br), 6.68 (broad d, J = 7.5 Hz, 1H, H ortho to CH2), 6.60 (broad t, J = 4.9 Hz, 1H, NHnBu), 5.19 (d, J = 10.1 Hz, 1H, H-5), 4.99, 4.16 (AB syst, J = 17.2 Hz, 2H, H-1), 4.69 (d, J = 10.8 Hz, 1H, H-3), 4.47 (broad d, J = 10.1 Hz, 1H, NHBoc), 3.33 (dt, J = 6.6, 4.9 Hz, 2H, CH2NH), 3.04 (dq, J = 10.8, 6.5 Hz, 1H, H-4), 1.61−1.33 (m, 4H, 2 CH2 nBu), 1.46 (s, 9H, Boc), 1.17 (broad d, J = 6.6 Hz, 3H, CH3), 0.97 (t, J = 7.3 Hz, 3H, CH3).
+2-349	13C NMR (CDCl3, 40 °C): δ = 171.1, 169.2, 155.9 (CO), 140.2, 136.6, 136.4 (quat), 133.7, 131.9, 130.3, 129.9, 128.2, 127.7, 125.4 (aromatic CH), 122.4, 80.1 (quat), 59.4 (C-3), 57.7 (C-5), 50.6 (C-1), 39.2 (CH2), 35.5 (C-4), 31.6 (CH2),28.4(CH3 of Boc), 20.0 (CH2),16.8(CH3),13.7(CH3).
+2-350	HPLC−MS: see the Supporting Information.
+2-351	HRMS (ESI+) m/z: [M + H]+ calcd for C28H37BrN3O4 558.1967, found 558.1972.
+2-352	tert-Butyl ((3R,4R,5S)-2-Benzoyl-3-(butylcarbamoyl)-4-meth- yl-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)carbamate (37a).
+2-353	Compound 37a was prepared from 300 mg of ureidosulfone 12 (0.72 mmol) through aldehyde 13, following the typical procedure described above for 19a. n-Butyl isocyanide and benzoic acid have been use in the Ugi−Joullie reaction.
+2-354	The residue was eluted from a column of silica gel with 1:1 PE/Et2O to give first 37a (160 mg, 60% from 13, 46% from 12) as a pale yellow foam and a mixture of 37b and 37c (69 mg, 26% from 13, 20% from 12) as a yellow foam.
+2-355	37a: Rf = 0.50 (PE/Et2O 1:1).
+2-356	[α][20]D +0.4 (c 0.5, CHCl 3).
+2-357	IR (ATR): ν = 3316, 2969, 2932,1711,1665,1619,1577,1517,1494,1447,1418,1365,1232, 1160 cm−1.
+2-358	1H NMR (CDCl3, 25 °C): δ = 7.49 (broad d, J = 7.5 Hz, 1H, H ortho to CHNHBoc), 7.43 (dt, J = 7.5 (ortho), 1.0 (meta) Hz, 1H, aromatic H),7.37−7.24 (m, 3H, aromatic H), 7.16 (dt, J = 7.5 (ortho), 1.1 (meta) Hz, 1H, aromatic H), 7.11 (broad d, J = 7.3 Hz, 2H, aromatic H), 6.81 (broad t, J = 5.5 Hz, 1H, NHnBu), 6.66 (broad d, J = 7.5 Hz, 1H, H ortho to CH2), 5.19 (broad d, J = 10.0 Hz, 1H, H-
+2-359	5), 4.96, 4.23 (AB syst, J = 17.1 Hz, 2H, H-1), 4.73 (broad d, J = 10.8 Hz, 1H, H-3), 4.60 (broad d, J = 10.0 Hz, 1H, NH-Boc), 3.41−3.24 (m, 2H, CH2 nBu), 3.03 (dq, J = 10.8, 6.4 Hz, 1H, H-4), 1.61−1.33 (m, 4H, 2 CH2 nBu), 1.44 (s, 9H, Boc), 1.12 (broad d, J = 6.4 Hz, 3H, CH3), 0.96 (t, J = 7.3 Hz, 3H, CH3 nBu).
+2-360	13C NMR (CDCl3, 25 °C): δ = 172.8, 169.3, 155.9 (CO), 140.2, 136.7, 134.5 (quat), 131.9, 130.6, 128.1, 127.9, 127.6, 127.4, 127.1 (aromatic CH), 79.8 (quat), 59.2 (C-3), 57.6 (C-5), 50.5 (C-1), 39.0 (CH2 nBu), 35.3 (C-4), 31.5 (CH2 nBu), 28.3 (CH3 Boc), 19.9 (CH2 nBu), 16.8 (CH3),13.6(CH3 nBu).
+2-361	HPLC−MS: see the Supporting Information.
+2-362	HRMS (ESI+) m/z: [M + H]+ calcd for C28H38N3O4 480.2862, found 480.2868.
+2-363	tert-Butyl ((3R,4R,5S)-3-((2,6-Dimethylphenyl)carbamoyl)-4-methyl-2-propionyl-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)carbamate (38a).
+2-364	Compound 38a was prepared from 300 mg of ureidosulfone 12 (0.72 mmol) through aldehyde 13, following the typical procedure described above for 19a. 2,6-Dimethylphenylisocya- nide and propanoic acid have been use in the Ugi−Joullie reaction.
+2-365	The residue was eluted from a column of silica gel with 1:1 PE/Et 2O to give first 38a (146 mg, 55% from 13, 42% from 12) as an pale yellow foam and a mixture of 38b and 38c (77 mg, 29% from 13, 22% from 12) (foam) (this mixture was found by HPLC to contain indeed 10% of 38a).
+2-366	38a.
+2-367	R f = 0.52 (PE/Et2O 1:1).
+2-368	[α][20]D +8.6 (c 1.0, CHCl3).
+2-369	IR (ATR): ν = 3303, 2972, 1686, 1628, 1426, 1365, 1231, 1206, 1158, 1066 cm−1.
+2-370	1H NMR (CDCl3, 40 °C): δ = 7.72 (broad s, 1H, NH(CH3)2Ph), 7.47 (broad d, J = 7.1 Hz, 1H, H ortho to CHNHBoc), 7.29 (dt, J = 7.1 (ortho), 1.5 (meta) Hz, 1H, H meta to CHNHBoc), 7.22 (dt, J = 7.1 (ortho), 1.5 (meta) Hz, 1H, H meta to CH2), 7.10 (broad d, J = 7.1 Hz, 1H, H ortho to CH2),7.10−7.03 (m, 3H, aromatic H), 5.17 (broad d, J = 10.4 Hz, 1H, H-5), 4.99 (d, J = 10.9 Hz, 1H, H-3), 4.96, 4.39 (AB syst, J = 17.4 Hz, 2H, H-1), 4.38 (broad d, J = 10.4 Hz, 1H, NHBoc), 3.07 (dq, J = 10.9, 6.6 Hz, 1H, H-
+2-371	4), 2.48, 2.23 (AB part of ABX 3 syst, J = 15.0, 7.5 Hz, 2H, CH2),2.19 (s, 6H, 2 CH3), 1.46 (s, 9H, Boc), 1.24 (broad d, J = 6.6 Hz, 3H, CH3), 1.12 (t, J = 7.5 Hz, 3H, CH3).
+2-372	13C NMR (CDCl 3, 40 °C: δ = 174.5, 168.0, (CO), 140.5, 135.6, 135.1, 133.6 (quat), 132.3, 128.3,
+2-373	128.2, 127.6, 127.5, 127.3 (aromatic CH), 79.9 (quat), 58.3 (C-3), 57.8 (C-5), 48.2 (C-1), 35.0 (C-4), 28.4 (CH3 of Boc), 26.9 (CH2), 18.3(2 CH3),16.7(CH3),9.3(CH3).
+2-374	HPLC−MS: see the Supporting Information.
+2-375	HRMS (ESI+) m/z: [M + H]+ calcd for C 28H38N3O4 480.2862, found 480.2862.
+2-376	Ethyl 2-((3R,4R,5S)-5-((tert-Butoxycarbonyl)amino)-4-meth- yl-2-propionyl-2,3,4,5-tetrahydro-1H-benzo[c]azepine-3-carboxamido)acetate (39a).
+2-377	Compound 39a was prepared from 300 mg of ureidosulfone 12 (0.72 mmol) through aldehyde 13, following the typical procedure described above for 19a.
+2-378	Ethyl isocyanoacetate and propanoic acid have been use in the Ugi−Joullie reaction.
+2-379	The residue was eluted from a column of silica gel with 1:1 PE/EtOAc to give first 39a (136 mg, 53% from 13, 41% from 12) as an pale yellow foam and a mixture of 39b and 39c (77 mg, 30% from 13, 23% from 12) (foam).
+2-380	39a.
+2-381	R f = 0.55 (PE/EtOAc 1:1).
+2-382	[α][20]D −26.9(c 2.2, CHCl3).
+2-383	IR (ATR): ν = 3318, 2978, 2938, 1742, 1683, 1631, 1495, 1425, 1366, 1231, 1198, 1160, 1067, 1025 cm−1.
+2-384	1H NMR (CDCl3, 25 °C): δ = 7.45 (broad d, J = 7.2 Hz, 1H, H ortho to CHNHBoc), 7.27 (dt, J = 7.2 (ortho), 1.4 (meta) Hz, 1H, H meta to CHNHBoc), 7.22 (dt, J = 7.2 (ortho), 1.5 (meta) Hz, 1H, H meta to CH2), 7.10 (broad d, J = 7.2 Hz, 1H, H ortho to CH2), 6.88 (broad t, J = 5.4 Hz, 1H, NHCH2CO2Et), 5.14 (broad d, J = 10.3 Hz, 1H, H-5), 4.87 (broad s, 1H, H-3), 4.86, 4.39 (AB syst, J = 17.4 Hz, 2H, H-1), 4.43 (broad s, 1H, NHBoc), 4.20 (q, J = 7.1 Hz, 2H, COOCH2CH3), 4.06 (dd, J = 18.0, 6.2 Hz, 1H, CH2COOEt), 3.96 (dd, J = 18.0, 5.6 Hz, 1H, CH2CO2Et), 2.97 (dq, J = 12.8, 6.5 Hz, 1H, H-4), 2.48, 2.17 (AB part of ABX3 syst, J = 14.9, 7.3 Hz, 2H, CH2CH3), 1.44 (s, 9H, Boc), 1.28 (t, J = 7.1 Hz, 3H, CO2CH2CH3), 1.15 (broad s, 3H, CH3), 1.07 (q, J = 7.3 Hz, 3H, CH3).
+2-385	13C NMR (CDCl3, 25 °C): δ = 174.5, 170.3, 169.3, 155.9 (CO), 140.2, 135.6 (quat), 132.0, 128.1, 127.6, 127.4 (aromatic CH), 79.7 (quat), 61.3 (CH2CH3), 57.7 (C-3), 57.5 (C-5), 48.1 (C-1), 41.2 (CH2NH), 35.2 (C-4), 28.3 (CH3 of Boc), 26.8(CH2),16.4(CH3),14.1(CH3),9.1(CH3).
+2-386	HPLC−MS: see the Supporting Information.
+2-387	HRMS (ESI+) m/z: [M + H]+ calcd for C24H36N3O6 462.2609, found 462.2604.
+2-388	tert-Butyl ((3R,4R,5S)-3-(Cyclohexylcarbamoyl)-4-methyl-2-((S)-2-((((9H-fluoren-9-yl)methoxy)carbonyl)amino)-3-phenyl- propanoyl)-2,3,4,5-tetrahydro-1H-benzo[ c]azepin-5-yl)-carbamate (40a).
+2-389	Compound 40a was prepared from 200 mg of ureidosulfone 12 (0.48 mmol) through aldehyde 13, following the typical procedure described above for 19a.
+2-390	Cyclohexyl isocyanide and Fmoc- L-phenylalanine have been use in the Ugi−Joullie reaction.
+2-391	The residue was eluted from a column of silica gel with 1:1 PE/Et 2O to give first 40a (137 mg, 48% from 13, 37% from 12) as a pale yellow foam and a mixture of 40b and 40c (57 mg, 20% from 13, 15% from
+2-392	12) (foam).
+2-393	40a.
+2-394	Rf = 0.57 (PE/Et2O 1:1).
+2-395	[α][20]D +32.1 (c 1.0, CHCl3).
+2-396	IR (ATR): ν = 3303, 2931, 2854, 1709, 1631, 1492, 1449, 1391, 1365, 1332, 1247, 1228, 1158, 1066, 1031 cm−1.
+2-397	1H NMR (CDCl3, 40 °C): δ = 7.77 (broad d, J = 7.5 Hz, 2H, aromatic H), 7.59−7.52 (m, 2H, aromatic H), 7.41 (t, J = 7.5 Hz, 2H, aromatic H), 7.35−7.23 (m, 9H, aromatic H),7.05−6.94 (m, 3H, aromatic H),6.74 (broad s, 1H, aromatic H), 6.29 (broad d, J = 7.9 Hz, 1H, NHcyclohexyl), 5.22 (broad d, J = 8.5 Hz, 1H, NHFmoc), 5.02 (broad d, J = 9.8 Hz, 1H, H-5), 4.96−4.77 (m, 3H, Hα and 2 H-1), 4.49−4.29 (m, 3H, H-3 and CH2 Fmoc), 4.19 (t, J = 6.7 Hz, 1H, CH Fmoc), 3.80−3.60 (m, 2H, CH cyclohexyl and NHBoc), 2.94 (dq, J = 10.8, 6.3 Hz, 1H, H-4), 2.83−2.66 (m, 2H, CH2Ph), 1.90−1.03 (m, 10H, cyclohexyl), 1.46 (s, 9H, Boc), 1.02 (broad s, 3H, CH3).
+2-398	13C NMR (CDCl3, 40 °C): δ = 171.9, 168.0, 155.7 (CO), 143.6, 143.5, 141.2, 139.6, 135.8, 135.3 (quat), 132.1, 128.5, 128.1, 127.7, 127.4, 127.0, 126.6, 124.9, 119.9 (aromatic CH), 79.5 (quat), 67.3 (CH2 Fmoc), 58.8 (C-3), 57.1 (C-5), 52.0 (CH Fmoc), 48.0 (CHα), 47.7 (C-1), 47.1(CH2 Fmoc), 38.4 (CH2 Ph), 35.2 (C-4), 32.8, 32.6, 25.4, 24.5 (CH2 cyclohexyl), 28.3 (CH3 Boc), 16.3 (CH3).
+2-399	HPLC−MS: see Supporting Information.
+2-400	HRMS (ESI+) m/z: [M + H] + calcd for C47H55N4O6 771.4129, found 771.4122.
+2-401	tert-Butyl ((3R,4R,5S)-2-((S)-2-(((Benzyloxy)carbonyl)amino)-3-methylbutanoyl)-4-methyl-3-(pentylcarbamoyl)-2,3,4,5-tet- rahydro-1H-benzo[c]azepin-5-yl)carbamate (41a).
+2-402	Compound 41a was prepared from 200 mg of ureidosulfone 12 (0.48 mmol)
+2-403	through aldehyde 13, following the typical procedure described above for 19a.
+2-404	Pentyl isocyanide and Cbz-L-valine have been used in the Ugi−Joullie reaction.
+2-405	The residue was eluted from a column of silica gel with 1:1 PE/Et2O to give first 41a (127 mg, 55% from 13, 42% from 12) as an pale yellow foam and a mixture of 41b and 41c (53 mg, 23%, 18% from 12) (foam).
+2-406	41a.
+2-407	R f = 0.46 (PE/Et2O 1:1).
+2-408	[α][20]D +10.3 (c 1.0, CHCl3).
+2-409	IR (ATR): ν = 3319, 2964, 2931, 2873, 1713, 1634, 1497, 1454, 1433, 1366, 1233, 1160, 1068, 1044, 1026 cm−1.
+2-410	1H NMR (CDCl3, 25 °C): δ = 7.48−7.21 (m, 9H, aromatic H),6.40 (broad s, 1H, NHpentyl), 5.25 (broad d, J = 9.2 Hz, 1H, NHVal), 5.17, 5.07 (AB syst, J = 12.2 Hz, 2H, CH2 Cbz), 5.07−4.69 (m, 3H, H-5 and 2 H-1), 4.55 (broad s, 1H, H-3), 4.43 (dd, J = 8.8, 6.5 Hz, 1H, Hα Val), 4.26 (broad s, 1H, NH-Boc), 3.33−3.14 (m, 2H, CH2 pentyl), 3.02 (dq, J = 12.9, 6.6 Hz, 1H, H-4), 1.57−1.21 (m, 5H, CH Val and 2 CH2pentyl), 1.40 (s, 9H, Boc), 1.12 (broad s, 3H, CH3), 0.88 (t, J = 6.6 Hz, 3H, CH3pentyl), 0.75 (d, J = 6.5 Hz, 3H, CH3Val), 0.54 (d, J = 6.5 Hz, 3H, CH3Val).
+2-411	13C NMR (CDCl3, 25 °C): δ = 173.0, 168.8, 156.3, 155.7 (CO), 140.0, 135.9, 135.6 (quat), 131.7, 128.5, 128.3, 128.2, 127.9, 127.6, 127.5 (aromatic CH), 79.5 (quat), 67.1 (CH2 Cbz), 58.9 (C-3), 57.6 (C-5), 56.4 (CHα), 48.1 (C-1), 39.3 (CH2 pentyl), 35.1 (C-4), 30.7 (CH Val), 28.9, 28.8 (2 CH2 pentyl), 28.2 (CH3 Boc), 22.1 (CH2 pentyl), 19.4 (CH3Val), 16.8 (CH3),13.9(CH3pentyl).
+2-412	HPLC−MS: see the Supporting Information.
+2-413	HRMS (ESI+) m/z: [M + H]+ calcd for C35H51N4O6 623.3813, found 623.3809.
+2-414	tert-Butyl ((3R,4R,5S)-3-(Benzylcarbamoyl)-2-(2-methoxya- cetyl)-4-methyl-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)-carbamate (42a).
+2-415	Compound 42a was prepared from 200 mg of ureidosulfone 12 (0.48 mmol) through aldehyde 13, following the typical procedure described above for 19a.
+2-416	Benzyl isocyanide and methoxyacetic acid have been used in the Ugi−Joullie reaction.
+2-417	The residue was eluted from a column of silica gel with 1:1 PE/EtOAC to give first pure 42a (90 mg) as a pale yellow foam and then a mixture of 42a, 42b, and 42c (40 mg) (foam).
+2-418	HPLC (see the Supporting Information) showed that the percent of 42a in this mixture was 24%.
+2-419	Thus, the yield of 42a was calculated to be 98 mg, 55% from 13, or 42% from 12, whereas the yield of 4ab + 42c was 32 mg, 18% from 13, 14% from 12.
+2-420	42a.
+2-421	Rf = 0.33 (PE/EtOAc 1:1).
+2-422	[α][20]D −26.6(c 1.0, CHCl3).
+2-423	IR (ATR): ν = 3307, 2971, 2931, 1709, 1645, 1495, 1454, 1432, 1365, 1336, 1239, 1159, 1126 cm−1.
+2-424	1H NMR (CDCl3, 25 °C): δ = 7.44 (broad d, J = 7.2 Hz, 1H, H ortho to CHNHBoc), 7.36−7.17 (m, 7H, aromatic H), 7.07 (broad d, J = 7.2 Hz, 1H, H ortho to CH2), 6.73 (t, J = 6.0 Hz, 1H, NHCH2Ph), 5.14 (broad d, J = 10.1 Hz, 1H, H-5), 4.99, 4.34 (AB syst, J = 17.7 Hz, 2H, H-1), 4.74 (d, J = 10.6 Hz, 1H, H-3), 4.52, 4.36 (AB part of ABX syst, J = 14.8, 6.0, 6.0 Hz, 2H, NHCH2Ph), 4.47 (broad s, 1H, NHBoc), 4.14, 3.86 (AB syst, J = 14.2 Hz, 2H, CH2OMe), 3.26 (s, 3H, OCH3), 3.02 (dq, J = 10.6, 6.3 Hz, 1H, H-4), 1.43 (s, 9H, Boc), 1.14 (broad d, J = 6.3 Hz, 3H, CH3).
+2-425	13C NMR (CDCl 3, 25 °C): δ = 169.6, 169.2, 155.9 (CO), 139.9, 137.8, 135.2 (quat), 131.9, 128.6, 128.2, 127.7, 127.5, 127.4 (aromatic CH), 79.7 (quat), 71.1 (CH2OMe), 59.0 (OCH3), 58.1 (C-3), 57.4 (C-5), 47.3 (C-1), 43.36 (CH2Ph), 35.1 (C-4), 28.3 (CH3 of Boc), 16.4 (CH3).
+2-426	HPLC−MS: see the Supporting Information.
+2-427	HRMS (ESI+) m/z: [M + H]+ calcd for C27H36N3O5 482.2662, found 482.2655.
+2-428	tert-Butyl ((3R,4R,5S)-4-Benzyl-3-(tert-butylcarbamoyl)-2-(5-chlorothiophene-2-carbonyl)-2,3,4,5-tetrahydro-1H-benzo[c]-azepin-5-yl)carbamate (43a).
+2-429	Compound 43a was prepared from 230 mg of ureidosulfone 12 (0.55 mmol) through aldehyde 32, following the typical procedure described above for 19a.
+2-430	Hydro- cinnamaldehyde was used for the Mannich reaction.
+2-431	The dr of this reaction was determined as 96:4 by 1H NMR of the crude.
+2-432	The crude was purified by chromatography with 6:1 PE/EtOAc to give 32 (71%) as a pale yellow oil. tert-Butyl isocyanide and 5-chloro-2-thienoic acid were then used in the Ugi−Joullie reaction.
+2-433	The residue was eluted from a column of silica gel with 4:1 PE/Et 2O to give first 43a (98 mg, 42% from 32, 30% from 12) as a white foam and then with EtOAc to give a mixture of 43b and 43c (63 mg, 27% from 32, 19% from 12).
+2-434	43a.
+2-435	Rf = 0.45 (PE/Et2O 2:1).
+2-436	[α][20]D +62.4 (c 1.1, CHCl3).
+2-437	IR (ATR): ν = 2963, 1681, 1600, 1531, 1429, 1365, 1259, 1161, 1017 cm−1.
+2-438	1H NMR (CDCl3, 25 °C): δ = 7.52−7.43 (m, 2H, aromatic H),7.39−7.15 (m, 6H, aromatic H),7.03−6.97 (m, 1H, aromatic H),6.88
+2-439	(broad d, J = 4.1 Hz, 1H, H thienyl), 6.81 (broad s, 1H, NHtBu), 6.79 (d, J = 4.1 Hz, 1H, H thienyl), 5.23 (d, J = 9.9 Hz, 1H, H-5), 5.09, 4.69 (AB syst, J = 17.4 Hz, 2H, H-1), 4.67 (d, J = 11.1 Hz, 1H, H-3), 4.37 (broad d, J = 9.9 Hz, 1H, NHBoc), 3.07 (dd, J = 11.1, 10.2 Hz, 1H, H-
+2-440	- 4), 2.67 (broad d, J = 12.9 Hz, 1H, CH2Ph), 2.54 (broad dd, J = 12.9, 10.2 Hz, 1H, CH2Ph), 1.46 (s, 9H, Boc), 1.40 (s, 9H, C(CH3)3).
+2-441	13C NMR (CDCl 3, 25 °C): δ = 168.0, 164.3, 155.8 (CO), 140.6, 139.5, 136.4, 136.2, 135.4 (quat), 132.5, 129.7, 129.1, 128.4, 128.1, 127.8, 127.3, 126.4, 126.3 (aromatic CH), 79.9 (quat), 59.7 (C-3), 52.9 (C- - 5), 51.5 (quat), 50.5 (C-1), 43.6 (C-4), 35.5 (CH2Ph), 28.7 (CH3 of Boc), 28.3 (CH3 of tBu).
+2-442	HPLC−MS: see the Supporting Information.
+2-443	HRMS (ESI+) m/z: [M + H]+ calcd for C32H39ClN3O4S 596.2346, found 596.2350.
+2-444	tert-Butyl ((3R,4R,5S)-4-Benzyl-2-(3-methoxybenzoyl)-3-(methylcarbamoyl)-2,3,4,5-tetrahydro-1H-benzo[c]azepin-5-yl)carbamate (44a).
+2-445	Compound 44a was prepared from 255 mg of ureidosulfone 12 (0.61 mmol) through aldehyde 32, following the typical procedure described above for 19a.
+2-446	Hydrocinnamaldehyde was used for the Mannich reaction.
+2-447	The dr of this reaction was determined as 96:4 by 1H NMR of the crude.
+2-448	The crude was purified by chromatography with 6:1 PE/EtOAc to give 32 (71%) as a pale yellow oil.
+2-449	Methyl isocyanide and 3-methoxybenzoic acid were then used in the Ugi-Joullie reaction.
+2-450	The residue was eluted from a column of silica gel with 1:1 PE/EtOAc to give first 44a (111 mg, 47% from 32, 33% from 12) as a white foam and a mixture of 44b and 44c (54 mg, 23% from 32, 16% from 12) (foam).
+2-451	44a.
+2-452	Rf = 0.36 (PE/EtOAc 1:1).
+2-453	[α][20]D +2.4 (c 0.7, CHCl3).
+2-454	IR (ATR): ν = 2964, 1671, 1619, 1455, 1411, 1365, 1260, 1160, 1019 cm−1.
+2-455	1H NMR (CDCl3, 25 °C): δ = 7.54−7.43 (m, 1H, aromatic H),7.40−7.07 (m, 8H, aromatic H), 7.07−6.87 (m, 2H, NHMe and aromatic H),6.74−6.59 (m, 3H, aromatic H), 5.26 (broad d, J = 9.9 Hz, 1H, H-5), 4.90, 4.24 (AB syst, J = 17.2 Hz, 2H, H-1), 4.90 (d, J = 12.1 Hz, 1H, H-3), 4.57 (broad d, J = 9.9 Hz, 1H, NHBoc), 3.59 (s, 3H, OCH3), 3.13 (dd, J = 12.1, 10.4 Hz, 1H, H-4), 2.91 (d, J = 9.8 Hz, 3H, NHCH3), 2.69 (broad d, J = 12.2 Hz, 1H, CH2Ph), 2.54 (broad t, J = 12.2 Hz, 1H, CH2Ph), 1.47 (s, 9H, Boc).
+2-456	13C NMR (CDCl3, 25 °C): δ = 172.9, 169.7 (CO), 159.2 (quat), 155.9 (CO), 140.3, 139.4, 136.7, 135.5 (quat), 132.1, 129.7, 129.4, 128.4, 127.9, 127.5, 126.3, 119.5, 117.4, 111.9 (aromatic CH), 79.9 (quat), 58.3 (C-3), 55.1 (OCH3), 52.9 (C-5), 50.7 (C-1), 43.5 (C-4), 35.7 (CH2Ph), 28.4 (CH3 of Boc), 26.4 (NHCH3).
+2-457	HPLC−MS: see Supporting Information.
+2-458	HRMS (ESI+) m/z: [M + H] + calcd for C32H38N3O5 544.2816, found 544.2811.
+2-459	Ethyl 2-((3R,4R,5S)-2-Benzoyl-4-benzyl-8-bromo-5-((tert- butoxycarbonyl)amino)-2,3,4,5-tetrahydro-1H-benzo[c]-azepine-3-carboxamido)acetate (45a).
+2-460	Compound 45a was prepared from 310 mg of ureidosulfone 26 (0.63 mmol) through aldehyde 33, following the typical procedure described above for 19a.
+2-461	Hydrocinnamaldehyde was used for the Mannich reaction.
+2-462	The dr of this reaction was determined as 88:12 by 1H NMR of the crude.
+2-463	The crude was purified by chromatography with 6:1 PE/EtOAc to give 33 (68%) as a pale yellow oil.
+2-464	Ethyl isocyanoacetate and benzoic acid were then used in the Ugi−Joullie reaction.
+2-465	The residue was eluted from a column of silica gel with 1:2 PE/Et2O to give first pure 45a (93 mg, 33% from 33, 22% from 26) as a pale yellow foam and then a mixture of 45b and 45c (37 mg, 13% from 33, 9% from 26) (foam).
+2-466	45a.
+2-467	Rf = 0.41 (PE/Et2O 1:2).
+2-468	[α][20]D −21.1(c 1, CHCl3).
+2-469	IR (ATR): ν = 2671, 1682, 1622, 1494, 1455, 1365, 1198, 1161, 1020 cm−1.
+2-470	1H NMR (CDCl3, 25 °C): δ = 7.53−7.11 (m, 14H, NHCH2 and aromatic H), 6.77 (s, 1H, aromatic H), 5.22 (broad d, J = 10.1 Hz, 1H, H-5), 5.04 (broad d, J = 11.4 Hz, 1H, H-3), 4.75, 4.20 (AB syst, J = 17.4 Hz, 2H, H-1), 4.58 (broad d, J = 10.1 Hz, 1H, NH-Boc), 4.27 and 3.95 (AB part of a ABX syst, J = 17.9, 7.0, 4.9 Hz, 2H, NHCH2), 4.23 (q, J = 7.1 Hz, 2H, CH2CH3), 3.07 (dd, J = 11.4, 10.7 Hz, 1H, H-4), 2.74 (broad d, J = 12.9 Hz, 1H, CH2Ph), 2.58 (broad dd, J = 12.9, 10.7 Hz, 1H, CH2Ph), 1.48 (s, 9H, Boc), 1.29 (t, J = 7.1 Hz, 3H, CH2CH3).
+2-471	13C NMR (CDCl 3, 25 °C): δ = 173.6, 169.7, 169.3, 155.8 (CO), 139.4, 139.2, 138.6, 134.1 (quat), 133.8, 131.1, 131.0, 130.1, 129.7, 128.6, 128.4, 127.3, 126.4 (aromatic CH), 80.2 (quat), 61.5 (CH2CH3),57.8 (C-3), 52.3 (C-5), 50.0 (C-1), 43.2 (C-4), 41.4 (NHCH2),35.6 (CH2Ph), 28.4 (CH3 Boc), 14.2 (CH3).
+2-472	HPLC−MS: see the

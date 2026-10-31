@@ -1,0 +1,901 @@
+[
+  {
+    "document_id": "jo1002714",
+    "source": "JOC/jo1002714.md",
+    "sha256": "01599673668ff50c189e71e40aeb9bc8ffa8c4a14c82a13052e8e5d3049a18eb",
+    "result": "Fail",
+    "reasons": [
+      "결과·논의 헤딩/본문 미인식"
+    ],
+    "headings": [
+      "INT",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 1652,
+      "MET": 5817
+    },
+    "sentences": 295,
+    "nonprose": 50,
+    "skipped_blocks": 66,
+    "source_converter_warnings": [
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 27개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo100315j",
+    "source": "JOC/jo100315j.md",
+    "sha256": "33f8eead6920f8e2ec76f43bf43e1e07d1af311c351dc827213258e0e61fb59e",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "MET"
+    ],
+    "section_words": {
+      "INT": 331,
+      "RD": 1315,
+      "MET": 6439
+    },
+    "sentences": 254,
+    "nonprose": 59,
+    "skipped_blocks": 57,
+    "source_converter_warnings": [
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 23개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo100420x",
+    "source": "JOC/jo100420x.md",
+    "sha256": "4c48a9ab8511c853435a263d182e4e8cd5bec63df9d2dadcb1bea8d80326ef22",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 532,
+      "RD": 1233,
+      "MET": 2087
+    },
+    "sentences": 130,
+    "nonprose": 19,
+    "skipped_blocks": 74,
+    "source_converter_warnings": [
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 13개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo100742e",
+    "source": "JOC/jo100742e.md",
+    "sha256": "26b9729a69f0e9a75ae0bce3ae7a902878468191a27873db8e00fbaa56e32f09",
+    "result": "Fail",
+    "reasons": [
+      "결과·논의 헤딩/본문 미인식"
+    ],
+    "headings": [
+      "INT",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 2368,
+      "MET": 659
+    },
+    "sentences": 139,
+    "nonprose": 9,
+    "skipped_blocks": 84,
+    "source_converter_warnings": [
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 18개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo1011653",
+    "source": "JOC/jo1011653.md",
+    "sha256": "d512da021ddd861f4cea3f9fc90e58b8346a071fc503b01404735cb485289052",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 274,
+      "RD": 1354,
+      "CON": 101,
+      "MET": 1371
+    },
+    "sentences": 171,
+    "nonprose": 2,
+    "skipped_blocks": 75,
+    "source_converter_warnings": [
+      "- [p1] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 13개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo101346t",
+    "source": "JOC/jo101346t.md",
+    "sha256": "2982feebe5cb9b7c749b6fa6fbbfd1f1d7e3dbed623475744636c4fa00d5851f",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "MET",
+      "RD",
+      "CON",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 949,
+      "MET": 281,
+      "RD": 2707,
+      "CON": 126
+    },
+    "sentences": 187,
+    "nonprose": 0,
+    "skipped_blocks": 54,
+    "source_converter_warnings": [
+      "- [p3] 25개 숨겨진 텍스트 요소 필터링됨",
+      "- [p5] 22개 숨겨진 텍스트 요소 필터링됨",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 18개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo101439h",
+    "source": "JOC/jo101439h.md",
+    "sha256": "657d1f1d83f2f294fc8ac1362a0a3956a7f6941540c33377ce20552bde48ff14",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 930,
+      "RD": 3866,
+      "CON": 140,
+      "MET": 3150
+    },
+    "sentences": 293,
+    "nonprose": 14,
+    "skipped_blocks": 134,
+    "source_converter_warnings": [
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p8] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p9] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p10] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p11] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p12] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p13] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 42개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo101763t",
+    "source": "JOC/jo101763t.md",
+    "sha256": "ec899d7144c08e54166db25124c6e7403e59b15e040ca81b0b58c01e43714987",
+    "result": "Fail",
+    "reasons": [
+      "결과·논의 헤딩/본문 미인식"
+    ],
+    "headings": [
+      "INT",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 2281,
+      "CON": 141,
+      "MET": 4287
+    },
+    "sentences": 174,
+    "nonprose": 17,
+    "skipped_blocks": 77,
+    "source_converter_warnings": [
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 27개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo102133m",
+    "source": "JOC/jo102133m.md",
+    "sha256": "ef926e262c2eebd104a98a8021d69a747e28e8c9d059159d8de0f4b54297c86c",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 433,
+      "RD": 1993,
+      "CON": 104,
+      "MET": 359
+    },
+    "sentences": 151,
+    "nonprose": 6,
+    "skipped_blocks": 86,
+    "source_converter_warnings": [
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 16개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo102334c",
+    "source": "JOC/jo102334c.md",
+    "sha256": "33a4382624aea57c764b2a07ff59dafcd15505d9f9f17d7e9ac94aedf1ebdb95",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 383,
+      "RD": 2177,
+      "CON": 89,
+      "MET": 1740
+    },
+    "sentences": 173,
+    "nonprose": 11,
+    "skipped_blocks": 94,
+    "source_converter_warnings": [
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 21개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo200095e",
+    "source": "JOC/jo200095e.md",
+    "sha256": "522d485477540b6b3157c59e0c5b31f8f8d5c3ccbdf2e89b196f329d01ccc3de",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 498,
+      "RD": 624,
+      "MET": 4198
+    },
+    "sentences": 134,
+    "nonprose": 37,
+    "skipped_blocks": 79,
+    "source_converter_warnings": [
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 16개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo4021562",
+    "source": "JOC/jo4021562.md",
+    "sha256": "aaaaaf9a73d3288d58e73e82a6dde17b23a00ecd06bc20432dc5c50963a192ba",
+    "result": "Fail",
+    "reasons": [
+      "결과·논의 헤딩/본문 미인식"
+    ],
+    "headings": [
+      "INT",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 2110,
+      "CON": 106,
+      "MET": 1637
+    },
+    "sentences": 212,
+    "nonprose": 16,
+    "skipped_blocks": 88,
+    "source_converter_warnings": [
+      "- [p1] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 27개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo402365s",
+    "source": "JOC/jo402365s.md",
+    "sha256": "4a5f218a3cefc07dcf88a843fee11c45eb4b7feb18f01e858e1558fb19d6a95b",
+    "result": "Fail",
+    "reasons": [
+      "결과·논의 헤딩/본문 미인식"
+    ],
+    "headings": [
+      "INT",
+      "CON",
+      "MET",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 3818,
+      "CON": 152,
+      "MET": 3947
+    },
+    "sentences": 342,
+    "nonprose": 66,
+    "skipped_blocks": 115,
+    "source_converter_warnings": [
+      "- [p1] 5개 숨겨진 텍스트 요소 필터링됨",
+      "- [p5] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p12] 11개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p7] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 38개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo402386k",
+    "source": "JOC/jo402386k.md",
+    "sha256": "120c0b18497b8ba166060459e9b90c89a6406ac4327bc5c3e780f063d856dc3e",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 360,
+      "RD": 1577,
+      "CON": 118,
+      "MET": 5575
+    },
+    "sentences": 461,
+    "nonprose": 112,
+    "skipped_blocks": 71,
+    "source_converter_warnings": [
+      "- [p10] 6개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 25개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo4024057",
+    "source": "JOC/jo4024057.md",
+    "sha256": "3c99585d603a12a290d4fd478ebbbcaf92dd56c7162c23290311df47b110b9cf",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 582,
+      "RD": 1545,
+      "CON": 157,
+      "MET": 5436
+    },
+    "sentences": 470,
+    "nonprose": 157,
+    "skipped_blocks": 96,
+    "source_converter_warnings": [
+      "- [p11] 5개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 35개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo4024107",
+    "source": "JOC/jo4024107.md",
+    "sha256": "61f7056b2fbc6479703837413b27bc49c040e2e6851c35c2a3201284bd75cd50",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 376,
+      "RD": 2417,
+      "CON": 171,
+      "MET": 8306
+    },
+    "sentences": 708,
+    "nonprose": 321,
+    "skipped_blocks": 118,
+    "source_converter_warnings": [
+      "- [p15] 3개 숨겨진 텍스트 요소 필터링됨",
+      "- [p16] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p7] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p8] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p9] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 53개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo402429q",
+    "source": "JOC/jo402429q.md",
+    "sha256": "c0f928a98d5ac6e11caf9369b4237a01d30aa4998474568e40a8d263c8ae2369",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 272,
+      "RD": 1124,
+      "CON": 304,
+      "MET": 2020
+    },
+    "sentences": 202,
+    "nonprose": 44,
+    "skipped_blocks": 72,
+    "source_converter_warnings": [
+      "- [p7] 5개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 26개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo4024304",
+    "source": "JOC/jo4024304.md",
+    "sha256": "4ed3568c3419791439d58f62a6d99a0275b8e5702cc87c74a237b5ac52fb0d3a",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 377,
+      "RD": 1561,
+      "CON": 61,
+      "MET": 2624
+    },
+    "sentences": 140,
+    "nonprose": 30,
+    "skipped_blocks": 81,
+    "source_converter_warnings": [
+      "- [p9] 3개 숨겨진 텍스트 요소 필터링됨",
+      "- [p10] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 30개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo402437z",
+    "source": "JOC/jo402437z.md",
+    "sha256": "29008a0dc9a3f8913cf3ea236754e887de3a62b51454da9b69f2576bdc7a1146",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 481,
+      "RD": 1743,
+      "CON": 149,
+      "MET": 5412
+    },
+    "sentences": 240,
+    "nonprose": 31,
+    "skipped_blocks": 81,
+    "source_converter_warnings": [
+      "- [p1] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p10] 4개 숨겨진 텍스트 요소 필터링됨",
+      "- [p11] 4개 숨겨진 텍스트 요소 필터링됨",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 20개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo402526z",
+    "source": "JOC/jo402526z.md",
+    "sha256": "71682a535ec5667bbeafd32bdab7ff1cb046599069439e37a3b97d2d4439858d",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 651,
+      "RD": 1524,
+      "CON": 81,
+      "MET": 6411
+    },
+    "sentences": 258,
+    "nonprose": 64,
+    "skipped_blocks": 92,
+    "source_converter_warnings": [
+      "- [p1] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p10] 5개 숨겨진 텍스트 요소 필터링됨",
+      "- [p11] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p2] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 31개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo402527w",
+    "source": "JOC/jo402527w.md",
+    "sha256": "5403db50ce2cc5dce14535f677fdcb6828d582e846ff12b1d87b2324feec17c4",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 747,
+      "RD": 10367
+    },
+    "sentences": 513,
+    "nonprose": 75,
+    "skipped_blocks": 108,
+    "source_converter_warnings": [
+      "- [p1] 2개 숨겨진 텍스트 요소 필터링됨",
+      "- [p2] 4개 숨겨진 텍스트 요소 필터링됨",
+      "- [p3] 3개 숨겨진 텍스트 요소 필터링됨",
+      "- [p4] 2개 숨겨진 텍스트 요소 필터링됨",
+      "- [p5] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p6] 2개 숨겨진 텍스트 요소 필터링됨",
+      "- [p7] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p9] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p10] 4개 숨겨진 텍스트 요소 필터링됨",
+      "- [p11] 5개 숨겨진 텍스트 요소 필터링됨",
+      "- [p12] 2개 숨겨진 텍스트 요소 필터링됨",
+      "- [p13] 7개 숨겨진 텍스트 요소 필터링됨",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 33개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo901581w",
+    "source": "JOC/jo901581w.md",
+    "sha256": "a74d3aa6f4ce3c6dd0450773d6659c4248e11a691538dbe38ec790bb555f5db5",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 255,
+      "RD": 2116,
+      "CON": 271,
+      "MET": 733
+    },
+    "sentences": 192,
+    "nonprose": 12,
+    "skipped_blocks": 69,
+    "source_converter_warnings": [
+      "- [p4] 4개 숨겨진 텍스트 요소 필터링됨",
+      "- [p5] 3개 숨겨진 텍스트 요소 필터링됨",
+      "- [p6] 4개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 18개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo902046g",
+    "source": "JOC/jo902046g.md",
+    "sha256": "f56973514276dd8992a3fa930d8818e057d2b9ab47850461e231118173d6cf12",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 341,
+      "RD": 3208,
+      "CON": 345,
+      "MET": 3033
+    },
+    "sentences": 246,
+    "nonprose": 50,
+    "skipped_blocks": 70,
+    "source_converter_warnings": [
+      "- [p7] 1개 숨겨진 텍스트 요소 필터링됨",
+      "- [p8] 2개 숨겨진 텍스트 요소 필터링됨",
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p2] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p7] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p8] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p9] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 33개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo902300e",
+    "source": "JOC/jo902300e.md",
+    "sha256": "d33a81a9c2092970281df790ff0d901498f1dc23eaf60996293200c1493c6e95",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "CON",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 606,
+      "RD": 2527,
+      "CON": 360,
+      "MET": 1377
+    },
+    "sentences": 270,
+    "nonprose": 19,
+    "skipped_blocks": 108,
+    "source_converter_warnings": [
+      "- [p1] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p3] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p6] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p7] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p8] 3개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p9] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p10] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 33개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  },
+  {
+    "document_id": "jo902313g",
+    "source": "JOC/jo902313g.md",
+    "sha256": "7cdec56ba8f2118f2e8fbdce7a219ee28f8a746a0a83615e32bde55758df1f3a",
+    "result": "Pass",
+    "reasons": [],
+    "headings": [
+      "INT",
+      "RD",
+      "MET",
+      "BACK"
+    ],
+    "section_words": {
+      "INT": 420,
+      "RD": 1870,
+      "MET": 3247
+    },
+    "sentences": 230,
+    "nonprose": 41,
+    "skipped_blocks": 59,
+    "source_converter_warnings": [
+      "- [p8] 9개 숨겨진 텍스트 요소 필터링됨",
+      "- [p3] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p4] 2개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p5] 1개 이미지 영역에 추출 가능한 텍스트 없음 (그림/차트/도장 내용 누락 가능 — 그림 속 글은 ocr: true / CLI --ocr 로 읽습니다)",
+      "- [p?] 21개 머리글/바닥글 요소 제거됨"
+    ],
+    "noncitation_numeric_ranges": [],
+    "pdf_quality_gate": "not_applicable_markdown_input"
+  }
+]

@@ -1,0 +1,290 @@
+# document_id: ic4012197
+# extractor: kordoc-markdown-adapter-1
+1-001	relevant d electrons for the formation of the Ru(dπ)−O(pπ) π-
+1-002	conjugated system.
+1-003	Therefore, the π-back-donation is unfavor- Oxo−carboxylate-bridged di- and polynuclear metal complexes
+1-004	able in the (μ-oxo)bis(μ-acetato)diruthenium complexes.
+1-005	A are known as important structural motifs not only in
+1-006	1−4 similar Ru−O π-system is also suggested for the triruthenium coordination chemistry but also in biological systems.
+1-007	Di- 23,27
+1-008	unit, and the π-back-donation could be unfavorable.and trinuclear units, M2(μ-O)(μ-RCOO)n (n = 1, 2) and
+1-009	Nevertheless, the strong π-accepting ligand CO is known to M3(μ3-O)(μ-RCOO)6, are frequently found in many metal
+1-010	5−14 form a stable complex with the triruthenium unit.
+1-011	The typical ions.
+1-012	Among them, the ruthenium analogues have been the
+1-013	15−22 example is [Ru II,III,III(μ -O)(μ-CH COO) (py) (CO)] (py = most extensively studied.
+1-014	The kinetic stability of these 23,49 3 3 3 6 2
+1-015	pyridine), where the significantly positive redox potential of structural cores in various oxidation states of Ru has been useful II,III,III III,III,III
+1-016	the Ru3 /Ru 3 process indicates a characteristic feature for detailed studies of these interesting structural units.
+1-017	The
+1-018	of the π-back-donation to CO.
+1-019	It has been suggested that the triruthenium complexes are especially attractive, since they can
+1-020	II,II,III charge localization within the triruthenium unit to form the take a wide range of oxidation states from Ru3 to
+1-021	III,IV,IV 23−28 II III
+1-022	Ru3 .
+1-023	Recent extensive progress in the study of the Ru (CO){Ru (py)}2 electronic structure is useful in making23 29−40 the Ru−CO bond stable.
+1-024	In fact, one-electron oxidation of triruthenium complexes is particularly noteworthy.
+1-025	For
+1-026	example, dimerization and oligomerization of the triruthenium the triruthenium complex destabilizes the Ru−CO bond to
+1-027	39,40 localization may not effectively occur for the smaller Ru (μ-phine led to the formation of Ru3O-based mixed-valent 2
+1-028	dimers and oligomers.
+1-029	These new complexes brought new O)(μ-CH3COO)2 unit.
+1-030	insights into the mixed-valence chemistry.
+1-031	New higher- It is interesting to compare the coordination behavior of nuclearity complexes based on the triruthenium core have CN− with that of CO toward the Ru3(μ3-O)(μ-CH3COO)6 41−47 core, which has a well conjugated π-system based on π-also been reported.
+1-032	We have recently introduced the cyanide ion into the electron-rich RuII and/or RuIII (d[6] and/or d[5], respectively).diruthenium unit Ru2(μ-O)(μ-CH3COO)2[48] and found that
+1-033	the π-back-donation is less favorable.
+1-034	This is due to the poor π- Received: May 16, 2013
+1-035	donor properties of the dimeric unit as a result of usage of the Published: December 5, 2013
+1-036	Inorganic Chemistry Article
+1-037	Cyanide ion is known as a weaker π-acceptor in comparison with CO.
+1-038	This contribution presents the synthesis, properties, and computational study of a new cyano complex containing the Ru3(μ3-O) core, [Ru3(μ3 -O)(μ-CH3COO)6(py)2(CN)] (1), and discusses the origin of the different coordination behaviors of CN− and CO toward the Ru3(μ3-O)(μ-CH3COO) core.
+2-001	■
+2-002	Synthesis and Characterization.
+2-003	The synthetic route to the new triruthenium cyano complex 1 is shown in Scheme 1.
+2-004	Facile ligand substitution for the solvent molecule of [Ru3(μ3-O)(μ-CH3COO)6(py)2(CH3OH)\](PF6)[23] ([2\](PF6)) was ap- plied for the preparation.
+2-005	Complex 1 was prepared by reacting [2]+ with an equimolar amount of KCN in a CH3OH/H2O mixed solvent at room temperature.
+2-006	The product was purified by column chromatography with silica gel.
+2-007	Complex 1 was characterized by 1 H NMR and electrospray ionization mass spectrum (ESI-MS) as well as infrared spectroscopy and cyclic voltammetry (vide infra).
+2-008	The positive-ion ESI-MS showed a prominent signal at m/z 858.80, corresponding to the expected molecular ion peaks for 1.
+2-009	The infrared spectrum showed the characteristic band of the cyano ligand at 2111 cm−1, which is blue-shifted in comparison to that of the cyanide (2068 cm−1) in KCN measured under the same conditions.
+2-010	The νas(COO−) band is located at ca. 1607 and 1550 cm−1, while the νs(COO−) band is at 1420 cm−1.
+2-011	The difference between νas(COO−) and νs(COO−) is greater than 130 cm−1, indicating a bridging mode of the acetate groups.[23,50,51]
+2-012	Singlets due to the acetate methyl groups in the 1H NMR spectrum of 1 (Figure S1, Supporting Information) are shifted significantly downfield (δ 11.01 (s, 12H), 5.98 (s, 6H)), while those of pyridine (δ 8.12 (t, 2H, py-4-H), 7.57 (q, 4H, py-3,5-H), 3.41 (d, 4H, py-2,6-H)) are shifted upfield in comparison with the corresponding signals of diamagnetic complexes.[23]
+2-013	It is known that the NMR
+2-014	III,III,III
+2-015	signals of paramagnetic Ru3 complexes of the Ru3(μ3-O)(μ-CH3COO)6 core show a rather mild shift from those of diamagnetic complexes, since the unpaired electron is delocalized over the whole area of the oxo-centered triruthenium core.
+2-016	The observed 1H NMR spectrum of 1 is
+2-017	III,III,III
+2-018	consistent with the Ru3 oxidation state.
+2-019	Electronic Absorption Spectroscopy.
+2-020	Figure 1 shows the UV−visible absorption spectrum of 1 in CH2Cl2, and Table 1 summarizes the spectral data.
+2-021	The triruthenium complexes [Ru3(μ3-O)(μ-CH3COO)6(py)2(L)]+ (L = py, trans-l,2-bis(4-pyridyl)ethylene (bpe), 1,2-bis(4-pyridyl)ethane (bpa), 4,4′-
+2-022	complex λmax, nm (ε, M−1 cm−1) in CH2Cl2
+2-023	1 662(4700),334(7900),244(18500)
+2-024	[2]+ 689(5440),621(4400),240(23640) [Ru3(μ3-O)(μ-CH 3COO)6(py)3]+ a 692(5800),240(21000)
+2-025	aReference 23.
+2-026	bpy, pyrazine)[23] generally show three main bands in their UV−
+2-027	vis absorption spectra: i.e., strong π−π* transitions of the
+2-028	ligand in the UV region, cluster-to-ligand charge transfer transitions (CLCT), and intracluster transitions in the longer wavelength region (>600 nm).
+2-029	As shown in Figure 1, complex
+2-030	1 exhibits three bands at 244, 334, and 662 nm, which are assigned to the intraligand π−π*, CLCT, and intracluster transitions, respectively.[39,51b] A theoretical study indicated that
+2-031	the lowest energy transitions remain practically as the intracluster type (vide infra).
+2-032	A blue shift of the intracluster transition band of 1 from those of [Ru3 (μ3 -O)(μ-
+2-033	CH 3COO)6(py)2(L)]+ (692−694 nm) is ascribed to a stronger dπ(Ru)−pπ(μ-O) interaction within the Ru3O core to give
+2-034	somewhat higher separations of the resulting molecular orbitals
+2-035	(see Theoretical Study of the Triruthenium Complexes of CN−
+2-036	and CO).
+2-037	Redox Properties.
+2-038	Figure 2 shows the cyclic voltammo-
+2-039	gram of 1 in 0.1 M (n-Bu)4NPF6−CH2Cl2, and Table 2 summarizes the electrochemical data.
+2-040	Complex 1 shows three
+2-041	redox waves at E1/2 = −1.49, −0.26, and +1.03 V vs Ag/AgCl,
+2-042	II,II,III II,III,III
+2-043	Corresponding waves of [Ru3 (μ3-O)(μ-CH3COO) 6(py)3]+ 23
+2-044	were observed at E1/2 = −1.28, −0.01, and +1.01 V (Table 2), respectively.
+2-045	The first two redox potentials of 1 are appreciably more negative than those of the tris(pyridine) complex (the potential differences ΔE1/2 are 0.21 and 0.25 V, respectively, for the two negative waves).
+2-046	Thus, the lower oxidation states,
+2-047	II,II,III II,III,III
+2-048	Ru3 and Ru3 , of the cyano complex 1 are destabilized significantly more than those of the corresponding py complex.
+2-049	This is, in part, due to the negative charge of the cyano ligand.
+2-050	It is well-known that cyano complexes of d-electron-rich Fe(II), Ru(II), and Os(II) show significant solvent dependence in their various properties, including metal-centered redox potentials.[52]
+2-051	The solvent dependence has been interpreted in terms of the Lewis acid (solvent)−base (free nitrogen site of CN− ligand) interaction.
+2-052	With a more acidic solvent, the redox potential appears at a more positive potential region, as the π-back-bonding is more favorable to make the metal center more difficult to oxidize.
+2-053	In a poorly acidic solvent such as CH2Cl2, the π-back-bonding is less favorable and even a simple π-donation is possible. π-Donor−acceptor properties of the metal−CN− bond should also depend on the type of metal center; the π-back-donation is less significant with a lesser number of d electrons.[53]
+2-054	Thus, it is expected that the CN− ligands coordinated to poor π-donating Ru 2(μ-O)(μ-CH 3COO)2 and Ru3(μ3-O)(μ-CH3 COO)6 (vide infra) cores are less favorable for π-back-donation.
+2-055	The diruthenium unit Ru2(μ-O)(μ-CH3COO)2, despite the involvement of electron-rich Ru(II) and Ru(III) centers, is a π-deficient metal cluster core with dπ electrons being occupied by the Ru(dπ)−O(pπ) π-conjugated system.
+2-056	The redox potentials
+2-057	II,II II,III II,III III,III
+2-058	of Ru2 /Ru2 and Ru2 /Ru2 processes of the cyano complexes of the (μ-oxo)bis(μ-acetato)diruthenium core,[48] trans(CN,μ-O)-[Ru 2III,III(μ-O)(μ-CH 3COO) 2(bpy) 2(CN)2 ] (bpy = 2,2′-bipyridine) and its cis derivative, appear at considerably more negative potential regions in comparison with those of the pyridine diruthenium complexes [Ru2 (μ-O)(μ-CH3COO)2(N−N)2(py)2]2+, where N−N is (py)2 or bpy.[20]
+2-059	The π-deficient nature of the dimeric core was supported
+2-060	Table 2.
+2-061	Electrochemical Data for 1 and Its Analogues
+2-062	by theoretical calculations, which showed that the Ru dπ electrons are occupied by the dπ(Ru)−pπ(μ-O) conjugation.
+2-063	As a similar dπ−pπ conjugation system is also known for the Ru3(μ3-O)(μ-CH3COO) 6 core,[23] π-back-donation to the cyano ligand in 1 could be weaker than that normally expected for the M(II)−CN linkage in typical transition-metal−cyano com- plexes.
+2-064	The situation is significantly different from that of the carbonyl ligand coordinated to the triruthenium core.
+2-065	The carbonyl complex [Ru 3(μ3 -O)(μ-CH3COO)6 (py)2 (CO)][23]
+2-066	II,III,III III,III,III
+2-067	shows the redox wave of the Ru3 /Ru 3 process at +0.66 V vs Ag/AgCl, which is significantly more positive by 0.67 V in comparison with that of [Ru3 (μ3 -O)(μ-CH 3COO)6(py)3]+ (Table 2).
+2-068	The shift is interpreted on the basis of π-back-donation from the Ru center to CO.
+2-069	The different behavior of CN− and CO ligands coordinated to the triruthenium core is explained as follows.
+2-070	It has been suggested previously that the divalent charge of the Ru3II,III,III oxidation state is localized at the Ru ion coordinated by CO and that this Ru ion is out of the dπ−pπ conjugation of the core.[23,49]
+2-071	Hence, the π-back-donation to CO becomes feasible by the charge localization within the Ru3O core.
+2-072	For comparison, it is interesting to see the redox behavior of the isocyanide complex.
+2-073	Redox potentials of [Ru3 (μ3-O)(μ-CH 3COO)6(py)2(CNXy)] (CNXy = 2,6-dimethylphenyl iso- cyanide)[54] appear to be more positive than the corresponding
+2-074	electronic structures of 1, we carried out in situ infrared spectroelectrochemistry to monitor the vibration frequencies of the cyanide of the triruthenium unit in different oxidation states.
+2-075	Figure 3 shows the differential infrared spectra measured at different applied potentials for 1 in 0.1 M (n-Bu)4NPF6−CH 2Cl2 solutions, with the reference spectrum recorded at
+2-076	III,III,III
+2-077	+0.20 V, where the oxidation state of 1 is Ru3 .
+2-078	Table 3 summarizes the details of the band assignment.
+2-079	The differential spectra measured at −0.50 and +1.50 V should correspond to the oxidation states of Ru3II,III,III and
+2-080	III,III,IV −1
+2-081	Ru3 , respectively.
+2-082	The downward band at 2111 cm
+2-083	observed in both differential spectra corresponds to the
+2-084	III,III,III
+2-085	disappearance of the Ru3 oxidation state.
+2-086	The upward
+2-087	−1 II,III,III
+2-088	bands at 2072 and 2165 cm are assigned to the Ru3 and the Ru3III,III,IV states, respectively.
+2-089	The increase in the ν(CN) values with an increase in the oxidation state is the general
+2-090	E1/2 , V vs Ag/AgCl (ΔEp, mV)
+2-091	cIn 0.1 M (n-Bu)4NPF6−CH3CN.
+2-092	CNXy = 2,6-dimethylphenyl
+2-093	CN.
+2-094	Reference 23.
+2-095	Inorganic Chemistry Article
+2-096	occupied and the antibonding orbital is the lowest unoccupied MO (LUMO).
+2-097	First, we examined the charge distribution of the triruthenium core of the three Ru3II,III,III complexes (Figure
+2-098	4).
+2-099	Among the three complexes, the pattern of the charge
+2-100	−1 III,III,III
+2-101	(54 cm ) was found for the oxidation of Ru3 (2111
+2-102	−1 III,III,IV −1
+2-103	cm ) to Ru3 (2165 cm ).
+2-104	The smaller change in the
+2-105	II,III,III III,III,III −1
+2-106	wavenumber of the Ru3 /Ru3 process (39 cm ) than
+2-107	III,III,III III,III,IV −1
+2-108	that of Ru3 /Ru3 (54 cm ) may reveal two points:
+2-109	II,III,III III,III,III
+2-110	(i) In the Ru3 /Ru3 process, the oxidation reaction did not occur on the CN-coordinated ruthenium, which indicated that the Ru3II,III,III oxidation state of 1 was delocalized and no divalent charge was located on the CN-coordinated
+2-111	III,III,III III,III,IV
+2-112	ruthenium.
+2-113	(ii) In the Ru 3 /Ru3 process, the oxidation took place on the CN-coordinated ruthenium.
+2-114	Theoretical Study of the Triruthenium Complexes of CN− and CO.
+2-115	We have discussed the important difference in the roles of CN− and CO coordinated to the Ru3(μ3-O) core.
+2-116	While CO acts as a strong π-acceptor to the triruthenium core
+2-117	II,III,III −
+2-118	specifically in the oxidation state Ru3 , CN does not.
+2-119	The difference is explained in terms of the charge delocalization in the former and localization in the latter as RuII(CO)- {RuIII(py)}2.
+2-120	To confirm the results, we have carried out the molecular orbital (MO) calculations on three Ru3II,III,III complexes, [Ru3(μ3-O)(μ-CH3COO)6(py)2(CN)]−, [Ru3(μ3-O)( μ-CH 3 COO) 6 (py) 2 (CO)], and [Ru3 (μ3 -O)(μ -CH 3COO)6(py)3].
+2-121	The qualitative MO scheme has been suggested previously for oxo-centered triruthenium(III,III,III) complexes on the basis of the dπ(Ru)−pπ(μ3-O) interac- tion.[23,27,56]
+2-122	The outline of the scheme is as follows.
+2-123	When the z axis is taken perpendicularly to the Ru3(μ3-O) plane and the x axis of each Ru atom in the direction of the Ru−(μ3-O) bond, a π-type interaction among the three Ru dxz and the μ3-O pz orbitals is suggested to give MOs in the frontier orbital region.
+2-124	The interaction gives one bonding, two nonbonding, and one antibonding orbital.
+2-125	The other dπ orbitals, dxy and dyz, of the three Ru ions should be found around the two dπ−pπ nonbonding orbitals in energy.
+2-126	An unpaired electron in the
+2-127	III,III,III
+2-128	Ru 3 oxidation state occupies one of these several nonbonding orbitals.
+2-129	The scheme may be applied to neighboring oxidation states of the triruthenium core.
+2-130	Thus, in the oxidation state of Ru3II,III,III, nonbonding orbitals are fully
+2-131	− II,III,III
+2-132	C H 3 COO) 6 (py) 2 (CN)] , ( b ) [ R u 3 (μ 3 -O)( μ -C H 3 COO)6 (py) 2 (CO)], a n d ( c ) [ R u 3II,III,III( μ 3-O) ( μ -CH3COO)6(py)3].
+2-133	distribution of [Ru3(μ3-O)(μ-CH3COO)6(py)2(CO)] is clearly different from the other two.
+2-134	The positive charge of the CO-coordinated Ru is significantly lower than those of the py- coordinated Ru (0.544 vs 0.779 and 0.830).
+2-135	The difference in the positive charges is much smaller for [Ru3(μ3-O)(μ-CH 3COO)6(py)2(CN)]−, where the CN-coordinated Ru has somewhat lower positive charge (0.611 vs 0.671 and 0.668).
+2-136	It is also noted that an appreciable amount of negative charge still remains on the carbon atom of the CN− ligand.
+2-137	As expected, no appreciable difference in the charge distribution of the three Ru atoms is found for [Ru3(μ3-O)(μ-CH3COO)6(py)3].
+2-138	These results clearly support the previously suggested localized electronic state for the carbonyl complex: i.e., RuII(CO){RuIII (py)}2.[23,49,57]
+2-139	The significantly smaller positive charge of the CO-coordinated Ru is favorable for the back-donation to CO.
+2-140	The structural localization of the CO complex indicates that the delocalized oxo-centered triruthenium core is not a good π-donor and requires the localization when a strongly π-accepting ligand coordinates.
+2-141	In contrast, the positive charge is practically delocalized over the triruthenium core in the case of the cyano complex.
+2-142	Thus, the dπ−pπ interaction would be extended over the whole Ru3 O core by using Ru dxz π electrons, and the core is π-deficient in the direction where CN− approaches.
+2-143	Therefore, the back-donation in this direction is less favorable.
+2-144	The π-back-donations in the direction perpendicular to the Ru3O plane may be operative but unlikely to be significant if they occurred.
+2-145	Structural localization would take place if the cyano ligand required the strong π-back-
+2-146	donation.
+2-147	The charge distribution of the Ru3O-NO complex[58] [Ru3(μ3-O)(μ-CH3COO)6(NH3)2(NO)]+ has been reported previously.
+2-148	A higher positive charge of the NO-coordinated Ru
+2-149	III,III,III 0
+2-150	was noted that supports the electronic state of Ru3 O-NO
+2-151	II,III,III +
+2-152	rather than Ru3 O-NO .
+2-153	Since the metal cluster complexes in general can be electron- deficient, as the d electrons are used for the metal−metal bonding interactions or the dπ−pπ interactions as discussed above, the hitherto discussed different roles of π-type ligands such as CN−, CO, NO, and isocyanide may be more commonly found in the metal cluster chemistry.
+2-154	The energy levels and the components of the MOs near the frontier orbitals as obtained by the calculations for the ground- state molecular structures are given in Table 4, and the contour plots of the orbitals are shown in the Supporting Information (Figures S2−S4).
+2-155	First, the results on [Ru3 (μ3 -O)(μ-CH 3COO)6(py)3] are discussed.
+2-156	The LUMO has a major contribution from three Ru and μ3 -O and is oriented perpendicularly to the Ru3O plane (dxz−pz) (see the contour plot, Figure S2).
+2-157	The highest occupied MO (HOMO) and a few lower occupied orbitals are mainly composed of dxy and dyz oribitals.
+2-158	If we compare the qualitative MO scheme as described above to the calculated results in Table 4, despite the different oxidation states, the π* orbital corresponds to the LUMO and the nonbonding orbitals to the HOMO and several lower orbitals.
+2-159	Since the HOMO is practically composed of the d orbitals that are oriented perpendicularly to those of LUMO, the HOMO−LUMO transition should be symmetrically forbidden.
+2-160	The nonbonding and bonding π orbitals resulting from the dxz−pz interaction should be mainly HOMO-5 and -6 and those in the deep bonding orbital region, respectively.
+2-161	The Mulliken populations of the frontier orbitals of the R u 3II,III,III cyano complex [ R u 3 ( μ 3 -O)( μ -CH 3COO)6(py)2(CN)]− are similar to those of [Ru3(μ3-O)(μ-CH3COO)6(py)3].
+2-162	Here again the LUMO, which has a significant contribution from μ3-O (24%), should correspond to the π* orbital obtained from the dxz−pz interaction, and the HOMO is distributed perpendicularly to it.
+2-163	The contribution from the two different Ru sites (Ru−CN and Ru−py) has been calculated.
+2-164	While the LUMO receives more contribution from Ru(CN) (29%), the HOMO gets less (21%).
+2-165	Nevertheless, the difference in the contribution from the two different Ru atoms is not significant, and it is concluded that all three Ru atoms are involved in the dπ−pπ interaction.
+2-166	The Mulliken population of the CO complex is quite different from that of the CN−complex.
+2-167	The LUMO again corresponds to the π* orbital of the dxz−pz interaction but has only a small contribution (5%) from CO-coordinated Ru.
+2-168	It is thus concluded that the dπ−pπ interaction occurs mainly among two py-coordinated Ru atoms and μ3-O. The result further supports the localized picture of the Ru3O core in the CO complex: i.e., RuII(CO){RuIII(py)}2 (vide supra).
+2-169	The energy levels of the cyano complex are generally much higher than those of the other two Ru3II,III,III complexes, due to the negative charge of the ligand CN−.
+2-170	This, as well as the σ-
+2-171	We have introduced cyanide ion to the terminal site of the triruthenium core Ru3(μ3-O)(μ-CH3COO)6 to obtain Ru3(μ3-O)(μ-CH3COO)6(py)2(CN) (1).
+2-172	The negative shift of the
+2-173	II,II,III II,III,III
+2-174	redox potentials of the processes Ru3 /Ru 3 and
+2-175	Complexes [Ru3(μ3-O)(μ-CH3COO)6(py)3 ], [Ru3 (μ3-O)(μ-CH 3COO)6(py)2 (CN)]−, and [Ru3 (μ3-O)(μ-
+2-176	CH 3COO)6(py)2 (CO)]
+2-177	[Ru3(μ3-O)(μ-CH3COO)6(py)3]
+2-178	component (%)
+2-179	MO MO energy (eV) Ru μ-O acetate py
+2-180	H-6 −4.76 84 5 7 5
+2-181	[Ru3(μ3-O)(μ-CH 3COO)6(py)2(CN)]−
+2-182	component (%)
+2-183	MO energy
+2-184	L+1 0.99 0 5 0 0 0 95
+2-185	LUMO −0.15 29 39 24 331
+2-186	H-4 −2.36 10 68 3 278
+2-187	[Ru3(μ3-O)(μ-CH3COO)6(py)2(CO)]
+2-188	component (%)
+2-189	MO energy
+2-190	MO (eV) Ru(CO) Ru(py) μ-O CO acetate py
+2-191	L+1 −1.25 0 3 0 0 0 97
+2-192	LUMO −3.38 5 64 24 241
+2-193	H-4 −5.53 3 72 7 2 10 6
+2-194	II,III,III III,III,III
+2-195	Ru3 /Ru3 , in comparison with those of [Ru3(μ3-O)(μ-CH3COO)6(py)3]+, is partly explained in terms of the negative charge.
+2-196	This is in sharp contrast to the π-accepting character (back-bonding) of CO, as [Ru3 (μ3 -O)(μ-CH 3COO)6(py)2(CO)] shows a significantly positive shift of
+2-197	II,III,III III,III,III
+2-198	the potential of the Ru3 /Ru3 process.
+2-199	The difference has been interpreted in terms of the different π-acceptor properties of the two ligands when they coordinate to the mixed-valent Ru3II,III,III core.
+2-200	The strong π-accepting ligand CO is stabilized by the charge localization of the core in the Ru3II,III,III state, where the divalent state is localized to the CO-
+2-201	bonded Ru.
+2-202	In contrast, the triruthenium core shows a delocalized structure in the cyano complex.
+2-203	The difference in the role of two ligands is further discussed with the aid of MO calculations.
+2-204	Further comparative studies on the coordination behavior of the two ligands to other metal clusters with metal−metal bonding interactions or dπ−pπ interactions are certainly of interest.
+3-001	■
+3-002	Materials.
+3-003	All chemical reagents were commercially supplied and used without further purification unless otherwise stated.
+3-004	Silica gel (Wakogel C-300HG) was used for column chromatography.
+3-005	The CH2Cl2 solvent used for electrochemical measurements was distilled ov er C a H 2 u n de r a n Ar a t m o s p he r e .
+3-006	[ R u 3 (μ 3-O)(μ -CH3COO)6(py)2(CH3OH)\](PF6) ([2\](PF6))[23] was synthesized by using the reported methods.
+3-007	[Ru3(μ3-O)(μ-CH3COO)6(py)2(CN)]·CHCl3 (1·CHCl3).
+3-008	To a sol- ution of [2\](PF6) (100 mg, 0.10 mmol) in CH3OH (50 mL) was added an aqueous solution (5 mL) of KCN (6.5 mg, 0.10 mmol) with stirring, and the mixture was stirred overnight at room temperature.
+3-009	After 12 h, the resultant solution was filtered, and the filtrate was evaporated to dryness by a rotary evaporator.
+3-010	The residue was dissolved in water (50 mL), and the aqueous solution was extracted with CH2Cl2 (30 mL × 3).
+3-011	The organic layer was evaporated to dryness, and the resultant blue solid was purified by column chromatography on silica gel with acetone as eluent.
+3-012	The second band, a major product which was eluted, was collected, and the solvent was removed by a rotary evaporator.
+3-013	Recrystallization of the residue from CHCl3 gave a deep blue solid.
+3-014	Yield: 21 mg (25%).
+3-015	Anal. Calcd for C 23H28N3O13Ru3·CHCl3: C, 29.50; H, 2.99; N, 4.30.
+3-016	Found: C, 29.22; H, 3.01; N, 4.04.
+3-017	Positive ESI-MS (acetone): m/z 858.80 ([M + H]+).
+3-018	Selected IR data (KBr pellet, cm−1): 2111 m (CN−), 1607 m (νas (COO−)), 1553 m (νas (COO−)), 1419 vs (νs(COO−)).
+3-019	1H NMR (CD2Cl2): δ 11.01 (s, 12H, CH 3COO−), 8.12 (t, 2H, py 4-H), 7.63 (q, 4H, py 3,5-H), 5.98 (s, 6H, CH 3COO−), 3.41 (d, 4H, py 2,6-H).
+3-020	UV−vis (CH 2Cl2): λmax/nm (ε/M−1 cm −1)662(4700),334(7900),244(18500).
+3-021	Safety Note.
+3-022	Caution!
+3-023	The cyanide salts are potentially hazardous.
+3-024	These chemicals should be handled with extreme caution in small quantities.
+3-025	Physical Measurements.
+3-026	Ultraviolet and visible (UV−vis) absorption spectra were measured with a JASCO V-560 spectropho- tometer.
+3-027	1H NMR spectra were obtained at 400 MHz with an EXC-400 NMR spectrometer.
+3-028	Infrared absorption spectra were recorded on a Bio-Rad FTS 60A/896 FT-IR spectrometer.
+3-029	The positive-ion ESI-MS measurements were performed on a JMS-T100LP mass spectrometer.
+3-030	Elemental analyses were carried out at the Center for Instrumental Analysis, Hokkaido University.
+3-031	Electrochemical measure- ments were carried out at room temperature in CH2Cl2 solutions containing 0.1 M (n-Bu)4NPF6 by using a potentiostat (EG&G, Model 263A) with a glassy-carbon working electrode.
+3-032	The potentials were recorded vs Ag/AgCl (saturated KCl solution) electrode.
+3-033	Pt mesh was used as a counter electrode.
+3-034	The infrared spectroelectrochemistry was carried out on a Bio-Rad FTS 60A/896 FT-IR spectrometer equipped with a liquid-N 2-cooled HgCdTe detector.
+3-035	A homemade thin-layer IR spectroelectrochemical cell with a CaF 2 window was used for in situ IR and electrochemical measurements.[49]
+3-036	The incidence angle of the infrared beam was approximately 65°.
+3-037	A mirror-finish gold disk used as a working electrode was pushed against the CaF 2 window.
+3-038	The liquid layer between the electrode and the window was very thin, only about 1 μm, so that redox processes of solution species were expected to complete rapidly as soon as the electrode potential was changed.
+3-039	The potential was referenced to the Ag/AgCl (saturated KCl solution) electrode, and a Pt foil was used as the counter electrode.
+3-040	Each spectrum with a total of 512 interferograms with 4 cm−1 resolution was collected at each potential.
+3-041	Theoretical Calculations.
+3-042	The theoretical calculations were carried out by density functional theory (DFT) methods with the
+3-043	*S Supporting Information
+3-044	Figures giving the 1H NMR spectrum of complex 1 and contour plots of MOs of [Ru3(μ3 -O)(μ-CH3COO)6(py)3 ], [Ru3(μ3-O)(μ-CH3 COO)6(py) 2(CN)]−, and [Ru3 (μ3-O)(μ-CH 3COO)6(py)2(CO)].
+3-045	This material is available free of charge via the Internet at http://pubs.acs.org.
+3-046	■

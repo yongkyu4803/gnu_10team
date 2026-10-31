@@ -1,0 +1,363 @@
+# document_id: ic500279q
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	The next generation of photovoltaic devices, dye-sensitized solar cells (DSSCs), have recently received more attention because of their added advantages as compared to conventional photovoltaic devices.[1−4] As a result, considerable emphasis has been given to TiO 2-based DSSC resulting in overall conversion efficiencies of 11−15%.[1−5] ZnO, as a compatible photoanode material, is also being explored as an alternative material to
+1-003	TiO 2 due its large band gap (3.44 eV), high electron mobility (205−1000 cm2 V−1 S−1), high exciton binding energy (60 meV), high electron affinity (4.5 eV), and effectiveness in tailoring the morphology and properties.[5]
+1-004	ZnO in various morphologies, nanocrystals/nanoparticles, nanowires, nano- spheres, nanotubes, flowers, rods, etc., have been used in the fabrication of DSSC.[5−9] However, the power conversion efficiencies obtained in ZnO-based DSSCs are normally lower
+1-005	as compared to TiO2 -based ones.[5−9] In certain cases, efficiencies as high as 7% have been reported for ZnO-based DSSCs, but these values are still lower as compared to TiO 2- based DSSCs.[1−9] The value of reported efficiencies for various
+1-006	ZnO structures is very wide and ranges from as low as 0.02% to
+1-007	as high as 7%.[6−11] Nevertheless, because ZnO has an order of magnitude higher electron mobility as compared to TiO2, there
+1-008	© 2014 American Chemical Society 3961
+1-009	is still ample scope and opportunity to improve the efficiency of ZnO-based DSSC.
+1-010	The lower efficiency of ZnO as compared to TiO2 has been thought to be mainly due to the dissolution of ZnO leading to the formation of dye−Zn2+ aggregates especially under acidic conditions, and the slow electron- injection flow from dye.[6,12−14] Therefore, most of the studies pertaining to higher efficiencies have been carried out with N719 dye molecules having a lower number of carboxyl groups than the N3 dye.[5−9] Among the various structures investigated thus far, one-dimensional structures such as ZnO rods and wires have exhibited better performance due to improvement in the directionality of transport of the injected electron by avoiding particle to particle hopping, increase in the electron diffusion length, and also the decreased recombination.[6,7,15,16]
+1-011	Therefore, the tendency to explore simple methodologies to grow one-dimensional (1D) ZnO nanostructures has induced great interest in this area of research and development.
+1-012	Various methods have been reported to date, to synthesize ZnO rods such as metallorganic chemical vapor deposition, template- based methods, laser ablation, spray pyrolysis technique, and
+1-013	Received: May 13, 2013
+1-014	Published: March 31, 2014
+1-015	various other chemical processing techniques.[6−9] However, studies focused on the influence of native defects present in ZnO rods on the performance of fabricated DSSCs are scarce, albeit a large number of publications are available on the synthesis, properties, applications, and device performance of ZnO (refs 6−9 and references therein).
+1-016	Among the few reports available on the defect related DSSC performance, the paper by Hsu et al., on the performance of ZnO rods prepared by hydrothermal and vapor deposition techniques, is note- worthy.[17]
+1-017	Wong et al., on the other hand, investigated the influence of optical properties of ZnO particles on the DSSC performance, whereas Lou et al. reported the influence of defect density on ZnO rods and Makhal et al. reported the role of resonance energy light based on defect emission in ZnO.[18−20] Therefore, our basic objective was to investigate and correlate the influence of native defects on the solution processed ZnO rods and their thermally annealed counterparts and their performance as photo anodes in DSSC.
+1-018	Here, we have prepared ZnO rods by a sonication-induced precipitation methodology followed by simple heating in an aqueous media at 80 ± 5 °C for 6 h.
+1-019	We have investigated in detail the properties of the prepared ZnO rods and have revealed an interesting correlation between the structural defects, photoluminescence properties, and solar cell performances of DSSC fabricated using the as-prepared and thermally annealed ZnO rods.
+2-001	■
+2-002	Materials and Synthesis of ZnO Rods.
+2-003	The samples have been prepared by sonochemical method using NH4OH and zinc acetate as the starting materials.
+2-004	In a typical reaction, ammonia solution [30% GR, Merck Ltd.
+2-005	Mumbai, India] was added dropwise to 250 mL of 0.1 M zinc acetate [(CH3COO)2Zn·2H2O, Merck, Germany] solution, under sonication (ultrasonic power 250 W, ultrasonic frequency 25 kHz, probe diameter 25 mm) until the pH reached 9.
+2-006	The pH was fixed slightly above 9, the isoelectric point (IEP) of ZnO.
+2-007	A slow addition of ammonia was critical in getting a homogeneous precipitate, and hence the required amount of ammonia was added dropwise for an hour until complete precipitation of the hydroxide has occurred.
+2-008	The precipitate was centrifuged and further dispersed in 400 mL of water and stirred on a magnetic stirrer for 6 h, maintaining the solution temperature at 80 ± 5 °C. The precipitate was then centrifuged at an average rpm of 10 000 for 10 min followed by washing with distilled water and drying under IR lamp around 70 °C. The as-synthesized powder was calcined at 100, 200, 300, 400, 500, and 600 °C, respectively, for 4 h for further studies.
+2-009	The 300 °C annealed sample has been further annealed in flowing oxygen and hydrogen atmospheres under identical conditions.
+2-010	Material Characterization.
+2-011	The dried powder was characterized for structural properties by powder X-ray diffraction (XRD) analysis on a X’pert pro MPD XRD of PAN analytical with Cu Kα radiation (λ = 1.5406 Å).
+2-012	The morphology of the synthesized powder was monitored on a scanning electron microscope (SEM), (LEO 430i, Carl Zeiss).
+2-013	The morphology of the rods was further monitored using transmission electron microscopy (TEM), which was carried out on a Tecnai G2 30ST (FEI) high-resolution transmission electron micro- scope operating at 300 kV.
+2-014	Fourier transform-infrared (FT-IR) spectra have been measured between 4000 and 400 cm−1 with 200 scans on a NICOLET 5700 FTIR spectrometer with a resolution of 4 cm−1.
+2-015	Potassium bromide (FTIR grade ≥99% trace metal basis) was used to prepare pellets (Sigma Aldrich (Germany), Pdt.
+2-016	Code: 101108329).
+2-017	The as-received KBr was oven-dried overnight at ∼100 °C and then stored in a desiccator prior to use.
+2-018	The ratio of sample:KBr was varied as 1:2, 1:4, 1: 8, 1:16 to optimize the back ground signal, and the mixture was ground properly to prepare the pellets having thickness of around 0.15 mm.
+2-019	The specific surface area of the calcined samples was measured by Brunauer−Emmett−Teller (BET) method on a Quantachrome Instrument (NOVA 4000 E series).
+2-020	The diffuse
+2-021	reflectance (DR) spectra before and after dye loading were measured on a UV−vis−NIR spectrometer (Shimadzu UV-3600) to find out the extent of dye loading on the ZnO rods.
+2-022	The optical properties of the rods were further evaluated by recording the room-temperature photoluminescence spectrum (PL) on a steady-state spectrofluor- ometer (QM-40, Photon Technology International, PTI) using a xenon lamp (150 W) as an excitation source, at an excitation wavelength of 345 nm and band-pass of 5 nm.
+2-023	The zeta potential measurements have been carried out on a Horiba Nanoparticle Analyzer SZ100.
+2-024	Raman spectra were obtained using a Renishaw InVia Reflex micro Raman spectrometer with excitation of argon ion (514 nm) lasers.
+2-025	The spectra were collected with a resolution of 1 cm−1.
+2-026	X-ray photoemission spectroscopy measurements were carried out in a PHI 5000 Versa probe II scanning XPS microprobe (ULVAC-PHI, U.S.).
+2-027	The measurements were performed at room temperature and at a base pressure better than 6 × 10−10 mbar.
+2-028	All spectra were recorded with monochromatic Al Kα (hν = 1486.6 eV) radiations with a total resolution of about 0.7 eV and a beam size of 100 μm.
+2-029	The X band EPR spectra for powder samples were measured on a Bruker EMX spectrometer at room temperature where the microwave frequency was measured with a Hewlett-Packard 5246 L electronic counter.
+2-030	Five milligrams of the sample was taken in a quartz tube of 1 mm diameter.
+2-031	Instrumental parameters of the spectrometer are frequency = 9.45 GHz, BO -field = 346 mT, BO -sweep = 200 mT, mod amplitude = 0.2 mT, and sweep time = 60 S.
+2-032	Fabrication of the Dye-Sensitized Solar Cell.
+2-033	The ZnO films were made by the doctor blade method on FTO glass (7 Ω/cm[2]) and annealed at 450 °C for 1 h.
+2-034	The thickness of ZnO film was ∼12 μm.
+2-035	For sensitization, these films were dipped in 0.5 mM N719 dye in ethanol for 4 h at room temperature.
+2-036	The sensitizer-coated ZnO films were washed with ethanol after removing from the dye.
+2-037	The electrolyte used was prepared using 0.6 M 1,2-dimethyl 3-propylimidazolium iodide, 0.1 M LiI, 0.05 M I2, and 0.5 M 4-tert-butylpyridine in acetonitrile.
+2-038	Platinum nanoparticle-coated FTO was used as a counter electrode.
+2-039	The Pt paste has been purchased from Solaronix, Switzerland having Pt particles in the 10−20 nm size range.
+2-040	I−V characteristics were measured using a solar simulator (Newport) at 100 mW/cm[2] (1 sun AM 1.5).
+2-041	Standard silicon solar cell (SER NO.189/PVM351) from Newport, U.S. was used as a reference cell.
+2-042	We have used a mask for measurement, and the active area of the cell was 0.25 cm2.
+2-043	The details of the cell fabrication and paste making are reported elsewhere.[21]
+2-044	The data presented are an average of measurements taken on five different devices for each sample.
+2-045	Electrochemical impedance spectroscopy (EIS, Autolab PGSTAT30) was used to characterize the devices further.
+2-046	The frequency range chosen for the impedance measurement was from 10−2 to 106 Hz with an AC amplitude of 10 mV, and the measurements were carried out at room temperature.[21]
+3-001	■
+3-002	Structure and Microstructural Studies.
+3-003	To confirm the phase formation, we have carried out room-temperature powder X-ray diffraction studies on three selected samples: the as-synthesized dried sample, the sample annealed at 300 °C, and the sample annealed at 600 °C, respectively (Supporting Information Figure S1).
+3-004	The XRD patterns matched well with the reported reference pattern of wurtzite ZnO (hexagonal phase, JCPDS card 36-1451), thus confirming the in situ formation of ZnO with high crystallinity during the synthesis.
+3-005	The calculated lattice parameters of the as-prepared samples were a = 3.251 Å and c = 5.212 Å, respectively, with a c/a ratio of 1.6031.
+3-006	We did not find much variation in the c/a ratio on calcination, an indication of the lattice stability.
+3-007	After being annealed at 300 °C, the sample exhibited a minor change in the lattice constants with a = 3.252 Å and c = 5.208 Å, respectively.
+3-008	The calculated unit cell volume for all three samples was higher than the volume calculated for the standard ZnO.
+3-009	The details
+3-010	are given in Table S1 in the Supporting Information.
+3-011	The increase in unit cell volume could arise due to the presence of defects in the samples.
+3-012	The unit cell volume of the 300 °C annealed sample was the lowest, indicating lower defect concentration as compared to others.
+3-013	To find out the morphology of the ZnO formed, we have carried out scanning electron microscopic studies on selected samples as shown in Figure 1a−d.
+3-014	It is evident from the SEM images that the process has resulted in the formation of ZnO rods in the as-prepared stage itself with an average length of 2 μm and diameter of ∼350 nm (Figure 1a).
+3-015	The rods were agglomerated in the as-prepared stage, but on annealing at 300 °C, a minor increase in the rod length was noticed with a slight improvement in the nature of aggregation (Figure 1b and c), indicating the formation of separated rods.
+3-016	Interestingly, on further increase in the annealing temperature, the rods started to fuse and sinter as evident from the formation of grain boundaries in some of the rods shown for the 600 °C annealed sample (Figure 1d).
+3-017	The TEM pictures of the 300 °C annealed rods dispersed in ethanol are presented in Figure 2a−c.
+3-018	A couple of rods that grew adjoining to each other are shown in Figure 2a.
+3-019	The diameter of the rods varied in the range 20−200 nm and length 4 μm or more.
+3-020	One end of the individual rod was tapered and pointed, while the other end was shaped like a hemisphere.
+3-021	The HRTEM image confirms the single crystalline nature of individual rods, where the spacing corresponds to (002) reflection.
+3-022	The SAED pattern shown in Figure 2c indicates the (110) and (100) planes of ZnO.
+3-023	Formation of ZnO Rods.
+3-024	The pH of the solution during the precipitation of Zn(OH)2 was maintained at 9 to arrest the formation of soluble Zn(NH 3)42+ (eqs 1 and 2).[22]
+3-025	The centrifuged precipitate was again dispersed in water and was
+3-026	stirred on a magnetic stirrer at 80 ± 5 °C to induce the growth of ZnO crystallites.
+3-027	Inorganic Chemistry Article
+3-028	In a typical Wurtzite structure of ZnO, the basal polar plane is (001), which terminates to positively charged Zn2+, resulting in a large surface energy for the polar surfaces.
+3-029	Because no chelating agent was added during the synthesis, all of the planes are exposed for growth, resulting in a randomly oriented rod structure, unlike the growth in the presence of capping agents.
+3-030	The more rapid is the growth rate, the quicker will be the disappearance of the basal plane (0001), leading to the formation of rodlike ZnO with pointed or tapered shapes.[23]
+3-031	Optical Properties.
+3-032	To evaluate the effect of annealing temperatures on the optical properties of the prepared ZnO powder, we have annealed the as-prepared ZnO at various temperatures from room temperature to 600 °C at an interval of 100 °C. The room-temperature absorption and photo- luminescence (PL) studies have been carried out using the ethanol dispersion of prepared ZnO samples.
+3-033	The absorption spectrum is shown in Supporting Information Figure S2, and the emission spectrum is shown in Figure 3, respectively.
+3-034	All
+3-035	the samples exhibited a narrow absorption band at 380 nm, which is slightly red-shifted as compared to the reported bulk ZnO values.
+3-036	With an increase in the annealing temperature, the absorption peak shifts slightly toward higher wavelength, suggesting the presence of defects in these samples.
+3-037	The 600 °C annealed sample exhibited the maximum red shift as is clear from Supporting Information Figure S2g.
+3-038	In Figure 3a−g, the evolution of the photoluminescence bands with annealing temperature from 100 to 600 °C is presented.
+3-039	Usually, two emission bands were observed for ZnO: the near band edge emission (NBE) in the UV region, which originates from the recombination of free excitons, and the visible band emission (known as deep level emission, DLE), which arises due to the impurities or structural defects such as interstitial zinc and oxygen vacancies.[24−26] By carefully monitoring the optical properties, with annealing temperatures, it was observed that NBE is enhanced constantly with annealing temperatures from 100 to 300 °C with a concurrent increase/decrease in intensity of the defect related emission.
+3-040	Surprisingly, the intensity of NBE starts to decrease with further increase in annealing temperature and drops even below the as-prepared sample above 400 °C, followed by an increase in the intensity of the visible emission.
+3-041	In addition, the visible emission peak intensity
+3-042	has slowly shifted toward red with increase in the annealing temperature.
+3-043	As is evident from Figure 3a, the PL of the as-prepared ZnO exhibited a strong band near UV centered at 383 ± 2 nm (3.23 eV) and another broad visible band centered at 567 ± 2 nm (2.186 eV).
+3-044	With increase in the annealing temperature, up to 200 °C, the band position shifted slightly to the red, but with an increase in the intensity.
+3-045	At 300 °C, a sudden decrease in the visible PL band intensity was noticed with a consequent substantial increase in the near band edge emission at 385 nm.
+3-046	Clearly, the intensity of the 567 ± 2 nm (2.186 eV) band has decreased considerably after annealing at 300 °C, but slightly red-shifted to 596 ± 2 nm (2.080 eV).
+3-047	Surprisingly, above 300 °C, a noticeable increase in the visible band emission with a subsequent increase in the band intensity followed by a dramatic decrease in the intensity of the band edge emission was noticed.
+3-048	As is evident from Figure 3g, the 600 °C annealed sample exhibited a strong broad visible emission around 625 nm.
+3-049	Because the 300 °C annealed sample exhibited the lowest defect related emission, we have further annealed the 300 °C sample in flowing hydrogen and oxygen atmospheres for collecting more insight into the type of defects present in these samples.
+3-050	The normalized PL data of the sample are shown in the Supporting Information as Figure S3.
+3-051	There was not much change in the NBE emission, but a decrease in the intensity of the defect related emission was noticed as shown in the inset of Supporting Information Figure S3.
+3-052	The detailed discussion on the defect related emission properties will be presented in the defect structure of ZnO (vide infra).
+3-053	Raman Spectral Studies.
+3-054	To further assess the structural quality of the prepared samples, we have characterized the ZnO rods by Raman spectroscopy.
+3-055	The Raman spectrum of ZnO rods excited with the 514 nm Ar+ laser line at room temperature is presented in Figure 4 for all of the calcined
+3-056	samples.
+3-057	The Raman spectrum is highly sensitive to crystalline nature, structural disorder, and defects in crystalline materials.
+3-058	Among the eight sets of optical modes for single-crystalline wurtzite ZnO, the A1, E, and E2 modes are Raman active.
+3-059	The A1 and E1 modes are polar and split into transverse-optical (TO) and longitudinal-optical (LO) phonons, and the E2 mode consists of two modes of low- and high-frequency phonons.[27]
+3-060	The most dominant and sharp peak at 438 cm−1 observed in the Raman spectrum of all of the samples is the
+3-061	samples, (c) spin−orbit split peaks of Zn 2p3/2 showing a symmetric peak for the 300 °C annealed sample, and (d) spectral decomposition of O 1s
+3-062	spectra shows three different types of oxygen, represented as O1, O2, and O3 of the ZnO rods annealed at 300 °C.
+3-063	intrinsic Raman-active E 2 mode characteristic of hexagonal wurtzite phase of ZnO.[27]
+3-064	The modes at 205, 332, and 658 cm−1 are due to the multiphonon scattering processes (shown as dotted lines in the figure).
+3-065	On the other hand, the E1(LO) mode at 583 cm−1, which appeared as a suppressed peak, is due to the presence of defects such as oxygen vacancies or oxygen interstitial.[27−29] Interestingly, the intensity of this peak was minimum for the as-prepared ZnO rods and was almost absent for the 300 °C annealed sample, confirming the formation of ZnO rods with minimum surface defects at this temper- ature.[27−29] It is interesting to note that the E1 (LO) phonon mode around 583 cm−1 in the high-temperature-annealed sample has gone high in intensity as compared to 300 °C annealed sample.
+3-066	At 600 °C annealed sample, the 583 cm−1 peak has become asymmetric with the appearance of another broad shoulder at 541 cm−1.
+3-067	This could be due to the presence of interstitial oxygen in the high temperature annealed samples.
+3-068	The weaker band at 409 cm−1 is assigned to the E1(TO) mode, and that at 380 cm−1 is due to the A1(LO) mode, respectively.
+3-069	X-ray Photoemission Spectroscopy Studies.
+3-070	For a further understanding of the electronic structure of these systems, selected members of the series, as-prepared, 300 °C annealed, and 600 °C annealed ZnO samples, were investigated by X-ray photoemission spectroscopy (XPS) technique.
+3-071	Zn 2p and O 1s core level spectra from the above-mentioned samples are shown in Figure 5a and b, respectively.
+3-072	The Zn 2p spectra for all of the samples are composed of the spin−orbit split peaks of Zn 2p1/2 and 2p 3/2 appearing at around 1045.3 and 1022.2 eV binding energies, respectively.
+3-073	Apart from the slightly higher background for the as-prepared sample, Zn 2p spectra of
+3-074	all of the samples are approximately similar with respect to their spectral shapes and binding energy positions.
+3-075	However, the O 1s core level spectra show strong shoulders/asymmetries at the higher binding energy side, the highest for the as-prepared sample and strongly suppressed with annealing, with the 300 °C annealed ZnO rods having the lowest shoulder intensities.
+3-076	We performed a detailed core level analysis of the 300 °C annealed sample.
+3-077	An expanded view of the Zn 2p 3/2 core level spectra obtained from the 300 °C annealed sample is shown in Figure 5c.
+3-078	The symmetric shape of the spectra together with its binding energy position at around 1022.2 eV could be assigned to Zn in Zn2+ state in ZnO.[30]
+3-079	A spectral deconvolution of the asymmetric O 1s spectrum of the sample annealed at 300 °C, depicted in Figure 5d, results in three components appearing at binding energies of 530.95, 531.95, and 532.85 eV, respectively.
+3-080	On the basis of the reported results by many investigators, it can be concluded that the 530.95 eV (O1) component on the lower binding energy side of the O 1s spectrum belongs to O2− ions in Zn−O bonds of wurtzite structure (lattice oxygen).
+3-081	The medium binding energy peak at 531.95 eV (O2) is associated with the O2− ions in oxygen-deficient regions within the ZnO matrix.
+3-082	Finally, the high binding energy portion at 532.85 eV (O3) is generally attributed to the presence of interstitial oxygen in ZnO, which also may include additional oxygen in the grain boundaries such as chemisorbed oxygen.[31−33] It is worth mentioning that the PL results do confirm the presence of both doubly ionized oxygen vacancies and interstitial oxygen in the calcined samples.
+3-083	Therefore, we assume that the O1S band corresponding to O3 is due to the presence of interstitial oxygen in our samples.
+3-084	Thus, our PL data corroborate well with
+3-085	the XPS results confirming the presence of doubly ionized oxygen vacancies in the 300 °C annealed samples and interstitial oxygen in the 600 °C annealed samples.
+3-086	Hence, it can be confirmed that even though the 300 °C annealed sample contains oxygen vacancy defects, extending this analysis to Figure 5b suggests that the concentration of defects appears to be smaller in the 300 °C annealed sample as compared to others.
+3-087	The photoluminescence and Raman spectroscopic studies also confirmed that the 300 °C annealed rods have minimum defects with improved crystal quality supporting the XPS analysis.
+3-088	Electron Paramagnetic Resonance Studies.
+3-089	To further investigate the intrinsic defect centers present in the prepared ZnO rods, EPR studies have been carried out on few selected samples.
+3-090	In Figure 6a−e, the EPR spectra recorded at room
+3-091	temperature for the as-prepared, 300, 400, 500, and 600 °C annealed samples, respectively, are presented.
+3-092	Both the as-prepared and the 300 °C annealed sample exhibited a strong single EPR line at g = 1.954 (inset), whereas in the 400 °C annealed sample the observed signal is very weak, and in the 600 °C annealed sample the EPR signal was completely absent.
+3-093	The origin of this intrinsic EPR signal at g = 1.954 has been controversially discussed in the literature due to singly ionized oxygen vacancies, Zn vacancies, or oxygen or zinc interstitials.[26]
+3-094	To rule out the presence of singly ionized oxygen vacancies in our samples, we carried out magnetic measurements at room temperature (RT) on the rod samples.
+3-095	Both Zn interstitials and oxygen vacancies are known to be the predominant ionic defect types donating electrons and thereby exhibit RT ferromagnet- ism in ZnO.
+3-096	All of our samples exhibited diamagnetism at room temperature, which was indirect evidence for the absence of either paramagnetic singly ionized oxygen vacancies or zinc interstitials in our samples.26,34,35In addition, recent studies confirmed an EPR signal around g = 1.995 as the only signature of singly ionized oxygen vacancies, which again was absent in our samples.[24]
+3-097	Interestingly, many theoretical and experimental studies revealed the presence of isolated hydrogen as hydrogen interstitial Hi+ or hydrogen trapped within the oxygen vacancy, HO, in ZnO, both acting as shallow donors giving rise to an EPR signal at 1.95.[36−39] The observed EPR signal at 1.950−1.949 from our samples could thus be assigned to shallow donor centers related to the incorporation of hydrogen in the
+3-098	solution processed ZnO.[36−38] It is interesting to note that the intensity of the EPR signal at g = 1.949 is highest for the 300 °C annealed sample, which decreases substantially at higher annealing temperatures, confirming the loss of hydrogen and thus the shallow door concentrations at higher annealing temperatures.
+3-099	The observed EPR signal was very weak for the 400 °C samples and was completely absent for the 500 and 600 °C annealed samples, thereby confirming the absence of the donor sites in the samples that have been annealed beyond 400 °C.
+3-100	Defect Structure of ZnO.
+3-101	The control of defects is of paramount importance in employing ZnO for various opto- electronic applications.[24]
+3-102	ZnO exhibits both UV and visible emissions spanning a wavelength range of 350−700 nm.
+3-103	The defect related visible emission in most of the cases however is attributed to surface defects; the origin of such emissions is still under controversy despite the large number of reviews and
+3-104	24−26,33,40
+3-105	publications.
+3-106	The possible point defect centers in ZnO are (i) zinc vacancies (Vzn), (ii) zinc interstitials (Zni), (iii) oxygen interstitials (Oi), and (iv) oxygen vacancies (Vo ).
+3-107	Among these defect centers, zinc interstitial is reported to be diamagnetic.[24,38−40] The oxygen vacancies exist in three different forms such as VOo, VO+, and VO2+.
+3-108	There are no unpaired electrons left in the doubly positively charged oxygen vacancy, and hence it is diamagnetic.
+3-109	The oxygen vacancy designated as VO+ is paramagnetic.
+3-110	The neutral VO defect center captures two electrons and is again diamagnetic in most of the cases.
+3-111	Similarly, oxygen interstitial could be O i, O i−, and O i2−.
+3-112	In this case again, only the Oi− is paramagnetic.[38]
+3-113	The defect related emissions generally occur near the blue-green (450−550 nm) corresponding to singly ionized oxygen vacancies (VO+), yellow (550−610 nm) corresponding to doubly ionized oxygen vacancies (VO2+), and orange-red (610−750 nm) corresponding to interstitial oxygen (Oi), respec- tively.[35]
+3-114	There is a possibility of different kinds of defects coexisting in the same sample giving rise to broad emission in the visible region as in this case.
+3-115	The band edge emission of ZnO was reported to occur between 373 and 390 nm depending on the structure of the ZnO nanomaterials.[40]
+3-116	In our case, the band edge emission was present at 378 nm for the as-prepared and 383 nm for the 300 °C annealed rods (Figure 3a−g).
+3-117	The minor shift in the band edge emission is assumed to be due to the influence of native defects present on the surface of ZnO rods.
+3-118	In addition to this shift in NBE, we also noticed a significant variation in the NBE band intensity with annealing temperatures (Figure 3).
+3-119	The intensity of the NBE band varied from 1 for the as-prepared sample to 3.78 for 100 °C annealed to 4.91 for 200 °C to 5.81 for 300 °C to 0.63 for 400 °C to 0.57 for 500 °C to 0.41 for the 600 °C annealed samples.
+3-120	An enhancement of NBE with annealing temperature was reported earlier by Huang et al., for the solution processed ZnO rods,[41,42] and they attributed this to an annealing-induced activation and dissociation of shallow hydrogen donor (HO+) trapped within the oxygen vacancies.
+3-121	We also noticed such a substantial increase in the NBE on annealing up to 300 °C. On the other hand, a further increase in annealing temperature has resulted in a reduction in the intensity of the NBE band.
+3-122	As has been reported by Huang et al., at higher temperatures (>425 °C) the hydrogen starts to diffuse away, resulting in a decrease in the NBE emission.
+3-123	Interestingly, we have noticed this change at a lower temperature and confirmed this variation in the NBE to the incorporation and removal of hydrogen during annealing.[41]
+3-124	in Figure 4.
+3-125	(C) The variation of the relative intensity of the spectral components calculated from the deconvoluted data shown in Supporting
+3-126	Information Figure S4 and the measured zeta potential values for (a) as-prepared, (b) 100, (c) 200, (d) 300, (e) 400, (f) 500, and (g) 600 °C,
+3-127	respectively, annealed samples.
+3-128	(D) The variation of the integrated intensity of the P1 component with the measured zeta potential for (a) as-
+3-129	prepared, (b) 100, (c) 200, and (d) 300 °C annealed samples.
+3-130	The EPR studies (Figure 6) on the annealed samples corroborate the PL studies, thereby confirming the escape of hydrogen during annealing at temperatures above 300 °C.
+3-131	With annealing, the visible band maxima slowly shifted from 567 nm for the as-prepared ZnO (2.1 eV) to 569 nm for 100 °C (2.1789 eV) to 570 nm for 200 °C (2.1751 eV) to 590 nm for 300 °C (2.1014 eV) to 612 nm for 400 °C (2.022 eV) to 615 nm for 500 °C (2.0160 eV) and finally to 622 nm for 600 °C (1.993 eV).
+3-132	The broad visible yellow emission of the as-prepared ZnO rods in the 550−610 nm range with a band maximum around 567 ± 2 nm (2.186 eV) is attributed to doubly ionized oxygen vacancies.[32]
+3-133	Moreover, the absence of any emission band in the blue green region confirms the absence of singly ionized oxygen vacancies in the low temperature annealed samples.
+3-134	The broad band in the 490−750 nm region with a band maximum corresponding to orange red emission at 625 nm is attributed to the presence of interstitial oxygen also in the samples.[32,43,44]
+3-135	On annealing at temperatures above 300 °C, the surface oxygen vacancy defects (Vo ) get eliminated, and a subsequent increase in the interstitial oxygen defects (VOi″) occurs.
+3-136	Because of the competition between the above two point defects correspond- ing to the yellow emission and the red emission, there are overlaps with a shift in the emission peak toward the red as revealed in the case of annealed rods.
+3-137	The optical properties of the prepared rods were further evaluated by a comparison of the ratio of the intensities of the NBE emission to the visible emission (INBE /IVIS).
+3-138	As is evident from Figure 7A, the INBE/IVIS ratio of the rods increased to 300 °C and then reduced, on further increase in the annealing temperature.
+3-139	The higher INBE /IVIS ratio of the 300 °C annealed sample demonstrates the formation of ZnO rods with a lower defect concentration at this particular processing condition.
+3-140	Increase in this ratio with annealing temperature further predicts that the emission center is predominantly located near the surface.
+3-141	Many researchers have reported annealing-
+3-142	dependent variation of PL intensity and confirmed that ZnO nanoparticles annealed at 250 °C exhibit maximum PL intensity and elimination of oxygen vacancies and introduction of oxygen interstitials above 300 °C.[45−47]
+3-143	To further evaluate the crystal quality of the ZnO, the integrated intensity ratios of E2 (high) to E1 (LO) mode from Raman spectra were calculated and plotted as a function of the annealing temperatures (Figure 7B).[29]
+3-144	The E2 to EI (LO) ratio has been shown to increase with annealing temperature up to 300 °C, and beyond which it decreases further.
+3-145	This change again is a consequence of the decrease of surface defects with annealing temperature with the 300 °C sample exhibiting the minimum concentration of surface defects.
+3-146	To get more insight into the root cause of the visible emission exhibited by the low temperature annealed samples, we have deconvoluted the visible emission bands and fitted the PL band into two individual Gaussian peaks as shown in Supporting Information Figure S4.
+3-147	The two bands are designated as P1 and P2 in Supporting Information Figure S4.
+3-148	The band maxima of P1 for the as-prepared and samples annealed at 100, 200, and 300 °C were located around 550−560 nm (2.254 −2.214 eV), which shifted to 590−600 nm (2.10−2.06 eV) for samples annealed at 400, 500, and 600 °C, respectively.
+3-149	On the contrary, the band P2 located around 625 nm (1.97 eV) was almost absent for the low temperature annealed samples and stronger for the high temperature annealed samples.
+3-150	As discussed earlier, the defect related singly ionized oxygen vacancies (V O+) generally occur near the blue-green region (450−550 nm), doubly ionized oxygen vacancies (V O2+) occur near the yellow region (550−610 nm), and that corresponding to interstitial oxygen (O i) occurs in the orange-red (610−750 nm) region.[35,47]
+3-151	It has been reported that VO2+ is created by capture of a hole by the VO+ in a depletion center leading to emission near 550 nm, which is the P1 line in the deconvoluted graph in our case.
+3-152	In this context, it is interesting to quote the work of Ghosh et al., correlating the change in the surface charge/surface potential
+3-153	(zeta potential ξ) of the ZnO nanoparticles to the variation in the visible emission intensity.[48,49]
+3-154	The measured zeta potentials of our samples at 20 °C were 8.6, 14.4, 11.2, 2.8, 1.1, 1, and 0.6 mV, respectively, for the as-prepared and samples annealed at 100, 200, 300, 400, 500, and 600 °C, respectively.
+3-155	We have also calculated the ratio of the intensity of the two deconvoluted peaks (IP1/IP2) representing the contribution of mainly the doubly ionized oxygen vacancy (IP1) and the interstitial oxygen (IP2) present in the samples.
+3-156	The calculated ratio (IP1/IP2) was 5.18, 8.14, 5.84, 1.96, 0.64, 0.55, and 0.46, for the as-prepared and annealed samples at 100, 200, 300, 400, 500, and 600 °C, respectively.
+3-157	It is interesting to notice the variation in the zeta potential with IP1/IP2 ratio shown in Figure 7C. In our case, the samples annealed at 100 °C exhibited the highest zeta potential of 14.4 mV corresponding to an IP1/IP2 ratio of 8.14.
+3-158	This shows that the component corresponding to the IP1 arising from doubly ionized oxygen vacancy is maxima in the 100 °C annealed sample.
+3-159	It is also very exciting to note the lower zeta potential (2.8 mV) value exhibited by the 300 °C annealed sample corresponding to an IP1/IP2 ratio of 1.96.
+3-160	The samples annealed above 300 °C exhibited very low zeta potential values, confirming almost an absence of the presence of doubly ionized oxygen vacancies on the surface.
+3-161	We have also plotted the zeta potential versus the integrated intensity of the deconvoluted band emission peak P1 as shown in Figure 7D. This result unequivocally confirms the presence of (i) doubly ionized oxygen vacancies in the surface of low temperature annealed samples corresponding to a positive surface charge and zeta potential value and (ii) the presence of lowest concentration of oxygen vacancies in the 300 °C annealed sample and highest in the 100 °C annealed sample.
+3-162	A comparison of the intensities of the UV emission to the visible emission (INBE /IVIS ) of the 300 °C samples annealed in different atmospheres was 30.96 in hydrogen and 57.62 in oxygen as compared to 20.97 in air.
+3-163	These samples also exhibited reduced zeta potential values of 2.5 and 1.9, respectively.
+3-164	These results confirmed a reduction in the defect related emission corresponding to doubly ionized oxygen vacancies during annealing in hydrogen and oxygen atmos- pheres.
+3-165	As expected, annealing in oxygen was expected to decrease the concentration of oxygen vacancies as 1/ 2O2 + VOx = OOx.
+3-166	Similarly, annealing in hydrogen could result in trapped hydrogen within the oxygen vacancies and form shallow donors of the type HO and thus reduce the oxygen vacancy defect related emission further.
+3-167	The above atmosphere controlled annealing experiments unequivocally indicated the presence of oxygen vacancies in the 300 °C annealed samples.
+3-168	All of the experimental evidence taken together suggests the presence of doubly ionized oxygen vacancies in the low temperature annealed samples and oxygen interstitial in the high temper- ature annealed samples.
+3-169	Infrared, UV, and Diffuse Reflectance Studies.
+3-170	The IR spectra show an absorption band at ∼520 cm−1 for all three samples (Supporting Information Figure S5A), characteristic of Zn−O band stretching frequency.[50]
+3-171	In addition, a broad stretching band at ∼3450 cm−1 and a corresponding bending mode band around 1600 cm−1 have been found in the spectrum of the as-prepared rods corresponding to the O−H stretching vibration of molecularly adsorbed H2O.[51] The intensity of the 3450 cm−1 peak significantly reduces with annealing and essentially disappears for the 600 °C sample under ambient condition.
+3-172	As discussed in the Raman spectrum, the A1, E1, and E2 optic modes are Raman active, but the A1 and E1 modes are
+3-173	IR active too.[51]
+3-174	We have seen a clear broadening in the Zn−O stretching mode with an indication of a splitting with increase in annealing temperature.
+3-175	The as-prepared sample exhibited a Zn−O bond stretching around 539 cm−1, which is seen to shift to 518 cm−1 for the 300 °C and to 522 cm−1 for the 600 °C annealed sample.
+3-176	The presence of oxygen defects could weaken the Zn−O bond strength, resulting in a shifting of the IR absorption band toward lower wavenumber.
+3-177	The observed IR data further confirm the lower concentration of oxygen defects in the 300 °C annealed ZnO rods.
+3-178	The additional significant peaks at ∼1365 and 1602 cm−1 (Supporting Information Figure S5B) correspond to the symmetric and asymmetric C−O stretching vibration from the carboxylate groups, confirming the successful adsorption of the dye molecule.
+3-179	The weak band at 2109 cm−1 corresponds to the NCS stretching band of the thiocyanate ligand in N719 dye molecule.[52]
+3-180	These indicate successful adsorption of dye molecules on the ZnO surface.[14,53]
+3-181	To study the dye adsorbing capability of the studied ZnO samples, a known amount of the ZnO has been soaked in 0.5 mM N719 dye solution in ethanol for 4 h.
+3-182	The absorption spectra of an ethanolic solution of N719 dye molecule and the desorbed dye molecules collected after dye absorption on the ZnO samples are presented in Supporting Information Figure S6.
+3-183	The dye molecule exhibits three distinct peaks at 310, 380, and 524 nm, respectively.
+3-184	The 380 and 524 nm peaks are due to the MLCT bands and the highest energy peak at 310 nm, which is actually a doublet due to the Π→Π* intraligand transition.
+3-185	It is worth noting a blue shift of the 524 nm peak after interaction with ZnO powders probably indicating the possible formation of ZnO/dye aggregates.
+3-186	It is clear that the intensity of the residual dye solution is highest for the ZnO powder annealed at 600 °C and is lowest for the as-prepared sample.
+3-187	The percentage of the dye adsorbed on the ZnO rod surface could be expressed by the formula (Co − C)/Co, where Co is the initial concentration of the N719 dye and C is the percentage of residual dye in the solution.[54]
+3-188	It can be concluded that the dye adsorption ability, (Co − C)/Co, is highest for the as-prepared ZnO and gradually decreases for the 300 and 600 °C annealed samples.
+3-189	The surface areas of the samples were 2.3, 1.9, and 1 m2/g, respectively, for the as-prepared, 300, and 600 °C annealed samples.
+3-190	The diffuse reflectance (DR) spectra of the free ZnO powders and those impregnated with 0.5 mM N719 dye in ethanol for 4 h at room temperature are presented in Supporting Information Figure S7.
+3-191	The reflectance of the as-prepared and the 300 °C annealed rods is high as compared to that of the 600 °C annealed rods, indicating high light scattering ability of the former samples.
+3-192	An abrupt decrease in reflectance at a wavelength around ∼380 nm corresponds to the interband absorption of ZnO rods.
+3-193	The higher dye loading capability of the as-prepared rods could be due to the hydrophilic surface property of the as-prepared rods.
+3-194	Despite a larger rod length (Figure 1b and c), the DR spectrum indicates a lower dye adsorption for the 300 °C annealed samples, probably due to the lower OH content on the samples.
+3-195	This was further revealed from the IR studies discussed above.
+3-196	The DR spectrum of 300 °C annealed rods, on the other hand, indicates a higher light scattering ability as compared to the as-prepared rods after dye loading.
+3-197	The surface of a dye adsorbed film is shown as an inset in Supporting Information Figure S7, indicating no morphological change after dye adsorption.
+3-198	To find out the contribution of charge carriers present in our samples, we have monitored the I−V characteristics of the
+3-199	fabricated films.
+3-200	Current perpendicular-to-plane (CPP) con- ductivity measurements were performed on all ZnO films before dye loading using aluminum top electrode as shown in Supporting Information Figure S8.
+3-201	Here, the voltage was swept from 0 to 6 V with a step of 0.5 V. From the measurements, it was clear that 300 °C annealed films are more conducting as compared to the as-prepared and 600 °C annealed samples.
+3-202	These data corroborate well with our findings from EPR measurements confirming the presence of donor defects in the prepared ZnO samples, with a higher signal intensity for the 300 °C annealed sample.
+3-203	Mostly, the donor defects have been reported to be responsible for the n-type conductivity in
+3-204	ZnO.36,37
+3-205	DSSC Measurements.
+3-206	The isoelectric point (IEP) of ZnO is 9, and hence the dissolution of Zn ions and formation of Zn2+/dye aggregates occurs with acidic dye molecules.
+3-207	Therefore, we examined the performance of the ZnO rods with N719 dye molecules having lower number of carboxyl groups than N3 dye.[14]
+3-208	Figure 8 shows the J−V characteristics of
+3-209	the DSSCs fabricated with the as-prepared and annealed ZnO rods as photoanodes.
+3-210	The fill factor (FF) of the DSSC was calculated using eq 3:[55]
+3-211	ImaxVmax
+3-212	fill factor =
+3-213	I Vsc oc (3)
+3-214	where Imax and Vmax are the current and voltage obtained, respectively, at the maximum power point on the photovoltaic power output curve.
+3-215	The FF can be increased by reducing the recombination between the photo excited carriers at the ZnO nanostructures and the tri-iodide ions in the electrolyte.
+3-216	The photovoltaic efficiency (η) was calculated by eq 4:
+3-217	I V FF
+3-218	η = $\frac{SC OC}{P}$
+3-219	in (4)
+3-220	Pin is the solar radiation intensity/intensity of the incident light.
+3-221	The thickness of the ZnO photoanode was optimized first as the VOC and ISC of the DSSC depend on the thickness of the films.
+3-222	The open circuit voltage Voc of a DSSC is the difference between the Fermi energy of the semiconductor ZnO and the redox potential of the electrolyte.
+3-223	The VOC can increase with increase in the thickness, while the ISC will decrease as the layer thickness increases.
+3-224	As is evident from the data summarized in Table 1, a strong influence of annealing on the cell performance was noticed.
+3-225	The rods annealed at 300 °C exhibited a higher
+3-226	Voc Jsc FF efficiency ±0.2 sample (V) (mA/cm[2]) (%) (%)
+3-227	as-prepared ZnO rods 0.66
+3-228	annealed at 300 °C 0.67
+3-229	annealed at 600 °C 0.71
+3-230	4.73
+3-231	5.11
+3-232	2.5
+3-233	43.58
+3-234	45.29
+3-235	35.2
+3-236	1.38
+3-237	1.57
+3-238	0.63
+3-239	current density, fill factor, and efficiency as compared to the as-prepared and 600 °C annealed samples.
+3-240	The cell efficiency varied in the order 300 °C rods > as-prepared rods > 600 °C rods as 1.57% > 1.38% > 0.63%, respectively.
+3-241	The fill factor was highest for 300 °C annealed and minimum for the 600 °C annealed rods.
+3-242	It can be seen that there is no direct relation between the amount of dye adsorbed and the efficiency values because the DR data show maximum dye loading on the as-prepared samples probably due to the higher surface hydroxyls.
+3-243	The 600 °C annealed sample exhibited the lowest dye loading capability and consequently the lowest efficiency.
+3-244	In addition, the sample annealed at 600 °C, that is, the one exhibiting orange red emission, exhibited lower short circuit current density Jsc, higher open circuit voltage Voc, and lower fill factor as compared to those exhibiting green yellow emission or weak emission in the visible.
+3-245	In accordance with the PL results, the ZnO rods annealed at 600 °C contain mainly the chemisorbed or interstitial oxygen.
+3-246	This sample exhibited a higher open circuit voltage (Voc) of 0.71 V and a lower fill factor (FF) of 35.2.
+3-247	The lower free carrier density in the 300 °C annealed sample could induce a positive shift of the Fermi level of ZnO rods that could further reduce the gap between the I−/I3− redox couple and Fermi level, thereby minimizing the Voc followed by an improvement in fill factor, which is less recombination and
+3-248	19,20,56,57
+3-249	thereby enhances the efficiency indirectly.
+3-250	The as-prepared and 300 °C annealed ZnO rods having less oxygen vacancy density exhibited relatively less Voc of 0.66 and 0.67 V, respectively (Figure 8a) and a higher fill factor of 43.58% and 45.29%, respectively (Figure 8c).
+3-251	The photoluminescence and Raman spectroscopic studies confirmed that the 300 °C annealed rods have minimum defects with improved crystal quality.
+3-252	The favorable surface condition for dye adsorption (hydrophilic due to OH), improved crystallinity, better light scattering ability, and less oxygen vacancy density collectively account for a higher electron injection to the conduction band of ZnO rods annealed at 300 °C resulting in a maximum short circuit current density (Jsc) of 5.11 mA/cm[2] and consequently a higher overall conversion efficiency of 1.57% (Figure 8b).
+3-253	We also accomplished a reasonable overall conversion efficiency of 1.38% with a short circuit current of 4.73 mA/cm[2] from the fabricated DSSCs with the as-prepared ZnO rods.
+3-254	Although the synthesis and DSSC performance of various solution-derived ZnO rods have been reported in a series of reviews and articles, the efficiencies of most of them were below 1% with a few exhibiting above 1% efficiency.[58−63] In this respect, our data are far superior in that we were able to prepare ZnO rods by a very simple solution technique without the use of any surfactant or structure-directing agent exhibiting much enhanced DSSC efficiency as compared to many of the
+3-255	18−20,58−63
+3-256	reported values on solution processed ZnO rods.
+3-257	Impedance Measurements.
+3-258	The impedance measure- ments were performed on the samples to learn more about the transport properties at different interfaces in the solar cell assembly.
+3-259	The frequency range chosen for the measurement was from 10−2 to 106 Hz with an AC amplitude of 10 mV.
+3-260	As is
+3-261	voltage, (c) capacitance (C2) versus applied voltage, and (d) Bode plot measured at 0.7 V.
+3-262	well-known, the typical Nyquist plot for DSSC consists of three semicircles representing the three different interfaces.
+3-263	The first semicircle shows the Pt/electrolyte interface, the second semicircle depicts the ZnO/dye/electrolyte interface, and the third describes the diffusion of I−/I 3− and Warburg impedance.[64]
+3-264	As the Pt and electrolyte used are the same for all cases, the interface of our interest for the sake of comparison is the ZnO/dye/electrolyte interface, where ZnO used was as-prepared or annealed at different temperatures as described earlier.
+3-265	The impedance data were recorded at three different bias voltages.
+3-266	From the recorded Nyquist plots, the resistance and capacitance values were extracted for an equivalent circuit,[13] shown in Figure 9a.
+3-267	Figure 9b shows the plot of log of resistance (R2 ) versus the applied voltage, R2 being the charge transfer resistance including the effects of recombination of electrons with I3− at the ZnO/electrolyte interface.
+3-268	R2 is lowest for the as-prepared case, and is seen to increase with annealing temperature.
+3-269	The behavior of the capacitance C2 (in parallel to R2 in the equivalent circuit) is shown in Figure 9c and is seen to be opposite to that of R2.
+3-270	This capacitance describes the storage of charges upon injection of electrons from the dye molecule to ZnO.
+3-271	The Bode plot (Figure 9d) was also recorded to calculate the electron lifetimes.
+3-272	The peak frequency of central arc keff describes the rate of recombination of electrons in the film.
+3-273	It was 57.7 s−1 for the as-prepared sample, 47.7 s−1 for the 300 °C annealed sample, and 33.8 s−1 for the 600 °C annealed sample.
+3-274	The lifetimes were thus 2.7, 3.3, and 4.7 ms, respectively, for the as-prepared, 300, and 600 °C annealed samples, respectively.
+3-275	Clearly, the lifetime of
+3-276	electrons is lowest in the as-prepared sample and increases with annealing temperature.
+3-277	The data presented in Figure 9b establish that the transport parameters are basically following a monotonic trend as a function of annealing temperature.
+3-278	Thus, the possible origin for nonmonotonic behavior of conversion efficiency (it being highest for 300 °C annealed sample) has to be sought elsewhere.
+3-279	We looked at the dye adsorption capability in the case of the three samples.
+3-280	As discussed earlier, the dye adsorption was also found to follow a monotonic trend.
+3-281	It thus seems reasonable to assume, on the basis of the PL data presented in Figure 3, that the presence of minimum concentration of surface defects in the case of the 300 °C annealed sample with a sharp band edge exciton contribution without any significant bound exciton contribution(s) should be responsible for the higher efficiency.
+3-282	The as-prepared and 600 °C annealed samples are seen to exhibit fairly strong bound exciton PL contributions, although they are characteristically different.
+3-283	Although the electron lifetime was higher in the 600 °C annealed case, if this is much shorter than the transport lifetime, then the efficiency could be lower in this case as compared to the 300 °C annealed case.
+3-284	The transport lifetimes estimated for the 300 and 600 °C annealed samples at 0.7 V were 14.4 and 9 ms, respectively.
+3-285	Thus, for both cases, the recombination effects in the interconnected ZnO network seem to dominate the transport process.
+3-286	As emphasized by Wong et al., the conversion efficiency is a truly complex function of several of these parameters, and further work would be needed to offer definitive answers in this respect.[18]
+3-287	Inorganic Chemistry Article
+4-001	■
+4-002	The effect of post annealing temperatures on the DSSC performance of solution-grown ZnO rods has been studied in detail.
+4-003	Detailed characterization of the studied ZnO based on Raman spectroscopy, infrared spectroscopy, photoemission spectroscopy, and photoluminescence studies confirmed that annealing at 300 °C results in ZnO rods with minimum surface defects and a sharp band edge exciton contribution.
+4-004	It was also observed that the 300 °C annealed sample contains high shallow donor concentrations as compared to as-prepared and high temperature annealed samples.
+4-005	We also noticed a correlation between the surface charges and the zeta potential exhibited by the rods and the oxygen vacancy related visible defect emission.
+4-006	On the basis of our results, we were able to conclude that solution processed ZnO rods exhibiting the lowest visible emission corresponding to minimum structural defects are better suited for fabricating DSSC with improved efficiency (1.57%), current density (5.11 mA/cm[2]), and fill factor 45.29%.
+4-007	We have also carried out electrochemical impedance measurements to understand the transport proper- ties at different interfaces in the solar cell assembly.
+4-008	Finally, it could be confirmed that the improved efficiency of the 300 °C annealed rods is due to the reduction in the recombination centers present on ZnO surfaces.
+4-009	It is confirmed that, irrespective of the nature of the samples, a higher amount of dye adsorption is not the key step, but controlling the native defects is the most important key step in achieving higher efficiency from solution synthesized ZnO-based photoanode.

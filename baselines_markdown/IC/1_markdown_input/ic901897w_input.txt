@@ -1,0 +1,99 @@
+# document_id: ic901897w
+# extractor: kordoc-markdown-adapter-1
+1-001	Compared with the plethora of oxo and imido complexes involving early transition metals,[1,2] relatively few such com- plexes are known for middle and late transition metals.
+1-002	This should not be altogether surprising in view of the prohibitive dπ-pπ antibonding interactions associated with relatively high d electron counts.
+1-003	One productive avenue for synthesi- zing middle and late transition metal imido/nitrene com- plexes has involved the use of low-coordinate architectures that by and large avoid occupancy of the high-energy dπ-pπ antibonding orbitals.
+1-004	Thus, recent years have seen a dozen or so reports of trigonal-planar,[3,4] pseudotetrahedral,[5,6] and
+1-005	*To whom correspondence should be addressed.
+1-006	E-mail: abhik@ chem.uit.no.
+1-007	r 2009 American Chemical Society
+1-008	square-planar[7,8] imido complexes of middle and late first- row transition metals.[9,10]
+1-009	Against this context, iron-imido/nitrene porphyrins are largely unknown,[11] although iron(IV)-oxo species are well- known as reactive intermediates of heme proteins and their synthetic models.[12]
+1-010	Twenty-five years ago, however, Mansuy and co-workers reported stable iron-porphyrin-nitrene ad- ducts,[13,14] which to this day remain the only well-character- ized examples of such species.
+1-011	Recently, Que and co-workers have reported another example of a non-low-coordinate iron- imido complex, although being a much more reactive species, it has only been spectroscopically characterized so far.[15]
+1-012	Published on Web 12/08/2009 pubs.acs.org/IC
+1-013	244 Inorganic Chemistry, Vol. 49, No. 1, 2010
+1-014	The electronic structures of these rare non-low-coordinate[16] iron-imido complexes, which are clearly of great interest, have not been the subject of detailed theoretical studies, a gap in our knowledge that we[6a] and others[17] have sought to redress.
+1-015	Very recently, Shaik[17] and co-workers presented an in-depth DFT study of nitrene transfer[18] mediated by iron porphyrins.
+1-016	The unique heme-nitrene adducts synthesized by Mansuy and co-workers, however, have never been the subject of a theoretical study since they were reported in 1984.
+1-017	Here, we present such a study.
+1-018	The iron-nitrene porphyrins synthesized by Mansuy and co-workers, including one that was structurally character- ized, are rather special.
+1-019	We symbolize them as Fe(Por)(NN), where Por denotes a porphyrin ligand and NN is a dialkylhy- drazido or dialkylaminonitrene ligand.
+1-020	The stability of these complexes may be contrasted with the high reactivity[16,19,20] of analogous complexes with simple nitrene (i.e., alkyl- or arylnitrene) ligands.
+1-021	Another interesting feature of the NN complexes is their S = 2 ground state, which is apparently at odds with the S = 0 ground states of analogous heme- carbene[21,22] adducts and the S = 1 ground states of heme- oxene (i.e., FeIVO) species.
+1-022	The issue of spin states is also of interest from a methodological point of view, as DFT often struggles to give a good description of the spin state energetics of transition metal complexes,[23,24] the problem being parti- cularly acute for iron complexes.[25]
+2-001	In general, all calculations were carried out with the OLYP[26,27] generalized gradient approximation (GGA), Slater- type triple-ζ plus polarization (TZP) basis sets, a fine mesh for numerical integration of matrix elements, and full geo- metry optimizations, all as implemented in the ADF 200728 program system.
+2-002	As a check on the performance of the OLYP energetics, we also employed the older PW9129 GGA and the
+2-003	hybrid functionals B3LYP[30] and B3LYP*[31] for selected calculations.
+3-001	A. Structural Chemistry.
+3-002	Figure 1 depicts highlights of the OLYP/TZP optimized geometries of the lowest- energy S = 0, 1, and 2 states of the Fe(P)(NN) model complex.
+3-003	From here onward, for simplicity, we will use P and NN to refer to unsubstituted porphyrin and 2,2,6, 6-tetramethyl-1-piperidylnitrene, respectively.
+3-004	For each spin state, we examined different conformations of the piperidine ring.
+3-005	However, for all three spin states, the chair, boat, and twist conformations had very similar energies.
+3-006	Properties specific to each conformation are shown in Table S1 in the Supporting Information.
+3-007	The results shown in Figure 1 are for the twist conformation.
+3-008	Throughout, we have used unsubstituted porphyrin to model the meso-tetraarylporphyrins used in the experi- mental study,[13] a justifiable simplification, considering that we are primarily interested in examining the effect of the axial nitrene ligand.
+3-009	The optimized geometry parameters do not merit much comment except that, for S = 2, the calculated and experimental[13] geometry parameters are generally in very good agreement (see Table S1 for details, Supporting Information).
+3-010	That said, the Fe-Naxial and N-N distances vary remarkably little among the three spin states shown in Figure 1.
+3-011	For all three spin states, the Fe-N axial distance is rather short, < 1.9 A, which suggests at least partial multiple bond character.
+3-012	For the S = 2 optimized geometry, the iron atom is displaced by nearly 0.6 A , relative to the mean plane of the four porphyrin nitrogens.
+3-013	Such a strong displacement is typical of high-spin, five-coordinate iron porphyrins and reflects (half-)occupancy of the in-plane iron dσ orbital (i.e., the dx2-y2 orbital).
+3-014	The calculated displacement is in fair but not excellent agreement with the experimentally observed displacement of 0.49 A.[13] However, the fact that the crystal structure analysis was for a substituted por- phyrin may account for part of the discrepancy.
+3-015	From the molecular orbital (MO) description given below, we will see that this geometrical feature is indeed as expected.
+3-016	B. Spin State Energetics.
+3-017	As shown in Table 1, the relative energies of the three spin states vary somewhat among the four functionals that we have used in this study.
+3-018	Thus, although PW91 predicts an S = 1 ground state by a clear margin of energy, OLYP, B3LYP*, and B3LYP all predict an S = 2 ground state, as demanded by the experimental results.
+3-019	Moreover, the energetics ob- tained with the latter three functionals, which are in good mutual agreement, clearly indicate the following energy ordering: S = 2 < S = 1 < S = 0.
+3-020	The behavior of the functionals observed here is fairly typical of what we and others have observed else- where.[22-24] Classic pure functionals such as PW91 and BP86 tend to unduly pair up electrons, whereas B3LYP generally behaves oppositely.
+3-021	The newer pure functional OLYP (or OPBE,[25d] which behaves nearly identically)
+3-022	48.
+3-023	Article
+3-024	Inorganic Chemistry, Vol. 49, No. 1, 2010 245
+3-025	and the hybrid functional B3LYP*, which has a reduced amount of Hartree-Fock exchange (15%) relative to B3LYP (20%), are sometimes a good com- promise.
+3-026	In certain other cases, however, B3LYP has provided the best energetics for the range of func- tionals examined.[25c] The fact that OLYP, B3LYP*, and B3LYP all predict very similar energetics is
+3-027	reassuring and suggests that they provide a faithful representation of reality.
+3-028	C. Molecular Orbital Description.
+3-029	We are now in a position to address the key chemical questions: What accounts for the S = 2 ground state and “where” are the electrons?
+3-030	Figure 2a,b present the OLYP MO energy level diagrams for the S = 0 and S = 1 states, respectively.
+3-031	The
+3-032	a The S = 2 state for the twist conformation has been chosen as the zero level for energies.
+3-033	electronic configuration of the S = 0 state may be described as dπ2dxy2dπ02, as expected from elementary ligand field theory considerations.
+3-034	Here, dπ refers to the lowest-energy d orbital, which engages in a π-backbond- ing interaction with the N-N π* orbital.
+3-035	The other dπ orbital, which we refer to as dπ0, is involved in a π-antibonding interaction with a lone pair on the nitrene ligand and, therefore, has a higher orbital energy.
+3-036	Inter- estingly, the LUMO of the S = 0 state, which is largely made up of the Fe dz2 orbital, is only slightly higher in energy.
+3-037	Not surprisingly, therefore, the S = 1 state is one of the low-energy states and, indeed, as mentioned above, the S = 1 state is lower in energy than the S = 0 state.
+3-038	Consistent with this analysis, Figure 2b shows that the Fe dπ0 and dz2-based MOs are nearly degenerate for the S = 1 state.
+3-039	According to Figure 3, the electronic configuration of the S = 2 state may be described as dπ2dxy1dz21dx2-y21dπ0 1, with the following orbital energy ordering for the R-spin orbitals: dxy π z2 x2-y2 π0.
+3-040	The fact that the dπ and dxy orbitals are low in energy is readily under- standable in view of the discussion above (i.e., from elementary ligand field theory).
+3-041	The fact that the dx2-y2and dπ0 orbitals are relatively high in energy is also readily understandable in view of the antibonding interactions they involve.
+3-042	However, the relatively low energy of the dz2 -based orbital is noteworthy.
+3-043	It indicates that the NN ligand, unlike simple nitrenes (i.e., alkylimido ligands), is a rather weak σ donor.
+3-044	As mentioned above, no simple nitrene (or alkylimido) complexes of hemes have ever been reported, almost certainly because they are too reactive to be conveniently isolated and character- ized.[11,14]
+3-045	Simple nitrenes (or alkylimido ligands) would strongly destabilize both dπ orbitals and the dz2 orbital, leaving too few energetically accessible orbitals for the heme d electrons.
+3-046	Clearly, a very different scenario is involved for Fe(P)(NN).
+3-047	Hydrazido ligands or aminonitrenes are electronically very similar to diazoalkanes,[32] which are relatively stable, neutral molecules with little nitrogen-based basicity to speak of.
+3-048	(It may be recalled that diazomethane prefer- entially protonates on the carbon.) Understandably, the NN ligand does not result in a serious destabilization of
+3-049	the dz2 orbital.
+3-050	Thus, despite the singly π-accepting nature of the NN ligand (which may be contrasted with the doubly π-accepting nature of CO and isocyanides), the overall d-orbital splitting pattern is not very different from that of a typical high-spin ferrous complex, which explains the S = 2 ground state.
+3-051	Article
+3-052	Inorganic Chemistry, Vol. 49, No. 1, 2010 247
+3-053	The anisotropy clearly results from unequal occupancy of metal-imido species, such as a β-diketiminatonickel(III) the dπ and dπ0 orbitals.
+3-054	The diazo unit carries only a small imido complex.[4]
+3-055	amount of excess spin density, which is significantly D. Explaining the Stability of Fe(Por)(NN) Species. smaller than what is found on the oxygen atoms of FeIVO The MO picture presented above goes a long way toward intermediates[34] but not unusual compared with other dπ[1] explaining the stability of Fe(Por)(NN) complexes, rela- tive to ordinary iron-porphyrin-nitrene intermediates.
+3-056	248 Inorganic Chemistry, Vol. 49, No. 1, 2010
+3-057	Fe(Por)(NN) species should not be nearly as electrophilic as Fe(Por)(NR) (R = alkyl or aryl) intermediates or, for that matter, the compound I and II intermediates of heme proteins.
+3-058	This could be verified by means of explicit calculations of hydrogen atom affinities of Fe(P)(NN) and Fe(P)(NMe).
+3-059	Consider the following two reactions and the corresponding ΔE’s, where the axial nitrogen atom closest to the iron abstracts a hydrogen atom from toluene, yielding high-spin Fe(III) porphyrins and a benzyl radical:
+3-060	FeðPÞðNNÞ þ toluene f FeðPÞðHNNÞ ðS ¼ 5=2Þ þ benzyl radical, ΔE ¼ 1:86 eV
+3-061	¼ 5=2Þ þ benzylradical, ΔE ¼ -0:30 eV
+3-062	The dramatic difference in the ΔE’s provides a vivid illustration of the difference in reactivity of the two iron-porphyrin reactants.
+3-063	Thus, whereas the simple nitrene complex Fe(P)(NMe), which may also be viewed as an FeIV-imido species, exhibits a clear propensity to
+3-064	abstract hydrogen atoms, Fe(P)(NN) does not; the high positive ΔE for the latter complex provides a numerical measure of its lack of reactivity, as well as an explanation for the experimentally observed stability of Fe(Por)(NN) complexes.
+4-001	DFT calculations have provided key insights into both the stability and the observed S = 2 ground state of an iron(II) porphyrin aminonitrene complex.
+4-002	The electronic configuration of this complex may be described as
+4-003	2 1 1 1 01
+4-004	dπ dxy dz2 dx2-y2 dπ , where the double occupancy of the dπ orbital may be attributed to π-backbonding interaction with the N-N π* orbital.
+4-005	The weak σ-donor ability of the aminonitrene ligand results in a relatively low-energy dz2 orbital and an overall d orbital splitting pattern that engen- ders a high-spin ground state.
+4-006	In an odd way, our findings on Fe(P)(NN), a rare non-low-coordinate iron-nitrene, strengthen our faith in the critical connection between low-coordinate architectures and the stability of middle and late transition metal imido complexes, a point we have emphasized throughout our theoretical work in this area.[4,6,8]
+4-007	The stability of Fe(P)(NN) thus should not be viewed as a counterexample to the general importance of low-coordinate architectures.
+4-008	Instead, Fe(P)(NN) is not a normal iron-nitrene or FeIV-imido complex at all; it is an FeII- diazo complex that is only very superficially related to other, relatively stable middle and late transition metal-imido com- plexes.

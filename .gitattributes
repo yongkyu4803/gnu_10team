@@ -1,0 +1,7 @@
+# Preserve converter output and provenance hashes byte-for-byte.
+*.csv -text whitespace=cr-at-eol
+*.tsv -text whitespace=cr-at-eol
+CM/*.md -text whitespace=-trailing-space
+IC/*.md -text whitespace=-trailing-space
+JOC/*.md -text whitespace=-trailing-space
+JPC_C/*.md -text whitespace=-trailing-space

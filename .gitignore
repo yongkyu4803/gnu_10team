@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.pytest_cache/
+
+.venv-baseline/
+
+# Source archives, local runtime files and generated caches
+*.zip
+*.ZIP
+*.pdf
+.DS_Store
+*.log

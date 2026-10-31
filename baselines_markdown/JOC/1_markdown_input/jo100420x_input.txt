@@ -1,0 +1,132 @@
+# document_id: jo100420x
+# extractor: kordoc-markdown-adapter-1
+1-001	Considering the growing importance of energy conserva- tion, modernization, and miniaturization requirements, polymer light emitting diodes (PLEDs) and small molecule organic light emitting diodes (OLEDs) have generated amaz- ing enthusiasm toward developing next generation electro- luminescent (EL) material.[1]
+1-002	These multicolored illuminants have wide application ranging from flat surface displays to leading edge lighting technology, automobile industry, home appliances, and cell phone business.
+1-003	To achieve high EL quantum efficiency, a doping ap- proach is commonly employed.
+1-004	For example, in a typical yellow OLED configuration, the yellow-emitting layer is
+1-005	† CDRI communication No. 7267.
+1-006	often fabricated by doping a yellow fluorophore such as rubrene.[2]
+1-007	However, the success of the doping technology requires selection of appropriate dopant and/or dopant concentration to avoid phase separation in a host-dopant system leading to ineffective energy transfer.[3]
+1-008	Therefore, novel nondoped illuminants with efficient electrolumines- cence are essentially in great demand.
+1-009	Intense research has been focused on examining optical and electronic properties of 9,9-disubstituted fluorenes and poly- fluorenes for developing OLEDs[4,5](Figure 1, I-III); however, comparatively very little attention has been devoted to the closely related scaffold, fluoranthene (IV).
+1-010	Published on Web 05/06/2010 DOI: 10.1021/jo100420x r 2010 American Chemical Society
+1-011	Fluoranthenes possess interesting electronic and thermal properties[6] similar to those of fluorene with an advantage of having an oxidatively labile 9-methylene moiety of fluorene blocked by a 1,9-fused benzene ring.
+1-012	Recent reports on fluor- anthene scaffold include fabrication of highly efficient blue OLEDs,[7,8] green OLEDs,[9] and fluoranthene-based matrix material[10] to improve charge-carrier transport.
+1-013	In this paper, we report a highly rapid novel approach for the synthesis of thermally stable donor-acceptor fluoranthenes (V) and their potential use in preparing economical, efficient non- doped yellow-OLED devices.
+1-014	Few synthetic methodologies are available for the synth- esis of fluoranthene derivatives, which mainly include the cycloaddition reaction of cyclopentadienone derivatives and alkynes or alkenes,[11,12] Suzuki-Heck reaction of 1-bromo- naphthalene and 2-bromophenyl boronic acid,[13] reaction in- volving two triple bonds in 1,8-bis(phenylethynyl)naphtha- lene under thermal or photochemical conditions[14] or in the presence of metal catalysts[15] such as RhCl3-Aliquat 336,[16] 1,4-palladium migration from 2-iodo-1-phenylnaphtha- lene,[17] reaction of propargylic alcohol bearing a fluorene moiety with diphenyl phosphine oxide,[18] or benzoannula- tion reactions of R-oxoketene dithioacetals with various
+1-015	Grignard reagents[19] or Pd-catalyzed electrocyclic reaction of a substituted acenaphthene.[20]
+1-016	Recently we have shown that appropriately functionalized donor-acceptor quateraryls[21] and 9-unsubstituted fluor- enes[22a] and fluorenones exhibited efficient, stable blue emission and demonstrated their potential application in developing blue OLEDs.
+1-017	We have demonstrated how the positioning of donor-acceptor groups onto the fluorene- fluorenone backbone transforms the green emission to blue emission.[22a] To investigate photophysical properties of fluoranthenes, a simple, general, and efficient synthetic route that could offer flexibility of diverse functional groups in their molecular framework was desirable.
+1-018	However, there is a paucity of literature protocols that could generate fluor- anthene derivatives with donor-acceptor and various chro- mophoric functionalities in a rapid manner.
+1-019	Although numerous Diels-Alder reactions[23] of 2H-pyran-2-ones with electron-deficient and electron-rich dienophiles do provide annulated benzene derivatives, to the best of our knowledge, none has utilized the chemistry of 2H-pyran-2-ones for preparing fluoranthene scaffold.
+1-020	On the basis of retro-synth- esis, we envisaged that the reaction of 2H-pyran-2-ones (3 and 9) with 2H-acenaphthylen-1-one (4) may furnish fluor- anthene derivatives under mild conditions.
+2-001	The reaction of methyl 2-carbomethoxy-3,3-bis(methyl- sulfanyl)acrylate[22] 1 with substituted acetophenones (2a-e) under alkaline conditions furnished substituted 2H-pyran-2-ones (3a-e) in excellent yields.
+2-002	Our approach to prepare substituted fluoranthenes 5a-e involved stirring an equimo- lar mixture of 3a-e, 2H-acenaphthylen-1-one (4) in the presence of NaH, and dry THF at room temperature for 35-90 min as shown in Scheme 1.
+2-003	The plausible reaction mechanism for the ring transformation of 2H-pyran-3-car- boxylic acid methyl esters 3a-e into fluoranthenes 5a-e showed that the reaction is possibly initiated by Michael addition of a conjugate base of 2H-acenaphthylen-1-one (4) at position C6 of lactone 3, followed by intramolecular cyclization involving the carbonyl functionality of 4 and C3 of the pyranone ring followed by elimination of carbon dioxide to yield 5a-e.
+2-004	To demonstrate the synthetic utility and scope of this methodology for regiospecific introduction of electron donor or acceptor functionalities, we explored the synthesis of fluor- anthene derivatives with an amine donor and a nitrile acceptor substituent.
+2-005	An independent reaction of methyl 2-cyano-3,3-bis(dimethylsulfanyl)acrylate (6) with 1-acetylnaphthalene or
+2-006	with 1-acetylpyrene was carried out to afford 6-aryl-3-cyano-4-methylsulfanyl-2H-pyran-2-ones (8a,b) in 80-90% yields.
+2-007	To prepare compounds with different donor functionalities, the methylsulfanyl group of lactones (8a,b) was replaced with various secondary amines such as piperidine or pyrrolidine to furnish 6-aryl-2-oxo-4-amin-1-yl-2H-pyran-3-carbonitriles (9a-c) in good yields.
+2-008	Further stirring an equimolar mixture of 9 and 2H-acenaphthylen-1-one (4) in the presence of NaH in THF for 12-15 min at room temperature yielded 10-aryl-8-(amin-1-yl)fluoranthene-7-carbonitriles 10a-c in 82-85% yields (Scheme 2).
+2-009	To generalize our methodology, an attempt was made to prepare 8-methylsulfanylacenaphtho[1,2-j]fluoranthene-7-carbonitrile (12).
+2-010	The parent precursor 10-methylsulfanyl-8-oxo-8H-7-oxa-fluoranthene-9-carbonitrile (11) was pre- pared by the reaction of 6 with 2H-acenaphthylen-1-one
+2-011	3).
+2-012	The cyclic lactone 11 was reacted with 2H-acenaphthylen-1-one (4) in the presence of NaH in THF for 25 min and afforded 5-methylsulfanylacenaphtho[1,2-j]fluoranthene-4-carbonitrile (12) in 54% yield.
+2-013	It is worth mentioning that these polycyclic systems are not easy to synthesize by classi- cal approaches.
+2-014	Unsubstituted fluoranthene exhibits PL maxima at two wavelengths (431 and 455 nm).[24]
+2-015	Fluoranthenes 5a-e con- taining SMe and COOMe groups show PL in the range of 481-487 nm; however, when these groups were replaced
+2-016	with an amine donor (piperidine/pyrrolidine) and a nitrile acceptor group respectively as in the case of fluoranthenes 10a-c (λPL 549-552 nm), a remarkable red shift of nearly 70 nm was observed.
+2-017	These findings match the results demonstrated by Yamaguchi-Yoshida and co-workers.[25]
+2-018	By the modification of the donor groups at the terminal position of polycyano-oligo(phenyleneethylene) fluoro- phores, they found that the PL is more red-shifted in the presence of an amine functionality compared to the fluoro- phore having a methylsulfanyl group.
+2-019	Unsubstituted fluor- anthene showed the quantum efficiency of about 20% in cyclohexane.[24]
+2-020	The quantum yields of synthesized fluor- anthenes 5a-e and 10a-c are shown in Table 1, which revealed that the presence of the methylsulfanyl donor group at position 8 and the carbomethoxy acceptor group at position 9 of fluoranthenes 5a-e showed low quantum efficiency (Φ = 1.8-5.1%) while fluoranthenes 10a-c sub- stituted with an amine donor and a nitrile acceptor group showed better quantum yields (Φ = 36-56%) compare to those of unsubstituted fluoranthene.
+2-021	The electrochemical studies were carried out to ascertain the redox behavior of the fluoranthenes (5a-e, 10a-c, and
+2-022	12).
+2-023	Cyclic voltammetric measurements were performed in a three-electrode cell setup with Ag/AgCl as the standard electrode and Pt disk as the working electrode, 2 mM of fluoranthenes, and 0.2 M of electrolyte tetrabutylammo- nium hexafluorophosphate (Bu4NPF6) dissolved in DMF.
+2-024	All the potentials were calibrated taking ferrocene as stan- dard and the data are summarized in Table 1.
+2-025	One irreversible oxidation and one reversible reduction peak were observed for all fluoranthenes as shown in Figure 3 (see the Supporting Information), which indicates that radical anions are stable entities but the radical cations (oxidized species) may react with the solvent DMF or supporting electrolyte.
+2-026	On close examination of CV graphs,
+2-027	aLongest wavelength absorption maximum in THF (the asterisk indicates the shoulder peak). bFluorescence emission maximum in THF. cFluorescence quantum yield relative to harmine in 0.1 M H2SO4 as a standard (Φ = 0.45). dOptical band gap from CV.
+2-028	we observed that incorporation of an amine donor and nitrile acceptor moieties decreases the oxidation potential of fluora- nthenes (10a-c) with respect to fluoranthenes (5a-e).
+2-029	How- ever, no change was observed in reduction potentials and hence the bandgap of fluoranthenes 10a-c was found lower than that of fluoranthenes 5a-e.
+2-030	The thermal properties of fluoranthenes 10a-c were gauged by thermogravimetric analysis (TGA) and differen- tial scanning calorimetry (DSC) (see the Supporting Infor- mation).
+2-031	The TGA and DSC traces of 10b are shown in Figure 4.
+2-032	Fluoranthenes 10a-c exhibited good thermal stability.
+2-033	The TG thermogram of 10b exhibited high thermal stability as evidenced by its TGA, with its 5% weight loss temperature under nitrogen atmosphere being up to 300 °C. The temperature corresponding to the complete weight loss of 10a, 10b, and 10c was 600, 435, and 470 °C, respec- tively.
+2-034	DSC was performed in the temperature range from 30 to 340 °C under nitrogen atmosphere at the rate of 10 deg/min.
+2-035	Fluoranthenes 10a and 10b melted at 239 and
+2-036	206 °C respectively, while 10c with a bulky pyrene group showed a higher melting temperature of 330 °C (see the Supporting Information).
+2-037	On the basis of the above studies, fluoranthenes 10a-c having an amine donor and a nitrile acceptor group were selected for further electroluminescent studies.
+2-038	Multilayer devices were fabricated to investigate the performance of yellow light-emitting fluoranthenes (10a-c) with the device configuration of ITO/PEDOT:PSS (40 nm)/NPB(20 nm) / fluoranthenes (60 nm)/BCP (8 nm)/Ca(3.2 nm)/Al (200 nm).
+2-039	The relative energy-level alignment of the fabricated multi- layered OLEDs and actual device picture of 10b are shown in Figure 5.
+2-040	The similarity of the photoluminescence (λPL 549-552 nm) and the electroluminescence (λΕL 554-559 nm) spectra suggests that the EL was attributed to emission from the radiation decay of the excited state of fluoranthenes 10a-c.
+2-041	To further evaluate the electrochemical stability of fluor- anthenes (10a-c), the EL spectra of these fluoranthenes were recorded with an increase in applied voltage at an interval of 1 V (Figure 8).
+2-042	All the devices were found to be stable even FIGURE 4.
+2-043	TGA and DSC plots of 10b under N2 atmosphere.
+2-044	under bias stress up to 9 V. Out of three OLEDs (10a-c), the device of 10b was quite efficient with low turn-on voltage (2.6 V) and giving good luminance efficiency of 2.0 Cd/A (at 5 V) with a maximum luminance of 470 Cd/m[2].
+2-045	In summary, we have demonstrated a novel approach for the synthesis of D/A fluoranthenes and acenaphtho[1,2-j]fluor- anthene from ketene-S,S-acetals in excellent yields through carbanion-induced ring transformation of 2H-pyran-2-ones as a key step.
+2-046	Our methodology is simple and convenient and does not require any specialized organometal catalyst or reagents.
+2-047	We have successfully fabricated highly efficient nondoped
+2-048	10a-c OLEDs and actual device picture of fluoranthene 10b.
+2-049	fluoranthene-based yellow OLEDs, which exhibited bright yellow fluorescence, high quantum efficiency, and good ther- mal stability.
+2-050	One of the Y-OLEDs showed bright yellow emi- ssion with low turn-on voltage of 2.6 V and maximum bright- ness of 470 Cd/m[2] with luminance efficiency of 2.0 Cd/A (at 5 V) without using any dopant.
+2-051	The series of fluoranthenes 10a-c demonstrating emission in the yellow region may solve the problem of dopant aggregation to a large extent.
+2-052	Owing to interesting photophysical, electrochemical, and thermal prop- erties, these compounds may also find application for devel- oping new yellow fluorescent molecular probes.
+3-001	General. 1 H and 13C NMR spectra were taken at 200, 300, and 400 MHz, respectively.
+3-002	CDCl3 was taken as the solvent.
+3-003	hexane as the eluent to afford 299 mg (65%) of 5b as a yellow solid.
+3-004	Rf 0.54 (1:1 chloroform-hexane); mp 208-210 °C; MS (ESI) 461 (Mþ þ 1), 463 (Mþ þ 3); IR (KBr) 3060, 2942, 1724, 1656, 1586 cm-1; 1 H NMR (300 MHz, CDCl3) δ 2.55 (s, 3H), 4.15 (s, 3H), 7.15-7.20 (m, 2H), 7.36-7.49 (m, 3H), 7.59-7.72 (m, 3H), 7.79 (d, J=8.1 Hz, 1H), 7.83-7.90 (m, 2H); 13C NMR (75.5 MHz, CDCl3) δ 18.1,52.7,122.4,122.7,123.0, 127.2,127.7,127.9,128.0,128.7,129.9,130.6,131.9,132.8, 133.8, 134.6, 134.8, 134.9, 136.8, 138.7, 138.8, 168.7; HRMS (DART) calcd for C25H18BrO2S 461.01958, found 461.02109.
+3-005	Synthesis of Methyl 10-(Furan-2-yl)-8-(methylsulfanyl)-fluoranthene-7-carboxylate (5c).
+3-006	A mixture of 3c (266 mg, 1 mmol, 1 equiv), compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% dispersion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (5 mL) was stirred at room temperature for 35 min.
+3-007	The progress of the reaction was monitored by TLC and on comple- tion solvent was evaporated and the reaction mixture was poured onto crushed ice with vigorous stirring and finally neutralized with 10% HCl.
+3-008	The precipitate obtained was filtered and purified on a silica gel column with 45% chloroform in hexane as the eluent to FIGURE 8.
+3-009	Electrochemical stability vs voltage curves and yellow afford 260 mg (70%) of 5c as a yellow solid.
+3-010	Rf 0.48 (1:1 OLEDs pictures of 10a-c. chloroform-hexane); mp 140-142 °C; MS (EI) 372 (Mþ),341 (Mþ- 31); IR (KBr) 3108, 3058, 2946, 1725, 1652, 1572 cm-1; 1 H Chemical shifts are reported in parts per million shift (δ value) NMR (400 MHz, CDCl3) δ 2.58 (s, 3H), 4.14 (s, 3H), 6.64-6.68 from Me4Si (δ 0 ppm for 1H) or based on the middle peak of the (m, 1H), 6.79-6.83 (m, 1H), 7.48 (s, 1H), 7.55 (t, J=5.72 Hz, 1H), solvent (CDCl3 ) (δ 77.00 ppm for 13C NMR) as an internal 7.62 (t, J=5.72 Hz, 1H), 7.67-7.72 (m, 1H), 7.82-7.92 (m, 4H); standard.
+3-011	Signal pattern are indicate as follows: s, singlet; d, 13C NMR (100 MHz, CDCl3) δ 18.4,52.7,109.5,111.7,122.5, doublet; dd, double doublet; t, triplet; and m, multiplet.
+3-012	Coup- 123.7,127.4,127.8,127.9,128.0,128.4,128.7,129.5,129.9,132.9, ling constants (J) are given in hertz.
+3-013	Infrared (IR) spectra were 133.8, 134.4, 134.7, 135.2, 137.3, 142.5, 152.4, 168.7; HRMS calcd recorded in KBr disk and reported in wavenumber (cm-1).
+3-014	An for C23H16O3S 372.0820, found 372.0817.
+3-015	ESIMS, EI spectrometer was used for mass spectra analysis.
+3-016	Synthesis of Methyl 8-(Methylsulfanyl)-10-(thiophen-2-yl)-UV/vis spectra were obtained with THF as solvent of choice fluoranthene-7-carboxylate (5d).
+3-017	A mixture of 3d (282 mg, having a concentration of about 10-6 M. Fluorescence spectra 1 mmol, 1 equiv), compound 4 (168 mg, 1 mmol, 1 equiv), and were obtained with THF as solvent of choice, having a concen- NaH (60% dispersion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry tration of about 10-6 M. Melting points were measured with a THF (5 mL) was stirred at room temperature for 40 min.
+3-018	The melting point apparatus.
+3-019	Cyclic voltammetry was done with Ag/ progress of the reaction was monitored by TLC and on comple- AgCl as the reference electrode.
+3-020	All the reactions were carried tion solvent was evaporated and the reaction mixture was out under anhydrous conditions and were monitored by TLC; poured onto crushed ice with vigorous stirring and finally visualization was done with UV light (254 nm). neutralized with 10% HCl.
+3-021	The precipitate obtained was filtered Synthesis of Methyl 8-(Methylsulfanyl)-10-phenylfluoranthene- and purified on a silica gel column with 40% chloroform in 7-carboxylate (5a).
+3-022	A mixture of 3a (276 mg, 1 mmol, 1 equiv), hexane as the eluent to afford 264 mg (68%) of 5d as a yellow compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% dis- solid.
+3-023	Rf 0.51 (1:1 chloroform-hexane); mp 152-154 °C; MS persion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (5 mL) was (ESI) 388 (Mþ), 357 (Mþ - 31); IR (KBr) 2941, 1724, 1658, stirred at room temperature for 45 min.
+3-024	The progress of the 1631, 1574 cm-1; 1 H NMR (300 MHz, CDCl3) δ 2.56 (s, 3H), reaction was monitored by TLC and on completion solvent was 4.15 (s, 3H), 7.21-7.25 (m, 1H), 7.31-7.36 (m, 2H), 7.38-7.46 evaporated and the reaction mixture was poured onto crushed ice (m, 2H), 7.50-7.54 (m, 1H), 7.58-7.66 (m, 1H), 7.79-7.91 (m, with vigorous stirring and finally neutralized with 10% HCl.
+3-025	The 3H); 13C NMR (75.5 MHz, CDCl3 ) δ 18.1,52.7,122.7,123.1, precipitate obtained was filtered and purified on a silica gel 126.3,127.1,127.3,127.4,127.8,128.0,129.1,129.8,130.0, column with 40% chloroform in hexane as the eluent to afford 132.4, 132.8, 133.7, 134.4, 134.8, 136.3, 136.8, 140.4, 168.6;
+3-026	(s, 3H), 4.15 (s, 3H), 7.14 (d, J = 6.9 Hz, 1H), 7.25 (s, 1H), 1 equiv), compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% 7.32-7.38 (m, 1H), 7.51-7.65 (m, 6H), 7.77 (d, J=8.1 Hz, 1H), dispersion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (5 mL) 7.83-7.89 (m, 2H); 13C NMR (75.5 MHz, CDCl3) δ 18.1,52.6, was stirred at room temperature for 90 min.
+3-027	The progress of the 122.6,127.0,127.7,127.8,128.2,128.5,128.7,128.8,129.0,129.8, reaction was monitored by TLC and on completion solvent was 132.9, 134.0, 134.4, 135.1, 136.7, 140.0, 140.2, 168.8; HRMS calcd evaporated and reaction mixture was poured onto crushed ice for C25H18O2S 382.1028, found 382.1031. with vigorous stirring and finally neutralized with 10% HCl.
+3-028	Synthesis of Methyl 10-(4-Bromophenyl)-8-(methylsulfanyl)- The precipitate obtained was filtered and purified on a silica gel fluoranthene-7-carboxylate (5b).
+3-029	A mixture of 3b (355 mg, column with 35% chloroform in hexane as the eluent to afford 1 mmol, 1 equiv), compound 4 (168 mg, 1 mmol, 1 equiv), and 275 mg (60%) of 5e as a white solid.
+3-030	Rf 0.55 (1:1 chloroform- NaH (60% dispersion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry hexane); mp 254-256 °C; MS (EI) 458 (Mþ); IR (KBr) 3054, THF (5 mL) was stirred at room temperature for 40 min.
+3-031	The 2997, 1728, 1635, 1555 cm-1; 1H NMR (300 MHz, CDCl3) δ progress of the reaction was monitored by TLC and on comple- 2.10 (s, 3H), 4.18 (s, 3H), 6.51 (d, J=7.1 Hz, 1H), 7.11-7.21 (m, tion solvent was evaporated and the reaction mixture was 7H), 7.25-7.32 (m, 4H), 7.61-7.67 (m, 1H), 7.77 (d, J=8.2 Hz, poured onto crushed ice with vigorous stirring and finally 1H), 7.81-7.89 (m, 2H); 13C NMR (75.5 MHz, CDCl3) δ 20.6, neutralized with 10% HCl.
+3-032	The precipitate obtained was filtered 52.7,121.9,123.9,126.7,127.1,127.2,127.3,127.7,127.9,128.2, and purified on a silica gel column with 40% chloroform in 129.6,129.8,130.4,130.5,133.0,133.8,134.3,134.7,135.5,
+3-033	Goel et al. JOCArticle 138.5, 138.8, 138.9, 139.6, 146.3, 169.1; HRMS calcd for Synthesis of 10-(Methylsulfanyl)-8-oxo-8 H-7-oxa-fluoran- C31H22O2S 458.1341, found 458.1337. thene-9-carbonitrile (11).
+3-034	A mixture of methyl 2-cyano-3,3-bis- Synthesis of 10-(Naphthalen-1-yl)-8-(pyrrolidin-1-yl)fluoran- (methylsulfanyl)acrylate 6 (203 mg, 1 mmol, 1 equiv), 2 H-acena- thene-7-carbonitrile (10a).
+3-035	A mixture of 9a (316 mg, 1 mmol, phthylen-1-one 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% 1 equiv), compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% dispersion in oil, 48 mg, 1.2 mmol, 1.2 equiv) in dry THF (6 mL) dispersion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (5 mL) was stirred at 0-5 °C for 30-35 min.
+3-036	The progress of the reac- was stirred at room temperature for 12 min.
+3-037	The progress of the tion was monitored by TLC and on completion solvent was eva- reaction was monitored by TLC and on completion solvent was porated and the reaction mixture was poured onto crushed ice evaporated and the reaction mixture was poured onto crushed with vigorous stirring.
+3-038	The precipitate obtained was filtered and ice with vigorous stirring and finally neutralized with 10% HCl. purified on silica gel column with chloroform as the eluent to The precipitate obtained was filtered and purified on a silica gel afford 203 mg (70%) of 11 as an orange solid.
+3-039	Rf 0.35 column with 30% chloroform in hexane as the eluent to afford (chloroform); mp 220-222 °C; MS (EIþ) 291 (M þ); IR (KBr) 346 mg (82%) of 10a as a yellow solid.
+3-040	R f 0.61 (1:1 chloroform- 2817, 2217, 1695, 1595, 1528 cm-1; 1H NMR (200 MHz, CDCl 3) hexane); mp 236-238 °C; MS (ESI) 423 (Mþ þ 1); IR (KBr) δ 3.14 (s, 3H), 7.67-7.79 (m, 2H), 7.94 (d, J = 8.3 Hz, 1H), 2924, 2199, 1632, 1580 cm-1; 1H NMR (300 MHz, CDCl3) δ 8.11-8.13 (m, 2H), 8.26 (d, J=7.08 Hz, 1H); HRMS calcd for 1.98-2.12 (m, 4H), 3.68-3.82 (m, 4H), 6.16 (d, J=7.0 Hz, 1H), C17H9 NO2S 291.0354, found 291.0354. 6.61 (s, 1H), 7.02-7.09 (m, 1H), 7.27-7.33 (m, 1H), 7.45-7.71 Synthesis of 8-(Methylsulfany)acenaphtho[ 1,2-j]fluoranthene- (m, 6H), 7.86 (d, J=8.1 Hz, 1H), 7.96-8.04 (m, 2H), 8.75 (d, J= 7-carbonitrile (12).
+3-041	A mixture of 11 (291 mg, 1 mmol, 1 equiv), 7.0 Hz, 1H); 13C NMR (75.5 MHz, CDCl3) δ 25.8,50.6,89.1, compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% dispersion 114.9,120.3,121.2,123.9,125.2,125.5,126.0,126.1,126.2, in oil 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (6 mL) was stirred at 126.4,127.4,127.8,127.9,128.2,128.4,129.4,131.4,132.4, room temperature for 25 min.
+3-042	The progress of the reaction was 133.5, 134.7, 134.8, 137.9, 141.3, 143.5, 150.2; HRMS calcd monitored by TLC and on completion solvent was evaporated and for C31H22N2 422.1783, found 422.1796. the reaction mixture was poured onto crushed ice with vigorous Synthesis of 10-(Naphthalen-1-yl)-8-(piperidin-1-yl)fluoran- stirring and finally neutralized with 10% HCl.
+3-043	The precipitate thene-7-carbonitrile (10b).
+3-044	A mixture of 9b (330 mg, 1 mmol, obtained was filtered and purified on a silica gel column with 1 equiv), compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% 20% chloroform in hexane as the eluent to afford 214 mg (54%) dispersion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (5 mL) of 12 as a yellow solid.
+3-045	Rf 0.71 (1:1 chloroform -hexane); mp > was stirred at room temperature for 13 min.
+3-046	The progress of the 250 °C; MS (ESI) 398 (Mþ þ 1); IR (KBr) 2964, 2229, 1633, 1426 reaction was monitored by TLC and on completion solvent was cm-1; 1H NMR (300 Hz, CDCl3) δ 2.62 (s, 3H), 7.67 -7.79 (m, 4H), evaporated and the reaction mixture was poured onto crushed 7.89-7.99 (m, 4H), 8.55-8.61 (m, 2H), 8.65 (d, J=7.2 Hz, 1H), ice with vigorous stirring and finally neutralized with 10% HCl. 8.95 (d, J=7.2 Hz, 1H); 13C NMR (75.5 MHz, CDCl 3) δ 19.9,111.4, The precipitate obtained was filtered and purified on a silica gel 117.9,124.0,125.2,125.6,126.2,128.1,128.3,128.6,128.7,128.8, column with 32% chloroform in hexane as the eluent to afford 129.1,130.3,133.6,133.7,133.9,134.1,134.6,135.2,135.8,136.0, 370 mg (85%) of 10b as a yellow solid.
+3-047	R f 0.62 (1:1 chloroform- 139.1, 141.9; HRMS calcd for C28H15NS 397.0925, found 397.0919. hexane); mp 206-208 °C; MS (ESI) 437 (Mþ þ 1); IR (KBr) Experimental Device.
+3-048	Multilayer devices were fabricated to 2931, 2848, 2214, 1642, 1578 cm-1; 1H NMR (300 MHz, CDCl 3) investigate the performance of yellow light-emitting materials δ 1.62-1.67 (m, 2H), 1.81-1.89 (m, 4H), 3.24-3.35 (m, 4H), (10a, 10b, and 10c) with the device configuration of ITO/ 6.33 (d, J = 7.1 Hz, 1H), 6.95 (s, 1H), 7.10-7.15 (m, 1H), PEDOT:PSS (40 nm)/NPB(20 nm)/fluoranthenes (60 nm)/ 7.26-7.34 (m, 1H), 7.48-7.76 (m, 6H), 7.91 (d, J = 8.1 Hz, BCP (8 nm)/Ca(3.2 nm)/Al (200 nm).
+3-049	The patterned ITO glass 1H), 7.98-8.05 (m, 2H), 8.70 (d, J=7.0 Hz, 1H); 13C NMR (75.5 plate was cleaned in 6:1:1 in RCA-I solution, rinsed in DI water MHz, CDCl3) δ 24.1,26.2,53.8,99.4,117.8,119.6,122.4,123.6, a number of times, and then dried.
+3-050	The ITO surface was treated 123.7,125.5,125.8,126.1,126.3,126.5,127.9,128.0,128.4, in ozone for 15 min.
+3-051	Immediately, the first layer of poly(3,4- 128.6,128.7,129.6,131.3,131.8,132.8,133.6,134.1,134.5, ethylenedioxythiophene) doped with poly(styrenesulfonic acid) 137.5, 141.1, 143.0, 156.3; HRMS calcd for C32H24N2 (PEDOT:PSS) was spin-coated on patterned ITO to form a hole 436.1940, found 436.1943. injection layer.
+3-052	The PEDOT-PSS was vacuum dried at 120 °C Synthesis of 8-(Piperidin-1-yl)-10-(pyren-1-yl)fluoranthene-7- for 1 h.
+3-053	All other organic layers and metal layers were sublimed carbonitrile (10c).
+3-054	A mixture of 9c (406 mg, 1 mmol, 1 equiv), in high vacuum (∼1-5 10-6 mbar).
+3-055	Then devices were sealed compound 4 (168 mg, 1 mmol, 1 equiv), and NaH (60% dis- with a covering glass plate with UV epoxy.
+3-056	The ILV characteri- persion in oil, 60 mg, 1.5 mmol, 1.5 equiv) in dry THF (5 mL) stics of sealed OLED devices were obtained by using Keithley was stirred at room temperature for 15 min.
+3-057	The progress of the source-measure unit.
+3-058	EL spectra were recorded with an optic reaction was monitored by TLC and on completion solvent was spectrometer. evaporated and the reaction mixture was poured onto crushed

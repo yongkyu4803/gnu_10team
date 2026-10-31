@@ -1,0 +1,230 @@
+# document_id: ic202648h
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Over the past several decades, the field of ruthenium polypyridine chemistry has experienced phenomenal growth.
+1-003	The mainstay ligands in this vast family of complexes are the bidentate 2,2′-bipyridine (bpy) and the tridentate 2,2′:6′,2″-terpyridine (tpy).[1]
+1-004	These ligands have been elaborated in almost every way imaginable including the replacement of H atoms with other groups, the substitution of other elements for C atoms in the pyridine rings, and the incorporation of aza- aromatic rings other than pyridine.
+1-005	Ruthenium(II) complexes of bpy and tpy have fundamental structural and photophysical differences.
+1-006	The tris-bidentate complex [Ru(bpy)3]2+ exists as a pair of enantiomers, while the bis-tridentate complex [Ru(tpy)2]2+
+1-007	Recently, we prepared a new ligand in this series, 2,9-di(pyrid-
+1-008	2′-yl)-1,10-phenanthroline (dpp).[5,6]
+1-009	The central phenanthroline
+1-010	© 2012 American Chemical Society 3179
+1-011	ring restricts the conformational freedom of the ligand and thus prevents it from binding as a bis-bidentate bridging ligand.
+1-012	Instead, all four pyridines bind to RuII to form surprisingly stable tetradentate complexes that can accommodate two monodentate ligands in the remaining axial positions (1a−1h).
+1-013	One of the interesting properties of these RuII(dpp) complexes is that they all appear to be active water oxidation catalysts, and we are carrying out a thorough investigation of this important feature.
+1-014	In our initial reports on these dpp complexes, we prepare them in a “one-pot” synthesis, wherein dpp is treated with [RuCl3·3H2O] in aqueous ethanol (EtOH), followed by the addition of excess monodentate ligand and triethylamine to complete the coordination sphere.
+1-015	In this process, some dpp binds as a tridentate, and thus [Ru(dpp) 2]2+ is formed as a byproduct.
+1-016	In this report, we isolate and characterize the intermediate trans-[RuII (dpp)Cl2], study its reaction with various ligands, and explore the novel RuII(dpp-N,N′,N″) complexes, where dpp binds to the metal in a tridentate fashion.
+2-001	■
+2-002	Synthesis and Characterization. trans-[RuII (dpp)Cl2 ] was prepared by two different methods.
+2-003	The reaction of dpp and an equimolar amount of [RuCl3·3H 2O] in EtOH gave the complex, often with some unreacted dpp, depending on the quality of the highly hygroscopic [RuCl3·3H2O].
+2-004	We found that quickly adding dpp into an ethanolic solution of excess
+2-005	Received: December 8, 2011
+2-006	Published: February 10, 2012
+2-007	Inorganic Chemistry Article
+2-008	[RuCl3·3H2O], after refluxing overnight, gave a 98% yield of trans-[Ru II(dpp)Cl2] as a dark-green solid.
+2-009	The complex is obtained in its pure form, as suggested by its 1H NMR spectrum after being washed thoroughly with EtOH and acetone and dried.
+2-010	However, contamination by the excess [RuCl3·3H2O] could not be excluded.
+2-011	An alternative synthesis of trans-[RuII(dpp)Cl2 ] in 89% yield is to treat dpp with 1 equiv of [Ru(DMSO) 4Cl2] in refluxing CHCl3.
+2-012	The precipitate was collected, washed with CHCl3 and acetone, and dried.
+2-013	A positive matrix-assisted laser desorption ionization time- of-flight (MALDI-TOF) analysis of trans-[RuII(dpp)Cl2 ] using a mixture of CH 2Cl2 and MeOH for the sample loading revealed peaks at m/z 506.3, 471.3, and 436.4 corresponding to [M]+, [M − Cl]+, and [M − 2Cl]+, respectively.
+2-014	The purity of the material prepared by the second method was further confirmed by its 1H NMR spectrum and elemental analysis.
+2-015	Similar to cis-[Ru(bpy)2 Cl2 ] and mer-[Ru(tpy)Cl3], the neutral complex trans-[RuII(dpp)Cl2 ] is not very soluble in solvents other than N,N-dimethylformamide (DMF) and dimethyl sulfoxide (DMSO).
+2-016	In DMSO-d6, a freshly prepared sample showed a complicated spectrum of two or more species.
+2-017	The color of the NMR solution changed from dark to light brown, indicating the likely replacement of chloride by a solvent molecule.
+2-018	After standing overnight, a DMSO-d6 solution of trans-[RuII(dpp)Cl2] showed only seven 1H NMR signals, consistent with its trans structure and tetradentate dpp binding.
+2-019	It is not clear if one or two Cl atoms were replaced.
+2-020	As opposed to the one-pot synthesis of dpp complexes, the use of isolated trans-[RuII(dpp)Cl2] resulted in higher yields for weaker monodentate ligand systems and less complicated product distribution (Scheme 1).
+2-021	In our previous report, using
+2-022	the one-pot approach, trans-[Ru(dpp)(4-CF3-py)2]2+ (1c) was prepared in only 5% yield, while the major product (52%) was trans-[Ru(dpp)(4-CF3-py)Cl]+.
+2-023	We found that the yields changed to 44% and 22% for the bispyridine and monopyridine complexes, respectively, when isolated trans-[RuII(dpp)Cl2] was used for their preparation.
+2-024	It is noteworthy that no bis-dpp complex [Ru(dpp)2]2+ (2) was produced under these conditions.
+2-025	Similar to the synthesis of complexes 1a−1c, 4-vinylpyridine (VP) reacts with trans-[RuII(dpp)Cl2] to afford a quantitative yield of trans-[RuII(dpp)(VP)2\](PF6)2 (1d; Scheme 2).
+2-026	The VP protons exhibit a AA′XX ′ pattern, and the vinyl protons show stronger trans coupling (17.86 Hz) than cis coupling (10.99 Hz), whereas no geminal coupling was detected.
+2-027	Treatment of trans-[RuII(dpp)Cl2] with excess NH4SCN in aqueous DMF afforded trans-[Ru(dpp)(NCS)2] (1e) as a dark solid in 86% yield.
+2-028	The thiocyanate complex is not soluble in common solvents, and its 1H NMR spectrum in DMSO-d6 is different from that of the
+2-029	chloride precursor.
+2-030	The coordination of thiocyanate is confirmed by Fourier transform infrared (FTIR) that shows a strong stretching vibration at 2105 cm−1.
+2-031	Although S-bonded thiocyanate appears at higher wavenumbers than the N-bonded analogue, the difference is typically less than 10 cm−1.
+2-032	Freedman and co-workers observed 2109 and 2099 cm−1 for a pair of linkage isomers, [Ru(p-cymene)(bpy)(SCN)]+ and [Ru(p-cymene)-(bpy)(NCS)]+, respectively.[7]
+2-033	Pakkanen and co-workers found a strong band at 2116 cm−1 assignable to SCN− stretching for the S-bonded trans-thiocyanate complex [Ru(bpy)(CO)2(SCN)2].[8]
+2-034	Thus, the bonding mode of thiocyanate to RuII in complex 1e remains unclear.
+2-035	Chloride abstraction by AgBF4 in CH3CN, followed by counterion exchange with NH4PF6, gave trans- [Ru(dpp)(CH3CN)2\](PF6)2 (1f) in 96% yield.
+2-036	The complex was characterized by its 1H NMR spectrum in acetone-d6.
+2-037	Elemental analysis was not satisfactory probably because of silver salt contamination, but attempts to purify the material by column chromatography resulted in decomposition.
+2-038	No molecular mass peak corresponding to [Ru(dpp)(CH3CN)2]+ was detected in the MALDI-TOF spectrum, but two fragments, [Ru(dpp)(PF6)]+ and [Ru(dpp)]+, were found at m/z 580.4 and 436.3, respectively.
+2-039	Following a literature method for the synthesis of trans-[Ru(tpy)(2-pyridone)2(H2O)],[9] treatment of trans-[RuII(dpp)Cl2] with 2-hydroxypyridine in aqueous EtOH, followed by the addition of NaOH, produced trans-[Ru(dpp)(2-pyridone)2] (1g) in 82% yield.
+2-040	All of the dpp protons resonate at lower field (10.24−7.82 ppm), while the pyridone signals appear at higher field (6.67−5.51 ppm).
+2-041	Attempts to prepare trans-[Ru(dpp)(PPh3)2]2+ (1h) by the reaction of trans-[RuII(dpp)Cl 2] with triphenylphosphine (PPh3) were not successful.
+2-042	The PPh3 complex was instead synthesized by the treatment of trans-[Ru(dpp)(CH3CN)2]2+ with PPh3 in a solvent mixture of acetone/EtOH at reflux.
+2-043	However, the reaction was slow and, using 70 equiv of PPh3 , only 75% conversion was observed after 2 days at reflux.
+2-044	The crystal structure of [Ru(dpp)(4-NMe 2py)2\](PF6)2 (1a) revealed dpp as a tetradentate ligand,[5] but the binding angles were significantly distorted.
+2-045	The exterior N−Ru−N angle of 125.6° is more than 35° greater than the 90° ideal, indicating weak bonding by the distal pyridines.
+2-046	The fact that dpp binds to a metal in a tetradentate fashion in the presence of a large excess of pyridines in refluxing aqueous EtOH supports the importance of the chelation effect for dpp.
+2-047	However, in the presence of a stronger chelating ligand, such as bpy or tpy, ligand substitution for the weakly bonded distal pyridine on dpp is observed, forcing dpp to bind in a tridentate fashion.
+2-048	A small amount of [Ru(dpp-N,N′,N″)2]2+ (2; Scheme 3) was isolated as a byproduct during the one-pot synthesis of 1a−1c[5] and this same material is formed when [RuCl3·3H2O] is treated with excess dpp in refluxing aqueous EtOH.
+2-049	The ability of dpp to act as a tridentate ligand for RuII was further verified by the reaction of trans-[RuII(dpp)Cl2] with tpy and bpy, affording [Ru(dpp-N,N′,N″)(tpy)]2+ (3) and [Ru(dpp-N,N′,N″)(bpy)Cl]+
+2-050	Single crystals of 4·CH3CN were obtained by the slow evaporation of a solution of the complex in CH 3CN and toluene.
+2-051	An X-ray analysis revealed its crystal structure (Figure 1), and selected geometric parameters are listed in Table 1.
+2-052	Both the uncoordinated nitrogen N22 and the chloride Cl1 face in
+2-053	the same direction below the pyridyl−phenanthroline plane.
+2-054	The central Ru−N7 bond length of 1.953 Å and the other Ru−N distances ranging from 2.026 to 2.132 Å as well as the Ru−Cl bond length of 2.413 Å are typical for [RuII(tpy)(bpy)Cl]+-type complexes.[11,12]
+2-055	However, the presence of the uncoordinated pyridine ring somewhat distorts the geometry of the RuII coordination sphere.
+2-056	This uncoordinated pyridine lies parallel to the bpy main plane, showing π−π interactions evidenced by the nonbonding distances of 3.24 and 3.90 Å for C21−N38 and C24−C35, respectively.
+2-057	The influence of the π−π interactions is demonstrated by the bond angle of 174.2° for N7−Ru−N38.
+2-058	The larger bond angle of 106.1° for N18−Ru−N38 compared to 95.8° for N1−Ru−N38 indicates that the bpy ligand is forced to move away from the uncoordinated pyridine ring and the Ru−N18 bond (2.13 Å) is longer than 2.07 Å for Ru−N1.
+2-059	pyridyl−phenanthroline plane, as evidenced by torsion angles of 81.5° and −104.2° for N18−C17−C21−C26 and N18−C17−C21−N22 that deviate significantly from 90°.
+2-060	It is interesting that the uncoordinated nitrogen N22 is positioned syn to the chloride.
+2-061	The location of N22 was determined by alternately refining the N atom at both ortho positions (22 and
+2-062	26).
+2-063	When the N atom is refined in position 22, the Ueq values of N22 and C26 are essentially identical and very similar to the Ueq values of C23 to C25.
+2-064	When the N atom is refined in position 26, the Ueq value of C22 drops by 30% and the Ueq value of N26 rises by 40%, indicating quite clearly that the N atom is in position 22 for this particular crystal.
+2-065	The reason for the absence of the anti conformer is not clear.
+2-066	We have carried out Chem3D calculations for the syn and anti isomers and found no significant differences in their steric energy.
+2-067	Semiempirical quantum calculations using the PM6 program[13] showed similar heats of formation for both the syn and anti isomers.
+2-068	Electronic Absorption and Emission Properties.
+2-069	In our earlier communication, we observed that the metal-to-ligand charge transfer (MLCT) absorbance of complexes 1a−1c (Table 2) could be tuned by the 4 substituent on the axial monodentate pyridines.[5]
+2-070	Four absorption maxima were observed in the visible region and shifted to lower energy as the substituent was changed from electron-withdrawing (CF3) to electron-donating (NMe2).
+2-071	The low-energy MLCT band at 541 nm for VP complex 1d resembles the 544 nm band found for its 4-methylpyridine analogue (1b).
+2-072	Unlike complexes 1a−1d, where a 4-substituted pyridine occupies the axial sites, the CH3CN (1f) and PPh3 (1h) complexes show blue-shifted absorptions at 474 and 488 nm, respectively (Figure 2).
+2-073	This difference in behavior depends upon the pyridine functioning as both a σ donor and a π acceptor, whereas PPh3 and CH3CN act only as σ donors.
+2-074	Although the 2-pyridone complex (1g) geometry is similar to that of 1a−1f and 1h, it exhibits two broad absorption maxima at 530 and 645 nm that extend beyond 800 nm because of a combination of the π-acceptor strength and the enhanced σ-donor ability of the anionic ligand (Figure 2).
+2-075	The previously prepared complex 6 absorbs at 498 nm in CH 3CN.[10]
+2-076	Displaying a similar absorption profile, the dpp complex 2 has a weaker absorbance than the mpp complex 6.
+2-077	A broad absorption band with several shoulders and a peak at 499 and 503 nm was observed for the homoleptic complexes 6 and 2, respectively (Figure 3).
+2-078	In 2, the presence of an uncoor-
+2-079	Table 2.
+2-080	Electronic Absorption Data for Ruthenium(II)
+2-081	extinction coefficients in M−1 cm −1.
+2-082	dinated pyridine on each dpp ligand lowers the absorption energy by about 4 nm.
+2-083	It is interesting that the heteroleptic complex 3, with one tpy ligand and one tridentate dpp ligand, shows two peaks at 474 and 493 nm, which are close to absorption maxima of the corresponding homoleptic complexes 5 and 2, respectively.
+2-084	As expected, the heteroleptic chloro complex 4 absorbs at low energy and its absorbance is much broader than the complexes 2, 3, and 6.
+2-085	The Ru(dpp) complexes, regardless of whether the dpp functions as a tetradentate ligand (1a−1h) or as a tridentate ligand (2−4), do not emit or emit very weakly because of the strain impacted by two or three fused five-membered chelate rings.
+2-086	The chloro complex 4 emits at 790 nm with a large Stokes shift when excited at 590 nm.
+2-087	It is interesting to find that the pyridone complex 1g emits at 721 nm when excited at its low-energy (645 nm) or next-higher-energy MLCT absorbance (530 nm).
+2-088	The corresponding Stokes shifts are 76 and 191 nm, respectively.
+2-089	A large Stokes shift in this case does not necessarily
+2-090	Inorganic Chemistry Article
+2-091	represent a large distortion of the excited state because the absorption is a singlet−singlet process and the emission is triplet to ground-state singlet.
+2-092	A large singlet−triplet gap can account for the large Stokes shift without the requirement of significant distortion.
+2-093	It is not clear at this stage if the uncoordinated pyridine on dpp in complexes 2−4 is playing a role in the excited state of the complex.
+2-094	Electrochemistry.
+2-095	The redox potentials for complexes 1−6 were measured by cyclic voltammetry (CV) using a glassy carbon working electrode.
+2-096	The data are tabulated in Table 3, and poten- tials are referenced to a saturated calomel electrode (SCE).
+2-097	Table 3.
+2-098	CV Data for Ruthenium(II) Complexes 1−6a
+2-099	1g 2-pyridone insoluble
+2-100	aMeasured with a glassy carbon electrode at 100 mV s−1 in CH3CN containing 0.1 M N(n-Bu)4PF6 and reported in V relative to SCE; E1/2 = (Epa + Epc)/2 in V and ΔE = (Epa − Epc) in mV. bReference 5.
+2-101	In an earlier communication, we reported complexes 1a−1c including their electrochemical data measured in CH 2Cl2.[5]
+2-102	The oxidation corresponds to the removal of an electron from the metal, while the first reduction is attributable to the addition of an electron to the LUMO, likely to be associated with the most electron-deficient ligand dpp.
+2-103	Pyridine ligands are best known for their σ-donor ability because of the lone pair of electrons on the N atom and their π-acceptor character associated with the π system.
+2-104	We found that the ruthenium-centered oxidation is quite sensitive to the overall ligand field strength of the axial pyridines bearing different substituents at the 4 position.
+2-105	The half-wave potential of the complexes correlates well with the σ-donor ability of the pyridine, which is a function of the sub-
+2-106	stituent on pyridine.
+2-107	The electron-donating NMe2 group causes a less positive oxidation potential compared to the electron- withdrawing CF3.
+2-108	The VP complex 1d showed an oxidation at 1.23 V, which is very close to that of the 4-methylpyridine analogue.
+2-109	However, the first reduction appears at more negative potential (−1.03 V) compared to −0.87 V for 1b.
+2-110	It is important to note that the oxidation peak disappears after the reduction scan, which may indicate decomposition of the complex on the electrode surface.
+2-111	Oxidation of the acetonitrile complex 1f occurs at 1.31 V vs SCE, which is comparable to that of the CF 3 complex 1c.
+2-112	However, the first reduction for 1f at −1.13 V is more negative than −0.82 V for 1c.
+2-113	Oxidation of the PPh 3 complex 1h at 1.55 V is the most positive potential measured for the trans series complexes (1a−1h).
+2-114	The first oxidations/reductions of the homoleptic complexes 5 and 6 appear at 1.22/−1.33 and 1.36/−1.06 V vs SCE, respectively, reflecting more positive oxidation and less negative reduction for the more π-extended ligand system.
+2-115	The corresponding redox values of 1.27/−1.15 and 1.36/−1.12 V vs SCE for 2 and 3 are consistent with the existence of one or two dpp as a more π-extended ligand than tpy.
+2-116	However, the correlation does not apply when one compares 2 and 6.
+2-117	As demonstrated by the crystal structure of 4, the uncoordinated pyridine is twisted by about 81.5° relative to the mpp plane.
+2-118	The less positive and more negative potentials for the homoleptic complex 2 compared to 6 reflect the influence of the two uncoordinated pyridines.
+2-119	The heteroleptic complex 3 bearing one uncoordinated pyridine oxidizes at slightly higher potential than 2, which bears two uncoordinated pyridines, but their first reduction potentials are nearly the same.
+2-120	For the heteroleptic complexes 3 and 4, the first reduction is dpp-based and the second reduction is attributed to a tpy/bpy-based process.
+2-121	As expected, the presence of an anionic ligand stabilizes the higher oxidation state of ruthenium and lowers the oxidation potential by more than 0.4 V. The coordinated chloride, being cis to the pyridyl−phenanthroline plane, also makes the dpp-based reduction more negative.
+3-001	The complex trans-[RuII(dpp)Cl2] serves as a convenient reagent for the preparation of a series of trans-Ru(dpp) complexes 1a−1h, where dpp is a planar tetradentate ligand.
+3-002	Axial ligands exert significant effects on the absorption and redox properties of the complexes.
+3-003	It is of interest to find that trans-[RuII(dpp)Cl2] functions as the source for a tridentate dpp complex of ruthenium.
+3-004	The reaction of trans-[RuII(dpp)Cl2] with dpp, tpy, or bpy produces ruthenium(II) complexes (2−4), where one of the distal pyridines on dpp was replaced by the other polydentate ligand.
+3-005	The X-ray crystal structure of [Ru(dpp- N,N′,N‴)(bpy)Cl\](PF6)·CH3CN revealed that the uncoordi- nated pyridine experiences π−π interaction with bpy and the uncoordinated N atom is positioned cis to the chloride.
+3-006	The uncoordinated pyridine, covalently bound to a tridentate ligand, tends to lower the oxidation potential of the ruthenium(II) complex, slightly influences the reduction potentials, and red- shifts the absorption maxima by a few nanometers.
+4-001	■
+4-002	The ligand dpp,[5] [Ru(DMSO)4Cl2],[14] [Ru(tpy)2\](PF6)2 (5),[12] and [Ru(mpp) 2\](PF6)2 (6)[10] were prepared according to literature methods.
+4-003	Complexes 1a and 1b were reported previously.[5]
+4-004	[RuCl 3·3H2O], 2-hydroxypyridine, PPh3, 4-(trifluoromethyl)pyridine, bpy, tpy, and all solvents were commercially available and were used
+4-005	without further purification.
+4-006	The alumina used for chromatography was neutral Brockman grade I. All reactions were carried out under air, and yields were calculated from a single run and not optimized.
+4-007	1H NMR spectra were recorded with a JEOL ECX-400 or a ECA-500 spectrometer operating at 400 and 500 MHz, respectively.
+4-008	The chemical shifts were reported in parts per million (ppm) and were referenced to the solvent residue peaks, which were referenced to tetramethylsilane.
+4-009	The electronic absorption spectra were recorded on a Varian Cary 50 UV−vis spectrophotometer, and all spectra were corrected for the background spectrum of the solvent.
+4-010	Luminescence measurements were performed on a Perkin-Elmer LS-50B lumines- cence spectrometer at room temperature.
+4-011	CV measurements were carried out on a Bioanalysis BAS Epsilon Electroanalytical System.
+4-012	The CV experiments were performed in a one-compartment cell equipped with a glassy carbon working electrode, a SCE, and a platinum wire auxiliary electrode.
+4-013	Attenuated total reflection (ATR) IR spectra were measured on a Thermo Nicolet AVATAR 370 RT-IR spectrometer.
+4-014	Mass spectra were obtained on a ABI Voyager DE-STR (MALDI-TOF) and a Thermo Finnigan LCQ DecaXP Plus with Surveyor liquid chromatography−mass spectrometry (LC−MS).
+4-015	Elemental analyses were carried out by QTI (Whitehouse, NJ).
+4-016	trans-[RuII(dpp)Cl2].
+4-017	A solution of [Ru(DMSO) 4Cl2] (89 mg, 0.18 mmol) and dpp (61 mg, 0.18 mmol) in CHCl3 (7 mL) was refluxed for 22 h.
+4-018	The precipitate was collected, washed with CH2Cl2 and acetone, and dried to afford the desired complex (82 mg, 89%): 1H NMR (400 MHz, DMSO-d6) δ 9.95 (d, J = 4.58 Hz, 2H), 8.84 (d, J = 8.70 Hz, 2H), 8.79 (d, J = 7.79 Hz, 2H), 8.37 (d, J = 8.70 Hz, 2H), 8.30 (s, 2H), 8.28 (dt, J = 1.37 and 7.79 Hz, 2H), 7.98 (ddd, J = 1.15, 5.27, and 7.56 Hz, 2H); MS (MALDI-TOF) m/z 506.3 [M]+, 471.3 [M − Cl]+, 436.4 [M − 2Cl]+ ; FTIR (ATR, cm−1) ν 1600,1453,1407, 1361, 1276, 1226.
+4-019	Anal. Calcd for C 22H14N4Cl2Ru H2O: C, 50.38; H, 3.05; N, 10.68.
+4-020	Found: C, 50.69; H, 2.93; N, 10.60.
+4-021	trans-[Ru(dpp)(4-CF3-py) 2\](PF6)2 (1c).[5]
+4-022	A mixture of trans-[RuII(dpp)Cl 2] (57 mg, 0.11 mmol) and 4-(trifluoromethyl)pyridine (250 mg, 1.70 mmol) in EtOH/H2O (15:5 mL) was refluxed overnight.
+4-023	The reaction mixture was concentrated to about 5 mL, and NH4PF6 (162 mg, 1.0 mmol) was added.
+4-024	The precipitate was collected and purified by chromatography on alumina, eluting with CH2Cl2/ acetone followed by acetone/H2O to afford complex 1c (48 mg, 44%): 1H NMR (400 MHz, acetone-d6) δ 10.31 (d, J = 4.6 Hz, 2H), 8.89 (AB, 4H), 8.67(d, J = 7.8 Hz, 2H), 8.64 (s, 2H), 8.56 (d, J = 6.4 Hz, 4H), 8.39 (dt, J = 1.3 and 7.8 Hz, 2H), 8.15 (dt, J = 1.4 and 7.8 Hz, 2H), 7.36 (d, J = 6.4 Hz, 4H).
+4-025	A monopyridine complex trans-[Ru(dpp)(4-CF3-py)Cl\](PF6) (18 mg, 22%)[5] was also obtained from early fractions of the alumina column by eluting with acetone: 1H NMR (acetone-d6) δ 10.07 (d, J = 4.2 and 1.5 Hz, 2H), 8.82 (d, J = 8.4 Hz, 2H), 8.71 (d, J = 7.8 Hz, 2H), 8.60 (d, J = 8.7 Hz, 2H), 8.49 (d, J = 6.9 Hz, 2H), 8.43 (s, 2H), 8.34 (dt, J = 7.8 and 1.5 Hz, 2H), 8.05 (m, 2H), 7.27 (d, J = 7.2 Hz, 2H); IR (ATR, cm−1) 1603 (vw), 1419 (vw), 1332 (m), 1179 (w), 1142 (w), 1092 (w), 1056 (vw), 838 (vs), 773 (m), 730 (m), 680 (vw); MS (LC−MS, acetone) m/z 617.9 [M − PF6]+, 763.7 [M]+.
+4-026	[Ru(dpp)(VP) 2\](PF6)2 (1d).
+4-027	A mixture of trans-[RuII(dpp)Cl2] (34 mg, 0.066 mmol), VP (393 mg, 3.74 mmol), EtOH (10 mL), and H2O (3 mL) was heated at reflux for 2 days.
+4-028	The volatile material was evaporated at reduced pressure.
+4-029	NH4PF6 (168 mg, 1.0 mmol) was added to produce a precipitate that was collected and washed with H2O. Recrystallization with acetone/H2O afforded the complex (64 mg, 100%): 1H NMR (400 MHz, acetone-d6) δ 10.29 (dd, J = 0.92 and 5.50 Hz, 2H), 8.89 (d, J = 8.70 Hz, 2H), 8.82 (d, J = 8.70 Hz, 2H), 8.68 (d, J = 7.79 Hz, 2H), 8.61 (s, 2H), 8.38 (dt, J = 1.83 and 7.79 Hz, 2H), 8.15 (ddd, J = 1.37, 5.04, and 7.79 Hz, 2H), 8.05 (dd, J = 1.37 and 5.50 Hz, 4H), 7.08 (dd, J = 1.37 and 5.04 Hz, 4H), 6.48 (dd, J = 10.99 and 17.86 Hz, 2H), 5.90 (d, J = 17.86 Hz, 2H), 5.44 (d, J = 10.99 Hz, 2H).
+4-030	Anal. Calcd for C36H28F12N6P2Ru·[1]/2H2O: C, 45.77; H, 3.09; N, 8.90.
+4-031	Found: C, 45.76; H, 3.11; N, 8.68.
+4-032	trans-[Ru(dpp)(NCS)2] (1e).
+4-033	To a solution of trans-[RuII(dpp)Cl2] (31 mg, 0.060 mmol) in DMF (5 mL) was added ammonium thiocyanate (366 mg, 4.8 mmol) in H2O (2.5 mL).
+4-034	The mixture was refluxed for 18 h.
+4-035	The black precipitate was collected, washed with
+4-036	H2O, and dried to give a dark solid (28.8 mg, 86%): 1H NMR (DMSO-d6) δ 9.92 (d, J = 4.8 Hz, 2H), 8.94 (d, J = 8.4 Hz, 2H), 8.86 (d, J = 7.5 Hz, 2H), 8.62 (d, J = 9.0 Hz, 2H), 8.37 (m, 4H), 8.04 (t, J = 6.3 Hz, 2H); FTIR (ATR, cm−1) ν 2105 (SCN), 1601, 1454, 1444, 1363, 1282.
+4-037	Anal. Calcd for C 24H14N6RuS2: C, 52.26; H, 2.56; N, 15.24.
+4-038	Found: C, 51.78; H, 2.43; N, 14.89.
+4-039	trans-[Ru(dpp)(2-pyridone)2] (1g).
+4-040	A mixture of trans-[RuII(dpp)Cl2] (30 mg, 0.059 mmol) and 2-hydroxypyridine (40 mg, 0.42 mmol) in EtOH/H2O (15:5 mL) was heated at reflux for 22 h.
+4-041	NaOH (93 mg, 2.3 mmol) was added and reflux was continued overnight.
+4-042	The solvents were evaporated, and H2O (5 mL) was added to the residue.
+4-043	The solid was collected, washed with H2O and acetone, and dried (30 mg, 82%): 1H NMR (400 MHz, DMSO-d6) δ 10.24 (d, J = 4.58 Hz, 2H), 8.45 (d, J = 8.70 Hz, 2H), 8.28 (d, J = 7.79 Hz, 2H), 8.27 (d, J = 8.93 Hz, 2H), 8.23 (s, 2H), 8.01 (dt, J = 1.83 and 7.79 Hz, 2H), 7.82 (ddd, J = 1.37, 5.50, and 7.33 Hz, 2H), 6.77 (dd, J = 1.83 and 5.95 Hz, 2H), 6.65 (ddd, J = 2.06, 6.64, and 8.70 Hz, 2H), 5.58 (dd, J = 0.92 and 8.70 Hz, 2H), 5.51 (dt, J = 1.37 and 6.41 Hz, 2H).
+4-044	Anal. Calcd for C32H22N6O2Ru·2H2O: C, 58.26; H, 3.97; N, 12.74.
+4-045	Found: C, 58.67; H, 3.91; N, 12.42.
+4-046	trans-[Ru(dpp)(CH3CN)2\](PF6)2 (1f).
+4-047	A mixture of trans-[RuII(dpp)Cl2] (43.6 mg, 0.086 mmol) and AgBF4 (50 mg, 0.26 mmol) in CH3CN (5 mL) was heated at reflux overnight.
+4-048	The resulting mixture was passed through a short column of alumina, and the first, light-brown band was collected to give a brown solid, which was dissolved in CH3CN, to which was added NH4PF6 (81 mg) in H2O (1 mL).
+4-049	Evaporation of CH3CN afforded 1f (57 mg, 96%): 1H NMR (400 MHz, acetone-d6) δ 9.89 (d, J = 4.58 Hz, 2H), 8.94 (d, J = 8.70 Hz, 2H), 8.85 (m, 2H), 8.85 (d, J = 8.70 Hz, 2H), 8.49 (dt, 1.83, 7.79 Hz, 2H), 8.46 (s, 2H), 8.07 (ddd, J = 1.37, 5.50, and 7.79 Hz, 2H).
+4-050	MS (MALDI-TOF): m/z 580.4 [Ru(dpp)(PF6)]+, 436.3 [Ru(dpp)]+.
+4-051	trans-[Ru(dpp)(PPh3)2\](PF6)2 (1h).
+4-052	A mixture of trans-[RuII(dpp)-(CH3CN)2\](PF6)2 (8.5 mg, 0.010 mmol) and PPh3 (180 mg, 0.69 mmol) in an acetone/EtOH mixture (5:5 mL) was heated at reflux overnight.
+4-053	The solvents were evaporated, and the residue, dissolved in acetone (0.5 mL), was added dropwise to ether (5 mL).
+4-054	The precipitate was collected, washed with ether, and dried to give a light-brown solid (10 mg), which was a mixture of the starting materials and the PPh3 complex in a 1:2 ratio.
+4-055	The mixture, along with 1f (9.9 mg, 0.011 mmol), was refluxed with PPh3 (195 mg, 0.74 mmol) for 2 days.
+4-056	Solvents were removed, and the residue in minimum amount of acetone was added to the ether to afford a precipitate.
+4-057	The solid was collected, washed with ether, and dried (13 mg, 50%): 1H NMR (400 MHz, acetone-d6) δ 10.42 (d, J = 5.50 Hz, 2H), 8.60 (d, J = 8.70 Hz, 2H), 8.43 (s, 2H), 8.21 (d, J = 8.70 Hz, 2H), 8.08 (m, 4H), 7.83 (dt, J = 3.66 and 5.50 Hz, 2H), 7.34 (t, J = 7.56 Hz, 6H, PPh3), 7.09 (m, 12H, PPh3), 6.59 (m, 12H, PPh3); 13P NMR (162 Hz, acetone- d6) δ 30.55 (s, PPh3).
+4-058	Anal. Calcd for C58H44F12N4P4Ru H2O: C, 54.94; H, 3.66; N, 4.42.
+4-059	Found: C, 54.98; H, 3.31; N, 4.47.
+4-060	[Ru(dpp-N,N′,N″)2 \](PF6)2 (2).[5]
+4-061	The complex 2 was obtained as a byproduct in the previously reported[5] one-pot syntheses of complexes 1a−1c: 1H NMR (400 MHz, acetone-d6) δ 9.15 (d, J = 9.16 Hz, 2H), 8.94 (d, J = 8.59 Hz, 2H), 8.84 (d, J = 7.45 Hz, 2H), 8.79 (d, J = 8.02 Hz, 2H), 8.50 (AB, 4H), 8.00 (dt, J = 1.72 and 7.73 Hz, 2H), 7.69 (d, J = 4.58 Hz, 2H), 7.58 (d, J = 8.02 Hz, 2H), 7.12 (ddd, J = 1.72, 5.73, and 7.45 Hz, 2H), 7.09 (dt, J = 1.72 and 7.73 Hz, 2H), 6.86 (m, 4H), 6.36 (d, J = 7.45 Hz, 2H); MS (MALDI-TOF, no matrix) m/z 915.3 [M − PF6]+ , 769.3 [M − 2PF6]+ .
+4-062	[Ru(dpp-N,N″,N″)(tpy)\](PF6 )2 (3).
+4-063	A suspension of trans-[Ru II(dpp)Cl 2] (43 mg, 0.085 mmol), tpy (26.3 mg, 0.113 mmol), EtOH (10 mL), and H 2O (3 mL) was refluxed for 2 days to give a red solution.
+4-064	NH4PF6 (162 mg, 1.0 mmol) was added to produce a precipitate, which was collected and purified by chromatography first on alumina and then on silica gel to provide a red solid (44 mg, 54%): 1H NMR (400 MHz, acetone-d6) δ 9.28 (d, J = 8.70 Hz, 1H), 9.16 (d, J = 8.70 Hz, 1H), 8.86 (d, J = 7.79 Hz, 1H), 8.85 (d, J = 8.24 Hz, 1H), 8.79 (d, J = 8.24 Hz, 2H), 8.71 (d, J = 9.16 Hz, 1H), 8.71 (d, J = 7.79 Hz, 2H), 8.58 (d, J = 9.16 Hz, 1H), 8.37 (d, J = 8.02 Hz, 1H), 8.23 (m, 1H), 8.06 (dt, J = 1.83 and 7.79 Hz, 2H), 8.02 (dt, J = 1.83 and 7.79 Hz, 1H), 7.66 (d, J = 8.70 Hz, 1H), 7.63 (d, J = 1.83 and 7.79 Hz, 1H), 7.61 (dt, J = 0.92 and 4.58 Hz, 2H), 7.28 (m, H + H), 7.21 (ddd,
+4-065	Inorganic Chemistry
+4-066	J = 1.37, 5.50, and 7.33 Hz, 2H), 6.92 (td, J = 0.92 and 5.04 Hz, 1H), 6.63 (td, J = 0.92 and 7.79 Hz, 1H); MS (MALDI-TOF) m/z 813.5 [M − PF6]+, 669.5 [M − 2PF6]+.
+4-067	Anal. Calcd for C37H25N7F12P2Ru: C, 46.36; H, 2.63; N, 10.23.
+4-068	Found: C, 46.44; H, 2.57; N, 9.77.
+4-069	[Ru(dpp-N,N′,N″)(bpy)Cl\](PF6 ) (4).
+4-070	A mixture of trans-[RuII(dpp)Cl 2] (40 mg, 0.079 mmol), bpy (38 mg, 0.24 mmol), EtOH (10 mL), and H2O (3 mL) was heated at reflux for 2 days to give a red solution.
+4-071	NH 4PF6 (162 mg, 1.0 mmol) was added to produce a precipitate that was collected and purified by chromato- graphy first on alumina and then on silica gel, eluting with a CH 2Cl2/ acetone mixture.
+4-072	Complex 4 was obtained as a light-brown solid (32 mg, 66%): 1H NMR (400 MHz, acetone-d6) δ 9.93 (d, J = 5.50 Hz, 1H), 8.99 (d, J = 8.70 Hz, 1H), 8.79 (d, J = 8.70 Hz, 1H), 8.73 (d, J = 8.24 Hz, 1H), 8.72 (d, J = 7.79 Hz, 1H), 8.54 (d, J = 8.24 Hz, 1H), 8.51 (d, J = 8.70 Hz, 1H), 8.46 (d, J = 8.24 Hz, 1H), 8.43 (d, J = 9.16 Hz, 1H), 8.14 (m, 2H), 7.95 (dt, J = 1.37 and 7.79 Hz, 1H), 7.81 (ddd, J = 1.37, 5.78, and 7.56 Hz, 1H), 7.76 (d, J = 7.79 Hz, 1H), 7.76 (d, J = 8.24 Hz, 1H), 7.66 (dt, J = 1.83 and 7.79 Hz, 1H), 7.53 (d, J = 8.24 Hz, 1H), 7.48 (d, J = 5.04 Hz, 1H), 7.33 (ddd, J = 1.37, 5.78, and 7.56 Hz, 1H), 7.12 (m, 2H), 6.95 (ddd, J = 1.37, 5.78, and 7.56 Hz, 1H); MS (MALDI-TOF) m/z 627.3 [M − PF6]+.
+4-073	Anal. Calcd for C32H22ClF6N6PRu·[3]/4CH2Cl2: C, 47.07; H, 2.83; N, 10.06.
+4-074	Found: C, 47.19; H, 2.73; N, 10.26.
+4-075	X-ray Structure Determination of 4·CH3CN.
+4-076	All measurements were made with a Siemens SMART platform diffractometer equipped with a 4K CCD APEX II detector.
+4-077	A hemisphere of data (1271 frames at a 6 cm detector distance) was collected using a narrow-frame algorithm with scan widths of 0.30° in ω and an exposure time of 35 s/frame.
+4-078	The data were integrated using the Bruker-Nonius SAINT program, with the intensities corrected for Lorentz factor, polarization, air absorption, and absorption due to variation in the path length through the detector faceplate.
+4-079	A ψ-scan absorption correction was applied based on the entire data set.
+4-080	Redundant reflections were averaged.
+4-081	Final cell constants were refined using 8155 reflections having I > 10σ(I), and these, along with other information pertinent to data collection and refinement, are listed in Table S1 in the Supporting Information.
+4-082	The Laue symmetry was determined to be mmm, and from the systematic absences noted, the space group was shown unambiguously to be Pbca.
+4-083	Both the anion and the CH3CN solvent molecule were found to be massively disordered, having three slightly different orientations.
+4-084	This was treated by refinement of ideal rigid bodies at each site, with occupancies estimated based on a comparison of the isotropic displacement parameters involved.
+4-085	No attempt was made to locate or refine the disordered solvent H atoms.

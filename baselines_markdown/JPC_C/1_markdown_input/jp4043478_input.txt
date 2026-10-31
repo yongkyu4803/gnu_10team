@@ -1,0 +1,206 @@
+# document_id: jp4043478
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Conjugated polymers have been used as the active layers in organic electronic devices, such as light emitting diodes (OLEDs), photovoltaics (OPVs) and transistors (OTFTs), due to their unique optoelectronic properties and solution processability.[1−4] The optoelectronic properties and device performance are determined not only by the intrinsic chemical nature of the conjugated polymers[5,6] but also by the preparation condition of the active layers[7,8] It is known that the microstructures of conjugated polymers in the solution and thin-film states are highly sensitive to the processing
+1-003	12
+1-004	polymer with another flexible polymer, which may be called the “co-electrospinning”.[27]
+1-005	For instance, the fabrication of poly(3-hexylthiophene) (P3HT) nanofibers has been accomplished by using a two-component core−shell system, where the P3HT and the flexible polymer (such as PEO and PMMA) formed the core and shell, respectively.[20−26]
+1-006	Polyfluorenes constitute a family of conjugated polymers exhibiting a number of attractive features for LED application.
+1-007	Poly(9,9-dioctylfluorene-2,7-diyl) (PF8) is one of the most important members in this family, as a blue-emitting materi- al.[28−31] The optoelectronic properties of PF8 were found to depend strongly on its molecular packing and conformation.
+1-008	different phases with various degrees of intrachain coplanarities
+1-009	32
+1-010	17,18
+1-011	19−26
+1-012	and (c) Cβ.
+1-013	which are found in the crystalline α-phase, crystalline γ-phase, and metastable mesomorphic β-phase, respectively.
+1-014	Chen et al. showed that PF8 exhibited the crystalline α-phase with a helical conformation,[33] while the mesomorphic β-phase was charac- terized by a larger intrachain torsional angle, which resulted in a more extended conformation and a longer conjugation length (as schematically illustrated in Figure 1).[34]
+1-015	The structural characteristic of the β-phase is favorable for promoting the carrier mobility of the optoelectronic devices;[35,36] therefore, controlling the content of β-phase in PFs is an important task for enhancing the device performance.
+1-016	Recently, Kuo et al. have successfully prepared the electrospun nanofibers of polyfluorene derivatives using their binary blends with PMMA.[28]
+1-017	They showed the presence of discontinuous fibril-like domains in the PF8 fibers at low PF8/ PMMA blending ratio, but a continuous core−shell structure was formed at high PF8 content.
+1-018	The higher photo- luminescence (PL) efficiency in electrospun fibers was attributed to the much smaller PF8 aggregate domains in the fibers than those in the corresponding thin films.
+1-019	Yang et al. reported that a well-dispersed conjugated polymer in an optical matrix manifested dramatically improved photophysical proper- ties by a stress effect because the individual molecular strands were fully stretched in the diluent sample.[12]
+1-020	Indeed, many studies have indicated that the strong stretching forces in an electrospinning process may induce orientation of polymer chains along the long axis of the fiber.[37,38]
+1-021	Such a stretching effect could also contribute to the enhancement of the PL efficiency.
+1-022	Therefore, the relationship between the conforma- tional order and the photophysical properties in the electrospun fibers is of great interest for controlling or enhancing the optoelectronic performance of conjugated polymers.
+1-023	However, the influence of the microstructure development on the PL
+1-024	efficiency of PF8 in the electrospun fibers is still largely unexplored.
+1-025	In this study, we report the direct electrosponning of PF8 fibers without resorting to the blending with a flexible homopolymer.
+1-026	More importantly, we demonstrate that the conformational structure characterized by the intrachain torsional angle in the PF8 backbone is affected significantly by the dragging force associated with the electrospinning by showing the formation of a significant amount of β-phase (in which the polymer chains are more extended) in the as-spun fibers.
+1-027	Using the combination of temperature-dependent wide-angle X-ray scattering (WAXS) and PL spectroscopy, we further examine the transformation of the microstructure induced by heating and its corresponding effect on the PL efficiency.
+1-028	The result may provide the fundamental under- standing on modulating the photophysical properties of electrospun PF8 fibers by thermal treatment.
+2-001	■
+2-002	Materials and Solution Preparation.
+2-003	Poly(9,9-dioctyl- fluorene-2,7-diyl) (MW approximately 65000g/mol) was purchased from American Dye Source, Inc.
+2-004	(ADS129BE).
+2-005	High-purity chloroform (HPLC grade) was used to prepare conjugated polymer solutions.
+2-006	The solutions were prepared by stirring appropriate quantities of PF8 in chloroform at approximately 60 °C for 2 h until macroscopically homoge- neous solutions were observed by the naked eyes.
+2-007	The solutions were used for electrospinning to prepare the PF8 as-spun (AS) fibers and for obtaining the films by drop-casting.
+2-008	Electrospinning and Film Casting.
+2-009	PF8/chloroform solutions with the concentration of 20.0 wt % were used to prepare the AS fibers by electrospinning.
+2-010	The electrospinning setup included a Glassman PS/FC60P high-voltage power
+2-011	supply.
+2-012	During electrospinning, a positive high voltage was applied via a copper wire to the spinning solution inside a glass pipet with a capillary tip with the diameter of 0.21 mm.
+2-013	An electrically grounded ITO glass slide or a stainless steel net were placed approximately 30 cm from the pipet tip.
+2-014	The PF8 solution flow rate was set to 0.4 mL/h.
+2-015	As the applied voltage was increased to 30 kV, a solution jet was created.
+2-016	The jet followed a complex stretching and looping path as it dried and solidified to form AS fibers.
+2-017	During spinning, the PF8 chains could be more extended as the average intrachain torsional angle along the PF backbones may be increased by the dragging force.
+2-018	The AS fibers in the mat had a very high aspect ratio, and so few fiber ends were identifiable.
+2-019	The drop-cast PF8 thin films were prepared by dropping the solutions onto a microscope coverslip at ca. 30 °C under a purge of nitrogen gas.
+2-020	Morphological Characterizations.
+2-021	The morphology of PF8 AS fibers was investigated by polarized optical microscopy (POM) and fluorescence optical microscopy (FOM) using a Zeiss Axioskop-40 optical microscope (OM).
+2-022	The detailed morphology of the PF8 as-spun fibers was observed with a Hitachi S-4700 field-emission scanning electron microscope (FE-SEM) operated at an accelerating voltage of 1.0 kV.
+2-023	Spectroscopic Measurements.
+2-024	The absorption measure- ments for the π−π* and β-phase absorption of PF8 were performed using a Hitachi U-3010 spectrophotometer.
+2-025	The fiber mats, approximately 100 μm thick, were placed on the surface of ITO glass slides for UV−vis and photoluminescence (PL) spectroscopy measurement.
+2-026	The UV−vis spectra were corrected for the ITO glass background.
+2-027	The PL spectra were recorded with a HMTECH MFS-630 Multi spectrophotometer, using an excitation wavelength of 235 nm.
+2-028	The temperature-dependent PL spectra were obtained by heating the specimens using a Linkam TH600 heating stag under nitrogen atmosphere at a rate of 10 °C/min.
+2-029	Thermal Properties.
+2-030	The thermal transitions of PF8 AS fibers and thin films were detected using a Perkin-Elmer Pyris Diamond differential scanning calorimeter (DSC) equipped with an intracooler.
+2-031	The samples of approximately 3 mg in weight were placed into the sample pans and heated under nitrogen to 280 °C at a heating rate of 10 °C/min.
+2-032	The samples were then annealed at 280 °C for 5 min to eliminate the thermal history followed by cooling to 30 °C at a rate of 10 °C/min to detect the thermal transitions during cooling.
+2-033	Microstructure Characterization.
+2-034	The transformation of the microstructure of the PF8 AS fibers induced by heating was investigated by the temperature-dependent WAXS experiment conducted at Beamine BL17B3 of the National Synchrotron Radiation Research Center (NSRRC), Taiwan.
+2-035	The X-ray beam with the wavelength (λ) of 1.33 Å was collimated into a 0.5 mm × 0.5 mm beam size.
+2-036	The WAXS profiles over the scatting vector (q = 4π sin(θ/2)/λ, with θ being the scattering angle) range of 0.8 to 48 nm−1 were collected under the sample-to- detector distance of 0.307 m.
+2-037	The detector used was an imaging plate (Fuji BAS III, area = 20 × 40 cm2 ) having 100 μm pixel resolution.
+2-038	The scattering intensities were corrected for the absorption and the air scattering.
+2-039	The temperature-dependent scattering profiles were probed in situ from 30 to 180 °C at a heating rate of 2.0 °C/min under a nitrogen atmosphere.
+3-001	■
+3-002	Parts a−c of Figure 2 show the OM, POM, and FOM micrographs of PF8 AS fibers prepared from 20.0 wt % PF8/chloroform solution.
+3-003	According to our previous work, this
+3-004	concentration was well above the general overlap concentration (c*) of conjugated polymers, such that the polymer chains should entangle significantly.[9]
+3-005	The entanglement and aggrega- tion of the PF8 chains in the solution are required to develop the viscoelasticity, which is essential for successful electro- spinning.
+3-006	Indeed, at the lower concentration (c < 15.0 wt %), the fiber mats are found to contain many droplets or spindles.
+3-007	Uniform AS fibers are obtained by increasing the polymer concentration to 20 wt % at 45 °C. As can be seen in Figure 2a and d, the AS fibers show a uniform morphology with average diameters of ca. 0.3−1.5 μm.
+3-008	The fibers in mats exhibit a very high aspect ratio (i.e., almost no fiber end was identified).
+3-009	It is important to note that a clear birefringence phenomenon is observed in the AS fibers through POM (Figure 2b), showing the presence of anisotropic microstructure.
+3-010	The anisotropic structure may be associated with the well-defined mesophase, such as the β-phase,[39−41] with larger intrachain torsional[34,35] and/or the highly extended and well-aligned chains along the
+3-011	22,28,37,38
+3-012	fiber axes induced by the electrostatic stretching force.
+3-013	The FOM image in Figure 2c reveals that the AS fibers display strong deep-blue emission, which can be ascribed to the presence of a significant amount of the β-phase.[34−36] The greater magnifications of the fibers by SEM and TEM observations in Figure 2e and f reveal many nanoscale pellets or pores on the surface of the AS fibers.
+3-014	The presence of these entities implies that a liquid−liquid phase separation or a very rapid solvent evaporation occurred during the electrospin- ning.[28]
+3-015	To corroborate the formation of the β-phase in the AS fibers, UV−vis and PL spectra, which are strongly dependent on the molecular packing and conjugation length of the poly-
+3-016	9,10,32,35,36,39−43
+3-017	mer, were measured.
+3-018	Figures 3 and 4 show
+3-019	the normalized UV−vis and PL spectra of the PF8 AS fiber mats, respectively.
+3-020	The spectra of the cast film and the freshly prepared PF8/chloroform solution are also displayed for comparison.
+3-021	It can be seen in Figure 3 that only a single absorption maximum (λmax) at around 385 nm and a weak peak at 430 nm are observed in the absorption spectrum of the freshly prepared solution.
+3-022	The main peak at 385 nm arises from the well-dissolved PF8 segments, while the weak absorption at 430 nm is associated with the β-phase domains (e.g., sheetlike or membrane type aggregates organized by the PF8 chains[39−41]) in the semidilute solution.[9,10]
+3-023	For the cast film, the absorption peak arising from the crystalline α′- or γ-phase and the β-phase is identified at 400 and 430 nm, respectively.
+3-024	In addition, a high-energy peak is observed at ca. 380 nm.
+3-025	The presence of the α′- or γ-phase peak has been attributed to the formation of Cα′ or Cγ conformational isomers[9,10,31,41] and to the transformation of randomly twisted local PF backbone motifs into a P52 helix and other unresolved local backbone motifs.[32,41,44]
+3-026	It is interesting to see that the electrospinning process produces a broad distribution of conformations, as the absorption spectrum of the AS fibers shows the overlap of a number of peaks in the range of 300−550 nm.
+3-027	Compared to the cast film, the fact that fibers exhibit a much stronger β-phase absorption at 430 nm indicates that the AS fibers contain a greater amount of PF8 chains adopting the more extended Cβ conformation as a result of the application of strong stretching
+3-028	force during electrospinning.[28,37,38]
+3-029	This effect has also been observed for the mechanically stretched MEH-PPV/poly- ethylene films[45] and also in other as-spun fibers.[46]
+3-030	As to the PL spectrum of the solution shown in Figure 4, the emission peaks at 420 and 440 nm are contributed by the well-dissolved segments, while the weak shoulders at 470 and 500 nm are attributed to the emission from the β-phase domains.[9−11,47] The PL spectrum of the cast film is obviously red-shifted relative to that of the solution.
+3-031	The spectrum now is characterized by two peaks at 470 and 500 nm and a shoulder at 540 nm.
+3-032	The former two peaks are associated with the Cα′-/Cγ-conformer and β-phase, respectively, whereas the 540 nm peak is attributed to the emission from the disordered domains.
+3-033	The PL spectrum of the PF8 AS fiber is very broad and blue- shifted relative to that of the cast film.
+3-034	The change of the PL spectrum may be due to the higher β-phase content in the fibers.
+3-035	In fact, the photoexcitons of conjugated polymer chains with various energies should relate to different intrachain torsional angles.[32]
+3-036	The emission peaks at 450 and 490 nm displayed by the AS fibers may be ascribed to ordered and disordered conformational states, respectively, as will be discussed later.
+3-037	Parts b and c of Figure 4 show the photographs of PF8 AS fibers and cast films, respectively.
+3-038	The images demonstrate that the emitting color of the fibers is deep-blue compared to green-blue for the film.
+3-039	This observation verifies that the AS fiber contains a higher population of blue-sifted lumophores (e.g., β-phase) than the film.
+3-040	cycle at the rate of 10 °C/min.
+3-041	The film exhibits a glass transition (Tg) at ca. 58 °C and a crystal transformation peak (Tct) at ca. 127 °C, followed by two melting peaks, Tm[1] and Tm[2], at 140.7 and 158.4 °C, respectively, with the total heat of melting of ca. 23.6 J/g (Figure 5a).
+3-042	Recently, Chen et al. indicated that the Tm[1] endotherm corresponded to the initial melting of the imperfect cold-crystallized crystals, while the Tm[2] peak was associated with the final melting of well-organized crystals, and the multiple melting behavior implied the occurrence of significant premelting, reorganization, and remelting upon heating in the thin film.[48]
+3-043	The crystallinity of the cast film is estimated to be ca. 32.3%, based on the heat of melting (ΔHm = 73 J/g) of 100% crystalline PF8.[49]
+3-044	The AS fibers show more complex thermal transition compared with the film.
+3-045	The DSC curve now displays a Tg followed by a stress relaxation peak at ca. 55 °C, which leads to a thermal shrinkage of the fibers due to the relaxation of the oriented backbone to the orientation-free chains with smaller average torsional angle.
+3-046	It is interesting to note that the AS fibers exhibit a clear cold crystallization exotherm (Tcc) at ca. 90 °C, with the heat of crystallization of 21.8 J/g (crystallinity = ca. 30.0%).
+3-047	The presence of the cold crystallization peak evidences the occurrence of crystallization from the mesomorphic β-phase into the α′- or γ-phase crystals on heating the fibers.[50]
+3-048	The AS fibers also exhibit a crystal transformation peak (Tct) at 120.2 °C, followed by a melting endotherm at 152.3 °C (with the corresponding crystallinity of ca. 23.4%).
+3-049	The cooling traces of both the cast film and AS fibers are shown in Figure 5b.
+3-050	The film shows a melt crystallization temperature (Tmc) at 84.7 °C, with the corresponding heat of crystallization of 19.5 J/g (26.5% in crystallinity).
+3-051	On the other hand, the AS fibers show a higher Tmc at 99.2 °C, and the corresponding heat of crystallization is 27.9 J/g (crystallinity = 38.2%).
+3-052	The higher Tmc indicates the faster crystallization kinetics of PF8 in the fibers because the residue of the more extended segments may provide effective nucleation sites for the subsequent cold crystallization process on cooling.
+3-053	It can be seen that the cast film displays scattering peaks at q = 4.78, 9.1, 13.95, and 14.82 nm−1, which correspond to (200), (300), (250), and (530)/(008) diffraction of Cγ-/Cα′-crystals of PF8, respectively.[48]
+3-054	The WAXS profile also shows an amorphous halo at q = 12.0 nm−1.
+3-055	The WAXS profile of the PF8 AS fiber exhibits a relatively broad peak at ca. 4 nm−1, which is attributed to the (200) diffraction of the β-phase.
+3-056	The broad halo at ca. 14 nm−1 is due to the β-phase nanodomain and/or amorphous phase present in the fibers.
+3-057	The WAXS profile reveals that there is negligible crystallinity in the AS fibers.
+3-058	Thus, the AS fibers compose the amorphous region and the mesomorphic β-phase.
+3-059	The amount of these two character- istic structures estimated from the scattering profile is ca. 60% and 40%, respectively (cf. Figure 9).
+3-060	The β-phase, although it constitutes the minor component, may still dominate the photophysical properties of the AS fibers.
+3-061	The DSC heating scans of both AS fibers and cast film demonstrate the occurrences of various thermal transitions, including glass transition, cold crystallization, crystal trans- formation, and crystal melting, on heating.
+3-062	In the light of this finding, we also carry out a temperature-dependent WAXS experiment to probe the characteristic structure developed during the heating process, and the structure evolution is then correlated with the temperature-dependent PL spectra to draw a clear understanding on the effect of microstructure on the photoemission behavior and the evolutions of structure and PL efficiency upon heating the PF8 AS fibers.
+3-063	Figure 7a displays the temperature-dependent WAXS profiles of the fibers collected with the heating rate of 2 °C/min from 30 to 170 °C. The WAXS profiles below 85 °C shows the presence of amorphous phase and β-phase in the fiber, as discussed above.
+3-064	The WAXS profile changes significantly as the temperature is raised beyond 85 °C (which is close to Tcc observed in DSC
+3-065	scan), where a series of diffraction peaks develop at 4.78, 9.1, and 14.82 nm−1; they are attributed to the (200), (300), and (530) (008) diffractions of the Cγ-/Cα′-crystals formed from the mesophase in AS fibers.
+3-066	It is interesting that, at temperatures over 120 °C (close to Tct in the DSC scan), several new
+3-067	scattering peaks develop at the expense of the Cγ-/Cα′-crystal peaks.
+3-068	These new peaks at q = 3.5, 7.12, 10.52, 12.64, and 14.0 nm−1 are ascribed to the (110), (310), (330)/(140), (520), and (250) diffractions of Cα-crystals, respectively.[48,49]
+3-069	The result verifies that the crystal structure of PF8 in the fibers transforms from Cγ-/Cα′-crystals to the more stable Cα- (α-phase) crystals at Tct.
+3-070	A more detailed interpretation of the crystal trans- formation is examined by the temperature dependences of the (110) and (200) peaks, as shown by the enlarged WAXS profiles in Figure 7b.
+3-071	It is clear that, as temperature exceeds Tct, the position of the (200) diffraction shifts to lower q, and such a shift is accompanied with an increase of the intensity of the (110) peak.
+3-072	This observation attests the occurrence of a crystal transformation from the Cγ-/Cα′-crystals to the more stable Cα-crystals in the fibers.
+3-073	On further heating, Cα-crystal melts above ca. 155 °C (Tm).
+3-074	Considering that the microstructure of PF8 in the AS fibers depends strongly on temperature, it is of great interest to examine the corresponding dependence of PL efficiency on temperature.
+3-075	Here, the PL spectra at various temperatures were recorded in situ by heating the fiber mats of PF8 from 30 to 200 °C with a rate of 10 °C/min under nitrogen atmosphere.
+3-076	The intensities of the PL peaks change markedly as the temperature is raised, as shown in Figure 8a.
+3-077	Here, we illustrate the PL spectra in two parts according to the temperature: (i) the spectra at 30−90 °C (T cc), and (ii) the spectra at 95−200 °C (T > Tcc), as displayed in Figure 8b and c, respectively.
+3-078	Figure 8b shows that, when the temperature is lower than 90 °C, the intensity of PL decreases progressively with the increase of temperature.
+3-079	This fact may be due to the relaxation of the PF8 backbone from a larger average torsional angle to a smaller one.
+3-080	When the temperature reaches 90 °C (near Tcc ), the PL peaks change markedly (Figure 8b), as the intensities of the
+3-081	under nitrogen atmosphere.
+3-082	It can be seen that the intensities of the PL peaks vary markedly as the temperature is raised.
+3-083	The PL spectra are further
+3-084	separated into two parts according to the temperature, as shown in parts b and c for the temperature range of 30 to 90 °C (T cc) and 95 to 200
+3-085	°C (T > Tcc), respectively.
+3-086	The FOM images shown in the insets of parts b and c demonstrate the change of the morphology of the PF8 fibers at
+3-087	different temperatures.
+3-088	20392
+3-089	peaks at 450 and 490 nm are enhanced significantly, due to the cold crystallization of PF8 from the β-phase to the Cγ-/Cα′-crystalline phase.
+3-090	Upon further heating, Figure 8c shows that the intensities of the PL peaks change abruptly above 95 °C (T > Tcc), where the 0−2,0−3, and 0−4 vibronic peaks grew significantly with the increase of temperature from 95 to 105 °C[32,42] due to the further development of Cγ-/Cα′-crystals.
+3-091	Subsequent heating is found to reduce the PL peak intensities, where the 0−2 vibronic peak decreases slightly in intensity and shifts to shorter wavelength, while the intensity of the 0−3 peak drops significantly as the temperature exceeds Tct.
+3-092	This observation suggests that the 0−3 vibronic peak is associated with the Cγ-/Cα′-crystals.
+3-093	The PL spectra remain largely unperturbed above the melting temperature.
+3-094	The FOM images shown in the insets of Figure 8b and c demonstrate the change of the morphology of the PF8 fibers at different temperatures.
+3-095	A relaxation of the fibers is observed on heating over Tg.
+3-096	Moreover, the FOM images show a red-shift and an increase in fluorescence intensity upon heating to 100 °C. At 170 °C (>Tm), the molten PF8 fibers exhibit weak fluorescence intensity, consistent with the result of PL spectra.
+3-097	The relationship between the thermally induced micro- structure development and the PL efficiency (Ep) of the PF8 fibers is of particular interest in this study.
+3-098	Therefore, we deconvoluted the WAXS profiles collected at different temper- atures to determine the relative fractions of the various types of microstructure and then drew their correlation with the Ep of the PF8 fibers.
+3-099	Figure 9 displays the representative deconvolutions for the AS fibers and the fibers heated to 130 °C. For the AS fibers, the peaks at 3.5, 4.82, and 14.12 nm−1 are attributed to the β-phase, while the broad peaks at 12 nm−1 are ascribed to the amorphous phase.
+3-100	The fractions of the β-phase and amorphous phase estimated from the corresponding peak areas are approximately 39 and 61%, respectively, in the AS fibers.
+3-101	The heated PF8 fibers show a series of scattering peaks at 3.5, 4.82, 6.4, 10.52, 12.64, and 14.1 nm−1, corresponding to (110), (200), (310), (330)/(140), (520), and (250) diffraction of the α-phase crystal, respectively.[48]
+3-102	The diffuse peaks at 4.24 and 14.12 nm−1 are attributed to the β-phase, while that at 12.0 nm−1 is associated with the amorphous phase.
+3-103	The fractions of the α-phase crystal, the β-phase, and the amorphous phase are 31.1%, 8.5%, and 60.4%, respectively, in this heated fiber.
+3-104	Similar analyses were carried out for other experimental temperatures.
+3-105	The PL efficiency (Ep ) of the PF8 fibers was calculated by
+3-106	APL at‐T
+3-107	Ep = × 100%
+3-108	APL at‐30 (1)
+3-109	where APL at‑30 is the area of the PL spectrum at 30 °C and APL at‑T is the corresponding area at the temperature of interest.
+3-110	Figure 10 presents the fractions of various types of microstructure as a function of temperature along with the corresponding values of Ep.
+3-111	The locations of Tg, Tcc , Tct, and Tm obtained from DSC are indicated by the dashed lines.
+3-112	It is interesting to note that the fraction of amorphous phase in the PF8 fiber remains largely unchanged with increasing temper- ature until the melting region.
+3-113	The fraction of the β-phase remains unchanged at temperatures below Tg, but it decreases progressively with the increase of temperature above Tg.
+3-114	Accompanied with such a decrease is the increase of the fraction of the γ- or α′-phase (i.e., Cγ-/Cα′-crystals) at temperatures between Tg and Tct.
+3-115	The Cγ-/Cα′-crystals
+3-116	transform to the more stable Cα-crystals at temperatures above Tct.
+3-117	Above the onset of melting, the Cα-crystals are disrupted into the molten state.
+3-118	The transition temperatures identified by DSC are indeed in close agreement with those deduced from the temperature-dependent WAXS measure- ment.
+3-119	Moreover, the results reveal that the change of microstructure mainly stems from the cold crystallization from the mesomorphic β-phase to form Cγ-/Cα′-crystals, followed by a crystal transformation into the more stable α-phase.
+3-120	The relationship between the temperature-dependent structural evolution and the Ep of PF8 fibers can also be established from Figure 10.
+3-121	The Ep of PF8 fibers decreases slightly when T g, and it drops significantly at Tg cc .
+3-122	However, Ep increases markedly at temperatures close to Tcc and subsequently decreases gradually with further heating to 200 °C. Figure 10 reveals that the Ep of PF8 AS fibers (which are composed of mainly amorphous and β-phase) is higher than
+3-123	(Ep).
+3-124	The fractions are denoted as FA, FCβ, FCγ, and FCα for amorphous phase, β-phase, γ-phase, and α-phase, respectively.
+3-125	The locations of Tg, Tcc,
+3-126	Tct, and Tm obtained from DSC are indicated by the dashed lines.
+3-127	that of crystalline PF8 fibers at Tcc by about 12.5%.
+3-128	This fact allows us to conclude that it is the higher content of the β-phase in AS fibers that leads to a greater PL efficiency than the crystalline fibers.
+4-001	■
+4-002	We provided insight into the influence of the thermally induced microstructure development on the photoluminescence efficiency (Ep) of PF8 fibers prepared by direct electrospinning without resorting to polymer blending.
+4-003	Comparing with the cast film, PF8 AS fibers exhibited broad spectra, with a red-shift in UV−vis absorption and a blue-shift in PL, respectively.
+4-004	The microstructure of AS fibers is heterogeneous, composed of the amorphous phase and the β-phase as the major and minor component, respectively.
+4-005	We deconvoluted the WAXS profiles to calculate the fractions of different types of microstructure at various temperatures.
+4-006	We found that the microstructure development of PF8 fibers was complex as the temperature was raised.
+4-007	Four main features were identified: (1) there was a minor fraction of β-phase within the AS fibers that remained essentially unperturbed at temperatures below Tg; (2) the fraction of the β-phase decreased progressively with the increase of temperature above Tg, and accompanied with such a decrease is the increase of the fraction of the γ- or α′-phase (i.e., Cγ-/Cα′-crystals) at temperatures between Tg and Tct; (3) the Cγ-/Cα′-crystals transformed into the more stable Cα-crystals over Tct; (4) above Tm, the crystals were disrupted into the disordered molten state.
+4-008	We demonstrated that the Ep was directly influenced by the microstructure of the PF8 fibers.
+4-009	Ep decreased slightly at T g and then dropped markedly at Tg cc; however, a significant increase of the Ep was observed near Tcc before it decreased again with further heating up to 200 °C.

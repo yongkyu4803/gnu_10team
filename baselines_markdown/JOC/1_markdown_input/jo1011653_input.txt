@@ -1,0 +1,173 @@
+# document_id: jo1011653
+# extractor: kordoc-markdown-adapter-1
+1-001	R-Methyl substituted carboxylic acids constitute an impor- tant class of compounds and are of the nonsteroidal anti- inflammatory drug (NSAID) family.
+1-002	They can be prepared in high enantiopurity by using dynamic kinetic resolution (DKR) as the enantio-determining step.
+1-003	DKR of secondary alcohols has been thoroughly investigated by our group1,2and
+1-004	others,[3-10] and several reviews on enzyme/metal mediated DKR reactions have appeared in the literature.[11-13]
+1-005	Application of DKR to allylic alcohol I with a Ru catalyst and either Candida antarctica lipase B (CALB) or Subtilisin Carlsberg as the enzyme would provide either the (R)- or (S)-ester II, respectively (only the (S)-ester is shown in Scheme 1).
+1-006	The enantiomerically pure ester can then undergo a copper- catalyzed allylic substitution reaction to give the R-product, olefin III.
+1-007	These olefins can then undergo oxidative double bond cleavage to provide R-methyl substituted carboxylic acids IV, which are of pharmaceutical interest.
+1-008	In most cases, the (S)-enantiomer is active as an NSAID.
+1-009	(R)-Flurbiprofen is under clinical trials for the treatment of metastatic prostate cancer and Alzheimer’s disease.
+1-010	We have previously demonstrated the application of this synthetic route starting from β-phenyl-cinnamaldehyde (R[1] =Ph).[14]
+1-011	The transformation of this aldehyde via DKR of the alcohol I worked smoothly to give the target R-methyl
+1-012	Published on Web 09/21/2010 DOI: 10.1021/jo1011653 r 2010 American Chemical Society
+1-013	aryl acetic acids (Scheme 1).
+1-014	One drawback with this approach is that β-phenyl-cinnamaldehyde is an expensive starting material, and furthermore, two phenyl groups have to be removed in the oxidative cleavage of the double bond (final step).
+1-015	We report herein our successful efforts to improve the applicability of this method by starting from a readily avai- lable and inexpensive compound, trans-cinnamaldehyde.[15]
+2-001	Dynamic Kinetic Resolution.
+2-002	First, the allylic alcohol 1 (Scheme 1) was prepared from trans-cinnamaldehyde by a standard Grignard addition.
+2-003	Suitable DKR protocols were then needed to obtain both enantiomers of 3.
+2-004	Candida ant- arctica lipase B (CALB) is an (R)-selective enzyme, and the DKR of 1 with CALB as the enzyme and 8 (Figure 1) as the racemization catalyst has previously been reported by our group; (R)-30 (R[3] = CH3) was obtained in 89% yield and >99% ee.[16]
+2-005	For the (S)-selective reaction, Subtilisin Carlsberg was used as the enzyme in combination with racemization cata- lyst 8.
+2-006	The activity of commercially available Subtilisin Carlsberg was enhanced by treatment with surfactants octyl-β-D-glucopyranoside (9) and Brij (10) (Figure 2).[17]
+2-007	It is possible that coating the enzyme with surfactant results in the formation of reversed micelles, which have the property of solubilizing small amounts of water in their interior, thus providing a stable aqueous microenvironment in nonaqu- eous media.[18]
+2-008	Surfactant-treated Subtilisin Carlsberg has previously been used in the DKR of alcohols.[2,6]
+2-009	The activa- tion was achieved by dissolving Subtilisin Carlsberg and the surfactants in a phosphate buffer and then lyophilizing the frozen solution.
+2-010	The activation was carried out to provide Subtilisin:9:10 in three different ratios: 8:4:1, 8:1:4, and 4:1:1.
+2-011	Kinetic resolution (KR) of 1 with surfactant-treated Sub- tilisin Carlsberg was carried out with acyl donors 11-13 (Figure 3), and it was found that acyl donor 11 gave the highest E value of 132 (Table 1, entry 3).
+2-012	Since the E value was much higher in KR with 11 as the acyl donor it was used in the subsequent reactions.
+2-013	Three different ratios of surfactant-
+2-014	Allylic alcohols of this type are known to undergo iso- merization reactions under DKR conditions (i.e., in the presence of racemization catalyst 8),[16,19] where readdition of the putative intermediate hydride occurs in a 1,4-fashion to form the ketone.
+2-015	Previously, the isomerization product was avoided by using sterically hindered, yet expensive, alcohol 2 (Scheme 1).[14]
+2-016	In the route with the less sterically hindered monophenyl substituted alcohol 1, some isomerization to ketone 14 occurs, but it was possible to minimize the formation of this isomerization product by optimizing reaction conditions such as temperature, and amount of enzyme and acyl donor.
+2-017	DKR was first applied to 1 with Subtilisin:9:10 (4:1:1), 5 mol % 8, and acyl donor 11 at room temperature; however, the racemization of 1 (79% ee, Table 2, entry 1) was slow relative to acylation, so the reaction temperature was increased to 40 °C. Under these
+2-018	tilisin:9:10 (4:1:1), and Na2CO3 in THF; 6 min later 1 (0.5 or 1.0 mmol) was added, and 4 min later 11 was added.
+2-019	The reaction mixture was heated to 40°C. bDetermined by NMR, isolated yield in parentheses. c6 mol % of t-BuOK. d7 mol % of t-BuOK. e20 mg/mmol of Subtilisin: 9:10 (4:1:1) added after 24 h.
+2-020	conditions, (S)-3 was obtained in 75% isolated yield and 95% ee, with only 11% isomerization product 14 (Table 2, entry 4).
+2-021	When an additional aliquot of Subtilisin:9:10 was added after 24 h, under otherwise unchanged conditions, (S)-3 was obtained in 81% yield and 97% ee, with 19% 14 (Table 2, entry 5).
+2-022	The number of equivalents of base used to activate the catalyst was also increased to see if there would be a parallel increase in activity; however, a drop in product ee was observed indicating chemical acylation (Table 2, entries 2, 3, and 6).
+2-023	The enantiomeric purity of the ester obtained from DKR was further improved by hydrolyzing the undesired enantio- mer with an (R)-selective enzyme.
+2-024	The hydrolysis was carried out in a phosphate buffer solution (pH =7.2) with CALB as the enzyme to provide (S)-3 in 96% yield and >99% ee in 2 h at 60 °C (Scheme 2).
+2-025	Copper-Catalyzed Allylic Substitution Reactions.
+2-026	Previously, copper-catalyzed allylic substitution reactions have been car- ried out with allylic ester 4 to provide olefin 6 (Scheme 3).[14]
+2-027	Complete regioselectivity for the R-product was observed when using either aryl or aliphatic Grignard reagents.
+2-028	When aryl Grignard reagents were used 6 was obtained in 75-91% yield and 95-99% ee, and when aliphatic Grignard reagents were used 6 was obtained in 48-74% yield and 69-99% ee (Scheme 3).
+2-029	A screening of copper salts has previously been carried out for the reaction of (R)-40, BuMgBr, and 10% copper catalyst.[20]
+2-030	It was found that CuCl and CuBr 3 SMe2 gave higher con- version and higher selectivity for the substitution reaction than CuI, CuCN, and Li2CuCl 4.
+2-031	CuCl and CuBr 3 SMe2 gave similar results, where CuCl provided the product in slightly higher ee and CuBr 3 SMe2 gave the product in slightly higher yield.
+2-032	Therefore, these two copper catalysts were chosen for the subsequent substitution reactions.
+2-033	Application of the reaction to monophenyl substituted allylic substrates (S)-3 and (R)-30 with aryl Grignard reagents provided the olefin products with inversion of stereochem- istry in high yields and excellent ee (Scheme 4; Table 3, entries 1-6, 9, and 10).
+2-034	Complete selectivity for the R-product was observed.
+2-035	The substitution of (S)-3 and (R)-30 could also be carried out with aliphatic Grignard reagents (Table 3, entries 7and 8).
+2-036	Some loss of stereochemistry and formation of 10-11% γ-product 15 was observed.
+2-037	The loss of stereochemistry could be due to single bond rotation of 16 to 160 (Scheme 5).[20]
+2-038	When THF was used as the solvent and the reaction was run at-20 °C, (R)-5d could be obtained in 59% yield and 90% ee (Table 3, entry 7).
+2-039	By changing the solvent to diethyl ether, (R)-5e was obtained in 65% yield and 96% ee (Table 3, entry 8).
+2-040	On the basis of our current and previous studies,[14,20,21] it was found that in general a lower reaction temperature promoted selectivity for the R-product, while also promoting loss of stereochemistry.
+2-041	Also THF as the solvent provided the product in higher yield than diethyl ether as the solvent, whereas diethyl ether provided the product in higher ee than THF as the solvent.
+2-042	Oxidative C-C Double Bond Cleavage.
+2-043	The oxidative C-C double bond cleavage of olefins 5a and 5b afforded the desired R-methyl substituted carboxylic acids 7a and 7b,
+2-044	a
+2-045	(R)-30a
+2-046	Conditions: 3 or 30 (0.5 mmol) and CuBr 3 SMe2 were mixed in THF.
+2-047	After cooling to 0 °C, 0.75 mmol of Grignard reagent was added.bDetermined by
+2-048	f
+2-049	NMR using 2-decanol or 2-nonanol as internal standard; isolated yields in parentheses. cDetermined by HPLC. dCuCl.e-20 °C. Determined by GC of
+2-050	the corresponding carboxylic acid obtained by Sharpless oxidation. gEt2O.
+2-051	which are of pharmaceutical interest.
+2-052	The Sharpless oxida- tion is a well-known procedure[22] and was previously applied to the oxidation of 6 to provide 7 in high yields and excellent ee.[14]
+2-053	However, these conditions proved too harsh when applied to (S)-5b, the precursor of Naproxen ((S)-7b).
+2-054	C-C double bond cleavage of monophenyl substituted 5afforded two acids, 7 and benzoic acid (17).
+2-055	For 7a and 7b the separation of the two acids could be achieved by Kugelrohr distillation.
+2-056	Two oxidation methods were tested to find suitable conditions for the oxidation of 5b: Lemieux and von Rudloff reagent, and osmium tetroxide with oxone.
+2-057	Applica- tion of Lemieux and von Rudloff reagent provided Naproxen ((S)-7b) in 42% isolated yield and >99% ee (Table 4, entry 4).
+2-058	The low yield is due to byproduct formation.
+2-059	Catalytic amounts of osmium tetroxide in combination with stoichio- metric amounts of oxone were also tested and provided (S)-7b in 51% isolated yield and >99% ee (Table 4, entry 5).
+2-060	The Lemieux and von Rudloff reagent was also applied to the oxidation of (S)-5a to afford (R)-7a (Flurbiprofen) in 44% yield and >99% ee (Table 4, entry 3).
+2-061	Oxidation of (S)-5a
+2-062	under Sharpless conditions afforded (R)-7a (Flurbiprofen) in 93% yield and >99% ee (Table 4, entry 1).
+2-063	The optical rotation of known compound (S)-(þ)-7a was compared with literature data to verify the absolute configuration.[23]
+2-064	Other starting materials that would increase the atom economy have also been considered.
+2-065	Crotonaldehyde is one such substrate; however, it is probable that the lack of steric hindrance in the γ-position would lead to a higher degree of isomerization product formation in the DKR reaction and a higher degree of γ-product formation in the copper-catalyzed substitution reaction.
+3-001	We have developed a method for the synthesis of R-methyl carboxylic acids starting from trans-cinnamaldehyde, a read- ily available and inexpensive compound.
+3-002	Allylic alcohol 1 was obtained via a standard Grignard addition to trans-cinnamaldehyde.
+3-003	DKR was applied to allylic alcohol 1 to provide both the (R)- and (S)-enantiomers of 3 in high enantiomeric purity.
+3-004	Copper-catalyzed allylic substitution was then applied to 3 with aryl and aliphatic Grignard reagents, which afforded the corresponding olefins 5 with inversion of stereochemistry.
+3-005	C-C double bond cleavage provided the biologically active R-methyl carboxylic acids 7 in moderate to excellent yields and in high enantiopurity (>99% ee).
+4-001	4-Phenyl-3-buten-2-ol (1).
+4-002	Racemic alcohol 2 was prepared by addition of MeMgCl to trans-cinnamaldehyde in THF, according to a literature procedure.[24]
+4-003	The 1H NMR and
+4-004	a
+4-005	Conditions: [A] III, 2 mol % of RuCl3, 4.1 equiv of NaIO4; [B] III, 0.5 equiv of KMnO4, 5 equiv of NaIO4, 1 equiv of K2CO3; [C] III, 5 mol % of OsO4,
+4-006	4 equiv of oxone. bIsolated yield. cDetermined by GC.
+4-007	13C NMR spectral data were in accordance with literature data.[25]
+4-008	(S)-4-Phenyl-3-buten-2-yl Butanoate ((S)-3).
+4-009	Complex 8 (16 mg, 25 μmol), Subtilisin Carlsberg:Brij:octyl-β-glycopyra- noside, 4:1:1 (20 mg, prepared as previously reported[3]), Na2CO3 (106 mg, 1.0 mmol), and t-BuOK (50 μL, 0.5 M in THF) were stirred in toluene (0.5 mL) for 6 min.
+4-010	Thereafter, a solution of racemic alcohol 1 (74.1 mg, 0.50 mmol) in THF (2 mL) was added.
+4-011	After 4 min, trifluoroethylbutyrate (225 μL, 1.5 mmol) was added, and the mixture was stirred at 40 °C under an argon atmosphere.
+4-012	After 48 h, the reaction mixture was filtered through a plug of silica and was washed with ethyl acetate.
+4-013	The crude pro- duct was concentrated in vacuo, and column chromatography (pentane/EtOAc, 60:1) afforded (S)-3 (75%, 82.2 mg) as a color- less oil in 95% ee.
+4-014	The optical purity was determined by HPLC analysis (OJ column, i-hexane/i-PrOH, 99:1, tR(R) = 24.63, tR(S) = 27.28 min).
+4-015	Enantiomeric Excess Enhancement via Hydrolysis of (R)-4-Phenyl-3-buten-2-yl Butanoate ((S)-3).
+4-016	(S)-3 (95% ee, 109.1 mg, 0.5 mmol) and CALB (10 mg) were then suspended in a 0.5 M phosphate buffer (2 mL, pH 7.2) and stirred for 2 h at 60 °C. The mixture was filtered, and the aqueous phase was extracted three times with EtOAc.
+4-017	The organic phases were combined and washed once with 2 M NaHCO3 .
+4-018	The organic phase was dried over Na2SO4, and the product was concentrated in vacuo.
+4-019	Column chromatography (pentane/EtOAc, 60:1) afforded (S)-3 (96%) in >99% ee.
+4-020	The optical purity was determined by HPLC analysis (OJ column, i-hexane/i-PrOH, 99:1, tR(R) = 24.63,
+4-021	tR(S) = 27.23 min).
+4-022	NMR spectral data were in accordance with published data.[26]
+4-023	1H NMR (400 MHz, CDCl3): δ 7.43-7.38 (m, 2H), 7.37-7.31 (m, 2H), 7.29-7.24 (m, 1H), 6.62 (d, J = 15.9 Hz, 1H), 6.22 (d, J = 15.9, 6.8 Hz, 1H), 5.57 (d, J = 6.8, 6.5 Hz, 1H), 2.33 (t, J = 7.3 Hz, 2H), 1.7 (tq, J = 7.3, 7.4 Hz, 2H), 1.43 (d, J = 6.5 Hz, 3H), 0.98 (t, J = 7.4 Hz, 3H).
+4-024	13C NMR (100 MHz, CDCl3): δ 173.0,136.5,131.5,129.1,128.7,128.0,126.7,70.8,36.7, 20.5, 18.6, 13.8.
+4-025	[R][27]D = -105.8(c 1.0, CHCl3).
+4-026	4-Phenyl-3-buten-2-yl Acetate ((R)-30).
+4-027	Prepared via DKR according to a literature procedure (89% yield and >99% ee).[16]
+4-028	General Procedure for the Copper(I)-Catalyzed Allylic Sub- stitution Reactions.
+4-029	(S)-5a.
+4-030	The allylic acetate (R)-30 (190 mg, 1.0 mmol) and CuBr 3 SMe2 (20.5 mg, 0.1 mmol) were mixed in THF (9 mL) and cooled to 0 °C. A solution of ((3-fluoro-4-phenyl)phenyl)MgBr in THF (3.0 mL, 0.5 M) was added, and the reaction mixture and was stirred at the given temperature.
+4-031	The reaction mixture was quenched after 5 h by addition of HCl(aq) (2 M, 10 mL), followed by addition of 2-nonanol (50 μL, 0.26 mmol) as internal standard.
+4-032	The organic solvent was removed in vacuo, and Et2O (10 mL) was added.
+4-033	The product was extracted with Et2O (3 10 mL).
+4-034	The combined organic phase was washed with H2O (1 10 mL) and dried over Na2SO4.
+4-035	The solvent was removed in vacuo to afford the crude product, which was purified by column chromatography (pentane/EtOAC, 100:0 to 97:3).
+4-036	(S)-5a was obtained in 92% yield and >99% ee.
+4-037	The optical purity was determined by HPLC analysis (OJ column, i-hexane/i-PrOH, 85:15; flow 1.0, tR(S) = 13.6 min, tR(R) = 18.6 min).
+4-038	NMR spectral data were in accordance with published data.[27]
+4-039	[R][27]D = -39.2(c 1.00, (CH3)2CO).
+4-040	General Procedure for Oxidative C-C Double Bond Cleavage.
+4-041	(S)-7b.
+4-042	Method [A].
+4-043	Oxidative cleavage of the olefin (S)-5a was performed on 1.0 mmol scale according to the Sharpless pro- cedure[13] and as previously described.[14]
+4-044	Olefin (S)-5a (302 mg, 1 mmol), RuCl3 3 H2O (4.2 mg, 0.02 mmol), NaIO4 (877 mg, 4.1 mmol), MeCN (2 mL), CCl4 (2 mL), and H2O (3 mL) were charged in a 25 mL round-bottom flask and stirred under
+4-045	ambient conditions.
+4-046	The reaction was followed by TLC analysis (pentane/EtOAc, 95:5) and upon completion DCM (25 mL) was added.
+4-047	The product was extracted with NaHCO3 (3 20 mL).
+4-048	The combined aqueous phase was acidified with 2 M HCl solu- tion, and the product was extracted with DCM (3 20 mL).
+4-049	The combined organic phase was dried over Na2SO4 and concentrated under reduced pressure.
+4-050	Benzoic acid was then removed from the mixture by Kugelrohr distillation (80 °C, 0.4 mbar) to afford (R)-7a in 93% yield and >99% ee.
+4-051	The optical purity was determined by GC analysis (flow rate; 1.5 mL/min.
+4-052	GC program: from 100 to 200 °C at a rate of 10 °C/min, isothermal at 200 °C for 40 min; tR(S) = 25.6, tR(R) = 26.3 min).
+4-053	[R][27]D = -42.7(c 0.8, CDCl3).
+4-054	Spectroscopic data were in agreement with the literature data.[28]
+4-055	Method [B].
+4-056	According to a literature procedure,[29] the olefin (R)-5 (72.1 mg, 0.25 mmol) was dissolved in acetone (35 mL).
+4-057	Subsequently, Li2CO3 (9.2 mg, 0.13 mmol) and H2 O were added (7 mL).
+4-058	The solution was cooled to 0 °C. In a separate flask, NaIO4 (267 mg, 1.25 mmol), KMnO 4 (19.8 mg, 0.125 mmol), and Li2CO3 (9.2 mg, 0.13 mmol) were dissolved in H2O (17 mL).
+4-059	The aqueous solution was added dropwise to the olefin solu- tion.
+4-060	The reaction mixture was quenched after 24 h by addition of HCl(aq) (1 M, 5 mL) at 0 °C. Na2S2 O5 was added until a colorless solution was obtained.
+4-061	The organic solvent was removed in vacuo, and Et2O (5 mL) was added.
+4-062	The pH was adjusted to 10 with NaHCO3, and the product was extracted with sat.
+4-063	NaHCO3 solution (3 5 mL).
+4-064	The combined aqueous phase was washed once with Et2O and then acidified to pH 2 with 2 M HCl.
+4-065	The product was extracted with DCM (3 10 mL).
+4-066	The combined organic phase was washed with H2O (1 5 mL) and dried over Na2SO4.
+4-067	The solvent was removed in vacuo to afford the crude product mixture.
+4-068	Benzoic acid was then removed from the mixture by Kugelrohr distillation (80 °C, 0.4 mbar) to afford (S)-7b in 42% yield (24.2 mg, 0.11 mmol) and >99% ee.
+4-069	The optical purity (>99% ee) was determined by GC analysis (flow rate; 1.5 mL/min.
+4-070	GC program: from
+4-071	100 to 200 °C at a rate of 10 °C/min, isothermal at 200 °C for 40 min; tR(S) = 28.5, tR(R) = 29.2 min).
+4-072	[R][27]D = þ60.8(c 0.5, CDCl3).
+4-073	Spectroscopic data were in agreement with the litera- ture data.[30]
+4-074	Method [C].
+4-075	According to a literature procedure,[31] the olefin-(R)-5b (50.0 mg, 0.173 mmol) was dissolved in DMF (1 mL) and cooled to 0 °C. Oxone (213 mg, 0.695 mmol) and K2OsO4 3 2H2O (3.20 mg, 0.009 mmol) were added to the solution as a solid mixture in one portion.
+4-076	The brown reaction mixture was stirred at 0 °C for 5 h.
+4-077	The reaction was followed by TLC (pentane/EtOAc, 99:1).
+4-078	Upon completion, solid Na2SO3 (6 equiv w/w) was added, and the resulting suspension was stirred for 1 h, during which time it becomes slightly yellow (as opposed to deep brown).
+4-079	Subsequently, 1 M HCl was added to dissolve the salts, and the product was extracted with EtOAc ( 3).
+4-080	The combined organic phases were washed with 1 M HCl ( 3) and brine ( 1).
+4-081	The combined organic phase was dried with MgSO4, and the solvent was subsequently removed in vacuo to provide a sticky brown oil.
+4-082	The crude product was purified by bulb-to-bulb distillation (80 °C, 0.4-0.5 mmHg) to remove the benzoic acid.
+4-083	The residual brown solid was then subjected to silica gel chro- matography (pentane/EtOAc/AcOH, 3:1:0.1) to afford (S)-7b in 51% yield (20.3 mg, 0.089 mmol) and >99% ee.
+4-084	The optical purity (>99% ee) was determined by GC analysis (flow rate; 1.5 mL/min.
+4-085	GC program: from 100 to 200 °C at a rate of 10 °C/min, isothermal at 200 °C for 40 min; tR(S) = 28.5, tR(R) = 29.2 min).
+4-086	Spectroscopic data were in agreement with the literature data.[30]

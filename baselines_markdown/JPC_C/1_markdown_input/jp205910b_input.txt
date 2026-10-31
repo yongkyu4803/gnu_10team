@@ -1,0 +1,156 @@
+# document_id: jp205910b
+# extractor: kordoc-markdown-adapter-1
+1-001	Lithium ion batteries have been a major component of plug-in hybrid electric vehicles (PHEVs) and electric vehicles (EVs) as power storage devices due to their characteristics of high energy, high power, and long life.
+1-002	The module of the lithium ion battery pack in the vehicle is generally designed in a huge size to achieve a satisfied driving range.
+1-003	Thus, high safety of the lithium ion battery cell is greatly desired compared with consumer electronics applications, such as laptops and mobile phones.
+1-004	Selection of cathode materials for enhanced battery safety is limited due to the trade-off with cathode capacity.
+1-005	LiMn 2O 4 has been commercia- lized as a cathode active material to achieve safer lithium ion batteries due to its thermally stable characteristics.[1,2]
+1-006	Although the LiMn2 O4 cell can satisfy the battery requirement for EV and PHEV applications, there is still an increasing demand for cell capacity and safety.
+1-007	Another important approach for battery safety is the selection of appropriate electrolytes which act as an ionic conductor between the positive and negative electrodes.
+1-008	The electrolyte is one of the most important components in the lithium ion battery, because it dictates the power, cycle, and calendar life of lithium ion cells.
+1-009	In addition, the electrolyte will affect the cell capacity through the selection of an appropriate cathode and anode as well as cell safety.
+1-010	A typical electrolyte for high-power application is based on nonaqueous organic carbo- nates as electrolyte solvents which are flammable and volatile.
+1-011	The commercialized electrolyte for the lithium ion battery is generally composed of LiPF6 as the lithium salt and a mixture of linear/cyclic carbonate as the solvent.
+1-012	Ethylene carbonate (EC)
+1-013	r 2011 American Chemical Society
+1-014	is indispensible for the graphite anode because of its miraculous ability to enable the lithium ion intercalation process on the graphite anode.
+1-015	Previous studies[36] have revealed that the sur- face film formed on the graphite by decomposition of EC acts as a passivation film or solid electrolyte interface (SEI), which pre- vents side reactions between the lithiated graphite and the electrolyte, thus ensuring regular lithium ion insertion into graphite layers.
+1-016	It is well accepted that SEI property is critical for lithium ion battery performance.[711]
+1-017	To achieve safer lithium ion batteries for automotive applica- tion, the battery group at Argonne National Laboratory has been focusing on silicon-based electrolytes.
+1-018	At the first stage of the research, lithium bis(oxalate)borate (LiBOB) was found to be a suitable lithium salt for the silicon-based electrolyte.1216 In addition to acting as a lithium salt, it can also provide a passivation film on the surface of the graphite anode.1721Recently, we published our results on the tris(ethylene glycol)-substituted trimethylsi- lane (1NM3; its chemical structure is shown in Figure 1)LiBOB-based electrolyte, one representative of the silicon-based electrolytes, in LiNi1/3Co1/3Mn 1/3O 2 (NCM)/graphite (MAG) lithium ion chemistry[22] and LiMn2 O 4/graphite lithium ion chemistry.[23]
+1-019	Since EC, the major SEI formation component for carbonate-based electrolytes, is absent in the 1NM3LiBOB silane electrolyte, we expect that the SEI characteristics and
+1-020	components formed by the silane electrolyte will be different from those formed by EC-based carbonate electrolytes.
+1-021	The purpose of this work is to investigate the new SEI and its characteristics formed by 1NM3LiBOB electrolyte using LiM- n2O 4 as the cathode and graphite as the anode.
+2-001	LiBOB (99.87%) and LiPF6 (99.98%) were purchased from Novolyte.
+2-002	LiPF6 (1.2 M) in 3/7 ethylene carbonate (EC)/ethyl methyl carbonate (EMC) were purchased from Tomiyama Pure Chemical Industries (Japan).
+2-003	These salts and electrolyte were used as received.
+2-004	The LiMn2 O 4 cathode and MAG anode were provided by EnerDel Inc.
+2-005	The cathode active material loading was 11.5 mg cm2 and was balanced with the corre- sponding anode electrode.
+2-006	Poly(vinylidene fluoride) (PVdF) was used as the binder for both the cathode and anode, and acetylene black (AB) was used as the conductive additive for the cathode.
+2-007	1NM3 solvent was synthesized and analyzed according to our previously reported procedure.221H and 13C NMR and FT-IR spectroscopies were employed to identify the structure of 1NM3 and its purity.
+2-008	A total of 2032 coin cells were assembled with LiMn2O 4 as the cathode, MAG graphite as the anode, and microporous polyethylene/polypropylene/polyethylene as the separator.
+2-009	The effective electrode area was 1.6 cm2.
+2-010	Electrodes were dried in a vacuum oven at 80 °C overnight before cell assembly.
+2-011	A two-cycle formation step was applied at room temperature by the C/10 rate by a Maccor cycler.
+2-012	Formation was operated in constant currentconstant voltage charge and constant current discharge mode, and the voltage range was controlled between 4.2 and 3.0 V. Performance data were acquired and analyzed by the software associated with the instrument.
+2-013	After the formation process, cells in the fully discharged state were carefully disassembled without any electrical shortage.
+2-014	Then due to removal of the electrolyte solvent and salt, electro- des from the disassembled cell were dipped in dimethyl carbo- nate (DMC) for 10 min.
+2-015	The dipping process was repeated twice with fresh DMC, and the electrodes were dried under vacuum.
+2-016	All disassembly operation was performed in an argon-filled glovebox with an O2 level lower than 5 ppm.
+2-017	The morphology of th eelectrodes and element distribution were visualized by scanning electron microscopy (SEM) with a Hitachi S-3400 microscope equipped with a PGT energy-dispersive X-ray analyzer.
+2-018	Samples were mounted on SEM stabs in an Ar glovebox and stored in a transfer container.
+2-019	The graphite layer structure of the cycled anode electrode was determined on a Rigaku MiniFlex X-ray diffractometer using Cu Kα radiation (30 kV, 15 mA) with a scanning speed of 1.2 deg (2θ) min[1].
+2-020	To analyze the chemical component on the surface of the electrode, X-ray photoelectron spectroscopy (XPS) analysis was performed.
+2-021	Samples were mounted on XPS stabs in an Ar
+2-022	glovebox and stored in a transfer container.
+2-023	Sample transfer from the transfer container to the XPS chamber was carried out inside a glovebag attached to the XPS loading chamber to prevent exposure to the air.
+2-024	XPS was performed with an Omicron ESCA probe equipped with an EA 125 energy analyzer using Al Kα radiation (hν = 1486.6 eV) with an operation power of 300 W. For all analysis, the takeoff angle of the photoelectron was 45°.
+2-025	The electron gun was applied to reduce the charging up effect.
+2-026	The depth profile was obtained by argon ion beam etching with a rate of 0.5 nm min[1] on a Si wafer.
+2-027	Binding energies were referred to the graphite C 1s binding energy set at 284.3 eV.
+2-028	The peak fit was performed with GaussianLorentzian sum functions using XPSPeak 4.1.[24]
+3-001	3.1.
+3-002	Electrochemical Characteristics.
+3-003	1NM3 consists of trimethylsilane with an oligo(ethylene glycol) chain and dis- solves most of the lithium salts, such as LiBOB, LiPF6, LiBF 4, and lithium bis[trifluoromethyl)sulfonyl]imide (LiTFSI).
+3-004	In pre- vious papers,[13,22,23] we selected LiBOB as the lithium salt due to its solid electrolyte interface forming capability.
+3-005	Figure 2 shows the first charge and discharge profiles of the LiMn2 O4/MAG cell with three electrolyte systems, 0.8 M LiBOB1NM3 (1NM3LiBOB), 1.0 M LiPF61NM3 (1NM3LiPF6 ), and 1.2 M LiPF6EC/EMC (3/7) (EC/EMCLiPF6 ) .
+3-006	The cell with EC/EMCLiPF 6, the conventional electrolyte, showed a small shoulder around 3.3 V on the charging curve due to EC reduction and SEI film formation.[4,25,26]
+3-007	The Coulombic effi- ciency of EC/EMCLiPF6 was 83.4%.
+3-008	In contrast, the cell with 1NM3LiBOB electrolyte showed a small plateau at the early charge stage around 2.2 V, and the Coulombic efficiency was much lower (70.2%).
+3-009	This plateau was assigned to LiBOB decomposition and SEI film formation.[23,27]
+3-010	Nevertheless, the cell with 1NM3LiPF6 electrolyte showed a larger charging capacity and less reversibility compared with the other two electrolytes with a Coulombic efficiency of only 7.7%.
+3-011	This indicates that 1NM3LiPF6 electrolyte lacks SEI formation ability.
+3-012	We have reported that a LiNi0.8 Co0.15Al 0.05O2 cathode/MCMB graphite cell using LiPF6 salt in oligo(ethylene glycol)-functionalized
+3-013	(c) 1.2 M LiPF6EC/EMC and (d) of the pristine electrode.
+3-014	LiPF6EC/EMC, and (d) 1.0 M LiPF61NM3 (in lower magnitude).
+3-015	disiloxane electrolyte has a large capacity fade due to the lack of SEI film formation in the electrolyte component.[28]
+3-016	3.2.
+3-017	Electrode Surface Morphology.
+3-018	The morphology of the electrode surface after formation was visualized by SEM.
+3-019	The microscale structure change and deposition of decomposed products on the electrode surface can be observed, as shown in Figures 3 and 4.
+3-020	The LiMn2 O4 cathode morphology is illustrated in Figure 3, before and after cycling.
+3-021	Cycled LiMn2O 4 samples were fully discharged and thoroughly rinsed by DMC prior to the SEM measurement.
+3-022	As seen in Figure 3, particles of about a few micrometers are LiMn2O 4, and other smaller particles are probably complexes of carbon black and PVdF binder.
+3-023	There is
+3-024	no significant difference between the pristine (Figure 3d) and cycled (Figure 3ac) cathode surfaces.
+3-025	However, as shown in Figure 4, the cycled MAG graphite electrode showed different surface morphologies when different electrolytes were used.
+3-026	The graphite surface using 1NM3LiBOB shows islandlike spots a few micrometers in diameter (Figure 4a).
+3-027	EDS analysis data shown in Figure S1 (Supporting Information) reveal that this spot is an O-rich and F-poor surface.
+3-028	PVdF binder is the only fluorine source for 1NM3LiBOB electrolyte; therefore, it was assumed that LiBOB is favorably reduced to form an oxygen-rich film on a PVdF-uncovered graphite particle surface.
+3-029	In addition, graphite using 1NM3LiPF6 showed a significant difference
+3-030	from that using 1NM3LiBOB and EC/EMCLiPF6 as shown in Figure 4b.
+3-031	The graphite morphology in Figure 4b was similar to that of the exfoliated graphite particles with stacked sheets when propylene carbonate, tetrahydrofuran, etc. electrolytes were used.2931 Due to the lack of SEI protection, the 1NM3LiPF6 electrolyte can be cointercalated into the graphite layer,
+3-032	causing huge volume expansion and exfoliation of graphite layers.[32]
+3-033	This resulted in a large number of cracks on the surface of the cycled graphite electrode as observed in the macroscopic picture of Figure 4d.
+3-034	3.3.
+3-035	Graphite Microstructure.
+3-036	The XRD technique can provide useful information for the microstructure change of the graphite anode when different electrolytes are used.[3,33]
+3-037	Figure 5 shows the XRD patterns obtained from the discharged MAG graphite electrode using 1NM3LiPF6 , 1NM3LiBOB, and EC/EMCLiPF6 electrolytes.
+3-038	The graphite peak 002 (hkl) reflection is clearly shown in the XRD profiles.
+3-039	However, it became broader for the graphite using 1NM3LiPF6 , and an extra peak at 24° showed up.
+3-040	Wagner et al. reported that propylene carbonate-solvated lithiumgraphite intercalation compound shows 2θ = 24° corresponding to a much expanded structure.[34]
+3-041	This indicates that the graphene layer is largely expanded due to the cointercalation of 1NM3 and the graphite structure is not well maintained after the cycling.
+3-042	These results support the SEI formation capability of 1NM3LiBOB electro- lyte and the lack of SEI formation of 1NM3LiPF6 electrolyte on the graphite electrode.
+3-043	The issue associated with 1NM3LiPF6 electrolyte for the graphite cell is being addressed, and extensive investigations are in progress and will be reported in a separate paper.[32]
+3-044	3.4.
+3-045	Electrode Surface Analysis by XPS.
+3-046	To analyze the chemical component on the electrode surface, XPS analysis was performed on the cycled electrode samples through an analysis chamber to avoid environmental contamination.
+3-047	The binding energy was referred to the graphite C 1s binding energy set at 284.3 eV.
+3-048	Table 1 shows various element concentrations of the
+3-049	24016
+3-050	dx.doi.org/10.1021/jp205910b \|J. Phys.
+3-051	Chem.
+3-052	C 2011,115, 24013–24020 Downloaded from pubs.acs.org/jpccck/article-pdf/115/48/24013/13895271/jp205910b.pdf by GYEONGSANG NATL UNIV user on 29 October 2026
+3-053	1s, and (4) B 1s.
+3-054	cathode surface obtained from the peak area of the narrow-scan XPS spectrum.
+3-055	C, O, F, and Mn element concentrations did not show remarkable differences between 1NM3LiBOB and EC/EMCLiPF6 electrolytes.
+3-056	It is worth noting that the Si and B elements were not detected from the cathode XPS profiles using 1NM3LiBOB.
+3-057	Figure 6 shows the C 1s and O 1s narrow XPS spectra of the pristine and cycled LiMn2 O4 cathodes in 1NM3LiBOB and EC/EMCLiPF6.
+3-058	The C 1s spectra showed almost identical peaks (carbon black, 284.3 eV; PVdF, 286.0 and 290.5 eV3537).
+3-059	However, the O 1s spectra of the LiMn2O 4 cathode showed a large difference.
+3-060	The peak at 529.5 eV associated with oxygen of LiMn2 O 4[38] did not show up for EC/EMCLiPF6 , indicating an SEI film formed and covered the surface of LiMn2O 4 .
+3-061	The XPS spectrum of 1NM3LiBOB showed a broad peak between 530 and 534 eV, which is in good agreement with the peak assignment of CdO bonds and CO bonds reported in the literature.3946 These XPS results indicate a unique SEI formation on the LiMn2O4 electrode surface using 1NM3LiBOB as the electrolyte.
+3-062	More work needs to be done to fully understand the nature of this cathode SEI.
+3-063	The Journal of Physical Chemistry C ARTICLE
+3-064	lithium oxalate, and alkyl oxalate (289.5 eV), and CF peak of PVdF (291.2 eV).3950 The extra peak in XPS at 289.5 eV is characteristic for 1NM3LiBOB electrolyte, which is attributed to the decomposition of LiBOB, forming the SEI on the anode surface.
+3-065	This is in good agreement with the previous report of SEI formation consisting of a semicarbonate-like organic component from the reduction products of LiBOB salt.[19,37]
+3-066	Although the peak intensity of COC ether for the 1NM3LiBOB anode is significant, it requires further studies to figure out its origin and formation mechanism.
+3-067	In contrast to C 1s peaks, the O 1s XPS spectra (Figure 7, panel 2) show one broad and asymmetric peak consisting of compounds with CdO bonds at 532.5 eV and CO bonds at 533 eV for both anodes.
+3-068	Figure 7, panel 3, shows the F 1s XPS spectra.
+3-069	The peaks at 685.8 and 688.6 eV are attributed to LiF and PVdF,3943,46 respectively.
+3-070	It is surprising that LiF was detected on the anode surface using 1NM3LiBOB electrolyte, which does not contain any fluorine element.
+3-071	PVdF is the only source of fluorine in this cell system.
+3-072	As reported in the literature, LiF can be formed by PVdF reduction.[51]
+3-073	Figure 7, panel 4, shows the B 1s XPS spectra.
+3-074	Only the 1NM3LiBOB anode showed a borate peak at 193.3 eV, indicating the decom- position of LiBOB for the SEI, which agrees well with previous findings for an LiBOB-originated SEI.[52,53]
+3-075	Since XPS is a surface-sensitive technique, an in-depth profile of the anode surface in terms of XPS quantities was obtained by combining a sequence of ion gun sputtering cycles interleaved with XPS measurements starting from the surface.
+3-076	Figure 8 shows the typical in-depth profile analysis results of anode C 1s, F 1s, and B 1s using 1NM3LiBOB electrolyte.
+3-077	After 2 min of sputtering, C 1s peaks at 287 and 289.5 eV in Figure 8a are dramatically decreased, which indicates the semicarbonate-like species in the SEI are easily removed by argon sputtering.
+3-078	Additionally, the peak intensity of the graphite anode at 284.3 eV as well as the hydrocarbon peak gradually increases with increasing sputtering time from 2 to 100 min.
+3-079	However, even after 100 min of sputtering, lithium oxalate, alkyl oxalate com- pounds, and ether SEI compositions were still present with very low intensities.
+3-080	The F 1s in-depth XPS analysis results are shown in Figure 8b.
+3-081	Many groups[39,42,54] reported the XPS analysis of the graphite electrode using carbonateLiPF6 electrolytes, and they assigned the peak of LiF around 686 eV to the decomposition products from LiPF6 salt.
+3-082	However, our analysis for 1NM3LiBOB
+3-083	electrolyte showed the same spectrum, but there is no LiPF6 present.
+3-084	Before sputtering, the PVdF binder is the dominant peak with a minor peak of LiF at 685.8 eV.
+3-085	With the progress of sputtering, the PVdF peak diminishes and the LiF becomes dominant in the F 1s spectra.
+3-086	This confirms that PVdF partici- pates in the SEI formation process at the interphase with the graphite by reductive formation of LiF and the conjugated conductive polymers.[51]
+3-087	The C-rate capacity of the LiMn2O 4/1NM3LiBOB/MAG cell is not as good as that with EC/EMCLiPF6 as reported by us.[23]
+3-088	Part of the reason is due to the resistive SEI formation on the graphite surface.
+3-089	In Figure 8c, the B 1s peak is present in all the measurements at different sputtering times with limited concentration change.
+3-090	For example, even after 100 min, the boron peak is still present on the anode surface.
+3-091	This implies that LiBOB participates in the SEI formation from the very beginning of the charging process.
+3-092	Considering the sputtering rate is 0.5 nm min[1] for the Si wafer, it is estimated that the B species containing the SEI is more than 50 nm in thickness.
+3-093	On the bsais of the above results from this study, a schematic diagram of the SEI composition on the graphite anode surface using 1NM3LiBOB as electrolyte is conceived in Figure 9.
+3-094	The MAG graphite anode surface is not uniform, which comprises
+3-095	PVdF-covered and SEI-covered areas.
+3-096	On the surface of the anode, a small part is still covered by PVdF binder.
+3-097	However, with the increase of the depth of the surface, LiF is dominant as the PVdF reduction product.
+3-098	The graphite-exposed area is covered with oxalate and borate compounds from BOB decomposition as observed in the carbonateLiBOB electrolyte.
+3-099	The LiBOB moiety may form LixBOy, lithium borooxalates, and lithium oxalates in the SEI layer.
+4-001	The electrode surface film formed by the 1NM3LiBOB electrolyte was investigated for the LiMn2 O4/MAG cell.
+4-002	XPS analysis of the electrode surface showed that the SEI formed on the graphite anode is composed of lithium oxalates, lithium borooxalates, and LixBOy.
+4-003	Additionally, PVdF binder also parti- cipates in the SEI formation process by releasing fluorine to form LiF in 1NM3LiBOB electrolyte.
+4-004	Contrary to our expectation, 1NM3 solvent reduction and participation of anode SEI film formation were not observed in this study.
+4-005	On the cathode surface, no Si and B elements were detected from the XPS profiles, indicating that 1NM3LiBOB electrolyte is relatively stable on the cathode side and does not participate in cathode SEI formation.
+4-006	While 1NM3LiPF 6 electrolyte lacks the SEI forma- tion function and could not maintain graphite structure during the electrochemical process, the 1NM3LiBOB combination is an excellent electrolyte for graphite-based lithium ion batteries.

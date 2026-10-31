@@ -1,0 +1,6 @@
+# Python 3.12 (3.14에서는 spaCy 3.8이 동작하지 않음)
+spacy==3.8.11
+pdfplumber==0.11.10
+Pillow>=10
+pypdfium2>=4
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl

@@ -1,0 +1,93 @@
+{
+ "version": "hedge-baseline-0.4.4",
+ "papers": 5,
+ "items": [
+  {
+   "check": "논문 수 2~10편",
+   "result": "Pass",
+   "detail": "5편"
+  },
+  {
+   "check": "ic1020862: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "ABS": 7,
+    "INT": 38,
+    "MET": 117,
+    "RD": 153,
+    "CON": 25
+   }
+  },
+  {
+   "check": "ic1020862: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 7025
+  },
+  {
+   "check": "ic300473u: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "ABS": 6,
+    "INT": 20,
+    "MET": 23,
+    "RD": 94,
+    "CON": 4
+   }
+  },
+  {
+   "check": "ic300473u: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2863
+  },
+  {
+   "check": "ic400600d: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "ABS": 10,
+    "INT": 19,
+    "MET": 169,
+    "RD": 154,
+    "CON": 11
+   }
+  },
+  {
+   "check": "ic400600d: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 7263
+  },
+  {
+   "check": "ic502904q: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "ABS": 8,
+    "INT": 65,
+    "RD": 107,
+    "CON": 9,
+    "MET": 7
+   }
+  },
+  {
+   "check": "ic502904q: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4267
+  },
+  {
+   "check": "ic901600v: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "ABS": 4,
+    "INT": 18,
+    "MET": 28,
+    "RD": 106,
+    "CON": 8
+   }
+  },
+  {
+   "check": "ic901600v: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3185
+  }
+ ],
+ "model": "en_core_web_sm",
+ "include_abstract": false
+}

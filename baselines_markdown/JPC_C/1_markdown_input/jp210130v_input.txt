@@ -1,0 +1,223 @@
+# document_id: jp210130v
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	An effective PEC H 2 generation scheme via water splitting requires efficient, stable, and relatively abundant photoelectrode materials.
+1-003	The lack of a material capable of simultaneously evolving H2 and O2 from water with high solar conversion efficiencies (10% or more)[1] has motivated researchers to pursue tandem-cell devices utilizing two separate solar light absorbing materials as photocathode and photoanode.[2−4] Such approaches have demonstrated commercially viable solar-to- hydrogen (STH) efficiencies greater than 10%, if not long-term stability.[3]
+1-004	These types of devices require proper matching of the photocurrents (limited by the solar absorption of the material
+1-005	and its quantum yield) and also the photovoltages of the two photoelectrodes for proton reduction and water oxidation.[5]
+1-006	Although high photocurrents have been attained with some photocathode materials, their low photovoltages make effective pairing with a photoanode material difficult.
+1-007	For example, stable photocurrents from H2 evolution of at least 8 mA/cm[2] were achieved using photocathodes consisting of p-Si,[6] p-CuGaSe2,[7]
+1-008	or p-CuInGaSe2.[8]
+1-009	However, the maximum cathodic photo- current onset potentials relative to the reversible hydrogen electrode (RHE) demonstrated for these materials were approximately 0.5, 0.14, and 0.4 V, respectively.[6−8] In a tandem-cell such materials place an excessively large demand
+1-010	on the photoanode, which must provide similar photocurrents while simultaneously making up the rest of the 1.23 V (plus
+1-011	© 2012 American Chemical Society 6459
+1-012	overpotential) required for unbiased water splitting.
+1-013	This is especially difficult to achieve since stable photoanode materials, such as α-Fe2O3 , typically exhibit poorer electronic properties than photocathode materials and must also drive the more kinetically challenging water oxidation reaction.
+1-014	One recently discovered photocathode material of promise is the spinel-type CuBi2O4.[9]
+1-015	This material is claimed to possess a band gap of 1.5 eV and a cathodic photocurrent onset of 1.0 V vs. RHE.[10]
+1-016	However, photoinduced H2 generation has not been reported, and limited PEC characterization has been performed.
+1-017	If high, stable photoconversion efficiency could be demon- strated, the favorable band edge positions of p-CuBi 2O4 would make it an effective photocathode in a tandem PEC device for water splitting.
+1-018	We report the synthesis of p-CuBi2O 4 thin films by electrodepositing a bimetallic film of Cu and Bi followed by oxidation in air at elevated temperatures.
+1-019	A number of materials for solar energy utilization have been deposited by electro- deposition including CuInGaSe2,[11] α-Fe2O3,[12] and Cu2O,[13] and many other groups have demonstrated a high degree of manipulation of thin film properties using this technique.
+1-020	This method was selected for the formation of CuBi2O4 films due to
+1-021	Received: October 21, 2011
+1-022	Revised: January 21, 2012
+1-023	Published: February 22, 2012
+1-024	The Journal of Physical Chemistry C
+1-025	the proximity of the Cu and Bi deposition potentials, which allows for codeposition from a single bath containing both Cu2+ and Bi3+ ions.
+2-001	■
+2-002	Film Preparation.
+2-003	Bath solutions for Cu−Bi codeposition were prepared by dissolving Bi(NO3)3·5H2 O and Cu- (NO3)2·3H2O in 10% nitric acid.
+2-004	Nitric acid was required to dissolve the bismuth nitrate precursor.
+2-005	Deposition was carried out in a three-electrode cell using a Pt wire counter electrode and Ag/AgCl reference electrode.
+2-006	Substrates used for deposition were ultrasonically cleaned and rinsed FTO-coated glass (Hartford Glass) with a typical total deposition area of 1.5−2 cm2.
+2-007	A CH Instruments CHI832 potentiostat was operated in potentiostatic mode to accomplish the cathodic codeposition.
+2-008	Pulsed cathodic electrodeposition was accom- plished using a CHI660 potentiostat.
+2-009	Following deposition, the samples were rinsed with demineralized water and dried in an air stream.
+2-010	Annealing was performed in air at various temperatures to oxidize and crystallize the films using the desired temperature and duration in a muffle furnace (Ney).
+2-011	A heating rate of 10 °C/min was employed, and the samples were allowed to cool naturally.
+2-012	Film Characterization.
+2-013	Scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDS) were performed using a Quanta FEG 650 electron microscope (FEI).
+2-014	X-ray diffraction (XRD) experiments utilized a Bruker D8 diffractometer.
+2-015	Mean grain size was calculated using the Scherrer equation:
+2-016	0.9λ
+2-017	D =
+2-018	β cos θ (1) Here D is the mean crystallite size, λ is the X-ray wavelength employed (0.154 nm), and β is the full width at half-maximum of the diffraction peak of interest at scattering angle θ.
+2-019	X-ray photoelectron spectroscopy (XPS) was performed using a Kratos AXIS X-ray photoelectron spectrometer.
+2-020	UV−vis−NIR direct transmittance measurements were made with a Cary 5000 UV−vis−NIR spectrophotometer, using a bare substrate as a baseline and measuring the directly transmitted beam.
+2-021	Total transmittance and diffuse reflectance spectra were measured with a Cary 500 UV−vis−NIR spectrophotometer attached to a Labsphere DRA-CA-5500 integrating sphere.
+2-022	For total transmittance experiments, samples were mounted on the entrance port of the integrating sphere, and the total transmitted light (direct + diffuse) was measured.
+2-023	For transmittance + reflectance (transflectance) experiments, samples were suspended in the center of the integrating sphere using a clip-style center mount, and both the transmitted and reflected light were collected simultaneously.
+2-024	In the latter case, the absorptance (A) is given by
+2-025	A = 100% − (T + R) (2) Here, A is the percentage of incident light absorbed by the sample, and the quantity (T + R) is the measured transflectance of the sample suspended in the integrating sphere.
+2-026	Electrochemical Testing.
+2-027	The electrochemical and PEC properties of each sample were tested using a three-electrode electrochemical cell with a Ag/AgCl reference electrode and Pt wire counter electrode.
+2-028	All potentials are given relative to Ag/AgCl unless otherwise stated.
+2-029	The working electrode (the photocathode consisting of the CuBi 2O4 film) with illuminated
+2-030	Article
+2-031	area 0.21 cm2 was immersed in 0.1 M Na2SO4 (the pH of which was adjusted by adding either KOH or H2SO4) or in a phosphate buffer solution (pH 6.7) and illuminated by a 100 W xenon lamp (Newport) through a UV/IR filter (Schott, KG3) with a measured overall power density at the sample surface of 73 mW/cm[2] as measured by a thermopile (Newport).
+2-032	A 420 nm cut-on filter was employed at times to remove any remaining UV photons.
+2-033	During linear sweep voltammograms (LSV’s) a scan rate of 25 mV/s was used.
+2-034	A monochromator (Newport) was employed to study spectral response and was used in conjunction with a monochromatic power meter and photodiode (Newport) to calculate the IPCE, given by
+2-035	j
+2-036	ph
+2-037	IPCE = × 100%
+2-038	I (3)
+2-039	Here jph is the steady-state photocurrent density and I is the photon flux at the film surface for the wavelength of interest.
+2-040	Absorbed photon-to-current efficiencies (APCE) were calcu- lated by dividing the IPCE by the absorptance of the film from eq 2 at each wavelength of interest.
+2-041	A potentiostat (CH Instruments CHI660) was operated by a desktop computer to perform electrochemical measurements.
+3-001	■
+3-002	Deposition Potential Effects.
+3-003	Films of Cu and Bi were deposited from nitric acid baths containing 4 mM Cu(NO3)2 and 8 mM Bi(NO3)3 at potentials ranging from −0.3 to −0.8 V vs Ag/AgCl.
+3-004	Most films appeared dark-gray to black, depending on thickness, although films deposited at more negative potentials showed a copper-like color.
+3-005	The deposition time was decreased when more negative potentials were employed in order to deposit similar amounts of material in each case.
+3-006	SEM and EDS were used to investigate how the deposition potential affected the morphology and composition of the films.
+3-007	SEM images revealed that the films consist of clusters of particles that are about 100 nm in diameter.
+3-008	Variations in film morphology were observed as the deposition potential was changed, with a general trend toward smaller particles and higher nucleation density at the more negative potentials (Figure 1).
+3-009	EDS analyses indicated that the Cu content of the films increases as deposition potential becomes more negative (Figure 2).
+3-010	The general trend in composition appears to indicate that films near the desired Bi:Cu ratio of 2:1 are deposited at potentials between −0.4 and −0.6 V vs Ag/AgCl so a potential of −0.5 V was selected to deposit subsequent films.
+3-011	Bi and Cu electrodeposition onto conductive oxide substrates such as FTO typically results in instantaneous nucleation and three-dimensional growth, yielding films with poor surface coverage.[14,15]
+3-012	The sequence of Bi deposition onto FTO films has been described as cluster formation after double- layer discharge, critical nuclei formation, coalescence of nuclei, and diffusion-controlled growth.[16]
+3-013	Deposition from Bi-rich baths led to films with more particle clustering and lower nucleation density at the same deposition potentials.
+3-014	Bi appears to be the main contributor to the poor surface coverage of mixed metal particle clusters.
+3-015	Deposition from a bath containing only Bi(NO3)3 resulted in branched Bi nanowires across the substrate, as has been reported by others.[14]
+3-016	Annealing Temperature Effects.
+3-017	In order to form the desired CuBi 2O4 phase, films deposited at −0.5 V were annealed in air at temperatures ranging from 350 to 600 °C. XRD was used to investigate the dependence of crystal Figure 1.
+3-018	Electrodeposited films of Cu−Bi deposited at (a) −0.3, (b) −0.5, or (c) −0.7 V vs Ag/AgCl from a nitric acid bath.
+3-019	The scale bar applies to all images.
+3-020	structure on annealing temperature (Figure 3).
+3-021	Prior to annealing, only crystalline Bi (PDF# 01-071-4642) and SnO2 (PDF# 01-070-6153) are observed.
+3-022	When a bath containing only Cu was employed, a faint peak suggestive of crystalline Cu was observed in the XRD pattern of the deposited film, but
+3-023	films deposited from a mixed bath did not show this feature, and the Bi peak positions were not shifted from their expected values, presumably indicating that the Cu in these films remains amorphous rather than crystallizing to any great extent or forming a solid solution with Bi.
+3-024	Annealing the bimetallic films at 350 °C for 2 h resulted in crystallization, and a number of bismuth oxide phases appeared.
+3-025	At 450 °C, peaks belonging to the kusachiite CuBi 2O4 phase (PDF # 00-042-0334) develop, and by 600 °C only kusachiite and SnO2 peaks from the FTO substrate remain.
+3-026	All CuBi 2O4 films show preferred (211) orientation, as observed for CuBi2O4 materials prepared by other methods.[9,17]
+3-027	The present annealing conditions for the codeposited Cu−Bi films are much less demanding than those required for the solid-state reaction of CuO and Bi2O3 (700 °C, 24−25 h).[10,17]
+3-028	In addition to becoming more phase pure, the films demonstrate greater crystallinity at higher temperatures, as indicated by both an increase in CuBi2O4 peak height relative to SnO2 and an increase in the average CuBi2O4 (211) grain size, calculated via the Scherrer equation from 19 nm at 450 °C to 21 nm at 550 °C and 24 nm at 600 °C. Further annealing the 600 °C samples for another 2 h increased the intensity of all CuBi 2O 4 peaks relative to those of the substrate but did not appear to increase the (211) grain size.
+3-029	Increased annealing temperature led to larger, smoother particles that appeared to be better interconnected (Figure 4).
+3-030	Preliminary PEC testing in pH 6 electrolyte (0.1 M Na2SO4) showed higher and more consistent photocurrents at −0.2 V vs Ag/AgCl (the onset potential of large dark current) for films annealed at 600 °C compared to those annealed at lower temperatures (Supporting Information, S-1).
+3-031	These photocurrents, below 50 μA/cm[2], are quite low for a material capable of absorbing through the entire visible range, revealing that the photoconversion efficiency must be very poor for these films.
+3-032	However, they lie in the same range as those observed by others for films deposited by metal−organic decomposition (MOD), although only currents were reported rather than current densities.[9,10]
+3-033	It is quite possible that p-CuBi 2O 4 inherently contains a large number of defect states acting as recombination centers.
+3-034	Bath Concentration Effects.
+3-035	Another possible hindrance to the photoconversion efficiency of the present films for water reduction could be their poor coverage on the FTO substrates.
+3-036	Therefore, the PEC performance may be improved by increasing the nucleation density of Cu−Bi clusters and
+3-037	at −0.5 V for times ranging from 2 to 6 min from a bath concentration of 6 mM and annealed at 600 °C (Figure 6).
+3-038	At 2
+3-039	improving the contact between the particles and the substrate.
+3-040	Various bath cation concentrations ranging from 24 mM (8 mM Cu2+, 16 mM Bi3+) down to 1.2 mM (0.4 mM Cu2+, 0.8 mM Bi3+) were employed in an effort to study their effects on film morphology.
+3-041	In each case the deposition potential was maintained at −0.5 V. Because of the differences in deposition rate among the various bath concentrations, the deposition time was adjusted in each case to result in a similar amount of deposited material.
+3-042	SEM images reveal that the nucleation density and surface coverage could be manipulated to a large extent by altering the bath concentration, with lower concentrations yielding improved coverage and somewhat smaller particles, even after annealing (Figure 5).
+3-043	However, only a minor influence on PEC performance was observed.
+3-044	Film Thickness Effects.
+3-045	In an attempt to study the effects of deposition time and thus film thickness, films were deposited
+3-046	min the films consist of a relatively uniform layer of particles (1−3 particles thick) with a surface coverage of ∼50%.
+3-047	At longer times the surface coverage does not increase but appears to decrease slightly due to particle coalescence.
+3-048	Apparently, new particles are added on top of existing ones rather than attaching directly to the substrate.
+3-049	From the various SEM images, it would appear that for the CuBi2O 4 films deposited for longer than 2 min, relatively few particles are actually in close contact with the FTO substrate.
+3-050	PEC performance did not show clear correlation with deposition time over the range investigated, likely due to the fact that increased light absorption was balanced by decreased hole collection efficiency.
+3-051	One would expect that holes photogenerated near the top of a thick film can only reach the substrate by traversing numerous grain and particle boundaries where recombination is likely.
+3-052	For films
+3-053	deposited for 2 min or less, this would appear to be less of an issue as most of the particles in these films seem to be adjacent to or within one or two particle layers of the substrate.
+3-054	However, the physical interaction of the particles with the substrate may not be particularly strong, as indicated by the relative ease with which the films can be wiped off by dragging a tissue across the surface.
+3-055	This poor contact at the film− substrate interface and resulting poor electron transfer is another likely source of recombination in all films, regardless of thickness.
+3-056	Optical Properties.
+3-057	Interestingly, all films appear light brown after annealing unlike CuBi 2O4 powder formed in our lab by the solid-state reaction of Cu2O and Bi2O3 at 700 °C for 24 h, which exhibits a black color.
+3-058	However, when placed in front of a white light source so that only transmitted light is viewed, the films have a dark reddish gray color.
+3-059	A likely explanation is that light scattering from the particle clusters plays a significant role in the optical properties of these films, leading to the lighter color when reflected light is viewed.
+3-060	The UV−vis−NIR absorptance spectra, taken in transmittance and transflectance mode, respectively, for films deposited for 5 min from a 6 mM bath and annealed to 600 °C are shown in Figure
+3-061	7.
+3-062	The films show a noticeable absorption threshold at 680 nm
+3-063	(1.8 eV) and weak, featureless absorption at longer wave- lengths.
+3-064	The absorptance of the FTO substrate appears to contribute to a majority of the observed NIR absorptance of the film.
+3-065	The light-brown color of the films appears to be due to the reflected light in the 500−700 nm range.
+3-066	When only directly transmitted light was measured, the absorbance gradually increased starting from wavelengths longer than 1200 nm, peaked near 600 nm, and decreased at shorter wavelengths (Supporting Information, S-2).
+3-067	Tauc analyses of these plots tended to yield estimated direct band gaps of 1.4−1.5 eV, which agree with early reports.[9,17]
+3-068	However, it is clear that diffusely reflecting and transmitting light must be taken into account in order to obtain an accurate view of the light-absorbing properties of films that exhibit significant light scattering.
+3-069	When these are taken into account, the observed band gap appears to be 1.8 eV.
+3-070	Although the estimated band gap is promising, the overall absorbance in the UV−vis range is somewhat weak, which is due to the incomplete coverage of the
+3-071	substrate by the CuBi 2O4 film and significant reflectance by the particles in the film.
+3-072	PEC Behavior.
+3-073	The PEC performance of films deposited from a 6 mM bath cation concentration for 5 min was tested in neutral (phosphate buffer: pH 6.7), acidic (pH 3.5), and basic (pH 10.8) electrolytes.
+3-074	Photocurrents were similar in each electrolyte when the potential ranges were corrected for a Nernstian shift with pH.
+3-075	However, testing in basic electrolyte tended to result in slightly more positive photocurrent and dark current onset potentials.
+3-076	A cathodic photocurrent onset potential between 1.05 and 1.1 V vs RHE was determined at pH 10.8, which is similar to that observed in a previous study in pH 5.8 electrolyte (Figure 8).[10]
+3-077	At pH 10.8 significant dark
+3-078	currents were observed at potentials below 0.6 V vs RHE and could originate from a number of processes such as reduction of the p-CuBi2 O4 film or of the exposed FTO substrate or possibly the reduction of cathodically unstable impurity phases in the film undetected by XRD, such as CuxO or BixOy.
+3-079	A previous study on p-CuBi2O4 that showed similar dark current behavior demonstrated a turnover number of over 13 for long- term illumination, indicating satisfactory stability.[9]
+3-080	To assess the PEC stability of our films over time, constant potential tests were performed at the dark current onset potential (−0.2 V for pH 10.8 and 0.0 V for pH 3.5) under full-spectrum illumination for over 1 h (Figure 9).
+3-081	The performances in acid and basic electrolyte differed remarkably.
+3-082	Although both films showed a large initial drop in photocurrent, the photocurrent stabilized at a steady-state value of 33 μA/cm[2] in basic electrolyte.
+3-083	However, in acidic electrolyte the photocurrent continued to decay throughout the experimental time window, dropping to 5 μA/cm[2] after 1 h.
+3-084	Examination of the films confirmed a slightly darkened color for those films tested in both electrolytes over long times, although the color change was more pronounced for the acidic electrolyte.
+3-085	The photocathodic instability of metal oxides such as CuxO is typically due to the preferential reduction of metal cations such as Cu2+ or Cu+ to Cu rather than the reduction of protons to H2.[19]
+3-086	If this were the case for CuBi2O4, one would expect the surface Cu2+ or Bi3+ species of the particles to be reduced after testing.
+3-087	Films subjected to 1.5 h of steady-state photocurrent passage in each electrolyte (pH 3.5 and pH 10.8) were studied
+3-088	by XPS to elucidate any surface chemical/compositional differences between the films before and after testing.
+3-089	Prior to testing, the XPS spectra for Cu and Bi showed peaks indicative of Cu2+ and Bi3+ as expected (Supporting Information, S-3).[20,21]
+3-090	Although the Bi 4f spectra remained largely unchanged, clear differences between the films could be discerned in the Cu 2p spectra (Figure 10).
+3-091	Both films showed
+3-092	a strong Cu2+ peak at 933.8 eV prior to testing and the addition of a reduced Cu+ (or Cu) peak at 932.4 eV after.
+3-093	However, for the acid-tested film the Cu2+ peak essentially disappeared after testing, and the Cu 2p peak intensities were diminished overall, indicating that the acidic environment promoted the dissolution of Cu.
+3-094	After prolonged testing the films showed surface Cu:Bi ratios of 0.16 and 0.43 for acid and base, respectively.
+3-095	These results are consistent with the photocurrent vs time behavior, which showed a continuous reduction in activity for the acid-tested film but only transient reduction leading to eventually steady photoactivity for the base-tested film.
+3-096	In base, the CuBi2 O4 films appear to suffer from photocathodic corrosion for a brief period but eventually reach a passivated state after which further photocorrosion either does not occur or occurs very slowly.
+3-097	In acid, the films do not appear to reach this passivated state.
+3-098	In basic electrolyte the fact that this steady-state photocurrent proceeds indefinitely while the electrolyte is continuously bubbled with N2 indicates
+3-099	that the photocurrent is most likely from the reduction of protons or water to form H 2, although at quite low rates.
+3-100	Photoconversion Efficiency.
+3-101	The IPCE spectra of films deposited at −0.5 V for 5 min from a bath concentration of 6 mM were recorded in pH 10.8 electrolyte after extensive steady-state photocurrent passage in order to assess their stable PEC performance as a function of wavelength of incident light for both front and backside illumination (Figure 11).
+3-102	Quantum
+3-103	yields of only ∼1−2% were achieved with UV irradiation, and these decreased throughout the visible range, becoming negligible between 660 and 700 nm.
+3-104	This photocurrent onset threshold corresponds to a photon energy of about 1.8 eV, in good agreement with the optical absorption threshold observed when total transmittance and reflectance were accounted for.
+3-105	This apparent band gap value is somewhat larger than the reported band gap of 1.4−1.5 eV, although as noted previously, only one optical absorption spectrum has been published for CuBi 2O 4.[18]
+3-106	When the IPCE values were integrated over the standard AM1.5G spectrum,[22] whole spectrum photocurrents of 44 and 55 μA/cm[2] for front and backside illumination, respectively, were calculated at 0.64 V vs RHE.
+3-107	Visible light (420 nm and above) contributed to 66% and 61% of these photocurrent values, respectively, which is very consistent with measurements performed with a 420 nm cut-on filter.
+3-108	The calculated photocurrents are much lower than what one would expect from a material with a band gap of 1.8 eV but are consistent with the fact that the full-spectrum steady-state photocurrents measured for these films at this potential were generally in the 25−35 μA/cm[2] range when illuminated by a Xe lamp with a light intensity of nearly 0.75 suns.
+3-109	Prior to long- term steady-state photocurrent passage, IPCE’s were nearly 3 times higher, resulting in integrated front-side illumination photocurrents of 110−120 μA/cm[2] (Supporting Information, S-4).
+3-110	This large initial photocurrent could be due to the presence of reducible impurities on the surfaces of the films as well as the initial reduction of the films themselves.
+3-111	The reasons for the poor photoconversion efficiency of these electrodes may be manifold.
+3-112	To study the effects of poor light absorption in the visible range, absorbed photon-to-current conversion efficiencies (APCE), also known as internal quantum yields, were calculated by dividing the IPCE values by the absorptance of the films at the same wavelengths (Figure
+3-113	12).
+3-114	The absorptance spectrum of the film shown in Figure 9b was employed as a first-order approximationAPCE values
+3-115	will be slightly underestimated due to absorption by the FTO.
+3-116	Although this spectrum showed a less dramatic decrease in the visible range than the IPCE spectrum, the internal quantum yield of the film was still quite low.
+3-117	As discussed earlier, the particulate morphology may not be ideal for high photo- conversion efficiency due to the difficulty of transporting photogenerated holes to the substrate across particle boundaries.
+3-118	For example, when the films were illuminated from the backside, the quantum yields improved by 50% in the UV range, indicating that holes were more efficiently collected when they were generated in the underside rather than in the top layer of the particulate film.
+3-119	This illustrates that majority carrier transport is hindered in these films, as has been observed for other metal oxide films such as α-Fe2O3 and BiVO4.[23−26] Also, the poor mechanical adhesion of the films to the substrate indicates that the particles were only weakly attached to the FTO, which may play a role in hindering hole transfer from the film to the substrate.
+3-120	The presence of native defects in the CuBi2O 4 material on the surface or in the bulk could greatly increase recombination rates.
+3-121	Previous studies on CuBi2O 4 films prepared by metal−organic decomposition[9,10] also show low photocurrents in the μA range, revealing that CuBi2O4 may possess inherently poor electronic properties due to such defects.
+3-122	The optical absorptance spectra indicate that a significant amount of light absorption occurs for wavelengths far greater than the photocurrent onset threshold of 680 nm (and even beyond 1000 nm).
+3-123	This absorption could be a result of a large number of trap states within the midgap of CuBi2O 4, either on the surface or in the bulk.[27]
+3-124	A common test to probe for the effects of surface traps lying within the band gap is the addition of species to the electrolyte that are thermodynamically easier to either reduce or oxidize depending on whether cathodic or anodic behavior is being studied.[28]
+3-125	In this case molecules with more positive reduction potentials could be reduced by electrons trapped in surface states below the conduction band edge.
+3-126	Attempts to probe this behavior by the addition of formaldehyde (E0 = 0.23 V vs RHE) or methanol (E0 = 0.59 V vs RHE) to the electrolyte showed almost no effect, revealing that surface midgap trap states are not the rate-limiting factor for the conversion efficiency of these films.
+3-127	Nonstoichiometric regions of the nominally CuBi2O4 particles or small domains of binary oxide phases of CuxO or BixOy could instead be responsible for higher recombination rates.
+3-128	Several attempts were made to improve the morphology of the films through the addition of common Bi3+ chelating agents such as triethyleamine (TEA) or EDTA or by employing pulsed electrodeposition techniques to increase nucleation density.
+3-129	Chelating agents such as EDTA and TEA are sometimes employed to improve the uniformity of electrodeposited films of Bi on conductive oxide substrates.[14,16]
+3-130	However, in the present work the addition of EDTA or TEA in various amounts did not significantly improve the nucleation density or the photocurrent.
+3-131	Although these additives are known to have a positive effect on Bi deposition, these effects may be mitigated in the current experiments in which Cu and Bi are deposited simultaneously.
+3-132	Another technique commonly employed to increase nucleation density is pulsed electrodeposition (PED).
+3-133	This technique calls for short deposition periods separated by quiescent periods, which are needed to avoid diffusion limitations that can become significant as the solution near the electrode becomes depleted of metal cations.[29]
+3-134	Various pulse times (with equivalent rest times) ranging from 0.25 to 10 s were investigated with total deposition times of 1 or 2 min, but significant improvements in neither the surface coverage nor photocurrent were observed.
+3-135	It may be reasonable to conclude that the mild potential of −0.5 V vs Ag/AgCl fixed in this work for Cu and Bi codeposition did not generate large enough deposition current densities relative to precursor concentration for PED to have a noticeable effect.
+3-136	Typical steady-state deposition current densities observed were only on the order of 1 mA/cm[2].
+3-137	Since it is generally known that nucleation density of electrodeposited films increases as the overpotential increases (is made more negative in this case), attempts were made to deposit films at more negative potentials than −0.5 V using a higher ratio of Bi:Cu in the bath in order to maintain the correct stoichiometry of the deposit, which varies with potential.
+3-138	SEM images of films deposited from a bath of 3:1 Bi:Cu at −0.7 and −0.9 V did not reveal significant improvement in film coverage or uniformity (Supporting Information, S-5), and no improvements in PEC performance were observed.
+3-139	Increasing the ratio of Bi:Cu in the bath did succeed in achieving a 2.1:1 ratio in the film at −0.9 V, however.
+3-140	These experiments appear to indicate that the composition of the depositing films has a strong effect on the deposition coverage and uniformity, which become worse as Bi content increases.
+3-141	The effects of changing the deposition bath temperature between 15 and 45 °C on the film coverage and PEC performance were also explored.
+3-142	Temperatures greater than room temperature resulted in lower coverage and lower photocurrent, but lower temperatures resulted in a slight improvement in both characteristics.
+3-143	The measured photo- currents of these films at −0.2 V vs. Ag/AgCl are plotted in Figure 13, and representative SEM images can be found in Figure S-6 of the Supporting Information.
+3-144	Overall, the most successful means of achieving improved film coverage and uniformity was reducing the concentration of cations in the deposition bath, although improvements in PEC performance were limited.
+4-001	■
+4-002	CuBi 2O 4 photocathodes were successfully synthesized by the electrodeposition of particles containing both Cu and Bi followed by their oxidation and crystallization at 600 °C in air.
+4-003	The particulate films possessed a light brown color when
+4-004	The Journal of Physical Chemistry C Article
+4-005	viewed normally, and optical and PEC tests indicated that the films absorb light throughout the visible range with both an absorption and photocurrent onset threshold near 680 nm.
+4-006	This appears to reveal that the true band gap of CuBi 2O4 relevant for PEC applications is 1.8 eV.
+4-007	Based on PEC testing, a flat-band potential of 1.05 V vs RHE is estimated from the onset of cathodic photocurrent in pH 10.8 electrolyte, indicating that the band edge positions of CuBi2O4 are quite suitable for generating H2 from water, provided a moderate bias could be supplied by a photoanode in a tandem configuration.
+4-008	Although the photocurrent decayed significantly upon initial illumination, stable values of 25−35 μA/cm[2] were achieved after several minutes and persisted for more than 1 h.
+4-009	These low photocurrents were consistent with the measured IPCE spectra, which possessed maxima in the UV range of 1−2% and decreased throughout the visible range, reaching 0.00% at 700 nm.
+4-010	Calculated AM1.5G photocurrents for a typical film were 44 and 55 μA/cm[2] for front and backside illumination, respectively.
+4-011	Clearly, significant improvements in the electronic properties of p-CuBi2O4 thin films via improved thin film synthesis techniques and/or doping are required in order to make it a viable photocathode material for PEC H2 generation from water.

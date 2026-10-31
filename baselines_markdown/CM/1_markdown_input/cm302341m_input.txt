@@ -1,0 +1,160 @@
+# document_id: cm302341m
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Over the past decade, conjugated small organic molecules and main-chain polymers for organic thin-film transistors (OTFTs) have attracted considerable attention due to their easily modification of structure, solution processability, and cheap device fabrication such as printing technique.[1−10] Thanks to the significant efforts of scientists, great achievements for polymer- based OTFTs have been acquired in recent years.
+1-003	Some polymer-based OTFTs show high mobility over 1.0 cm2 V−1 s−1.[11−22] It has been found that the introduction of a strong electron-accepting and electron-donating unit into donor− acceptor (D−A) copolymer can greatly enhance the charge transport mobility and efficiently improve the OTFT perform- ances of the devices due to strong donor−acceptor interaction between the nearest neighboring intermolecular overlapping
+1-004	and ordered π−π close packing of the polymer chains.[8,11,19]
+1-005	However, most of these polymers need thermal annealing at
+1-006	high temperature in vacuum or in inert atmosphere to improve
+1-007	the molecular ordered-organization of the polymeric main chain in the thin films.
+1-008	Obviously such inefficient fabricating processes are unfavorable for the large-scale production of OTFT devices at low cost.
+1-009	Therefore, to meet the demand of
+1-010	© 2012 American Chemical Society 4350
+1-011	the industrial application, design and synthesis of high mobility OTFT polymers without annealing or annealed directly in an air atmosphere is a great challenge.
+1-012	Recently, diketopyrrolopyrrole (DPP)-based D−A copoly- mers have gained much attention for their promising
+1-013	13−17,21,23−36
+1-014	application in OTFTs.
+1-015	The strong electron- deficiency of DPP unit endows the D−A copolymer ambipolar (hole and electron) transport properties and the strong
+1-016	21,25,28,34,35
+1-017	intermolecular interaction.
+1-018	For example, some diketopyyrolopyrrole-oligothiophene copolymer exhibited the excellent hole-transport property with high hole mobility annealing at suitable temperature (PDPP3T, μ = 1.73 cm2 V−1 s −1;[34] PDPP4T, μ = 0.9714 or 1.0417 cm 2 V−1 s −1).
+1-019	Compared with the OTFT performances of some diketopyyr- olopyrrole-oligothiophene coploymers (PDPPNT, N = 2,[32]
+1-020	24,33−35 14,17
+1-021	3, and 4 ), the introduction of a longer β-unsubstituted oligothiophene unit (such as 3T and 4T) as the electron-donating unit not only adequately offset the
+1-022	Received: July 25, 2012
+1-023	Revised: October 30, 2012
+1-024	Published: October 31, 2012
+1-025	excessive electron-accepting effect of DPP, but it also slightly weakens the main-chain interaction, which is favorable to enhance the molecular ordering capability of the polymer at lower temperature and efficiently improve the hole mobility of the OTFTs.
+1-026	Thus, it exhibited high mobility of 0.89 cm2 V−1 s−1 even without thermal annealing for PDPP4T.[14,17]
+1-027	In order to further enhance the mobility of the OTFTs and also to better understand the correlation of the molecular structure and OTFT performance, we synthesize a new conjugated main-chain copolymer, diketopyrrolopyrrole-quin- tetthiophene copolymer (PDPP5T) with much high molecular weight and low polydispersity, which contains a DPP group and a β-unsubstituted quintetthiophene (5T) in the repeating unit.
+1-028	We expect that the introduction of more thiophene group into diketopyrrolopyrrole-oligothiophene copolymer can extend the conjugation length of donor blocks and make the p-type behavior of the polymer more pronounced that will lead to the enhancement of the hole mobility of the OTFT device.
+1-029	On the other hand, introducing the 5T unit into DPP-based copolymer can increase the distance of two bulk side-chain groups in the DPP unit and diminish their intermolecular steric hindrance, which is favorable for π−π stacking to form a well-ordered lamellar structure and enhance the OTFT mobility.
+1-030	As expected, the OTFT performance of the PDPP5T-based devices is greatly improved.
+1-031	The hole mobility reaches 1.08 cm2 V−1 s−1 without thermal annealing, and a much higher hole mobility of 3.46 cm2 V−1 s−1 is obtained annealed at 200 °C even in an air atmosphere.
+1-032	Here we present the synthesis, photophysical and electrochemical properties, and the OTFT performances of PDPP5T.
+2-001	■
+2-002	Materials.
+2-003	All the chemicals are purchased from Aldrich.
+2-004	Toluene was distilled from K−Na alloy under an atmosphere of argon, and other chemicals were used without further purification. 3,6-Bis-(5-bromo-thiophen-2-yl)-N,N′-bis(2-octyldodecyl)-1,4-dixo-pyrrolo[3,4-c]-pyrrole (1) and α,α′-bis(trimethylstannyl)-terthiophene (2) were synthesized according to previous reports.[13,37]
+2-005	Synthesis.
+2-006	Synthesis of PDPP5T. Compound 1 (158 mg, 0.154 mmol), compound 2 (88.8 mg, 0.154 mmol), and Pd(PPh3)4 (9 mg, 5 mol %) were added into a flask.
+2-007	Then it was subjected to five successive cycle of vacuum followed by refilling with argon, and 10 mL of anhydrous toluene was added via a syringe.
+2-008	The polymerization was carried out at 90 °C for 60 h under the protection of argon atmosphere.
+2-009	Afterward, 0.5 mL of bromobenzene was added to the mixture to react with the residual trimethylstannyl end group.
+2-010	The mixture was kept stirring at 90 °C for 8 h.
+2-011	Then it was cooled to ambient temperature and dropped into methanol.
+2-012	The raw product was filtered off and subjected to subsequently Soxhlet extraction with acetone, methanol, hexane, chloroform, and finally chlorobenzene.
+2-013	The chlorobenzene fraction was collected, concentrated, and precipitated from methanol.
+2-014	The product was collected as dark green solid in a yield of 52%.
+2-015	Mw/Mn (GPC) = 84 600/44 000.
+2-016	Anal. Calcd for C66H92N2O2S5, C 71.69, H 8.39, N 2.53; found, C 71.87, H 8.43, N 2.45.
+2-017	Synthesis of PDPP5T-Low.
+2-018	PDPP5T-Low was prepared under the same conditions as above by terminating the polymerization after 48 h.
+2-019	The raw product was filtered off and subsequently subjected to Soxhlet extractions with acetone, methanol, and hexane to remove the impurities and oligomers.
+2-020	Finally, the polymer was obtained by Soxhlet extraction with chloroform.
+2-021	The chloroform fraction was collected, concentrated, and precipitated from methanol.
+2-022	Yield: 89%.
+2-023	Mw/Mn (GPC) = 54 300/27 800.
+2-024	Anal. Calcd for C66H92N2O2S5, C 71.69, H 8.39, N 2.53; found, C 72.15, H 8.54, N 2.36.
+2-025	1H NMR (CDCl3, 300 MHz, δ ppm): 8.93 (broad, 4H), 6.92 (broad, 6H), 3.93 (broad, 4H), 1.22 (broad, 63 H), 0.85 (broad, 15 H).
+2-026	Instrumentation.
+2-027	Elemental analysis of carbon, hydrogen, and nitrogen was performed on a Vario EL III microanalyzer.
+2-028	Molecular weight and distribution of polymer were determined by a gel permeation chromatograph (GPC) method using polystyrene as a standard, which was measured on PL-GPC220 of Polymer Laboratories Ltd. equipped with a IR5 infrared detector using 1,2,4-trichlorobenzene as an eluent at a column temperature of 150 °C (for PDPP5T) or performed on an Agilent 1100 series HPLC system equipped with a G1326A refractive index detector using THF as an eluent at a column temperature of 25 °C (for PDPP5T-Low).
+2-029	Thermal gravimetric analysis (TGA) and differential scanning calorimetry (DSC) were, respectively, performed on a NETZSCH STA 449C and a Perkin-Elmer Pyris 1.
+2-030	Absorption spectra were taken on a Shimadzu UV-2500 spectrophotometer.
+2-031	The electrochemical cyclic voltammetry was conducted on a Zahner IM6e Electrochemical Workstation with a Pt disk coated with the polymer film, a Pt plate, and an Ag/AgCl electrode as the working electrode, counter electrode, and reference electrode, respectively, in a 0.1 mol/L tetrabutylammonium hexafluorophosphate (Bu4NPF6) acetonitrile solution under an argon atmosphere at a scan rate of 100 mV/s.
+2-032	The potential of reference electrode was calibrated using the ferrocene/ferrocenium redox couple (Fc/Fc +), which has a known reduction potential of −4.8 eV.
+2-033	The highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) energy levels are calculated by the equations of HOMO = −(Eox + 4.8 eV) and LUMO = −(Ered + 4.8 eV), where Eox and Ered are the onset potential for oxidation and reduction, respectively.
+2-034	X-ray diffraction patterns of thin films were obtained with a Rigaku-D/max-2500 X-ray diffractometer.
+2-035	Atomic force microscopy (AFM) experiments were performed on a Nano- scope V AFM (Digital Instruments) under ambient conditions.
+2-036	Fabrication and Characterization of Thin-Film Transistors.
+2-037	Bottom-gate and top-contact TFT test devices with PDPP5T and PDDP5T-Low as the semiconductor were prepared in silicon wafer in ambient conditions without special precautions.
+2-038	The device was fabricated on n+-doped silicon wafer with a 300 nm thermal silicon dioxide.
+2-039	The n+-Si layer was used as the gate electrode, and the silicon oxide layer served as the gate dielectric.
+2-040	The dielectrics have been modified by octadecyltrichloro-silane (OTS).
+2-041	Then, the semi- conductor layers were deposited on the top of the OTS-modified SiO2 surface by spin-coating solutions (PDPP5T 2 mg/mL, in o- dichlorobenzene; PDPP5T-Low 10 mg/mL, in chloroform) at 2000 rpm for 60 s at room temperature.
+2-042	These thin films were annealed at 80, 120, 160, and 200 °C in air atmosphere, respectively.
+2-043	Channel length (L) and channel width (W) of the devices were 80 and 8800 μm, respectively.
+2-044	The OTFTs were then characterized using a Keithley 4200 semiconductor characterization system in air.
+2-045	The carrier mobility was calculated according to equation in the saturation regime from the gate sweep:
+2-046	IDS = C(i W /2L)(VG − VT)[2]
+2-047	where IDS is the drain current, μ is the carrier mobility, Ci is the capacitance per unit area of the gate dielectric layer, W and L are, respectively, the semiconductor channel width and length, and VG and VT are gate voltage and threshold voltage, respectively.
+3-001	■
+3-002	solvents such as tetrahydrofuran (THF), chloroform, and toluene due to high molecular weight.
+3-003	However, at a high temperature it can be soluble in chlorobenzene, dichloroben- zene, and trichlorobenzene, etc.
+3-004	The molecular weight and polydispersity index (PDI) were determined by gel permeation chromatography (GPC) analysis with a polystyrene standard calibration.
+3-005	Mn and Mw of PDPP5T were measured at 150 °C using 1,2,4-trichlorobenzene as an eluent to be 44 000 and 84
+3-006	600 (Figure S1 in the Supporting Information).
+3-007	Thermal analysis of PDPP5T shows a clear endothermic peak at about 317 °C in the differential scanning calorimetry (DSC) profile during the first heating scan (see Figure S2 in the Supporting Information), which refers to the melting of the polymeric backbone.
+3-008	The melting of the side chains was not observed, which means that the crystallization of the polymeric main-chains is predominant during the molecular packing as compared to the long side chains.
+3-009	In the second heating scan, the appearance of a slightly lower melting temperature is due to partial degradation at high temperature, which is confirmed by the thermogravimetric analysis (TGA) as shown in Figure S3 in the Supporting Information.
+3-010	In addition, the decomposition temperature is over 400 °C, indicating that the polymer shows much high thermostability.
+3-011	The UV−vis−NIR absorption spectrum of PDPP5T was measured in o-dichlorobenzene heated at about 100 °C and in the thin-film as shown in Figure 1.
+3-012	It can be seen that PDPP5T exhibits two well-defined peaks either in o-dichlorobenzene or in thin film, which implies that PDPP5T has an ordered structure both in solution and in the film.
+3-013	The optical band gap of PDPP5T is 1.32 eV estimated from the onset absorption
+3-014	(∼941 nm) of the polymer in thin film, which is slightly larger than that of PDPP4T (1.20 eV).[14]
+3-015	However, the optical band gap is still small, suggesting that the intermolecular interactions are relatively strong in favor of the mobility.
+3-016	The electrochemical properties of PDPP5T thin film were characterized with cyclic voltammetry (CV) (shown in Figure
+3-017	2).
+3-018	The HOMO level and the LUMO level of PDPP5T are
+3-019	s−1).
+3-020	calculated from the onset oxidation potential (∼0.32 V) and the onset reduction potential (∼−1.28 V) to be −5.12 eV and −3.55 eV, respectively.
+3-021	Compared with PDPP4T, the HOMO energy of PDPP5T more closely approaches the gold electrodes (−5.0 eV), which may facilitate charge injection and increase the field-effect hole mobility.[38]
+3-022	OTFTs (bottom-gate and top-contact) based on PDPP5T have also been investigated in this paper.
+3-023	The thin films of PDPP5T were spin-coated onto octadecyltrichlorosilane (OTS) treated SiO2 (300 nm)/n+2-Si substrate from a o-dichlorobenzene solution and annealed at 80, 120, 160, and 200 °C, respectively, with a hot plate in air atmosphere.
+3-024	The corresponding hole mobility and current on-to-off ratio (Ion/Ioff) at different annealing temperatures are summarized in Table 1.
+3-025	Table 1.
+3-026	OTFT Properties of As-Spun PDPP5T at Different Annealing Temperatures
+3-027	The output and transfer curves of OTFT devices containing PDPP5T thin film without thermal annealing and annealed at 200 °C are illustrated in Figure 3.
+3-028	The hole mobility of PDPP5T-based OTFT device without annealing reaches 1.08 cm2 V−1 s −1 (Ion/Ioff = 105).
+3-029	To the best of our knowledge, it is one of the highest results of reported OTFTs based on polymeric semiconductors without annealing.
+3-030	With a rise of annealing temperature, the hole mobility tends to increase, implying that the crystallinity of the PDPP5T film and ordered Chemistry of Materials
+3-031	lamellar structure of π−π close-packing for PDPP5T main-chain are significantly improved at higher temperatures.
+3-032	Especially, with an annealing temperature of 200 °C, a high hole mobility of 3.46 cm2 V−1 s−1 (Ion/Ioff = 108) is acquired.
+3-033	It is worth mentioning that the thin film of PDPP5T was annealed in air atmosphere, and the device of OTFTs were fabricated and tested in ambient air and light without special precautions.
+3-034	So PDPP5T is a promising material that can make the cost-effective and large-scale production of OTFTs into a practical application.
+3-035	In order to in-depth study the excellent OTFT performances of PDPP5T the thin-film microstructures and topographies were investigated by X-ray diffraction (XRD), grazing incident X-ray diffraction (GIXRD), and AFM.
+3-036	Figure 4 shows XRD patterns of the polymer thin film.
+3-037	Before the sample was annealed, only a distinct diffraction peak at 2θ = 4.66° can be observed, corresponding to a d spacing of 18.95 Å.
+3-038	As the annealing temperature increases from 25 to 200 °C, the XRD pattern at 2θ = 4.66° becomes much stronger and sharper.
+3-039	In addition, another two peaks are also obviously intensified, indicating that more significant crystallization and the better molecular ordering occurs at higher annealing temperature.
+3-040	To get more exact molecular packing information, the grazing incident X-ray scattering diffraction (GIXRD) was measured on the polymer thin film annealed at 200 °C (Figure
+3-041	5).
+3-042	Two diffraction peaks (100 and 200) were observed in the out-of-plane GIXRD (Figure 5a), which is almost the same as the above XRD patterns.
+3-043	In the in-plane pattern (Figure 5b), a diffraction peak (010) at 2θ = 24.3° is observed, which can be assigned to the π−π stacking distance of 3.65 Å in PDPP5T thin film.
+3-044	The distance is smaller than that (3.76 Å) of
+3-045	PDPP4T[14] and even smaller than that (3.71 Å) of PDBT-co- TT,[13] indicating the occurrence of a more strong interchain π−π interaction.
+3-046	Since the incorporation of the 5T unit (with more thiophene groups) into the DPP-based copolymer can increase the distance of two bulk side-chain groups in the DPP unit and diminish the interchain steric hindrance, it is more favorable for π−π stacking to form well-ordered lamellar structure with an edge-on orientation.
+3-047	Thus, it greatly enhances the OTFT mobility.
+3-048	that the polymer chains have self-assembled into circular structures after spin-coating.
+3-049	Such nanostructures lie next to each other that facilitate the establishment of a polymer network and provide efficient charge-carrier transporting pathways.
+3-050	Therefore, the mobility for unannealed PDPP5T thin film reaches 1.08 cm2 V−1 s −1.
+3-051	As the annealing temperature is gradually increased to be 80, 120, 160, and 200 °C, the densely interconnected chain networks is formed and the roughness of thin film reduces, which can facilitate the charge transport.[39]
+3-052	Therefore, the excellent results of OTFT devices are in good accordance with XRD, GIXRD, and AFM images.
+3-053	To the best of our knowledge, few π-conjugated polymers for OTFTs were obtained by Soxhlet extraction with chloroform to
+3-054	remove the oligomer and low molecular-weight polymer and finally purified by Soxhlet extraction by chlorobenzene.
+3-055	Since the OTFT performances can be greatly affected by the molecular weight of the polymer, 14 we also synthesized a polymer with low molecular weight (PDPP5T-Low) by shortening the reaction time to 48 h.
+3-056	It was puri precipitation into methanol followed by Soxhlet extraction with acetone, methanol, hexane to remove the small molecules and fied by oligomers.
+3-057	Finally, the purified polymer was obtained by Soxhlet extraction with chloroform.
+3-058	It shows good solubility in some common solvents such as tetrahydrofuran (THF), chloroform, toluene and chlorobenzene etc.
+3-059	Mn and Mw of PDPP5T-low were determined to be 27800 and 54300, respectively, at 25 Supporting Information).
+3-060	The charge-transport properties of PDPP5T-Low were also investigated by fabricating OTFTs with bottom-gate/top-contact devices under similar measured conditions to PDPP5T. The corresponding hole mobility and current on-to-off °C using THF as eluent (Figure S4 in the ratio (Ion/Ioff) of PDPP5T-Low at di fferent annealing temperatures are shown in Figure S5 in the Supporting Information and summarized in Table S1 in the Supporting Information.
+3-061	As can be seen, PDPP5T (the polymer with high molecular weight) shows much better OTFT performances than PDPP5T-Low, suggesting that high molecular weight is much favorable for the formation of ordered packing of the polymeric interchains and can facilitate the establishment of e fficient pathways for charge transport. 14,18 Recently, several researchers reported the OTFT properties of series DPP-oligothiophene copolymers (PDPPNT, N = 2, 3, and 4).
+3-062	For example, DeLongchamp and co-workers 33 explored the relationship between the structure and OTFT performance of DPP-oligothiophene copolymers.
+3-063	In most cases, the hole mobility of PDPPNT (N = 232 and N = 324,33,34) with nonannealing is less than 0.20 cm introduction of one or more thiophene groups into PDPPNT 2 V−1 s−1.
+3-064	However, through copolymer such as PDPP4T14,17 and PDPP5T (in this work), the hole mobility without annealing are greatly enhanced
+3-065	ordered lamellar structure that is very beneficial to the enhancement of the mobility of the OTFTs.
+3-066	Considering the structural characteristics of PDPPNT copolymer, the bulk side-
+3-067	chain groups such as 2-octyldodecyl group in DPP unit obviously hinder the development of π−π stacking for the polymeric main-chains.
+3-068	However, the introduction of more thiophene groups into the PDPPNT main-chain can increase the distance of two bulk side-chain groups in the DPP unit and diminish their steric hindrance.
+3-069	This is favorable to form a well-ordered lamellar structure of π−π stacking.
+3-070	In addition, as a β-unsubstituted thiophene group in the oligothiophene unit is continually increased, the rigidity of polymeric main-chain of PDPPNT will be strengthened.
+3-071	This is unfavorable to the solubility of the copolymer in organic solvents as well as the solution processablity, which may finally affect the formation of ordered laminar structure of the PDPPNT thin film and impair the OTFTs performance.
+3-072	Therefore, it can be inferred that there should be a suitable long-chain oligothiophene unit for PDPPNT copolymer to adjust the OTFT performance with an optimal result that needs to be further explored in progress.
+4-001	An alternating copolymer PDPP5T containing DPP and a quintetthiophene unit has been synthesized and characterized.
+4-002	The introduction of more β-unsubstituted thiophene groups into the main-chain of PDPP5T polymer not only makes the p- type behavior of the polymer more pronounced but also slightly reduces the steric hindrance of the bulk side-chain groups in the DPP unit that favors to construct a well-ordered lamellar structure of π−π stacking after solution deposition and to strengthen the molecular ordering capability of the polymer at lower temperature, so it exhibits a very high hole-mobility of 1.08 cm2 V−1 s−1 without thermal annealing.
+4-003	In addition, the annealing process at high temperature reduces the roughness of the thin film and increases the crystallinity of PDPP5T chains.
+4-004	Thus, its hole-mobility reaches 3.46 cm2 V −1 s−1 annealed directly in an air atmosphere, which has been confirmed by the XRD and GIXRD patterns and AFM images.
+4-005	In brief, PDPP5T is an encouraging OTFT material due to its excellent physical properties and excellent device perform- ances.
+4-006	Easy synthesis and high mobility annealed directly in air atmosphere or even without annealing makes it become a promising material for the cost-effective production of OTFTs in a high-throughput and roll-to-roll manufacturing manner.
+4-007	Further structural modification for PDPPNT copolymer and device optimization for the OTFT performance is very promising and studying is still under way.

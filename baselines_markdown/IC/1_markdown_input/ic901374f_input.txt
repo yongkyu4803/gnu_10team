@@ -1,0 +1,302 @@
+# document_id: ic901374f
+# extractor: kordoc-markdown-adapter-1
+1-001	Osmium(VI) nitrido complexes containing nitrogen-based ligands such as cis- or trans-[OsVI(N)(tpy)Cl2]þ(tpy = 2,2’:60, 200-terpyridine), [OsVI(N)(tpm)Cl2]þ [tpm = tris(1-pyrazolyl) methane], [OsVI(N)(Tp)Cl2] [Tp = hydrotris(1-pyrazolyl)-borate], and [OsVI(N)(bpy)Cl3] (bpy=2,20-bipyridine) have been shown to exhibit novel electrophilic properties.[1-3] The reac- tion of trans- or cis-[OsVI(N)(tpy)Cl2]þ with thiols produces
+1-002	stepwise reactions with thiols to produce ruthenium(IV) sulfilamido, ruthenium(III) sulfilamine, and ruthenium(III) ammine species.
+1-003	The (salen)ruthenium(IV) sulfilamido spe- cies are also able to abstract H atoms from hydrocarbons with weak C-H bonds.
+1-004	The structure of the salen ligand used in this work is shown in Figure 1.
+1-005	Ph).
+1-006	These osmium(IV) sulfilimido species undergo a number of novel redox reactions, including proton-coupled electron
+1-007	*To whom correspondence should be addressed.
+1-008	E-mail: bhtclau@cityu. edu.hk.
+1-009	r 2009 American Chemical Society
+1-010	Published on Web 12/02/2009 pubs.acs.org/IC
+2-001	Materials.
+2-002	The complex [RuVI(N)(L)(MeOH)\](PF6) (1) was prepared by a literature method.[8]
+2-003	The Schiff base ligand H2L [L=N,N0-bis(salicylidene)-o-cyclohexylenediamine dianion] was synthesized by condensation of salicylaldehyde with trans-1,2-cyclohexyldiamine in refluxing ethanol.
+2-004	Thiols (Aldrich) were freshly distilled over anhydrous CaCl2 before use. tBuSD and PhSD (>95% D by 1H NMR) were prepared by the direct deuterium exchange of tBuSH and PhSH with 99.8% D2O (ARMAR AG), and the processes were repeated three times.[11] 9,10-Dihydroanthracene (DHA; Aldrich, 97%), xanthene (Aldrich, 99%), fluorene (Aldrich, 98%), diphenylmethane (Aldrich, 99%), and triphenylmethane (Aldrich, 99%) were re- crystallized twice from ethanol. 1,4-Cyclohexadiene (CHD) was dried over CaH2 and then distilled under dinitrogen.
+2-005	DHA-d4 and CHD-d8 [both >99% D by 1H NMR and gas chromatogra- phy-mass spectrometry (GC-MS)] were prepared by a literature method.[12] nBu4NPF6 (Aldrich) for electrochemistry was recrys- tallized three times from boiling ethanol and dried in vacuo at 120 °C for 24 h.
+2-006	Acetonitrile (Aldrich) for electrochemistry was distilled over calcium hydride.
+2-007	All other chemicals were of reagent grade and were used without further purification.
+2-008	Instrumentation.
+2-009	IR spectra were recorded as KBr pellets on a Nicolet Avatar 360 FT-IR spectrophotometer at 4 cm-1 resolu- tion.
+2-010	Elemental analyses were done on an Elementar Vario EL analyzer.
+2-011	1H NMR spectra were recorded on a Bruker (400 MHz) FT-NMR spectrometer.
+2-012	The chemical shifts (δ, ppm) were reported with reference to tetramethylsilane.
+2-013	UV/vis spectra were recorded with a Perkin-Elmer Lamda 19 spectrophotometer in 1 cm quartz cuvettes.
+2-014	Magnetic measurement (solid sample, Gouy method) was performed at 20 °C using a Sherwood magnetic balance (Mark II).
+2-015	Electrospray ionization mass spec- trometry (ESI/MS) spectra were obtained on a PE SCIEX API 365 mass spectrometer.
+2-016	The analyte solution was continuously infused with a syringe pump at a constant flow rate of 5 μL min-1 into the pneumatically assisted electrospray probe, with nitrogen as the nebulizing gas.
+2-017	The declustering potential was typically set at 10-20 V. Cyclic voltammetry (CV) was performed with a PAR model 273 potentiostat using a glassy carbon working electrode, a Ag/AgNO3 (0.1 M in CH3CN) reference electrode, and a Pt wire counter electrode with ferrocene (Cp2Fe) as the internal standard.
+2-018	GC analyses were performed on a HP 7890 GC/FID equipped with a HP-5MS (30 m 0.25 mm i.d.) column.
+2-019	GC-MS measurements were carried out on a HP 6890 gas chromatograph interfaced to a HP 5975 mass-selective detector.
+2-020	Preparations.
+2-021	[RuIV {N(H)StBu}(L)(NCCH3)\](PF6) (2a). tBuSH (9 mg, 0.1 mmol) was slowly added with stirring to an orange solution of 1 (61 mg, 0.1 mmol) in CH3CN (3 mL) at room temperature.
+2-022	After 15 min, Et2O (30 mL) was carefully layered onto the deep-blue solution, and the mixture was allowed to stand for 3 h at 0 °C. The resulting dark-blue microcrystalline solid was filtered and recrystallized by the slow diffusion of Et2O into a solution of the complex in CH3CN at room temperature.
+2-023	Yield: 56%. 1 H NMR (400 MHz, DMSO-d6): δ 16.41 (s, 1H, NH), 8.63 (s, 1H, N=CH), 8.51 (s, 1H, N=CH), 7.57 (d, J = 8.0 Hz, 2H), 7.41 (t, J = 8.0 Hz, 2H), 7.31-7.39 (m, 2H), 6.70 (t, J = 7.6 Hz,
+2-024	2H), 4.59-4.64 (m, 1H, N-CH), 3.96-4.02 (m, 1H, N-CH), 3.08-3.18 (m, 2H), 2.08-2.13 (m, 2H), 2.06 (s, 3H, NCCH3), 1.81-1.86 (m, 2H), 1.59-1.67 (m, 2H), 0.98 (s, 9H, CH3 ont Bu).
+2-025	IR (KBr, cm-1): ν(N-H) 3236(s), ν(CtN) 2321, 2292(w), ν(CdN) 1603(s), ν(P-F) 847(s).
+2-026	Anal. Calcd (found) for C26H33N4O2SPF6Ru: C, 43.88 (43.67); H, 4.67 (4.76); N, 7.87 (8.00).
+2-027	UV/vis (CH3CN): λmax [nm] (ε [mol-1 dm[3] cm-1]): 597 (3780), 390 (9230), 335 (13 000), 228 (36 400).
+2-028	ESI/MS in CH3CN: m/z 567 (Mþ), 526 (Mþ - CH3CN).
+2-029	[RuIV{N(H)SPh}(L)(NCCH3)\](PF 6) (2b).
+2-030	The blue solid was prepared by a procedure similar to that for 2a using benze- nethiol.
+2-031	Yield: 70%.
+2-032	1H NMR (400 MHz, DMSO-d6): δ 16.69 (s, 1H, NH), 8.65 (s, 1H, NdCH), 8.59 (s, 1H, NdCH), 7.66 (d, J = 7.4 Hz, 1H, o-CH on PhS), 7.61 (d, J = 7.4 Hz, 1H, o-CH on PhS), 7.45-7.53 (m, 3H, one p-CH on PhS and two CH on L), 7.36-7.42 (m, 2H), 7.29 (t, J = 7.7 Hz, 2H), 6.91-6.95 (m, 2H, m-CH on PhS), 6.74-6.81 (m, 2H), 4.50-4.55 (m, 1H, N-CH), 4.01-4.06 (m, 1H, N-CH), 3.11-3.19 (m, 2H), 2.08-2.14 (m, 2H), 2.06 (s, 3H, NCCH 3),1.82-1.97 (m, 2H), 1.52-1.63 (m, 2H).
+2-033	IR (KBr, cm-1): ν(N-H) 3244(s), ν(CtN) 2313, 2286(w), ν(CdN) 1601(s), ν(P-F) 839(s).
+2-034	Anal. Calcd (found) for C 28H29N4O2 SPF6Ru: C, 45.97 (46.18); H, 3.99 (4.11); N, 7.66 (7.88).
+2-035	UV/vis (CH3 CN): λmax [nm] (ε [mol-1 dm 3 cm-1]): 616 (5030), 398(9240),335(13900), 220 (41 200).
+2-036	ESI/MS in CH3 CN: m/z 587 (Mþ), 546 (Mþ - CH3CN).
+2-037	[RuIV{N(H)StBu}(L)(N3)] 3CH3 OH (2c).
+2-038	This was prepared by metathesis of 2a (100 mg, 0.14 mmol) with NaN3 (10 mg, 0.15 mmol) in methanol (10 mL).
+2-039	The solution slowly deposited dark-red single crystals suitable for X-ray crystallography.
+2-040	Yield: (80%).
+2-041	IR (KBr, cm-1): ν(N-H) 3076(s), ν(N3) 2034(s).
+2-042	Anal. Calcd (found) for C24H30N6O2SRu 3 CH3OH: C, 50.07 (50.15); H, 5.71 (5.49); N, 14.01 (14.27).
+2-043	UV/vis (CH3CN): λmax [nm] (ε [mol-1 dm[3] cm -1]): 467 (7400), 378 (10 000), 335 (8300), 227(36900).
+2-044	[RuIII{N(H)2StBu}(L)(NCCH3)\](PF 6) 3 0.5CH3CN (3).
+2-045	PhSH (11 mg, 0.10 mmol) was added to a blue solution of 2a (70 mg, 0.10 mmol) in CH 3CN (10 mL), and the mixture was stirred for 3 h at room temperature under argon.
+2-046	The green solution was then concentrated to ca. 1 mL; the addition of Et2O (20 mL) precipitated a green solid, which was collected and washed with Et2O. Yield: 90%.
+2-047	IR (KBr, cm-1): ν(N-H) 3289(w), 3133(w), ν(CtN) 2322(w), 2293(w), 2250(w), ν(P-F) 841(s).
+2-048	Anal. Calcd (found) for C 26H34N4O2 SPF6Ru 3 0.5CH3CN: C, 44.23 (44.22); H, 4.88 (4.62); N, 8.60 (8.45).
+2-049	UV/vis (CH 3CN): λmax [nm] (ε [mol-1 dm[3] cm -1]) 686 (3630), 479 (2490), 347 (13 700), 230 (37 900), 216 (34 600).
+2-050	ESI/MS in CH3CN: m/z 568 (Mþ),527 (Mþ - CH3CN).
+2-051	Magnetic measurement: μeff = 1.98 μB .
+2-052	[RuIII(NH3)(L)(NCCH3)\](PF 6) 3 CH3CN (4).
+2-053	PhSH (53 mg, 0.48 mmol) was added with stirring to an orange solution of 1 (100 mg, 0.16 mmol) in CH3CN (20 mL) at room temperature.
+2-054	Slow evaporation of the green solution afforded dark-green single crystals suitable for X-ray crystallography after 2 days.
+2-055	Yield: 67%.
+2-056	IR (KBr, cm-1): ν(N-H) 3341(s), 3237(w), 3135(s), ν(CtN) 2323(w), 2292(w), 2250(w), ν(P-F) 837(s).
+2-057	Anal. Calcd (found) for C22H26N4 O2PF6Ru 3 CH3CN: C, 43.31 (43.52); H, 4.39 (4.59); N, 10.52 (10.46).
+2-058	UV/vis (CH3CN): λmax [nm] (ε [mol-1 dm[3] cm -1]) 680 (4500), 492 (1800), 349 (14 600), 232 (34 400), 216 (34 600).
+2-059	ESI/MS in CH 3CN: m/z 480 (Mþ).
+2-060	Magnetic measurement: μeff = 2.04 μB.
+2-061	Kinetics.
+2-062	The kinetics of the reactions were studied under argon by using either a Hewlett-Packard 8452 diode-array spectrophotometer, a Perkin-Elmer Lambda 19 UV/vis/near- IR spectrophotometer, or a Hi-Tech Scientific SF-61 stopped- flow spectrophotometer (path length = 1 cm).
+2-063	The concentra- tions of the substrates were at least in 10-fold excess of that of the ruthenium complexes.
+2-064	Pseudo-first-order rate constants, kobs, were obtained by nonlinear least-squares fits of At vs time t according to the equation A t = A¥ þ (A0 - A¥) exp(-kobst), where A0 and A¥ are the initial and final absorbances,
+2-065	2c 4
+2-066	formula C25H34N6O3RuS C24H29F6N5O2PRu Mr 599.71 665.56
+2-067	cryst dimens/mm 0.34 0.26 0.17 0.22 0.20 0.20
+2-068	cryst syst triclinic triclinic
+2-069	space group P1 P1
+2-070	a/A 8.017(1) 10.2410(6)
+2-071	b/A 13.099(2) 10.2840(6)
+2-072	V/A[3] 1473.2(4) 1335.28(13)
+2-073	Z 2 2
+2-074	Fcalcd/Mg m-3 1.352 1.655
+2-075	F(000) 620 674
+2-076	no. of reflns collcd 6378 6111
+2-077	no. of obsd reflns [I > 2σ(I)] 5000 5758
+2-078	final R indices, I > 2σ(I) R1 = 0.0460, R1 = 0.0496,
+2-079	wR2 = 0.0590 wR2 = 0.1284
+2-080	GOF 1.016 1.181
+2-081	no. of param 361 363
+2-082	respectively.
+2-083	Activation parameters were obtained from the plot of ln(k2/T) vs 1/T according to the Eyring equation.
+2-084	Analysis of Organic Products.
+2-085	Products of the reaction of hydrocarbons were analyzed by GC and GC-MS.
+2-086	Disulfides were analyzed by the following method.
+2-087	The filtrate after the reaction was loaded onto a short column of silica gel (1 3 cm) and eluted with Et2O. Removal of the volatiles under vacuum gave air-stable disulfide as a white solid, which was character- ized by 1H NMR and GC-MS.
+2-088	X-ray Crystallography.
+2-089	Measurements of 2c and 4 were collected on a Bruker SMART 1000 CCD area-detector dif- fractometer using graphite-monochromated Mo KR radiation (λ = 0.710 73 A) at 293 K. Details of the intensity data collection and crystal data are given in Table 1.
+2-090	The raw intensity data frames were integrated with the SAINTþ program using a narrow-frame integration algorithm.[13]
+2-091	Corrections for Lorentz and polarization effects were also applied by SAINT.
+2-092	For each analysis, an empirical absorption correction based on multiple measurements of equivalent reflections was applied by using the program SADABS.[14]
+2-093	The structures were solved by direct methods and expanded by difference Fourier syntheses using the software SHELTXL.[15]
+2-094	Structure refinements were made on F[2] by the full-matrix least-squares technique.
+2-095	The non-H atoms were refined with anisotropic displacement parameters.
+2-096	The H atoms were placed in their ideal positions but not refined.
+3-001	Reaction of 1 with 1 equiv of RSH: Formation of (Salen)ruthenium(IV) Sulfilamido Species 2a-2c.
+3-002	The treatment of 1 with 1 equiv of RSH in CH3CN produced dark-blue [RuIV{N(H)SR}(L)(NCCH 3)]PF6 (2a, R = tBu; 2b, R = Ph) (eq 1).
+3-003	½RuVIðNÞðLÞðNCCH3Þþ þ RSH f
+3-004	½RuIV fNðHÞSRgðLÞðNCCH3Þþ ð1Þ
+3-005	Compounds 2a and 2b are diamagnetic (solid sample, Gouy method), similar to the reported ruthenium(IV) hydrazido(1-) species, [RuIV {N(H)NC4H8}(L){N(H)-C 4H 8}]þ.[8]
+3-006	In the 1H NMR spectra in (CD3) 2SO, the two imine protons occur as two singlets at δ 8.51 and 8.63 for 2a and at δ 8.59 and 8.65 for 2b (Figure S1 in the Supporting Information).
+3-007	The methyl protons of the tBuSNH moiety in 2a occur as a singlet at δ 0.98.
+3-008	The broad resonances at δ 16.41 in 2a and δ 16.69 for 2b are assigned to N-H of the sulfilamido ligands; these peaks disappear upon the addition of D2O (5% by volume).
+3-009	The existence of N-H in 2a and 2b is also evidenced from their IR spectra, which show a sharp band at 3236 cm-1 for 2a and at 3244 cm-1 for 2b.
+3-010	ESI/MS of 2a (Figure S2 in the Supporting Information) shows peaks at m/z 567 ([M]þ) and 526 ([M - CH3CN]þ); similarly, ESI/MS of 2b shows peaks at m/z 587 ([M]þ) and 546 ([M - CH3CN]þ).
+3-011	The cyclic voltammogram of 2a in CH3CN (Figure 2) displays an irreversible oxidation wave at Epa = þ0.62 V, an irreversible reduction wave at Epc = -0.53 V, and a reversible reduction wave centered at -0.67 V (vs Cp2Feþ/0).
+3-012	Because the reversible reduction wave occurs at the same potential as that of 3 (see below), it is assigned to the [RuIII{N(H) 2StBu}(L)(NCCH3)]þ/[RuII{N(H) 2-StBu}(L)(NCCH3)] couple.
+3-013	The irreversible wave at -0.53 V is probably due to the PCET step: [RuIV{N(H)-StBu}(L)(NCCH3)]þ þ Hþ þ e f [RuIII{N(H) 2StBu}(L)- (NCCH 3)]þ, with Hþ presumably coming from H2O in the solvent.
+3-014	Upon addition of Et3N (1% by volume), the color of the solution of 2a changed from blue to orange and
+3-015	the cyclic voltammogram now shows two reversible waves centered at -0.22 and -0.72 V; these are assigned as [RuV(NStBu)(L)(NCCH3)]þ/[RuIV(NStBu)(L)(NCCH3)]
+3-016	and [RuIV(NStBu)(L)(NCCH3)]/ [RuIII(NStBu)(L)(NC- CH3)]- couples, respectively.
+3-017	In an independent experi- ment, an orange solid could be isolated by adding Et3N to 2a in CH3CN.
+3-018	The IR spectrum of the solid reveals the disappearance of ν(N-H) and the intense ν(P-F) band due to PF6-, and elemental analysis is consistent with the formula [RuIV(NStBu)(L)(NCCH3)].[16]
+3-019	The orange solid is diamagnetic and is only sparingly soluble in a common organic solvent.
+3-020	In the 1H NMR spectrum in (CD3)2SO, the methyl protons of acetonitrile and the tert-butyl moiety occur as singlets at δ 2.06 and 0.95, respectively.
+3-021	The N-H resonance at δ 16.41 in 2a was not observed.
+3-022	The compound decomposes in solution to give a paramagnetic species with a half-life of about 10 min at room temperature.
+3-023	The cyclic voltammogram of 2b (Figure S3 in the Supporting Information) shows a reversible couple cen- tered at -0.61 V (vs Cp2Feþ/0), which is assigned to the [RuIII{N(H)2SPh}(L)(NCCH3)]þ/[RuII{N(H)2SPh}(L)- (NCCH 3)] couple.
+3-024	The potential for this couple is 60 mV higher than that of 2a, in accordance with the PhS substituent being less electron-donating than the t BuS substituent.
+3-025	There are also a number of irreversible waves, which probably arise from metal-centered RuIV/III, Ru V/IV, and ligand-centered oxidations.
+3-026	The reaction of 2a with NaN3 in methanol produced 2c as sparingly soluble dark-red crystals in high yield.
+3-027	Room temperature magnetic measurement indicates that 2c is also diamagnetic.[17]
+3-028	In the IR spectrum, the ν(N-H) band shifts from 3236 cm-1 in 2a to 3076 cm-1.
+3-029	The intense ν(P-F) band at 845 cm-1in 2a disappears, while a strong ν(N3) band at 2034 cm-1 is observed.
+3-030	X-ray Structure of [RuIV{N(H)StBu}(L)(N3)] 3 CH 3OH.
+3-031	The X-ray structure of 2c has been determined (Figure 3).
+3-032	The details of the crystal data are summarized in Tables 1 and 2.
+3-033	Compound 2c has a distorted octahedral geometry;
+3-034	Table 2.
+3-035	Selected Bond Distances (A) and Angles (deg) for 2c
+3-036	Bond Angle
+3-037	N(3)-Ru-N(4) 175.7(2) Ru-N(3)-S(1) 121.6(2)
+3-038	N(3)-Ru-N(1) 95.5(2) Ru-N(4)-N(5) 121.3(4)
+3-039	N(3)-Ru-N(2) 90.3(2) Ru-N(1)-C(7) 138.49(35) N(3)-Ru-O(1) 92.1(2) Ru-N(2)-C(14) 121.24(51) N(3)-Ru-O(2) 87.8(2) N(4)-N(5)-N(6) 175.6(7)
+3-040	the ruthenium center is surrounded by the two O and two N atoms of the salen ligand in the equatorial plane.
+3-041	The axial positions are occupied by one sulfilamido ligand and one azido ligand.
+3-042	This is the first crystal structure of a ruthenium compound bearing a sulfilamido ligand.
+3-043	The Ru-N(sulfilamido) distance of 1.902(4) A and the acute Ru-N(3)-S(1) angle of 121.6(2)° are comparable to a structurally similar ruthenium(IV) hydrazido(1-) com- plex [RuIV{N(H)NC4H8}(L){N(H)C4H8}]þ,[8] which has a Ru-N(hydrazido) distance of 1.940(5) A and a Ru- N-N angle of 129.4(4)°.
+3-044	The rather long N(3)-S(1) distance of 1.635(5) A , and the N(3)-S(1)-C(21) angle of 106.97(27)° are consistent with pseudo-sp[3] hybridiza- tion at the S atom.
+3-045	The Ru-N(azido) bond distance of 2.101(5) A is slightly shorter than that in [RuII(tpy)- (PPh3)2(N3)\](ClO4) [2.132(5) A].[18]
+3-046	Reaction of 2a with RSH: Formation of 3.
+3-047	The reaction of 2a with 1 equiv of RSH (R = t Bu or Ph) in CH3CN afforded the green ruthenium(III) sulfilamine species 3 in high yield.
+3-048	By evaporation of the filtrate followed by extraction with Et2O, 0.45 equiv of RSSR could be isolated (90% yield, characterized by 1H NMR and GC-MS).
+3-049	The reaction is faster with PhSH than with tBuSH.
+3-050	Compound 3 can also be prepared by the reaction of 1 with 2 equiv of t BuSH. 3 is paramagnetic with one unpaired electron (μeff = 1.98 μB, Gouy method).
+3-051	The IR spectrum of 3 shows two weak ν(N-H) stretches at 3289 and 3133 cm-1.
+3-052	ESI/MS of 3 in CH3CN (Figure S2 in the Supporting Information) displays a predominant peak at m/z 568 ([M]þ) and a smaller peak at m/z 527 ([M -CH 3CN]þ).
+3-053	The cyclic voltammogram of 3 exhibits a reversible RuIII/II couple centered at -0.67 V and an irreversible oxidation wave at þ0.65 V vs Cp2Feþ/0 (Figure S4 in the Supporting Information).
+3-054	The reaction of 2a with RSH may be represented by eq 2.
+3-055	½RuIVfNðHÞStBugðLÞðNCCH3Þþ þ RSH f
+3-056	III t þ 1
+3-057	½Ru fNðHÞ2 S BugðLÞðNCCH3Þ þ 2RSSR ð2Þ
+3-058	Reaction of 2b with PhSH: Formation of 4.
+3-059	In contrast to 2a, the reaction of 2b with 1 or 2 equiv of PhSH in CH 3CN at room temperature did not produce the corre- sponding ruthenium(III) sulfilamine species; instead, the
+3-060	intervals ([tBuSH] = 3.3 10-4 M; total reaction time = 1000 s).
+3-061	The right panel shows the second step (kb path) at 840 s intervals ([tBuSH] = 1.6 10-3 M;
+3-062	total reaction time = 4200 s). ruthenium(III) ammine compound 4 was isolated, together with 1.35 equiv of PhSSPh (90% yield).
+3-063	Other solvents such as (CH3)2CO, CH3OH, or CH2Cl2 can also be used.
+3-064	Compound 4 is more conveniently prepared by the direct reaction of 1 with 3 equiv of PhSH.
+3-065	A similar reaction also occurs with 3,5-Me2C6H3SH.
+3-066	The reaction of 2b and 1 with PhSH can be represented by eqs 3 and 4, respectively. ½RuIVfNðHÞSPhgðLÞðNCCH3Þþ þ 2PhSH f III þ 3 ½Ru ðNH 3ÞðLÞðNCCH3Þ þ PhSSPh ð3Þ 2 ½RuVIðNÞðLÞðNCCH 3Þþ þ 3PhSH f III þ 3 ½Ru ðNH 3ÞðLÞðNCCH3Þ þ PhSSPh ð4Þ 2 Compound 4 has a room temperature magnetic mo- ment of μeff = 2.04 μB, which is within the range (1.86 - 2.07 μB) reported for other (salen)ruthenium(III) com- plexes.19 The cyclic voltammogram of 4 (Figure S5 in the Supporting Information) shows two reversible waves centered at þ0.60 and -0.76 V vs Cp 2Feþ/0, which are IV/III III/II assigned to Ru and Ru couples, respectively.
+3-067	Similar reversible couples were also observed in other (salen)ruthenium(III) complexes.
+3-068	For example, [Ru þ (py) 2] exhibits reversible Ru IV/III III(L)- III/II and Ru couples at 0.69 and - 0.59 V vs Cp2Feþ/0, respectively. 19 ESI/MS (positive mode, CH 3CN) of 4 exhibits a single peak at m/z 480 ([M]þ) (Figure S6 in the Supporting Information).
+3-069	The IR spectrum (KBr disk) of 4 shows three sharp ν(N-H) stretches at 3341, 3237, and 3135 cm -1.
+3-070	X-ray Structure of [RuIII(NH3)(L)(NCCH3)\](PF6) 3 CH 3CN.
+3-071	The X-ray structure of 4 has been determined (Figure S7 in the Supporting Information).
+3-072	The crystal data and structure refinement details are given in Table 1.
+3-073	Selected bond distances and angles are listed in Table S1 in the Supporting Information.
+3-074	Compound 4 adopts
+3-075	parable to that in [RuIII(NH3)6]3þ [2.104(4) A].20 Kinetics of the Reaction of 1 with RSH.
+3-076	Figure 4 shows the UV/vis spectral changes that occur when 1 (3.3 10-5 M) is mixed with excess t BuSH (3.3 10-4 and 1.6 10-3 M) in CH consecutive steps can be observed.
+3-077	Well-defined isosbestic points are maintained at 223, 242, 253, 318, 450, and 489 nm for the first step and at 664 nm for the second step.
+3-078	The final spectra for the first and second steps are the same as those of changes as those of the second step were also observed 3CN at 298.0 K under argon.
+3-079	Two well-separated 2a and 3, respectively.
+3-080	The same spectral when 2a was mixed with excess t BuSH.
+3-081	Hence, the reac- tion scheme is products by GC of t BuSS 1 f 2a f 3.
+3-082	Analysis of the organic -MS indicated the formation of 0.5 equiv tBu.
+3-083	Hence, the stoichiometry for the two steps can be represented by eqs 1 and 2 (R = t Bu).
+3-084	The kinetics of the reaction of followed at 600 nm.
+3-085	In the presence of at least 10-fold excess of observed for both steps for over 3 half-lives (Figure S8 in the Supporting Information).
+3-086	The pseudo-first-order rate 1 with tBuSH were tBuSH, clean pseudo-first-order kinetics were constants, kobs, are independent of the concentration of 1 (2.0 10-5-5.0 10-5 M) but depend linearly on the concentration of tBuSH (5.0 10-4-4.0 10-1 M; Figure S9 in the Supporting Information) for both steps.
+3-087	Representative data are collected in Table S1 in the Supporting Information.
+3-088	The experimental rate laws for the first and second steps are shown in eqs 5 and 6. d½RuVIðNÞ t VI - ¼ ka½ BuSH½Ru ðNÞ ð5Þ dt d½Ru IVfNðHÞStBug t IV t - ¼ kb½ BuSH½Ru fNðH ÞS Bug dt ð6Þ ka and kb were found to be (1.55 ( 0.01) 101 and (1.93 ( 0.02) 10-2 M-1 s-1, respectively, at 298.0 K. (20) Stynes, H. C.; Ibers, J. A. Inorg.
+3-089	Chem. 1971, 10, 2304–2308.
+3-090	The effects of the temperature on the rate constants were studied from 288.0 to 318.0 K in CH3CN. ΔHq and ΔSq were found to be (10.7 ( 0.3) kcal mol-1 and -(17 ( 1) cal mol-1 K-1, respectively, for the ka path and (19.4 ( 0.4) kcal mol-1 and -(1 ( 1) cal mol-1 K-1, respectively, for the kb path (Figure S10 in the Supporting Information).
+3-091	The kinetics were also carried out with t BuSD in CH 3CN at 298.0 K. The second-order rate constants, kaD and kbD, were found to be (1.18 ( 0.02) 101 and (5.96 ( 0.03) 10-3 M-1 s-1, respectively (Table S2 in the Supporting Information).
+3-092	Hence, the kinetic isotope ef- fect (KIE) values for the ka and kb (Figure S11 in the Supporting Information) paths are ka/kaD = 1.3 ( 0.1 and kb /kbD = 3.2 ( 0.1, respectively.
+3-093	The reaction of 1 with PhSH (1.0 10-2-2.0 10-1 M) has also been investigated in CH3CN at 298.0 K. Two steps were also observed; the final spectra for the first and second steps are the same as those of 2b and 4, respectively.
+3-094	The same spectral changes as those of the second step were also observed when 2b was mixed with excess PhSH.
+3-095	Hence, the reaction scheme is 1 f 2b f 4, and the two steps can be represented by eqs 1 and 3 (R = Ph).
+3-096	The second-order rate constants for the first and second steps, ka0 and kb0, are (1.38 ( 0.03) 103and (3.10 ( 0.14) 101M-1s-1, respectively. ΔHq and ΔSq are (11.8 ( 0.5) kcal mol-1 and -(5 ( 1) cal mol-1 K-1, respectively, for the ka path and (13.6 ( 0.8) kcal mol-1 and -(6 ( 1) cal mol-1 K-1, respectively, for the kb path (Figure S12 in the Supporting Information).
+3-097	The kinetics of oxidation of PhSD (>95% D) by 1 were also studied in CH3CN at 298.0 K; the KIE values for the ka0 and kb0 steps are found to be 1.0 ( 0.1 and 2.6 ( 0.2, respectively (Figure S13 in the Supporting Information).
+3-098	Similar kinetic behaviors were observed when 3,5-Me2C6H3SH was used as the substrate; ka00 and kb00 are (2.53 ( 0.05) 103 and (2.50 ( 0.01) 101 M-1 s-1, respectively (Table S2 in the Supporting Information).
+3-099	C-H Bond Activation by [RuIV{N(H)SR}(L)(NC- CH 3)]þ.
+3-100	Compounds 2a and 2b react readily with hydro- carbons containing weak C-H bonds.
+3-101	The UV/vis spec- tral changes that occurred when [RuIV{N(H)StBu}(L)-(NCCH 3)]þ was mixed with an excess of DHA in CH3CN at 298.0 K are shown in Figure 5.
+3-102	The appearance of a peak at 685 nm indicates the formation of 3.
+3-103	The conver- sion of 2a to 3 can also be monitored by ESI/MS, which shows that the peak at m/z 567 ([M]þ) for 2a is shifted to 568 upon the addition of DHA (Figure S14 in the Supporting Information).
+3-104	Analysis of the organic pro- ducts by GC-MS showed that 0.4 equiv of anthracene was produced (80% yield; eq 7).
+3-105	In the presence of at least 10-fold excess of DHA, the decay of 2a monitored at 600 nm follows clean pseudo-first-order kinetics for over 3 half-lives.
+3-106	The pseudo-first-order rate constant, kobs, is independent of the concentra- tion of RuIV (3 10-5-1 10-4 M) but depends linearly on the concentration of DHA (1 10-2-1 10-1 M)
+3-107	(Figure 6).
+3-108	Kinetic data are collected in Table 3.
+3-109	At 298 K, the second-order rate constant k2 = (5.01 ( 0.23) 10-2 M-1 s-1.
+3-110	The activation parameters, ΔHq and ΔSq, determined by studying the kinetics over a 30 °C tem- perature range, are (13.8 ( 0.4) kcal mol-1and -(18 ( 4) cal mol-1K -1, respectively (Figure S15 in the Supporting Information).
+3-111	DHA-d4 (deuterated at aliphatic C-H bonds) reacts with 2a at a substantially slower rate than DHA, k2(DHA-d4) = (9.77 ( 0.25) 10-4M-1s-1.
+3-112	KIE, k2(DHA)/k2(DHA-d4), is 51 ( 1 at 298.0 K in CH3CN.[21]
+3-113	2a also reacts with CHD to give 3 and 0.4 equiv of benzene (80% yield), k2(CHD) at 298 K = 6.83 10-2 M-1 s-1.
+3-114	KIE = k2(CHD)/k2(CHD-d8) = 56 ( 2 at 298 K (Figure S16 in the Supporting Information).[21]
+3-115	The kinetics of the reaction of 2a with xanthene, fluorene, diphenylmethane, and triphenylmethane have also been studied, and the data are collected in Table 3.[22]
+3-116	The second-order rate constants are listed as k02, which is equal to k2 divided by the number of reactive H atoms in
+3-117	substrate T/K k02a/M-1 s-1 BDEs/kcal mol-1
+3-118	(3.08 ( 0.25) 10-4 b
+3-119	DHA 298.0 (1.25 ( 0.12) 10-2 78.023
+3-120	(2.44 ( 0.06) 10-4 c
+3-121	318.0 (6.21 ( 0.49) 10-2
+3-122	298.0 (3.08 ( 0.18) 10-3 d
+3-123	(1.05 ( 0.03) 10-4 c,d
+3-124	fluorene 298.0 (8.82 ( 0.51) 10-3 80.123
+3-125	(8.10 ( 0.35) 10-4 e
+3-126	317.5 (2.74 ( 0.16) 10-3
+3-127	a k20is equal to k2 divided by the number of active H atoms. b CHD-d8 was used. cDHA-d4 was used. d 2b (3.90 10-5 M) was used. e Fluorene- d10 was used.
+3-128	each substrate.
+3-129	For example, the number of reactive H atoms for xanthene and DHA are 2 and 4, respectively. ΔHqand ΔSqfor the reaction with diphenylmethane were found to be (20.7 ( 0.6) kcal mol-1 and -(4 ( 1) cal mol-1 K -1, respectively (Figure S18 in the Supporting Information).
+3-130	The KIE value for the oxidation of fluor- ene by RuIV, k2(fluorene)/k2(fluorene-d10) is (11 ( 1) at 298.0 K (Figure S19 in the Supporting Information).
+3-131	The kinetics for the reaction of DHA with 2b were also studied.
+3-132	In the presence of at least a 10-fold excess of DHA in CH3CN, clean pseudo-first-order kinetics were observed for over 3 half-lives.
+3-133	The pseudo-first-order rate constant, kobs, is independent of the concentration of RuIV but depends linearly on the concentration of DHA (0.01-0.04 M).
+3-134	The second-order rate constant k2 = (1.23 ( 0.07) 10-2 M-1 s-1 at 298 K, which is about 4 times slower than the reaction with 2a (Figure S20 in the Supporting Information).
+3-135	KIE, k2(DHA)/k2(DHA-d4), is (29 ( 2) at 298.0 K.[21] Analysis of the organic products by GC-MS indicated the formation of 0.7 mol equiv of anthracene and 0.3 mol equiv of PhSSPh; the yields are 70% and 60%, respectively, according to eq 8.
+3-136	ESI/MS of the solution after reaction shows a predominant peak at m/z 480, which is due to [Ru(NH3)(L)(NCCH3)]þ(Figure S21 in the Supporting Information).
+3-137	There are also minor peaks at m/z 504, 531, and 658; which may be tentatively assigned to [Ru(L)(NCCH3)2]þ, [Ru(SPh)(L)]þ, and [Ru{N(H)C 14H 10}(L)(NCCH3)]þ, respectively.
+3-138	These may account for some of the “missing” anthracene and PhSSPh not detectable by GC-MS (eq 8).
+4-001	The electrophilic (salen)ruthenium(VI) nitrido species 1 undergoes stepwise reactions with RSH to produce
+4-002	ruthenium(IV) sulfilamido, ruthenium(III) sufilamine, or ruthenium(III) ammine species, depending on the nature of R and the number of equivalents of RSH used (Scheme 1).
+4-003	Mechanism of the Formation of Ruthenium(IV) Sulfila- mido Species.
+4-004	The reaction of 1 with 1 equiv of RSH produces [RuIV{N(H)SR}(L)(NCCH 3)]PF6 (2a, R = tBu; 2b, R = Ph).
+4-005	A similar reaction occurs between cis- or trans-[OsVI(tpy)(N)(Cl)2]þ and 3,5-Me2C6H 3SH to produce cis- or trans-osmium(IV) sulfilimido species [OsIV(tpy){NS(H)C 6H3Me2}Cl2].[4]
+4-006	In the osmium case, the S atom is protonated rather than the N atom, with the ν(S-H) stretch occurring at 1944 and 2249 cm-1, respectively, for the cis and trans isomers.
+4-007	No ν(S-H) stretch can be found in the IR spectra of 2a or 2b.
+4-008	The observed second-order rate law and the small deuterium isotope effects suggest that the formation of ruthenium(IV) sulfilamido species occurs via a rate-limit- ing nucleophilic attack of RSH at RuVI tN followed by a proton shift.
+4-009	The less electron-rich aromatic thiols react faster than t BuSH by 2 orders of magnitude, probably because of larger steric effects of the tert-butyl group.
+4-010	The more negative ΔSq for the reaction of 1 with t BuSH (ΔHq = 10.7 ( 0.3 kcal mol-1; ΔSq = -17 ( 1 cal mol K-1) than with PhSH (ΔHq = 11.8 ( 0.5 kcal mol-1; ΔSq = -5 ( 1 cal mol K-1) reflects a more ordered transition state for the former reaction that is imposed by the more bulky tert-butyl group. 1 is 2 and 4 orders of magnitude more reactive than cis- and trans-[OsVI-(N)(tpy)Cl2]þ (k = 3.21 ( 0.06 M-1 s-1 and (3.60 ( 0.08) 10-2 M-1 s-1), respectively, in the reaction with 3,5-Me 2C 6H 3SH,[4] which is as expected because high- valent ruthenium complexes are, in general, more electro- philic/oxidizing than the corresponding osmium com- plexes.[25]
+4-011	Mechanism of the Formation of Ruthenium(III) Sulfila- mine and Ruthenium(III) Ammine Species.
+4-012	2a reacts with 1 equiv of RSH to produce 3 and 0.5 equiv of RSSR according to eq 2.
+4-013	The observed formation of RSSR and the deuterium isotope effect of 3.2 are con- sistent with a mechanism involving rate-limiting H-atom
+4-014	IV t abstraction (HAT) from RSH by [Ru {N(H)S Bu}(L)- þ 26 (NCCH 3)] .
+4-015	The aromatic thiols (PhSH and 3,5- t Me 2C 6H 4SH) react faster than BuSH by 3 orders of magnitude, which is likely due to a lower S-H bond dissociation energy (BDE) of the aromatic thiols (S-H t -1 BDE for PhSH and BuSH are 79.1 and 88.6 kcal mol , 27,28 q respectively).
+4-016	This is also reflected by a lower ΔH for q -1 the reaction with PhSH (ΔH = 13.6 ( 0.8 kcal mol ; q -1 t q ΔS = -6 ( 1 cal mol K ) than with BuSH (ΔH = -1 q -1 19.4 ( 0.4 kcal mol ; ΔS = -1 ( 1 cal mol K )
+4-017	2b also reacts with PhSH, but the product is the ruthenium(III) ammine complex 4 irrespective of the number of equivalents of PhSH used.
+4-018	A total of 1.5 equiv of PhSSPh is produced when 2 equiv or more of PhSH is used.
+4-019	No intermediate ruthenium sulfilamine species [RuIII{N(H)2SPh}(L)(NCCH3)]þ could be isolated or detected by ESI/MS.
+4-020	This reaction occurs with a deuter- ium isotope effect of 2.6, suggesting that the rate-limiting step also involves HAT.
+4-021	A proposed mechanism is shown in Scheme 2.
+4-022	The initial rate-limiting step involves HAT from PhSH
+4-023	(NCCH 3)]þ then abstracts a H atom from another mole- cule of PhSH to give the ruthenium(III) ammine product and PhS•.[29]
+4-024	Compound 4 can be prepared directly from the reaction of 1 with 3 equiv of PhSH; the overall reaction (eq 4) represents the reduction of RuVI tN to RuIII-NH 3 by PhSH.
+4-025	The reduction of a metal nitrido species to the ammine is a key process in biological and chemical nitrogen fixation.[30-37] This reduction process is usually carried out by using a combination of a proton source and
+4-026	a reducing agent.
+4-027	For example, [OsVI(N)Cl3(py) 2] and [OsVI(Tp)(N)Cl2] are reduced by SnCl 2 3H2O in HCl/
+4-028	(N)Cl2] can be reduced to the corresponding osmium(III) ammines by hydrochloric acid and zinc amalgam.[39,40]
+4-029	In the catalytic reduction of dinitrogen to ammonia by molybdenum catalysts bearing tetradentate triamido- amine ligands, a 2,6-lutidinium salt and decamethylchro- mocene are used to reduce the intermediate molybdenum nitrido species.[35]
+4-030	Mechanism of C-H Bond Activation by [RuIV- {N(H)SR}(L)(NCCH3)]þ.
+4-031	The observed ability of 2a and 2b to abstract H atoms from thiols such as t BuSH (BDE = 88.6 kcal mol-1)[27] or PhSH (BDE = 79.1 kcal mol-1) 28 suggests that they may also be able to abstract H atoms from hydrocarbons with weak C-H bonds.
+4-032	In- deed, 2a readily reacts with DHA to give 3 and anthracene with a KIE value of 51.
+4-033	Large KIE values are also observed for CHD and fluorene, which implies C-H cleavage in the rate-limiting step.[26]
+4-034	Two possible mechan- isms that are consistent with the observed kinetic results are initial rate-limiting HAT from RH by 2a and initial rate-limiting proton transfer from RH to 2a, followed by fast electron transfer.
+4-035	The latter mechanism has been found for the dehydrogenation of alkylaromatics by a strongly basic amidoruthenium complex trans-[-(DMPE) 2Ru(H)(NH2)].[41]
+4-036	In the present case, the kinetic data are more consistent with a HAT mechanism.
+4-037	For example, fluorene has a much lower pKa (22.6) than xanthene (30.0), yet it reacts 3 times slower with 2a, which is inconsistent with a proton-transfer mechanism.
+4-038	On the other hand, fluorene has a larger C-H BDE (80.1 kcal mol-1) than xanthene (75.5 kcal mol-1); hence, it should react more slowly than xanthene if the mechanism is HAT.
+4-039	Mayer and co-workers have shown that, for a number of HAT reactions, a linear correlation occurs
+4-040	23,26,42-44
+4-041	between log(rate constant) and BDE.
+4-042	In this case, a plot of log k02 vs C-H BDE of the hydrocarbons (Figure 7) shows a good linear relationship for xanthene, CHD, DHA, and fluorene.
+4-043	However, the more bulky diphenylmethane and triphenylmethane react much more slowly than expected from their BDEs; simple molecular modeling shows that there is substantial steric hindrance for HAT by 2a and 2b from these substrates.
+4-044	The larger ΔSq for diphenylmethane (ΔHq = 20.7 ( 0.6 kcal mol-1;
+4-045	ΔSq = -4 ( 1 cal mol-1 K-1) than for DHA (ΔHq = 13.8 ( 0.4 kcal mol-1; ΔSq = -18 ( 4 cal mol-1 K -1) may be interpreted as arising from a larger reorganization of ruthenium(IV) in the reaction with diphenylmethane to give a more open structure in the transition state for HAT.
+4-046	Steric effects in HAT have also been observed in the oxidation of phenols[45] and hydroquinones[46] by ruthe- nium oxo complexes.
+4-047	Although a linear correlation be- tween log(rate constant) and BDE is observed, the slope of the linear plot is -0.09, which is much smaller than the theoretical slope of -0.36 (for small ΔG°) predicted by the Marcus cross relation.[47,48]
+4-048	This seems to argue against a
+4-049	HAT mechanism.
+4-050	However, the range of BDE of the substrates in the linear plot is 2StBu}(L)(NCCH3)]þ cannot be deter- mined because of irreversible CV of [RuIV{N(H)StBu}-(L)(NCCH 3)]þ; hence, ΔG° for HAT is not known.
+4-051	We are currently investigating HAT reactions of more reac- tive and less hindered ruthenium(IV) amido complexes so that substrates with a wider range of BDE can be inves- tigated without complications from steric effects.
+5-001	The electrophilic (salen)ruthenium(VI) nitrido species 1 undergoes stepwise reactions with RSH to produce the first examples of sulfilamido and sulfilamine complexes of ruthenium.
+5-002	The direct reduction of 1 to [RuIII(NH3)(L)-(CH3CN)]þ with PhSH also represents a new method for the conversion of a nitrido species to an ammine.
+5-003	The ruthenium(IV) sulfilamido species, generated from the addi- tion of 1 equiv of RSH to 1, is able to abstract H atoms from hydrocarbons containing weak C-H bonds.
+5-004	Our preliminary results show that similar ruthenium(IV) species, generated from the addition of 1 equiv of various other nucleophiles such as PPh3 or 2,3-dimethyl-2-butene,[9] are also able to abstract H atoms from hydrocarbons.
+5-005	Thus, a new class of C-H bond-activating reagents can be readily obtained by the treatment of RuVItN with a suitable nucleophile.

@@ -1,0 +1,153 @@
+# document_id: jo102133m
+# extractor: kordoc-markdown-adapter-1
+1-001	Photodissociation of aldehydes represents an important source of free radicals in the lower atmosphere and thus may significantly influence the atmospheric oxidation capacity.[1] n- Hexanal and higher aldehydes have been observed in ambient air and in emissions of various plants, especially grasses, with comparable emissions rates as the monoterpenes.[2]
+1-002	The examina- tion of longer chain aldehydes has recently come into the research focus, providing quantum yield and decomposition patterns data necessary for atmospheric modeling.[3-9] This is the first reported study on the photolysis of n-octanal.
+1-003	Aliphatic aldehydes exhibit a weak absorption band in the wavelength range 240-360 nm as a result of a symmetry forbidden n-π* transition.[10,11]
+1-004	There have been a number of studies devoted to the photodissociation of the simplest alkyl aldehydes, such as HCHO, CH3CHO, and C2H 5CHO,[12-20] and a recently growing number devoted to longer chain aldehydes,
+1-005	r 2011 American Chemical Society
+1-006	such as C3 H7CHO, C4 H9 CHO,[3,21] isopentanal and tert- pentanal,[5] n-hexanal,[6,7] and n-heptanal.[7-9]
+1-007	n-Hexanal and n-heptanal photodissociation patterns[6-9] and reaction schemes for n-pentanal[3] suggest that processes 1 and 2 play an important role in the photolysis of longer chain alde- hydes:
+1-008	n-octanal þ hv f n-C 7H 15 þ HCO ð1Þ
+1-009	ðNorrish type IÞ
+1-010	f C6 H12 þ ½CH2 ¼ CHOH ð2Þ
+1-011	ðNorrish type IIÞ
+1-012	Process 1 represents the fragmentation into free radicals, with an enthalpy of around 350 kJ/mol, corresponding to a photo- chemical threshold of around 340 nm.[3]
+1-013	Process 2, which is
+1-014	Received: November 9, 2010
+1-015	Published: February 14, 2011
+1-016	common to molecules with a γ-hydrogen atom, is an intramole- cular rearrangement with enthalpy around 80 kJ/mol (λ e 1454 nm).[3]
+1-017	The enthalpy change for process 2 was calculated assuming that the keto form of acetaldehyde is formed in the primary step.
+1-018	This assumption is not correct, and therefore, the enthalpy change for this reaction should be adjusted for the difference between the heats of formation of enol and keto forms of acetaldehyde (the equilibrium constant for keto-enol equilibrium is 5 10-6, and the corresponding ΔG value is ∼70 kJ/mol).[22]
+1-019	The total contribution of the Norrish I and II processes in the cases of n-butanal, n-pentanal, n-hexanal, and n-heptanal photolysis is, however, less than 100%, indicating a further reaction pathway (the calculation is made on carbon balance data).[4,6,9]
+1-020	In this paper, the results obtained from the photolysis of small quantities of n-octanal in air, using wide band emission lamps, are reported together with theoretical investigation of the reactions of triplet aldehyde that results from photoexcitation using density functional theory.
+1-021	We have investigated the products and abso- lute quantum yields in the pressure range 100-700 Torr.
+2-001	The photooxidation experiments were carried out in a long- path quartz cell with detection of precursors and products by FTIR spectroscopy.
+2-002	After identification and quantification of the products, a mechanistic description of the photooxidation/ photolysis is proposed.
+2-003	From the measured decay rate of the starting material, and from the knowledge of the absorption spectrum, overall quantum yields for the photolysis were calcu- lated for various pressures.
+2-004	step.
+2-005	Ethenol partial pressure reaches maximum and then decreases by conversion to acetaldehyde.
+2-006	the quantification, is fairly weak, resulting in a large uncertainty in
+2-007	the 1-hexene concentration at the beginning of the photolysis,
+2-008	and the first two points have been omitted from the plot.
+2-009	1-Hexene is formed exclusively as a primary product in the reaction.
+2-010	Acetaldehyde is secondary product arising from ethenol conversion, and it undergoes further photolysis, which was described in our previous work on n-pentanal.[4]
+2-011	This time, only
+2-012	the identification of acetaldehyde was done.
+2-013	Norrish type I reaction gives two radicals, which immediately
+2-014	react with oxygen.
+2-015	One of the products, formyl radical HCO, is quantitatively converted to CO and HO2 ,[12,23,24] according to
+2-016	HCO þ O 2 f HO2 þ CO ð3Þ
+2-017	This process is followed through the rate of production of CO (2094-2096 cm-1).
+2-018	The n-heptyl radicals are oxidized forming n-heptylperoxy radicals
+2-019	n-C7 H15 þ O2 þ M f n-C7 H15O 2 þ M ð4Þ
+2-020	The n-C7 H15O 2 radicals subsequently react with HO2 , re- combine, or disproportionate to produce a variety of products (reactions 5-8).[25,26]
+2-021	7,[26] the major expected product is n-heptyl hydroperoxide
+2-022	(n-C 7H 15OOH).
+2-023	This peroxide was not observed in the FTIR spectrum.
+2-024	Either its concentrations were under the detection
+2-025	limit (∼1 mTorr) or the signals interfered with those of other compounds.
+2-026	No evidence of n-heptanal produced via channels
+2-027	7 and 8 was observed.
+2-028	1-Hexene is a stable molecular species and was used to calculate
+2-029	the rate of the Norrish type II process.
+2-030	The coproduct of the
+2-031	reaction is ethenol CH2dCHOH, which tautomerizes slowly to acetaldehyde.
+2-032	This is clearly seen in Figure 2, where the peak integral-time profile of the enol product displays the behavior of a primary product involved in a secondary reaction.
+2-033	Ethenol concentration reaches a maximum after ∼40 min photolysis, and its subsequent decay is caused by its conversion to acetaldehyde.
+2-034	Figure 3 shows profiles of product concentrations (partial pressures) of CO and 1-hexene versus loss of n-octanal.
+2-035	According to the suggested mechanism, the yield of 1-hexene should be identical to the sum of the yields of ethenol and acetaldehyde, since all compounds are products of the same decomposition channel.
+2-036	CO originating from the reaction of HCO radical with oxygen can be treated as a primary product, but an increase in the yield at long conversion times is observed, which can be attributed to the photolysis of secondary products such as acetaldehyde, n-heptanal, etc.
+2-037	Theoretically, another possible source of CO could be the reaction
+2-038	n-C8 H16O þ hv f n-C7 H16 þ CO ð9Þ
+2-039	n-octanal n-heptane
+2-040	The stable product of this reaction, n-heptane, was not identified in our experiments.
+2-041	Decarbonylation was not observed in the recent similar investigation of n-heptanal photolysis.[8]
+2-042	The relative probability for n-octanal molecules to undergo two detected decomposition channels is shown in Table 1.
+2-043	The probability is deduced from the ratio of primary formed CO (Norrish type I) and 1-hexene (Norrish type II).
+2-044	Assuming that the formation of CO2 is an artifact, the sum of both processes Norrish type I and II is 41 ( 7%, indicating the presence of other unidentified product channels.
+2-045	n-Octanal molecules could undergo photocyclization, forming cis/trans isomers of 2-butylcyclobutanol (Scheme 1).
+2-046	This me- chanism is observed in the photolysis of n-pentanal[27] and some ketones[7] and suggested as the important one in the photolysis of n-heptanal accounting for ∼30% of the total product yields.[8]
+2-047	These compounds were not detected in our experiments.
+2-048	Absolute Quantum Yields.
+2-049	One of the objectives of the study was to determine the dependence of the absolute quantum yield on the total pressure. n-Butanal was used as the actinometer, with absolute quantum yields recently reported.[4]
+2-050	From the decay of n-octanal concentration (partial pressure), the photolytic rate constants were deduced for the different pressures by plotting
+2-051	Undergo Different Decomposition Channels (Errors Are
+2-052	Represented by Experimental Scatter)
+2-053	the natural logarithm of concentration versus time (first order decay) and performing a least-squares fit.
+2-054	From these results, overall quantum yields were calculated according to eq 10 using the overlap integrals of n-octanal and n-butanal spectra (integral equals unity) within the range of the TL/12 emission (275-380 nm).
+2-055	ΦintðCÞ ¼ KphotðCÞ ð10Þ ΣOVðCÞ
+2-056	KphotðOVÞ int
+2-057	ΣOVðActÞ Φ ðActÞ
+2-058	In all cases, the absolute quantum yield dependency on the total pressure was observed.
+2-059	Measurements of all n-alkanal cross sections from C2-C9 have been performed recently by Zabel et al.[28] This study reveals that the UV spectra of the aldehydes from n-butanal upward are practically identical.
+2-060	The absolute quantum yields data are summarized in Table 3 for all experiments performed at total pressures of 100, 300, 500, and 700 Torr and are also shown in form of the Stern-Volmer plot in Figure 4.
+2-061	Since the intercept at zero pressure is not equal to 1 (the intercept is 2.4 ( 0.1), which should be the case if collisional deactivation was the only relaxation process besides the photo- decomposition, it seems very probably that there are other energy-dissipating processes (the triplet state of n-octanal could deactivate by phosphorescence, etc.).[6]
+2-062	The interaction of the photoexcited molecules with the walls, resulting in the relaxation to the ground state, is of minor importance because of the huge volume-to-surface ratio of the reaction cell.
+2-063	The slope of the fitting line, described by (1.061 10-3)P, corresponds to the sensitivity of absolute quantum yield on the total pressure P (in Torr).
+2-064	The total quantum yield Φtot can be calculated from the following eq 1/Φtot = 2.368 þ (1.061 10-3)P. Using the
+2-065	expected to be in line with these measurements, resulting in the reactive lifetime of 5-7 h under atmospheric conditions (average noontime OH concentration of 2 106 molecules cm-3 was used).
+2-066	Maximum daytime photolysis rates for n-butanal and n- pentanal were estimated during in situ measurements in the photochemical outdoor reactor,27as kph,b= (1.0 ( 0.2) 10-5 s -1 for n-butanal and kph,p = (1.6 ( 0.15) 10-5 s -1 for n-pentanal, corresponding to a photolytic lifetime of 28 and 17 h, respec- tively.
+2-067	Our previous work on other homologous aldehydes and this study reveals similar behavior of n-octanal, n-heptanal,[9] n- hexanal,[6] and n-pentanal[4] photolysis parameters under labora- tory conditions, including absolute quantum yield values, sensi- tivity on total pressure, and Norrish type I/II ratio.
+2-068	This would indicate that the dominant removal process in the lower tropo- sphere for n-octanal, as for other homologous aldehydes, is the reaction with OH radicals but that photolytic processes still take some part in the degradation.
+2-069	The absolute radical yield at atmospheric conditions can be estimated for n-octanal as 7.01 0.32 = 2.2%.
+2-070	If quantum yields for aldehydic compounds values are not known (e.g., for the use in atmospheric modeling), it is common to assume that they are unity, which is seldom the case as shown in this, and previous studies.[3-6,27] This often leads to an overestimation of the calculated radicals produced by photolysis.
+2-071	Theoretical Studies.
+2-072	The optimized structures (triplet n-octanal, transition structures, and selected biradicals) of impor- tance for hydrogen abstraction and R-cleavage are shown in Scheme 2, along with the zero-point energy corrected barrier heights (in kcal/mol).
+2-073	In comparing the feasibility of the carbonyl oxygen to extract a β-, γ-, δ-, or ε-hydrogen, it is clear that the highest barrier heights correspond to the five- and eight-membered ring transition structures (β- and ε-H).
+2-074	The five- membered TS involves significant angle strain to achieve the hydrogen-transfer geometry, while some unfavorable torsional interactions destabilize the eight-membered TS.
+2-075	Furthermore, R-cleavage is also a high-energy process, relative to γ- and δ-hydrogen abstraction, involving a 11.2 kcal/mol barrier height.
+2-076	estimated absolute yield from Table 2 and quantum yield value from Table 3, it is possible to calculate the absolute contribution at atmospheric conditions (700 Torr): for Norrish type I (radical) process, j(I) = 0.022 ( 0.002 and Norrish type II (molecular) j(II) = 0.108 ( 0.002 (total quantum yield being 0.32, and a contribution of both decomposition channels being 41 ( 7%).
+2-077	Comparison with other aldehydes (Table 3) shows that n- pentanal, n-hexanal, n-heptanal, and n-octanal have similar dependencies on the total pressure of synthetic air.[4,6,9]
+2-078	The sensitivity of the quantum yield on the total pressure (Torr) is described by the slope of the curve in Stern-Volmer plot and was 1.061 10-3, 1.169 10-3, 4.758 10-4, 7.771 10-4, and 1.931 10-3 for n-octanal, n-heptanal, n-hexanal, n-penta- nal, and n-butanal, respectively.[4,6,9] n-Octanal is more or less in the line of n-heptanal, n-hexanal, and n-pentanal; n-butanal sensitivity is somewhat higher, which also accompanied with the substantially different Norrish type I/II ratio.
+2-079	This may point to the different spin-state distributions upon the photoexcitation.
+2-080	Future work on the photolysis of the longer chain aldehydes should concentrate on the determination of the spin states of photoexcited molecules as precursors of Norrish type I and II processes and on the analysis of other possible products, since ∼60% of the initial aldehyde cannot be accounted for by Norrish type I and II reaction mechanisms.
+2-081	There is no conclusive evi- dence for the formation of cyclobutanol derivatives, and further examination of the subject should be performed.
+2-082	Possible examinations of the absolute quantum yield dependency on the low pressures of pure oxygen may reveal new information.
+2-083	The triplet ground electronic state of oxygen means that reaction pathways proceeding from the lowest triplet of the aldehyde (T1 ) would be probably quenched more efficiently than the ones proceeding from the vibrationally excited ground singlet (S0*) or eventually from the first excited singlet (S1 ).
+2-084	Thus, a stronger dependence of the decomposition parameters on oxygen pres- sure may be observed.
+2-085	The main degradation processes of carbonyl compounds are controlled by photolysis and by the reaction with OH radicals.
+2-086	The atmospheric lifetime of n-octanal can be estimated from the knowledge of the OH reaction rate constant and the photo- dissociation rate.
+2-087	Unfortunately, the rate constant for OH reaction is not available.
+2-088	The rate constants for the OH reactions
+2-089	The Journal of Organic Chemistry ARTICLE
+2-090	Different Pressures of Synthetic Air (Errors Are Represented by Experimental Scatter)
+2-091	absolute quantum yield total pressure (Torr) : n-octanal n-heptanal[9] n-hexanal[6] n-pentanal[4] n-butanal[4]
+2-092	aTriplet biradicals generated by γ-H and δ-H abstraction are also shown.
+2-093	Although γ-hydrogen abstraction has the lowest barrier height only 0.7 kcal/mol above the γ-H channel.
+2-094	Both of these (6.9 kcal/mol), the transition structure for δ-H abstraction lies TSs involve transition states with almost perfect chairlike
+2-095	arrangements of the heavy atoms in the six- and seven-membered transition structures.
+2-096	We also calculated the relative energies of the cyclized biradicals 3BR-γ and 3BR-δ and ground-state products formed by cyclization of these biradicals.
+2-097	The biradicals are slightly higher in energy than the triplet aldehyde, but rapid inter- system crossing to the singlet and cyclization is expected to occur.
+2-098	The relative energies of the cis- and trans-cyclopentanols (from cyclization of 3BR-δ) are -65.7 and -65.9 kcal/mol, respectively.
+2-099	The cleavage of the 3BR-γ yields 1-pentene and hydroxyethylene at a relative energy of -35.5 kcal/mol.
+2-100	Furthermore, the cyclization of 3BR-γ yields the cis- and trans-cyclobutanols at relative energies of -48.7 and -51.4 kcal/mol, respectively.
+2-101	The theoretical prediction of a high barrier for the Norrish type I reaction does not agree with the significant amount of this reaction observed experimentally.
+2-102	The R-cleavage may possibly also occur from the singlet state.
+2-103	The results of the theoretical investigation are in good agree- ment with experimental findings in terms of importance of Norrish type II channel.
+2-104	Another channel very likely to occur, δ-H abstraction pathway, is not detected in our experiments.
+2-105	The lack of standards and the limitations of our experimental method prevented the detection of possible products of this channel— derivatives of cyclopentanol.
+2-106	Such products were postulated in other similar experiments with n-heptanal.[8]
+3-001	Whereas simple aldehydes with up to four carbons undergo photochemical decomposition by Norrish type I reactions to form formyl and alkyl radicals,[4,6,27] higher aldehydes mainly decompose by the Norrish type II reaction, forming vinyl alcohol and the corresponding 1-alkene.
+3-002	Our study of n-octanal photo- lysis shows that the Norrish type II reaction is favored over the type I reaction.
+3-003	Theoretical calculations also show that the Norrish type II channel is favored.
+3-004	However, the decrease of the absolute yields of Norrish type I and II processes indicates that other, so far unidentified, processes become more and more important in the photolysis of longer chain aldehydes.
+4-001	The apparatus employed in this work has been described else- where[31,32] and will be briefly discussed here.
+4-002	The central part of the apparatus is a 44.2 L (1.40 m length and 20 cm diameter) quartz cell equipped with two independent sets of White-optic mirror arrange- ments.
+4-003	Sapphire-coated aluminum mirrors were used in the infrared region (l = 33.6 m) for the measurements of the educts and products.
+4-004	Infrared spectra at 0.5 cm-1 resolution (450-4000 cm-1) were measured with a Bomem DA8-FTIR spectrometer.
+4-005	This method provides the possibility of simultaneous detection and monitoring of all the IR-active products and the starting material.
+4-006	Photolysis was achieved with six radially mounted lamps, TL/12-sunlamps (Philips 40W TL/12 lamps (275-380 nm).
+4-007	Spectra were taken every 5-10 min with a total irradiation time of 30-50 min.
+4-008	The extent of the conversion of initial compound was approximately 30%.
+4-009	Experiments were carried out at room temperature (298 K) at pressures between 100 and 700 Torr (1 Torr = (101325/760)Pa), with an initial concentrations of approximately 100 ppm.
+4-010	Qualitative and quantitative data evaluation was carried out by comparing the product spectra with reference spectra obtained in the same cell and using calibration curves at corresponding pressures and resolution.
+4-011	Carbonyl compounds were obtained from a commercial supplier with purity
+4-012	higher than 98%.
+4-013	Before use, all samples were degassed by several freeze-pump-thaw cycles.
+4-014	The purity of the compounds was checked by FTIR spectral measurements, and no impurities were found.
+4-015	The calibration of vinyl alcohol was done indirectly, from the amount of formed acetaldehyde and the converted vinyl alcohol (peak decrease), since the conversion of these compounds is 1:1 (keto-enol tauto- merism) according to
+4-016	CH2 ¼ CH-OH T CH3-CHdO
+4-017	Quantum Mechanical Methods.
+4-018	Quantum mechanical calcula- tions were carried out using the Gaussian 09 suite of programs.[33]
+4-019	Density functional theory at the UB3LYP/6-31G* level of theory was used to obtain structure and energetic information along the triplet-state reac- tion coordinate.[34-36] All relative energies reported are zero-point energy (ZPE) corrected.
+4-020	Vibrational frequency calculations were also used to confirm that minimum energy structures have no imaginary frequencies, and transition structures (TS) have the appropriate imaginary frequency for R-cleavage (type I) or H-abstraction (type II).

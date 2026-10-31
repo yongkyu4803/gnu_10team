@@ -1,0 +1,190 @@
+# document_id: ic901071v
+# extractor: kordoc-markdown-adapter-1
+1-001	In the last couple of decades, there has been a tremendous interest in designing artificial peptidases for protein sequen- cing[1,2] and footprinting,[3] proteomics,[4] bioanalytical analy- sis,[5] and bioengineering of proteins.[6]
+1-002	These applications require fragments of peptides derived either from residue- selective or sequence-specific hydrolytic cleavage processes.
+1-003	For instance, the cleavage of any X-Y bond in an X-Y-Met segment is residue-selective, while the splitting of the only X-Pro bond in an X-Pro-Met- fragment is
+1-004	*To whom correspondence should be addressed.
+1-005	Telephone: 305-284-9372.
+1-006	Fax: 305-284-4571.
+1-007	E-mail: rpr@miami.edu.
+1-008	sequence-specific (X and Y are amino acid residues and Met = methionine and Pro = proline).[7]
+1-009	In the past few years, several transition metal (Pd, Pt, Zn, Cu, Co, and Fe) complexes have been synthesized to hydrolyze the amide bond under milder conditions.[1,8-20] In
+1-010	r 2009 American Chemical Society
+1-011	particular, in weakly acidic aqueous solutions, various Pd(II) ion-containing metal complexes, such as [Pd(H2O)4]2þ (I), have been reported to anchor Met and His residues and to hydrolyze the proximal peptide bond.[2,21-25] In I, the Pd(II) ion has been shown to anchor Met and His residues in X-Y-Met and -His sequences, respectively, and to cleave the proximal X-Y (Gly-Gly, Gly-Pro, and Gly-Sar) peptide bond (Gly = glycine and Sar = sarcosine).[1,26]
+1-012	In this pro- cess, the selectivity of the cleavage is guided by the anchoring residues (Met or His), and the scissile bond-generating residues (X and Y) do not influence the coordination of the
+1-013	Inorganic Chemistry, Vol. 49, No. 1, 2010 39 Pd(II) ion to Met or His.[27-36] Furthermore, the cleavage of the X-Y peptide bond is quite general and irrespective of the nature of X and Y (aliphatic or aromatic, polar or nonpolar, and charged or neutral) in every X-Y-Met and X-Y-His sequence the X-Y bond was activated.[37]
+1-014	It was found that the tertiary peptide bond X-Pro in X-Pro-Met and X-Pro-His segments at pH = 2.0 is cleaved much faster than the secondary peptide bond X-Gly in X-Gly-His and X-Gly- Met segments.[37]
+1-015	The adjustment in pH can transform this process from residue selective to sequence specific.[1]
+1-016	For instance, in acidic aqueous solutions, the cleavage is residue selective because it is directed by the anchoring residues (Met and His), while in mildly acidic and neutral solutions, due to the involvement of the Pro residue, the cleavage becomes specific to X-Pro-His and X-Pro-Met sequences.[1]
+1-017	The hydrolysis of the Gly-Pro peptide bond of the Gly-Pro-Met sequence by I can be represented by the following overall reaction:
+1-018	Gly-Pro-Met þ H2O f Gly-COOH þ NH2-Pro-Met
+1-019	The experimentally proposed mechanism of reaction 1 catalyzed by I is described in Figure 1.[1]
+1-020	In the first step, an aqua ligand of I is displaced, and the S atom of the anchoring Met residue of the substrate (R-Gly-Pro-Met-) interacts with the Pd(II) ion to generate a monodentate complex [Pd(H2O)3{(Gly)-(Pro)-(Met-κS)}]2þ (IIPM), where the sub- script PM denotes the Pro-Met peptide.
+1-021	This binding is important to achieve the regioselectivity in the coordination of I to the R-Gly-Pro-Met peptide.
+1-022	In the second step, the nitrogen (N) atom in the amide backbone of Met is depro- tonated by the anchored Pd(II) ion to form the Pd(II)-N bond, and a hydronium ion (H3Oþ) is released.
+1-023	The presence of the Pd(II) ion significantly lowers the pKa for this depro- tonation to less than 2.0, which in the absence of metal ions is estimated to be ca. 15.[29,31]
+1-024	Pd is known to be the most efficient transition metal ion in deprotonating the secondary amide group and the subsequent binding to the amidate
+1-025	27-32,38,39
+1-026	anion.
+1-027	This process leads to the generation of a reactive bidentate complex [Pd(H2O)2{(Gly)-(Pro)-(Met-κS,κN)}]1þ (IIIPM), Figure 1.
+1-028	This structure exists at pH values between 5 and 7.[1]
+1-029	Based on NMR studies, the active bidentate complex IIIPM has been proposed to utilize the following two plausible mechanisms for the hydrolysis of the amide bond: (1) external
+1-030	attack and (2) internal delivery.[1]
+1-031	In the cleavage by the conformation, the carbonyl carbon atom is facing the Pd(II) external attack mechanism (Figure 1), from IIIPM, the oxy- ion.
+1-032	The measured rate constants at pH 2.0 and 60 °C for the gen atom (O) bound to the R-carbon atom (CR) of the scissile cleavage of the tertiary peptide bonds, Gly-Pro bond in bond interacts with the anchored Pd(II) ion, and the system R-Gly-Pro-Met sequence, Gly-Pro bond in R-Gly-Pro- adopts a trans conformation.
+1-033	In this conformation, the His sequence and Gly-Sar bond in R-Gly-Sar-Met peptide, carbonyl oxygen atom is oriented toward the Pd(II) ion. and the secondary Gly-Gly peptide bond in R-Gly-Gly-Met
+1-034	R -2 -2 -2 -3
+1-035	The interaction between the Pd(II) ion and C atom increases peptide is 6.0 10 , 9.4 10 , 1.4 10 , and 2.8 10
+1-036	the electrophilicity of the latter and activates it for an attack min-1, respectively, which corresponds to barriers of 24.0, by an external water molecule.[31,40]
+1-037	In this mechanism, in a 23.8, 25.0, and 26.1 kcal/mol, respectively.[1]
+1-038	The measured concerted manner, the proton and the hydroxyl group of the rate constants were converted into barriers using the Arrhe- activated water molecule are abstracted by the N and CR, nius equation (k =Ae-Ea/RT, where A is the pre-exponential respectively, to cleave the scissile peptide bond (Gly-Pro). factor, Ea is the activation energy, R is the gas constant, and Here, the Pd(II) ion functions as a Lewis acid.
+1-039	On the other T is the temperature).
+1-040	The basicity of the amino group and hand, in the cleavage by the internal delivery mechanism, an the metal-binding ability of the amide oxygen atom have been aqua ligand coordinated to the Pd(II) ion is activated to suggested to contribute to the observed differences in the rate hydrolyze the amide bond.
+1-041	In this mechanism, the anchored constants.[1,40]
+1-042	Among these peptides, the nitrogen atom of Pd(II) ion does not coordinate to the carbonyl oxygen atom, Pro has the most basic amino group (pKa = 10.96) and and the amide bond adopts the cis conformation.
+1-043	In this exhibits the greatest propensity for the cleavage.
+1-044	The TOCSY and ROESY 1H NMR spectra of the R-Gly-Pro-Met
+1-045	38, 1-23. indicated that in IIIPM the Gly-Pro sequence exists in
+1-046	trans conformation that supports the external delivery me- chanism.[1]
+1-047	Chin J. et al. reported that the hydrolysis of p-nitrophenyl acetate by the Zn-monoaqua complex could occur through either the external attack or the internal delivery mechanism, but they are kinetically indistinguishable.[41,42]
+1-048	Sutton et al.also investigated the hydrolysis of amino esters and peptides promoted by the Co(III) complexes through these mechan- isms and concluded that they cannot be distinguished by purely kinetic methods.[17]
+1-049	In this aspect, theoretical calcula- tions can make an important contribution in discriminating between these two reaction pathways.
+1-050	These calculations have been successfully applied to investigate reaction me- chanisms of several complex organometallic systems.[43-46] Therefore, based on the experimental information, we have performed B3LYP calculations to elucidate the mechanisms of the cleavage of four different peptide bonds, i.e., the Gly-Pro bond in Gly-Pro-Met, the Gly-Sar bond in Gly-Sar-Met, the Gly-Gly bond in the Gly-Gly-Met, and Gly-Pro bond in the Gly-Pro-His peptide.
+1-051	Furthermore, in order to investigate the role of the metal ion, the energetics for the cleavage of the Gly-Pro bond in the Gly-Pro-His peptide were also computed by substituting the Pd(II) ion with the Pt(II) ion.
+1-052	The calculations performed in the present paper not only allow detailed study of individual steps of the mechanism but also provided energetics and structures of all short-lived inter- mediates and transition states.
+1-053	The specific mechanistic information gleaned from this study, such as the roles of the metal-bound water molecule, metal ion, and anchoring residues, will enhance our understanding of the functioning of the Pd metal center containing complexes and advance efforts in designing more efficient catalysts through modifi- cations in the substrate, metal ion, and ligands.[47-49]
+2-001	A. Methods.
+2-002	All calculations were performed using the Gaussian 03 program.50The geometries of reactants, intermedi- ates, transition states and products were optimized without any symmetry constraints at the B3LYP/Lanl2dz level of theory with additional d polarization functions for the S atom (R=0.55) and the corresponding Hay-Wadt effective core
+2-003	Inorganic Chemistry, Vol. 49, No. 1, 2010 41 potential (ECP) for Pd.[51-53] The final energies of the optimized structures were further improved by performing single-point calculations including additional d and p polarization functions for O (R=0.96), N (R=0.74), C (R=0.59), and H (R=0.36) atoms, respectively, (taken from the EMSL’s Gaussian basis set library) in the basis set used for optimizations.
+2-004	The dielectric effects from the surrounding environment were estimated using the self-consistent reaction field IEF-PCM method[54] at the B3LYP/Lanl2dz level with d polarization functions for the S atom.
+2-005	These calculations were performed at 298.15 K, and the dielectric constant of 78.39, corresponding to water, was used.[55]
+2-006	In general, when models with the same charge are used, the relative dielectric effects are not very sensitive to the methods used or to the value chosen for the dielectric constant.[43,56]
+2-007	However, due to the formation and dissociation of a hydronium ion (H3Oþ), the models with different charges have been used in the generation of the active bidenate complex, i.e., I f III process.
+2-008	In this process, the solvents were found to exert unusually large dielectric effects (ca. 40.0-60.0 kcal/mol) on the computed energies.
+2-009	Since the com- puted solvent effects are unreliable in the I f III process, B3LYP/{Lanl2dz þ d(S,O) þ p(H)} energies including zero point vibrational (unscaled), thermal (at 298.15 K and 1 atm.) and entropy corrections (at 298.15 K) are reported.
+2-010	However, in the III f IV process that represents both “external attack” and “internal delivery” mechanisms, models with the same charge have been used and the computed solvents effects are generally within the 2-5 kcal/mol range.
+2-011	Therefore, for this process the energies obtained at the B3LYP/{Lanl2dz þ d(S,O) þ p(H)} þ zero-point energy (unscaled), thermal and entropy corrections (at 298.15 K and 1 atm.) þ solvent effects in water are discussed, while the energies without solvent effects are provided in parentheses.
+2-012	B. Models.
+2-013	The available experimental information was fully incorporated in building models for the calculations.
+2-014	In the [Pd(H 2O)4]2þ (I)-substrate complexes, tripeptide models of the substrates, including anchoring, and peptide bonds donating amino acid residues were utilized.
+2-015	For instance, to investigate the cleavage of the Gly-Pro peptide bond of the R-Gly-Pro-Met substrate, the Gly-Pro-Met tripeptide was used.
+2-016	Both Pro and Met residues including their backbones were utilized, while Gly was modeled as the acetyl (-COCH3 ) group.
+2-017	The charge on all the systems is þ1, and they exist in the singlet spin state.
+3-001	The reaction 1 is calculated to be slightly endergonic (ΔG = 2.0 (0.29) kcal/mol).
+3-002	In the present B3LYP study, mechanisms for the hydrolytic cleavage of the Gly-Pro bond in the Gly-Pro-Met peptide, the Gly-Sar bond in the Gly-Sar- Met peptide, the Gly-Gly bond in the Gly-Gly-Met peptide, and the Gly-Pro bond in the Gly-Pro-His peptide catalyzed by I have been investigated.
+3-003	The entire mechanism is divided in the following two parts: (1) generation of the reactive
+3-004	bidentate complex and (2) cleavage of the peptide bond.
+3-005	In the first part, from I, generation of the active bidentate complex, through the monodentate complex, for all the aforementioned peptides have been studied (see Supporting Information).
+3-006	It was found that the nature of the substrate influences the energetics of this complex (Table 1 in the Supporting Information).
+3-007	The effects of the electronic nature of the Pro, Sar, and Met residues on the computed bond length of the scissile peptide bond were also investigated.
+3-008	In the presence of the Pro residue, the N[1] atom becomes more electronegative, and there is a large charge separation of 0.59e and 0.57e in the N[1]-C[2] peptide bonds for the Gly-Pro-Met and the Gly-Pro-His peptides, respectively, in the trans conformation (Table 1).
+3-009	The substitution of Pro with the electron-donating Sar residue in the Gly-Sar-Met sequence reduces it by 0.10e.
+3-010	Furthermore, the existence of Gly in the Gly-Gly-Met peptide significantly decreases it by 0.24e.
+3-011	Since the abstraction of a proton from the Pd(II)-bound water molecule by the N1atom initiates the cleavage of the peptide bond, the excess of negative charge on this atom in the presence of Pro may contribute to the faster splitting of the tertiary peptide bonds.
+3-012	Interestingly, these charge differences were not found to influence the N[1]-C[2] bond length, which remained around 1.34 A for all the peptides (Table 1).
+3-013	After the creation of the bidentate complex, the hydrolysis of all the peptide bonds has been studied.
+3-014	Throughout the paper, first the energies of the Gly-Pro-Met sequence are discussed followed by the comparisons with the remaining peptides.
+3-015	IIIa.
+3-016	Cleavage of the Peptide Bond.
+3-017	After the genera- tion of the active bidentate complex, the peptide bonds can be cleaved through the following two mechanisms: (1) the external attack and (2) internal delivery.
+3-018	IIIa1.
+3-019	External Attack Mechanism.
+3-020	In this mechanism, the Pd(II) ion functions as a Lewis acid and activates the peptide bond for hydrolysis by an external water mole- cule.
+3-021	Here, the N[1]-C[2] bond between the Gly and Pro residues in the Gly-Pro-Met sequence of IIIPM-E (where subscript -E denotes the structures formed in the external attack mechanism) is activated through the coordination of the O[5] atom of the Gly residue with the Pd(II) ion (Pd-O[5] = 2.14 A), Figure 2.
+3-022	A tetra-coordinated metal center containing IIIPM-E was confirmed to be the en- ergetically most stable conformation.
+3-023	The penta-coordi- nated structure in which the Pd(II) ion weakly interacts with the O[5] atom at the axial position was found to be 17.6 and 17.8 kcal/mol (in gas phase) more endothermic for
+3-024	the Gly-Pro-Met and Gly-Sar-Met peptides, respectively.
+3-025	From IIIPM-E, in a concerted fashion, the N[1] atom of the side chain of the Pro residue abstracts a proton (H[4]) from the external water molecule (H2O[3]), and the hydroxyl group (-O3H-) makes a nucleophilic attack on the C[2] atom of the Gly residue.
+3-026	This process leads to the cleavage of the N[1]-C[2] peptide bond.
+3-027	The optimized transition state (TSPM-E) is shown in Figure 2.
+3-028	In TSPM-E, all the relevant bond distances indicate that this process is con- certed (O[3]-H[4] = 1.20, N[1]-H[4] = 1.35, O[3]-C[2] = 1.77, and N[1]-C[2] = 1.50 A ).
+3-029	In comparison to IIIPM-E, the charge on the Pd(II) ion is reduced by 0.04e in TSPM-E. However, the computed barrier for this process is extre- mely high at 70.2 (79.4) kcal/mol.
+3-030	In comparison to the cleavage of the Gly-Pro-Met, the barrier for the splitting of Gly-Pro-His, Gly-Sar-Met, and Gly-Gly-Met peptide bonds are lower by 17.3 (19.9), 19.2 (23.0), and 22.0 (26.8) kcal/mol respectively.
+3-031	The optimized transition states (TSPH-E, TSSM-E, and TSGM-E) for the cleavage of Gly-Sar-Met, Gly-Gly-Met, and Gly-Pro-His bonds, respec- tively, are quite similar.
+3-032	It is noteworthy that the mea- sured barrier for the activation of the Gly-Pro-Met (24.0 kcal/mol), Gly-Pro-His (23.8 kcal/mol), Gly-Sar-Met (25.0 kcal/mol), and Gly-Gly-Met (26.1 kcal/mol) are significantly lower by 46.2, 29.1, 26.0, and 22.1 kcal/mol, respectively, than that of the computed values.
+3-033	Due to the large difference in the measured and computed values, this mechanism for the peptide-bond cleavage is ruled out.
+3-034	IIIa2.
+3-035	Internal Delivery Mechanism.
+3-036	In the first step of the mechanism, the reactant IIIPM-E is transformed from the initial trans to the cis conformation (IIIPM-I), where subscript -I denotes the structures formed in the internal delivery mechanism.
+3-037	In IIIPM-I, the scissile peptide bond (N[1]-C[2]) does not interact with the Pd(II) ion.
+3-038	The IIIPM-E (trans) f IIIPM-I (cis) transformation is caused by the substitution of a water molecule (H 2O[3]), the dissociation of the Pd-O[5] bond, and the rotation of the N[1]-C[2] bond.
+3-039	The potential energy surface for this transformation is so complex that it is not possible to locate the corresponding transition state(s).
+3-040	In comparison to the trans conforma- tion, all the N[1]-C[2] bonds are longer by 0.02-0.04 A in the cis structure (Table 1).
+3-041	In IIIPM-I, the N[1]-C[2], Pd-O[3] and Pd-N[6] bond distances are 1.36, 2.13, and 1.97 A, respectively, and it is computed to be 21.0 (24.4) kcal/mol more endergonic than that of IIIPM-E. Similarly, the generation of IIIPH-I, IIISM-I, and IIIGM-I complexes are 14.2 (19.6), 18.1 (27.7), and 16.2 (19.1) kcal/mol higher in energy than those of IIIPH-E, IIISM-E, and IIIGM-E, re- spectively.
+3-042	In this mechanism, from IIIPM-I, a water molecule (H2O[3]) bound to the Pd(II) ion is activated.
+3-043	Here, the O[3]-H[4] bond of the water molecule is broken, and the proton is transferred to the N[1] atom of the Pro residue.
+3-044	This process occurs concomitant with the transfer of the hydroxyl group (-O3H) to the C[2] atom of the Gly residue and cleaves the Gly-Pro peptide bond.
+3-045	From IIIPM-I, this process undergoes a barrier of 17.3 (21.7) kcal/mol, and the optimized transition state (TSPM-I) is shown in Fig- ure 2.
+3-046	The key bond distances (Pd-O[3] = 2.05, O[3]-H[4] = 2.12, N[1]-H[4]=1.04, O[3]-C[2]=1.97, and N[1]-C[2]=1.62 A) indicate that this process is concerted.
+3-047	In contrast to the external delivery mechanism, here the charge on the
+3-048	Article
+3-049	Inorganic Chemistry, Vol. 49, No. 1, 2010 43
+3-050	(optimized), and product for the peptide-bond hydrolysis catalyzed by [Pd(H Pd(II) ion is shown in parentheses.
+3-051	Pd(II) ion is increased by 0.04e in TSPM-I. The reason for such an easy activation of the water molecule is its binding with the Pd(II) ion and its polarization by the negatively charged O[5] atom of Gly and the metal cation.
+3-052	This situation is similar to that of the Zn metal center contain- ing metallopeptidases, such as thermolysin, in which the metal-bound water molecule has been reported to strongly acidify, and its pKa value goes down from ∼14
+3-053	in solution to ∼7.[57]
+3-054	In this enzyme, the water molecule is strongly polarized between the negatively charged gluta- mate and the Zn cation.[58]
+3-055	Since this step is followed by a step (IIIPM-E f IIIPM-I) that is endergonic by 21.0 (24.4) kcal/mol, the overall barrier from IIIPM-E becomes 38.3 (46.1) kcal/mol.
+3-056	In this mechanism, the overall barriers from IIIPH-E, IIISM-E, and IIIGM-E are 41.4 (49.0), 39.8 (51.1) and 39.2 (49.9) kcal/mol, respectively.
+3-057	The corre- sponding optimized transition states (TSPH-I, TSSM-I, and TSGM-I) for the Gly-Pro-His, Gly-Sar-Met, and Gly-Gly-Met sequences are quite similar (Figure 3).
+3-058	It is noteworthy that the computed barriers for this mechan- ism are significantly lower by 31.9 (33.3), 11.5 (10.5), 11.2 (5.3), and 9.0 (2.7) kcal/mol for the Gly-Pro-Met, Gly- Pro-His, Gly-Sar-Met, and Gly-Gly-Met bonds, respec- tively, than in the external delivery mechanism.
+3-059	These results clearly suggest that after the generation of the reactant in the trans conformation, the internal delivery
+3-060	New York, 1983; Vol. 15, p 6-7.
+3-061	2O)4]2þ.
+3-062	The arrows describe the movements of atoms, and the charge on the
+3-063	mechanism is energetically more feasible.
+3-064	However, in comparison to experiments, in this mechanism the com- puted barriers for the cleavage of Gly-Pro-Met, Gly-Pro-His, Gly-Sar-Met, and Gly-Gly-Met bonds are higher by 14.3, 17.6, 14.8, and 13.1 kcal/mol, respectively.
+3-065	This overestimation could be partially contributed by the measurement of the rate constants at a much higher temperature (60 °C), whereas our calculations were per- formed at room temperature (25 °C).
+3-066	Due to the tem- perature dependence of the pre-exponential constant in the Arrhenius equation, it is not possible to accurately estimate the measured barrier at 25 °C.
+3-067	The measured rate constants at 60 °C and pH = 2.0 suggest that the cleavage of the tertiary Gly-Pro and Gly-Sar peptide bonds is faster than the secondary Gly-Gly bond.[1]
+3-068	The measured barriers for the cleavage of these bonds are quite close, i.e., within 0.2-2.3 kcal/mol.
+3-069	The computed barriers for these processes are also found to be in the same range, i.e., 0.5-3.1 kcal/mol.
+3-070	However, the accuracy of the B3LYP method (3-5 kcal/mol in com- puting reaction barrier) employed in this study does not allow for discrimination between the hydrolysis of these two different types (secondary and tertiary) of peptide bonds.
+3-071	The cleavage of the Gly-Pro-His bond was also inves- tigated through the activation of an external water mole- cule trapped between the Pd-bound water molecule (H4O3H) and the peptide bond (N[1]-C[2]) through hydro- gen bonds.
+3-072	In comparison to hydrolysis by the metal- coordinated H4O3H molecule discussed above, the computed barrier is significantly higher by 16.5 kcal/mol
+3-073	]2þ.
+3-074	The charge on the Pd(II) ion is shown in parentheses.
+3-075	delivery mechanism of the peptide-bond hydrolysis catalyzed by [Pd(H2O)4
+3-076	(in gas phase) for this mechanism.
+3-077	Furthermore, in order to study the role of the metal ion, the cleavage of this peptide was also studied by substituting Pd(II) with Pt(II) in the bidentate complex.
+3-078	The presence of Pt was found to slightly reduce the barrier by 0.53 (0.50) kcal/mol.
+3-079	The optimized transition state (TSPH-I(Pt)) for this process is shown in Figure 3.
+3-080	The cleavage of the Gly-Pro bond in the Gly-Pro-Met sequence leads to the carboxyl (-COOH) and amine (-NH2) terminals of the Gly-Pro peptide (IVPM), Figure 2.
+3-081	In IVPM, the N[1] atom of the Pro side chain occupies the vacant location in the Pd(II) metal center.
+3-082	The generation of IVPM is exergonic by 3.5 (0.9) kcal/mol from IIIPM-E. The corresponding IVPH, IVSM, and IVGM products are also structurally similar to IVPM and exergonic by 8.1 (2.6), 8.6 (3.4) and 12.6 (0.3) kcal/ mol from IIIPH-E, IIISM-E, and IIIGM-E, respectively.
+3-083	These results explicitly indicate that, from the external bidentate complex, the internal delivery mechanism is the most energetically feasible for the hydrolysis of peptide bonds.
+4-001	In the present B3LYP study, mechanisms for the hydro- lysis of the Gly-Pro bond in Gly-Pro-Met, Gly-Pro bond in Gly-Pro-His, Gly-Sar bond in Gly-Sar-Met, and Gly-Gly bond in the Gly-Gly-Met peptide catalyzed by [Pd(H2O) 4]2þ (I) have been elucidated.
+4-002	The entire mechanism is divided into the following two parts: (1) generation of the reactive bidentate complex and (2) cleavage of the peptide bond.
+4-003	The potential energy diagram for the most plausible mechan- ism is shown in Figure 4.
+4-004	In the first step of the mechanism, a water molecule bound to the Pd(II) ion of I is replaced by the anchoring Met residue of the Gly-Pro-Met peptide to generate a monodentate complex [Pd(H2O)3{(Gly)-(Pro)-(Met-κS)}]2þ (IIPM), Fig- ure 1 in the Supporting Information.
+4-005	The formation of IIPM is highly exergonic by 102.3 kcal/mol.
+4-006	In comparison to IIPM, the generation of the corresponding complexes, IIPH (for the Gly-Pro-His peptide), IISM (for the Gly-Sar-Met peptide), and IIGM (for the Gly-Gly-Met peptide) were found to be energetically less favorable by 18.2, 5.2, and 17.9 kcal/mol (in
+4-007	Article
+4-008	Inorganic Chemistry, Vol. 49, No. 1, 2010 45
+4-009	þ
+4-010	gas phase), respectively, (Table 1 in the Supporting In- formation).
+4-011	In the second step, the amide group of the Pro residue (in the Gly-Pro-Met sequence) is deprotonated by the Pd(II) ion to generate the active bidentate com- plex [Pd(H2O)2{(Gly)-(Pro)-(Met-κS,κN)}]1þ (IIIPM-E).
+4-012	The IIIPM-E complex exists in the trans conformation that is also supported by experimentally measured TOCSY and ROESY 1H NMR spectra.[1]
+4-013	The formation of IIIPM-E is exergonic by 4.3 kcal/mol (in gas phase) from IIPM.
+4-014	The generation of IIIPH-E, IIISM-E, and IIIGM-E are exergonic by 10.8, -1.5, and 0.8 kcal/mol (in gas-phase), respectively (Table 1 in the Supporting Information).
+4-015	It was found that the creation of the bidentate complex is energetically more favorable in the presence of the tertiary peptide bond generating Pro residue.
+4-016	After the formation of the active bidentate complex, the hydrolysis of the peptide bond can proceed through the following two pathways: (1) the external attack and (2) internal delivery mechanisms.
+4-017	In the external attack mechan- ism, an external water molecule is utilized for the hydrolysis of the peptide bond.
+4-018	However, this process was computed to undergo extremely high barriers of 70.2 (79.4), 52.9 (59.5), 51.0 (56.4), and 48.2 (52.6) kcal/mol from IIIPM-E, IIIPH-E, IIISM-E, and IIIGM-E, respectively.
+4-019	Since the computed bar- riers in this mechanism are prohibitively higher than the experimental values (measured at pH 2.0 and 60 °C) of 24.0, 23.8, 25.0, and 26.1 kcal/mol for the Gly-Pro-Met, Gly-Pro-His, Gly-Sar-Met, and Gly-Gly-Met peptides, respectively,[1] it is ruled out.
+4-020	In the first step of the internal delivery mechanism, IIIPM-E is converted from the trans to the cis conformation (IIIPM-I).
+4-021	From IIIPM-E, the generation of IIIPM-I is computed to be endergonic (ΔG = 21.0 (24.4) kcal/mol).
+4-022	The formation of IIIPH-I, IIISM-I, and IIIGM-I complexes are also endergonic by 14.2 (19.6), 18.1 (27.7), and 16.2 (19.1) kcal/mol from IIIPH-E,
+4-023	IIISM-E, and IIIGM-E, respectively.
+4-024	From IIIPM-I, the O[3]-H[4] bond of the Pd(II)-bound water molecule is cleaved, and the proton is transferred to the N[1] atom of Pro concomi- tantly with the nucleophilic attack of the hydroxyl group (-O3H) to the C[2] atom of the scissile peptide bond (N[1]-C[2]).
+4-025	This concerted process leads to the splitting of the N[1]-C[2] peptide bond.
+4-026	From III PM-I, this process climbs a barrier of 17.3 (21.7) kcal/mol, and the formation of the product (IVPM) that contains the separate carboxyl (COO-) and amine (-NH2) terminals is exergonic by 3.5 (0.9) kcal/mol.
+4-027	Since this step follows a 21.0 (24.4) kcal/mol endergonic process, the overall barrier from III PM-E be- comes 38.3 (46.1) kcal/mol.
+4-028	Similarly, the corresponding overall barriers from III PH-E, IIISM-E, and IIIGM-E are 41.4 (49.0), 39.8 (51.1), and 39.2 (49.9) kcal/mol, respectively, and the formation of the IVPH, IVSM and IVGM products are exergonic by 8.1 (2.6), 8.6 (3.4), and 12.6 (0.3) kcal/mol, respectively.
+4-029	The computed barriers in this mechanism are significantly lower by 31.9 (33.3), 11.5 (10.5), 11.2 (5.3), and 9.0 (2.7) kcal/mol for the Gly-Pro-Met, Gly-Pro-His, Gly-Sar-Met, and Gly-Gly-Met bonds, respectively, than those of the external delivery mechanism and in much better agreement with the measured barriers at pH 2.0 and 60 °C. This discrepancy between the computed and mea- sured values could be due to the significantly high tem- perature used in the experiments.[1]
+4-030	The cleavage of the Gly-Pro-His bond through an external water molecule, located between the Pd(II)-bound water molecule and the scissile peptide, was found to undergo a barrier that is higher by 16.5 kcal/mol (in gas phase).
+4-031	Furthermore, to investi- gate the role of the metal ion, the cleavage of this bond was also studied with the Pt(II)-bound bidentate com- plex.
+4-032	This substitution was found to make a little difference (0.53 kcal/mol) on the computed barrier.
+4-033	These results explicitly indicate that after the formation of the bidentate complex in the trans conformation, the internal delivery mechanism is the most energetically feasible for the hydrolysis of the Gly-Pro-Met, Gly-Pro-His, Gly-Sar-Met, and Gly-Gly-Met peptide bonds.
+4-034	Our calcula- tions have provided deeper insights into the complex mechan- ism of peptide-bond hydrolysis by the metal-containing [Pd(H2O)4]2þ complex.
+4-035	The results reported in this study will advance our efforts to design efficient artificial peptidases for advanced bioengineering and bioanalytical applications.

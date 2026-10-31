@@ -1,0 +1,174 @@
+# document_id: jp909386d
+# extractor: kordoc-markdown-adapter-1
+1-001	The oxygen reduction reaction (ORR) is of prime importance in view of its practical applications in green energy conversion/ storage systems ranging from fuel cells to metal/air batteries.[1-5] At present, materials containing precious metals such as platinum, palladium, and gold are the most successful electro- catalysts for the ORR.[3,6-9] The high costs and limited availability of the requisite raw materials have retarded large-scale com- mercial applications.
+1-002	This has led to an urgent need for electrocatalysts made of inexpensive and more abundant materi- als but with comparable activity to precious metal based electrocatalysts.
+1-003	Indeed, numerous nonprecious materials, such as carbon, polymer, transitional metals, and oxides, have been suggested as alternative electrocatalysts for the ORR.[1,2,4,10,11]
+1-004	Among these materials, manganese oxides have drawn particular attention because of their low cost, high activity in alkaline media, and nontoxicity.[12-20] For example, Bruce and co-workers recently reported a successful prototype of a rechargeable Li/ O2 battery using an R-MnO2 nanowires catalyst, which can deliver a much higher capacity than conventional rechargeable lithium batteries.[21]
+1-005	Additionally, Zhuang and co-workers have developed a high-performance OH- conductive polymer and used it to build an efficient prototype of a nonprecious metal alkaline polymer electrolyte fuel cell (APEFC). 22
+1-006	It is generally observed that nanostructured materials exhibit favorable enhanced kinetics and activity derived from their large surface area and size effects.[23-25] Thus, in addition to chemical composition, a variety of factors, including the crystal phases present, structure, morphology, oxidation state, and surface area,
+1-007	will remarkably impact physicochemical properties of these catalysts.[26-29] Nanostructured manganese oxides are promising low-cost materials for electrocatalysts for the ORR, but their widespread implementation hinges upon development of catalyst systems with high activity.
+1-008	In addition, structure-activity relationships for nanostructured MnO2 for the ORR are required to elucidate the factors that determine catalyst performance.
+1-009	The main challenge for such studies comes from the limited number of synthetic routes for controlled synthesis of MnO2 nanostructures.
+1-010	These challenges have stimulated broad-based research efforts by many groups worldwide devoted to the synthesis of nanostructured manganese oxides.[30-35] Herein, we report a facile one-pot hydrothermal approach that permits exquisite control over the crystal structure and morphology of MnO2 nanostructures.
+1-011	Specifically, simply varying the reaction temperature in our hydrothermal process, enables synthesis of three different MnO2 nanostructures (microsphere/nanosheet core-corona hierarchical architecture, one-dimensional nanorod, and nanotube) with controlled crystal phases and morphologies.
+1-012	The formation mechanisms for each of these products are rationalized.
+1-013	The as-prepared MnO2 nanostructures are found to possess excellent electrocatalytic activity in alkaline media for the apparent four-electron reduction of oxygen.
+1-014	The vast difference in electroactivity from different products clearly attests to the importance of engineering the morphology, crystal phase and tunnel structure of MnO 2 nanostructures.
+2-001	Materials Synthesis.
+2-002	All chemical reagents are of analytical grade from Aldrich.
+2-003	In a typical synthesis, 0.45 g of KMnO4 and 1.0 mL of HCl (37 wt %) were added to 40 mL of deionized water under magnetic stirring to form the precursor solution.
+2-004	After stirring for about 20 min, the solution was transferred into a Teflon-lined stainless steel autoclave with a capacity of 70 mL.
+2-005	To prepare the self-assembled films, a Ti-foil (10 mm
+2-006	* To whom correspondence should be addressed.
+2-007	E-mail: xwlou@ ntu.edu.sg.
+2-008	† School of Chemical and Biomedical Engineering, Nanyang Techno- logical University.
+2-009	‡ School of Mechanical and Aerospace Engineering, Nanyang Techno- logical University.
+2-010	10.1021/jp909386d  2010 American Chemical Society
+2-011	Published on Web 12/31/2009
+2-012	Shape-Controlled Synthesis of MnO2 Nanostructures
+2-013	× 50 mm × 0.2 mm) was placed in the autoclaves.
+2-014	The autoclave was then heated in an electric oven at different temperatures (100-200 °C) for 12 h.
+2-015	After the autoclave was cooled down naturally to room temperature, brown precipitate was harvested by centrifugation and washed with deionized water 3 times and acetone once before room temperature vacuum drying.
+2-016	Materials Characterization.
+2-017	Crystallographic information of all as-prepared samples was investigated with X-ray powder diffraction (XRD; Shimadzu XRD-6000, Cu KR, λ ) 1.5406 Å) at a scanning rate of 1 °C min-1.
+2-018	The morphology of as-prepared samples was examined with field-emission scanning electron microscopy (FESEM; JSM-6700F) and high-resolution analytical transmission electron microscopy (HRTEM, Philips FEG CM300, 300 kV).
+2-019	Selected area electron diffraction (SAED) was used to examine samples’ crystallinity.
+2-020	Elemental compositions of prepared samples were measured with energy dispersive spectroscopy (EDX) microanalysis attached to FES- EM.
+2-021	The surface areas were determined by N2 adsorption/ desorption (Micromeritics Tristar 3020).
+2-022	Electrochemical Measurement.
+2-023	Electrochemical measure- ments for ORR were carried out on an Autolab electrochemical workstation (model PGSTAT30) at room temperature in a three- electrode system using 0.1 M KOH as an electrolyte.
+2-024	For cyclic voltammetric (CV) measurement, a glassy carbon disk electrode with a diameter of 5 mm was employed as the working electrode.
+2-025	The linear sweep voltammetry (LSV) was recorded at a scan rate of 5 mV s-1 with a rotating glassy carbon disk electrode (RDE, 4 mm in diameter) as the working electrode, and the rotation rate of the disk was varied between 100 and 2500 rpm.
+2-026	To prepare the working electrode, 2 mg of as-prepared catalyst was dispersed ultrasonically in 1 mL of diluted Nafion alcohol solution (0.05 wt %), and 20 μL of the suspension was pipetted onto a glassy carbon substrate.
+2-027	Pt wire was used as the counter electrode.
+2-028	The reference electrode was a reversible hydrogen electrode (RHE) in the same electrolyte as the electrochemical cell.
+2-029	All potentials in this work are referred to RHE.
+2-030	Prior to measurement, O2 was bubbled directly into the cell for at least 15 min to saturate the solution.
+2-031	During each measurement, O2 was flushed over the cell solution.
+3-001	To study the growth mechanism of nano-MnO2, experiments are carried out at different temperatures for the same duration (12 h).
+3-002	From the XRD pattern in Figure 1a, the product prepared at 100 °C is identified to be pure layered birnessite-type MnO2 (JCPDS No. 80-1098, monoclinic, C2/m, a ) 5.15 Å, b ) 2.84 Å, c ) 7.17 Å).
+3-003	When the temperature is increased to 120 °C or higher, the products are found to be purely R-MnO2 (JCPDS No. 44-0141, tetragonal, I4/m, a ) b ) 9.78 Å, c ) 2.86 Å).
+3-004	In general, MnO2 can form many polymorphs by interlinking the basic MnO6 octahedra in different configurations.
+3-005	Figure 1b shows the schematic crystal structures of the two types of MnO2 .[36]
+3-006	Birnessite-type MnO2, also denoted as δ-MnO2 in the literature, has a two-dimensional (2D) lamellar structure with an interlayer distance of 0.73 nm.
+3-007	Structurally, R-MnO2 is constructed from the double chains of edge-sharing MnO6 octahedra which are linked at the corners to form (2 × 2) + (1 × 1) tunnel structures (the sizes of the 2 × 2 and 1 × 1 tunnels are 0.46 and 0.189 nm, respectively).
+3-008	These tunnels extend in a direction parallel to the c axis of the tetragonal unit cell.
+3-009	Since these structures possess either interlayer space or tunnels, some cations could be introduced during the synthesis process (the 1 × 1 tunnels are generally too small for cations).
+3-010	Generally,
+3-011	layered birnessite-type MnO2 needs more cations to stabilize the structure than tunneled R-MnO2 since the spacing in the birnessite is larger than that in R-MnO2 , which is confirmed by EDX analysis (see Supporting Information, Figure S1).
+3-012	Parts a and b of Figure 2 show the SEM images of the product prepared at 100 °C. It can be observed that this product consists of microsphere/nanosheet hierarchical nanostructures.
+3-013	The SEM image (Figure 2b inset) of a broken microsphere clearly reveals a core-corona architecture of the microsphere, in which the core is denser than the corona, and the nanosheets in the corona are grown perpendicularly from the core.
+3-014	Parts a and b of Figure 3 show TEM images and a SAED patterns (Figure 3a inset) for the birnessite-MnO2.
+3-015	The SAED pattern of a typical microsphere (Figure 3a inset) indicates the microsphere is polycrystalline.
+3-016	The darker/lighter contrast again suggests the core-corona structure of the sphere.
+3-017	Figure 3b shows a typical lattice-resolved TEM image of the nanosheet, indicating an average d-spacing of 0.6 nm.
+3-018	This distance is lower than the interlayer space of perfect birnessite (0.73 nm) because birnessite tends to be dehydrated under the electron beam irradiation, which decreases the (001) d spacing.[30]
+3-019	On the basis of our observations, the formation mechanism of the core-corona nanostructure might be rationalized as follows.[30-32] At the initial stage, the high concentrations of precursors lead to rapid formation of a large number of nuclei in a short time.
+3-020	These nuclei self-assemble to form nearly amorphous spheres.
+3-021	Afterward, the heterogeneous growth of 2D nanosheets on the dense cores is determined by the intrinsic layered crystal structure and should follow a general Ostwald
+3-022	ripening process.
+3-023	The as-formed microsphere/nanosheet core-corona hierarchical birnessite-MnO2 nanoarchitecture with a relatively high Brunauer-Emmett-Teller (BET) surface area
+3-024	of about 63 m2 g-1 might exhibit fast electrode kinetics and good stability, making it promising as an electrode material for electrochemical energy conversion/storage systems.[23]
+3-025	When the reaction temperature is increased to 120 °C, the product is tetragonal R-MnO2 (Figure 1a).
+3-026	As a result, the morphology changes to tetragonal nanorods, as depicted in the SEM images (parts c and d of Figure 2).
+3-027	The as-synthesized R-MnO 2 nanorods, typically 2-3 μm in length, have a square cross-section with an edge length in the range of 50-100 nm.
+3-028	The BET surface area of these nanorods is measured to be about 19 m2 g-1.
+3-029	Figure 3c displays a TEM image of a typical nanorod indicating a smooth surface, and a SAED pattern (inset) based on a single nanorod indicating the single-crystalline nature.
+3-030	An average d spacing of about 0.5 nm is observed from the lattice- resolved TEM image (Figure 3d).
+3-031	This d-spacing is consistent with the spacing between (200) planes.
+3-032	The SAED pattern and HRTEM analysis suggest that the nanorods grow along the [001] direction (c axis).
+3-033	In general, a higher temperature is favorable for anisotropic growth of crystal which gives higher aspect ratios.[33]
+3-034	The rolling-cum-phase transformation process can be employed to depict the formation mechanism of the R-MnO2 nanorods.[33]
+3-035	Specifically, during the initial stage of reaction, the relatively high K+ concentration facilitates the formation of 2D birnessite-MnO2 nanosheets.
+3-036	The lamellar nanosheets tend to curl at an elevated temperature because the layered birnessite-MnO2 is a metastable phase.
+3-037	Eventually, the layered structure collapses into 2 × 2 tunnel structure of R-MnO2, and the dissolution-crystallization process increases the size and aspect ratio of the final product.
+3-038	Although R-MnO2 is also formed at 140 °C (Figure 1a), the morphology transforms to 1D nanotubes as shown in parts e and f of Figure 2 and Figure 3e.
+3-039	The BET surface area of these nanotubes is about 25 m2 g-1.
+3-040	Figure 2f reveals that each nanotube has a square open end.
+3-041	HRTEM (Figure 3f) and SAED analysis (Figure 3e inset) suggest that the nanotubes possess the same growth direction as the nanorods prepared at 120 °C. On the basis of the above observations, the formation process of the nanotubes can be deduced as “dissolution or etching” of each nanorod from both ends inward along the long axis ([001] direction in this case), which leads to the formation of hollow tubes.[34]
+3-042	A similar process has been also observed in the formation of ZnO nanorings and R-Fe2O3 nanotubes.[37,38]
+3-043	In general, a higher temperature favors the occurrence of the dissolution or etching process. 37,38 Therefore, nanorods are formed at 120 °C, while all the products prepared at 140, 160, 180, and 200 °C are R-MnO2 nanotubes (see Figures S2 and S3 of Supporting Information).
+3-044	Time-dependent experiments are also carried out at 140 °C in order to further understand the growth process (see Figures S4 and S5 of Supporting Information).
+3-045	After 1 h of hydrothermal reaction, the product consists predominantly of birnessite-MnO2 with a microsphere/nanosheet hierarchical architecture.
+3-046	With increasing duration, the anisotropic growth facilitates the formation of R-MnO2 nanorods.
+3-047	Then the dissolution process occurs from the tip toward the center along the [001] direction.
+3-048	Longer duration is required to form completely hollow R-MnO2 nanotubes.
+3-049	The above observations are consistent with the recent findings.[34,35]
+3-050	We also studied the self-assembled growth of nano-MnO2 arrays on Ti-foil (or Au foil) substrates.
+3-051	When a substrate is placed into the reaction solution, uniform self-assembled films are formed on the substrate after hydrothermal reaction (see Figure S6a of Supporting Information).
+3-052	The SEM images (parts b-f of Figure S6 of Supporting Information) confirm that the
+3-053	Shape-Controlled Synthesis of MnO2 Nanostructures
+3-054	self-assembled film consists of nearly vertically aligned nano- MnO2 arrays grown directly on the substrate.
+3-055	The microstructure of the oriented arrays can be tuned by changing the hydrothermal reaction temperature.
+3-056	The films prepared at 100 °C consist of vertical nanosheets (parts b and c of Figure S6 of Supporting Information).
+3-057	Vertical nanorod arrays are formed at 120 °C. Upon increasing the reaction temperature to 140 °C, vertical nanotube arrays are formed.
+3-058	The heterogeneous nucleation and growth result in the formation of such self-assembled nano- MnO2 arrays on substrates.[31]
+3-059	Similar processes have previously been employed to prepare self-assembled oriented arrays of MnO2 , ZnO, Co3O4, and SnO2 on substrates.[34,35,39,40]
+3-060	It is well acknowledged that such self-supported nanoarrays grown di- rectly on a conducting substrate represent an attractive archi- tecture for many applications such as batteries, supercapacitors, sensors, catalysts, solar cells, and so on.[41]
+3-061	The electrocatalytic activity of these nanostructured MnO2 for the ORR is studied by cyclic voltammetry (CV).
+3-062	Figure 4 shows the CVs of the MnO2 /glassy carbon (GC) electrodes in 0.1 M KOH solution saturated with either N2 or O2 at a scan rate of 50 mV s-1.
+3-063	The CVs obtained in N2-saturated electrolyte (dotted curves in Figure 4) are featureless within the potential range of 1.0 to 0.05 V. When the electrolyte is saturated with O2, remarkable reduction currents are observed, resulting in a rather well-defined cathodic peak.
+3-064	This process is assigned to the electrocatalytic activity of the as-synthesized MnO 2 nano- structures for the ORR (solid curves in Figure 4).
+3-065	To further assess the electrocatalytic performance of all three MnO2 nanostructures, the onset potential, peak current, and half-wave potential (E1/2) are compared (Figure 4d).
+3-066	In general, the surface area will greatly influence the catalytic activity.
+3-067	It is indeed observed that R-MnO2 nanotubes with a surface area of 25 m2 g-1 manifest higher activity compared to R-MnO2 nanorods with a surface area of 19 m2 g-1.
+3-068	The other observation is that both R-MnO2 nanostructures give more positive onset potential and E1/2 and a larger peak current, which clearly indicate the superior electrocatalytic activity of R-MnO2 com-
+3-069	pared to birnessite-MnO2, while the latter has a much higher surface area.
+3-070	The technique of rotating disk electrode (RDE) is also employed to investigate the kinetics of ORR since the ORR current is strongly relevant to hydrodynamic conditions. 20 The RDE technique is beneficial in eliminating the effect of mass transport and thus can be used to more precisely evaluate the kinetics of ORR.
+3-071	Typical RDE behaviors of synthesized MnO2 nanostructures are shown in Figures 5 and 6.
+3-072	Figure 5 displays typical LSV plots at a rotation rate of 400 rpm and a scan rate of 5 mV s-1 in an O2-saturated 0.1 M KOH solution.
+3-073	As can be seen, the onset potential and half-wave potential of R-MnO2 (prepared at 120 or 140 °C) are dramatically shifted toward a more positive potential in comparison with those of birnessite-MnO2 (prepared at 100 °C).
+3-074	Also, the limiting current density of R-MnO2 is higher than that of birnessite-MnO2.
+3-075	These observations suggest that R-MnO2 has a superior electrocatalytic activity compared to birnessite-MnO2, which is consistent with the above CV evaluations.
+3-076	The RDE measurements at different rotating rates are shown in Figure 6.
+3-077	The results can be used to deduce the reaction kinetics of ORR via the Koutecky-Levich equation as follows16,17,20
+3-078	) +
+3-079	i ik id
+3-080	ik ) nFkC0
+3-081	id ) 0.62nFD02/3ν-1/6C0ω1/2
+3-082	where ik and id represent kinetics and diffusion limiting current densities (A m-2), respectively.
+3-083	And n is the electron number involved in ORR; F is the Faraday constant (96485 C mol-1); k is the rate constant for ORR (m s-1); D0 is the diffusion coefficient of O2 in solution (1.87 × 10-9 m2 s-1 in 0.1 M KOH); C0 is the saturation concentration of O2 in solution (1.21 mol m-3 in 0.1 M KOH); ν is the kinematic viscosity (1 × 10-6 m2 s-1 for 0.1 M KOH); ω is the angular frequency of the rotation (rad s-1).
+3-084	By linear fitting the Koutecky-Levich plots of i-1 vs ω-0.5 one can obtain the electron number (n) and rate constant (k) for ORR, quantitatively.[17]
+3-085	Typical Koutecky-Levich plots for ORR of synthesized nanostructured MnO2 are shown in parts b, d, and f of Figure 6, and the corresponding kinetics parameters are summarized in Table 1.
+3-086	The average n values at three different potentials are deduced to be 2.92, 3.72, and 3.91 for birnessite-MnO2 microsphere/nanosheet, R-MnO2 nanorod and R-MnO2 nanotube, respectively.
+3-087	O2 + 2H2O + 4e- f 4OH-
+3-088	O2 + H2O + 2e- f HO2- + OH-
+3-089	HO2- + H2O + 2e- f 3OH-
+3-090	2HO2- f 2OH- + O2 (4)
+3-091	It has been suggested that the 4-electron reduction mechanism is the most efficient pathway for the ORR (reaction 1).
+3-092	It has been reported that ORR on manganese oxides is achieved through initiating a 2-electron electrochemical reduction of oxygen to superoxide or peroxide (reaction 2) followed instan- taneously by another 2-electron electrochemical reduction of HO2- (reaction 3) or chemical decomposition of HO2- (reaction
+3-093	4).[17,18]
+3-094	For R-MnO2, the value of n is close to 4, which indicates that an overall 4-electron reduction of oxygen through reactions 2 and 3 is dominant.
+3-095	The value of n in ORR at birnessite-MnO2 is 2.92, which suggests concurrent occurring of 4-electron (through reactions 2 and 3) and 2-electron (through reactions 2 and 4) reductions of oxygen.
+3-096	Table 1 also shows values of the rate constant (k) for three samples.
+3-097	One can observe that ORR on R-MnO2 has larger k values than on birnessite-MnO2.
+3-098	On
+3-099	(a and b), 120 (c and d), and 140 °C (e and f) for 12 h at a scan rate of 5 mV s-1 in an O2-saturated 0.1 M KOH solution.
+3-100	a The values are derived from the plots shown in Figure 6.
+3-101	the basis of the above RDE results, it can be concluded that the as-synthesized R-MnO2 exhibits superior electrocatalytic activity for ORR compared to birnessite-MnO2 although the latter has a much higher specific surface area.
+3-102	Though the exact mecha- nism which produces the anomalous electrocatalytic activity remains unclear, the enhanced electrocatalytic ORR activity of R-MnO 2 can be rationalized and speculated as follows[17,18]
+3-103	MnO2 + H2O + e- f MnOOH + OH- (5)
+3-104	2MnOOH + O2 f 2MnOOH(O2)ads
+3-105	MnOOH(O2)ads + e- f MnO2 + OH-
+3-106	Previous studies have confirmed that the overall 4-electron pathway of the ORR (reaction 5-7) in MnO2 initiates from the electroreduction of MnO2 to MnOOH (reaction 5).[17-19] This reduction is unfavorable in MnO 2 phases which have a high Mn-O bond strength since it makes the initial reduction more difficult.
+3-107	The average Mn-O bond lengths of birnessite-MnO2 and R-MnO2 are about 1.94 and 1.98 Å, respectively.[29]
+3-108	Therefore, birnessite-MnO2 shows a higher Mn-O bond strength, which eventually results in a lower electrocatalytic activity.
+3-109	It is also speculated that crystal phase (channel structure) could be another determining factor for electrocatalytic activity.
+3-110	Generally, the electrocatalytic activity is in part determined by the reversible adsorption/desorption of reactants/products into and out of the open channel structure.
+3-111	The large interlayer spacing (0.7 nm) in birnessite-MnO2 enables adsorp- tion of more O2 molecules, but the MnO6 octahedra sheet of birnessite-MnO2 is much denser than that of R-MnO2.
+3-112	Overall the reducibility of birnessite-MnO2 is lower than that of R-MnO 2.[29]
+3-113	Therefore, the ORR reaction in birnessite-MnO2 could be hindered by the excessively strong adsorption of reactant.
+3-114	The pronounced difference in electrocatalytic activity between R-MnO2 and birnessite-MnO2 is further speculated from the different adsorption orientations of molecular oxygen in the two phases.[42,43]
+3-115	The O-O bond length in molecular oxygen is about 0.12 nm which is comparable to the size of (1 × 1) tunnels in the R-MnO2.[44]
+3-116	Hence the adsorbed oxygen could be accom- modated in the (1 × 1) channels via the bridge mode.
+3-117	Since the bridge-mode adsorption (also known as the Yeager Model) is usually believed to favor the breaking of O-O bond of molecular oxygen and thus a direct 4-electron reduction of oxygen,[43-45] the R-MnO2 with (1 × 1) tunnels can therefore provide enhanced kinetics for oxygen reduction.
+3-118	The anomalous difference in electroactivity may also partly originate from the intrinsic difference of activity on different crystal facets.
+3-119	For example, birnessite-MnO 2 nanosheets and tetragonal R-MnO 2 nanorods/tubes have a large amount of exposed (001) and (200) surface, respectively.
+3-120	Clearly further
+3-121	investigation in this direction is required, ideally combined with computational calculations.
+3-122	Although MnO2 nanostructures reported here are still inferior to precious metals as electrocata- lyst for the ORR, our findings suggest that engineering the shape, crystal phase, and microstructure could be an effective approach for enhancing the activity of nonprecious electrocatalyst for the ORR.
+3-123	Our preliminary results show that further improvement of electrocatalytic activity can be achieved by making MnO2-based nanocomposites.
+4-001	In summary, we report a facile one-pot hydrothermal route for synthesis of three MnO2 nanostructures and their self-assembled vertical arrays on substrates.
+4-002	By simply adjusting the hydrothermal reaction temperature, we can tailor the morphology and crystal phase from birnessite-type MnO2 with a microsphere/nanosheet core-corona hierarchical architecture to R-MnO2 with 1D nanorod or nanotube structures.
+4-003	Importantly, for the first time, we report a new finding that there is a strong dependence of the electroactivity of MnO2 for the ORR on its crystal phase.
+4-004	The R-MnO2 exhibits superior ORR electroactivity compared to birnessite-type MnO2.This finding adds to our understanding of MnO2-based catalysts and further development of low-cost and high-efficiency alkaline polymer electrolyte fuel cells and metal-air batteries.

@@ -1,0 +1,47 @@
+[
+ {
+  "document_id": "ic1020862",
+  "sentences": 340,
+  "cite_recovery": 0.97,
+  "open_sentences": 0.018,
+  "leaks": 0,
+  "review_items": 49,
+  "result": "Pass"
+ },
+ {
+  "document_id": "ic300473u",
+  "sentences": 147,
+  "cite_recovery": 1.0,
+  "open_sentences": 0.007,
+  "leaks": 0,
+  "review_items": 24,
+  "result": "Pass"
+ },
+ {
+  "document_id": "ic400600d",
+  "sentences": 363,
+  "cite_recovery": 1.0,
+  "open_sentences": 0.014,
+  "leaks": 0,
+  "review_items": 37,
+  "result": "Pass"
+ },
+ {
+  "document_id": "ic502904q",
+  "sentences": 196,
+  "cite_recovery": 1.0,
+  "open_sentences": 0.005,
+  "leaks": 0,
+  "review_items": 27,
+  "result": "Pass"
+ },
+ {
+  "document_id": "ic901600v",
+  "sentences": 164,
+  "cite_recovery": 1.0,
+  "open_sentences": 0.049,
+  "leaks": 0,
+  "review_items": 55,
+  "result": "Pass"
+ }
+]

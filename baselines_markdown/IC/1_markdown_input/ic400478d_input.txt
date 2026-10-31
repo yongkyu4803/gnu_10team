@@ -1,0 +1,294 @@
+# document_id: ic400478d
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Over the past decade, cationic iridium(III) complexes have received increasing attention because of their use as luminophoric materials in a wide variety of applications including light-emitting electrochemical cells (LEECs),[1] biolabeling agents,[2] chemosensors,[3] and as photocatalysts for solar fuels[4] and in organic transformations.[5]
+1-003	In the great majority of these cases, the luminophore used is a mononuclear heteroleptic complex.
+1-004	Far less explored are materials based on discrete oligohomonuclear complexes, most of the examples of which link the metal centers through a polyacene-type bridge.[6]
+1-005	In fact, to the best of our knowledge only a single example of a dinuclear cationic complex incorporating a π-conjugated bridging ligand, a 3,8-dipyridyl-4,7-phenanthroline,[6d] has been reported.
+1-006	The ligand 2,5-dipyridylpyrazine (2,5-dpp) has had a long
+1-007	and storied past as a strong π-acceptor σ-donating bis(chelate), particularly involving Ru(II).[7]
+1-008	Indeed as a result of their properties, the use of 2,5-dpp and other related diazine ligands results in more photostable complexes.[8]
+1-009	Given our interest in
+1-010	the optoelectronic properties of multimetallic cationic iridium- (III) complexes,6m,t we targeted complexes 1 and 2 for study,
+1-011	the first examples of iridium(III) complexes incorporating a 2,5-
+1-012	dpp ancillary ligand (Chart 1).
+1-013	We report here the improved synthesis of 2,5-dpp along with 1 and 2, X-ray structures of the complexes, and their optoelectronic characterization.
+2-001	■
+2-002	General Procedures.
+2-003	Commercial chemicals were used as supplied.
+2-004	All reactions were performed using standard Schlenk
+2-005	© 2013 American Chemical Society 8495
+2-006	techniques under an inert (N2) atmosphere.
+2-007	All experiments were carried out with freshly distilled anhydrous solvents obtained from a Pure Solv solvent purification system from Innovative Technologies except where specifically mentioned.
+2-008	Flash column chromatography was performed using silica gel (Silia-P from Silicycle, 60 Å, 40−63 μm).
+2-009	Analytical thin layer chromatography (TLC) was performed with silica plates with aluminum backings (250 μm with indicator F-254).
+2-010	Compounds were visualized under UV light.
+2-011	1H, 19F, and 13C NMR spectra were recorded on a Varian INOVA spectrometer at 400 MHz, 376 and 100 MHz respectively.
+2-012	The following abbreviations have been used for multiplicity assignments: “s” for singlet, “d” for doublet, “t” for triplet, “m” for multiplet.
+2-013	One of deuterated acetonitrile (CD 3CN), deuterated chloroform (CDCl3) or deuterated acetone (acetone-d6) was used as the solvent of record.
+2-014	Trifluoroacetic acid (TFA) was used as the reference for 19F NMR.
+2-015	Spectra were referenced to the solvent
+2-016	Received: February 22, 2013
+2-017	Published: July 18, 2013
+2-018	peak.
+2-019	Exact mass measurements were performed on a quadrupole time-of-flight (ESI-Q-TOF), model Maxis from Bruker in positive electrospray ionization mode, and spectra were recorded at the Universite de Sherbrooke.
+2-020	Synthesis. 2,5-Di(pyridin-2-yl)pyrazine, 2,5-dpp.
+2-021	To a suspension of 2-bromopyridine (9.25 mmol, 880 μL, 2.2 equiv.) in 30 mL of dry THF under a N 2 atmosphere at −78 °C was added dropwise over 30 min n-BuLi (9.25 mmol, 5.8 mL, 2.2 equiv.).
+2-022	The reaction was stirred for 30 min, and a mixture of ZnCl 2 (1.25 g, 9.25 mmol, 2.2 equiv.) in 30 mL of dry THF was added via cannula.
+2-023	The mixture was then stirred 2 h at room temperature (RT) and then added via cannula to a mixture of 2,5-dibromopyrazine, 2,5-diBrpyz, (1.00 g, 4.20 mmol, 1.0 equiv.) and Pd(PPh3)4 (485 mg, 10 mol %) in 40 mL of dry THF at RT.
+2-024	The reaction mixture was stirred overnight at 65 °C under nitrogen.
+2-025	The solid was filtered, washed several times with diethyl ether, and dissolved in 100 mL of saturated aqueous EDTA and 50 mL of saturated aqueous Na2CO3.
+2-026	The mixture was stirred for 1 h and the solid was filtered, washed several times with water and dried over reduced pressure to obtain a beige solid (550 mg) that was analytically pure.
+2-027	Beige solid.
+2-028	Yield: 55%.
+2-029	Rf: 0.25 (DCM/Acetone 90/10; Silica).
+2-030	Mp: 186−190 °C (lit:[7a] 226−227 °C) .
+2-031	1H NMR (400 MHz, CD3CN) δ (ppm): 9.66 (s, 1H), 8.76 (d, J = 4.8 Hz, 1H), 8.45 (d, J = 8.0 Hz, 1H), 7.98 (td, J = 7.6, 1.6 Hz, 1H), 7.49 (dd, J = 7.6, 4.4 Hz, 1H).
+2-032	13C NMR (100 MHz, CDCl3) δ (ppm): 154.5, 150.7, 149.8, 142.2, 137.3, 124.6, 121.9.
+2-033	HR-MS (ES-Q-TOF) (C14H11N4Na+ ) Calculated: 257.0798; Experimental: 257.0800.
+2-034	The compound characterization is in agreement with that previously reported.[9]
+2-035	Iridium(III) Bis[2-phenylpyridine-N,C2′]-2,5-di(pyridin-2-yl)-pyrazine Hexafluorophosphate, [(ppy)2Ir(2,5-dpp)\](PF6), 1. 2-Phenylpyridine, ppyH, (30 μL, 0.20 mmol, 2.2 equiv.) was mixed with IrCl3·6H2O (32 mg, 0.093 mmol, 1.0 equiv.) in a mixture of 2-ethoxyethanol and water (6/1 v/v) to reach a concentration in IrCl3·6H2O of 0.04 M. The mixture was degassed by multiple vacuum and N2 purging cycles.
+2-036	The suspension was heated at 130 °C for 24 h.
+2-037	A yellow precipitate formed during the reaction and was filtered.
+2-038	To this solid was added 2,5-dpp (55 mg, 0.233 mmol, 2.5 equiv.) and 2-ethoxyethanol to reach a concentration in iridium of 0.04 M. The mixture was degassed by multiple vacuum and N2 purging cycles.
+2-039	The suspension was heated at 130 °C for 24 h.
+2-040	The reaction mixture was cooled to RT and diluted with water.
+2-041	The aqueous suspension was washed several times with Et 2O. The aqueous layer was heated at 70 °C for 30 min and cooled back down to RT.
+2-042	A solution of NH4PF6 (10 equiv., 1.0 g/10 mL) was added to the aqueous phase, which caused the precipitation of a red solid.
+2-043	The suspension was cooled to 0 °C for 1 h, filtered, and the resulting solid was washed with water.
+2-044	The crude solid was purified by flash chromatography on silica gel using DCM + 5% NEt 3 to DCM/Acetone (9/1) + 5% NEt3.
+2-045	Red solid.
+2-046	Mp: 245−250 °C. Yield: 80%.
+2-047	Rf: 0.20 (DCM/Acetone 90/10; Silica).
+2-048	1H NMR (400 MHz, acetone-d6) δ (ppm): 10.09 (d, J = 1.2 Hz, 1H), 9.13 (d, J = 1.2 Hz, 1H), 9.08 (d, J = 8.0 Hz, 1H), 8.56 (m, 1H), 8.45 (dt, J = 8.0, 1.2 Hz, 1H), 8.38 (td, J = 8.0, 1.6 Hz, 1H), 8.25 (t, J = 9.6 Hz, 2H), 8.15 (m, 2H), 7.91−8.03 (m, 5H), 7.85 (d, J = 5.6 Hz, 1H), 7.80 (dd, J = 8.0, 5.6, 1.2 Hz, 1H), 7.51 (ddd, J = 7.6, 4.8, 1.2 Hz, 1H), 7.04−7.18 (m, 4H), 6.93−7.01 (m, 2H), 6.41 (dd, J = 7.6, 0.8 Hz, 1H), 6.33 (dd, J = 7.6, 0.8 Hz, 1H).
+2-049	19F NMR (376 MHz, acetone-d6) δ (ppm): 72.34 (d, J = 706 Hz).
+2-050	HR-MS (ES-Q-TOF) (C36H26N6Ir+) Calculated: 735.1848; Experimental: 735.1882.
+2-051	Iridium(III) [μ-2,5-di(pyridin-2-yl)pyrazine-N[1],N[2]:N[3],N[4]] tetrakis(2-phenylpyridine-N,C2′)di-Bis[hexafluorophosphate], [(ppy)2Ir(2,5-dpp)Ir(ppy)2\](PF6)2, 2. 2-Phenylpyridine, ppyH, (105 μL, 0.739 mmol, 13.2 equiv.) was mixed with IrCl3·6H2O (118 mg, 0.336 mmol, 6.00 equiv.) in a mixture of 2-ethoxyethanol and water (6/1 v/v) to reach a concentration in IrCl3·6H2O of 0.04 M. The mixture was degassed by multiple vacuum and N2 purging cycles.
+2-052	The suspension was heated at 130 °C for 24 h.
+2-053	A yellow precipitate formed during the reaction and was filtered.
+2-054	To this solid was added 2,5-dpp (13 mg, 0.056 mmol, 1.0 equiv.) and 2-ethoxyethanol to reach a concentration in iridium of 0.04 M. The mixture was degassed by multiple vacuum and N2 purging cycles.
+2-055	The suspension was heated at 130 °C for 24 h.
+2-056	The reaction mixture was cooled to RT and diluted with water.
+2-057	The aqueous suspension was washed several times with Et2O. The aqueous layer was heated at 70 °C for 30 min and cooled back down to RT.
+2-058	A solution of NH4PF6 (20 equiv., 1.0 g/10 mL) was added to the aqueous phase to cause the precipitation of a green solid.
+2-059	The suspension was cooled to 0 °C for 1 h, filtered, and the resulting solid was washed with water.
+2-060	The crude solid was purified by flash chromatography on silica gel using 5% NEt3/DCM followed by 5% NEt 3/DCM/Acetone (9/1).
+2-061	Green solid.
+2-062	Mp: 258−262 °C. Yield: 56%.
+2-063	Rf: 0.20 (DCM/Acetone 90/10; Silica).
+2-064	1H NMR (400 MHz, Acetone D6) δ (ppm): 9.23 (s, 0.3H), 9.14 (s, 1.0H), 8.31−8.20 (m, 4.9H), 8.14 (d, J = 5.2 Hz, 1.0H), 8.13−7.89 (m, 7.0H), 7.83−7.78 (m, 1.4H), 7.69 (d, J = 5.6 Hz, 0.3H), 7.65 (d, J = 5.6 Hz, 1.0H), 7.28−6.99 (m, 6.4H), 6.50 (d, J = 7.2 Hz, 1.0H), 6.90−6.96 (m, 1.6H), 6.50 (d, J = 7.2 Hz, 1H), 6.40 (d, J = 7.2 Hz, 0.3H), 6.23 (d, J = 7.2 Hz, 0.3H), 6.19 (d, J = 7.2 Hz, 1.0H).
+2-065	19F NMR (376 MHz, acetone-d6) δ (ppm): −72.98 (d, J = 706 Hz).
+2-066	HR-MS (ES-Q-TOF) (C58H42N8Ir2+) Calculated: 617.1379\\; Experimental: 617.1400.
+2-067	Steady-State Photophysical Measurements.
+2-068	All absorption samples were prepared in HPLC grade acetonitrile (ACN) with varying concentrations on the order of μM. Absorption spectra were recorded at RT using a Shimadzu UV-1800 double beam spectrophotometer.
+2-069	Molar absorptivity determination was verified by linear least-squares fit of values obtained from at least three independent solutions at varying concentrations ranging from 5.50 to 145 μM. The absorption spectra for 2 were obtained from a diastereomeric mixture.
+2-070	Optically dilute (OD ∼0.1−0.2) solutions for RT emission and quantum yield experiments were prepared in spectrophotometric grade ACN, and solutions for low temperature emission experiments were prepared in anhydrous 2-methyl- tetrahydrofuran (2-MeTHF).
+2-071	Solutions were degassed with argon for ∼20 min before measurements.
+2-072	Steady state emission spectra were collected with a FL/FS920 fluorometer (Edinburgh Instruments) equipped with a 450 W Xe arc lamp as the excitation source.
+2-073	The emission signal was detected with a Peltier-cooled, red-sensitive PMT (R2658P Hamamatsu).
+2-074	Low temperature spectra were collected using an Optistat-DN optical cryostat and ITC-503 temperature controller (Oxford Instruments).
+2-075	Samples were allowed to equilibrate for 30 min at 77 K before each measurement.
+2-076	The quantum yield of 1 was measured relative to [Ru(bpy) 3\](PF6)2 in aerated acetonitrile (Φ = 0.018).[10]
+2-077	Time-Resolved Photophysical Measurements.
+2-078	Optically dilute (OD ∼ 0.1−0.2) solutions for time-resolved emission and transient absorption experiments were prepared in spectrophotometric grade ACN and solutions for low temperature emission experiments were prepared in anhydrous 2-MeTHF.
+2-079	Solutions were degassed with argon for ∼20 min before measurements.
+2-080	Time-resolved emission and transient absorption data were collected with an LP920 laser flash photolysis system (Edinburgh Instruments).
+2-081	The excitation source was the Vibrant LD 355 II Nd:YAG/OPO system (OPOTEK).
+2-082	Data acquisition was controlled by the LP900 software program (Edinburgh Instrument).
+2-083	Kinetic traces were collected with a PMT (R928 Hamamatsu), and emission and transient absorption spectra were collected with an iStar ICCD camera (Andor Technology).
+2-084	Low temperature emission spectra were collected using an Optistat-DN optical cryostat and ITC-503 temperature controller (Oxford Instruments).
+2-085	Samples were allowed to equilibrate for 30 min at 77 K before each measurement.
+2-086	Kinetic traces were fit with single or double exponential functions using IGOR Pro.
+2-087	Electrochemistry.
+2-088	Cyclic voltammetry (CV) measurements for 1 and 2 were performed on an Electrochemical Analyzer potentiostat model 600D from CH Instruments.
+2-089	The CV data collected for 2 were from a diastereomeric mixture.
+2-090	Solutions for CV were prepared in acetonitrile (ACN), distilled over P2O5 with tetra-n-butylammonium hexafluorophosphate (TBAPF6; about 0.1 M in ACN) added as the supporting electrolyte.
+2-091	The concentration of the samples was about 1 mM and ACN-saturated nitrogen bubbling for about 15 min occurred prior to scanning and electrochemical measurements were performed in a glass cell under a nitrogen atmosphere.
+2-092	A nonaqueous Ag +/Ag Scheme 1.
+2-093	Synthesis of 2,5-dpp and Complexes 1 and 2
+2-094	electrode (silver wire in a solution of 0.1 M AgNO3 in ACN) was used as the pseudoreference electrode; a glassy-carbon electrode was used for the working electrode and a Pt electrode was used as the counter electrode.
+2-095	The redox potentials are reported relative to a saturated calomel electrode (SCE) with a ferrocenium/ferrocene (Fc+ /Fc) redox couple as an internal reference (0.380 V vs SCE).[11]
+2-096	Computations.
+2-097	Density functional theory (DFT) calculations were performed with the Gaussian 0912 suite.
+2-098	The level of theory for all DFT[13] and time-dependent DFT (TDDFT)[14] calculations was B3LYP; excited-state triplet geometries were calculated using the unrestricted B3LYP method (UB3LYP).[15]
+2-099	The 6-31G* basis set[16] was used for C, H, and N directly bonded to iridium while the other C, H, and N atoms where undertaken with 3-21G* basis set,[17] and the VDZ (valence double ζ) with SBKJC effective core potential basis set[17a,18] was used for iridium.
+2-100	The predicted phosphorescence wavelengths were obtained by energy difference between the triplet and singlet states at their respective optimized geometries.[19]
+2-101	The energy, oscillator strength, and related molecular orbital (MO) contributions for the 100 lowest singlet−singlet and 5 lowest singlet−triplet excitations were obtained from the TD-DFT/singlets and the TD-DFT/triplets output files, respectively.
+2-102	The calculated absorption spectra were visualized with GaussSum 2.1 (fwhm: 1000 cm−1).[20]
+2-103	An ACN quantum mechanical continuum solvation model was employed throughout the computational study.[21]
+3-001	■
+3-002	Ligand and Complex Synthesis.
+3-003	Bridging 2,5-dipyridyl- pyrazine (2,5-dpp) was obtained efficiently in 55% yield in a single-step through a Negishi cross coupling of 2-bromopyr- idine and 2,5-dibromopyrazine (2,5-diBrpyz), Scheme 1.
+3-004	This simple synthesis contrasts will the multistep and low-yielding condensation strategy commonly used in the literature.[7a,22]
+3-005	Complexes 1 and 2 were obtained through a one-pot two- step reaction protocol previously used by us[23] wherein the [(ppy)2 Ir(μ-Cl)]2 dimer was not isolated.
+3-006	Mononuclear complex 1 was obtained in very good yield when an excess of 2,5-dpp was employed.
+3-007	Dinuclear complex 2 was obtained in good yield as a mixture of diastereomers when 2,5-dpp was used as the limiting reagent.
+3-008	Complexes 1 and 2 were
+3-009	characterized by 1H and 19F NMR, Mp, HPLC and HRMS analyses, and the X-ray structures of each were solved.
+3-010	X-ray Structures.
+3-011	Complexes 1 and 2 each crystallized from slow diffusion of iPr2 O into an ACN solution of the complex.
+3-012	Suitable single crystals for X-ray analysis were obtained for 1 and 2, and their molecular structures are shown in Figure 1 while refinement parameters are available in
+3-013	Supporting Information, Table S1.
+3-014	Both complexes crystallized within the P1 space group and are triclinic.
+3-015	Complex 1 crystallized as dark purple plates as an ACN solvate in the asymmetric unit while 2 crystallized as dark green prisms also as an ACN solvate.
+3-016	In each case, the coordination environment of the iridium is that of a distorted octahedron with a mutually trans-configuration of the nitrogen atoms of the two pyridine rings of the ppy ligands.
+3-017	Selected bond lengths and bond and torsional angles are collected in Supporting Information, Tables S2−S3 and are similar to those of other heteroleptic iridium complexes such as [Ir(ppy) 2(bpy)]PF6, where bpy = 2,2′-bipyridine.[24]
+3-018	In 1, there is a small torsion between the coordinating pyridine and pyrazine rings (interplanar angle of 8.4°) as well as
+3-019	a twisting of the noncoordinating pyridine ring of the 2,5-dpp ligand with an interplanar angle of 12.8°).
+3-020	Of note, the pyridine nitrogen atom is trans to the noncoordinating nitrogen atom of the pyrazine moiety, similar to that observed[9] for [ZnCl2(2,5-dpp)(DMF)] while in the crystal structure of [Ru(bpy)2(2,5-dpp)\](PF 6)2 the tethered pyridine ring is disordered and these two nitrogen atoms are in some instances disposed in an S-cis conformation.[25]
+3-021	This deviation from planarity of the distal pyridine is probably due to the weak intermolecular π-stacking interaction between the noncoordinating pyridine rings in adjacent enantiomeric molecules evidenced by the slip-stack and face-to-face separation between their centroids of 3.806 Å (Supporting Information, Figure S1).
+3-022	Both Δ and Λ isomers are present in the lattice.
+3-023	Complex 2 is C2-symmetric, and crystallizes as the meso ΔΛ form, with the two iridium atoms separated by 6.996 Å and with each iridium atom located 0.118 Å above and below the mean plane of the 2,5-dpp ligand.
+3-024	This stereochemical arrangement in a dinuclear iridium complex has been previously reported.[6d,26] The Ir1···Ir2 distance in 2 places the iridium subunits substantially further apart than the majority of the few other dinuclear and polynuclear iridium crystal structures reported to date.6r,26,27 Exceptionally, recently several crystal structures of dinuclear iridium complexes have been solved wherein the nonbonded Ir···Ir distance ranges from 7.467 Å to 10.007 Å.[6d,f,h,28] As with 1, there are distortions from planarity over the 2,5-dpp in 2 (interplanar angle between each of the pyridines and pyrazine of 8.14°).
+3-025	Solution Structures.
+3-026	The 1 H NMR spectra of 2,5-dpp in CD3CN and 1 and 2 in acetone-d6 are shown in Figure 2.
+3-027	For 1,
+3-028	the two ppy ligands are nonequivalent and thus each proton has its own resonance, exemplified by the two singlets of the pyrazine at 10.09 and 9.13 ppm.
+3-029	For 2, there are two sets of 1H NMR resonances, pointing to the presence of a diastereomeric mixture of meso ΛΔ and a racemic ΔΔ and ΛΛ in an about 3:1 ratio, indicating some degree of enrichment of one of the distereoisomers during purification, similar to that observed for a related 3,8-dipyridyl-4,7-phenanthroline-bridged dinuclear complex reported by Sauvage and co-workers.[6d]
+3-030	Electrochemistry.
+3-031	Cyclic voltammetry (CV) scans (Figure
+3-032	3) were used to comprehend the electrochemical behavior and to determine the electrochemical gap (ΔEredox ) of 1 and 2.
+3-033	The electrochemical data are given vs SCE and are listed in Table 1.
+3-034	During the anodic scan both complexes underwent irreversible
+3-035	oxidations at 1.42−1.45 V. These first oxidations, assigned to involve the IrIII/IrIV redox couple with significant ppy contribution, are shifted to far more positive potential compared to [Ir(ppy)2(bpy)] (Eox1/2 = 1.25 V) because of the electron withdrawing character of 2,5-dpp.[23]
+3-036	By contrast, the first oxidation of ruthenium analogue [Ru(bpy)2(2,5-dpp)\](PF 6)2 was reported[30] to be 1.67 V versus SCE, which is shifted cathodically compared to the first oxidation of about 1.39 V reported[7b,31] for [Ru(bpy)2(2,5-dpp)Ru(bpy) 2\](PF6)4 .
+3-037	However, similarly to 1 and 2, the oxidations for both ruthenium 2,5-dpp complexes are shifted significantly to more positive potential compared to [Ru(bpy) 3\](PF6)2 because of the existence of more electron deficient 2,5-dpp chelate versus bpy.[32]
+3-038	The ΔEp for the oxidation wave in 2 is 116 mV, implying a one-electron oxidation process.
+3-039	Given the conjugated nature of the bridging 2,5-dpp ligand in 2 and the high degree of metal− metal interactions with two observed oxidation processes in related [Ru(bpy)2(2,5-dpp)Ru(bpy) 2\](PF6)4 (Eox1/2,2 = 1.58 V),[31] the absence of two discernible oxidation waves in 2 is more likely due to the presence of a second nonresolved oxidation wave in the CV than the result of an absence of electronic coupling between the two iridium atoms.
+3-040	Such a lack of resolution is surprising given that in other related polynuclear iridium systems, distinct and well separated oxidation processes are observed (170 < ΔE < 480 mV) resulting from the sequential oxidation of each iridium
+3-041	6f−h,m,r,26,27,33
+3-042	center while systems with electronically de- coupled iridium atoms separated frequently through polyacene bridging moieties show a single 2-eletron oxidation.6a,l,34 However, from the DFT calculations (vide infra), the highest occupied molecular orbital (HOMO) and HOMO−1 have similar energies, which may explain the absence of resolved oxidation processes in 2.
+3-043	Upon cathodic sweep, 1 showed three quasi-reversible reduction waves separated by 680 and 570 mV, respectively.
+3-044	The first two reduction processes are assigned to successive one-electron reductions of the bridging 2,5-dpp ligand based on DFT calculations and similar electrochemical behavior to [Ru(bpy) 2(2,5-dpp)\](PF6 )2.[31]
+3-045	Because of the increased con- jugation of the 2,5-dpp compared to bpy, the first reduction process in 1 at −0.97 V is anodically shifted by 410 mV compared to [Ir(ppy) 2(bpy)]PF6.[23]
+3-046	As a result of the large stabilization of the π* orbitals of 2,5-dpp upon complexation with successive equivalents of “[Ir(ppy)2]+”, its reduction
+3-047	1 1.42d −0.97(66) −1.65(71) −2.22(144) −5.84 −3.42 2.32
+3-048	2 1.45d −0.47(61) −1.09(55) −1.50d −1.98d −2.19(79) −5.87 −3.92 1.92
+3-049	aConditions: ca. 1.5 mM of complex and nBu4NPF6 (ca. 0.1 M) in N2-saturated ACN at 298 K; Scan rate: 50 mV/s.
+3-050	Potentials (V) are versus SCE (Fc/Fc+ versus SCE = 0.38 V in ACN);[11] ΔE = ΔEredox; ΔEp = \|Epa − Epc\|, where Epa = anodic peak potential and Epc = cathodic peak potential; bReversible and pseudoreversible processes (ipa/ipc > 0.9) are reported as E1/2 = (Epa + Epc)/2 and result from one-electron processes. cThe HOMO and LUMO energies were calculated using the relation EHOMO/LUMO = −(Eonset Ox./Red. vs Fc + 4.8) eV.[29] dIrreversible: Epa reported for oxidation potentials and Epc reported for reduction potentials.
+3-051	becomes much more facile[35] (Ered,1 for 2,5-dpp = −1.90 V vs
+3-052	SCE).[36]
+3-053	Indeed, the first two reduction waves in 2 are shifted to
+3-054	even more positive potential at −0.47 and −1.09 V,
+3-055	respectively, compared to 1, implicating a significant stabiliza-
+3-056	tion of the lowest unoccupied molecular orbital (LUMO) upon
+3-057	the second complexation event.
+3-058	A corresponding 400 mV
+3-059	decrease in the electrochemical gap of 2 compared to 1 is thus
+3-060	observed.
+3-061	HOMO and LUMO levels inferred from CV
+3-062	measurements mirror well those determined by DFT
+3-063	calculations (1: EHOMO = −5.86 eV, ELUMO = −2.98 eV; 2:
+3-064	EHOMO = −6.00 eV, ELUMO = −3.60 eV).
+3-065	A further three
+3-066	reduction processes are observed in 2 at more negative
+3-067	potentials.
+3-068	DFT calculations point to two successive reductions
+3-069	centered on the 2,5-dpp ligand in both 1 and 2; the remaining
+3-070	reduction processes are predicted to also involve reduction of
+3-071	the ppy ligands.
+3-072	emission spectra for 1 and 2 are shown in Figures 4 and 5,
+3-073	([1] MLCT/1LLCT) transitions.
+3-074	There is the additional appear- ance of an unusual low-intensity feature (ε = 2492 M−1 cm −1) centered at 606 nm in 2.
+3-075	The RT steady state emission spectrum of 1 is broad and featureless with an emission maximum at 710 nm.
+3-076	At low temperature, the emission shifts to higher energy (ΔE ∼2900 Figure 4.
+3-077	UV−visible absorption spectra of 1 (blue) and 2 (red) in −1
+3-078	cm ) and becomes slightly more structured.
+3-079	This rigid- ACN solution.
+3-080	ochromic shift at low temperature is an indication of a significant excited state dipole moment, and suggests that the respectively, and pertinent photophysical data is summarized in emissive state is charge transfer (CT) rather than ligand Table 2.
+3-081	The RT absorption spectra for 1 and 2 exhibit similar centered (LC) in nature.[39]
+3-082	This deep-red emission is distinctive gross features out too around 300 nm.
+3-083	The intensity of the by comparison to most other red-emitting (λem> 620 nm in high-energy bands, which correspond to predominantly ligand- ACN) complexes of the form [Ir(ppy) 2(N∧N)]+ given (i) the centered (1LC) π−π* transitions, in 2 are higher than those in very low emission energy and (ii) the relatively nonconjugated
+3-084	1.
+3-085	Inspection of the absorption spectrum for [Ir(ppy)2(BPP)], nature or absence of electron-withdrawing groups decorating where BPP = 2,2′:5′,2″-terpyridine, as recently reported by Vos the ancillary ligand.6m,8a,40 The photoluminescence (PL) and co-workers[37] suggests a blue-shifted absorption spectrum quantum yield (ΦPL) of around 1% is comparable to other compared to 1.
+3-086	Analogous to that observed for [Ru(bpy)2(2,5- Ir(III) red emitters.
+3-087	By contrast, 2 has no detectable emission at dpp)Ru(bpy) 2\](PF6)4 and [Ru(bpy)2 (2,5-dpp)\](PF6),[38] at RT in the visible or near-infrared regions of the spectrum, but longer wavelengths, the absorption spectrum in 2 is red-shifted at low temperature a red and somewhat structured emission can compared to 1.
+3-088	These lower-intensity bands are the result of be detected.
+3-089	Considering the significant red shift (∼125 nm, mixed metal-to-ligand and ligand-to-ligand charger transfer 2992 cm−1) between the low temperature emission maxima of
+3-090	1 40 ± 5(1.0)240 ± 20(0.02)e,f 252 [63724]; 290 [44276]; 334 [41103]; 375 [13000];
+3-091	1 and 2, it is not surprising that at RT the excited state of 2 is excited state lifetimes.
+3-092	At present we can only speculate on this dominated by nonradiative decay, exhibiting nondetectable PL. lack of PL at RT.
+3-093	Given the relatively rapid excited state decay The emission lifetimes (τe) of 1 and 2 were also measured at in 1, it is not surprising that the excited state decay of the red- RT (1) and low temperature (1 and 2).
+3-094	At RT, the emission of shifted 2 is dominated by nonradiative decay, consistent with 1 is multiexponential and varies with wavelength.
+3-095	There is a the energy gap law.
+3-096	From insights gleaned from the low shorter-lived species with an emission maximum around 700 temperature data, 2 is significantly quenched in comparison to nm, which dominates the steady state emission spectrum. 1, thereby rationalizing the lack of detectable PL at RT.
+3-097	The There is also a much weaker, longer-lived species with an transient absorption difference spectrum of 1 in RT acetonitrile emission maximum around 600 nm.
+3-098	At 700 nm, the time- was also recorded and is presented in Supporting Information, resolved emission decay is biexponential, with the largest Figure S2.
+3-099	The transient absorption extracted single exponential contribution from the shorter lifetime (40 ns) and a small excited state lifetime of 40 ns matches well with the measured contribution from a longer and rather minor 240 ns PL lifetime of the major emissive component in 1 and does not component.
+3-100	At 600 nm, the time-resolved emission decay is indicate the presence of any longer-lived species.
+3-101	The shape of best modeled as a sum of three exponential functions, with an the difference spectrum is nearly identical to that seen in other additional 1250 ns component in addition to the 40 and 240 ns [Ir(ppy) 2(N∧N)]+ CT complexes.[42]
+3-102	In particular, the sharp components observed at 700 nm.
+3-103	At 77 K the τe of 1 is absorption feature at 400 nm has been assigned in the literature significantly longer (3.6 μs) and is well modeled by a single as an absorption of the polypyridyl radical anion, indicating that exponential function.
+3-104	Surprisingly and unlike other dinuclear the lowest energy excited state is likely 3MLCT in nature and 2,5-dpp bridged systems, all of which contain Ru(II),[35,38,41] 2 localized on the 2,5-dpp ligand.[42]
+3-105	The combined data collected has no detectable RT emission, but at 77 K it exhibits for 1 at RT strongly suggests that the CT excited state has a biexponential intensity decay kinetics with roughly two lifetime of 40 ns and the longer-lived residual components equivalent contributions corresponding to 360 and 930 ns observed in the time-resolved PL intensity decays are not
+3-106	representative of the excited state characteristics of this chromophore.
+3-107	Despite HPLC analyses indicating analytically pure samples and other corroborating compound character- ization, the minor longer-lived species detected with transient PL is therefore most likely attributed to a minor luminescent impurity present in the sample, the origin of which is unknown.
+3-108	At low temperature where radiative decay dominates, only single exponential kinetics were observed in 1, strongly supporting the notion that the longer-lived luminescent species observed at RT is/are irrelevant.
+3-109	Computations.
+3-110	We have performed a combined DFT and TDDFT study to better understand the origin of the optoelectronic properties of 1 and 2.[13a−c,14] We have previously shown that a similar computational methodology accurately predicts both ground and excited state properties for both mononuclear and dinuclear iridium complexes.6m,23 Selected geometric parameters for the optimized ground and excited state geometries of 1 and 2 are reported in Supporting Information, Tables S2−S3.
+3-111	The computations accurately reproduce the principal structural features to within 3% relative error; however, the slight twisting of the distal pyridine ring in the crystal structure 1 (Npyz-Cpyz-Cpy -Npy torsion of 168.5) because of crystal packing forces, is not reproduced in the computations.
+3-112	No significant geometric changes are predicted to occur at the T1 state.
+3-113	Kohn−Sham energy diagrams for the five highest occupied and five lowest unoccupied MOs for 1 and 2 together with selected contour plots are shown in Figure 6 while important molecular orbital contributions for each of these MOs are summarized, respectively, in Supporting Information, Figures S4−S5.
+3-114	For each of the complexes, the HOMO is distributed approximately equally on the iridium and ppy ligands with only a 5% contribution arising from the 2,5-dpp.
+3-115	In 1, the HOMO−2 through HOMO−4 electron distributions parallel that found for the HOMO while HOMO−1 is predominantly ppy-based (90%).
+3-116	In 2, the HOMO−1 and HOMO−4 possess similar topologies to the HOMO while HOMO−2 and HOMO−3 are mostly localized on ppy (89 and 92%, respectively).
+3-117	The LUMO and LUMO+1 for each of the complexes are localized on the π* orbitals of the 2,5-dpp (>90%).
+3-118	The LUMO+2 and LUMO+3 are concentrated mainly on the π* orbitals of the ppy ligands while LUMO+4, like LUMO, is mostly π*2,5‑dpp.
+3-119	The HOMO and LUMO for 2 are both significantly stabilized compared to those in 1.
+3-120	However, the larger stabilization of the LUMO results in a 470 meV decrease in the HOMO−LUMO gap, corroborating the observed electro- chemical behavior.
+3-121	A similar degree of stabilization was observed upon homodimerization of [Ir(ppy)2(5-ethynyl- bpy)]PF 6.6m The LUMO+1 is also appreciably stabilized in 2, which fits with the anodic shifting of the second reduction wave in 2 compared to 1.
+3-122	The HOMO−1 in 2 is destabilized compared to HOMO−1 in 1.
+3-123	The HOMO and HOMO−1 along with HOMO−2 and HOMO−3 are effectively isoenergetic with respect to each other.
+3-124	To better comprehend the nature of the different absorption bands, TDDFT calculations of the 100 lowest-energy singlet−singlet and 5 lowest-energy singlet−triplet vertical transitions were performed.
+3-125	The most important low energy transitions are summarized in Table 3 while a comparison between the computed and experimental absorption spectra for 1 and 2 is shown in Figure 7 .
+3-126	The nature of the low energy absorption bands for each complex results from a series of 1MLCT/[1] LLCT transitions, consistent with the assignments for the exper-
+3-127	ΔE
+3-128	nature of transition oscillator (major contribution, primary strength state %)a,b character (eV) (nm) (f)
+3-129	1
+3-130	S1 HOMO→LUMO MLCT/ 2.21 560 0.0003
+3-131	(98%), LLCT
+3-132	S3 H-2→LUMO (26%), H- MLCT/ 2.96 419 0.0170
+3-133	1→LUMO (68%) LLCT
+3-134	S5 H-3→LUMO (69%), MLCT/ 3.17 391 0.0944
+3-135	HOMO→L+1 (14%) LLCT/
+3-136	LCppy
+3-137	S6 HOMO→L+2 (97%) MLCT/ 3.24 382 0.1108
+3-138	LLCT
+3-139	T1 HOMO→LUMO (97%) MLCT/ 2.18 568 0
+3-140	LLCT
+3-141	2
+3-142	S1 HOMO→LUMO LLCT/ 1.77 701 0.0003
+3-143	(99%), MLCT
+3-144	S3 H-2→LUMO (95%) LLCT/ 2.46 504 0.0170
+3-145	MLCT
+3-146	S5 H-8→LUMO (23%), H- MLCT/ 2.51 495 0.0944
+3-147	4→LUMO (71%) LLCT/
+3-148	S6 H-6→LUMO (80%) MLCT/ 2.72 457 0.1108
+3-149	LLCT
+3-150	T1 HOMO→LUMO (98%) MLCT/ 1.74 712 0
+3-151	LLCT
+3-152	T2 H-1→LUMO (97%) MLCT/ 1.74 711 0
+3-153	LLCT
+3-154	aH = HOMO; L = LUMO. bMajor contributions defined as >10% contribution to the transition.
+3-155	imental absorption spectra.
+3-156	For 1, the intense bands at around 340 nm are the result of a mixed 1LC transition localized on the 2,5-dpp ancillary ligand and a 1LLCT transition (respectively, S12, H-6→LUMO (82%), HOMO→L+4 (15%), f = 0.8855; S11, H-6→LUMO (15%), HOMO→L+4 (83%), f = 0.1435).
+3-157	The intense higher energy absorption bands between 250 and 350 nm are dominated by mixed 1 LCppy and 1LC 2,5‑dpp transitions.
+3-158	A similar trend in assignments is observed for 2 wherein mixed 1 CT transitions define the spectral features below 350 nm and 1LC transitions dominate at higher energies.
+3-159	The geometry and energy of the T1 state for each complex were fully optimized using unrestricted B3LYP (UB3LYP).
+3-160	The spin densities for the T1 state are shown in the inset of Figure 6.
+3-161	For 1, the spin density is distributed throughout the complex while for 2 one of the two iridium centers is bereft of spin density.
+3-162	However, a second isoenergetic T2 state is predicted by TDDFT, which we hypothesize to contribute spin density to the second iridium center and its surrounding ligand sphere.
+3-163	From an evaluation of these spin density distributions along with the TDDFT calculations, the nature of the emission in each complex is attributed to a mixed 3MLCT/LLCT state.
+3-164	The predicted emission energies computed as the difference between the T1 and S0 states at their respective optimized geometries, which approximates the E0,0 emission band, are 602 and 767 nm, respectively, for 1 and 2.
+3-165	These predictions match very well with the 77 K emission maximum observed for 1 and 2 at 589 and 715 nm, respectively.
+3-166	For both 1 and 2, there is a substantial increase in the magnitude of the dipole moment in the T1 state compared to the S0 state of about 9 and 20 D, respectively.
+3-167	In particular, the orientation of the dipole in 2 remains unchanged in the excited state and is directed along an
+3-168	(green) are represented by unbroadened vertical lines of the 100 lowest-energy calculated singlet−singlet transitions.
+3-169	UV−vis absorption spectra
+3-170	from 250 to 750 nm are shown.
+3-171	axis linking the two iridium atoms, bifurcating the two nitrogen atoms of the pyrazine ring.
+4-001	■
+4-002	We presented the first examples of 2,5-dpp-containing iridium(III) complexes including their solid state structures.
+4-003	We showed that the 2,5-dpp ligand promotes a large red-shift in the RT emission spectrum for mononuclear complex 1.
+4-004	The RT luminescence of dinuclear analogue 2 was unfortunately completely quenched.
+4-005	The deep-red emission and quasi- reversible electrochemical behavior in 1 makes it a promising candidate in red-emitting LEECs for flat panel lighting and visual displays.

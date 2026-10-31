@@ -1,0 +1,225 @@
+# document_id: cm402381w
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Conjugated polymers for organic thin-film transistors (OTFTs)
+1-003	have been extensively studied due to their easily modification of structure, solution processability, and cheap device fabrication
+1-004	such as printing technique.[1−5] In the past of few years, great achievements for polymer-based OTFTs have been acquired through molecular design and device optimization.
+1-005	For example,
+1-006	some polymers exhibit high mobility over 1.0 cm2 V−1 s−1,[6−24]
+1-007	even 10.5 cm2 V−1 s−1.[25]
+1-008	It is well-documented that most of high hole-mobility polymers are donor−acceptor (D−A) type materials including a strong electron-accepting and an electron-donating unit.
+1-009	Because of strong donor−acceptor interaction of the nearest neighboring intermolecular over- lapping and ordered π−π close packing among the conjugated polymeric chains the hole-mobility are greatly enhanced.[3,6,14]
+1-010	Among these D−A copolymers diketopyrrolopyrrole (DPP)- based copolymers have gained much attention for their
+1-011	8−12,16−21,23−37
+1-012	promising application in OTFTs.
+1-013	The strong electron deficiency and good planarity of DPP unit endow the polymer strong intermolecular π−π interactions of the main
+1-014	© 2013 American Chemical Society 4290
+1-015	chains.[16,17,23]
+1-016	In addition, introduction of a long π-conjugated donor can reinforce the intermolecular stacking interactions for D−A copolymer, which is a feasible synthetic strategy for obtaining high charge carrier mobility.
+1-017	Recently, many studies have proven that introducing a longer β-unsubstituted oligothiophene unit as an electron-donating unit to construct DPP-oligothiophene copolymers can extend the D−A conjugation length and reduce the steric hindrance of the bulk side chain groups, which does favor to enhance the mobility with much pronounced p-type behavior.
+1-018	For example, several groups have reported that the DPP-oliogothiphene copolymers (PDPPnT, n = 2, 3, 4) show the enhancing hole-mobility with
+1-019	9,12,17,27,35,36
+1-020	the increment of thiophene group.
+1-021	Our group also reported that PDPP5T exhibited remarkably high mobility of 3.46 cm2 V−1 s−1 due to the introduction of quintetthiphene group, which is one of the highest hole-mobilities among the
+1-022	Received: July 16, 2013
+1-023	Revised: October 12, 2013
+1-024	Published: October 15, 2013
+1-025	DPP-oliogothiphene copolymers.[23]
+1-026	However, it can be expected that as the number of thiophene is increased in the long β-unsubstituted oligothiophene, the conjugated main-chain of D−A copolymers will become more rigid.
+1-027	Thus, the corresponding copolymer will become poor soluble or even insoluble in organic solvents, which will affect molecular weight, film-forming fabrication, polymeric crystallization and intermolecular ordering capability that finally impairs the OTFT performance.
+1-028	On the other hand, the introduction of more thiophene unit can extend the conjugation length of the main-chain, increase the distance of two bulk side-chain groups in DPP unit and diminish their steric hindrance, which favors to form well-ordered lamellar structure of π−π stacking and improve the hole-mobility of the OTFT performances.
+1-029	Therefore, addition of thiophene group in the conjugated backbone may affect the π−π stacking, solubility and film-forming property of polymers, thus influencing the OTFT performances.
+1-030	Herein, we designed and synthesized two new DPP-oliogothiphene copolymers, diketopyrrolopyrrole-sextetthio- phene (PDPP6T) and diketopyrrolopyrrole-septetthiophene (PDPP7T) copolymers.
+1-031	The remarkably high mobility of 3.94 cm2 V−1 s−1 for PDPP6T and 2.82 cm2 V−1 s−1 for PDPP7T is acquired, and the influence on the OTFT performances through introducing different long β-unsubsituted oligothiophene unit has been investigated.
+2-001	■
+2-002	Materials.
+2-003	All the chemicals are purchased from Aldrich.
+2-004	Toluene was distilled from K−Na alloy under an atmosphere of argon and other chemicals were used without further purification. 3,6-bis-(5-bromo- thiophen-2-yl)-N,N′-bis(2-octyldodecyl)-1,4-dixo-pyrrolo[3,4-c]-pyr- role, α,α′-bis(trimethylstannyl)-bithiophene and α,α′-bis-(trimethylstannyl)-terthiophene were synthetized according to previous reports.[9,40]
+2-005	The synthetic routes of monomers and polymers are shown in Scheme 1 and Scheme 2, respectively.
+2-006	Synthesis.
+2-007	Synthesis of 3,6-bis([2,2′-bithiophen]-5-yl)-2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione: To a degassed solution of 3,6-bis-(5-bromo-thiophen-2-yl)-N,N′-bis(2-octyldodecyl)-1,4-dixo-pyrrolo[3,4-c]-pyrrole (1.228 g, 1.2 mmol) was added 2-(thiophen-2-yl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane(0.556 g, 2.6 mmol), 2 M K 2CO3 solution in H2O (8 mL), THF (25 mL), and Pd(PPh3)4 (5 mol %).
+2-008	The mixture was stirred at 70 °C for 48 h under argon protection.
+2-009	The resulting mixture was cooled to room temperature, after which it was poured out in ether, washed with water and brine, and dried over anhydrous Na2SO4.
+2-010	The solvent was then removed under reduced pressure.
+2-011	Finally, the crude product was purified by silica column chromatography with an eluent (PE:CH 2Cl2 = 2:1) to afford black solid (0.94 g, 76%).
+2-012	1H NMR (300 MHz,CDCl3, δ ppm): 8.93 (d, J = 3.9 Hz, 2H), 7.32−7.35 (m, 6H), 7.1 (t, J = 4.2 Hz, 2H), 4.06 (d, J = 6.9 Hz, 4H), 1.97 (s, 2H), 1.22−1.32 (m, 64H), 0.87 (t, 12H).
+2-013	13C NMR (CDCl3, 75 MHz, δ ppm): 161.43, 142.51, 139.31, 136.61,136.21,128.12,126.04,124.95,124.61,108.19,46.20,37.88, 31.88, 31.27, 30.03, 29.60, 29.31, 26.30, 22.63, 14.06.
+2-014	MS (MALDI- TOF, m/z): [M] calcd for C62H92N2O2S4, 1024.6; found, 1024.1 [M].
+2-015	Synthesis of 3,6-bis(5′-bromo-[2,2′-bithiophen]-5-yl)-2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione: To a solution of 3,6-bis([2,2′-bithiophen]-5-yl)-2,5-bis(2-octyldodecyl)pyrrolo-[3,4-
+2-016	Chemistry of Materials
+2-017	Article
+2-018	c]pyrrole-1,4(2H,5H)-dione (0.57 g, 0.56 mmol) in chloroform (30
+2-019	mL) at 0 °C was added N-bromosuccinimide (0.203 g, 1.14 mmol) in portions over 20 min, and the reaction mixture was stirred for 10 h at
+2-020	room temperature.
+2-021	After that, the mixture was washed with water and brine, and evaporated.
+2-022	The resulting solid was subjected to silica column chromatography with an eluent (PE:CH 2Cl2 = 5:2) to afford black solid (0.54 g, 81%).
+2-023	1H NMR (300 MHz,CDCl3, δ ppm): 8.93(d, J = 3.9 Hz,
+2-024	2H), 7.32−7.35 (m, 6H), 7.1 (t, J = 4.2 Hz, 2H), 4.06 (d, J = 6.9 Hz, 4H),
+2-025	1.97 (s, 2H), 1.22−1.32 (m, 64H), 0.87 (t, 12H). 8.86 (d, J = 3.9 Hz,
+2-026	2H), 7.21 (d, J = 3.9 Hz, 2H), 7.04 (d, J = 3.9 Hz, 2H), 7.01 (d, J = 3.9
+2-027	Hz, 2H), 4.00 (d, J = 7.8 Hz, 4H), 1.92 (s, 2H), 8.87 (d, 2H), 1.09−1.28
+2-028	(m, 64H), 0.84 (t, 12H).
+2-029	13C NMR (CDCl3, 75 MHz, δ ppm): 161.59, 141.53,139.42,137.94,136.82,131.22,128.67,125.16,124.94,113.33, 108.65,46.49,41.59,38.19,34.89,32.18,31.84,31.56,30.33,29.96, 29.63,29.30,27.15,26.61,22.94,22.83,20.90,19.64,18.96,14.33,11.64.
+2-030	MS (MALDI-TOF, m/z): [M] calcd for C 62H90Br2N2O2S4, 1182.4; found, 1182.0[M].
+2-031	Synthesis of PDPP6T-cb and PDPP6T-dcb: Compound 1 (198 mg,
+2-032	0.166 mmol), compound 2 (81.9 mg, 0.166 mmol), and Pd(PPh 3)4 (9.5
+2-033	mg, 5 mol %) were put into a flask.
+2-034	The flask was subjected to five successive cycle of vacuum followed by refilling with argon.
+2-035	Then, anhydrous toluene (10 mL) was added via a syringe.
+2-036	The polymerization
+2-037	was carried out at 90 °C for 30 h under argon protection.
+2-038	And then 0.4
+2-039	mL of bromobenzene was added to the mixture to react with the residual trimethylstannyl end group.
+2-040	The mixture was further stirred at 90 °C for
+2-041	8 h.
+2-042	Next, the mixture was cooled to ambient temperature and dropped
+2-043	into methanol.
+2-044	The raw product was filtered off and subjected to subsequent Soxhlet extractions with acetone, methanol, hexane, chloroform, chlorobenzene, and o-dichlorobenzene.
+2-045	PDPP6T-cb and PDPP6T-dcb were obtained as dark solid by precipitation of the chlorobenzene and o-dichlorobenzene, respectively.
+2-046	PDPP6T-cb yield =
+2-047	36%.
+2-048	Anal. Calcd for C70H94N2O2S6: C, 70.78; H, 8.00; N, 2.36.
+2-049	Found:
+2-050	C, 70.93; H, 8.13; N, 2.21.
+2-051	Mw/Mn (GPC) = 29400/19700.
+2-052	PDPP6T-
+2-053	dcb yield = 43%.
+2-054	Anal. Calcd for C70H94N2O2S6: C, 70.78; H, 8.00; N,
+2-055	2.36.
+2-056	Found: C, 70.62; H, 8.07; N, 2.28.
+2-057	Mw/Mn (GPC) = 54 300/40
+2-058	200.
+2-059	Synthesis of PDPP7T-cb and PDPP7T-dcb: PDPP7T-cb and PDPP7T-dcb were prepared under the same conditions as above by terminating the polymerization after 20 h.
+2-060	PDPP7T-cb yield = 25%.
+2-061	Anal. Calcd for C74H96N2O2S7: C, 70.00; H, 7.62; N, 2.21.
+2-062	Found: C, 70.32; H, 7.45; N, 2.32.
+2-063	Mw/Mn (GPC) = 24 800/15 000.
+2-064	PDPP7T-dcb: yield =54%.
+2-065	Anal. Calcd for C74H96N2O2S7: C, 70.00; H, 7.62; N, 2.21.
+2-066	Found: C, 70.23; H, 7.50; N, 2.16.
+2-067	Mw/Mn (GPC) = 43 300/25 400 Instrumentation.
+2-068	1H and 13C NMR spectra were recorded on MERCURY-VX300 (300 MHz).
+2-069	Elemental analysis of carbon, hydro-
+2-070	gen, and nitrogen was performed on a Vario EL III microanalyzer.
+2-071	Molecular weight determinations were carried out in hot trichlor- obenzene solution (150 °C) on a Agilent Technologies PL-GPC220 Chromatograph using Agilent PLGel Olexis (300 × 7.5 mm) column
+2-072	with polystyrene calibration standards.
+2-073	Elemental analysis of carbon, hydrogen, and nitrogen was performed on a Vario EL III microanalyzer.
+2-074	Thermal gravimetric analysis (TGA) and differential scanning calorimetry (DSC) were respectively performed on a NETZSCH
+2-075	STA 449C and a Perkin-Elmer Pyris 1.
+2-076	Absorption spectra were taken
+2-077	on a Shimadzu UV-2500 spectrophotometer.
+2-078	The electrochemical cyclic voltammetry was conducted on a Zahner IM6e Electrochemical Workstation with Pt disk coated with the polymer film, Pt plate, and Ag/AgCl electrode as working electrode, counter electrode, and
+2-079	910 1.32 0.32/−5.12 −1.28/−3.55
+2-080	. bThe LUMO level was estimated from the HOMO level and the
+2-081	onset
+2-082	reference electrode, respectively, in a 0.1 mol/L tetrabutylammonium hexafluorophosphate (Bu4NPF6) acetonitrile solution under an argon atmosphere at a scan rate of 100 mV/s.
+2-083	The potential of reference electrode was calibrated using the Ferrocene/ferrocenium redox couple (F c/Fc+), which has a known reduction potential of −4.8 eV.
+2-084	The HOMO and LUMO energy levels are calculated by the equations of HOMO = −(Eox + 4.8 eV) and LUMO = −(Ered + 4.8 eV), where Eox and Ered are the onset potential for oxidation and reduction, respectively.
+2-085	X-ray diffraction patterns of thin films were obtained with a Rigaku-D/max-2500 X-ray diffractometer.
+2-086	The grazing incidence X-ray diffraction (GIXRD) data were obtained at 1W1A, Beijing Synchrotron Radiation Facility.
+2-087	For GIXRD, the spin-coating films were illuminated at a constant incidence angle of 0.2° (λ = 2dsin θ =1.5475 Å).
+2-088	AFM experiments were performed on a Nanoscope V AFM (Digital Instruments) under ambient conditions.
+2-089	Fabrication and Characterization of Thin-Film Transistors.
+2-090	OTFT devices with bottom-gate and bottom-contact structure and the synthesized copolymers as semiconductors were fabricated on silicon wafer in ambient conditions without special precautions.
+2-091	The device was fabricated on n+-doped silicon wafer with a 300 nm thermally deposited silicon dioxide.
+2-092	The n+-Si layer was used as the gate electrode and the silicon oxide layer served as the gate dielectric.
+2-093	Gold (Au) source and drain electrodes were prepared by photolithography and lift off technique.
+2-094	The dielectrics have been modified by octadecyltrichloro- silane (OTS) in a vacuum oven at a temperature of 120 °C for 3h.
+2-095	Then, the semiconductor layers were deposited on the top of the OTS- modified SiO2 surface by spin-coating solutions (PDPP6T-cb and PDPP7T-cb, 10 mg/mL in hot chloroform; PDPP6T-dcb and PDPP7T-dcb, 2 mg/mL in hot o-dichlorobenzene at 2000 rpm for 120 s at room temperature.
+2-096	For PDPP6T-cb and PDPP7T-cb, the chloroform solutions are hot to begin with and for PDPP6T-dcb and PDPP7T-dcb, the substrate was heated before spin-coating.
+2-097	And these thin films of polymers were annealed in vacuum oven for an hour at the setting temperature.
+2-098	Channel length (L) and channel width (W) of devices were 50 and 1400 μm for all polymers.
+2-099	The OTFTs were then characterized using a Keithley 4200 semiconductor characterization system in air.
+2-100	The carrier mobility was calculated according to equation in the saturation regime from the gate sweep (1): IDS = Ciμ(W/2L)(VG − VT)[2], where IDS is the drain current, μ is the carrier mobility, Ci is the capacitance per unit area of the gate dielectric layer, W and L are respectively the semiconductor channel width and length, and VG and VT are gate voltage and threshold voltage, respectively.
+3-001	■
+3-002	The synthesis of a key intermediate of 3,6-bis(5′-bromo-[2,2′-bithiophen]-5-yl)-2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]-pyrrole-1,4(2H,5H)-dione was shown in Scheme 1 and it was characterized by 1H NMR , 13C NMR, and MALDI-TOF.
+3-003	Scheme 2 shows the synthetic routes of PDPP6T and PDPP7T copolymers.
+3-004	They were prepared via Stille coupling polymer- ization of 3,6-bis(5′-bromo-[2,2′-bithiophen]-5-yl)-2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione (1) with α,α′-bis(trimethylstannyl)-bithiophene (2) and α,α′-bis-(trimethylstannyl)-terthiophene (3) in toluene at 90 °C, respectively, and purified by precipitation into methanol followed by Soxhlet extraction with acetone, methanol, hexane,
+3-005	and chloroform to remove small molecules, oligomers and low- molecular-weight polymers.
+3-006	Finally, the high-molecular-weight samples were obtained by Soxhlet extraction with chlorobenzene (namely PDPP6T-cb and PDPP7T-cb) and dichlorobenzene (namely PDPP6T-dcb and PDPP7T-dcb).
+3-007	The molecular weight and polydispersity index (PDI) of these polymers were determined by gel permeation chromatography (GPC) analysis with a polystyrene standard calibration.
+3-008	Mn and PDI of these polymers were measured at 150 °C using 1,2,4-trichlorobenzene as an eluent (see Figure S1 in the Supporting Information) and summarized in Table 1.
+3-009	As can be seen, the molecular weight of PDPP6T-cb (Mn = 19 700, extracted with chlorobenzene) is much less than that of PDPP6T-dcb (Mn = 40200, extracted with dichlorobenzene).
+3-010	Similar results were also obtained for the PDPP7T samples (PDPP7T-cb, Mn =15 000; PDPP7T-dcb, Mn = 25 400).
+3-011	These results are well in agreement with their solubility.
+3-012	The samples extracted with chlorobenzene (PDPPnT- cb, n = 6, 7) can be soluble in hot chloroform and chlorinated benzenes.
+3-013	However, PDPP6T-dcb and PDPP7T-dcb, which was extracted with dichlorobenzene, can be only partially soluble in hot dichlorobenzene and trichlorobenzene.
+3-014	It should be noted that the PDPP7T samples show lower molecular weight than the corresponding PDPP6T samples, which can be attributed to the increment of one more thiophene group in β-unsubsituted oligothiophene unit strengthening the rigidity of D−A unit of the polymeric main-chain and results in the decrease of molecular weight and solubility of the polymer.
+3-015	The thermogravimetric analysis (TGA) study for these polymers (see Figure S2 in the Supporting Information) show that the decomposition temperatures are over 340 °C, implying that these polymers exhibit much excellent thermostability.
+3-016	The differential scanning calorimetry (DSC) of polymers was also characterized as shown in Figure S3 in the Supporting Information.
+3-017	Thermal analysis of PDPP6T-cb, PDPP7T-cb and PDPP7T-dcb show an endothermic peak at about 248, 294, and 278 °C respectively in the DSC profiles, which refers to the melting of the polymeric backbone.
+3-018	The melting of the side chains was not observed, which means that the crystallization of the polymeric main-chains is predominant during the molecular packing as compared to the long side chains.
+3-019	Unexpectedly, no obvious microstructural phase transitions in the DSC profiles of PDPP6T-dcb were observed below 350 °C. These results indicate that the molecular weight has great effect on the microstructural phase transition of the polymer.
+3-020	The UV−vis−NIR absorption spectra of these polymers were measured in hot o-dichlorobenzene heated at about 100 °C and in thin film as shown in Figure 1.
+3-021	The corresponding photophysical data are summarized in Table 1.
+3-022	As can be seen, the absorption of two lower-molecular-weight polymers (PDPP6T-cb and PDPP7T-cb) in thin film has a little red-shift relative to the solution.
+3-023	And the maximum absorption peaks in film are well-defined in comparison with those in solution, which reveal that the vibrational transition in the film is increased.
+3-024	These results indicate that the intermolecular aggregation and ordered-structure can be improved in the thin-film state for PDPP6T-cb and PDPP7T-cb compared with in solution.
+3-025	Instead, the two higher-molecular-weight polymers (PDPP6T- dcb and PDPP7T-dcb) show almost same absorption spectra with the two well-defined peaks both in solution and in thin film.
+3-026	The possible reason is that their poor solubility makes them exist in the almost same aggregated assembly in solution as in the film.
+3-027	Compared with some other reported PDPPnT copolymers, their optical band gap becomes slightly larger than that of PDPPnT (n
+3-028	= 4, Egopt = 1.20 eV, and n = 5, Egopt = 1.32 eV).[9,23]
+3-029	However, the optical band gap is still small, suggesting that the D−A intramolecular charge transfer and the intermolecular inter- actions of the polymer chains is also much strong enough to obtain high-hole mobility.
+3-030	The electrochemical properties of these polymers were characterized with cyclic voltammetry (CV) (shown in Figure
+3-031	2) and also summarized in Table 1.
+3-032	The highest occupied
+3-033	s−1).
+3-034	molecular orbital (HOMO) level and the lowest unoccupied molecular orbital (LUMO) level of these polymers are calculated from the onset oxidation potential and the onset reduction potential, respectively.
+3-035	For the reduction processes of PDPP7T-cb and PDPP7T-dcb exhibit low currents, indicating that the polymer containing more thiophene unit (7T) is difficultly reduced.
+3-036	And the LUMO levels of the two polymers are
+3-037	Article
+3-038	calculated from the HOMO value and the optical band gap.
+3-039	It is found that the HOMO energy of these polymers closely approach the gold electrodes, which may facilitate charge injection and increase the field-effect hole mobility.[38]
+3-040	OTFTs (bottom-gate and bottom-contact) based on these polymers were also investigated in this paper.
+3-041	The polymer films were deposited onto octadecyltrichlorosilane (OTS)-modified SiO2 (300 nm)/n+ doped Si substrate by spin-coating the solution of polymers.
+3-042	And these thin films were annealed at different temperatures respectively.
+3-043	The corresponding OTFT performances including PDPP6T and PDPP7T polymers are summarized in Table 2 and Tables S1−S5 in the Supporting Information.
+3-044	Figure 3 illustrates typical output and transfer
+3-045	curves of OTFT devices containing PDPP6T-cb thin film without thermal annealing and annealed at 200 °C. As can be seen, the maximum hole-mobility of PDPP6T-cb based OTFT device without annealing is about 0.36 cm2 V−1 s −1.
+3-046	With the increment of annealing temperature the hole-mobility is also increased, and its maximum mobility reaches 3.94 cm2 V−1 s−1 as the annealing process was performed at 200 °C. It is one of the highest hole-mobility among the DPP-based polymeric semi- conductors.
+3-047	Although PDPP7T-cb exhibits little lower hole-mobility than that of PDPP6T-cb, its maximum hole-mobility also reaches 2.82 cm2 V −1 s−1 after annealing at 180 °C. However, the samples with high molecular weight (PDPPnT-dcb, n = 6, 7) show much worse hole mobility compared with the correspond- ing low-molecular-weight polymers (PDPPnT-cb, n = 6, 7).
+3-048	The possible reason is that the poor solubility of PDPPnT-dcb (n = 6,
+3-049	7) is unfavorable for the well-ordered film formation that impairs the hole-mobility.
+3-050	To investigate the influence of the thin film microstructure, topographies, and the corresponding film-forming properties of these polymers on the OTFT performances, the X-ray diffraction (XRD) patterns of thin films for PDPP6T-cb and PDPP7T-cb (see Figure 4S in the Supporting Information) and AFM height images of thin films for all the polymers (Figure 4 and Figure 5S
+3-051	in the Supporting Information) without annealing and annealed at the optimum annealing temperature were characterized.
+3-052	It can be seen in Figure S4 in the Supporting Information that the XRD patterns of PDPP6T-cb only exhibit a nonsharper diffraction peak at 2θ = 5.12° before the sample was annealed.
+3-053	However, after annealing at 200 °C, it becomes much stronger and sharper.
+3-054	Similar XRD patterns for PDPP7T-cb without annealing or annealing at 180 °C are also observed.
+3-055	This confirms that more significant crystallization and better molecular ordering occurs at optimum annealing temperature for the thin films of two polymers.
+3-056	In addition, the AFM height images suggest that PDPP6T-cb and PDPP7T-cb have relatively good film-forming property (Figure 4a, 4c).
+3-057	After annealing, the surface with rod- like structure become smooth (the Rq of PDPP6T-cb film decreases from 2.73 to 2.41 nm and that of PDPP7T-cb decreases from 2.50 to 1.95 nm), indicating that more ordered polymer structure is formed.
+3-058	The connectivity between neighboring domains is developed, which will facilitate the establishment of efficient pathways for charge transport and enhance the charge mobility of OTFT device.[39]
+3-059	As for higher-molecular-weight polymers (PDPP6T-dcb and PDPP7T-dcb), their nonannealed thin films show less defined granule (see Figure S5 in the Supporting Information) compared with those of lower-molecular-weight polymers (PDPP6T-cb and PDPP7T-cb).
+3-060	Furthermore, many voids were observed in their nonannealed thin films, implying the poor connectivity between these domains.
+3-061	After annealing at the optimum annealing temperature for PDPP6T-dcb and PDPP7T-dcb, their thin films
+3-062	show comparatively densely packed crystalline domains characteristic (see Figure S4 in the Supporting Information).
+3-063	Therefore, the results of OTFT devices for the polymers are in agreement with AFM images.
+3-064	To research the influence of the longer oliogothiophene unit (6T and 7T) on polymeric main chain packings, we employed the grazing incidence X-ray diffraction (GIXRD) of the as-spun thin films of PDPP6T-cb and PDPP7T-cb annealed at the optimum annealing temperature (Figure 5).
+3-065	As shown in panels a and b in Figure 5, both PDPP6T-cb and PDPP7T-cb show a distinct out-of-plane diffraction at 2θ = 5.1 and 5.2°, corresponding to the d spacing of 17.39 and 17.06 Å, respectively.
+3-066	In the in-plane pattern of the two polymers (Figure 5c and 5d), a
+3-067	strong diffraction at 2θ = 24.2 and 24.6° is observed, corresponding to the π−π stacking distance of 3.69 Å for PDPP6T-cb and 3.63 Å for PDPP7T-cb in thin film.
+3-068	The above XRD results reveal that the well-ordered lamellar structure with an edge-on orientation was formed for the two polymer thin films.
+3-069	Also, such small π−π distances between polymeric backbones suggests that there exists a strong intermolecular interaction among the D−A conjugated main chains, which accounts for the excellent device performances of the two polymers.
+3-070	Recently, our group reported a DPP-based polymer, d i k e to p yr r ol o py r r o l e- q u in t et t hi o ph e ne c o po l ym e r (PDPP5T).[23]
+3-071	Compared with other DPP-oligothiophene
+3-072	9,12,17,27,35,36
+3-073	copolymers (PDPPnT, n = 2, 3, and 4), PDPP5T exhibits better OTFT performance (μmax = 3.46 cm2 V−1s−1).
+3-074	It has been found that introduction of more thiophene groups into the DPP-oligothiophene copolymer can increase the distance of two bulk side-chain groups in the DPP unit and diminish their steric hindrance.[9,23]
+3-075	This is further confirmed in this work, where the π−π distance of PDPP7T-cb is slightly less than that of PDPP6T-cb.
+3-076	However, the mobility of PDPP7T-cb (μmax = 2.82 cm2 V−1 s−1) is much less than that of PDPP6T-cb (μmax = 3.94 cm2 V−1 s−1).
+3-077	It can be inferred that molecular weights of the two polymers also play an important role in carrier mobility.
+3-078	Generally, in the case of better solubility, the higher-molecular-weight polymer favors to form the ordered packing of the polymeric interchains that can facilitate the establishment of efficient pathways for charge transport.[9,23]
+3-079	Because the introduction of one more thiophene group into DPP-oligothiophene main-chain considerably strengthens the rigidity of polymeric conjugated chain, the solubility of DPP-oligothiophene copolymers becomes much poor in organic solvents that finally affects the degree of polymerization.
+3-080	Thus, the Mn of PDPP7T-cb (15.0k) is lower than that of PDPP6T-cb (19.7k).
+3-081	For PDPP6T-dcb and PDPP7T-dcb, they can be only partially soluble in hot dichlorobenzene and trichlorobenzene, indicating that their solubility becomes much poorer than PDPP6T-cb and PDPP7T-cb.
+3-082	Although they show much higher molecular weight than PDPPnT-cb (n = 6, 7), the poor solubility of them is unfavorable for them to form the ordered interchain packing for the charge transport, so they present much worse hole mobility than the corresponding PDPPnT-cb (n = 6, 7), which is in agreement with the AFM images (see Figure S4 in the Supporting Information).
+3-083	Therefore, it can be concluded that the suitable β-unsubstituted oligothiophene (i.e., 5T and 6T) for the DPP-oligothiophene copolymers can balance the influence on OTFT performances between the favorable factor for well-ordered π−π stacking of intermolecular chains and the adverse factor for low molecular weight and poor solubility of the rigid main chain, which is important in the design of conjugated polymers for OTFTs.
+4-001	■
+4-002	Two new D−A copolymers with alternate DPP and β-unsubstituted sextetthiophene (6T) or heptetthiophene (7T) unit were synthesized and characterized.
+4-003	The remarkably high mobility of 3.94 cm2 V−1 s −1 for PDPP6T-cb and of 2.82 cm2 V−1 s−1 for PDPP7T-cb is acquired through annealing at a suitable temperature.
+4-004	The influences of long β-unsubstituted oliogothio- phene unit on the OTFT performances were investigated.
+4-005	By comparison of OTFT mobility of series PDPPnT copolymers, it is found that the introduction of longer β-unsubstituted oligothiophene unit reduces the steric hindrance of the bulk
+4-006	side-chain groups that favors to construct well-ordered lamellar structure of π−π stacking.
+4-007	However, the strengthening of the intrachain conjugation rigidity results in low molecular weight and poor solubility of the polymer that is unfavorable for OTFT performances.
+4-008	Therefore, there is a suitable number of thiophene groups in β-unsubstituted oligothiophene for PDPPnT copoly- mers to exhibit the highest hole-mobilty and best OTFT performances.
+4-009	The study of influence of the longer β-unsubstituted oliogothiophene unit on the OTFT performances in this work also reveals the significance of regulating the balance between π−π stacking of intermolecular chains and molecular weight as well as solubility of rigid main-chain in the design of D−A copolymers for OTFTs.

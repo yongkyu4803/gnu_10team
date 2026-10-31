@@ -1,0 +1,212 @@
+# document_id: cm403039y
+# extractor: kordoc-markdown-adapter-1
+1-001	especially pharmaceutical crystals.[4]
+1-002	It is hypothesized that the
+1-003	■
+1-004	initial aggregated cluster formation and kinetics of heteroge- Polymorphism results from the ability of a solid material to
+1-005	neous nucleation are decisive in polymorphism, which can be organize and pack into two or more unit cell structures in its
+1-006	affected by the specific intermolecular interactions between the crystalline forms.
+1-007	Polymorphism plays critical roles in the
+1-008	nuclei in forming and the biological or synthetic polymer properties and performance of a variety of crystalline materials, 1,2,4
+1-009	1 additives.
+1-010	including organic and molecular crystals, and Nature displays
+1-011	The crystallization and polymorphism of small molecule impressive control of polymorphism in inorganic crystals.
+1-012	For
+1-013	organic semiconductors are of paramount importance in example, organisms are able to exert strikingly precise in vivo
+1-014	determining the microstructure and charge transport of various control of the polymorphs of their precipitated calcium
+1-015	organic electronic devices such as organic thin film transistors carbonate crystals (calcite or aragonite), creating at a given 5,6
+1-016	2 (OTFTs), solar cells, and sensors.
+1-017	The small molecule location using self-synthesized biological macromolecules.
+1-018	Belcher et al. demonstrated that soluble polyanionic proteins organic semiconductor 6,13-bis(triisopropylsilylethynyl)-extracted from an abalone shell can abruptly switch the pentacene (TIPS-pentacene, or TP) has attracted intense 3 scientific attention since its discovery because of its air stability, polymorphs of calcium carbonate during crystallization.
+1-019	Matzger and co-workers used a library of insoluble synthetic
+1-020	polymer additives to develop the so-called “polymer hetero- Received: August 7, 2013
+1-021	nuclei-induced crystallization” method, which largely facilitates Revised: October 8, 2013
+1-022	polymorph selection of solution-grown organic single crystals, Published: October 8, 2013
+1-023	P3HT and PnBT-RRa
+1-024	versatile solvent choices, and high hole mobility (up to 1.4 cm2 V−1 s−1 without solution shear, and up to 4.6 cm2 V−1 s−1 with optimized solution shear).[6−12] Various approaches, including additives and external field-induced alignment methods have been adopted to manipulate the crystallization of TP, to optimize its charge transport within the resultant crystalline thin films.
+1-025	For example, Giri et al. used a solution shear method to apply lattice strain on the TP unit cell, reducing the π−π stacking distance from 3.33 Å to 3.08 Å, and increasing the hole mobility of TP by 5−6 fold.[6]
+1-026	Other external alignment methods applied to control the crystallization of TP include substrate tilting,[13] air navigation,[9,14,15] dip-coating,[8] and scanning corona- discharge coating.[16]
+1-027	In the additive approaches, nonconjugated polymers (such as poly(α-methylstyrene))[10,17] and insulating SiO2 nanoparticles[18] were used to manipulate the vertical and lateral phase separation in the TP-based blends, while poor solvents were often introduced to yield solution-processed TP single crystals.[11,19]
+1-028	Thin films of TP-based blends with conjugated polymer additive poly[bis(4-phenyl)(2,4,6-trimethylphenyl)amine] (PTAA) were previously fabricated with a spin-coating method, yielding spherulitic TP crystals on the top surface of the blend film.[17]
+1-029	It is noted that no TP unit cell changes were reported for most of these external alignment and additive approaches, except in the case of the solution shear method.[6]
+1-030	Slow solution crystallization of small molecule organic semiconductors with conjugated polymer additives have not been reported previously to the best of our knowledge.
+1-031	In addition, structural similarity between the additive and small molecule organic semiconductor are largely underexplored with regard to their effects on resultant crystal structures and long-range order.
+1-032	Using TP as a model small molecule semiconductor and two conjugated polymers with distinctively different structural similarity to TP, we demonstrate for the first time, “conjugated polymer-mediated polymorphism” of small molecule organic semiconductor for the first time, which leads to excellent long-range order and improved charge transport in the absence of any external alignment techniques.
+1-033	The combination of conjugated polymer additives and a slow solution crystallization approach leads to crystal structures that are distinctly different from the ones achieved with nonconjugated polymer additives
+1-034	or external-field induced alignment.
+1-035	Grazing incidence X-ray diffraction (GIXRD), selected area electron diffraction (SAED), energy-filtered TEM (EFTEM), SEM, and polarized optical microscopy are used to examine the thin film crystal structure, spatial distribution of individual components, and unit cell parameters of TP polymorphs resulting from conjugated polymer-mediated solution crystallization.
+1-036	In addition, UV− vis absorption, crystallinity, and water contact angle measure- ments consistently show strong dependence on the molecular structure of the conjugated polymer additive in the TP blends.
+2-001	■
+2-002	Materials.
+2-003	TP and regiorandom pentacene−bithiophene polymer (PnBT-RRa) (Mn = 20 000−30 000 g·mol−1) are synthesized based on previously published procedures.[7,20]
+2-004	Poly(3-hexylthiophene) (P3HT) is purchased from Rieke Metals (BASF Sepiolid P200, Mn ∼ 20 000 g mol−1 by Gel Permeation Chromatography, or GPC).
+2-005	Film Formation.
+2-006	TP and polymer powder (1:1 by weight) are dissolved into anhydrous toluene solvent at a total-solids concen- tration of 0.5% wt.
+2-007	Drop-casting of pristine TP or TP/polymer blend solution is performed in a covered, solvent-vapor-rich, glass Petri dish at ambient conditions, and a typical slow solution crystallization process will take 0.5−1 h.
+2-008	Transmission Electron Microscopy and Electron Diffraction Simulation.
+2-009	Electron diffraction and TEM are conducted in a Zeiss Libra 120 at 120 kV with an in-column energy (Omega) filter.
+2-010	Electron energy loss spectra results are collected before using the conventional three-window method for elemental mapping, with an energy window of 20 eV.
+2-011	Electron diffraction experiments are performed with an emission current of ∼5 × 10−6 A and a selected area aperture of ∼1 μm in diameter.
+2-012	The electron diffraction patterns are calibrated against Al(111) standard (0.234 nm).
+2-013	A minimum electron dose condition was used, and the selected area electron diffraction patterns were obtained with an exposure time of 0.5 s, which was at least 3−5 times shorter than the (experimentally observed) critical exposure time required to severely damage the crystalline lattices.
+2-014	Simulated unit cell views and electron diffraction patterns are generated using CrystalMaker8.2, SingleCrystal 1.5, and Mercury2.3 (www.ccdc.cam.ac.uk/mercury/).
+2-015	Organic Thin Film Transistors.
+2-016	Bottom-gate, top-contact transistors are fabricated on heavily doped n-type Si substrate with 300-nm-thick thermal oxide layer and phenyltrichlorosilane (PTS) surface treatment.[6]
+2-017	After active layer deposition (slow solution crystallization), the 50-nm-thick gold electrode is vacuum evaporated
+2-018	films have randomly oriented crystals and large gaps, while (b) TP/P3HT and (c) TP/PnBT-RRa blends show excellent long-range order.
+2-019	An SEM
+2-020	image of the TP/P3HT wires is shown in panel d, and an SEM of the small-grain area of the TP/PnBT-RRa blend is shown in panel e.
+2-021	Red and
+2-022	green boxes indicate the typical locations for SEM images.
+2-023	through a shadow mask in a thermal evaporator at a high vacuum of 10−7 Torr with a deposition rate of 0.5−1 Å s−1.
+2-024	Electrical measurements of OTFTs are carried out in ambient environment with a Keithley 4200 semiconductor analyzer.
+2-025	Other Thin Film Characterization.
+2-026	Water contact angle measurements are performed with a Kruss DSA30.
+2-027	For each measurement, 3 μL of deionized water is used, along with a sessile fitting.
+2-028	GIXRD experiments are performed in a Philips X’Pert diffractometer with Cu Kα source (wavelength of 1.54 Å).
+2-029	A fixed grazing incidence angle is used, combined with a line scan detector in the incidence plane.
+3-001	■
+3-002	without the usage of any external alignment techniques.
+3-003	The pristine TP film is poorly covered, having large needle-shaped crystals (having widths on the order of 100 μm and lengths up to millimeters) with essentially random crystal orientations in the film plane.
+3-004	TP/P3HT 1:1 blend (by weight) forms grasslike, curved microwire bundles with improved long-range order, while TP/PnBT-RRa 1:1 blend (by weight) crystallizes into a “woven” straight needle pattern with significantly enhanced film coverage and long-range order (up to centimeters).
+3-005	The surface coverage of the TP/PnBT-RRa blend is significantly better than that of TP/P3HT, as indicated by their color-gradient appearance throughout the film surface unlike the “clean” uncovered areas (wafer surface) in TP/P3HT blends.
+3-006	Low- voltage (3 kV) SEM images of TP/P3HT microwires and the small grain area of TP/PnBT-RRa blends are presented in Figure 1d and 1e, respectively, both showing microstructures that are not accessible by crystallization of pristine TP films or TP/nonconjugated polymer blends.[10,21]
+3-007	Nonconjugated poly- mer additive is known to induce vertical phase separation in TP/polymer blend at an appropriate blend ratio, without changing the crystal habits of the small molecule organic semiconductor.[10]
+3-008	GIXRD of those three films (Figure 2) shows dominating (001)-type reflections of TP crystals, and the d
+3-009	spacings of the (001) peaks are 1.669, 1.638, and 1.632 nm, for pristine TP, TP/P3HT, and TP/PnBT-RRa, respectively.
+3-010	These results suggest that the needle- or wire-shaped crystals have (001) planes oriented parallel to substrate.[9,15]
+3-011	The long axis of the TP needles is previously designated as [210].[9,15]
+3-012	Although accurate peak intensity comparison in GIXRD requires accurate control of scan direction and symmetry, which is beyond the scope of this work, herein we qualitatively analyze film crystallinity based on Figure 2.
+3-013	(All films are fabricated under the same condition including concentration, drying rate, etc., so we assume their thickness values are comparable.
+3-014	This is further confirmed by the similar UV−vis peak intensities of TP absorption regions in different films (Figure S1b, Supporting Information).
+3-015	The dominating (001)-type reflections in all three TP-based films suggest preferred orientations along c-axis with (001) planes parallel to substrates in all cases.
+3-016	Therefore, herein we solely rely on the intensity of TP (001) planes for qualitative crystallinity analysis.) A pristine PnBT-RRa film is amorphous, evidenced by both GIXRD and SAED results, while P3HT films have a weak (001) peak at ∼1.600 nm, with a peak magnitude 5 times smaller than that of the TP/P3HT blend, and ∼100 times smaller than that of the TP/PnBT-RRa blend or pristine TP film (Figure S1a, Supporting Information).
+3-017	Figure S1a shows a comparison of the GIXRD peak intensities of TP/P3HT and TP/PnBT-RRa, which suggests that the (001)-type peak intensities of the TP/PnBT-RRa blend are generally more than 1 order of magnitude higher than those of TP/P3HT blend.
+3-018	Considering a crystallinity of pristine PnBT-RRa weaker than that of pristine P3HT, the higher (001) peak intensities and higher crystallinity of the TP/PnBT-RRa blend showcase the effect of structural similarity between the individual components (i.e., small molecule and polymer) and the participation of the TP component of the PnBT-RRa polymer in the resultant blend crystal structure.
+3-019	Stronger non-(001) type peaks appear in the pristine TP film, resulting from the needle-shaped crystals with a preferred orientation in film normal but random orientation in film plane.[18]
+3-020	On the other hand, the two blended films, especially the TP/PnBT-RRa film, show only a few non-(001) type peaks with low peak intensities, resulting from their
+3-021	improved grain orientation with well-defined 2D growth (Figure 2).
+3-022	UV−vis absorption spectra of the blend films are compared in Figure S1b (Supporting Information), along with the spectra of pristine polymer and TP films.
+3-023	Although orientation dependent UV−vis absorption is not pursued in this study, efforts are made to compare the films in identical growth conditions, coverage areas, and orientation.
+3-024	The optical absorption of the pristine P3HT film demonstrates a characteristic, vibronic feature caused by the π → π* transitions, with absorption maxima λmaxP3HT of 606, 558, 519, and 481 nm, respectively, corresponding to 0−0,0−1,0−2, and 0−3 transition in solid state.[22]
+3-025	The pristine TP and PnBT-RRa films also show absorption maxima λmaxTP (703, 651, 604, and 543 nm) and λmaxPnBT‑RRa (693, 630, 580, and 534 nm) that agree with previously reported results.[20,23]
+3-026	Tables 1 and 2 compare the
+3-027	shifts in UV−vis absorption maxima (Δλmax) from spectra of
+3-028	P3HT PnBT‑RRa
+3-029	neat polymer (λmax and λmax ) or small molecule film (λmaxTP ) to those observed in the blended films (λmaxTP/P3HT and
+3-030	TP/PnBT‑RRa
+3-031	λmax ).
+3-032	In general, the spectra for the TP/PnBT-RRa films show much larger peak shifts (up to 17 nm) compared to their TP/P3HT counterparts (≤3 nm).
+3-033	The magnitude of the shifts can be reasonably attributed to the structural similarity between the individual components and associated intermo- lecular interactions.
+3-034	More specifically, we expect that in the TP/P3HT blend, the π−π interactions between the conjugated polymer and TP as well as the hydrophobic interactions between the polymer side chains and the triisopropylsilyle- thynyl side groups of TP are likely to contribute to the relatively small Δλmax values observed.
+3-035	On the other hand, in the TP/PnBT-RRa blend, the π−π interactions between the acene backbones of PnBT-RRa and TP are expected to be much stronger than the interactions between the thiophenes of P3HT and acene backbone of TP because of an increased π−π overlapping area, and the hydrophobic interactions in the TP/PnBT-RRa blend may also be much larger than those in the TP/P3HT blend because there are additional interactions between triisopropylsilylethynyl side groups of TP and PnBT, besides the interactions between triisopropylsilylethynyl side groups of TP and dodecyl groups of PnBT.
+3-036	Therefore, the much larger Δλmax values observed in the TP/PnBT-RRa blend are attributed to these largely increased intermolecular interactions.
+3-037	TP TP/PnBT‑RRa
+3-038	Small Molecule Film (λmax in nm) to the Ones in the TP/PnBT-RRa Blend (λmax in nm) Based on Spectra Shown in Figure S1ba
+3-039	Crystalline orientation and anisotropy play a vital role in our
+3-040	experiments and analysis.
+3-041	GIXRD measurements reported in
+3-042	this work are sensitive to electron density variations along a line
+3-043	parallel to the unit cell c-axis.
+3-044	To shed light on the spatial
+3-045	distribution of individual components in the blends, energy-
+3-046	filtered TEM images were collected for films slowly crystallized
+3-047	on TEM grids.
+3-048	Figure 3a shows overlays of a 0 eV image and
+3-049	sulfur map for TP/PnBT-RRa and TP/P3HT, respectively.
+3-050	In
+3-051	the grayscale 0 eV images, the TP crystals are darker because of
+3-052	high crystallinity (as suggested by the GIXRD results) and high
+3-053	electron density, while the sulfur maps, which are obtained with
+3-054	a standard three-window method to remove the background
+3-055	effect, are false-colored in red to show the polymer-rich regions.
+3-056	The coexistence of conjugated polymer and TP is confirmed in
+3-057	both blends, whereas there are distinct polymer-rich (Figure S2,
+3-058	Supporting Information) and small-molecule-rich regions in the
+3-059	TP/P3HT films (Figure S3, Supporting Information).
+3-060	From
+3-061	the sulfur map intensity scans on individual TP crystals along
+3-062	their long axis (Figure 3b), it is clear that TP crystals in TP/
+3-063	P3HT blends have distinctive sulfur-rich and sulfur-deficient
+3-064	regions, while TP crystals in TP/PnBT RRa blends generally
+3-065	have consistent and high sulfur content.
+3-066	The gaps between
+3-067	crystals represent much thinner areas with significantly less
+3-068	materials, which are outside the scope of our comparison.
+3-069	The
+3-070	TP/PnBT-RRa films generally show much more intimate
+3-071	mixing between the polymer and small molecule component,
+3-072	which again can be attributed to its high degree of structural
+3-073	similarity between individual components (i.e., small molecule
+3-074	semiconductor and conjugated polymer additive).
+3-075	diffraction patterns of TP/PnBT-RRa and TP/P3HT films,
+3-076	both in the [001] zone.
+3-077	On the basis of our GIXRD and [001]
+3-078	zone electron diffraction patterns, we use the triclinic unit cell
+3-079	of ao = 0.755 nm, bo = 0.773 nm, co = 1.702 nm, αo = 89.5°, βo
+3-080	= 78.7°, and γo = 81.0° (ao/bo = 0.98) to describe the pristine
+3-081	TP thin films slowly crystallized from dilute toluene solution.
+3-082	(The number of significant digits is chosen based on
+3-083	experimental uncertainties.) This unit cell, namely phase I, is
+3-084	7,2425 grayscale) show that the TP/PnBT-RRa blend has more intimate evaporated films.
+3-085	A 3 × 3 unit cell view of pristine TP bulk mixing than that of the TP/P3HT blend (a), which is further (phase I) crystal down the “c” axis is given in Figure S4 supported by the sulfur map intensity scans on individual TP crystals (Supporting Information) along with the corresponding along their long axis (b).
+3-086	The position and direction of each scan are simulated electron diffraction pattern ([001] zone), in which indicated in the overlay images with white, dashed arrows.
+3-087	(The raw six reflections (020),(220),(200)(020),(220), and (200) are images are shown along with the overlays.) The indexed [001] zone highlighted by yellow circles.
+3-088	These six reflections are used to electron diffraction pattern of the TP/PnBT-RRa blend (c) has monitor changes in the dimensions of the unit cell and to index distinctively different d-spacings and γ angle, compared to that of the TP/P3HT blend (d).
+3-089	The proposed indexing of panels c and d is the patterns of other TP polymorphs represented in Figure
+3-090	based on GIXRD results which suggest that (001) planes are oriented 3c,d.
+3-091	The [001] zone of TP/PnBT-RRa blends (Figure 3c)
+3-092	parallel to substrates and that the top-view SAED patterns presented yields a1 = 0.788 ± 0.004 nm, b1 = 0.767 ± 0.007 nm, a1/b1 =
+3-093	here prevail throughout the a−b plane (i.e., [001] zone).
+3-094	1.03, and γ1 = 81 ± 1°, based on four to six measurements of
+3-095	each parameters.
+3-096	In contrast, the [001] zone of TP/P3HT
+3-097	blending with conjugated polymers.
+3-098	The needle- or wire-shaped TP crystals have (001) planes parallel to substrate, and the long axis of the TP
+3-099	crystals is previously assigned to [210].[9,15]
+3-100	The proposed unit cells for phases II and III are based on the GIXRD results that (001) planes preferably
+3-101	oriented parallel to substrates and the planar view SAED patterns in Figure 3c and 3d that consistently appear in the a−b plane (suggesting a [001]
+3-102	zone).
+3-103	blends (Figure 3d) gives a2 = 0.825 ± 0.007 nm, b2 = 0.853 ± 0.003 nm, a2/b2 = 0.97, and γ2 = 68 ± 1°.
+3-104	Because the measured d(001) values from GIXRD are 1.669, 1.632, and 1.638 nm, for pristine TP, TP/PnBT-RRa, and TP/P3HT blend, respectively (Figure 2a) we estimate their c values to be co = 1.702 nm, c1 = 1.665 nm, c2 = 1.671 nm, given that α = ∼90° and β is constant (βo = 78.7°, sin 78.7° = 0.98, and even if β changes slightly, sin β ∼ 1).
+3-105	As compared to the phase I structure of TP (ao = 0.755 nm, bo = 0.773 nm, ao/bo = 0.98, co = 1.702, and γo = 81.0°), the TP unit cell structure in the 1:1 (by weight) TP/PnBT-RRa blend (a1 = 0.788 ± 0.004 nm, b1 = 0.767 ± 0.007 nm, a1/b1 = 1.03, c1 = 1.665 nm, and γ1 = 81 ± 1°) has a nearly unchanged γ value, a larger “a” (4% larger than ao), a smaller “b” and “c” (by 1% and 2%, respectively), and a reversed a/b ratio (0.98 versus 1.03).
+3-106	We name this previously unreported TP polymorph in TP/PnBT-RRa blends as phase II.
+3-107	On the other hand, comparison of phase I and the TP unit cell structure in the 1:1 (by weight) TP/P3HT blend (a2 = 0.825 ± 0.007 nm, b2 = 0.853 ± 0.003 nm, a2/b2 = 0.97, c2 = 1.671 nm, and γ2 = 68 ± 1°) shows that the unit cell of blend has a nearly unchanged a/b ratio, a slightly reduced c (by 2%), a considerably decreased γ (by 13°), and a largely increased a and b (by 9% and 10%, respectively).
+3-108	This new TP polymorph is named phase III.
+3-109	The cell volume (V) of phase II and III are calculated to be 974.3 Å[3] and 1066.3 Å[3], which are 1.3% and 10.9% larger than that of the phase I (Vo = 961.7 Å[3]).
+3-110	The number of significant digits for cell volume is determined by following a previously published work.[6]
+3-111	The previously reported high temperature solution-processed thin film polymorph (above 124 °C) of TP (aHT = 0.780 nm, bHT = 0.720 nm, aHT/bHT = 1.08, cHT = 1.720 nm, αHT = 90.0°, βHT =85.0°, and γHT = 88.0°)[24] has a calculated cell volume of 961.7 Å[3], identical to that of the phase I, whereas the solution sheared TP polymorphs generally have increasing cell volumes (991.1−1013.5 Å[3]) as the solution shear speed is increased to an optimized value (0.4−2.8 mm/s) and the TP polymorph with the largest volume change corresponding to a significantly reduced π−π stacking distance and the highest measured hole mobility.[6]
+3-112	Here we show that by simply using conjugated
+3-113	polymer additives in slow solution crystallization, the estimated cell volume could be significantly (>5%) larger than those achieved by the solution shearing method.
+3-114	In addition, unlike the case with solution shearing,[6] the cell volume change observed in this study is not introduced by external forces, but rather by conjugated polymer additives, which manifest in the UV−vis peak shifts (Table 1, and Figure S1b, Supporting Information).
+3-115	The larger cell volume of phases II and III as compared to phase I also indicates that the packing efficiencies in phases II and III are lower and the structures are metastable.
+3-116	This is similar to the case with the structures produced by the solution shearing method.[6]
+3-117	Additional representative electron diffraction patterns obtained from different locations of TP/PnBT-RRa films and the TP-rich regions of TP/P3HT films are shown in Figure S5 (Supporting Information), and these are in agreement with the patterns shown in Figure 3.
+3-118	It is necessary to point out that the indexing in Figure 3c and 3d is based on the facts that GIXRD measures electron density variations along a line parallel to the unit cell c-axis and that the top-view SAED patterns presented here prevail and consistently appear throughout the a−b plane (i.e., [001] zone).
+3-119	The six circled reflections are chosen because they represent the main framework of the SAED patterns.
+3-120	The weaker reflection intensities in Figure 3d are caused by the lower crystallinity of TP/P3HT blends as evidenced by GIXRD results discussed previously.
+3-121	Also because of their lower crystallinity, not all reflections of the TP [001] zone are visible in TP/P3HT blends (Figure 3d).
+3-122	Water contact angle measurements were used to gather information about the top surfaces of the blend films, which yielded a value of 75 ± 17° for TP/P3HT films and 97 ± 8° for TP/PnBT-RRa films.
+3-123	(Results, shown in Figure S6 (Supporting Information), are based on approximately five measurements for each film.) These results agree with the observation that the TP/P3HT films have more distinctive polymer-rich and TP-rich domains, as well as more uncovered surfaces, that lead to variations in the measurements compared to the TP/PnBT-RRa films.
+3-124	Because the selected, well-covered areas of pristine TP films have water contact angles of 97 ± 4° and the dodecyl
+3-125	Chemistry of Materials Article thiophene component of the PnBT-RRa polymer has a water details including external alignment, channel dimension, surface contact angle >110 o (water contact angles are 109.8 ± 2.4° for treatment, electrode treatment, etc.
+3-126	As previously reported
+3-127	shifts), promoting a polymorph with small cell parameter
+3-128	nuclei or aggregated clusters into a metastable unit cell
+3-129	TP/conjugated polymer blends than the intrinsic semiconduct- and unit cell changes.
+3-130	It is expected that the performance ing behavior of the conjugated polymer additives.
+3-131	In other differences shown in Table 3 result from a combination of words, although the OTFT work performed here is based on factors including long-range order, polymorphism, film cover- bottom-gated devices and the bottom interface composition is age, and film morphology.
+3-132	The charge transport at grain largely unknown so far, the charge transport in TP domains is boundaries could be a contributing factor, considering that TP/ dominant in the TP/conjugated polymer blends, considering P3HT films have less sharp grain boundaries and more the relatively smaller motilities of conjugated polymer used.
+3-133	It is “eroded” ones.
+3-134	Further analyses of those individual effects are important to point out that because the long axis of TP crystals beyond the scope of this work.
+3-135	(i.e., [210]) represents a charge transport pathway with few
+3-136	9,15 CONCLUSION
+3-137	grain boundaries and TP (001) planes are parallel to ■
+3-138	substrates (according to GIXRD results), all reported mobility In summary, we report a “conjugated polymer-mediated values are based on devices with most needle or wire structures polymorphism” of a benchmark small molecule, organic vertically arranged to the channel width in this study.
+3-139	The semiconductor (TIPS pentacene or TP) in solution-crystallized improved performance in TP/conjugated polymer-based thin films.
+3-140	This simple solution process provides a powerful way devices, however, cannot be solely attributed to polymorphism to manipulate the thin film structure and polymorphism of a
+3-141	small molecule organic semiconductor.
+3-142	In addition, it largely enhances the long-range order of the organic semiconductor thin film, which is potentially important for many organic electronic devices.
+3-143	The proposed approach explores tunable intermolecular interactions between the small molecule semi- conductor and the conjugated polymer additives, yielding crystal structures that are not accessible by nonconjugated polymer additives and external field-induced alignment methods.
+3-144	We expect that the molecular weight, regioregularity, polydispersity, and the exact molecular structure of the conjugated polymer additives may all have an influence on structure−property relationships, along with other process conditions such as the polymer/small molecule ratio, solvent choice, rate of crystallization, crystallization temperature, substrate choice, and additional external alignment.
+3-145	The conjugated polymer-mediated polymorphism approach pro- vides a new exciting avenue to explore correlations between crystal structure and charge transport in solution processed organic semiconductors, with this novel blending/cocrystalliza- tion approach introducing many unexplored processing parameters.

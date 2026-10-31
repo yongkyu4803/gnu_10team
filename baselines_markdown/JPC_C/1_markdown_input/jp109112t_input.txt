@@ -1,0 +1,223 @@
+# document_id: jp109112t
+# extractor: kordoc-markdown-adapter-1
+1-001	In recent years, the growing demand for efficient and clean alternative fuels has increased the attention to the development of hydrogen storage materials.
+1-002	However, one of the serious obstacles to the use of hydrogen as a fuel, especially in auto- motive applications, remains the lack of practical methods to store it.
+1-003	Although substantial progress has been made in the past few years in the discovery of new materials, none of them have demonstrated a sufficient reversible storage capacity in terms of the gravimetric and volumetric contents of hydrogen required for practical applications.
+1-004	A great deal of research and development work on hydrogen storage materials has focused on solid metal hydrides.
+1-005	Typically, these materials are complex light metal hydrides of three
+1-006	1-15 16-33 34-39
+1-007	categories, alanates, borohydrides, and amides
+1-008	such as sodium alanate (NaAlH4), lithium borohydride (LiBH4), and lithium amide (LiNH2).
+1-009	The primary driving force behind the interest in these complex metal hydrides compared with simple metal hydrides such as LiH and MgH2 is that the latter are too stable at temperatures 4 has attracted much interest for on-board application due to its high inherent hydrogen capacity (∼10.6 wt %).
+1-010	During decomposition at elevated temperatures, LiAlH4 first forms an intermediate compound Li3 AlH6 and then LiH at around 160-210 °C, liberating 5.3 and 2.6 wt % of hydrogen, respec- tively.10-15The dehydrogenation of LiH occurs at a much higher
+1-011	r 2011 American Chemical Society
+1-012	temperature, at around 720 °C,[40] releasing another 2.6 wt % of hydrogen.
+1-013	However, this temperature is too high for practical vehicular applications.[40]
+1-014	In addition, the dehydrogenation reac- tion of LiAlH4 is not easily reversed,[5,7,14,15] which is a critical requirement for on-board applications.
+1-015	Recently, using the CALPHAD thermodynamic modeling tool, Jang et al.[14] found that the reaction from Li3AlH6 to LiAlH4 (Li3AlH6 þ 3H2 þ 2Al = 3LiAlH4) requires more than 103 bar of hydrogen pressure above room temperature.
+1-016	This was confirmed by Zaluski et al.[3] and Balema et al.[4,6] using differential thermal analysis (DTA).
+1-017	On the other hand, the results of Jang et al.[14] have shown that the reaction 3LiH þ Al þ 1.5H2 = Li3AlH6 is thermodynamically feasible.
+1-018	Lithium borohydride has recently received attention because of its high theoretical storage capacity (18.5 wt %).
+1-019	Unfortu- nately, the potential for practical use of LiBH4 is severely limited by the slow kinetics of release at a moderate temperature.
+1-020	Also, the rehydrogenation conditions, 600 °C at 150 bar, are imprac- tical for on-board application.[21,23]
+1-021	Partial decomposition of LiBH4, which liberates 13.7 wt % H2 according to the following reaction 1, has a standard reaction enthalpy (ΔH) of ∼67 kJ/mol H2, translating to a dehydrogenation temperature of 410 °C at 1 bar on the basis of the Van’t Hoff equation.[19]
+1-022	It is reported that the appearance of Li2B12H12, which is a well-known reaction intermediate of LiBH4 , is also observed during reaction 1.[31,32,41]
+1-023	LiBH4 ¼ LiH þ B þ 1:5H2 ð>410 °CÞ
+1-024	ΔH ¼ þ 67 kJ=mol H2 ð1Þ
+1-025	Therefore, many researchers have focused on destabilizing it to lower its dehydrogenation temperature by the use of additives
+1-026	23,26,28,30,33 21,24 16,21
+1-027	such as metals, metal halides, oxides,
+1-028	sulfides,[24] hydrides,[19,23,28] and, more recently, nanoporous scaffolds.[24]
+1-029	One of the notable results was reported by Vajo et al.,[19] who studied the destabilization of LiBH4 using MgH 2 as an additive.
+1-030	Their results indicated that the reaction between LiBH4 and MgH2 reversibly released over 10 wt % of hydrogen with a reaction enthalpy that is 25 kJ/mol H2 lower than that of pure LiBH4 , according to reaction 1.
+1-031	However, it took up to 100 h to attain a plateau pressure of 4.5 bar at 315 °C for the dehydrogenation, and the temperature range for the reaction was high (up to 500 °C) even when catalyzed.
+1-032	More recently, several research groups have demonstrated that calculations based on the first-principles-based density functional theory (DFT) can provide a computational screening for thermodyna- mically suitable destabilizing agents among a large number of candidates.[22,25,27]
+1-033	These are encouraging results that have moti- vated many research groups to investigate several promising reactions, especially the formation of stable metal boride phases such as MgB2, AlB 2, and CaB 6 from LiBH4 .
+1-034	In particular, LiBH4 , which is reversible only at high temperatures and pressures, can be made reversible at lower temperatures by adding MgH2 or Al, which decreases the ΔH of reaction and improves reaction
+1-035	19,24,26,28-30,33
+1-036	kinetics.
+1-037	On the basis of the above information, we anticipated that a new combined system of LiBH4 and Li3AlH6 in a 2:1 ratio, which gives a composition for the thermodynamically preferred boride formation, would be reversible.
+1-038	The overall reaction equation of the combined system would be given by
+1-039	Li3 AlH6 þ 2LiBH 4 ¼ 5LiH þ AlB2 þ 4:5H2 ð2Þ In this paper, we describe the synthesis and characterization of the Li3AlH6 /LiBH4 and the role of Al on the hydrogen release/ uptake reactions for the first time.
+1-040	The role of Al was further studied by testing the Al/LiBH4 system.
+1-041	Possible reaction mechanisms and paths of the combined systems will also be discussed.
+1-042	A further examination of the reaction paths by NMR analyses of the reaction samples is presented in the accompany- ing Part 2.[41]
+1-043	2.
+1-044	EXPERIMENTAL APPARATUS AND PROCEDURE
+1-045	The starting materials, lithium borohydride (LiBH4, 90%), titanium chloride (TiCl3 , 99.999%), aluminum (99.5%) from Sigma-Aldrich (Milwaukee, WI), and lithium aluminum hexa- hydride (Li3 AlH6 ) from GFS Chemicals (Powell, OH), were used as-received without any further purification.
+1-046	All of the material handling was carried out in a glovebox filled with purified argon gas (99.999%) in the presence of an oxygen scavenger and a drying agent to protect samples and starting materials from oxidation and/or hydroxide formation (O2 2O < 2 ppm).
+1-047	Approximately 2.0 g mixtures of Li3AlH6 /2LiBH4 and of 0.5Al/LiBH4 were prepared in the glovebox, and 4 wt % of TiCl3 was added as a catalyst in each mixture to enhance the hydro- genation and dehydrogenation kinetics.
+1-048	It is known that the temperature during high-energy ball milling can rise above 200 °C,[42,43] and this condition would cause the decomposition of Li3AlH6.
+1-049	Thus, low-energy ball milling was done in a jar-roll mill under an argon atmosphere to avoid temperature buildup, minimize the loss of H2 , and achieve a uniform mixture.
+1-050	The ratio
+1-051	Table 1.
+1-052	Designation of Samples
+1-053	wt %TiCl3
+1-054	0.5Al/LiBH4/4 wt %TiCl3 S4 S5 S6
+1-055	of ball to powder in the mill was 35:1 by weight, and the milling time was 24 h.
+1-056	The milling jar, with an inner volume of 160 mL, was sealed by a Viton-type O-ring, which kept the inside of atmosphere inert during milling.
+1-057	The hydrogen release properties of the mixtures were exam- ined by the use of a thermogravimetric analyzer (TGA, Shimadzu TGA50) in which 5 mg samples were heated under flowing argon up to 380-450 °C at a heating rate of 2 °C/min and then held at the final temperature for a predetermined length of time.
+1-058	This equipment was specially designed and built to be used inside of the argon-filled glovebox equipped with a gas purification system, which permitted the TGA analysis without exposing the sample to air.
+1-059	The hydrogenation property of the dehydrogenated product was evaluated by the use of a custom-made autoclave with a hydrogen pressure limit of 35 MPa and a maximum operating temperature of 500 °C. The reactor was charged in the glovebox with 300 mg of the mixtures and sealed.
+1-060	It was then attached to a gas-vacuum manifold and quickly evacuated to remove most of the argon remaining therein.
+1-061	In the rehydrogenation process, the mixtures were held at 380-450 °C for 4-6 h under vacuum to ensure complete release of hydrogen and then kept for 12-18 h under 15-24.1 MPa of hydrogen pressure at a predetermined temperature.
+1-062	All of the hydrogenation and dehydrogenation experiments were repeated twice, and the results were always close, within (0.05 wt %.
+1-063	The identification of the phases in the reactants and products before and after the TGA was carried out using an X-ray diffractometer (XRD, Siemens D5000) with Ni-filtered Cu KR radiation (λ = 1.5406 Å).
+1-064	Each sample was mounted in the glovebox on a glass slide and covered with a Kapton tape as a protective film.
+1-065	The X-ray intensity was measured over diffrac- tion 2θ from 10 to 100° with a scanning rate of 0.02°/s.
+1-066	From the XRD peak broadening, the crystallite size of the sample were obtained by applying Stokes and Wilson’s formula.[44]
+1-067	A scanning electron microscope (SEM, TOPCON SM-300) was employed to observe the microstructure of the samples before and after milling and determine the particle size.
+1-068	The samples were protected by a conductive tape from exposure to air during the transfer to the SEM sample chamber.
+2-001	3.1.
+2-002	Reactions in the Li3AlH6 þ 2LiBH4 System.
+2-003	In our previous work on the Li—Al—B—H system,[29] a milling time of 24 h in a jar-roll mill (referred to as low-energy milling hereafter) gave degrees of mixing and particle size reduction that did not change much by a further increase in milling time.
+2-004	Thus, the Li3 AlH6/2LiBH4 /4 wt %TiCl3 mixture was subjected to 24 h of low-energy milling in an argon-filled canister.
+2-005	It is noted that the mixtures after milling, dehydrogenation, and rehydrogenation are referred to as S1, S2, and S3, respectively, hereafter in this paper and summarized in Table 1.
+2-006	SEM was used to examine the micrographs of a TiCl3-doped Li3 AlH6/2LiBH4 mixture (A) before milling and (B) after milling, as shown in Figure 1.
+2-007	The milled particles are irregular in shape and are mostly agglomerated (making the particle size appear larger), while the primary particle size has been reduced to less than 1 μm, as shown in Figure 1B, from the coarse particle size of as-received powder of less than 5 μm, as shown in Figure 1A. The milled powder was subsequently analyzed by XRD and TGA to study their dehydrogenation and rehydrogena- tion characteristics.
+2-008	It has been reported that the formation of the nanocrystalline structure produced by ball milling results in a significant im- provement of hydrogen release and uptake kinetics.[45-47] How- ever, high-energy ball milling or longer milling time may cause unexpected reactions and changes in the original phases.
+2-009	XRD analyses were conducted to determine the effect of the milling method used in this study on the particle size, lattice defects, and phases.
+2-010	In Figure 2, which shows the XRD patterns of the mixture before and after milling, the peaks marked with 1, 2, and 3 are attributed to Li3AlH6, LiBH4, and TiCl3 phases, respectively.
+2-011	It is seen that there is no trace of Fe, which may come from the erosion of the milling tools or the formation of any new phases.
+2-012	In other words, the LiBH4, Li3 AlH6 , and TiCl3 components are
+2-013	preserved under the milling conditions of this work.
+2-014	In addition, despite the presence of large particles, the milled TiCl3-doped Li3 AlH6/2LiBH4 mixture presents broad diffraction peaks and lower intensities in the XRD pattern, as shown in Figure 2B, compared with those of the mixture before milling, shown in Figure 2A. The broadening of diffraction peaks with lower intensities indicates the refinement of the crystallite size and the presence of the lattice microstrain in the milled TiCl3-doped Li3 AlH6/2LiBH4 mixture.
+2-015	The average crystallite sizes calculated by applying Stokes and Wilson’s formula[44] to the strongest peak for the mixtures before and after milling are 1.4 μm and 24 nm, respectively.
+2-016	Thus, the milling method used in this work did not cause any undesirable reactions, which sometimes occur during the milling of materials with low dehydrogenation temperatures.
+2-017	Figure 3 shows the TGA curve of the milled mixture of TiCl 3-doped Li3 AlH6 /2LiBH4 (S1).
+2-018	The TGA experiment was run in argon, in which the sample was heated at a heating rate of 2 °C/min up to 450 °C and then held at this temperature for continued decomposition.
+2-019	It can be seen that the total weight loss amounted to 8.8 wt % of the initial weight, which takes place
+2-020	within the temperature range from 81 to 450 °C. The dehydro- genation process consists of two steps, which are identified by the changes in the rate of the weight loss.
+2-021	These steps can be described by the following reactions
+2-022	The first step between 81 and 226 °C corresponds to reaction 3, which causes the loss of 3.1 wt % of the initial weight (including those of LiBH4 and TiCl3), assuming that all of the weight loss is due to the release of hydrogen.
+2-023	It has been reported that TiCl3-catalyzed Li3AlH6 has about a 30 °C lower dehydrogenation temperature, while Li3AlH6 starts decomposing at around 210 °C without a catalyst.[13]
+2-024	The second step between 226 and 450 °C, which corresponds to reaction 4, releases another 6.1 wt % hydrogen, making the overall theoretical capacity 9.2 wt % for the mixture, according to reaction 5.
+2-025	It is noted that the vertical line segment at the end of the curve represents the weight loss during the isothermal hold at the final temperature of 450 °C. It is known that modification of LiBH4 with additives such as metal oxides and chlorides also lowers the hydrogen release temperature
+2-026	16,19,21,23,24,26,28,30,33
+2-027	from 400 to 200 °C.
+2-028	The dehydrogenation steps listed above were confirmed by X-ray diffraction analyses on the raw materials and the products.
+2-029	Figure 4A-C compares the XRD profiles of the milled mixture of TiCl3 -doped Li3 AlH6/2LiBH4 before and after dehydrogena- tion by heating up to 220 or 450 °C and holding for a certain time.
+2-030	Crystalline phases were identified by comparing the experimental data with the JCPDS files from the International Center for Diffraction Data.
+2-031	Pattern A in Figure 4 for the milled sample before dehydrogenation (S1) shows the reactants Li3 AlH6, LiBH4, and TiCl 3.
+2-032	The intermediate product after partial dehydrogenation at a specific temperature of 220 °C for
+2-033	20 min, presented as pattern B in Figure 4, is composed of Al or Al þ LiH (Al and LiH peaks largely overlap), LiBH4 , and TiCl3 .
+2-034	This confirms that the first dehydrogenation step corresponds to reaction 3, and LiBH4 is still present in the sample.
+2-035	Pattern C shows the XRD result for the sample after dehydrogenation at 450 °C for 6 h, clearly indicating that Li3AlH6 and LiBH4 are absent in the sample by being consumed by the reaction.
+2-036	In this pattern, all of the peaks can be indexed to be those of LiH or AlB2 , which indicates that reaction 4 is complete.
+2-037	Thus, it can be concluded that the overall dehydrogenation path follows reac- tions 3 and 5.
+2-038	In order to evaluate the reversibility of the Li3 AlH6 /2LiBH4/4 wt %TiCl3 system, S2, the dehydrogenated products of reac- tion 5, was hydrogenated in a custom-made autoclave under 24.1 MPa of hydrogen pressure and 450 °C for 12 h.
+2-039	The XRD profile of the rehydrogenated products (S3) is shown in Figure 4D. It is seen that the peaks of AlB2 and some of LiH are absent, which indicates that they are used by the hydrogena- tion reaction.
+2-040	Small peaks of LiBH4 are also seen.
+2-041	In this figure, the peaks marked with 4 are indexed to the LiH phase, and those marked with 5 represent Al.
+2-042	It is noted, however, that the XRD peaks of LiBH4 are weak after the hydrogen uptake reaction.
+2-043	In addition, monoclinic Li3AlH6, which is identified by the char- acteristic double peak at 2θ values of approximately 22°, is absent in the hydrogenated product.
+2-044	This indicates that the hydrogena- tion was incomplete under the above experimental conditions.
+2-045	To further confirm the rehydrogenation reaction, TGA was performed on the rehydrogenated sample in combination with XRD analysis.
+2-046	Figure 5A shows the TGA profile of S3.
+2-047	It can be seen that the sample took up hydrogen amounting to only about 3.8 wt % of the rehydrogenated products.
+2-048	It is again noted that the vertical line segment at the end of the curve represents the weight loss during the isothermal hold at the final temperature of 450 °C. The dehydrogenation of S3 appears to be a one-step process rather than the two-step process shown in Figure 5B for the initial mixture following reactions 3 and 4.
+2-049	Although the partial rehydrogenation requires further studies, the poten- tial factor that may explain it is that LiBH4 still requires a
+2-050	higher rehydrogenation temperature and pressure, even when destabilized by either element substitution or additive inter-
+2-051	16,19,21,23,24,26,28,30,33
+2-052	action.
+2-053	In addition, the formation of the Li3 AlH6 phase is influenced by the heating rates during the hydrogenation process.
+2-054	It has been reported that the Li3 AlH6 phase formed only when the heating rate was greater than 5 °C/min.[39]
+2-055	The above XRD and TGA results indicate that the dehydro- genated products of Li3 AlH6 /2LiBH4/4 wt %TiCl3 mixtures can only be partially rehydrogenated in 12 h under 24.1 MPa of hydrogen pressure and 450 °C. However, the presence of alu- minum is an important factor in causing the rehydrogenation to occur at a much lower temperature at which dehydrogenation product from LiBH4 alone does now show any rehydroge-
+2-056	16,19,21,23,24,26,28,30,33
+2-057	nation.
+2-058	In regard to the role as a destabilizing agent, the effects of aluminum metal on the hydrogen release/ uptake reactions of LiBH4 will be further discussed in the following section to better elucidate the reaction mechanisms including dehydrogenation pathway and reversibility.
+2-059	3.2.
+2-060	Reactions in the 0.5Al þ LiBH4 System.
+2-061	It has been reported that the thermal decomposition of LiBH4 could be significantly accelerated by mechanical milling with Al in a 2:1
+2-062	26,28,30,33
+2-063	molar ratio, for which the theoretical hydrogen content is 8.5 wt % according to reaction 4 in section 3.1.
+2-064	However, this system suffers from a serious capacity loss during the dehydro-
+2-065	26,28,30,33
+2-066	genation and rehydrogenation cycles, and the degrada- tion mechanism is not well understood.
+2-067	Thus, in order to further investigate how aluminum metal affects the reaction as a desta- bilizing additive, a mixture of 0.5Al/LiBH4 /4 wt %TiCl3 was prepared by low-energy milling for 24 h under an Ar atmosphere.
+2-068	The reaction products after milling, dehydrogenation, and rehydrogenation are designated as S4, S5, and S6 for the mixtures with 0.5Al, respectively, as indicated in Table 1.
+2-069	In order to determine if the dehydrogenation of S1 indeed follows reaction 4 under the same dehydrogenation conditions as those presented in section 3.1, XRD was used to analyze the reaction products.
+2-070	Specifically, about 300 mg of S4 was charged in an autoclave and sealed within a glovebox.
+2-071	The reaction vessel was then taken out of the glovebox and heated to 400-450 °C under vacuum with a heating rate of 5 °C/min.
+2-072	After holding the autoclave at a predetermined temperature for 6 h, it was transferred back into the glovebox with the reaction product still in it.
+2-073	380 °C for 0.5Al/LiBH4/4 wt %TiCl3 milled for 24 h.
+2-074	Curve (A) shows
+2-075	the hydrogen release under argon, and curve (B) shows the temperature profile corresponding to curve (A).
+2-076	to Al, LiBH4 , and TiCl3 phases, respectively.
+2-077	It shows that these components are preserved without forming any new phases
+2-078	under the milling conditions of this work.
+2-079	Patterns B and C in Figure 6 show the XRD results for the dehydrogenated products
+2-080	of heating at 400 and 450 °C for 6 h, respectively, which clearly indicate that Al and LiBH4 are absent in the sample by being consumed by the H2 release reaction.
+2-081	The presence of LiAl in addition to LiH and AlB2 indicates that the dehydrogenation involves reactions other than just reaction 4.
+2-082	Moreover, the peak intensities of LiAl phases in Figure 6C are significantly higher
+2-083	than those in Figure 6B as the dehydrogenation temperature was
+2-084	raised from 400 to 450 °C. Recently, Friedrichs et al.[33] reported
+2-085	that the LiAl phase was formed at 450 °C by the reaction of LiH
+2-086	and Al during the dehydrogenation of the 0.5Al/LiBH4 system in vacuum, although the LiH and AlB2 phases were observed even
+2-087	after 15 h in these conditions.
+2-088	The formation of LiAl from LiH
+2-089	and Al increases hydrogen release by the dehydrogenation of
+2-090	LiH, which is otherwise difficult.
+2-091	A local deviation from the ratio LiBH4/Al = 2:1 might cause an incomplete reaction between
+2-092	LiBH4 and Al at first.
+2-093	Then, the presence of unreacted Al at the
+2-094	high temperature of 450 °C and the low pressure causes the LiAl formation.
+2-095	Although the formed LiAl can, in principle, react with
+2-096	B and H2 to regenerate LiBH4 during rehydrogenation, the incomplete contact between the solid phases may make it difficult.
+2-097	This in turn would result in a capacity loss during the subsequent cycles.
+2-098	The milled mixture of 0.5Al/LiBH 4/4 wt %TiCl3 (S4) was subsequently subjected to TGA to study their dehydrogenation behavior, as shown in Figure 7.
+2-099	The TGA experiment was run at a heating rate of 2 °C/min up to 380 °C, after which the temper-
+2-100	ature was held at this value for 6 h.
+2-101	The dehydrogenation process
+2-102	of S4, which consists of one step, began at about 200 °C and accelerated at ∼300 °C. It can be seen that the total weight loss amounted to 8.4 wt % of the initial weight, which took place within the temperature range from 200 to 380 °C. The pre- determined target temperature, 380 °C, was selected for the following reasons.
+2-103	First, the weight loss percentages recorded by
+2-104	TGA (8.4 wt %) matches well with the stoichiometric values of reaction 4 (8.5 wt %).
+2-105	The LiAl phase formed above 400 °C,
+2-106	shown in Figure 6 and also reported by Friedrichs et al.,[33] might be one of the possible reasons for capacity degradation during the subsequent H2 release/uptake cycles.
+2-107	Therefore, a higher tem- perature above 380 °C was not considered in this study.
+2-108	Second, the sample dehydrogenated below 380 °C contains a consider- able amount of Al, based on the XRD and TGA results (not shown), which is caused by an incomplete reaction between LiBH4 and Al at this temperature.
+2-109	In order to further verify whether the dehydrogenation reaction follows reaction 4, X-ray diffraction was conducted on the sample before and after hydrogenation in conjunction with TGA.
+2-110	26,28,30,33
+2-111	respect to its hydrogen capacity.
+2-112	The above experimen- tal results may be explained by the following reasoning.
+2-113	The reduced reaction enthalpy change of the LiBH4 dehydrogenation and the local deviation from the stoichiometric ratio LiH/
+2-114	380 °C under 15 MPa of hydrogen pressure for 18 h compared with (B) as-milled 0.5Al/LiBH4/4 wt %TiCl3.
+2-115	Curves (A) and (B) show the hydrogen release under argon with a heating rate of 2 °C/min up to
+2-116	380 °C. Curve (C) shows the temperature profile corresponding to
+2-117	curves (A) and (B).
+2-118	AlB2 = 2:1 cause an incomplete LiBH4 formation reaction during rehydrogenation.
+2-119	The considerable decrease in the enthalpy
+2-120	of LiBH4 dehydrogenation from 69.2 down to 18.8 kJ/mol H2
+2-121	in the presence of Al, as reported in the literature,[26,28] places
+2-122	the latter enthalpy value outside of the optimum range of 30-
+2-123	60 kJ/mol H2, implying difficulty in the rehydrogenation.
+2-124	In addition, it is possible that the reaction products of AlB2 and LiH
+2-125	are not in close contact because they are not milled after dehydro- genation.
+2-126	Therefore, these incomplete reactions are believed to
+2-127	cause the low extent of rehydrogenation, leaving a substantial amount of residual AlB2, as shown in Figure 8C. Similar to the
+2-128	16,18,19,21
+2-129	LiBH4 systems destabilized by MgH2, TiO 2, or TiCl3,
+2-130	the improved dehydrogenation performances of the LiBH4/Al system should also be attributed to the formation of AlB2 .
+2-131	The
+2-132	above discussion indicates that only a portion of AlB2 was invol-
+2-133	ved in the formation of LiBH4 .
+2-134	On the other hand, it is also clear
+2-135	that the rehydrogenation reaction proceeded relatively efficiently
+2-136	at such a low temperature, and we believe this is promoted by the presence of Al as a catalyst.
+2-137	Although the results of this study demonstrate by TGA and
+2-138	XRD the capacity and reversibility of using LiBH4 /Al as a hydrogen storage material, the full potential of the Li—Al—
+2-139	B—H system cannot be determined until the reaction products
+2-140	are fully analyzed with conclusive determination of the reaction pathway.
+2-141	Further investigation on the reaction paths of the Li— Al—B—H system by the use of solid-state NMR analyses of the reaction samples is presented in the accompanying Part 2.[41]
+3-001	In the present work, a mixture of LiBH4 with Li3AlH6 or Al
+3-002	was milled by low-energy milling, and the dehydrogenation and rehydrogenation properties of these materials were investigated
+3-003	by the use of SEM, XRD, and TGA.
+3-004	The TGA results indicated
+3-005	that the Li3AlH6/2LiBH4 /4 wt %TiCl3 and 0.5Al/LiBH4 /4 wt %
+3-006	TiCl3 released ∼8.8 and ∼8.4 wt % H2 when heated to 450 and
+3-007	380 °C, and ∼3.8 and ∼5.8 wt % H2, respectively, were taken up during rehydrogenation.
+3-008	XRD results indicated that the dehy- drogenated products are composed of LiH and AlB2, resulting in
+3-009	a remarkable improvement of the reversible storage properties of
+3-010	LiBH4 in terms of the temperature and pressure for H2 release/ uptake.
+3-011	Although the rehydrogenation reaction did not fully
+3-012	proceed in the limited temperature and pressure ranges tested, the presence of Al was determined to be an important factor in lowering the rehydrogenation temperature to a level at which the dehydrogenation product from LiBH4 alone does not show any degree of rehydrogenation.

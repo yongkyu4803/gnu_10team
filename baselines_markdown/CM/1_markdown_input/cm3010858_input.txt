@@ -1,0 +1,261 @@
+# document_id: cm3010858
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Blending two organic semiconductors to form thin films is a promising strategy to bring about unique or enhanced electronic properties in the active layers of organic electronic devices.[1]
+1-003	Bulk-heterojunction organic solar cells (OSCs), for example, utilize blends of two organic semiconductors with different energy levels to efficiently dissociate excitons for harvesting light.[2]
+1-004	Doping an organic semiconductor “host” with fractional amounts of another organic semiconductor, or “guest”, has also been successfully employed to improve the mobility of organic thin-film transistors (OTFTs),[3,4] the conductivity of charge transport layers in organic light-emitting diodes (OLEDs),[5,6] and the luminescence of light-emitting layers in OLEDs.[7−9] In choosing organic semiconductor pairs for such blends or guest-host systems, it is important to consider the respective electronic properties of the constituent components.
+1-005	Equally imperative is a comprehensive under- standing of the morphological development of such systems.[10]
+1-006	The presence of an additive, for example, can induce crystallization and improve the crystallinity of the host organic semiconductor in the active layers of OTFTs, improving device mobility.[4,11]
+1-007	Aggregation of emissive dopants at high loading levels in guest-host OLEDs, on the other hand, can decrease the overall luminescence of the light-emitting layer.[8,9]
+1-008	In light of the importance of the active layer morphology in determining overall device performance, it is critical that we
+1-009	© 2012 American Chemical Society
+1-010	understand how the physical parameters of one compound in binary, organic semiconductor thin films influences the final film morphology.
+1-011	In single-component, organic semiconductor systems, structural development occurs through nucleation and growth.
+1-012	Heterogeneous nucleation on foreign objects, like defects and dust particles on the substrate surface,[12] determines the nucleation density and thus the final size of crystalline domains, with boundaries between these domains acting as barriers to charge transport.[13−15] In binary organic semiconductor systems, structural development is more complicated, with both phase separation and constituent crystallization occurring simultaneously.
+1-013	Depending on the chemical compatibility of the two organic semiconductors and their respective interactions with the underlying substrates, phase separation can occur both laterally and vertically in these thin films.[10,16−19] Further complicating the structural development of two-component systems is the fact that the organic semiconductor constituents can individually crystallize and one can aid in nucleating[4] or suppressing[20] crystallization of the other.
+1-014	Cho and co-workers, for example, found the incorporation of a small-molecule dopant to poly(3-hexyl thiophene) (P3HT) thin filmsin
+1-015	Received: April 6, 2012
+1-016	Revised: July 5, 2012
+1-017	Published: July 6, 2012
+1-018	Chemistry of Materials Article
+1-019	addition to increasing the carrier concentrationto seed P3HT crystallization.[4]
+1-020	Both the presence of the dopant and this improved crystallinity are reported to increase device mobility by 30-fold compared to OTFTs comprising pristine P3HT as active layers.
+1-021	At high blend ratios of P3HT and [6,6]-phenyl- C61-butyric acid methyl ester (PCBM), on the other hand, the crystallization of both P3HT and PCBM is hindered by the presence of the other component.[20]
+1-022	Postprocessing steps, such as thermal annealing[21] and solvent-vapor annealing,[16] or the incorporation of solvent additives to the cosolution prior to deposition,[22] have thus been employed to enhance crystal- lization and to improve the efficiencies of OSCs comprising blends of P3HT and PCBM in the active layers.
+1-023	For maximum device performance, it is commonly accepted that such crystallization should result in domains on the order of tens of nanometers, a length scale that is commensurate with the characteristic exciton diffusion length.[23]
+1-024	In this manuscript, we examine how the presence of small-molecule additives affects the structural development of the host organic semiconductor by studying their effectiveness in heterogeneously nucleating triethylsilylethynyl anthradithio- phene (TES ADT).[24]
+1-025	We chose TES ADT as the host organic semiconductor for several reasons.
+1-026	When spun cast onto substrates, TES ADT forms largely amorphous films, allowing us to controllably induce crystallization with subsequent solvent-vapor annealing.[25]
+1-027	During exposure to 1,2-dichloro- ethane (DCE) solvent vapors, TES ADT crystallizes through nucleation and growth of spherulites.
+1-028	Because each spherulite results from a single nucleus, tracking spherulite formation allows us to infer information about nucleation events.
+1-029	Furthermore, the diameters of TES ADT spherulites range from 30 μm to 3 mm, and as such are easily identifiable via optical microscopy.
+1-030	By measuring the average spherulite diameter, L, in TES ADT thin films after crystallization is complete, we can calculate the average number density of spherulites, ⟨S⟩, and thus extract the average number of nuclei in TES ADT thin films using the following equation:
+1-031	1
+1-032	⟨S⟩ = π L42 (1)
+1-033	by approximating spherulites as circles.
+1-034	We have chosen nine different small-molecule organic semiconductors as additives in TES ADT thin films.
+1-035	We have selected the additives to be electrically active and used concentrations ranging from 0 to 10 mol % relative to TES ADT so the findings of our study would be relevant to guest-host OTFT and OLED systems.[3−6] Establishing structure- function relationships between the morphology in the active layer and overall device performance in organic electronics first requires a fundamental understanding of structural develop- ment during processing.
+1-036	Central to this manuscript is thus how the presence of additives affects the overall structure of TES ADT thin films.
+1-037	The electrical characterization of these two- component, organic semiconductor thin films is currently underway and will be reported subsequently.
+1-038	By comparing the extent with which these additives can heterogeneously nucleate TES ADT during solvent-vapor annealing, we can determine the key attributes of the additives that influence their ability to act as nuclei.
+1-039	By tracking the kinetics of crystallization during DCE solvent−vapor annealing, we further elucidate how the presence of additives alters the mechanism with which TES ADT thin films are nucleated.
+2-001	■
+2-002	Film Formation.
+2-003	The 300 nm thermally grown SiO2 on doped-Si wafers purchased from Process Specialties were used as substrates for TES ADT thin films.
+2-004	The wafers were rinsed sequentially with acetone, isopropyl alcohol, and deionized water and then dried with house nitrogen prior to spin coating TES ADT solutions.
+2-005	TES ADT,[24] fluorinated 5,11-bis(triethylsilylethynyl) anthradithiophene (F-TES ADT),[26] chlorinated 5,11-bis(triethylsilylethynyl) anthradithiophene (Cl-TES ADT),[27] brominated 5,11-bis(triethylsilylethynyl) anthradi- thiophene (Br-TES AD T ) ,[27] a n d iodinated 5,11-bis- (triethylsilylethynyl) anthradithiophene (I-TES ADT),[27] diethyl-5,11-bis(triethylsilylethynyl) anthradithiophene (ethyl-TES ADT),[28] triiso- propylsilylethynyl pentacene (TIPS pen),[29] and triisobutylsilylethynyl pentacene (TIBS pen)[30] were synthesized according to previously published procedures.
+2-006	The procedure to synthesize a fullerene derivative that is functionalized with triethylsilylethynyl tetracene (TES Tet Fu) is included in the Supporting Information.
+2-007	PCBM was purchased from Nano-C. To form TES ADT thin films, TES ADT was first dissolved in toluene at a concentration of 2 wt %.
+2-008	In a separate vial, a small-molecule additive was dissolved in toluene at concentrations between 1 − 2 wt %.
+2-009	The appropriate volume of the additive solution was then added to TES ADT solutions in order to achieve the desired additive molar concentration relative to TES ADT.
+2-010	Given that TES ADT photobleaches easily, the solution was only allowed to sit for 2/doped-Si substrates.
+2-011	The substrates were then spun at 1000 rpm for 60 s to form 100-nm thick films, then thermally annealed at 90 °C for 2 min to drive off residual toluene.
+2-012	Solvent-Vapor Annealing.
+2-013	Exposure to DCE solvent vapor was carried out using a solvent-vapor annealing setup described else- where.[31]
+2-014	During solvent-vapor annealing, structural development of the films was tracked under an optical microscope.
+2-015	For films in which the total time for crystallization exceeded 20 s, a Nikon DXM 1200 camera was used to take sequential frames of optical micrographs of the films in 5 s intervals.
+2-016	For all other samples, a high-speed Sony XCD-710CR camera was used to collect sequential frames of optical micrographs every 0.5 s.
+2-017	Image processing to calculate the fractional area crystallized in each image was performed in ImageJ software (version 1.45).
+2-018	Because film thicknesses can vary near the edges of the substrates as a consequence spin coating, we avoided these regions when collecting images for analyses.
+2-019	Atomic Force Microscopy (AFM) Experiments.
+2-020	The 50/50 molar ratio blends comprising TES ADT and TES ADT derivatives were formed by codissolving the two compounds in toluene for a total combined concentration of 2 wt %.
+2-021	The solutions were spun cast at 1000 rpm for 60 s onto precleaned SiO2/doped Si substrates.
+2-022	The films were then annealed at 90 °C for 2 min to drive off residual toluene.
+2-023	These films were not solvent-vapor annealed.
+2-024	Subsequent solvent-vapor annealing does not incur any substantial structural differences.
+2-025	AFM height micrographs were collected in tapping mode using a Veeco Dimension 3100 NanoMan AFM.
+2-026	Grazing Incidence X-ray Diffraction (GIXD) Experiments.
+2-027	GIXD was performed at station G2 at the Cornell High Energy Synchrotron Source (CHESS) with X-rays at 8.64 ± 0.01 keV (λ = 0.1435 nm), selected using a Be single-crystal monochromator.
+2-028	Motorized slits were used to define a 0.2 × 3 (V × H) mm2 beam, with a typical flux of 2 × 1010 photons/s.
+2-029	The data were collected using a 640-element 1D diode-array, of which each element incorporates its own pulse counting electronics capable of count rates of ∼105 photons/s.
+2-030	A set of 0.1° Soller slits were used on the detector arm to provide an in-plane resolution of 0.16°.
+2-031	The scattering geometry is described in detail elsewhere.[32]
+2-032	GIXD patterns were collected on the same films that were previously characterized via AFM.
+2-033	Solubility Measurements.
+2-034	To measure the solubilities of the additives in toluene, we first weighed out known quantities, between 3 and 4 mg, of the compound and then slowly added toluene until the powders were completely dissolved.
+2-035	The solubility was measured for
+2-036	three samples for each additive to estimate the error associated with the measurements.
+3-001	■
+3-002	To compare the effectiveness of different small-molecule additives as nucleating agents in TES ADT thin films, we systematically varied the concentration of the additive incorporated in TES ADT thin films and compared ⟨S⟩ upon solvent−vapor annealing.
+3-003	In neat TES ADT thin films, heterogeneous nucleation occurs on dust particles and defects on the substrate surface.[13]
+3-004	Given our standard cleaning procedure (see Experimental Methods), ⟨S⟩ is consistently 0.2 nuclei/mm[2].
+3-005	By incorporating additives, we can increase ⟨S⟩ to as high as 2000 nuclei/mm[2].
+3-006	Figure 1a displays optical
+3-007	micrographs of TES ADT thin films with increasing concentrations of F-TES ADT as the additive.
+3-008	As shown in the figure, the spherulite diameter decreases dramatically from approximately 1 mm to 30 μm as the concentration of F-TES ADT increases from 0.8 mol % to 2.5 mol %, corresponding to an increase in ⟨S⟩ from 1 nuclei/mm[2] to 2000 nuclei/mm[2] in TES ADT thin films.
+3-009	structures of these compounds are illustrated in the inset of Figure 1b.
+3-010	All of the curves in Figure 1b are sigmoidal in nature, exhibiting three distinct concentration regimes.
+3-011	At concen- trations below c crit, the critical concentration at which the additive begins to nucleate TES ADT, ⟨S⟩ remains constant at approximately 0.2 spherulites/mm[2].
+3-012	Given that ⟨S⟩ is constant and remains the same as that of neat TES ADT thin films, the incorporated additives must be ineffective at nucleating TES ADT and heterogeneous nucleation is still dominated by the presence of dust particles or defects on the substrate surface at these additive loadings.
+3-013	At intermediate additive concentrations, ⟨S⟩ increases exponentially with a slope of m.
+3-014	The value of m thus qualifies how effectively the additives can nucleate TES ADT.
+3-015	At high additive concentrations, ⟨S⟩ plateaus at ⟨Smax⟩ and becomes once again independent of additive concentration.
+3-016	In this region, increasing the additive concentration must not have resulted in the formation of additional nuclei.
+3-017	To facilitate discussion, we have labeled ccrit, m, and ⟨Smax⟩ for clarity in Figure 1b.
+3-018	By examining shifts in m, ccrit, and ⟨Smax⟩, we can compare the efficacies with which the different additives seed TES ADT spherulite growth and correlate these shifts to key attributes of the additives.
+3-019	From Figure 1b, we observe that ⟨S⟩ has the same dependence on additive concentration when F-, Cl-, and Br-TES ADT are used as additives.
+3-020	For these curves, m = 2.5 decades of spherulites/mm[2] per mol % increase in additive concentration, ccrit = 0.5 mol %, and ⟨Smax⟩ = 2000 nuclei/mm[2] .
+3-021	This observation suggests that differences in the physical properties of these three compounds, such as solubility or crystal packing, are insufficient to affect their ability to nucleate TES ADT.
+3-022	When I-TES ADT and ethyl-TES ADT are used as additives, on the other hand, we observe large shifts in all three parameters.
+3-023	In the presence of I-TES ADT, ⟨Smax⟩ shifts to 20 nuclei/mm[2] and m decreases to 1 decade of spherulites/mm[2] per mol % increase in additive concentration.
+3-024	In the presence of ethyl-TES ADT, ⟨Smax⟩ is also approximately 20 nuclei/mm[2] , but m decreases further to 0.4 decades of spherulites/mm[2] per mol % increase in additive concentration, and ccrit increases to 2.7 mol %.
+3-025	To determine the main factors that dictate nucleation in TES ADT thin films within this family of additives, we explored the key differences in the physical properties of these additives.
+3-026	Dependence of m on the Additives’ Tendency to Crystallize.
+3-027	To begin, we examined the dependence of m on the size of the substituent attached to the additive used to nucleate TES ADT.
+3-028	When the substituent is fluorine, at 64 pm; chlorine, at 102 pm; or bromine, at 114 pm, m is constant at 2.5 decades of spherulites/mm[2] per mol % increase in additive concentration.
+3-029	Above 114 pm, m decreases as the size of the substituent increases from 140 pm with iodine to 262 pm with an ethyl substituent.
+3-030	Below a critical threshold, the size of the substituents thus appears not to affect the additives’ nucleation efficacy.
+3-031	Beyond this critical substituent size, the efficacy with which the compound can nucleate TES ADT decreases dramatically.
+3-032	Physically, a shallowing of m indicates that a higher concentration of I- or ethyl-TES ADT is required compared with F-, Cl-, and Br-TES ADT to affect ⟨S⟩.
+3-033	To gain insight on how the size of the functionality of these additives influences m, we probed how these additives interact with TES ADT.
+3-034	Because we incorporate only fractional amounts of the additives (<10 mol %) into TES ADT films, it is exceedingly difficult to study how these additives behave in the presence of TES ADT.
+3-035	Grazing-incidence X-ray diffraction (GIXD) images
+3-036	collected on solvent-vapor annealed TES ADT films with up to 6 mol % F-TES ADT, for example, exhibit reflections associated with TES ADT but do not reveal any reflections associated with the crystal structure of F-TES ADT (refer to Figure S1, Supporting Information).
+3-037	To increase the contrast between TES ADT and the additives, we have chosen to study film spun cast from solutions comprising 50/50 mol % of TES ADT and the additives.
+3-038	We employed atomic force microscopy (AFM) to study the surface topography and GIXD to examine the crystal structure and assess the relative crystallinities of these as-spun blends.
+3-039	Figure 2 displays AFM images and corresponding GIXD patterns of such films.
+3-040	The AFM height images shown in Figure 2a reveal the surface topography of the five TES ADT films comprising the different additives.
+3-041	For films containing 50 mol % F-, Cl-, and Br-TES ADT, we observe submicrometer- to micrometer-sized features; these are absent in the AFM height images of films comprising 50 mol % I-TES ADT and ethyl-TES ADT.
+3-042	To elucidate the structure of these features, we collected two-dimensional GIXD images on these same films.
+3-043	The GIXD images in Figure 2b were collected at an X-ray incident angle of 0.16° so incident X-rays can penetrate the entire depth of the 100 nm-thick films.
+3-044	For all GIXD experiments, the film thickness and acquisition time were held constant, and the diffraction patterns were normalized by the intensity of the incident X-ray beam.
+3-045	In the case of the film with 50 mol % F-TES ADT, we observe strong reflections, providing evidence that the features observed in the AFM micrograph are indeed semicrystalline.
+3-046	The reflections in the GIXD pattern correspond to those predicted by the single-crystal structure of the high-temperature polymorph of F-TES ADT,[33] ruling out the possibility that cocrystals of TES ADT and F-TES ADT are present.
+3-047	The anisotropy in azimuthal intensity is consistent with the π-plane of F-TES ADT preferentially oriented out-of-plane.
+3-048	Interestingly, we do not observe any reflections associated with TES ADT despite the fact that we previously found the incorporation of fractional amounts of additives (<6 mol %) to promote nucleation of TES ADT.[13]
+3-049	This enhanced nucleation in the presence of additives, however, is accompanied by a gradual decrease in the radial growth of the nucleated spherulites (refer to Figure S2, Supporting Information).
+3-050	There thus appears to be a trade-off between nucleation and growth of TES ADT with additive concentration.
+3-051	Extrapolating this growth rate dependence to
+3-052	higher additive concentrations, we found that growth of TES ADT is completely suppressed at 10.4 mol %.
+3-053	It is thus not surprising that we do not observe any evidence of TES ADT crystallinity in films comprising 50 mol % loadings of additives, with or without solvent-vapor annealing.
+3-054	In fact, such suppressed crystallization due to the presence of unlike species has been previously observed in films comprising comparable quantities of the two components.[20]
+3-055	For films comprising 50 mol % Cl-TES ADT and Br-TES ADT, we also do not observe reflections associated with TES ADT, suggesting that the presence of these additives in high concentrations also suppresses TES ADT crystallization.
+3-056	Instead, the reflections match those seen in the diffraction pattern of the film comprising a blend of F-TES ADT and TES ADT, indicating that Cl-TES ADT and Br-TES ADT form polymorphs that are similar to that of F-TES ADT in the presence of TES ADT, and the anisotropic azimuthal intensity is consistent with the additives having their π-planes preferentially oriented perpendicular to the substrate.
+3-057	The intensities of these diffraction patterns are an order of magnitude lower than those observed in neat films of the additives, indicating that the films comprising 50 mol % F-, Cl-, and Br-TES ADT are only semicrystalline.
+3-058	Furthermore, the intensities of the diffraction patterns of TES ADT blended with F-, Cl-, and Br-TES ADT are comparable, suggesting that the additives crystallize to comparable extents.
+3-059	These results indicate that while the substituent size increases from 64 pm with fluorine, to 102 pm with chlorine, to 114 pm with bromine, these size differences are insufficient to affect the crystallization behavior of the additives in the presence of TES ADT.
+3-060	Consequently, the dependence of ⟨S⟩ on additive concentration is the same whether F-, Cl-, or Br-TES ADT is employed to seed the crystallization of TES ADT.
+3-061	For films comprising 50/50 mol % blends of TES ADT and I-TES ADT, the reflections are also similar to those predicted by the high-temperature polymorph of F-TES ADT, but these reflections are azimuthally isotropic in their intensities.
+3-062	This observation indicates that crystallization of I-TES ADT occurs with no preferential orientation in the presence of TES ADT.
+3-063	Furthermore, the reflections are less intense than those of the diffraction patterns of blends comprising TES ADT with F-, Cl-, and Br-TES ADT.
+3-064	The weaker intensities of the reflections suggest that the relative degree of crystallinity of films with I-
+3-065	TES ADT is lower than that in films with F-, Cl-, and Br-TES ADT.
+3-066	For films with 50 mol % ethyl-TES ADT, the GIXD pattern is featureless, consistent with the film being amorphous.
+3-067	That F-, Cl-, Br-, and I-TES ADT do in fact crystallize in the presence of TES ADT suggests that their driving force to crystallize is greater than that of TES ADT.
+3-068	We can relate the relative driving force for crystallization by measuring the melt enthalpies of the additives with that of TES ADT.[34,35]
+3-069	When TES ADT is heated through its melting point of 153 °C, it exhibits a melt enthalpy of 20 J/g.
+3-070	The melt enthalpies of F- and Cl-TES ADT, on the other hand, are approximately 50 J/g (refer to Figure S3, Supporting Information, for differential calorimetry scans; Br-TES ADT and I-TES ADT degrade before their melting point so we cannot report melt enthalpies for these compounds).
+3-071	Compared to quintessential organic semiconductors, such as tetracene, which exhibits a melt enthalpy of 695.6 J/g,[36] the driving force of crystallization in TES ADT and its additives is an order of magnitude smaller.
+3-072	Still, because the F- and Cl-TES ADT have larger melt enthalpies, and thus stronger tendencies to crystallize compared to TES ADT, we expect them to crystallize more readily than TES ADT in 50/50 mol % blends.
+3-073	Further evidence that the driving force for the additives to crystallize is stronger compared to that of TES ADT is the observation that both F-TES ADT[37] and Cl-TES ADT crystallize readily upon solvent evaporation during spin coating, whereas TES ADT is largely amorphous as-spun and requires additional solvent−vapor annealing to induce crystallization.[25]
+3-074	On the other hand, the melt enthalpy of ethyl-TES ADT is only slightly larger than that of TES ADT, at a value of 34 J/g.
+3-075	Because the melt enthalpy of ethyl-TES ADT is comparable to that of TES ADT, we believe they can disrupt each other’s native crystallization habit in 50/50 mol % blends.
+3-076	Since the ability to seed TES ADT spherulitic growth hinges on the ability of the additives to form nuclei, we expect their tendency to crystallize in the presence of 50 mol % TES ADT to be directly related to their ability to aggregate into nuclei when present in smaller concentrations.
+3-077	In 50/50 mol % blends with TES ADT, I-TES ADT and ethyl-TES ADT crystallize to a lesser extent compared to F-, Cl-, and Br-TES ADT.
+3-078	At low concentrations, I-TES ADT and ethyl-TES ADT thus likely form correspondingly fewer active nuclei.
+3-079	As such, higher concentrations of I- and ethyl-TES ADT are required to achieve the same ⟨S⟩ compared to when F-, Cl-, and Br-TES ADT are used as additives.
+3-080	This trend is consistent with the progressive shallowing of the slope, m, in Figure 1b, where the dependence of ⟨S⟩ on additive concentration is strongest when F-, Cl-, and Br-TES ADT are used as additives; the dependence of ⟨S⟩ on additive concentration becomes progressively weaker as we replace easily crystallizable F-, Cl-, and Br-TES ADT additives with I- and ethyl-TES ADT.
+3-081	Dependence of ccrit on the Additives’ Solubility in Toluene.
+3-082	Returning to Figure 1b, we observe that all the additives begin seeding TES ADT at ccrit = 0.5 mol %, except for ethyl-TES ADT.
+3-083	When ethyl-TES ADT is used as the additive, we do not observe significant changes in ⟨S⟩ until an additive concentration of 2.7 mol %.
+3-084	The most obvious difference in the molecular structures among the derivatives is that ethyl-TES ADT has an alkyl instead of a halogen substituent.
+3-085	We thus speculate that the shift in ccrit is related to differences in the solubility of ethyl-TES ADT and those of the halogenated-TES ADTs.
+3-086	It is well-known that adding alkyl chains to a molecule can significantly improve the solubility of the parent compound
+3-087	in organic solvents.[38]
+3-088	Indeed, we estimate the solubility of ethyl-TES ADT in toluene, the solvent from which the films are cast, to be approximately 120 mM.
+3-089	In contrast, the solubilities of the F-, Cl-, Br-, and I-TES ADT in toluene are 43, 17, 9, and 6 mM, respectively (see Experimental Methods).
+3-090	While we observe a systematic decrease in the solubility of these additives with increasing halogen size, these solubilities are all substantially lower than that of ethyl-TES ADT in toluene.
+3-091	Given this correlation, we attribute the shift in ccrit in TES ADT films incorporating ethyl-TES ADT as the additive to its increased solubility compared to the halogenated-TES ADT derivatives in toluene.
+3-092	Since the additives must form aggregates whose sizes are above the critical size in order for nucleation to occur,[39] additives that are more soluble in the casting solvent are less likely to aggregate to form the critical nuclei required to initiate TES ADT crystallization.
+3-093	As such, additives that are more soluble will require a higher ccrit to seed crystallization of TES ADT.
+3-094	Such solubility-dependent aggregation has been observed in P3HT-PCBM blends, in which fractional quantities of a poor solvent for P3HT are incorporated into the solution prior to deposition.[22,40]
+3-095	The poor solvent has a higher boiling point than the casting solvent; the presence of the poor solvent after the casting solvent evaporates thus induces P3HT to preferentially aggregate.
+3-096	In our case, because toluene is a good solvent for ethyl-TES ADT, residual toluene that is present after spin coating actually retards ethyl-TES ADT aggregation into active nuclei having the critical dimensions to seed TES ADT crystallization.
+3-097	To further verify the impact of the solubility of the additive in the casting solvent on its ability to nucleate TES ADT crystallization, we also explored a second set of additives whose core structures differ substantially from that of TES ADT.
+3-098	The chemical structures of these compounds are illustrated in Figure 3a.
+3-099	Such chemical differences have allowed us to access a wider range of solubilities.
+3-100	TES Tet Fu exhibits a solubility of 5 mM in toluene, while the common fullerene derivative PCBM exhibits a solubility of 11 mM in toluene; TIPS pen[29] exhibits a solubility of 69 mM in toluene; and TIBS pen exhibits a solubility of 90 mM in toluene.
+3-101	Figure 3b displays how ⟨S⟩ depends on the additive concentration for these four compounds; a similar graph comprising the dependence of ⟨S⟩ on all of the additives in this study is depicted in Figure S4, Supporting Information.
+3-102	As expected, we observe a large shift in ccrit depending on the solubility of the additive.
+3-103	Figure 3c quantifies this relationship, in which ccrit for all nine additives explored in this study is plotted against the solubility of the additives in toluene.
+3-104	When the poorly soluble fullerene derivatives, TES Tet Fu and PCBM, are used as additives, the ccrit’s are 0.2 and 0.1 mol %, respectively.
+3-105	In contrast, when soluble TIPS pen and TIBS pen are used as additives, the ccrit’s are 2.0 and 2.5 mol %, respectively.
+3-106	As can be seen in Figure 3c, we observe a strong and positive correlation between ccrit and the solubility of the additive in toluene that is consistent with our hypothesis.
+3-107	Dependence of Smax on the Additives’ Similarity to TES ADT.
+3-108	Finally, we turn our attention to ⟨Smax⟩, the maximum number density of spherulites achievable in TES ADT thin films.
+3-109	For all the additives explored, ⟨S⟩ becomes independent of the additive concentration beyond a critical concentration, plateauing at ⟨Smax⟩.
+3-110	This sigmoidal dependence wherein the nucleation density saturates at high additive loadings has also been observed in the crystallization of metal alloys[41,42] and polymer films[43] incorporating nucleating agents.
+3-111	This phenomenon is attributed to additional additives aggregating into larger, as opposed to more numerous, clusters at high loadings.[42]
+3-112	Because the number of critical nuclei does not necessarily scale with concentration, saturation of the nucleation density with respect to the additive concentration results.
+3-113	In the case of TES ADT thin films, ⟨Smax⟩ appears to be bimodal.
+3-114	More specifically, ⟨Smax⟩ either adopts a value of 2 ± 1 × 103 spherulites/mm[2] when F-, Cl-, and Br-TES ADT are used as the additives or a value around 60 ± 30 spherulites/mm[2] when the other additives are employed.
+3-115	These ⟨Smax⟩ were extracted from thin fims comprising spherulites having average sizes of 30 ± 10 and 150 ± 40 μm, respectively, well above the resolution limit of the optical microscope.
+3-116	That the additives most similar to TES ADT in chemical structure, namely F-, Cl-, and Br-TES ADT, can form more nuclei at high concentrations compared to the other additives indicated that ⟨Smax⟩ is likely related to the structural similarity of the additive with TES
+3-117	ADT.
+3-118	When the molecular structure and size of the additive is similar to TES ADT, we expect the driving force for the additive to locally phase separate and form active nuclei to be weak.
+3-119	On the other hand, for additives that are have molecular structures dissimilar to TES ADT, the driving force for phase separation is stronger.
+3-120	This tendency to locally segregate effectively increases additive aggregation.
+3-121	The use of F-, Cl-, and Br-TES ADT to nucleate TES ADT is thus similar to the introduction of nucleating agents in bulk polyolefin systems.
+3-122	These nucleating agents are often chosen to be chemically similar to the host polymer to ensure that they can be homogeneously dispersed to more effectively induce crystal- lization.[44,45]
+3-123	Kinetics of the Crystallization Process.
+3-124	To gain a deeper understanding of the nucleation process, we examined the kinetics of spherulitic growth in TES ADT thin films in the presence of these additives during exposure to DCE solvent vapor.
+3-125	Given the correlations we have established between the additive’s efficacy in seeding TES ADT crystallization and its physical attributes, it is tempting to speculate that these nuclei are preformed during deposition, so nucleation occurs instantaneously at the onset of solvent-vapor annealing.
+3-126	Since each spherulite results from a single nucleus, we can indirectly track such successful nucleation events through the observation of spherulite development.
+3-127	In neat TES ADT thin films, the nucleation of spherulites is spatially random and occurs on dust particles and defects in the film, resulting in an average spherulite diameter of 3 mm, or alternatively, a nucleation density of 0.2 nuclei/mm[2].
+3-128	Time-resolved microscopy experi- ments indicate that nucleation in neat TES ADT thin films does indeed occur instantaneously upon solvent-vapor annealing and we do not observe any subsequent nucleation events during later time points during crystallization.
+3-129	Interestingly, we found nucleation in films with additives to be characteristically different.
+3-130	Figure 4a shows a series of time-lapse images recorded during exposure of a TES ADT film comprising 1 mol % F-TES ADT to DCE solvent vapor.
+3-131	In contrast to the crystallization of neat TES ADT, we observe the formation of new spherulites throughout solvent−vapor annealing.
+3-132	These new spherulites are highlighted by white circles in the figure.
+3-133	The number of new spherulites in a given frame, scaled by the fractional area uncrystallized, is equivalent to the instantaneous rate of the appearance of new nuclei per fractional area uncrystallized, Nnew, since each spherulite arises from one nucleation event.
+3-134	By counting Nnew as a function of time from time-lapse images, such as those shown in Figure 4a, we can quantify the nucleation process.
+3-135	Figure 4b shows the normalized Nnew as a function of the crystallization time for TES ADT comprising F-TES ADT at different concentrations, in which Nnew has been scaled to the maximum value of Nnew for each sample.
+3-136	With increasing F-TES ADT concentrations, we observe a broadening of the distribution of the nucleation density per fractional area uncrystallized.
+3-137	These results indicate that−contrary to expectation−the mode of nucleation in TES ADT thin films transitions from one that is instantaneous occurring at the beginning of crystallization to one that is distributed throughout crystallization with increasing additive concentration.
+3-138	To rigorously compare the nucleation mechanism in TES ADT thin films incorporating different additives at varying concentrations, we can measure the fractional area crystallized as a function of time for these films and fit the data to the Avrami equation.
+3-139	Figure 4c shows a representative plot of the
+3-140	dichlorethane vapor.
+3-141	Newly formed spherulites are highlighted with white circles.
+3-142	(b) Normalized nucleation events per area uncrystallized as a
+3-143	function of time (normalized to the total time needed for 100% crystallization).
+3-144	Curves have been shifted along the y-axis for clarity.
+3-145	(c) Fractional
+3-146	area crystallized in TES ADT films extracted at successive time points for five F-TES ADT additive concentrations for the same data set shown in b.
+3-147	(d) The Avrami exponent, n, as a function of the additive concentration for different additives.
+3-148	fractional area crystallized versus time for TES ADT films with F-TES ADT as the additive at concentrations between 0.5 and 2.0 mol % during solvent-vapor annealing.
+3-149	As the concentration of F-TES ADT increases from 0.5 to 2.0 mol %, the total time for the film to completely crystallize decreases from 3 min to 7 s.
+3-150	While the growth rate of TES ADT spherulites decreases with increasing additive concentration (refer to Figure S2, Supporting Information), the time for complete crystallization is dominated by the drastic increase in nucleation density.
+3-151	For all additive concentrations, the dependence is sigmoidal in nature, reminiscent of polymer crystallization during which an initial induction period associated with nucleation is followed by subsequent growth until neighboring spherulites im- pinge.[46,47]
+3-152	The kinetics of crystallization in such systems is well-captured by the Avrami equation:[48−50]
+3-153	ln[1 − X t( )] = −ktn (2) where X(t) represents the fraction crystallized, k is the rate constant associated with crystallization, and n is the Avrami exponent.
+3-154	The equation assumes that nucleation is spatially random and that growth is symmetric emanating from its nucleation point.
+3-155	The Avrami equation also assumes that the crystallization rate is independent of time.
+3-156	These assumptions are valid for TES ADT crystallization with and without fractional concentrations of additives as nucleation is spatially random; growth is spherulitic in nature; and the growth rate of spherulites is independent of time.[31]
+3-157	The Avrami exponent, n, provides information about the dimensionality of the system and also the mechanism of nucleation.[51]
+3-158	For two-dimensional growth at constant rates, n assumes a value of 2 when nucleation occurs instantaneously at the beginning of the crystallization process and a value of 3 when nucleation events are distributed throughout crystallization.[51]
+3-159	By fitting the crystallization kinetics of TES ADT to the Avrami equation, we can thus decouple nucleation from growth, given our extensive knowledge of TES ADT growth habit.[31]
+3-160	Because the diameter of TES ADT spherulites is at least 2 orders of magnitude larger than the thickness of the films (ca.
+3-161	100 nm), we assume TES ADT spherulites to be two-dimensional in nature and their structure to be uniform along the depth of films.[52]
+3-162	By fitting the curves shown in Figure 4c to the Avrami equation (refer to Figure S5, Supporting Information), we extracted n values between 2 and 3 depending on the concentration of F-TES ADT that had been added to TES ADT.
+3-163	In fact, similar trends for other additives are also observed.
+3-164	Figure 4c displays n as a function of additive concentration for the nine different additives used in this study.
+3-165	We observe that, at low concentrations, n = 2 universally.
+3-166	Given two-dimensional growth, this value verifies that nucleation occurs instantaneously at the beginning of crystallization.
+3-167	The value of n then increases from 2 to 3 as the additive concentration increases and gradually saturates at n = 3, corresponding to a transition from instantaneous nucleation to one that is distributed throughout the crystallization process at high additive loadings.
+3-168	This finding is consistent with our observations of the time distribution of Nnew as a function of the additive concentration, as shown in Figure 4b.
+3-169	Further supporting this assertion that the nucleation mechanism transforms from one that is instantaneous to one that is distributed with increased additive loadings is the fact that the nature of the interspherulite boundaries in these films is characteristically different.
+3-170	In Figure 1a, for example, interspherulite boundaries in films with 0.8 mol % F-TES ADT are straight.
+3-171	On the other hand, the interspherulite boundaries in films with higher concentrations of F-TES ADT are curved (the last panel of Figure 4a).
+3-172	The presence of curved interspherulite boundaries is consistent with nucleation events occurring throughout crystallization.
+3-173	We further note that the concentration range at which n transitions from 2 to 3 corresponds to the range of concentrations at which ⟨S⟩ increases exponentially with additive concentration in Figure 1b.
+3-174	The onset of n = 3 corresponds to when ⟨S⟩ = ⟨Smax⟩, at which the nucleation density saturates.
+3-175	That n plateaus at 3 in this regime is expected, since larger values would correspond to a nonphysical scenario in which the nucleation rate accelerates with time.[51]
+3-176	The fact
+3-177	that the incorporation of additives, irrespective of chemistry, increases n from 2 to 3 in qualitatively the same manner suggests that the fundamental mechanism of additive aggregation and subsequent nucleation of TES ADT spherulites is independent of the physical attributes of the additives, but the extent to which this process occurs is chemistry-specific and depends strongly on the additives’ driving force to aggregate, their solubility in toluene, and their chemical compatibility with TES ADT.
+4-001	■
+4-002	Identifying key attributes affecting the nucleation efficacy of small-molecule additives in solution-processed, organic semi- conductor thin films has strong implications in the field of organic electronics.
+4-003	In systems incorporating dopants to improve device mobilities[3,4] in the case of OTFTs and conductivities[5,6] and luminescence[7−9] in the case of OLEDs, there exists a competition between maximizing the dopant level to improve electronic and optical properties while minimizing disruption to the overall film morphology because grain boundaries in organic semiconductor thin films often act as barriers to charge transport.[13−15] By designing the dopants to have high solubilities in the casting solvent, one could minimize the nucleation density and, thus, the density of grain boundaries, in the active layer while maximizing the dopant concentration.
+4-004	Likewise, in the active layers of OLEDs, large- scale aggregation of emissive dopants can lead to a decrease in overall light emission due to self-quenching of the dopants.[8,9]
+4-005	In our study, we have found the degree of local phase separation between the guest and host compounds to be related to their chemical compatibility.
+4-006	It is thus advantageous to design the dopant to be chemically similar to the host organic semiconductor in order to minimize phase separation.
+4-007	Such design parameters will aid future research in the prediction of the final film morphologies based on the chemical structures of the constituent organic semiconductor compounds, particularly in complex multicomponent thin films.

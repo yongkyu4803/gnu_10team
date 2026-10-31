@@ -1,0 +1,282 @@
+# document_id: jp105923a
+# extractor: kordoc-markdown-adapter-1
+1-001	Hydrogen spillover, which has been observed in a variety of catalytic reactions, such as hydrogenation,[1,2] syngas reactions,[3,4] and hydrotreatment reaction,[5] among others, is a well-known phenomenon in catalysis.
+1-002	The role of spillover was recognized in catalyst’s longevity and stability of activity and selectivity,[6] creation of catalytic centers,[7] and enhancement of reaction rate.[8]
+1-003	Comprehensive reviews of spillover in catalysis have been published,[6,9-11] including those specific to hydrogen storage.[12,13]
+1-004	Hydrogen spillover was applied in hydrogen storage in recent years by Lueking and Yang,[14] and appreciable enhance- ment of hydrogen storage by hydrogen spillover has been achieved by the following work.[15-18] Hydrogen spillover is a process composed of multiple steps, including catalyzed hydro- gen dissociation, surface diffusion from the catalyst to a surface that would otherwise be unable to adsorb dissociated hydrogen directly, possible chemisorption of the dissociated hydrogen species to the support, and recombination and subsequent desorption of mobile hydrogen species from the support.
+1-005	(The generic term “species” is used, as the exact nature of spilt-over hydrogen is unclear in the literature, with H3 , Hþ ions, H atoms, and coexistence of Hþ and H atom possible depending upon the nature of the surface.[19]) The balance of these competing processes determines the overall hydrogen content on a surface.
+1-006	As such, hydrogen spillover differs from simple physisorption or
+1-007	r 2011 American Chemical Society
+1-008	chemisorption for which there is direct equilibration between the bulk gas phase and the active adsorption sites.
+1-009	Although hydro- gen spillover includes both chemisorption and physisorption as steps in its mechanistic sequence, the process of surface diffusion effectively decouples the interaction between the gas phase and the active surface sites.
+1-010	This decoupling leads to dependence on structural features that affect hydrogen supply to the surface (e.g., catalyst size, dispersion, interface, diffusion pathway) versus the probability of chemisorption (number of active surface sites; binding energy with hydrogen) versus the probability of recom- bination.
+1-011	The premise in utilizing hydrogen spillover to enhance overall hydrogen uptake is that either the population of mobile hydrogen species is appreciable with continual resupply from the catalyst, or the dissociated active hydrogen species migrate to and are retained by surface sites to which they weakly chemisorb.
+1-012	To improve overall uptake via hydrogen spillover, research has included investigation of interfacial contact between metal catalyst and support,[15,16] metal doping efficiencies,[20,21] structure of the support,[22,23] substitutional doping of the support with heteroatoms,[24-27] or altering of the surface chemistry of the
+1-013	In catalysis, the reduction of a large number of metal oxides has been improved by hydrogen spillover.[28]
+1-014	In particular, tung- sten and molybdenum oxide hydrogen bronzes have been thoroughly studied since Khoobiar’s initial experiments.[29]
+1-015	It is also well documented that surface oxygen groups, specifically terminal hydroxyls, can facilitate hydrogen spillover to zeolites,[30] silica, and alumina.[31-33] The oxygen groups act to either stabilize the spilt-over hydrogen[30,34] or provide bridges by which H atoms can migrate over the support surface to occupy active sites previously inaccessible to them.[33]
+1-016	However, the desorption of spilt-over hydrogen may occur via dehydroxylation of the sup- port in such cases.[30]
+1-017	There is significantly less data on how surface functional groups on carbon-based supports will affect hydrogen spillover.
+1-018	Wang et al. modified a carbon receptor with oxygen groups and found that the presence of oxygen groups increased the binding energies of the spilt-over H on graphite.[35]
+1-019	Theoretical calculations showed increased hydrogen binding energy upon the oxidation of the carbon surface[13] and possible routes for decreasing diffusion barriers.[36]
+1-020	The first objective of this study is to report the effect of added oxygen groups on hydrogen spillover, with emphasis on investigation of the chem- ical identity of specific surface oxygen functional groups.
+1-021	To this end, we use a modified alkaline treatment to increase the number of oxygen functional groups on the surface and use multiple characterization techniques to understand the nature of the oxygen species active in accepting spilt-over hydrogen.
+1-022	The low-temperature alkaline treatment, modified from Chiang et al.,[37] is expected to increase hydroxyl, carboxyl, and carbonyl groups on the surface of an activated carbon.
+1-023	This work is a follow-up from a published conference proceeding from 2008.[38]
+1-024	In preparation of this work and verification of the magnitude of these results, we have found interesting effects of trace water present during pretreatment.
+1-025	The role of water, as will be discussed, lies in surface modification during pretreatment, rather than (or in addition to) directly affecting adsorption.
+1-026	Although water is generally considered to be a detrimental contaminant to hydrogen storage,[39,40] water is also known as a necessary cocatalyst to activate hydrogen spillover,[41-43] and its presence during pretreatment and/or adsorption[11,33] may play a role in subsequent hydrogen spillover uptake in a process akin to the bridge-building process developed by Yang et al.[15,16] The second objective of the article is thus to explore the role of water, and its synergistic role in the development of surface chemistry and subsequent effect on hydrogen storage via the spillover phenomenon.
+2-001	2.1.
+2-002	Material Synthesis.
+2-003	A high surface area activated carbon (AC, The Kansai Coke & Chemicals) was selected for additional surface modification.
+2-004	This AC was originally prepared by alkali- metal activation of a graphitized petroleum coke.
+2-005	To increase surface oxygen groups further, we treated the as-received AC with KOH, drawing from a procedure reported by Chiang et al.[37] The procedure was modified to use KOH rather than NaOH because KOH is widely used in the modification of carbon material for hydrogen storage.[22,44]
+2-006	In brief, the AC was impreg- nated with 1 M potassium hydroxide (KOH, EMD Chemicals) in a KOH to AC weight ratio of 4:1, magnetically stirred for 12 h at room temperature, washed to neutral, filtered, then dried at 373 K. The resulting material after KOH activation will be referred to as AC-o.
+2-007	The presence of oxygen groups is expected to affect the dispersion of the Pt catalyst, and thus secondary spillover studies were used to emphasize the role of surface chemistry without altering the “supply” of the hydrogen species from the catalyst.
+2-008	The secondary carbon support (either AC or AC-o) was mixed with a Pt catalyst supported on activated carbon (5% Pt-C, STEM Chemicals) in a ratio of Pt-C to AC fixed at 1:9,[15] then ground with an agate mortar and pestle for 30 min (Pt-C/AC or Pt-C/AC-o).
+2-009	In each series of experiments described below, samples within the series are from the same batch of synthesis.
+2-010	2.2.
+2-011	Characterization.
+2-012	BET specific surface area and total pore volume were calculated from nitrogen adsorption/desorp- tion isotherms at 77 K with Micromeritics ASAP 2020.
+2-013	The micropore volumes were calculated from CO2 isotherms using the Dubinin-Astakhov (DA) equation.
+2-014	Before both N2 and CO2 isotherms, the samples were outgassed at 2 mmHg for 6 h at 423 K.
+2-015	The chemical bonding information of the modified surface was obtained by X-ray photoelectron spectroscopy (XPS) (Axis Ultra; Kratos).
+2-016	The X-ray source for the measurement was monochromatic Al-KR.
+2-017	The working pressure was maintained under 10-8 Torr. 80 eV pass energy was used for surveys, and 20 eV was for high-resolution scans.
+2-018	For calibration purpose, the C (1s) electron bond energy was referred at 284.6 eV, which is corresponding to graphitic carbon.[45]
+2-019	O-to-C atomic ratios were approximated from the XPS survey spectra by using the ratio of areas under the most intense photoelectron peak of each element.
+2-020	Because the spot diameter of XPS is in millimeter scale, typically single spots were used.
+2-021	Two different preparations of AC and AC-o were used (as noted below) in the quantification of the O/C ratios to demonstrate sample variability.
+2-022	Samples were exposed to air prior to characterization.
+2-023	We make the assumption that air exposure during sample transfer is expected to have minimal effect on the surface groups that remain chemically bound to the surface and could not be desorbed; our data show similar results regardless of time between synthesis/adsorption and characterization.
+2-024	Diffuse reflectance infrared spectra (DRIFTS) were collected on a Magna-IR 750 Nicolet FTIR spectrometer in the range of 500-4000 cm-1.
+2-025	All spectra were collected at 50 °C. Samples were exposed to air prior to characterization.
+2-026	2.3.
+2-027	Adsorption Procedures.
+2-028	To emphasize the role of water, two experimental setups are described.
+2-029	The first (Setup
+2-030	1) is based on the results in our previous conference preprint, and the second (Setup 2) has been designed to emphasize the role of water on subsequent hydrogen adsorption results.
+2-031	Sample pre- treatment and adsorption isotherms were conducted on an Intelligent gravimetric analyzer (IGA)-003 (Hiden Isochema), capable of pressures up to 20 bar and temperatures up to ∼500 °C. Sample pretreatment was conducted in flowing gases, whereas all adsorption isotherms (H2 and He; dry and wet) were conducted in a static environment to eliminate drag effects.
+2-032	The static mode maintains pressure in the system by using electro- nically controlled inlet and outlet valves that maintain the desired pressure in the system.
+2-033	A turbomolecular pump is attached to IGA, allowing for a vacuum pretreatment at pressure of 10-6 mbar.
+2-034	Sample buoyancy corrections were made by using helium density measurements of the sample after the hydrogen iso- therms were complete, and thus helium adsorption at room temperature is assumed to be minimal.
+2-035	Hydrogen adsorption/desorption isotherms were conducted at 25 °C at pressures under 20 bar.
+2-036	In our system, the balance chamber is maintained at
+2-037	45 °C for stability, whereas the outline lines to vacuum are heated to ∼50 °C to minimize retention in the system of hydrogen and other contaminants that evolve from the samples.
+2-038	Adsorption temperature was maintained by water bath.
+2-039	Data were collected at each pressure point until the mass was stabilized to within a 99% tolerance or for a maximum of 40 min, whichever was first.
+2-040	The precision of the IGA is (0.01 wt % for 100 mg sample at 20 bar ((10 μg).[46]
+2-041	Samples were pretreated using methods similar to those of Srinivas and Rao:[47] the samples were first reduced in flowing hydrogen (30 mL/min) at 250 °C for 6 h and then degassed in ultrahigh vacuum (10-6 mbar) at 400 °C for 8 h; in certain instances, the pretreatment times were varied as indicated.
+2-042	In Setup 1, ultrahigh-purity hydrogen (UHP, 99.999%) and helium (99.995%) were used for all pretreatments and measurements.
+2-043	Molecular sieve 3A purifiers were used on each gas stream in Setup 1 to ensure that purity was maintained in all experiments.
+2-044	(See Figure 1.) In Setup 2, H2 with increased purity (i.e., chemical grade 99.9999%) was used without sending the gas through the 3A zeolite column.
+2-045	Setup 2 also used a T-purge regulator and new gas delivery lines to the point of entry to the IGA system.
+2-046	(See Figure 1.) This setup was then modified to add water intentionally to the system by adding a water bubbler to a parallel He line; the water bubbler was installed in He line rather than H2 line because of safety concerns and is maintained at room temperature.
+2-047	With the Setup 2 shown in Figure 1, a “Wet H2” pretreatment is obtained as follows: first, the indirect line is saturated with water using a He carrier gas that passes through the bubbler into the system at 30 mL/min for 2 h.
+2-048	The sample is then pretreated as described in Setup 1 (i.e., 30 mL/min H2 at 250 °C for 6 h; then, 10-6 mbar at 400 °C for 8 h).
+2-049	The “Wet H2” during pretreatment is thus obtained by residual water in the indirect line and decreases as the experiment proceeds.
+2-050	In Setup 1, with the use of the 3A zeolite column, the same quality of H2 was used in pretreatment and adsorption.
+2-051	In Setup 2, chemical-grade hydrogen was used for adsorption; in certain instances,
+2-052	water was added through presaturation of the lines using saturated He in a manner similar to that described above for the pretreatment step.
+2-053	For clarity, Setup 2 experiments are as follows:
+2-054	a) H2 for both pretreatment and isotherms are dry (‘d’) chemical-grade hydrogen and delivered by the direct line; no H2O was added in either stage (dPt-C/AC-o).
+2-055	b) H2O was added only in the pretreatment stage by means of wet (‘w’) H2; chemical-grade H2 was used for isotherms (wPt-C/AC-o).
+2-056	Wet H2 was delivered by the indirect line during pretreatment, but chemical-grade H2 was delivered by the direct line during hydrogen adsorption.
+2-057	c) Pt-C/AC-o was pretreated in the same way as in b.
+2-058	A H2 O isotherm was collected after the pretreatment.
+2-059	H2O was sent through the indirect line using He as a carrier gas by water bubbler.
+2-060	As before, the isotherm was collected in static mode.
+2-061	d) c was followed by H2 isotherm.
+2-062	An attached mass spectrometer (MS, Hiden, DSMS type HPR-20) was used to determine the water content in various stages.
+2-063	The inlet to the MS was placed at either the vacuum pump located at the outlet to the system such that it acted as a residual gas analyzer (RGA) during vacuum pretreatment or at the outlet to the weighing chamber when the system was pressurized or operating in flow mode such that it operated as a TG-MS (IGA mode).
+2-064	We estimated the pressure of water in the adsorption chamber by normalizing the ratios of the He and H2O MS signals to the saturation pressures of water under the given conditions.
+3-001	3.1.
+3-002	Carbon Oxidation via KOH Treatment and Setup I Results. 3.1.1.
+3-003	Effect of Carbon Oxidation on Surface Chemistry and Physisorption.
+3-004	The textural properties of AC and AC-o (Table 1), indicate that the KOH activation process decreases the BET surface area and pore volume (total and micro-) while decreasing the average pore diameter.
+3-005	The properties are con- sistent with the idea that oxygen groups may block access of N2 to some pores at 77 K. The XPS survey spectra of both AC and AC-o (Figure 2) exhibit the O 1s and C 1s peaks; K 2s peak is observed in AC-o, a sign of residue from the KOH treatment.
+3-006	Quantification of the XPS survey spectra (Table 2) shows that the KOH-activation increases the atomic concentration of O on the surface: O-to-C atomic ratio increased from 0.23 for AC to 0.28 for AC-o.
+3-007	(In a separate preparation of AC and AC-o, the O to C atomic ratio increased from 0.19 for AC to 0.28 for AC-o.
+3-008	The increase in oxygen content is ∼32%, which is close to the data presented in the paper from which the KOH oxidation technique is based.[37]) High-resolution C 1s (Figure 3) and O 1s XPS spectra (Figure 4) show that the increase in the surface O groups in AC-o are either carbonyl or quinone groups (peak II in Figure 3; peak I in Figure 4).
+3-009	KOH treatment has thus increased the number of oxygen functional groups and increased the relative proportion of carbonyl or quinone groups.
+3-010	As stated above, the KOH treatment is an adaptation of a method reported by Chiang et al.[37] that used NaOH treatment.
+3-011	Chiang et al. reported that NaOH treatment added hydroxyls, carboxylic acids, and lesser amounts of carbonyl groups, citing primarily Boehm titration, shifts in IR spectra, and electophoretic mobility.
+3-012	Because the characterization methods differ, it is difficult to compare directly the results of the alkaline treatment here with the findings of Chiang et al.
+3-013	The Journal of Physical Chemistry C ARTICLE
+3-014	aBET specific surface area. b Total pore volume; nitrogen used as the adsorbed phase. c Specific surface area of micropores. d Micropore volume; CO2 used as the adsorbed phase. e Average pore width estimated from Smicro and Vmicro by assuming a slit-shaped pore. f Helium density (true density).
+3-015	H/MT is commonly used in the catalyst field as evidence of hydrogen spillover and here gives a clear indication of spillover increases upon the addition of the secondary AC receptor.
+3-016	The enhancement in hydrogen uptake due to mixing a catalyst with a secondary receptor is typical for hydrogen spillover systems; for example, Lueking and Yang[49] and Lachawiec et al.[15] reported spillover phenomenon of nanostructured carbon materials that were synthesized by mixing the carbon nanotubes with a small amount of carbon-supported catalyst and showed an enhance- ment factor[49] of 3 and 1.1 at 1 bar and ∼298 K, respectively.
+3-017	The hydrogen adsorption of Pt-C/AC-o is significantly more pronounced, particularly at pressures T for Pt-C/AC-o at 100 mbar is 444, indicating that the degree of spillover is significantly enhanced by the KOH oxidation treatment.
+3-018	At 20
+3-019	slope of the isotherms at high pressure (P > 1 bar) is similar for all The decreased surface area, decreased pore size, and increased samples, and such behavior suggests that hydrogen spillover surface oxygen functional groups had negligible effect on the H2 occurs at low pressures only.
+3-020	(Similarity of isotherm slope at high adsorption at 298 K (Figure 5), with the isotherms of AC and pressure was the classic test for spillover in early work by Benson AC-o indistinguishable.
+3-021	Although XPS indicates that the residual K and Boudart.[51]) The plateau at 1 bar is dissimilar to results in AC-o has increased (Table 2), the negligible effect on physisorp- typically reported on high-pressure volumetric systems up to 100 tion up to 20 bar suggests the K does not induce polarization- bar;[15] this may be attributed to a lack of enhanced physisorption enhanced physisorption in this case, as demonstrated elsewhere.[48] at pressures in excess of 1 bar or due to shorter equilibration time 3.1.2.
+3-022	Effect of Surface Oxygen Groups on Hydrogen Spil- in our work.
+3-023	The former is highly sample-dependent and may be lover.
+3-024	The oxygen functional groups introduced by the KOH due to differences in surface chemistry, porosity, metal-support activation process had a pronounced effect on the hydrogen interface, and so on.
+3-025	The latter seems unlikely, given the relative uptake when the carbon was mixed with the Pt-C spillover differences and the time profile of our measurements.
+3-026	A more catalyst (Figure 5; Setup 1, UHP hydrogen with an in-line 3A detailed examination of the role of oxygen groups in hydrogen zeolite trap).
+3-027	Prior to oxidation, the hydrogen adsorption of Pt- spillover is discussed in a later section, after we first consider the C/AC exceeds the capacity that is expected if the individual AC possible role of trace H2O contamination in these results.
+3-028	and the Pt-C catalyst are considered additive, exceeding the 3.2.
+3-029	Introduced Water: Setup 2 Results. 3.2.1.
+3-030	Effect of weighted average of the mixture by a factor of 1.8 at 20 bar.
+3-031	The Introduced Water on Spillover and Adsorption.
+3-032	Given the high uptake reported here translates to a hydrogen to total metal ratio low-pressure uptake of Pt-C/Ac-o and the potential hydrophilic (H/MT) of 0.90 for Pt-C and 36 for Pt-C/AC at 100 mbar.
+3-033	The nature of the oxidized sample, the potential effect of trace water Figure 3.
+3-034	High-resolution C 1s XPS spectra of (a) AC and (b) AC-o.
+3-035	Peak I (288.8 eV) is assigned to carbon in carboxyl or ester groups.[68-70] Peak II (287.3 eV) is assigned to carbon in carbonyl or quinone groups.[68,69]
+3-036	contamination was explored.
+3-037	Water has been shown to affect hydrogen adsorption, even when high purity H2 is used.[39,40]
+3-038	The effect of water in hydrogen storage is particularly pronounced for
+3-039	(25 °C) of AC, AC-o, 5% Pt-C, Pt-C/AC, and Pt-C/AC-o.
+3-040	The isotherm
+3-041	of Pt-C/AC-o is indicative of hydrogen spillover in that the hydrogen
+3-042	uptake of the physical mixture of the Pt-C catalyst and the secondary
+3-043	AC-o support exceeds that expected if their individual contributions
+3-044	were additive.
+3-045	Isotherms of AC and AC-o are overlapping with each
+3-046	other.
+3-047	Solid signs are representing adsorption, and hollow signs are for desorption.
+3-048	Lines are used to lead the eyes.
+3-049	gravimetric measurements due to the nine-fold mass increase in signal for H2O adsorption.
+3-050	Although 3A zeolite was intended to
+3-051	remove trace water from the system, after the incorporation of a
+3-052	mass spectrometer to our IGA system, we have found that this process may be effective only immediately after the pretreatment
+3-053	of the column, likely because of poor contact time between the
+3-054	gas and zeolite, channeling through the column, or saturation of
+3-055	the material.
+3-056	As described above, Setup 2 was designed to add
+3-057	water intentionally in various stages in the experiment.
+3-058	First, a “dry” H 2 isotherm after “dry” pretreatment (i.e., Setup
+3-059	2a) was obtained (i.e., dPt-C/AC-o).
+3-060	As described above, Setup 2 upgraded to chemical-grade purity H2 , removed the 3A zeoltie column, and included a T-purge regulator and a change of delivery lines.
+3-061	The Setup 2 upgrades led to a nominal trace
+3-062	H2 O content of 2 mbar compared with a typical water content of
+3-063	7 mbar in Setup 1.
+3-064	Reduction of trace water with the equipment
+3-065	change led to a significant decrease in the low-pressure uptake for dPt-C/AC-o, decreasing to 0.06 wt % at 100 mbar (Figure 6Ia), a significant reduction from the 1.1 wt % under similar conditions
+3-066	from Setup 1 (Figure 5).
+3-067	However, it was not clear if the decrease
+3-068	was due to the presence of trace water in pretreatment or adsorption, particularly given past reports of the importance of
+3-069	water as a cocatalyst bridge during pretreatment in hydrogen spillover materials.[41,42]
+3-070	Water was next added during pretreatment using “wet H2” as described in the Experimental Methods section (i.e., wPt-C/AC-
+3-071	o).
+3-072	As water was added over a finite time, the partial pressure of
+3-073	H2 O was found to be 7.9 mbar at the start of the pretreatment
+3-074	and had decreased to 4.0 mbar after 360 min of the H2 reduction
+3-075	step at 250 °C in pretreatment.
+3-076	Adding trace water to the pretreatment stage regained the features of the Setup 1 isotherm, increasing the uptake of wPt-C/AC-o to 0.75 wt % at 100 mbar (Figure 6Ib), a 10-fold increase relative to dry pretreatment conditions (Figure 6Ia) and comparable to the Setup 1 condi-
+3-077	tions (i.e., 1.1 wt %, Figure 5).
+3-078	After desorption to 12 mbar, 0.59
+3-079	wt % H2 remains on the sample.
+3-080	(For clarity, desorption is not
+3-081	shown in Figure 6I.)
+3-082	Next, trace water was added during pretreatment using “wet
+3-083	H2”, and the adsorption isotherm of H2 O was obtained using He
+3-084	as a carrier gas during the adsorption step (i.e., Setup 2c).
+3-085	H2 was absent during the adsorption step, and the isotherm data are plotted versus the total pressure of H2 O/He stream.
+3-086	The shape of the H2O isotherm (Figure 6Ic) is markedly different than the shape of the H2 isotherm (Figure 6Ib): Notably, the sharp low-pressure uptake is absent for H2 O adsorption with the weight increase only 0.035% at 100 mbar.
+3-087	At higher pressures, the magnitude of the water adsorption is significantly larger than that of H2 (up to 8 wt %), and there is no plateau.
+3-088	Converting wt % uptake in Figure 6Ib,c to mmol/g, assuming that H2O is the adsorbed species in plot (b), Figure 6II was plotted.
+3-089	The isotherm shape of Figure 6IIb,c is very different, and thus it is not reasonable to attribute adsorption of (b) to water.
+3-090	The different shape of the water isotherm is due to two factors: first, water is a condensable fluid under these conditions and thus has greater driving force to adsorb, and second, water undergoes known cooperative adsorption effects due to stronger adsor- bate-adsorbate interactions relative to adsorbate-adsorbent interactions.
+3-091	This latter point gives rise to the typical sigmoidal or S-shaped (Type V) adsorption isotherm, shown both here and for H2 O adsorption on activated carbons.[52,53]
+3-092	For H2, the shape of the wPt-C/AC-o isotherm (Figures 5 and 6Ib) is typical of chemisorption.
+3-093	For example, the H2 isotherm on platinum has a
+3-094	similar shape,[54] but of course, the high H/M ratio for the samples that includes the carbon support indicates additional surface coverage due to hydrogen spillover.
+3-095	The isotherm plateau for H2 isotherm after the wet pretreatment (i.e., Setup 2, Figure 6Ib) supports a negligible adsorption of H2O for this system.
+3-096	It is not clear, however, whether this is due to negligible H2 O in the system or competition between hydrogen and H2 O
+3-097	for adsorption sites.
+3-098	The results strongly indicate that water plays an important role in the pretreatment, but the presence of water during adsorption may lead to very different adsorption behavior.
+3-099	At the conclusion of the H2 O/He adsorption isotherm, the material was evacuated for several hours at room temperature, and H2 was introduced to the system.
+3-100	With this relatively moderate pretreatment, the mass of the material did not return to baseline, and residual 2 wt % water was present at the conclusion of the regeneration step.
+3-101	Upon introduction of H2 , the amount of additional hydrogen adsorbed is 0.027 wt % at 100 mbar (Figure 6Id; or 0.028 wt % based on the dry adsorbent mass), suggesting that preadsorbed H2O may block or inactivate adsorption sites that would be active for H2 adsorption.
+3-102	The potential blocking effect of water adsorption has implications for regenerability or poisoning of spillover materials in real world applications.
+3-103	3.2.2.
+3-104	Surface Characterization Results (Setup 2).
+3-105	Pt-C/AC-o (as-synthesized), dPt-C/AC-o, and wPt-C/AC-o were char- acterized with XPS and FTIR, with the latter two after adsorp- tion.
+3-106	Quantification of the XPS survey spectra (Table 2) shows that the O to C atomic ratio (O/C) decreases slightly after the dry pretreatment and increases slightly after the wet pretreat- ment.
+3-107	The changes in O/C reflect the relative mass loss during the pretreatment step (discussed in more detail below).
+3-108	Char- acterization with FTIR shows three bands in the spectra of as-synthesized Pt-C/AC-o (Figure 8a): 1605 cm-1 is attributed to quinones/CdC carbon framework;[55,56] 1710 cm-1 is attributed to carbonyl/quinone groups;[57] the broad envelope ranging from 1000 to 1350 cm-1 is related to aliphatic and aromatic ether functionalities.[55,56]
+3-109	The effect of pretreatment and adsorption is most pronounced for wPt-C/AC-o (Figure 8c): the intensity of carbonyl/quinone group peak at 1710 cm-1 diminishes (inset), which is in agreement with XPS results.
+3-110	Furthermore, wPt-C/AC-o has a broad band at 1000-1200 cm-1 (inset), indicative of a C-OH stretching mode, which is larger than the other samples.
+3-111	Peaks at 2800-3000 cm-1 are indicative of carbon-hydrogen bonds, and a subtle increase is found after adsorption in both dPt-C/AC-o and wPt-C/AC-o.
+3-112	Although subtle, any such carbon-hydrogen bonds that remain after desorption and air exposure are likely bound to highly reactive carbon edge sites that were generated during pretreatment.
+3-113	3.3.
+3-114	Evolution of Oxygen Surface Functional Groups. 3.3.1.
+3-115	Effect of KOH Oxidation on Carbon Surface
+3-116	Chemistry.
+3-117	To reiterate, KOH treatment increases the surface content of oxygen functional groups (Table 2), and the relative fraction of carbonyl or quinone-type groups is increased.
+3-118	Ulti- mately, the oxidation treatment leads to high low-pressure hydrogen spillover during adsorption.
+3-119	After the H2 adsorp- tion-desorption cycle, XPS and FTIR both suggest that the nondesorbable H2 (1 wt % for Pt-C/AC-o in Setup 1; 0.59 wt % for wPt-C/AC-o in Setup 2) is in the form of hydroxyls.
+3-120	We note that carbonyl groups may be hydrogenated to form hydroxyl groups.[58]
+3-121	Characterization postadsorption would obviously not probe the nature of the readily desorbed hydrogen present for spillover samples (e.g., ∼0.25 wt % for Pt-C/AC-o in Setup 1), and this readily desorbed fraction cannot be attributed to chemisorption or physisorption.
+3-122	By the process of deduction and considering theoretically predicted binding energies, we speculate that spillover hydrogen loosely bound to carbon sites (previously referred to as “riding modes”[59]) contributes to this 0.25 wt % desorbable H2 .
+3-123	3.3.2.
+3-124	Effect of Trace Water during Pretreatment.
+3-125	The pro- nounced low-pressure hydrogen uptake is observed for oxidized samples only when trace water is found in pretreatment (i.e., Setup 1 and wPt-C/AC-o in Setup 2).
+3-126	However, the behavior cannot be attributed to the presence of water during adsorption (Figure 6I).
+3-127	The ex situ characterization methods complicate identification of the surface functionalities directly after pretreatment.
+3-128	However, indirect evidence of the effect of surface chemistry can be induced from comparison of the as-synthesized to the dry or wet pretreated samples after hydro- gen adsorption.
+3-129	Three effects will be discussed: (1) the introduc- tion of O groups during pretreatment; (2) the role of water in dehydration of other groups; and (3) the possible reaction between H2 O and carbon.
+3-130	First, the O/C ratio for dPt-C/AC-o is relatively stable between preparation and postsorption char- acterization (Table 2).
+3-131	In contrast, the O/C ratio increases for wPt-C/AC-o, suggesting that the presence of water has added oxygen groups.
+3-132	In both dry and wet pretreatments, the nature of the oxygen groups has changed, as reflected by an increase in Peak II oxygen on the surface (O atoms in esters, carboxy- lic anhydrides and oxygen atoms in hydroxyls or ethers[60,61] ) after sorption (Figure 7).
+3-133	This increase indicates introduction of these groups during pretreatment (particularly for “wet” with its increased O/C), conversion of Peak I oxygen groups (carbonyl/quinones) to Peak II groups, or both.
+3-134	In general, the number of oxygen groups on a carbon surface is expected to decrease with heating in an inert gas,[52,62] and carboxyl groups (-COO) correlated to CO2 evolution are expected to evolve at temperatures as low as 150 °C.[52] However, the evolution/modification of surface-functional groups is more complicated when treated in H2 .
+3-135	For example, Kundu et al.[62] analyzed the evolution of gaseous species when oxidized carbon nano- tubes are treated in H2 and note the possibility for dehydration of COOH and COH between 150 and 400 °C; reactive carbon edge sites remaining after dehydration would be expected to form C- H in the presence of H2.
+3-136	One might also suspect direct reduction of oxygen groups in hydrogen to form water.
+3-137	However, in our case, water evolution is not observed during pretreatment (Supporting Information).
+3-138	Rather, a decreasing water MS signal during the wet pretreatment (relative to the dry pretreatment) suggests that water might participate in a reaction on the carbon surface (Figure SI-4 in the Supporting Information).
+3-139	Additional evidence of the speculated reaction is provided by the IGA weight profile during pretreatment (Figure SI-1 and
+3-140	51.
+3-141	Table SI-2 in the Supporting Information): Although mass loss is highly variable between sample batches, comparing samples pretreated under wet H2 conditions (wPt-C/AC-o) with those in dry H2 (dPt-C/AC-o) indicates that the former always has significantly more weight loss during pretreatment (ranging from 8 to 14 wt % for wet treatment, compared with 3 wt % for dry).
+3-142	It is also possible that water may hydrolyze (possibly catalyzed by the Pt) and form additional carbon-oxygen bonds at other locations on the surface.
+3-143	A similar formation of hydroxyl groups from oxygen species was suggested by Ambs et al. for a platinum- alumina material.[33]
+3-144	Advanced in situ characterization would be needed to differentiate these possibilities to determine conclu- sively the effect of these different functional groups on hydrogen spillover.
+3-145	In summary, relative to dPt-C/AC-o, wPt-C/AC-o had a higher hydrogen uptake during adsorption, higher residual chemisorbed hydrogen after desorption, and a greater intensity of Peak II versus Peak I in postsorption XPS. wPt-C/AC-o had an increased O/C ratio after adsorption and increased evidence of possible water reaction on the carbon surface.
+3-146	Although it is clear that oxygen groups are added and that water participates in this process, the net effect on carbon surface chemistry is less clear.
+3-147	Prior activation by an oxidative treatment (e.g., KOH) may also increase carbon reactivity.
+3-148	Although the exact nature of the active functional groups at the onset of adsorption is unknown without in situ characterization, XPS suggests that the carbonyls/qui- nones convert to hydroxyls during the hydrogen spillover process.
+3-149	The mechanisms by which these active oxygen (and/or carbon ) groups are expected to increase low-pressure hydro- gen spillover are discussed below.
+3-150	3.4.
+3-151	Role of Oxygen Groups in Hydrogen Spillover: Pro- posed Mechanisms.
+3-152	We show that increased oxygen groups, particularly of carbonyl/quinone type, correlate with increased low-pressure hydrogen spillover.
+3-153	Several experimental[35,38] and theoretical[36] studies that have attempted to increase the number of oxygen groups on spillover materials reported that adding surface oxygen can improve hydrogen spillover and stabilize
+3-154	19,35,63,64
+3-155	spilt-over hydrogen.
+3-156	In particular, a recent paper by Yang et al. showed that the oxygen groups, especially semiqui- none group, increased the reversible hydrogen storage capacity significantly.[65]
+3-157	However, the role of oxygen groups in hydrogen spillover needs further study; explanations for this effect can be categorized as follows: (I) bridge-building, (II) surface binding and chemical kinetics, and (III) oxidation and reduction.
+3-158	In terms of (I), surface oxygen groups may provide diffusion paths, in a method analogous to a “bridging”[42] or a “brigade”.[11]
+3-159	Theoreti- cally, adjacent oxygen groups increase binding energies between hydrogen and carbon surfaces[35] as well as bind directly to semiquinone or lactone groups.[65]
+3-160	Hydroxyl groups or ethers may lower the energy path for diffusion.[36]
+3-161	In terms of (II), Lueking et al.[46] showed that increased binding energy leads to increased surface coverage using a Monte Carlo analysis of the kinetics of this spillover reaction sequence assuming a “loosely bound” hydrogen spillover state, as demonstrated experimentally by Mitchell et al. via inelastic neutron scattering.[59]
+3-162	Hydrogen species bound to the surface with sufficient energy could account for the ∼1 wt % residual chemisorbed hydrogen found as surface hydroxyls in postadsorption XPS characterization.
+3-163	In terms of (III), oxidation (either the KOH treatment or the subsequent “wet” pretreatment) is expected to modify the electronic proper- ties of the surface.
+3-164	Oxidation-reduction reactions on carbon
+3-165	surfaces have been reviewed,[66] but the process is complicated by not only the type of carbon and oxygen groups but also their proximity and ability to stabilize any introduced charges.
+3-166	More characterization is needed to verify this idea.
+3-167	3.5.
+3-168	Optimization of Surface Functional Groups for Spil- lover.
+3-169	Here we characterize but do not necessarily control or adapt synthesis to give preferential formation to a particular type of oxygen group.
+3-170	Yang et al. recently suggested that semiquinone groups are the ideal receptor of spilt-over hydrogen because lactone groups will lead to irreversible hydrogen adsorption because of stronger binding energy.[65]
+3-171	Psofogiannakis et al’s[36] simulation showed that desorption of spilt-over hydrogen bound to oxygen functional groups desorbs more favorably as water rather than molecular hydrogen.
+3-172	If true, this would have obvious negative consequences for the reversibility of hydrogen storage in oxygen-modified carbon materials.
+3-173	Whether the hydrogen that remains chemically bound to the surface after pressure reduction to 12 mbar will desorb as H2 or H2O will be the subject of a subsequent paper.
+3-174	We anticipate that this will depend on the nature of the oxygen functional groups, and different oxidation methods may bring about different oxygen groups.
+3-175	Further experimental work includes temperature-programmed desorp- tion experiments on various oxygen functional groups to identify desorbed species and check the formation of water on the surface.
+3-176	For now, the increase in the amount of readily desorbable hydrogen with oxidation (0.25 wt % for Pt-C/AC-o vs 0.06% for Pt-C/AC) seems to support hypothesis II.
+4-001	In the current study, XPS characterization results show that KOH treatment produces oxygen groups on an activated carbon sample with a large fraction being quinone type groups.
+4-002	The oxidation treatment has a negligible effect on physisorption but leads to a significant enhancement of hydrogen adsorption in the presence of a hydrogen-dissociation catalyst, that is, hydrogen spillover.
+4-003	Gravimetric adsorption measurements show that hy- drogen spillover to the oxidized surface is pronounced at low pressures (P T ratio of 444 and a seven-fold increase in overall hydrogen uptake relative to its constituents.
+4-004	The presence of water during pretreatment is necessary to realize this low-pressure enhancement, and signifi- cant hydrogen spillover was not observed when scientific grade hydrogen was used during pretreatment.
+4-005	We speculate that this is due to increased oxygen functional groups formed during pre- treatment in the presence of water, active carbon sites formed via water reaction on the carbon surface, or both.
+4-006	The mechanism for the water-assisted pretreatment needs further clarification, as does its alignment with several proposed mechanisms on the effect of surface chemistry on hydrogen spillover.
+4-007	The pro- nounced low-pressure effect agrees with other publications[50,67] but is expected to be highly dependent on the nature of the sample.
+4-008	The current results indicate that oxidation of the surface of the support will facilitate low-pressure, ambient-temperature hydrogen spillover but may not necessarily lead to hydrogen that readily desorbs at ambient temperature.
+4-009	XPS and FTIR surface characterization after H2 desorption suggests that strongly bound hydrogen forms hydroxyls with introduced functional groups; there is only a vague indication of new carbon-hydrogen bonds.
+4-010	A certain fraction of hydrogen is found to be loosely bound in that it readily desorbs with pressure reduction and cannot be accounted for by physisorption to the carbon materials.
+4-011	However, the state of this loosely bound hydrogen cannot be determined without in situ methods.
+4-012	On-going work is looking at the effect of surface sites on the temperature of desorption and on the nature of the desorbed species.
+4-013	The lack of hydrogen desorption without heating leads to practical engineering hurdles for hydrogen storage and also highlights that both adsorption and desorption isotherms should be considered in the evaluation of modified carbon materials.
+4-014	The results also show that the oxidation of carbon species to facilitate hydrogen spillover is dependent on both the amount and the nature of surface oxygen species.

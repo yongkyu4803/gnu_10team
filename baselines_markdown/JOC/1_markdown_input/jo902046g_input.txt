@@ -1,0 +1,248 @@
+# document_id: jo902046g
+# extractor: kordoc-markdown-adapter-1
+1-001	Aminosugars, in general, are one of the most important classes of modified carbohydrates.[1]
+1-002	A large number of
+1-003	DOI: 10.1021/jo902046g Published on Web 12/17/2009 r 2009 American Chemical Society
+1-004	2-amino-2-deoxysugars are the components of various ami- noglycoside antibiotics.[2]
+1-005	The most common methods for the
+1-006	synthesis of aminosugars involve the reactions of amines with sugar-derived epoxides, tosylates, and ketones.[1]
+1-007	Our interest in the area of aminosugars[3] including aminonucleo- sides[4] led to the designing of an alternative route based on the diastereoselective addition of amines to vinyl sulfone-modified (VSM) carbohydrates 1r and 1β (Figure 1).[3a] The strategy, followed by desulfonylation of the Michael ad- ducts, led to the synthesis of D-lividosamine (2-amino-2,3-dideoxyglucose) and its analogues.[3b]
+1-008	Since protection and demasking of functional groups in a synthetic strategy increase the number of steps, thereby decreasing the overall yield of the final products, it was necessary to acquire information on the efficiency of addi- tion of nucleophiles to VSM carbohydrates in the presence of protecting groups other than the phenylmethylene group routinely used so far.[3]
+1-009	More importantly, it was clear from our earlier studies that the directing effects of anomeric configurations were not sufficient criteria to explain the pattern of addition of nucleophiles to compounds like 1 and 2.[3a,c,g,5,6] We therefore initiated a search for addi- tional factors contributing to the reaction patterns of VSM carbohydrates.
+1-010	It should be noted that the biological im- portance[7a,d] and synthetic utility of vinyl sulfones triggered studies of “other factors” controlling their reactivities.[7b,c]
+1-011	For example, the dependence of the reactivity of a vinyl sulfone as a Michael acceptor on the nature of the group attached to the sulfur atom was determined in order to evaluate the effect of these substituents on the inactivation kinetics of vinyl-sulfone-based cysteine protease inhibi- tors.[7b] On the other hand, it has been reported recently that the rate of Michael-type addition reactions to conjugated ethylenic sulfones and sulfoxides is influenced by the size of the alkyl group attached to the sulfur atom.[7c] We recently reported that the diastereoselectivity of addition to vinyl sulfone-modified 4-sulfonylhex-3-enopyranoside was nu- cleophile-dependent.[3g]
+2-001	Synthesis of Vinyl Sulfones 3r-5r: As a first step, we decided to look into the Michael addition reactions of VSM hex-2-enopyranosyl carbohydrates protected with noncyclic protecting groups such as a benzyl or trityl group or not having any protecting group at all.
+2-002	For the preparation of the dibenzylated VSM carbohydrate 3r, we started the synthesis from the easily accessible fully protected epoxide 6.
+2-003	Thus, compound 68 was reacted with p-thiocresol and TMG in DMF.
+2-004	The sulfide derivative obtained was oxidized using magnesium bis(monoperoxyphthalate) (MMPP) in metha- nol to the corresponding sulfone derivative 8 in 89% yield.
+2-005	Compound 8 was mesylated within 20 h at 0 to þ4 °C using methanesulfonyl chloride (MsCl) in pyridine.
+2-006	The crude mesylated product was subjected to an elimination reaction in refluxing pyridine to afforded 3r in 86% overall yield within 2 h (Scheme 1).
+2-007	For the synthesis of 6-O-trityl-protected VSM carbohydrate 4r, and the fully unprotected VSM carbohydrate 5r, the phenylmethylene-protected com- pound 2r was deprotected under acidic conditions to gen- erate the diol 5r in 96% yield.
+2-008	Tritylation of 5r under standard conditions produced the monoprotected vinyl sul- fone 4r (Scheme 2).[6]
+2-009	The appearance of peaks at δ 6.94(3r),
+2-010	Temperature
+2-011	aIdentified as the trityl derivative 10e-e. bReaction incomplete at room temperature. c>90% yield at 90-100 °C.
+2-012	δ 6.83(4r), and δ 6.88(5r) confirmed the presence of the vinyl group.
+2-013	Reactions of Vinyl Sulfones 2r-5r with Primary and Secondary Amines: The dibenzylated derivative 3r, on treat- ment with isopropylamine (5 equiv in THF), produced a single compound 9e-e in 93% yield within 14 h at ambient temperature (Table 1, No. 1.1).[9]
+2-014	The tritylated derivative 4r
+2-015	on reactions with isopropylamine under similar conditions produced a single compound 10e-e in 91% yield within 12 h (Table 1, No. 1.2).
+2-016	Although reactions of 4r with benzyl- amine (5 equiv) and cyclohexylamine (5 equiv) in THF remained incomplete even after 5 days at room temperature, compounds 11e-e (Table 1, No. 1.3) and 12e-e (Table 1, No. 1.4) were obtained in 60-70% yields; however, these reac- tions could be pushed to completion within 12 h only by heating the reaction mixtures at 90-100 °C to produce 11e-e and 12e-e in 91 and 93% yields, respectively (Table 1).
+2-017	Compound 5r, having no protecting group, on treatment with isopropylamine (5 equiv in THF) for 10 h at room temperature, produced a mixture of at least three com- pounds.
+2-018	It was possible to isolate one of the products 13e-e in 53% yield (Table 1, No. 1.5), which was identified as the trityl derivative 10e-e (Table 1).
+2-019	It was necessary to unam- biguously establish the configurations of C-2 and C-3 centers of compounds 9e-e-13e-e.
+2-020	The identity of 10e-e was unam- biguously established with the help of the X-ray crystal- lography.
+2-021	Since the diol 13e-e was converted to 10e-e, the identity of the former was also unambiguously established.
+2-022	It is reported[4,6] that, for bisprotected gluco analogues and 6-protected gluco analogues, the chemical shift value of the H-1 proton varied within δ 4.73-4.89 with the J1,2 values ranging between 3.2 and 3.8 Hz.[10]
+2-023	The chemical shifts and coupling constant values of the H-1 proton of com- pounds 9e-e (δ 4.76; 3.6 Hz) and 10e-e (δ 4.79; 3.0 Hz) prompted us to conclude that these compounds were having gluco configuration.[9]
+2-024	Although reactions of 3r-5r with isopropylamine re- quired 10-14 h for completion (Table 1), 2r produced 14e- e within 8 h (Table 1, No. 1.6) with the same amine.
+2-025	On the other hand, 2r reacted with benzylamine (5 equiv) and cyclohexylamine (5 equiv) in THF at room temperature to produce single compounds 15e-e (Table 1, No. 1.7) and 16e-e (Table 1, No. 1.8) in 26 and 28 h, respectively.[9]
+2-026	Notably, reactions of trityl-protected 4r with both these amines under similar reaction conditions remained incomplete even after 5 days (Table 1), indicating the influence of changed protecting groups.
+2-027	Compounds 2r on reaction with pyrrolidine (5 equiv) in THF produced a mixture (isomeric at C-2) of gluco (major) and manno (minor) isomers 17e-e and 17a-e, respectively (Table 2, No. 2.1) within 12 h, which was in line with the reported product distribution of the amination of 1r.[3a] Interestingly, the reactions of the benzylated 3r, the trity- lated 4r, and the unprotected 5r with secondary amines produced unexpected and surprising results.
+2-028	Thus, 3r on treatment with pyrrolidine (5 equiv in THF) at ambient temperature led to the isolation of the starting material after 24 h along with some minor impurities (Table 2, No. 2.2).
+2-029	After prolonged standing in that strongly basic as well as nucleophilic pyrrolidine solution, complete breakdown of the starting material was observed.
+2-030	Compounds 4r and 5r were extremely slow to react with pyrrolidine under identical conditions, and even after 5 days at room temperature, the reactions of 4r and 5r did not go to completion (Table 2, Nos. 2.3 and 2.4).
+2-031	The products were highly unstable, and in both cases, we were unable to generate clear spectral data.
+2-032	Sulfones 2r-5r with Pyrrolidine (5 equiv) in THF at Room temperature
+2-033	aMixture of diastereomers as reported (ref 3a) for 1r. bUnidentified products. cNo reaction/starting material decomposes. dStructure pro- posed on the basis of HRMS only.
+2-034	However, only in the case of 4r, the HRMS data [ES, (M þ H)þ) calcd for C 37H42NO6S 628.2733, obsd 628.2702] iden- tified one of the products as the probable amino derivatives 18 in less than 15% yield (Table 2, No. 2.3).
+2-035	Both 4r and 5r did not react with piperidine in THF at room temperature but produced inseparable mixture of compounds (devoid of amine residue) at an elevated temperature when reacted with piperidine.
+2-036	Another secondary amine, morpholine, did not react with 4r and 5r at room temperature but reacted at elevated temperature to produce compounds devoid of the morpho- lino group.
+2-037	The absence of -CH2- peaks around δ 49.8-51.7 (CH2-N-CH2) and δ 66.9-67.4 (CH2-O- CH2)[3b] in the 13C NMR spectrum of the reaction products confirmed the absence of morpholino residue.
+2-038	Although 4r produced an inseparable mixture, it was possible to isolate the major compound from the mixture of products of the reactions of 5r with morpholine (Scheme 3).
+2-039	Interestingly, the primary hydroxyl group of 5r intramo- lecularly attacked the C-2 position to produce a bicyclic compound 19; compound 19 was benzylated, and the struc- ture of the product was unambiguously (X-ray) eastablished as 20.
+2-040	These observations are once again in stark contrast
+2-041	with the reaction patterns of phenylmethylene-protected vinyl sulfone 2r.
+2-042	It was therefore clear from the above experiments that the reaction patterns of 3r-5r were highly selective in reacting with primary and secondary amines and are in stark contrast with the same of phenylmethylene-protected vinyl sulfone 2r.
+2-043	To establish this point further, we reacted 4r (1 equiv) with a mixture of isopropylamine (2.5 equiv) and pyrrolidine (2.5 equiv) at room temperature.
+2-044	After the disappearance of the starting material (ca. 10 h), the reaction mixture was worked up in the usual way and the major product (81%) was identified as the isopropylamino derivative 10e-e (Scheme 4).
+2-045	The phenylmethylene-protected analogue 2r produced a mixture of at least three compounds under the similar reaction conditions.
+2-046	Reaction of Vinyl Sulfones 2β, 4β, and 5β with Primary and Secondary Amines: To extract additional information of the reaction patterns, we also extended the study to the β-series.
+2-047	The trityl-protected 4β and free diol 5β were prepared from 2β.
+2-048	Compound 4β was synthesized following the literature report.[6]
+2-049	However, compound 5β was isolated and identified for the present study (Scheme 5).
+2-050	Compound 4β reacted smoothly with isopropylamine, pyrrolidine, and piperidine to afford 21e-e, 22e-e, and 23e- e, respectively, in excellent yields (Table 3, Nos. 3.1-3.3).
+2-051	Compound 2β on reaction with isopropylamine and pyrro- lidine produced single isomers 24e-e and 25e-e, respectively (Table 3, Nos. 3.4 and 3.5).[3a,9] Compound 5β was reacted with isopropylamine in THF to produce the expected amino derivative 26e-e (Table 3, No. 3.6), which was identified as its tritylated analogue 21e-e (Table 3, No. 3.1) obtained from 4β (mixed 1H NMR).
+2-052	Compound 5β also reacted with pyrroli- dine to afford 27e-e (Table 3, No. 3.7).
+2-053	In this case also, 27e-e was tritylated to 22e-e and the structure of 22e-e (Table 3, No. 3.2), and the structure was established unambiguously with the help of X-ray crystallography.
+2-054	In all of these cases, a
+2-055	Sulfones with Primary and Secondary Amines (5 equiv) in THF at Room Temperature
+2-056	aIdentified as the corresponding 6-O-trityl derivative 21e-e. bIdenti- fied as the corresponding 6-O-trityl derivative 22e-e.
+2-057	single isomer was obtained because of the predominant equatorial approach of the incoming nucleophile to the VSM hex-2-enopyranosides.[3a]
+2-058	Although the incoming nucleophile added to all the β-anomeric vinyl sulfones, 2β, 4β, and 5β, with similar diaster- eoselectivity, the effect of change of protection at the C-6 hydroxyl group was still evident in this case.
+2-059	While pyrroli- dine in THF reacted with 2β in 15 h, the more flexible Michael acceptors 4β and 5β took 36-38 h for the complete conversion to 22e-e and 27e-e (Table 3).
+2-060	The generality of the reaction pattern was established further because piper- idine also required around 38 h for consuming 4β to afford 23e-e (Table 3, No. 3.3).[9]
+2-061	Computational Results.
+2-062	In order to explain the variation in product distributions mentioned above and to examine the
+2-063	difference in selectivity observed during the nucleophilic addition reaction of amines at VSM carbohydrate for 2r and 5r, we undertook a computational study employing quantum chemical ab initio and DFT calculations.[11]
+2-064	It is reported that, in a Michael addition reaction, the addition of amine is possible via a concerted mechanism.[12]
+2-065	We have computed the activation barriers and reaction energies for 2r and 5r with isopropylamine and pyrrolidine for both equatorial and axial approaches (Schemes 6 and 7).
+2-066	The reaction energies calculated for 2r and 5r with isopro- pylamine and pyrrolidine are listed in Table 4.
+2-067	The reaction energies calculated for the equatorial approach of both the amines toward the VSM carbohydrates 2r and 5r seem to be preferred over the axial approach in both gas and solvent phase (THF), which is in agreement with experimental observations.
+2-068	Initially, a single amine molecule was considered to calcu- late the activation barriers for the addition of amines with the
+2-069	RHF/6-31G* basis set.
+2-070	The calculated results suggested that the N 333 C bond formation and proton transfer take place simultaneously (Figure 2).
+2-071	Therefore, the transition states formed with VSM carbohydrates 2r and 5r and
+2-072	isopropylamine are concerted in nature.
+2-073	The four-membered transition states formed are strained, and hence, the computed activation barriers are much higher in energy (Figure 2).
+2-074	The activation barriers were found to be rela- tively lower with the 6/6-31þG*//RHF/6-31G* level of theory.
+2-075	The methods employed here are discussed in the computational methodology section.
+2-076	Importantly, the activation barrier for the equatorial approach of isopropylamine toward VSM carbohydrates 5r and 2r is 4.9 and 5.6 kcal mol-1 lower in energy for 13e-e-TS1 and 14e-e-TS1 compared to that of axial ap- proach 13a-a-TS1 and 14a-a-TS1, respectively (Figure 2).[9]
+2-077	Activation barriers in tetrahydrofuran (THF) were similar to that of the calculated gas phase barriers at the same level of theory (Figure 2).
+2-078	The computed free energies of activation toward the additions of amines with VSM carbohydrates at the RHF/6-31G* level showed a trend similar to that ob- served with electronic energies; however, the barriers are relatively higher in the former case (Table S1, Supporting Information).
+2-079	It is known that the computed activation barriers are overestimated at RHF levels of theory.[13]
+2-080	The product 14a-e (Scheme 6) was not considered for computational evaluation due to following reasons.
+2-081	The product was not observed experimentally, and the formation of this product would be a stepwise process.
+2-082	Moreover, we have shown in the other case that a stepwise process would be unfavored compared to the concerted process.
+2-083	The high activation barriers obtained for VSM carbohydrates 2r and 5r with one molecule of isopropylamine are in agree- ment with reports by Yamabe et al.[12] Since it is reported that two or three amine molecules can reduce the activation barrier via a proton relay mechanism for such nucleophilic addition,[12] we have also examined the relay mechanism in this case with two amines.
+2-084	Incorporation of a third amine to obtain the transition states was not possible due to steric reasons in these cases.
+2-085	The transition state geometries for the nucleophilic addition with two molecules of isopropylamine are shown in Figure 3.
+2-086	In this case, one of the isopropylamine molecules attacks the most electron-deficient olefinic carbon of VSM carbohydrates, whereas the second amine molecule transfers the N-H proton to the other carbon atom.
+2-087	The first amine transfers its N-H hydrogen to the second nitrogen atom via hydrogen bonding (Figure 3).
+2-088	The computed activation barriers were found to be 10-19 kcal mol-1 lower for transition states with two isopropyla- mines compared to their corresponding single amine transi- tion states at both ab initio and DFT levels of theory (Figures 2 and 3).
+2-089	Activation barriers were computed with the separated reactants; however, in the relay process, amines were considered as a complexed state, where they are hydrogen bonded (Figure S1, Supporting Information).
+2-090	Comparing the calculated activation barriers for transition states 14e-e-TS2 and 14a-a-TS2, it appears that the former is kinetically preferred over the latter (Figure 3).
+2-091	This result supports the experimental observation for the formation of 14e-e from 2r with isopropylamine.
+2-092	Further, the reaction energies calculated for 14e-e and 14a-a also indicate prefer- ential formation of the former product (Table 4).
+2-093	Hence, the equatorial attack of isopropylamine toward 2r is kinetically
+2-094	isopropylamine.
+2-095	B3LYP/6-31þG*//RHF/6-31G* calculated activation barriers in the gas phase and in THF are given in parentheses and
+2-096	square brackets, respectively (gray = carbon; blue = nitrogen; red = oxygen; yellow = sulfur; white = hydrogen).
+2-097	and thermodynamically preferred.
+2-098	In the case of unprotected VSM carbohydrate 5r, the activation barriers for transi- tion states 13e-e-TS2 and 13a-a-TS2 suggested that the latter transition state was preferred (Figure 3).
+2-099	The activa- tion energy is 1.8 kcal mol-1 lower for 13a-a-TS2 than for 13e-e-TS2 at the B3LYP/6-31þG*//RHF/6-31G* level (Figure 3).
+2-100	However, the reaction energies calculated for 13e-e are ∼8 kcal mol-1 lower than that of 13a-a, which supports the formation of 13e-e as an experimentally ob- served product (Table 4).
+2-101	It should be noted that the reaction of 5r with isopropy- lamine produced a mixture of at least three compounds.
+2-102	Therefore, it appears that the kinetic and thermodynamic pathways compete with each other for 5r with isopropyla- mine.
+2-103	Initially, the lower activation barrier can lead to the formation of product 13a-a; however, it will equilibrate to the more stable thermodynamic product 13e-e with time.[9,14]
+2-104	The above-mentioned interpretation can be corroborated with the observed reaction time.
+2-105	The reaction of 2r with isopropylamine completes within 8 h with a single
+2-106	product, whereas 5r takes a much longer time (10 h) to complete the reaction process (Table 1).
+2-107	Further, the calcu- lated activation energies also qualitatively support this ob- servation as the barriers are relatively lower for 2r with isopropylamine than that of 5r (Figure 3).
+2-108	Activation barrier values in solvent (THF) are similar to the gas phase calcu- lated results at the same level of theory (Figure 3).
+2-109	The free energies of activation computed at RHF/6-31G* showed the similar trend though with larger values (Table S2, Support- ing Information).
+2-110	The secondary amine, pyrrolidine, reacts with 2r to yield a diastereomeric mixture of 17e-e and 17a-e as major and minor isomers, respectively (Scheme 6).
+2-111	The diastereomeric product 17a-e does not seem to form via concerted amine relay mechanism as observed in other cases.
+2-112	The expected formation of 17a-a via axial approach of pyrrolidine in a concerted fashion is absent in this case.
+2-113	Since the reaction of 5r with pyrrolidine does not go to completion even after 5 days (Table 2), the difference in the reactivity of 2r and 5r with pyrrolidine was examined computationally.
+2-114	The con- certed transition state geometries were obtained for 2r and 5r with two pyrrolidines for the equatorial approach (Figure 4); however, such transition states for the axial
+2-115	approach of the amines were not found.
+2-116	The N-H proton products with this amine (Table 2).
+2-117	The computed activation transfer to olefinic carbon via proton relay mechanism in the barriers suggest that the transition state (17e-e-TS2) ob- axial approach is not concerted with the formation of the tained for 2r with two pyrrolidine is much lower in energy N-C bond.
+2-118	Experimental results suggested that the equa- (∼4-6 kcal mol-1) than the corresponding 5r transition torial approach of pyrrolidine leads to the formation of 17e-e state (28e-e-TS2) (Figure 4).
+2-119	Therefore, these results indicate as a major product for 2r, but 5r did not afford desired that the formation of aminosugars with secondary amine for
+2-120	sponding Parent Systems
+2-121	unprotected VSM carbohydrate 5r is more difficult than the protected VSM carbohydrate 2r.
+2-122	The experimental findings corroborate the calculated results.
+2-123	The observed differences in the activation barriers for 5r and 2r with isopropylamine (Figure 3) and pyrrolidine (Figure 4) can be rationalized with the strain induced in VSM carbohydrates upon reaction with such amines.
+2-124	We have calculated the strain energies in VSM carbohydrate systems by removing the amines from the transition state geometries and computing the energies for those carbohy- drates without perturbing their structures at the B3LYP/6-31þG* level.
+2-125	The energy difference between the parent VSM carbohydrates and their corresponding geometries derived from the transition state structures without amines yields the strain developed with different amines (Table 5).
+2-126	These results clearly show that the strain energies are higher for VSM carbohydrate with pyrrolidine than that of isopropy- lamine in both cases of 5r and 2r, which presumably leads toward the relatively higher activation barrier with the former amine.
+2-127	Further, strain energy data also rationalize the higher activation barriers for 5r compared to 2r with respective amines (Table 5).
+2-128	It should be noted that pyrrolidine on reaction with 2r afforded 17a-e as a minor product, but the addition of pyrrolidine and proton transfer is not concerted in nature.
+2-129	The amine residue and proton come from the opposite side of the olefinic carbons (Scheme 6).
+2-130	Therefore, the formation of 17a-e seems to be a stepwise process, as shown in Figure 5.
+2-131	The transition state 17a-e-Ts1 forms via the abstraction of pyrrolidine proton by the second pyrrolidine ring and goes to 17a-e-complex for the antiface proton transfer to the olefinic double bond.
+2-132	The protonated pyrrolidine in 17a-e-complex interacts with sulfone oxygen near the newly formed carba- nion, which eventually leads toward the formation of second transition state 17a-e-TS2 with the transfer of proton from the amine to VSM carbohydrate.
+2-133	17a-e-TS2 is slightly lower in energy compared to the complex, which suggests that the proton transfer process from the protonated pyrrolidine could take place instantaneously without involving these steps.
+2-134	It is known that the proton transfer processes from cationic systems could be spontaneous or barrierless.[15]
+2-135	The influence of solvent seems to be larger in the stepwise process as the gas phase activation barrier for the formation of the 17a-e-Ts1 transition state is stabilized by ∼6.0 kcal mol-1 in THF.
+2-136	The calculated energy indicates that the reaction is exothermic by 8.8 kcal mol-1 in THF.
+2-137	Higher activation barrier (29.5 kcal mol-1) for 17a-e-Ts1 (Figure 5) compared to 17e-e-TS2 (22.7 kcal mol-1; Figure 4) suggests that the latter should be the major product.
+2-138	The observed experi- mental product ratios are qualitatively in agreement with the calculated results.
+3-001	We have established that the protecting groups of VSM hex-2-enopyranosides present at C-6 and C-4 play an im- portant role in determining the rate and the selectivity of addition of amines to these compounds.
+3-002	The absence of protecting group at 6-OH of 5r adversely affects its reactiv- ity even with primary amines.
+3-003	Tritylated VSM carbohydrate 4r is much less reactive toward primary amines and virtually resistant toward Michael addition by secondary amines.
+3-004	We presume that the rigid and more organized structural fea- tures of 2r expose the electrophilic C-2 site toward attacking nucleophiles.
+3-005	The conformational flexibilities of 4r/5r makes the C-2 position of these compounds more hindered toward incoming nucleophilic nitrogen.
+3-006	It is also clear from our present study that primary amines under no circum- stances could be delivered from a direction opposite to the disposition of the anomeric methoxy group of 4r as was the case for the addition of deuterides and carbon nucleophiles to analogous flexible nitroolefin derivatives.[16]
+3-007	Extensive computational study explains the experimental observations appropriately and, for the first time, speculates into the mechanistic aspects for the Michael addition reac- tions of free amines to the VSM carbohydrates.
+3-008	In the present investigation, quantum chemical calculations were used to study the addition of the primary and secondary amines to VSM carbohydrates 2r and 5r.
+3-009	The difference in the activation barriers for VSM carbohydrates 2r and 5r with pyrrolidine arises due to the strain induced on the substrates while interacting with the amine.
+3-010	The calculated activation barrier for the formation of 17a-e-TS1 from 2r and pyrrolidine via stepwise mechanism was found to be
+3-011	higher than that of concerted proton relay mechanism 17e-e-TS2, which is in good agreement with the product ratios obtained in this reaction.
+3-012	The selectivity of addition of nucleophiles to vinyl nitro-modified hex-2-enopyranosides was explained earlier in terms of electrostatic interaction,[17a] stereoelectronic control[17a] steric hindrance,[17a] A(1,3)strain,[17b] and also hydrogen bonding.[17b] The present study emphasizes that, henceforth, any discussion on the selectivity of addition of nucleophiles to electron-deficient hex-2-enopyranosyl sys- tems would require the study of the influence of protecting groups, as well.
+4-001	General Method: See Supporting Information
+4-002	Methyl 3-C-p-tolylsulfonyl-4,6-di-O-(phenylmethylene)-r-D- altro-pyranoside 8: To a solution of 6 (3.2 g, 8.99 mmol) in DMF (15 mL) were added p-thiocresol (7.51 g, 60.6 mmol) and TMG (4.56 g, 36.36 mmol).
+4-003	The reaction mixture was heated for 4 h at 80-90 °C, cooled to rt, and poured into saturated aq NaCl solution (80 mL).
+4-004	The mixture was extracted with EtOAc (3 30 mL).
+4-005	The EtOAc layer was washed with saturated aq NaHCO3 (2 25 mL).
+4-006	EtOAc layers were pooled together, dried over anhyd Na2SO4 , and filtered, and the filtrate was evaporated under reduced pressure.
+4-007	The resulting syrup was purified over silica gel to yield 7 (3.84 g, 89%).
+4-008	To a solution of 7 (4.81 g, 10.0 mmol) in methanol (30 mL) was added MMPP (16.88 g, 34.17 mmol).
+4-009	The reaction mixture was stirred for 6 h at room temperature and filtered, and the filtrate was neutralized with saturated aq NaHCO3 (70 mL).
+4-010	The mixture was extracted with EtOAc (3 30 mL).
+4-011	The organic layer was separated, dried over anhyd Na2SO4 , and filtered, and the filtrate was concentrated to dryness under reduced pressure to yield 8 (5.1 g, 88%): colorless jelly; [R][28]D þ18.9(c 0.75, CHCl3); 1H NMR (CDCl 3) δ 2.32 (s, 3H), 3.42 (s, 3H), 3.54-3.63 (m, 2H), 3.73-3.77 (m, 1H), 4.14-4.16 (m, 1H), 4.18-4.22 (m, 1H), 4.37-4.39 (m, 1H), 4.47-4.55 (m, 4H), 4.62 (d, 1H, J = 5.2 Hz), 7.08 (d, 2H, J = 8.0 Hz), 7.24-7.39 (m, 10H), 7.75 (d, 2H, J = 8.0 Hz); 13C NMR δ 21.5, 56.3, 67.4, 67.5, 70.1 (CH2), 72.1 (CH2), 72.6, 73.5 (CH2), 74.0,102.8,127.5,127.7,127.8,127.9,128.1,128.5,129.0,129.2, 137.4, 144.1.
+4-012	Anal. Calcd for C28H32O7SCH3OH: C, 63.95; H, 6.66.
+4-013	Found: C, 63.86; H, 7.03.
+4-014	Methyl 2,3-dideoxy-3-C-p-tolylsulfonyl-4,6-di-O-(phenylme- thylene)-r-D-erythro-hex-2-enopyranoside 3r: To a solution of 8 (5.12 g, 10.0 mmol) in dry pyridine (25 mL) was added a solution of methanesulfonyl chloride (2.8 mL, 36.45 mmol) in dry pyridine (15 mL) at 0 °C. The mixture was left overnight at 4 °C, poured into saturated aq NaHCO3 (70 mL), and the aqueous phase was extracted with EtOAc (3 30 mL).
+4-015	Organic layers were collected together, dried over anhyd Na2 SO4, and filtered, and the filtrate was evaporated.
+4-016	To the crude residue thus obtained was added dry pyridine (20 mL), and the resulting solution was heated under reflux for 2 h and cooled.
+4-017	Pyridine was evaporated under reduced pressure to get an oily residue.
+4-018	The resulting residue was purified over silica gel (eluent 33% EtOAc/petroleum ether) to yield 3r (4.95 g, 86%): colorless jelly; [R][28]D -11.4(c 0.65, CHCl3); 1H NMR (CDCl 3) δ 2.31 (s, 3H), 3.47 (s, 3H), 3.64-3.71 (m, 2H), 3.94-3.96 (m, 1H), 4.40 (d, 1H, J = 11.2 Hz), 4.48 (d, 1H, J = 12.0 Hz), 4.64 (d, 1H, J = 12.0 Hz), 4.75 (d, 1H, J = 8.8 Hz), 4.84 (d, 1H, J = 11.2 Hz), 5.15 (d, 1H, J = 2.8 Hz), 6.93-6.95 (m, 3H), 7.04 (d, 2H, J = 8.0 Hz), 7.19-7.34 (m, 8H), 7.64 (d, 2H, J = 8.0 Hz); 13C NMR δ 21.5, 56.3, 68.1 (CH2), 70.2, 70.3, 73.5 (CH2), 73.9 (CH2),95.0, 127.3,127.4,127.5,127.8,127.9,128.0,128.4,129.3,136.1,
+4-019	137.5, 137.8, 143.8, 144.8.
+4-020	Anal. Calcd for C 28H30O6-S 3 0.5CH3OH: C, 67.04; H, 6.32.
+4-021	Found: C, 67.2; H, 6.75.
+4-022	Methyl 2,3-dideoxy-3-C-p-tolylsulfonyl-r-D-erythro-hex-2-enopyranoside 5r: Compound 2r (0.5 g, 1.24 mmol) was dis- solved in dry methanol (20 mL) and cooled to 0 °C under nitrogen.
+4-023	To this solution was added acetyl chloride (0.2 mL, 2.82 mmol) dropwise over a period of 0.5 h with continuous stirring.
+4-024	After completion of addition, the reaction mixture was warmed to room temperature and the stirring was continued for another 2 h.
+4-025	The solution was then evaporated to dryness under reduced pressure, and the residual liquid was coevaporated twice with pyridine to get a syrupy compound.
+4-026	The compound thus obtained was dissolved in EtOAc, and the organic layer was washed thoroughly with aq saturated NaHCO3 solution.
+4-027	The organic layer was then separated, dried over anhyd Na2SO4, filtered, and evaporated to dryness.
+4-028	The residue was puri- fied over silica gel to yield 5r (0.38 g, 96%): colorless jelly; [R][28]D -29.9(c 0.11, CHCl3); 1H NMR (CDCl3) δ 2.30 (s, 3H), 3.40 (s, 3H), 3.65-3.83 (m, 3H), 4.52-4.56 (m, 1H), 5.05 (d, J = 3.03 Hz, 1H), 6.81-6.84 (m, 1H), 7.28 (d, J = 8.0 Hz, 2H), 7.76 (d, J = 8.0 Hz, 2H); 13C NMR δ 21.6, 56.4, 61.5, 62.3 (CH2), 71.5, 94. 9, 128.3, 129.9, 134.8, 136.7. 144.9.
+4-029	Anal. Calcd for C14H18O6S: C, 53.49; H, 5.77.
+4-030	Found: C, 53.66; H, 5.53.
+4-031	Methyl 2,3-dideoxy-3-C-p-tolylsulfonyl-β-D-erythro-hex-2-enopyranoside 5β: Compound 5β (0.69 g, 71%, colorless jelly) was prepared from 2β (1.20 g, 2.98 mmol) following the same procedure as described above for the preparation of 5r: [R][28]D -10.2(c 0.324, CHCl3); 1H NMR (CDCl 3) δ 2.16-2.17 (m, 1H), 2.18 (s, 3H), 3.34 (m, 1H), 3.48 (s, 3H), 3.59-3.64 (m, 1H), 3.71-3.74 (m, 1H), 3.89-3.92 (m, 1H), 4.26 (br s, 1H), 5.21 (s, 1H), 6.69 (d, 1H, J = 2.0 Hz), 7.36 (d, 2H, J = 8.0 Hz), 7.78 (d, 2H, J = 8.0 Hz);13C NMR δ 21.7, 56.5, 61.3, 62.71 (CH2),77.8, 95.8, 128.4, 130.1, 135.2, 135.4, 143.3, 145.4; HRMS [ES, (M þ Na)þ] calcd for C14H18O6NaS 337.0722, obsd 337.0724.
+4-032	General Procedure for the Addition of Primary and Secondary Amines to 2r, 2β, 3r, 4r, 4β, 5r, and 5β: To a solution of the appropriate vinyl sulfone-modified carbohydrate in dry THF (1 mL/mmol) was added an amine (5 equiv) and was either stirred at room temperature or heated at 90-100 °C. After completion of the reaction (TLC), THF was evaporated under reduced pressure.
+4-033	The residue obtained was triturated with EtOAc, and the organic layer was washed with saturated aq solution of NaHCO3.
+4-034	The organic layer was separated, dried over anhyd Na2SO4, and filtered, and the filtrate was evapo- rated under reduced pressure.
+4-035	The residue was purified over silica gel to afford the product.
+4-036	Methyl 2,3-dideoxy-2-C-isopropylamino3-C-p-tolylsulfonyl-4,6-di-O-(phenylmethylene)-r-D-glucopyranoside 9e-e: Follow- ing the general procedure, isopropylamine was reacted with 3r (0.5 g, 1.01 mmol) at rt for 14 h to yield 9e-e (0.53 g, 93%): hygroscopic solid; [R][28]D þ26.8(c 0.75, CHCl3); 1 H NMR (CDCl3 ) δ 0.9 (d, 3H, J = 6.3 Hz), 0.99 (d, 3H, J = 6.3 Hz), 2.36 (s, 3H), 2.84-2.91 (m, 1H), 3.33 (s, 3H), 3.35-3.38 (m, 5H), 4.20-4.31 (m, 2H), 4.52 (d, 1H, J = 12.0 Hz), 4.71-4.76 (m, 2H), 4.99 (d, 1H, J = 10.4 Hz), 7.11-7.36 (m, 12H), 7.83 (d, 2H, J = 8.0 Hz); 13C NMR δ 21.5,21.9,24.4,46.0,54.4,55.0,68.5 (CH2), 69.1, 69.8, 71.2, 73.2 (CH2), 73.6 (CH2),97.4,127.4, 127.8,127.9,128.1,128.4,128.9,137.5,138.2,140.5,143.3.
+4-037	Anal. Calcd for C31H39O6S 3 1CH3OH: C, 65.62; H, 7.40; N, 2.39.
+4-038	Found: C, 65.69; H, 7.57; N, 2.79.
+4-039	Methyl 2,3-dideoxy-2-C-isopropylamino-3-C-p-tolylsulfonyl-6-O-trityl-r-D-glucopyranoside 10e-e: Following the general procedure, isopropylamine was reacted with 4r (0.15 g, 0.27 mmol) at rt for 12 h to yield 10e-e (0.158 g, 91%): white crystal; mp 126-127 °C; [R][28]D þ42.9(c 0.366, CHCl3 ); 1H NMR (CDCl3 ) δ 0.85-0.97 (m, 6H), 2.42 (s, 3H), 2.87 (m, 1H), 3.23-3.43 (m, 4H), 3.42 (s, 3H), 3.73-3.80 (m, 1H), 4.08-4.17 (m, 1H), 4.43 (br s, 1H), 4.79 (d, 1H, J = 3.0 Hz),
+4-040	7.19-7.50 (m, 17H), 7.81 (d, 2H, J = 8.2 Hz); 13C NMR δ 21.6, 1.70-1.82 (m, 3H), 1.96-1.99 (m, 1H), 2.13 (s, 3H), 2.24-2.29 24.4, 30.9, 45.4, 53.9, 54.9, 63.3 (CH2),64.7,69.5,70.2,76.4, (m, 1H), 2.54-2.60 (m, 1H), 3.40 (s, 3H), 3.57-3.61 (dd, 1H, J = 86.5, 96.6, 126.9, 127.7, 128.7, 128.7, 128.9, 139.0, 144.0.
+4-041	Anal. 3.6, 11.6 Hz), 3.64-3.72 (m, 2H), 3.74-3.87 (m, 2H), 4.14-4.17 Calcd for C36H41NO6S 3 0.5CHCl3: C, 64.90; H, 6.19; N, 2.07.
+4-042	(dd, 1H, J = 4.4, 10.4 Hz), 4.70 (d, 1H, J = 3.2 Hz), 5.20 (s, 1H), Found: C, 64.90; H, 5.99; N, 1.95. 6.95-7.00 (m, 4H), 7.18-7.29 (m, 3H), 7.61 (d, 2H, J = 8.4 Hz); Methyl 2,3-dideoxy-2-C-benzylamino-3-C-p-tolylsulfonyl-6- 13C NMR δ 21.4, 24.8 (CH2), 24.9 (CH2), 25.9 (CH2), 32.7 (CH2), O-trityl-r-D-glucopyranoside 11e-e: Following the general pro- 34.9 (CH2), 54.6, 54.8, 55.3, 62.2, 64.9, 69.3 (CH2),76.3,98.9, cedure, benzylamine was reacted with 4r (0.15 g, 0.27 mmol) at 101.6, 126.1, 127.7, 128.0, 129.0, 136.4, 139.0, 144.0; HRMS (ES, 90-100 °C for 12 h to yield 11e-e (0.163 g, 91%): hygroscopic (M þ H)þ) calcd for C27H36NO6S 502.2263, obsd 502.2261.
+4-043	solid; [R][28]D þ41.2(c 0.315, CHCl3); 1H NMR (CDCl3) δ 2.41 (s, Methyl 2,3-dideoxy-2-C-pyrrolidino-4,6-O-(phenylmethylene)-3H), 3.05-3.33 (m, 2H), 3.41 (s, 3H), 3.45-3.63 (m, 2H), 3-C-p-tolylsulfonyl-r-D-glucopyranoside 17e-e and Methyl 2,3-di-
+4-044	63.7 (CH2),65.2,70.2,70.6,87.0,96.9,127.4,127.5,128.2,128.8, yield a diastereomeric mixture from which 17e-e (0.41 g, 55%) was 128.9, 129.2, 129.7, 138.7, 140.6, 144.5, 144.7; HRMS (ES, (M þ isolated by column chromatography over silica gel: white crystal; H)þ) calcd for C 40H42NO6S 664.2733, obsd 664.2715. mp 89-92 °C; [R][28] D þ 45.6(c 0.71, CDCl3); 1H NMR (CDCl3) δ Methyl 2,3-dideoxy-2-C-cyclohexylamino-3-C-p-tolylsulfonyl- 1.25-1.58 (m, 4H), 2.16 (s, 3H), 2.69-2.74 (m, 2H), 2.91-2.94 6-O-trityl-r-D-glucopyranoside 12e-e: Following the general pro- (m, 2H), 3.43 (s, 3H), 3.66-3.74 (m, 2H), 3.80-3.93 (m, 2H), cedure, cyclohexylamine was reacted with 4r (0.15 g, 0.27 mmol) 3.97-4.03 (m, 1H), 4.18-4.22 (m, 1H), 4.83 (d, 1H, J = 3.2 Hz),
+4-045	1H), 4.09-4.15 (m, 1H), 4.43 (br s, 1H), 4.77 (d, 1H, J = 3.1 Hz), 98.9,101.4,126.0,127.8,128.0,128.8,128.9,136.6,139.2,143.7. 7.1713 -7.34 (m, 12H), 7.40-7.59 (m, 5H), 7.79 (d, 2H, J = 8.2 Hz); Anal. Calcd for C25H31NO6S 3 1H2O: C, 61.08; H, 6.77; N, 2.85.
+4-046	C NMR δ 22.0, 25.3 (CH2), 25.4 (CH2), 26.5 (CH2),54.0,54.5, Found: C, 60.80; H, 6.51; N, 2.87.
+4-047	The slower moving compound 55.3, 63.7 (CH2),65.2,70.1,70.6,86.9,97.5,127.3,128.2,129.0, in TLC, 17a-e, was isolated by column chromatography over silica 129.2, 129.4, 139.6, 144.5; HRMS (ES, (M þ H)þ) calcd for gel (0.27 g, 37%): yellow jelly; [R][28]D þ36.6(c 0.71, CDCl3); 1 H C39H46NO6S 656.3046, obsd 656.3071.
+4-048	NMR (CDCl3) δ 1.80-1.82 (m, 4H), 2.30 (s, 3H), 2.68-2.73 (m, Synthesis of 10e-e from 13e-e: Following the general proce- 4H), 3.45 (s, 3H), 3.66-3.69 (m, 1H), 3.79-3.83 (m, 2H), dure, isopropylamine was reacted with 5r (0.15 g, 0.27 mmol) at 4.23-4.34 (m, 2H), 4.69-4.80 (m, 1H), 4.83 (s, 1H), 5.40 (s, rt for 10 h to yield a mixture from which 13e-e was separated 1H), 6.94 (d, 2H, J = 8.0 Hz), 7.33-7.39 (m, 5H), 7.67 (d, 2H, J = (0.09 g, 53%).
+4-049	Compound 13e-e was tritylated using tritylchlor- 8.0 Hz);13C NMR δ 21.4, 23.4 (CH2), 51.6 (CH2),54.4,57.9,61.2, ide in pyridine under standard conditions afforded the trityl 61.6, 69.4 (CH2),75.3,98.4,102.2,126.4,127.9,128.8,128.9, analogue 10e-e in 45% overall yield. 129.0, 136.8, 139.5, 143.5; HRMS (ES, (M þ H)þ) calcd for Methyl 2,3-dideoxy-2-C-isopropylamino-4,6-O-(phenylmethy- C25H32NO6S 474.1950, obsd 474.1940.
+4-050	lene)-3-C-p-tolylsulfonyl-r-D-glucopyranoside 14e-e: Following (1R,3S,4R,7R,8S)-7-Benzyloxy-3-methoxy-8-[(4-methylphenyl)-the general procedure, isopropylamine was reacted with 2r (0.74 sulfonyl)]-2,5 dioxabicyclo[2.2.2]octane 20: A solution of compound g, 1.84 mmol) at rt for 8 h to yield 14e-e (0.73 g, 90%): white 5r (1.57 g, 5.0 mmol) in neat morpholine (5 mL) was heated at crystal; mp 99-101 °C; [R][28]D þ34.6(c 0.625, CDCl3); 1 H NMR 70-80 °C for 24 h under N2.
+4-051	Morpholine was evaporated under (CDCl3 ) δ 1.06-1.16 (m, 6H), 2.17 (s, 3H), 2.95-3.01 (m, 1H), reduced pressure, and the resulting residue was dissolved in EtOAc 3.43 (s, 3H), 3.48-3.58 (m, 1H), 3.69-3.89 (m, 4H), 4.15-4.21 (30 mL).
+4-052	The organic layer was washed with water (2 25 mL), (m, 1H), 4.73 (d, 1H, J = 3.3 Hz), 5.24 (s, 1H), 6.97-7.01 (m, separated, and dried over anhyd Na2SO4.
+4-053	Organic layer was 4H), 7.19-7.30 (m, 3H), 7.63 (d, 2H, J = 8.2 Hz); 13C NMR δ filtered, and the filtrate was evaporated under reduced pressure. 21.1, 22.0, 23.9, 46.7, 54.7, 55.0, 61.8, 64.4, 68.9 (CH2),76.0, The residue obtained was purified over silica gel to afford 19: 98.4,101.3,125.7,127.4,127.67,128.6,128.7,136.0,138.6, colorless jelly (0.91 g, 58%).
+4-054	To a suspension of 90% t-BuOK 143.7.
+4-055	Anal. Calcd for C24H31NO 6S: C, 62.45; H, 6.77, N, (0.673 g, 6.0 mmol) in dry THF (10 mL/mmol) at 0 °C was added a 3.03.
+4-056	Found: C, 62.63; H, 6.60; N, 2.96. solution of 19 (0.785 g, 2.5 mmol) in dry THF (15 mL), and the Methyl 2,3-dideoxy-2-C-benzylamino-4,6-O-(phenylmethy- resulting solution was stirred for 15 min under N2.
+4-057	The reaction lene)-3-C-p-tolylsulfonyl-r-D-glucopyranoside 15e-e: Following mixture was alloewd to come to room temperature, and to this the general procedure, benzylamine was reacted with 2β (0.21 g, reaction mixture was added benzylbromide (0.72 mL, 6.1 mmol) 0.52 mmol) at room temperature for 12 h to yield 15e-e (0.21 g, under stirring; the reaction was continued for 2 h.
+4-058	The organic 28 solvent was evaporated, and the residue was dissolved in EtOAc 80%): yellowish solid; mp 126-128 °C; [R] D þ42.2(c 0.856,
+4-059	1 (25 mL), washed with saturated aq NH Cl (70 mL), and separated.
+4-060	CHCl3 ); H NMR (CDCl3) δ 2.19 (s, 3H), 3.35 (s, 3H), 4
+4-061	3.50-3.54 (dd, 1H, J = 3.2, 10.0 Hz), 3.64-3.69 (m, 1H), Organic layer was dried over anhyd Na2SO4 and filtered, and the 3.74-3.86 (m, 3H), 3.92 (s, 2H), 4.14-4.17 (dd, 1H, J = 3.6, filtrate was evaporated.
+4-062	The resulting residue was purified over
+4-063	(CH2),76.2,98.1,101.6,126.1,127.1,127.8,128.1,128.3,128.5, 4.05-4.13 (m, 3H), 4.60 (dd, 2H, J = 12.2, 14.6 Hz), 7.22-7.38 (m, 128.9, 129.1, 136.4, 138.6, 140.0, 144.2; HRMS (ES, (M þ H)þ) 7H), 7.77 (d, 2H, J = 8.2 Hz); 13C NMR δ 21.6, 55.2, 65.1 (CH and calcd for C28H32NO6 S 510.1950, obsd 510.1946.
+4-064	CH2), 65.4, 67.5, 70.6, 72.2 (CH2),98.9,127.7,127.8,128.3,129.0, Methyl 2,3-dideoxy-2-C-cyclohexylamino-4,6-O-(phenylmethy- 134.7, 137.4. 145.0; HRMS (ESþ), m/z calcd for (M þ Na)þ lene)-3-C-p-tolylsulfonyl-r-D-glucopyranoside 16e-e: Following C21H24O6SNa 427.1191, found 427.1187.
+4-065	the general procedure, cyclohexylamine was reacted with 2β Methyl 2,3-dideoxy-2-C-isopropylamino-3-C-p-tolylsulfonyl-(0.25 g, 0.62 mmol) at room temperature for 12 h to yield 16e-e 6-O-trityl-β-D-glucopyranoside 21e-e: Following the general (0.24 g, 78%): dark brownish jelly; [R][28]D þ39.7(c 0.625, CHCl3); procedure, isopropylamine was reacted with 4β (0.21 g, 1H NMR (CDCl3) δ 0.86-1.32 (m, 2H), 1.55-1.59 (m, 1H), 0.37 mmol) at room temperature for 12 h to yield 21e-e
+4-066	(0.22 g, 93%): colorless jelly; [R][28]D -18.7(c 0.856, CHCl3); 1 H NMR (CDCl3) δ 0.93-1.26 (m, 6H), 2.47 (s, 3H), 2.92-3.02 (m, 1H), 3.11-3.40 (m, 4H), 3.48 (s, 3H), 4.02-4.11 (m, 2H), 4.19 (d, 1H, J = 6.9 Hz), 7.18-7.48 (m, 17H), 7.81 (d, 2H, J = 8.2 Hz); 13C NMR δ 21.6, 22.0, 24.5, 46.1, 54.6, 56.1, 63.1 (CH2),64.9, 72.3,75.9,86.4,106.4,126.9,127.7,128.7,129.1,129.6,135.3, 143.9, 145.1.
+4-067	Anal. Calcd for C36H41NO6S: C, 70.22; H, 6.71; N, 2.27.
+4-068	Found: C, 70.17; H, 6.47; N, 2.33.
+4-069	Methyl 2,3-dideoxy-2-C-pyrrolidino-3-C-p-tolylsulfonyl-6-O- trityl-β-D-glucopyranoside 22e-e: Following the general proce- dure, pyrrolidine was reacted with 4β (0.30 g, 0.54 mmol) at rt for 36 h to yield 22e-e (0.32 g, 93%): brown solid; mp 119-121 °C; [R][28]D -10.4(c 0.35, CHCl3 ); 1H NMR (CDCl 3) δ 1.08-1.39 (m, 4H), 2.35 (s, 3H), 2.42-2.53 (m, 4H), 3.15-3.46 (m, 4H), 3.49 (s, 3H), 4.16-4.25 (m, 1H), 4.34 (d, 1H, J = 1.7Hz), 4.47 (d, 1H, J = 8.0 Hz), 7.18-7.40 (m, 11H), 7.46-7.52 (m, 6H), 7.72 (d, 2H, J = 8.2 Hz); 13C NMR δ 21.5, 23.2 (CH2), 47.1 (CH2), 55.7, 58.4, 63.2 (CH2),65.1,69.4,76.8,86.4,102.3, 126.9, 127.4, 127.7, 128.7, 129.0, 138.6, 144.0.
+4-070	Anal. Calcd for C37H41NO6S 3 0.5CH2Cl2: C, 67.2; H, 6.32; N, 2.09.
+4-071	Found: C, 67.54; H, 6.29; N, 1.92.
+4-072	Methyl 2,3-dideoxy-2-C-piperidino-3-C-p-tolylsulfonyl-6-O- trityl-β-D-glucopyranoside 23e-e.
+4-073	Following the general proce- dure, pyrrolidine was reacted with 4β (0.30 g, 0.54 mmol) at rt for 38 h to yield 23e-e (0.30 g, 87%): brownish solid; mp 103-104 °C (decomposed); [R][28]D -16.3(c 0.35, CHCl3); 1 H NMR (CDCl3) δ 0.73 (br m, 2H), 1.17-1.25 (m, 4H), 2.28-2.36 (m, 2H), 2.43 (s, 3H), 2.61-2.79 (m, 3H), 3.29-3.48 (m, 4H), 3.55 (s, 3H), 4.14-4.16 (m, 1H), 4.33 (d, 1H, J = 1.8 Hz), 4.40-4.45 (m, 1H), 7.10-7.30 (m, 11H), 7.47-7.51 (m, 6H), 7.77 (d, 2H, J = 8.0 Hz); 13C NMR δ 21.5, 24.2 (CH2),25.1,50.1 (CH2), 55.6, 63.3 (CH2 ),64.0,65.3,68.6,76.7,86.4,102.6,126.9, 127.7, 127.9, 128.8, 129.3, 138.5, 144.1; HRMS (ES, (M þ H)þ) calcd for C38H44NO6 S 642.2878, obsd 642.2889.
+4-074	Methyl 2,3-dideoxy-2-C-isopropylamino-4,6-O-(phenylmethy- lene)-3-C-p-tolylsulfonyl-β-D-glucopyranoside 24e-e: Following the general procedure, isopropylamine was reacted with 2β (0.30 g, 0.75 mmol) at rt for 12 h to yield 24e-e (0.31 g, 89%): brownish-yellow solid; mp 112-115 °C; [R][28]D þ40.5(c 0.71, CDCl3 ); 1H NMR (CDCl 3) δ 1.06-1.24 (m, 6H), 2.20 (s, 3H), 3.15-3.21 (m, 1H), 3.44-3.51 (m, 2H), 3.53 (s, 3H), 3.55-3.58 (m, 1H), 3.65-3.70 (m, 1H), 3.98-4.03 (m, 1H), 4.22-4.26 (m, 1H), 4.43 (d, 1H, J = 5.6 Hz), 5.23 (s, 1H), 6.96-7.05 (m, 4H), 7.20-7.31 (m, 3H), 7.65 (d, 2H, J = 8.0 Hz); 13C NMR δ 21.5, 22.1, 24.3, 47.2, 54.3, 56.7, 66.7, 67.5, 69.2 (CH2),75.6,101.4, 106.1, 126.1, 127.9, 128.3, 129.0, 129.6, 136.3, 137.8, 144.5; HRMS (ES, (M þ H)þ) calcd for C24H32NO6S 462.1950, obsd 462.1970.
+4-075	Methyl 2,3-dideoxy-2-C-pyrrolidino-4,6-O-(phenylmethylene)-3-C-p-tolylsulfonyl-β-D-glucopyranoside 25e-e: Following the gen- eral procedure, pyrrolidine was reacted with 2β (0.3 g, 0.75 mmol) at rt for 15 h to yield 25e-e (0.30 g, 89%): brown solid; mp 108-110 °C; [R][28]D -16.8(c 0.327, CHCl3); 1 H NMR (CDCl3) δ 1.39-1.66 (m, 4H), 2.33 (s, 3H), 2.66-2.72 (m, 4H), 3.43 (s, 3H), 3.57-3.64 (m, 2H), 3.67-3.77 (m, 2H), 4.29-4.31 (m, 1H), 4.41-4.46 (m, 1H), 4.71 (d, 1H, J = 3.6 Hz), 5.45 (s, 1H), 7.17 (d, 2H, J = 8.0 Hz), 7.24-7.35 (m, 5H), 7.73 (d, 2H, J = 8.0 Hz); 13C NMR δ 21.5, 23.3 (CH2), 49.6 (CH2),55.6,60.0,65.1,66.6, 69.7 (CH2),75.0,100.7,101.0,125.9,128.1,128.2,128.8,129.1, 136.7, 138.4, 144.0; HRMS (ES, (M þ H)þ) calcd for C25H32NO6S 474.1950, obsd 474.1941.
+4-076	All geometries were fully optimized with restricted Hartree-Fock method[18] using the 6-31G* basis set.
+4-077	To calculate the energies with a higher basis set, single point calculations were performed at the B3LYP/6-31þG* level[11] using RHF/6-31G* optimized geometries.
+4-078	To validate the
+4-079	B3LYP/6-31þG*//RHF/6-31G* calculated results, full optimi- zation of transition state geometries of VSM carbohydrates 2r and 5r was performed with single isopropylamine.
+4-080	The calcu- lated activation barriers with B3LYP/6-31þG* level are similar to that of B3LYP/6-31þG*//RHF/6-31G* calculated results (Table 6).
+4-081	Therefore, further calculations were carried out with the B3LYP/6-31þG*//RHF/6-31G* level of theory, which would be economical with similar accuracy for the studied systems herein.
+4-082	The optimized transition state structures with B3LYP/6-31þG* and RHF/6-31G* are quite similar in nature, and no significant deviations were observed (Figure S2, Sup- porting Information).
+4-083	To account for the solvation effect, single point calculations were performed at the B3LYP/6-31þG* level in solvent THF (ε = 7.58) using the polarizable continuum solvation model (PCM)[19] and UFF topological radii.[20]
+4-084	Com- plete vibrational analyses were performed to characterize the transition states and ground state geometries.
+4-085	All calculations were performed with the Gaussian 03 suite program on Win- dows-based dual core Intel xeon machines.[21]

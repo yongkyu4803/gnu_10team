@@ -1,0 +1,182 @@
+# document_id: ic101213q
+# extractor: kordoc-markdown-adapter-1
+1-001	The chemistry of coordination polymers has become a promising field of research for the past few decades because of their immense applications in catalysis,[1] gas storage,[2]
+1-002	*To whom correspondence should be addressed.
+1-003	E-mail: psm@ipc.iisc. ernet.in.
+1-004	Fax: 91-80-23601552.
+1-005	Phone: 91-80-22933352.
+1-006	r 2010 American Chemical Society
+1-007	magnetic materials,[3] optoelectronics[4] as well as in electrical conductivity.[5]
+1-008	The proper choice of metal ions and bridging ligands leads to different architectures whereas other para- meters like metal ligand ratio, solvent, and temperature can also influence the outcome.[6]
+1-009	Magnetic coordination poly- mers are generally prepared via a building block approach using paramagnetic metal ions as nodes connected by brid- ging ligands that can efficiently transmit the magnetic ex- change interactions between the metal centers to develop interesting magnetic properties.[7-9] In this respect several bridging ligands like cyanide, oxo, carboxylate, azide dom- inate in the literature because they are known to be good mediators for transmitting magnetic coupling between para- magnetic metal centers because of their short lengths.
+1-010	But still
+1-011	Published on Web 08/26/2010
+1-012	there is a surge in the search for a new bridging ligand that can lead to new magnetic materials.
+1-013	In this regard, nitrogen containing heterocyclic ligands like pyrazole, imidazole, and tetrazole are now receiving considerable attention.[10]
+1-014	Tetrazole based ligands are now in prime focus because of their rich coordination chemistry that leads to great variety of interesting structures.[11-13] 5-(Pyrimidyl)tetrazole ligand is found to be an excellent and versatile building block having multicoordination sites (Scheme 1).[14]
+1-015	The ligand possesses six basic nitrogen atoms having both pyrimidine and tetra- zole functionality.
+1-016	In the past few years several works have been carried out with substituted tetrazoles.[15-18] Though a few metal complexes of (5-pyrimidyl)tetrazole are reported, very little is known where a secondary bridging ligand like azide has been incorporated to increase the dimensionality.[14]
+1-017	As far as our knowledge is concerned, only one Cd(II) complex is reported having both the tetrazole and the azide
+1-018	until today.[19]
+1-019	As it has been proved that azide is an excellent candidate for the propagation of magnetic interaction be- tween paramagnetic metal centers with different magnetic properties by virtue of its several bridging modes,[20,21] we thought to include its functionality in the metal tetrazole systems and study their properties.
+1-020	It is well established that among various bridging modes, μ1,1-(end-on, EO) favors ferromagnetic coupling whereas μ1,3-(end-to-end, EE) pre- fers antiferromagnetic interaction.[21]
+1-021	An example of end-to-end mode for an azide group with ferromagnetic coupling is still rare although such systems are favored according to theoretical calculations.[22-24]
+1-022	On the other hand ferroelectric materials are of great interests because of their promising applications in electric devices, such as dynamic random access memories, binary data storage media, and also in telecommunication sys- tems.[25,26]
+1-023	The quest for multiferroic materials, where both ferroelectricity as well as magnetism coexist, is of great technological and fundamental importance.[27]
+1-024	Multiferroics are very rare since ferroelectricity and magnetism interact weakly with each other when they coexist.[28]
+1-025	The present paper reports the synthesis, crystal structures, and variable temperature magnetic characterizations of two coordination polymers [Co(pmtz)(μ1,3-N3)(H2O)]n (1) and [Mn(pmtz)-(μ1,3-N3)(H2O)]n (2) using pmtz in combination with a secondary bridging azide ligand.
+1-026	Though a few examples of tetrazole based ferroelectric materials are reported recently,[25b]
+1-027	84.
+1-028	complex 1 represents a unique example of a tetrazole coordi- nated multiferroic system which shows ferroelectricity (down to 100 K) as well as a magnetic hysteresis loop (below 15 K).
+1-029	Complex 2 showed dominant antiferromagnetic behavior with an unusual ferromagnetic transition in the low tempera- ture region because of spin canting.
+2-001	Materials.
+2-002	Co(NO3 )2 3 6H2 O, MnCl2 34H2 O, 2-cyanopyrimi- dine (Aldrich), and NaN3 are commercially available and were used without further purification.
+2-003	Elemental analyses of C, H, and N were performed using a Perkin-Elmer 240C elemental analyzer.
+2-004	IR spectra were recorded as KBr pellets using a Magna 750 FT-IR spectrophotometer.
+2-005	The variable temperature mag- netic studies in the range of 2-300 K were carried out on crys- talline samples using a Quantum Design MPMS-XL5 SQUID magnetometer.
+2-006	Powder X-ray diffraction (XRD) patterns of the complexes were measured in a D8 powder diffractometer.
+2-007	Ferroelectric measurement of complex 1 was performed on powder sample in the form of a pellet using a RT6000 ferro- electric tester.
+2-008	Synthesis of Complex [Co(pmtz)(μ1,3-N3)(H2O)]n (1).
+2-009	To a mixture of 2-cyanopyrimidine (53 mg, 0.5 mmol) and NaN3(390 mg, 6 mmol) in water (10 mL) Co(NO3)2 3 6H2O was added(291 mg, 1 mmol).
+2-010	The resulting deep red solution was placed in a23 mL Teflon-lined hydrothermal flask and was heated at 100 °C for 24 h.
+2-011	Red single crystals were obtained upon slow cooling of the solution to room temperature over a period of 6 h.
+2-012	Isolated yield: 75%.
+2-013	Anal. Calcd for 1, C5H5CoN9O: C, 22.55; N, 47.36; H, 1.87.
+2-014	Found: C, 22.73; N, 47.57; H, 1.99.
+2-015	IR(cm-1): 2122, 1571(s).
+2-016	Synthesis of Complex [Mn(pmtz)(μ1,3-N3)(H2 O)]n (2).
+2-017	Com- plex 2 was prepared in a similar way as employed in case of 1 by hydrothermal method using MnCl2 3 4H2O (198 mg, 1 mmol) instead of Co(NO3)2 3 6H2O. Yellow crystals were obtained upon slow cooling of the reaction mixture to room temperature over a period of 10 h.
+2-018	Isolated yield: 71%.
+2-019	Anal. Calcd for 2, C 5H5MnN9O: C, 22.90; N, 48.09; H, 1.90.
+2-020	Found: C, 23.17; N, 48.32; H, 2.09.
+2-021	IR(cm-1): 2120, 1578(s).
+2-022	Caution!
+2-023	Azido complexes of metal ions in the presence of organic ligands are potentially explosive.
+2-024	Only a small amount of material should be prepared, and it should be handled with care.
+2-025	X-ray Crystallographic Data Collection and Refinements.
+2-026	Single crystal X-ray data of 1 and 2 were collected at 293 K, on a Bruker Apex-II CCD diffractometer equipped with gra- phite monochromated Mo-KR radiation (λ = 0.71073 A).
+2-027	The SMART program was used for data acquisition, while the SAINT was used for data extraction.[29]
+2-028	The crystal structures were solved by direct methods using the SHELX-9730 incorpo- rated in WinGX.[31]
+2-029	Empirical absorption corrections were ap- plied with SADABS.[32]
+2-030	All non-hydrogen atoms were refined anisotropically and were located on geometrically calculated positions.
+2-031	The hydrogen atoms were refined isotropically and assigned idealized positions and given thermal parameters equivalent to 1.2 times the thermal parameters of carbon atom to which they were attached.
+2-032	A summary of crystal data and structure refinements for complexes 1-2 are tabulated in Table 1.
+2-033	[I > 2σ(I)]
+2-034	wR2 = 0.0698 wR2 = 0.1010 R indices (all data) R1 = 0.0567 R1 = 0.0507 wR2 = 0.0790 wR2 = 0.1050
+2-035	Selected bond parameters of the complexes are assembled in the Supporting Informations, Table S1.
+3-001	Synthesis.
+3-002	The ligand 5-(pyrimidyl)tetrazole was syn- thesized in situ by [2 þ 3] cycloaddition of azide to 2-cyanopyrimidine.
+3-003	Such type of reaction leading to the formation of tetrazoles is well documented in the lite- rature.[11-18] Metal ions Co(II) or Mn(II) upon reaction with 2-cyanopyrimidine in presence of excess azide formed the complexes 1 and 2, respectively, under hy- drothermal condition.
+3-004	Complex 1 was also obtained by treating Co(NO3)2 36H2O with a mixture of 1 equiv of Na-pmtz and excess NaN 3 in water at room temperature.
+3-005	However, attempts to prepare these complexes using 1 equiv of azide at both room temperature and high tem- perature were unsuccessful.
+3-006	Hence, excess azide played an important role in driving the reaction toward the forward direction.
+3-007	The purity of both complexes was confirmed from their powder XRD diffraction patterns which matched well with the calculated patterns obtained from their single crystal X-ray structures (Figure 1).
+3-008	The peaks in the IR spectra of 1 and 2 at 1571, and 1578 cm-1(s) are due to the tetrazole moiety, and they also showed very intense peaks corresponding to azido at 2122 and 2120 cm-1, respectively.
+3-009	Crystal Structure of 1.
+3-010	Complex 1 crystallized in the orthorhombic space group Aba2, the asymmetric unit of which contains a [pmtz]- anion, one azide, and a water molecule.
+3-011	Only one type of Co(II) ion has been crys- tallographically identified.
+3-012	In this complex, Co(II) ion achieves a distorted octahedral geometry with Co(N5)O core.
+3-013	The basic coordination environment around the Co-(II) center with the atom numbering scheme is shown (see Supporting Information).
+3-014	The basic asymmetric unit of 1 consists of a pyrimidine N and a N from the tetrazole moiety of pmtz-ligand which were found to coordinate the metal center with bond lengths Co(1)-N(4) = 2.199(2) A
+3-015	and Co(1)-N(6) = 2.108(2) A, respectively.
+3-016	One μ1,3-N3-group was found to coordinate to Co(II) ion having bond length Co(1)-N(1) = 2.144(3) A. The fourth coordination site has been filled by a H2O molecule with Co(1)-O(1) = 2.080(2) A. The fifth and sixth coordination sites of each octahedral Co(II) were satisfied by a second μ1,3-N3- and pmtz- ligand that coordinate through their N atoms with bond lengths Co(1)-N(3)a = 2.103(2) A and Co(1)-N(7)b = 2.120(2) A from the neighboring unit.
+3-017	Coordina- tion through the end-to-end azide ligand with the adjacent Co(II) center forms a butterfly like dimeric unit (see Supporting Information), and each dimeric unit contains the pyrimidyl ring in a non planar bent form with a large Co-N3-Co torsion angle of 68.18(2)°.
+3-018	Each dimeric frag- ment then connects to the nearest one through an end-to-end azide bridge and forms finally a 2D network (Figure 2).
+3-019	The sheet structure showed the formation of tetrahedral pockets by four neighboring dimeric units.
+3-020	Crystal Structure of 2.
+3-021	Complex 2 crystallized in the monoclinic P21/c space group having one crystallogra- phically distinguished octahedral Mn(II) ion coordinated to one [pmtz]- anion [Mn(1)-N(2) = 2.222(3)A], one μ1,3 -azide [Mn(1)-N(7) = 2.184(3)A ], and a water mo- lecule [Mn(1)-O(1w) = 2.193(3) A] in the asymmetric unit (Supporting Information).
+3-022	The other three co- ordination sites have been fulfilled by one pyrimidine N of [pmtz]- [Mn(1)-N(6)c = 2.305(3) A], one N atom of
+3-023	tetrazole moiety of the ligand [Mn(1)-N(1)c= 2.249(3) A] and a N of μ1,3-N3-[Mn(1)-N(9)d = 2.253(3) A] shared by the neighboring Mn(II) center.
+3-024	Each Mn(II) center in complex 2 is connected through double μ1,3- N3-bridges to form a dimeric unit (Supporting Information) with Mn- N3-Mn torsion angle of 29.45(5)° having very large Mn(1)-N(7)-N(8) and Mn(1)-N(9)-N(8) angles of 143.91(3)° and 115.8(2)°, respectively.
+3-025	Finally these dimeric units extend through an end-to-end azide bridge to form an one- dimensional (1D) chain structure (Figure 3).
+3-026	Though both 1 and 2 contain the same asymmetric unit with an end-to-end azide bridge, complex 1 forms a two-dimensional (2D) network while complex 2 constitutes an 1D chain.
+3-027	The packing diagram (Supporting Information) reveals that the 1D Mn(II) chains in 2 extend to a 2D network through hydrogen bonding interactions between the ni- trogen atom (N5) of the pyrimidine ring of 5-(pyrimidyl)-tetrazole ligand/μ1,3-N3- (N9) ligand with the coordinated water molecules.
+3-028	The hydrogen bonding parameters are tabulated in the Supporting Information, Table S2 (D = Donor, A = Acceptor).
+3-029	Magnetic Study of 1.
+3-030	Magnetic susceptibility measure- ments were carried out on a crystalline sample of 1 with an applied magnetic field of 500 G in the temperature range 2-300 K using a quantum designed SQUID magnet- ometer.
+3-031	The magnetic properties of 1 in the form of χM versus T and χMT versus T per Co(II) ion are presented in Figure 4.
+3-032	The χMT value per Co(II) unit at 300 K is 2.35 cm3 mol-1 K which is higher than those expected for spin only value of 1.87 cm3 mol -1 K for one uncoupled Co(II) ion with S = 3/2 spin.
+3-033	This higher value is presumably due to the presence of important orbital contributions which is common for Co(II) high-spin octahedral com- plexes. χMT gradually decreases upon cooling until it reaches a minimum of 1.48 cm3 mol -1 K at 23 K, which
+3-034	Curie-Weiss equation in the range 50-300 K (right).
+3-035	1(right).
+3-036	indicates the presence of dominant antiferromagnetic interaction between two Co(II) paramagnetic centers.
+3-037	Further cooling results in a sudden increase in χMT to 2.19 cm3 mol-1 K at 13 K before further fall to a minimum value of 0.82 cm3 mol -1 K at 2 K, which could be due to intermolecular antiferromagnetic interaction or spin canting followed by the effect of saturation pheno- mena.
+3-038	The dominant antiferromagnetic coupling mainly mediates through the μ1,3 -N3- pathway between two Co(II) centers in complex 1 at high temperature.
+3-039	This was justified by the negative coupling constant J = -3.8 cm-1, λ = -5.4 K obtained upon fitting χM versus T above 50 K(Figure 4) using spin-only dimeric model incorporating λ as a correction term which takes care of both interdimer interaction as well as the orbital contri- bution due to the presence of spin-orbit coupling in the Co(II) system (Supporting Information).[33]
+3-040	Moreover, χM-1 versus T data above 50 K obey the Curie-Weiss law with the best-fitting parameters C = 3.2 cm3 mol -1K [close to the value of 2.8-3.4 cm3 mol-1K expected for an octahedral Co(II) ion] and Weiss constant θ = -27.05 K (Figure 4).
+3-041	The negative θ (Weiss constant) value also indicates the existence of antiferromagnetic interaction at high temperature.
+3-042	However, an abrupt rise in χMT value below 23 K suggests a ferromagnetic transition in com- plex 1.
+3-043	Since the saturation value of magnetization [0.5 Nβ per Co(II) at 4 T] is well below the expected value (Ms=2.1-2.5 Nβ), the observed ferromagnetic like
+3-044	ordering is attributed to canted antiferromagnetism where perfect antiparallel alignment of the spins on neigh- boring metal ions in 1 is not achieved and leads to the generation of residual spins.
+3-045	Below 20 K, the susceptibility data become field de- pendent (Figure 5), suggesting a ferromagnetic phase transition at around 15 K. For further proof of the pre- sence of long-range ordering, zero-field-cooled (ZFC) and field-cooled (FC) magnetization experiments were (Figure 5) carried out at an applied field of 10 G. The ZFC curve increases as the temperature rises from 2 K and reaches a maximum at 15.9 K followed by gradual fall upon further increasing temperature, which is the signa- ture of magnetic ordering.
+3-046	Upon cooling, the FC curve increase rapidly and diverges from the ZFC curve at 15.9 K because of the existence of spontaneous ferromag- netic ordering at Tc (Curie temperature) = 15.9 K.
+3-047	At 2 K, complex 1 shows a magnetic hysteresis loop (Figure 6) with a coercive field of 1351.11 G and a remnant magnetization of 0.05 Nβ.
+3-048	The estimated canting angle was found to be 0.95° obtained from the equation ψ = sin-1(Mr/Ms),[34] where Mr is remnant magnetization
+3-049	and Ms (Ms = gS) is the expected saturated magnetiza- tion if all the moments are aligned ferromagnetically.
+3-050	The initial magnetization plot at 2 K shows gradual increase in magnetization with the field.
+3-051	Up to 5 T no saturation in magnetization was noticed, rather magnetization in- creases linearly with field in the high field region.
+3-052	The magnetization value at 5 T is measured to be 0.6 Nβ, which is far below the expected value for a Co(II) system with S = 3/2 when all the spins are aligned parallel.
+3-053	This nature is consistent with weak ferromagnetism be- cause of presence of spin canted phenomena in complex 1 (Figure 6).
+3-054	Existence of dominant antiferromagnetic behavior is indicated by the negative θ value obtained from the fitting of χM-1 versus T plot using the Curie-Weiss equation.
+3-055	Moreover, this behavior is expected because of having end-to-end azido antiferromagnetic pathway between the Co(II) centers.
+3-056	However, at lower temperature because of deviation of spins from their normal antiparallel align- ment results in a hysteresis loop at 2 K and causes an abrupt rise in magnetization below 23 K. This result suggests a weak ferromagnetic transition at the low temperature region because of spin canting for which complex 1 behaves like a soft magnet.
+3-057	Magnetic Study of 2.
+3-058	The dc magnetic susceptibility data were measured on a crystalline sample of 2 under an applied field of 500G in the temperature range of 2-300 K using SQUID magnetometer.
+3-059	The χMT value per Mn-(II) center was found to be 3.08 cm3 mol-1 K at 300 K (Figure 7) which is lower than the spin only value (4.34 cm3 mol-1 K) expected for a magnetically isolated high spin Mn(II) ion, indicated the occurrence of antiferro- magnetic coupling between the Mn(II) centers.
+3-060	Upon cooling, χMT value gradually decreases to 2.95 cm3 mol-1 K at 53.5 K before it reaches a maximum value of 4.04 cm3 mol-1 K at 34 K. This sharp rise in magnetization is an indication of some sort of ferromagnetic interaction below 40 K. Finally a sudden fall in the magnetization value to 2.52 cm3 mol -1 K at 2 K was noticed which could be due to intermolecular antiferromagnetic interac- tion.
+3-061	The magnetization data above 60 K obeys the Curie-Weiss law with C = 4.4 cm3 mol -1 K and θ = -7.8 K (Figure 7) indicating the existence of antiferro- magnetic interaction between the neighboring Mn(II)
+3-062	centers.
+3-063	The 1D chain consists of magnetically uniform paramagnetic Mn(II) centers where two types of magnetic exchange pathways are present.
+3-064	Each Mn(II) dimer is separated alternatively by double end-to-end azide and tetrazole pathways.
+3-065	Though the magnetic coupling via the azide pathway is expected to be dominating, the interaction through the tetrazole bridge cannot be ig- nored.
+3-066	Hence, the susceptibility data above 60 K were fitted with the theoretical model developed for an S = 5/2 alternating 1D chain with the spin Hamiltonian, H = P P
+3-067	-J1 S2iS2iþ1 - J2 S2iþ1S2iþ2 where J1 and J2 denote alternate coupling constants (through azide and tetrazole respectively) and S’s are classical spin operators.[35]
+3-068	This approximation is well-known for Mn(II) ion with S = 5/2.
+3-069	The best fit parameters thus obtained were J1 = -5.4 cm-1, J2= -0.5 cm-1 for g = 2 with the agreement factor R = 1.86 10-4 (Figure 7).
+3-070	The values of the coupling constants show that up to 60 K the overall magnetic interaction is antiferromagnetic in nature.
+3-071	However, a ferromagnetic transition was noticed below 50 K from the χMT versus T plot.
+3-072	We can interpret this magnetic behavior as a consequence of spin canting that leads to weak ferromagnetism at low temperature.
+3-073	Azide is known to act as a versatile bridging ligand because of its several binding modes that give rise to different magnetic properties.
+3-074	It has been observed that the end-to-end azide bridge (μ1,3 -N3-) generally favors antiferromagnetic interaction.[22,23]
+3-075	The analysis of the magnetic data using the alternating chain model of Mn(II) reveals that both the end-to-end azido as well as the tetrazole pathways mediate expected antiferromagnetic interaction.
+3-076	How- ever, magnetic ordering of the uncompensated spins occurs below 50 K. The mechanism behind this may be due to intermolecular interaction via hydrogen bonding (see packing diagram of complex 2 in Supporting Information).[36]
+3-077	Below 40 K three-dimensional magnetic ordering via intermolecular H-bonding occurs.
+3-078	Isothermal magnetization plot at 2 K (Figure 8) reveals that the magnetization value reaches 1.18 Nβ at 5 T is much less than the expected saturation value of 5 Nβ for one Mn(II) ion with S = 5/2 and g = 2.
+3-079	Spin canting could be a reason for such low magnetization value.
+3-080	However, no hysteresis loop was observed for complex
+3-081	2.
+3-082	The origin of spin canting is either (i) magnetic anisot- ropy or (ii) antisymmetric exchange where the spins are slightly tilted from their original position.[37]
+3-083	For a non-centrosymmetric space group there is always a probabil- ity of structural distortion that can generate magnetic anisotropy at lower temperature.
+3-084	The spin canting effect is more pronounced in the Co(II) system because of its inherent anisotropic nature compared to the isotropic nature of Mn(II) ion.
+3-085	It is the local anisotropy that makes an additional contribution to a large degree of spin canting in Co(II) systems.
+3-086	using the Curie-Weiss equation in the range 65-300 K (right) for complex 2.
+3-087	Ferroelectric Study of Complex 1.
+3-088	Ferroelectric crystals which exhibit a spontaneous electric polarization arising from polar displacements of anions and cations are drawing significant attentions because of their potential applications in the field of telecommunication, ultrasonic devices, electro-optical devices, and switchable NLO (nonlinear optical) devices.
+3-089	Initially ferroelectric beha- vior was noticed in pure inorganic complexes like KDP, BaTiO3 but because of various applications of this type of ferroelectric materials, several new kinds of ferroelectric materials have been reported.
+3-090	A literature survey reveals that several metal complexes like Cd(II) imidazole,[38] Ag(I) imidazole,[39] Cu(II) with substituted pyrazole,[40]
+3-091	Co(II) piperazine complex,[41] and diethyldithiocarbamate complex of Cu(II)[42-44] exhibit ferroelectric behavior.
+3-092	In addition to transition metal complexes, several lantha- nides complexes (Sm, Gd, Eu) have also been found to be potentially ferroelectric.[45]
+3-093	A new addition to this ferro- electric material is the template borate of Ni(II) complex.[46]
+3-094	A ferroelectric ferromagnet which is one of the multi- ferroics has received significant attention because of this multifunctionality.
+3-095	As both ferroelectric and ferromagnetic properties are mutually exclusive, systems with multiferroic behavior are very rare.
+3-096	Among them ethyl lactate complex with Tb, hexacyanoferrate with rubidium, manganese, and dimethylammonium metal formates are some examples which show multiferroic behavior.[26]
+3-097	Complex 1 in the present study crystallized in a non-centrosymmetric space group Aba2 which is associated with the point group C2v that is one of the 10 polar point groups (C1, Cs, C2, C2v, C4, C4v, C3, C3v, C6, C6v) required for ferroelectric behavior.
+3-098	To our knowledge until now no multiferroic metal-tetrazole complex has been reported.
+3-099	In this respect complex 1 is a novel example which reveals both magnetism and ferroelectricity.
+3-100	The ferroelectric data of the powder pellet sample of 1 were measured at room temperature at different voltages.
+3-101	Polarization (P) versus applied electric field (E) plots at room temperature with applying field up to (30 KV cm-1 showed (Figure 9) a clear electric hysteresis loop.
+3-102	The remnant electric polari- zation (Pr) and coercive field (Ec) were calculated to be 0.08 μC cm-2 and of 4.73 KV cm-1, respectively.
+3-103	The satu- ration spontaneous polarization (Ps) of 0.29 μC cm-2 is little higher than that of a typical ferroelectric compound NaKC4H4O6 34H2O (Ps = 0.25 μC cm-2).
+3-104	Interestingly, even at 100 K electric hystersis loop was clearly no- ticed at 1500 V with calculated Pr and Ec values of 0.09 μC cm-2 and 5.14 KV cm-1, respectively, having spontaneous polarization Ps = 0.28 μC cm-2 (Figure 9).
+3-105	However, our attempt to establish the ferroelectric behavior below 100 K was unsuccessful because of the limitation of the instrument.
+4-001	In summary, two new coordination polymers of transi- tion metals with 5-(pyrimidyl)tetrazole ligand and azide have
+4-002	temperature (left) and electric hysteresis loop measured at low temperature (right).
+4-003	been successfully synthesized by the hydrothermal method.
+4-004	Complex 1 crystallized in non-centrosymmetric space group Aba2 in the orthorhombic system.
+4-005	This complex also showed spin canting behavior with a clear hysteresis loop in the M versus H plot at low temperature, which is a characteristic of a soft magnet.
+4-006	Complex 1 also showed ferroelectric behavior with electric hysteresis loop at 100 and 300 K. Though several ferroelectric coordination polymers or ferromagnetic coordi- nation polymers are known in the literature, complex 1 represents a rare example which shows both ferroelectric behavior and magnetic hysteresis.
+4-007	Complex 2 crystallized in the P21/c space group in the monoclinic system.
+4-008	From structural point of view, complex 2 is a 1D chain of Mn(II) ions bridged by well-known antiferromagnetic coupler end-to-end azide and tetrazolate.
+4-009	Variable temperature magnetic study revealed the existence of an unusual ferromagnetic transition through the end-to-end azido pathway below 40 K as a consequence of spin canting.
+4-010	The present results demonstrate the potential of tetrazole for the generation of
+4-011	multifunctional materials and further illustrate the versatility of azido as a mediator for magnetic interactions.

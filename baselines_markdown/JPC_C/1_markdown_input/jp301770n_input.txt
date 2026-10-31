@@ -1,0 +1,192 @@
+# document_id: jp301770n
+# extractor: kordoc-markdown-adapter-1
+1-001	There has been significant research interest in dye-sensitized solar cells (DSSCs) since the breakthrough work of O’Regan
+1-002	and Gratzel in 1991,[1] and most recently DSSCs with efficiency
+1-003	as high as 12.7% have been achieved.[2]
+1-004	The application of nanostructured materials such as nanoparticles and nanowires
+1-005	in DSSCs could lower the fabrication cost, create flexible structures, and provide possibilities to improve light absorption
+1-006	and carrier collection in the devices.
+1-007	Thus far the majority of published works has been focused on photoanodes based on
+1-008	1,3−5 6−8 9−11
+1-009	binary metal oxides such as TiO 2, ZnO, and SnO2.
+1-010	Among them, TiO2 is the most popular and widely studied one
+1-011	due to its high power conversion efficiency and low preparation cost.[1,12]
+1-012	However, research has also shown that TiO2 photoanodes could cause photobleaching of the dye molecules
+1-013	in the UV region of the solar spectrum,[13,14] highlighting the importance of exploring other promising materials for DSSC applications.
+1-014	Compared with simple binary materials, ternary metal oxides such as Zn2SnO 4, Zn2TiO4, SrTiO3, etc. offer several advantages on certain aspects.[15−17] First, ternary metal oxides provide a broader material spectrum for sensitized solar
+1-015	cell applications.
+1-016	Second, by altering the compositions of the ternary metal oxides, their chemical and electrical properties
+1-017	can be easily modified.
+1-018	A well-known example is ITOby adjusting the In:Sn ratio, the material’s electrical conductivity, optical transmission, and surface work function can be easily changed.[18]
+1-019	The ability to fine-tune these properties is crucial for realizing a better control of carrier transport and collection in sensitized solar structures.[19]
+1-020	In addition, ternary metal oxides
+1-021	also exhibit better corrosion resistance than many binary oxides,
+1-022	which could improve the long-term cell stability under the real world conditions.[15]
+1-023	© 2012 American Chemical Society 10841
+1-024	In this work we investigated the synthesis of Zn 2SnO4 nanowires and present for the first time the results of dye-sensitized solar cells fabricated using these nanowires.
+1-025	Zn2SnO4 is a ternary metal oxide with a wide band gap (∼3.6 eV)[20] and high electron mobility (10−15 cm3 V−1 s−1).[21]
+1-026	It is also an earth-abundant material, which makes it suitable for the fabrication of low-cost DSSCs.[18]
+1-027	Nanostructures based on Zn2SnO4 have been reported previously;[22−25] however, to the best of our knowledge, so far only Zn2SnO4 nanoparticles have been utilized as photoanodes in DSSCs.[15,22]
+1-028	Compared with nanowires, nanoparticles have larger surface area for dye loading, and the overall power conversion efficiencies of nanoparticle-DSSCs are usually higher than those of nanowire- DSSCs.
+1-029	Nonetheless, nanowires still present several attractive features as photoanodes in DSSCs.
+1-030	For example, nanowires provide direct transport pathway for photogenerated electrons and hence can result in enhanced charge collection efficiency in the devices.[6]
+1-031	Due to the improved diffusion length, longer wires and thus thicker nanowire films can be incorporated into DSSCs, which can potentially improve the quantum efficiency in the long-wavelength region of the solar spectrum.[26]
+1-032	In addition, the reduced surface area and fast transport in nanowires could also suppress the back electron transfer reaction that occurs at the photoanode/redox electrolyte solution interface and lead to a higher open-circuit voltage (VOC).[27]
+1-033	In this research, Zn2SnO4 nanowires were synthesized and different growth conditions were inspected in order to eliminate unwanted phases and achieve the best yield of
+1-034	Received: December 22, 2011
+1-035	Revised: April 29, 2012
+1-036	Published: May 2, 2012
+1-037	Zn2SnO4 nanowires.
+1-038	DSSCs based on Zn2SnO4 nanowires were fabricated and the effect of dye loading on cell performance was studied.
+1-039	Zn2 SnO4 nanoparticles and Zn2SnO4 nanoparticle-DSSCs were also fabricated for the purpose of a comparison study of open-circuit voltage, and the relation between VOC and back electron transfer reaction was examined.
+1-040	Electrochemical impedance spectroscopy (EIS) measurement was also performed, and electron diffusion lengths of Zn2SnO4 nanowire and nanoparticle films were obtained.
+2-001	Nanowire Fabrication.
+2-002	Zn2SnO4 nanowires were synthe- sized on silicon substrates by chemical vapor deposition through the vapor−liquid−solid (VLS) growth mechanism.
+2-003	A gold film with a thickness of 3 nm was first deposited on a silicon substrate by thermal evaporation as the catalyst.
+2-004	Source material that consists of Zn foil (Alfa Aesar, 0.25 mm thick, 99.98%) and SnO powder (Alfa Aesar, 99.9%) was loaded into an alumina boat.
+2-005	The alumina boat was placed at the center of a 1 in. single zone tube furnace, and the gold-coated silicon substrate was positioned at a distance of 5 cm downstream from the source boat.
+2-006	The tube furnace was evacuated to 10 mtorr and purged by dry N2 gas three times.
+2-007	The temperature of tube furnace was then raised to 900 °C with a ramping rate of 30 °C/min.
+2-008	Upon elevating the furnace temperature, a 100 sccm N2 gas flow was introduced into the tube furnace, and the pressure was kept at 10 torr throughout the whole growth process.
+2-009	An O 2 flow was also injected into the tube at a certain temperature during the ramping process.
+2-010	The effects of the source material ratio, O 2 flow rate, and O2 injection temperature on Zn2SnO4 nanowire growth were inspected, and an optimized growth condition was realized, which could repeatedly produce single crystalline Zn2SnO4 nanowires with a high yield.
+2-011	Structural Characterization.
+2-012	The crystalline structure of the Zn2SnO4 nanowires was characterized by X-ray diffraction (XRD) using a Philips X’Pert MPD diffractometer and a Cu Kα source.
+2-013	The morphology was studied by a FEI Quanta 450FEG field emission scanning electron microscope (SEM).
+2-014	The transmission electron microscopy (TEM) examination was conducted with a FEI Tecnai F20-UT microscope.
+2-015	The simulation of high-resolution TEM (HRTEM) images was conducted by using a multislice code, National Center for Electron Microscopy Simulation Software (NCEMSS).
+2-016	DSSCs Fabrication.
+2-017	The fabrication of Zn2SnO4 nanowire- DSSCs started with a printing transfer process of the nanowires from the silicon substrate to F:SnO 2 (FTO) coated transparent substrate (MTI Corporation, 2.5 mm thick, 12−14 Ω/sq, 82−84.5% visible transmittance).
+2-018	The FTO substrate was first spin- coated with a 100 nm thick Zn2SnO4 precursor film [0.16 M tin 2-ethyhexahoate (Alfa Aesar, 96%), 0.33 M zinc acetate (Alfa Aesar, 98%), and 0.5 M triethanolamine (Alfa Aesar, 98%) in ethanol].
+2-019	This Zn2SnO4 precursor film served as an adhesion layer between the transferred nanowires and the FTO substrate and could improve the electrical contact between the two after annealing.
+2-020	In a typical printing transfer process, Zn 2SnO4 nanowires on a silicon substrate were faced down and pressed to the precursor-coated FTO substrate under a pressure of 1000 g/cm[2], which was maintained for 1 min before release.
+2-021	This approach could reproducibly create nanowire thin films with a thickness of about 20 μm.
+2-022	The FTO substrate with nanowires was then annealed at 500 °C for 5 h to transform the precursor into a Zn2SnO 4 film.
+2-023	To sensitize the Zn2SnO4
+2-024	nanowires, a 0.05 mM (Bu 4N)2Ru(dcbpyH)2(NCS)2 (N719 dye) in dry ethanol solution was used, and the sensitization time ranged from 15 min to 24 h.
+2-025	After dye loading, the nanowires were rinsed in ethanol and blow dried by N2 .
+2-026	Another FTO substrate coated with 20 nm Pt was used as the counter electrode and was bonded together with the nanowire/ FTO substrate through a hot-melt spacer (Bynel, Dupont, 75 μm).
+2-027	Liquid electrolyte (50 mM I2, 0.5 M LiI, and 0.5 M 4-terbutylpyridine in 3-methoxypropionitrile) was injected into the capsulated space through predrilled holes.
+2-028	Characterization of device performance was carried out immediately after the fabrication.
+2-029	The synthesis of Zn2SnO4 nanoparticles and fabrication of Zn2SnO4 nanoparticle-DSSCs followed previ- ously reported procedures.[15,22]
+2-030	The thickness of the Zn2SnO4 nanoparticle film was controlled to be 20 μm, the same as the Zn2SnO4 nanowire film.
+2-031	J−V, IPCE, and EIS Measurements.
+2-032	Current density− voltage (J−V) curves were acquired by a source-measurement unit in the dark and under a simulated sunlight (100 mW/cm[2], calibrated by a KG-5 filtered silicon photodiode) using a setup with a xenon lamp.
+2-033	Incident-photon-to-current conversion efficiency (IPCE) data were obtained with a monochromatic light source that consists of a 50 W tungsten halogen lamp and a monochromator.
+2-034	The output of the monochromator was modulated by a chopper, and the photocurrent was measured using a lock-in amplifier (Stanford Research SR830).
+2-035	Two- electrode mode was used to obtain the Tafel plots of the DSSCs.
+2-036	EIS measurement was performed using an Ivium CompactStat potentiostat.
+2-037	The measurement followed the procedure described in ref 28, and the spectra were obtained at a bias of −0.6 V with 10 mV modulation from 0.1 Hz to 1 MHz.
+2-038	All measurements were carried out in the dark.
+3-001	Research efforts have been previously made to fabricate Zn 2SnO4 nanowires by chemical vapor deposition using different source materials.[24,25,29]
+3-002	However, these methods generally require strict parameter windows that are difficult to reproduce.
+3-003	Unlike the growth of binary oxide nanowires, introducing a third element into the synthesis of ternary nanostructures may result in multiple phases in the final products.
+3-004	For example, in the VLS growth of Zn2 SnO4 nanowires, other phases including ZnO and SnO 2 may also present.
+3-005	The ZnO phase can be easily removed by acid etching due to the instability of ZnO in acidic solutions.[30]
+3-006	However, it is very difficult to eliminate the SnO2 phase using similar chemical methods.
+3-007	Furthermore, previous studies have shown that the conduction band of SnO2 is lower than those of conventional solar cell anode materials (TiO 2 or ZnO), which causes a higher recombination rate of the injected electrons with the electrolytes.[10,11]
+3-008	Therefore, proper synthesis con- ditions should be developed to avoid the growth of the SnO2 phase in Zn2 SnO4 nanowire fabrication.
+3-009	In this research, a series of experiments were carried out to investigate the effects of the ratio of source material, oxygen flow rate, and oxygen injection temperature on the phases of the fabricated nanowires.
+3-010	Figure 1a shows the XRD characterization data of the nanowires synthesized with different Zn:Sn ratio but same oxygen flow rate (3 sccm) and oxygen injection temperature (800 °C).
+3-011	For the Zn-deficient growth (Zn:Sn = 1:1), only a small amount of nanowires including Zn 2SnO4 as well as unwanted phases such as SnO2 and Sn were obtained, which made the purification process very difficult.
+3-012	For the growth with
+3-013	a Zn:Sn ratio of 2:1, the majority of the nanowires were Zn2SnO4 and ZnO; however, the SnO2 phase still presented.Only in Zn-abundant growth with a Zn:Sn ratio of 3:1 or 4:1 could the SnO2 phase be completely eliminated, and only Zn2SnO4 and ZnO nanowires were obtained in the final product.
+3-014	The molar ratio of Zn2SnO4 to ZnO was roughly 3:1 in such a growth, and the yield of the Zn2SnO4 nanowires could be further increased if the Zn content in the source material was higher.
+3-015	The ZnO phase could be easily removed by soaking the nanowires in a 0.01% hydrogen chloride water solution, and the XRD data after the etching is also presented in Figure 1a, showing that only pure Zn2SnO4 nanowires were obtained after this etching process.
+3-016	Similar studies were also carried out for oxygen flow rate and injection temperature, and the optimized growth parameters for Zn2SnO4 nanowires were determined to be Zn:Sn ratio of 3:1, oxygen flow rate of 3 sccm, and oxygen injection temperature of 800 °C. Parts b and c of Figure 1 are SEM images of the Zn2SnO4 nanowire network and a typical axially periodic Zn 2SnO4 nanowire, respectively.
+3-017	Zn2 SnO4 nanowires could be identified by energy dispersive X-ray spectroscopy (EDS) analysis.
+3-018	Similar to previous reports,[29,31] both axially periodic and smooth Zn2SnO4 nanowires were obtained in our fabrication.
+3-019	However, under the optimized synthesis condition, the yield of the axially periodic Zn2SnO4 nanowires was much higher than that of those with smooth surface.
+3-020	The lengths of Zn2SnO4 nanowires were longer than 200 μm, and the diameters ranged from 80 to 150 nm.
+3-021	The crystalline structure of the axially periodic Zn2SnO4 nanowires was characterized by TEM.
+3-022	Figure 2a shows a cubic unit cell of the spinel AB2O4 structure.
+3-023	Zn2SnO4 has an inverted-spinel structure, with 50% of the Zn ions occupying the A sites and the other 50% occupying the B sites together with the Sn ions.
+3-024	The basic repetition unit of an axially periodic Zn2SnO4 nanowire was a rhombohedral single crystal enclosed by {111} equivalent facets, which is depicted in Figure 2b.
+3-025	A TEM image of a Zn2SnO4 nanowire with periodic structure is shown in Figure 2c.
+3-026	The Zn2SnO4 nanowire growth direction was identified as [11 1] by a selected area electron diffraction (SAED) study.
+3-027	Figure 2d is a HRTEM image of a portion of the Zn2SnO4 nanowire shown in Figure 2c, which is indicated by a square.
+3-028	The image was captured along the [011] zone axis, and the lattice constants along the [11 1] and [200] directions are specified in the image.
+3-029	The inset in Figure 2d is the corresponding fast-Fourier-transform (FFT) image, revealing the single crystalline structure and the [111] growth direction.
+3-030	It has been previously reported that axially periodic Zn2SnO4 nanowires can have either single crystalline or segmented structures that are connected by twin grain boundaries.[24,29]
+3-031	However, in our fabrication only single crystalline Zn2SnO4 nanowires were obtained, and they did not exhibit either twin boundary or stacking fault defects.
+3-032	Simulation of the HRTEM image was conducted using the National Center for Electron Microscopy Simulation Software (NCEMSS) with an objective spherical aberration (CS) of 0.52 mm.
+3-033	Figure 2e is the enlarged TEM image, and Figure 2f is the simulated image (sample thickness, 40 nm; defocus, −57 nm).
+3-034	The A and B ion sites of an AB2O4 unit cell that produce the TEM pattern were overlaid on the corresponding portion of the simulated image in Figure 2f.
+3-035	The simulation result matched the TEM image, confirming the inverted-spinel structure of Zn2SnO4 nanowires.
+3-036	It is also important to point out that the perovskite ZnSnO3 phase was not presented in our synthesis.
+3-037	This phase has only been observed in vapor−solid[32] or high-pressure solution-based growth.[33]
+3-038	Dye-sensitized solar cells based on Zn2SnO4 nanowires were fabricated following the procedure discussed in the Exper- imental Section, and the effect of dye loading on cell performance was inspected.
+3-039	To study the dye-loading process, UV−vis absorption spectra of the N719 dye adsorbed on Zn2SnO4 nanowires were acquired.
+3-040	The amount of adsorbed dye and the corresponding roughness factor could be calculated using the extinction coefficient of the N719 dye (1.4 × 107 mol−1 cm 2 at the wavelength of 540 nm) and the size of the dye molecule (∼1.76 nm in diameter).[1,34,35]
+3-041	Figure 3 shows the plot of dye absorbance at 540 nm versus the dye loading time, and the corresponding dye adsorption amount (M) is represented by the left y-axis in the same figure.
+3-042	It shows clearly that the amount of adsorbed dye molecules increased rapidly in the first hour, and then the adsorption slowed down and improved only slightly afterward.
+3-043	The adsorption process can be described using the following equation[36]
+3-044	d(1 − θ) n
+3-045	− = κ (1 − θ)
+3-046	dt (1) where θ is the dye coverage, κ represents the reaction constant, and n is the reaction order.
+3-047	We fitted the adsorption data using eq 1 with different reaction orders of n = 0, 1, and 2 and found that it could be best represented as a first-order reaction.
+3-048	The inset in Figure 3 shows the fitting result with n = 1, where ln(1− θ) exhibited a linear dependence on the dye loading time t.
+3-049	The Journal of Physical Chemistry C
+3-050	enclosed by {111} equivalent facets.
+3-051	(c) TEM image of a Zn 2SnO 4 nanowire.
+3-052	(d) HRTEM image of the boxed area in (c).
+3-053	Inset is the FFT image
+3-054	that shows the nanowire’s [111] growth direction.
+3-055	(e) Enlarged HRTEM image and (f) corresponding NCEMSS simulation result.
+3-056	From this fitting the reaction constant κ could be calculated, which was 0.008/min.
+3-057	The amount of the adsorbed dye molecules can also be expressed using the roughness factor, and
+3-058	the largest roughness factor obtained in our devices was about 140, which was much smaller than that of DSSCs based on Zn2SnO4 nanoparticles.[15,22]
+3-059	Low dye adsorption generally limits the cell performance, and approaches such as increasing the aspect ratio of the wires have been suggested to improve dye adsorption on nanowires.
+3-060	However, dye adsorption remains a challenging issue for both nanowires and nanoparticles, and it is closely related to the nanocrystalline metal oxide surface properties and fundamental aspects of the adsorption behavior of dye molecules.[37−39] Therefore, more research efforts in a broad range are needed in order to fully characterize and understand this critical process for both nanowires and nanoparticles.
+3-061	Article
+3-062	dark current is also presented.
+3-063	(b) IPCE measurement results that show the absorption peak of the N719 dye.
+3-064	(c) Plots of short-circuit current and
+3-065	open-circuit voltage versus the dye loading time.
+3-066	(d) Plots of fill factor and power conversion efficiency versus the dye loading time.
+3-067	conversion efficiency (η) could be obtained from the J−V characteristics, which are presented in Figure 4c and d.
+3-068	As these figures show, JSC, VOC , and η improved substantially in the first hour as the dye adsorption amount was rapidly increased, and the cell with the longest dye loading time in this study (24 h) exhibited the highest power conversion efficiency of 2.8%, as well as the highest short-circuit current density of 7.1 mA/cm[2] and open-circuit voltage of 0.74 V. The VOC obtained here was about 0.1 V higher than that of the best Zn2SnO4 nanoparticle-DSSCs reported previously.[15,22]
+3-069	The fill factor of this particular device was 0.53.
+3-070	The open-circuit voltage is determined by the difference between the Fermi level in the photoanode and the redox electrolyte potential and is a major factor limiting the power conversion efficiency of DSSCs.[40]
+3-071	In this research we also synthesized Zn2SnO4 nanoparticles and fabricated Zn2SnO4 nanoparticle-DSSCs that had the same film thickness of 20 μm, in order to conduct a comparison study of the open-circuit voltage between Zn2SnO4 nanowire- and nanoparticle-DSSCs.
+3-072	Figure 5a shows the VOC measurement results under different illumination intensities.
+3-073	The dye loading time was 24 h for both devices.
+3-074	As Figure 5a exhibits, the VOC of the Zn2 SnO4 nanowire-DSSC was constantly more than 0.1 V higher than that of the Zn2SnO4 nanoparticle-DSSC, despite different light intensities being used.
+3-075	The quasi-Fermi level in the Zn2SnO4 nanowire photoanode was calculated to be −0.44 V vs NHE (normal hydrogen electrode) under a 100 mW/cm[2] illumina- tion.
+3-076	As previous research pointed out, VOC is strongly affected by charge recombination at the photoanode/redox electrolyte interface.[39]
+3-077	The relation between VOC and the back electron transfer reaction can be described by the following equation[40]
+3-078	K T ⎛ Jinj ⎞
+3-079	VOC = $\frac{B}{quα}$ ln⎜ uα m ⎟
+3-080	⎝ n0 κet oxc ⎠ (2)
+3-081	where KB and T are the Boltzmann constant and absolute temperature, respectively, q is the electronic charge, u is the order of the reaction rate for electrons, α is the electron transfer coefficient, Jinj is the electron injection current from the dye
+3-082	molecules, n0 is the electron concentration in the photoanode in the dark, κet is the back electron transfer rate, cox is the redox couple concentration, and m is the order of the reaction rate for oxidized redox species.[40]
+3-083	The value of uα could be derived from the plot of VOC vs ln Jinj that was directly proportional to the illumination intensity.
+3-084	Therefore, from Figure 5a we could also obtain the uα values of the Zn2 SnO4 nanowire- and nanoparticle-DSSCs, which were 0.52 and 0.63, respectively.
+3-085	The value of uα in the dark could be determined by the slope of a Tafel plot[41,42]
+3-086	2.303RT
+3-087	uα′ = −
+3-088	bF (3) where α ′ is the electron transfer coefficient in the dark, b is the Tafel slope, R is the gas constant, and F is the Faraday constant.
+3-089	Figure 5b shows the Tafel measurement results, and from the plots the uα ′ values of the Zn2SnO4 nanowire- and nano- particle-DSSCs were determined to be 0.30 and 0.36, respectively.
+3-090	Both the uα and uα′ values of the Zn2SnO4 nanowire-DSSCs were smaller than the corresponding values of the Zn2SnO4 nanoparticle-DSSCs.
+3-091	This could be explained by the difference in the surface area between the nanowires and nanoparticles, and the smaller surface area of the nanowires suppressed the back electron transfer reaction in the cell and resulted in a lower uα and higher VOC.
+3-092	From these measurements it could also be concluded that the electron transfer coefficient under irradiation (α) was higher than that in the dark (α′) for the same photoanode material.
+3-093	This observation agreed with a previously reported result of DSSCs based on TiO 2 nanoparticles, where the higher α value was attributed to an additional recombination channel created by the excited triplet state of dye molecules under irradiation.[41]
+3-094	Electrochemical impedance spectroscopy measurements were performed on both Zn2SnO 4 nanowire- and nano- particle-DSSCs, and typical results are presented in Figure 6, where the EIS spectrum of the Zn2SnO4 nanoparticle-DSSC was enlarged 10 times along both the real and imaginary axes for clarification purpose.
+3-095	The EIS spectra were fitted using a standard DSSC equivalent circuit as discussed in ref 28, where a transmission line model was used to simulate the photoanode,
+3-096	and the resistance and capacitance of the FTO/metal oxide interface was assumed to be negligible due to the good electrical contact between the two.[28]
+3-097	From the fitting, the electron transport resistance (RT) and the electron recombi- nation resistance (RREC) could be obtained.
+3-098	However, the EIS arcs corresponding to the counter electrode and the electrolyte were not observed in the data, suggesting that their impedances were much smaller than those of the photoanodes.[43]
+3-099	From this fitting the RT and RREC of the Zn2SnO4 nanowire-DSSC were determined to be 834 and 6996 Ω, respectively, while for the Zn2 SnO4 nanoparticle-DSSC they were 499 and 798 Ω, respectively.
+3-100	The electron diffusion length could be calculated from RT and RREC using the following equation[44]
+3-101	L = d RREC
+3-102	RT (4) where d is the photoanode film thickness (20 μm for both Zn2SnO4 nanowire and nanoparticle films).
+3-103	The calculated electron diffusion lengths of the Zn2SnO4 nanowire and nanoparticle films were 56 and 25 μm, respectively.
+3-104	This result confirmed that the electron diffusion length of the Zn2SnO4 nanowire film was longer than that of Zn2SnO4 nanoparticle film, which could lead to improved charge collection efficiency in DSSCs according to previous invesitgations.[6,28]
+3-105	10847
+4-001	In this study we carried out the synthesis of Zn2SnO4 nanowires and fabricated DSSCs based on these nanostruc- tures.
+4-002	Optimized conditions for a reproducible synthesis of Zn2SnO4 nanowires were achieved, and the effect of dye adsorption on cell performance was investigated.
+4-003	A more than 0.1 V improvement on open-circuit voltage was constantly observed when Zn2SnO4 nanowires were used as the photoanode instead of Zn2SnO4 nanoparticles.
+4-004	The higher open-circuit voltage of Zn2SnO4 nanowire-DSSCs could be attributed to a suppressed back electron transfer process in the devices.
+4-005	A key factor that limits the performance of nanowire-DSSCs is the smaller surface area for dye loading.
+4-006	However, as our research has shown, this disadvantage could in fact result in an improved open-circuit voltage, which could benefit device application under certain special conditions.
+4-007	Nanowire-based photoanodes could also provide an important test platform for the investigation of selected fundamental issues in sensitized solar cells, which could generate additional insight on the understanding of carrier generation and collection processes in such structures.

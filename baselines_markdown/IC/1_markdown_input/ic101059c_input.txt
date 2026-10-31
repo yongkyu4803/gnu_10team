@@ -1,0 +1,257 @@
+# document_id: ic101059c
+# extractor: kordoc-markdown-adapter-1
+1-001	The past 20 years have seen the development of gold(I) complexes as catalysts for organic transformations,1but app- lications of homogeneous gold catalysts in enantioselective processes have been reported only very recently.[2]
+1-002	The majo- rity of the gold(I) catalytic systems used in enantioselective catalysis are dinuclear complexes of the type μ-(P-P)[(AuX)2]
+1-003	*To whom correspondence should be addressed.
+1-004	E-mail: espinet@qi.uva.es.
+1-005	(P-P=chiral bis(phosphine), X=anionic ligand or counter- ion), although chiral phosphoramidite ligands[3] and chiral counterions4have recently emerged as interesting alternatives in gold(I) catalysis.
+1-006	The catalytic activity of NHC gold(I) complexes in many synthetic processes is well demonstrated.[5]
+1-007	We have recently reported that gold(I) complexes with other types of carbene ligands, that we have named HBHCs (hydrogen bonded heterocyclic carbenes, e.g., [AuCl{C(NRH)(NHPy-2)}]), or NAC (nitrogen acyclic carbenes, e.g., [AuCl{C(NHR)(NHR0)}] or [AuCl{C(NHR)(NR02)}]), are good catalysts in skeletal rearrangement and in methoxycyclization of enynes,[6-8] sugges- ting that this kind of carbene complexes should be incorporated
+1-008	r 2010 American Chemical Society
+1-009	Article
+1-010	Inorganic Chemistry, Vol. 49, No. 21, 2010 9759
+1-011	to the armory of metal-catalyzed reactions and further inves- tigated.
+1-012	We are glad that our kind of NAC complexes have already been adopted by another group working in gold catalysis.[9]
+1-013	An advantage of these two kinds of complexes is that they are prepared by nucleophilic attack of amines to isocyanide gold complexes,[10-12] which provides an easy way to obtain systematic series of chiral carbene gold complexes by simply combining chiral amines or chiral isocyano-gold complexes.
+1-014	The isocyanide ligands are easy to obtain from chiral amines.[13]
+1-015	Following this methodology we have carried out the syn- thesis of some chiral mononuclear or binuclear HBHC or NAC gold(I) complexes and studied their catalytic activity and enantioselectivity in two reactions that have been re- cently reported to be catalyzed by gold catalysts bearing chiral mono or-bidentate phosphane ligands, namely, the cyclopropanation of vinyl arenes[14] and the intramolecular hydroalkoxylation of allenes.[15]
+1-016	Chiral carbene gold(I) com- plexes have not been explored in gold enantioselective cata- lysis, except for one report of some monomeric NHC gold(I) complexes that appeared during the preparation of this paper, where the authors report good yields but low or mode- rate enantioselectivity for the asymmetric cyclization of 1,6-enynes.[16]
+1-017	asymmetric unit is shown).
+1-018	Selected bond lengths (A): Au(1)-Cl(1) = 2.2884(19); Au(1)-C(1)=1.994(8); C(1)-N(2)=1.354(10); C(1)-N(1)=1.297(11); N(3)-H(1A)=1.898.
+1-019	Selected bond angles (deg): C(1)-Au(1)-
+1-020	Cl(1)=173.8(2); N(2)-C(1)-N(1)=118.3(8); N(3)-H(1)-N(1)=133.70.
+2-001	(a).
+2-002	Synthesis and Structural Characterization of Chiral Gold(I) Carbene Complexes.
+2-003	(a.1).
+2-004	Chiral HBHC Gold Complexes.
+2-005	The neutral chiral gold carbene complexes 2-6 (Scheme 1) were prepared by nucleophilic attack to the gold-coordinated isocyanide in [AuCl(CNPy-2)] (1)[6] with different chiral primary amines or diamines.
+2-006	All the gold complexes are air stable white solids.
+2-007	In general, four stereoisomers can be formed for each gold center in gold(I) carbenes derived from primary amines, but only one was observed in the 1H NMR spectra at room temperature in CDCl 3 for complexes 2-6 (also in Me 2CO-d6 for 6).
+2-008	As observed previously for non-chiral HBHCs,[6,7] this confirms the persistence in CDCl3 (and also in Me 2CO-d6) solution of the intramolecular hydro- gen bond between the amide proton and the nitrogen of the 2-pyridyl group, forming a 6-member cycle.
+2-009	The 1H NMR spectra show two N-H signals, one at about 13 ppm and the other at about 9.7 ppm.
+2-010	The chemical shift of the former corresponds to the hydrogen atom involved in the intramolecular hydrogen bonding.
+2-011	This hydrogen inter- action is strong enough to stabilize exclusively the other- wise less favored anti isomer, as shown in Scheme 1.
+2-012	X-ray quality crystals suitable for single crystal diffrac- tion were obtained for (R)-2.
+2-013	There are two independent molecules of complex 2 in the asymmetric unit.
+2-014	The mole- cular structure of one of them (the other is very similar) is shown in Figure 1, with selected bond lengths and angles.
+2-015	The complex shows, as expected, a roughly linear geometry for gold (angle 173.8°).
+2-016	As observed for other HBHCs,[6,7] the Au-Cl distance in 2 is longer than that in [AuCl2]-(2.257 A ),[17] reflecting the high trans influence of the car- bene ligand.[18]
+2-017	The Au-C distance is within the range found for other HBHC gold(I) carbenes.
+2-018	The C(1)-N(2) and C(1)-N(1) distances are much shorter than the normal
+2-019	C(sp[2])-N single bond distance of 1.45 A,[19] which proves an important NfC π-bonding contribution to the bond.
+2-020	The H 333 N(3) distance and the corresponding N(1)-H 333 N(3) angle in the hydrogen bridge are in the range of moderate intramolecular N 333 H hydrogen bonds.[20]
+2-021	(a.2).
+2-022	Chiral NAC Gold Complexes.
+2-023	In this case, the chiral binuclear NAC gold(I) complexes (S)-9 and (S)-10 have been prepared by using a chiral isocyanide gold com- plex (S)-2,20-[NCAuCl]2-binaphthyl ((S)-8), and non-chiral amines of different steric requirements meant to modify the steric hindrance at the gold(I) reaction site (Scheme 2).
+2-024	We have also used the bulkier isocyanide complex (S)-2,20-[NCAuCl]2-3,30-Ph2-binaphthyl ((S)-12), with a phenyl substituent in the 3,30-position of the binaphthyl group, to synthesize (S)-13 and (S)-14.
+2-025	The starting isocyano- gold complexes were obtained from [AuCl(tht)] (tht = tetrahydrothiophene),[21] by substitution of tht with (S)-(þ)-1,10-Binaphthyl-2,20-diisocyanide (7),[22] or with (S)-1,10-Binaphthyl-(3,30-diphenyl)-2,20-diisocyanide (11), as reported for related gold compounds.[23]
+2-026	Ligand 11 was synthesized from (S)-2,20-(3,30-diphenyl)binapthylamine,[24] as reported in the experimental part.
+2-027	The chiral isocyanocomplexes were treated only with secondary amines to reduce the num- ber of possible conformers in the products.
+2-028	The 1H NMR spectra of complexes 9-10 in CDCl 3 show the signals of only one isomer.
+2-029	In contrast, com- pounds 13-14 show a mixture of three isomers, and it is not easy to assign the preferred conformations from the spectroscopic data.
+2-030	X-ray quality crystals suitable for single crystal diffraction were obtained for 9.
+2-031	A perspec- tive view of the molecular structure is given in Figure 2, along with selected bond lengths and angles.
+2-032	The complex shows a nearly linear geometry for gold.
+2-033	The Au-C dis- tance is in the range of distances found for other gold(I) carbenes.
+2-034	As observed for 2, The C(1)-N(2) and C(1)-N(1) distances are similar to other Au(I) carbene com- plexes, and shorter than the C(sp[2])-N single bond dis- tance of 1.45 A, indicating important NfC π-bonding contribution to the bond.
+2-035	Cl(1)=2.268(7); Au(1)-C(1) 1.98(3); C(1)-N(2)=1.40(3); C(1)-N(1)=1.29(2); Au(2)-Cl(2); 2.256(7); Au(2)-C(4) = 2.02(2); C(4)-N(3) = 1.33(2); C(4)-N(4) = 1.36(2).
+2-036	Selected bond angles (deg): C(1)-Au(1)-
+2-037	Cl(1) = 176.8(7); N(2)-C(1)-N(1) = 118(2); C(4)-Au(2)-Cl(2) = 178.7(7); N(3)-C(4)-N(4) = 118.1(19).
+2-038	a Isolated yields. b ee values determined by HPLC analysis on a chiral stationary phase. c P-P* = (R)-DTMB-SEGPHOS.[14]
+2-039	The isomer observed in the X-ray structure displays a syn arrangement of the Au center and the N substituent bearing the naphthyl group, which possibly reduces the steric hindrance in the molecule.
+2-040	The same conformation has been observed in the recently reported structures of the gold(I) carbenes [AuCl{C(NEt2)(NHPy-2)}] and [AuFmes{C(NEt 2)(NHPy-2)}].[6]
+2-041	In the binaphthyl group, the naphthalene rings make a dihedral angle of 75.68°.
+2-042	The absolute configuration of axially dissymmetric 1,10-binaphthyl is S, the same as the precursor (S)-(þ)-1,10-Binaphthyldiisocyanide (7), confirming that, as expected, it is not modified during the reaction.
+2-043	Two catalytic processes were studied: the cyclopropana- tion of vinyl arenes and the intramolecular hydroalkoxyla- tion of allenes.
+2-044	The reactions were carried out under standard conditions (not optimized for the ligand), using 5 equiv% of cationic chiral HBHC and NAC catalysts obtained in situ by
+2-045	Article
+2-046	a Isolated yields. b ee values determined by HPLC analysis on a chiral stationary phase. c P-P* = (S)-DTMB-MeOBIPHEP.[15]
+2-047	treating the corresponding neutral carbene complex with an equimolecular amount of silver salt (AgSbF6 or AgOTs).
+2-048	The reaction of propargyl pivaloate 15 (Table 1) with styrene afforded only the cis-cyclopropane 16 in reasonable yields (53-78%), showing that both HBHC and NAC ligands can be applied in this reaction.
+2-049	The highest enantiomeric excesses in the reaction were obtained for 4 and 5 (Table 1, entries 3 and 4) in the case of HBHC ligands, and for 9 and 10 (Table 1, entries 6 and 7) in the case of NAC ligands.
+2-050	The enantioselectivity found in all the reactions is very poor com- pared with the values reported by Toste et al. using as catalyst the binuclear system (R)-DTBM-SEGPHOS-gold(I) (Table 1, entry 10),[14] but it has to be considered that phosphine cata- lysts (and also NHC systems) are better understood and have been much more elaborated in the past years.
+2-051	In these initial studies of the new HBHC and NAC ligands we see that the best enantioselectivity results, even if modest (11-24% ee), have been obtained with catalysts 4, 5, 9, and 10, all based on the axially dissymmetric 1,10-binaphthyl ligand.
+2-052	Obviously further elaboration of these ligands looks more promising than for mononuclear complexes.
+2-053	For this reason, we hoped that catalysts 13 and 14, based on the bulkier (3,30-diphenyl)-1,10-binaphthyl chiral system might be more enantioselective than 9 and 10, but surprisingly they are clearly worse.
+2-054	Since three conformers are present in solution for 13 and 14, it might happen that they induced opposite enantioselectivity, in detriment of the overall enantiomeric excess.
+2-055	Some chiral gold(I) HBHC and NAC complexes were also checked for the enantioselective hydroalkoxylation of the γ-hydroxyallene 17, and the results are gathered in Table 2.
+2-056	Again, the best enantioselectivity results (22 and 20% ee, Table 2, entries 3 and 4) are obtained with 4 and 9.
+2-057	This result is similar to those obtained using binuclear complexes of the type μ-(P-P*)[AuCl]2 with 2,2-bis(diarylphosphino)-biphenyl ligands such as binap or (3,5-xylyl)binap, but much lower that those obtained using the bulkier (S)-DTMB-MeOBI- PHEP as the chiral ligand (Table 2, entry 6).[15]
+3-001	This study confirms the catalytic possibilities of the HBHC and NAC gold systems that we have recently introduced in gold catalysis as alternatives to phosphine and NHC ligands.
+3-002	In effect, the results show that the gold(I) complexes with these ligands are compatible with the conditions and reagents involved
+3-003	Inorganic Chemistry, Vol. 49, No. 21, 2010 9761
+3-004	in the cyclopropanation of vinyl arenes and the intramole- cular hydroalkoxylation of allenes.
+3-005	Moreover, it is demon- strated that enantioselectivity can be induced with these two kinds of ligands.
+3-006	Certainly the enantiomeric excesses are still poor.
+3-007	This is due to the linear coordination of gold,[25] which places the reactive coordination site far away from the ancillary chiral ligand.
+3-008	However, this is the same problem encountered initially with phosphine and NHC ligands, which have been continuously improved in the past years after successive structural elaborations.
+3-009	Only a few ligand variations have been tested in our initial studies, where the purpose was not still to find optimized conditions for a specific synthesis, but to explore the applicability of these ligand types.
+3-010	The fact that introducing structural and electronic variations in the NAC ligands is easier (particularly for the NAC ligands) than in phosphines or NHCs offers many opportunities for a more flexible tuning of these ligand to the demands of specific rea- gents, and holds a promise for improved activity and enan- tioselectivity.
+3-011	Here we find that dinuclear gold complexes offer higher enantioselectivity and are, in principle, the struc- tures of choice for further elaboration.
+4-001	General Conditions.
+4-002	In general the reactions were carried out under dry N2, but the cyclopropanation of styrene was carried out in the air without problem.
+4-003	The solvents were purified accor- ding to standard procedures.
+4-004	[AuCl(tht)],[21][AuCl(CNPy-2)] (1),[6] and (S)-2,20-(3,30-diphenyl)binapthylamine24were prepared accor- ding to literature procedures.
+4-005	The rest of the reactants are com- mercially available.
+4-006	Infrared spectra were recorded in Perkin-Elmer 883 or 1720X equipment.
+4-007	NMR spectra were recorded with Bruker AC300, ARX 300 and Bruker Avance 400 Ultrashield instruments.
+4-008	1H NMR spectra are referred to TMS.
+4-009	Elemental ana- lyses were performed with a Perkin-Elmer 2400B microanalyzer.
+4-010	(R)-[AuCl{C(NH(CHMePh))(NHPy-2)}] ((R)-2).
+4-011	(R)-(þ)-R-Methylbenzylamine (154 μL, 1.19 mmol) was added to a solu- tion of 1 (0.200 g, 0.59 mmol) in CH2Cl2 (20 mL) and the resul- tant solution is stirred at room temperature.
+4-012	After 45 min, the solution did not show ν(CtN) IR absorption.
+4-013	The volatiles were removed, the white residue was recrystallized in CH2Cl2/n-hexane.
+4-014	The white solid obtained was washed with n-hexane (310 mL) and vacuum-dried, yielding 0.210 g (78%).
+4-015	1H NMR (300 MHz, CDCl3, 295 K), δ: 12.87 (d, J = 8.1 Hz, 1H, NH(CH3)CH(C6H5)), 9.53 (br, 1H, NHC 5H4N), 8.25 (d, 1H, J = 1.2 Hz, NHC 5H4N), 7.73 (m, 1H, NHC5H4 N), 7.50-7.20 (m, 5H, NH(CH3 )CH-(C 6H5)), 7.17 (m, 1H, NHC5H4N), 7.08 (m, 1H, NHC 5H4N), 5.44 (dq, J =8.3, 6.8 Hz, 1H, CH), 1.71 (d, J=6.8 Hz, 3H, CH- CH3 ).
+4-016	[R]D[25] -94.0(c 1, CHCl3).
+4-017	Anal. Calcd for C14H15-N 3ClAu: C, 36.74; H, 3.30; N, 9.18.
+4-018	Found: C, 37.09; H, 3.15; N, 9.17.
+4-019	(S)-[AuCl{C(NH(CHMe(1-Naphthyl)))(NHPy-2)}] ((S)-3).
+4-020	(S)-(-)-1-(1-naphthyl)ethylamine (60 μL, 0.37 mmol) was added to a solution of 1 (0.118 g, 0.35 mmol) in CH2Cl2 (20 mL), and the resultant solution was stirred at room temperature.
+4-021	Work up as for 2 yielded 0.153 g of a white solid (86%).
+4-022	1H NMR (300 MHz, CDCl3, 295 K), δ: 12.98 (d, J=8.3 Hz, 1H, NH(CH3 )CH-(C 10H7), 9.86 (br, 1H, NHC 5H4N), 8.24 (m, 1H, NHC5H4N), 8.17 (m, 1H, C10H7), 7.75 (m, 1H, NHC5H4N), 7.70 (m, 2H, C10H7), 7.35 (m, 3H, C10H7), 7.30 (m, 1H, NHC5H4N), 7.17 (m, 1H, NHC 5H4N), 7.03 (m, 1H, NHC5H4N), 6.13 (dq, J=7.7, 6.8 Hz,
+4-023	1H, CH), 1.84 (d, J=6.8 Hz, 3H, CHCH3).
+4-024	[R]D25þ147.0(c 0.5, CHCl3 ).
+4-025	Anal. Calcd for C18H17AuClN3: C, 42.58; H, 3.37; N, 8.28.
+4-026	Found: C, 42.91; H, 3.46; N, 7.77.
+4-027	(S)-2,20-bis[NH{C(AuCl)(NHPy-2)}]2-binaphthyl ((S)-4).
+4-028	(S)-(-)-1,10-binapthyl-2,20-diamine (15 mg, 0.053 mmol) was added to a solution of 1 (0.034 g, 0.1 mmol) in THF (10 mL).
+4-029	Work up as for 2 yielded 0.030 g of a white solid (61%).
+4-030	1H NMR (400 MHz, CDCl3, 295 K), δ: 14.22 (s, 2H, NH-Binaphthyl), 10.25 (s, 2H, NHC5H4N), 8.22 (d, J = 8.0 Hz, 2H, binaphthyl), 7.95 (dd, J = 8.8, 8.0 Hz, 2H, binaphthyl), 7.60 (t, J = 9.0 Hz, binaphthyl), 7.58 (m, 2H, NH- C5H4N), 7.43 (m, 6H, binaphthyl), 7.01 (m, d, J = 8.0 Hz, NH- C5H4N, 2H), 6.70 (m, 2H, NHC5H4N), 6.56 (m, 2H, binaphthyl).
+4-031	[R] D[25] þ192.0(c 1, CHCl3).
+4-032	Anal. Calcd for C32H24Au2Cl2N6: C, 40.14; H, 2.53; N, 8.78.
+4-033	Found: C, 40.25; H, 2.80; N, 9.08.
+4-034	(1R,2R)-1,2-bis[NH{C(AuCl)(NHPy-2)}]-diphenylethane ((1R, 2R)-5).
+4-035	(1R, 2R)-(þ)-1,2-diphenylethane-1,2-diamine (0.035 g, 0.165 mmol) was added to a solution of 1 (0.101 g, 0.33 mmol) in CH2Cl2 (30 mL).
+4-036	Work up as for 2 yielded 0.115 g of a white solid (85%).
+4-037	1H NMR (400 MHz, Me2 CO-d6, 295 K), δ: 13.82 (s, 2H, NH), 10.33 (s, 2H, NHC5H 4N), 8.56 (d, J = 4.0 Hz, 2H, C 5H4N), 7.90 (m, 2H, C5H4N), 7.40-7.15 (m, 14H, C6 H5 and NHC 5H4 N), 6.00 (m, 2H, C6H5CH,).
+4-038	Anal. Calcd for C 26H24-Au2 Cl2N6: C, 35.27; H, 2.73; N, 9.49.
+4-039	Found: C, 36.14; H, 2.85; N, 8.99.
+4-040	[R] D[25] þ6.0(c 1, Me2CO).
+4-041	(1R,2R)-1,2-bis[NH{C(AuCl)(NHPy-2)}]-cyclohexane ((1R, 2R)-6).
+4-042	(1R, 2R)-(-)-1,2-diaminecyclohexane (0.020 g, 0.165 mmol) was added to a solution of 1 (0.101 g, 0.33 mmol) in CH2Cl2 (30 mL).
+4-043	Work up as for 2 yielded 0.071 g of a white solid (58%). 1 H NMR (400 MHz, Me2CO-d6, 295 K), δ: 12.93 (s, 2H, NH), 10.13 (s, 2H, NHC5H4N), 8.53 (d, J=4.0 Hz, 2H, C5H4N), 7.86 (m, 2H, C5H4N), 7.20 (m, 4H, NHC5H4N), 4.41 (m, 2H, NCH(CH2)4CHN), 2.28 (m, 2H, NCH(CH2)4CHN), 1.80 (m, 2H, NCH(CH2)4CHN), 1.70 (m, 2H, NCH(CH2)4CHN), 1.50 (m, 2H, NCH(CH2)4CHN).
+4-044	Anal. Calcd for C18H22Au2Cl2N6: C, 27.46; H, 2.82; N, 10.68.
+4-045	Found: C, 27.52; H, 2.94; N, 10.34.
+4-046	[R] D[25] -153.4(c 1, Me2CO).
+4-047	(S)-(þ)-1,10-Binaphthyl-2,20-diisocyanide (7).
+4-048	Formic acid (64 μL, 1,69 mmol) was added to a 0 °C acetic anhidride (129 μL, 1.37 mmol).
+4-049	After the addition, the solution was stirred at 50 °C for 2 h and then cooled to room temperature.
+4-050	THF (1.5 mL) was added, the solution was cooled down to 0 °C, and (S)-(-)-1,10-binapthyl-2,20-diamine (150 mg, 0.528 mmol) was added and after 20 min the mixture was allowed to warm to ambient temperature and be stirred for 4 h.
+4-051	Then, the volatiles were pumped off, and the crude for- mamide was purified by dissolving it in n-hexane:ethyl acetate (1:1) and passing the solution through silicagel.
+4-052	The volatiles were pum- ped off, and the solid was crystallized in dichloromethane/pentane.
+4-053	The white solid obtained was washed with pentane (3 10 mL) and vacuum-dried, yielding 0.164 g (91%) of 2,20-binaphthyldiforma- mide that was used in the subsequent transformation.[26]
+4-054	To a solution of (S)-(-)1,10-binapthyl-2,20-diformamide (1.394 g, 4.094 mmol) and triethylamine (2.3 mL, 16.38 mmol) in 50 mL of di- chloromethane, a solution of trichloromethylcarbonate (triphosgene) (0.850 g, 2.87 mmol) in 10 mL of dichloromethane was added drop- wise.
+4-055	The mixture was stirred for 3 h and then the solvent was removed on a rotary evaporator.
+4-056	The resulting residue was chro- matographed (silica gel, diethylether/hexane, 5:1 as eluent), and the solvent was evaporated to obtain the product as a white solid.
+4-057	(74% yield).
+4-058	IR: 2118 cm-1 ν(CtN).
+4-059	1H NMR (300 MHz, CDCl3, 295 K), δ: 8.08 (d, J=8.7 Hz, 2H), 8.00 (d, J=8.5 Hz, 2H), 7.67 (d, J=8.7 Hz, 2H), 7.60 (dd, J=7.0, 8.5 Hz, 2H), 7.41 (dd, J=7.0, 8.5 Hz, 2H), 7.16 (d, J=8.5 Hz, 2H).
+4-060	Anal. Calcd. for C22H12N2: C, 86.82; H, 3.97; N, 9.20.
+4-061	Found: C, 86.37; H, 4.12; N, 9.46.
+4-062	[R] D[25] þ66(c 1, benzene).
+4-063	(S)-2,20-[NCAuCl]2-binaphthyl ((S)-8).
+4-064	A 0.250 g portion of 7 (0.82 mmol) was added to a solution of [AuCl(tht)] (0.527 g, 1.64 mmol) in dichloromethane (20 mL).
+4-065	After 15 min of stirring at
+4-066	room temperature the volatiles were pumped off, and the pale gray residue was washed with n-hexane (3 5 mL) and crystal- lized from dichloromethane/n-hexane.
+4-067	The white solid obtained was decanted, washed with n-hexane (3 5 mL) and vacuum- dried, yielding 0.567 g (73%).
+4-068	IR: 2217 cm-1 ν(CtN).
+4-069	1H NMR (300 MHz, CDCl 3, 295 K), δ: 8.24 (d, J = 8.8 Hz, 2H), 8.11 (d, J =8.3 Hz, 2H), 7.88 (d, J=8.8 Hz, 2H), 7.76 (ddd, J=8.1, 6.8, 1.1 Hz, 2H), 7.53 (ddd, J = 8.1, 6.8, 1.1 Hz, 2H), 7.17 (dd, J = 8.6, 6.8 Hz, 2H).
+4-070	[R]D[25] -5.0(c 1, CHCl3).
+4-071	Anal. Calcd. for C 22H12N2Au2Cl2: C, 34.35; H, 1.57; N, 3.64.
+4-072	Found: C, 34.51; H, 1.80; N, 3.65.
+4-073	(S)-2,20-bis[NH{C(AuCl)(NMe2)}]2-binaphthyl ((S)-9).
+4-074	Di- methylamine (150 μL, 0.26 mmol) was added to a solution of 8 (0.100 g, 0.13 mmol) in THF (15 mL), and the resultant solution was stirred at 40 °C. After 3 h, the solution did not show ν(CtN) IR absorption.
+4-075	Work up as for 2 yielded 0.084 g of a white solid (75%).
+4-076	1H RMN (400 MHz, Me2CO-d6, 295 K): δ (ppm) 8.17-8.10 (m, 4H), 8.07 (d, J = 8.1 Hz, 2H), 7.99 (br, 2H, NH), 7.54 (ddd, J = 15.1, 7.1, 0.8 Hz, 2H), 7.31 (ddd, J = 15.3, 8.3, 0.8 Hz, 2H), 6.99 (d, J = 7.9 Hz, 2H), 3.64 (s, 6H, N(CH3 )2), 2.69 (s, 6H, N(CH3)2 ).
+4-077	[R]D[25] -121.0(c 1, CHCl3).
+4-078	Anal. Calcd for C 26H26 Au2Cl 2N 4: C, 36.34; H, 3.05; N, 6.52.
+4-079	Found: C, 35.93; H, 2.95; N, 6.28.
+4-080	(S)-2,20-bis[NH{C(AuCl)(NiPr 2)}]2-binaphthyl ((S)-10).
+4-081	Iso- propylamine (29 μL, 0.203 mmol) was added to a solution of 8 (0.071 g, 0.092 mmol) in THF (15 mL), and the resultant solu- tion was stirred at 40 °C. After 3 h, the solution did not show ν(CtN) IR absorption.
+4-082	Work up as for 2 yielded 0.072 g of a white solid (80%).
+4-083	1H NMR (400 MHz, CDCl3, 295 K): δ (ppm) 8.44 (d, J = 12.0 Hz, 2H), 8.10 (d, J = 8.0 Hz, 2H), 7.99 (d, J = 12.0 Hz, 2H), 7.54 (t, J = 8.0 Hz, 2H), 7.44 (t, J = 8.0 2H), 7.29 (d, J = 8.0 Hz, 2H), 7.19 (br, 2H, NH), 5.21 (m, 2H, N{CH-(CH3)2}), 3.52 (sep, J=4.0 Hz, 2H, N{CH(CH3) 2}), 1.27 (d, J = 4.0 Hz, 6H, N{CH(CH3)2 }), 1.18 (d, J = 8.0 Hz, 6H, N{CH-(CH3)2}), 0.78 (d, J =12.0 Hz, 6H, N{CH(CH3)2}), 0.43 (d, J = 8.0 Hz, 6H, N{CH(CH3)2}).
+4-084	[R]D[25] -171.0(c 1, CHCl3).
+4-085	Anal. Calcd for C34H42Au2Cl2 N4: C, 42.03; H, 4.36; N, 5.77.
+4-086	Found: C, 42.65; H, 4.06; N, 5.30.
+4-087	(S)-1,10-Binaphthyl-(3,30-diphenyl)-2,20-diisocyanide (11).
+4-088	Formic acid (72 μL, 1,91 mmol) was added to a 0 °C acetic anhidride (146 μL, 1.55 mmol).
+4-089	After the addition, the solution was stirred at 50 °C for 2 h and then cooled to room temperature.
+4-090	THF (1.5 mL) was added, the solution was cooled down to 0 °C, and (S)-2,20-(3,30-diphenyl)-binapthylamine[24] (261 mg, 0.597 mmol) was added and after 20 min the mixture was allowed to warm to ambient temperature, stirred for 10 h, and kept stirring at 50 °C for 2 h.
+4-091	Then, the volatiles were pumped off, and the crude formamide was chromatographed (silica gel, n-hexane:ethyl acetate 1:1 as eluent) yielding 0.215 g (73%) of 2,20-(3,30-diphenyl)binaphthyldiformamide that was used in the sub- sequent transformation.[26]
+4-092	To a solution of (S)-2,20-(3,30-diphenyl)-binaphthyldiformamide (0.190 g, 0.386 mmol) and triethylamine (215 μL, 16.38 mmol) in 16 mL of dichloromethane, a solution of trichloromethylcarbonate (triphosgene) (0. 084 g, 0.283 mmol) in 10 mL of dichloromethane was added dropwise.
+4-093	The mixture was stirred for 3 h, and then the solvent was removed on a rotary eva- porator.
+4-094	The resulting residue was chromatographed (silica gel, CH2Cl2/hexane, 1:3 as eluent), and the solvent was evaporated to obtain the product as a white solid yielding 0.143 g (81%).
+4-095	IR (THF): 2114s cm-1 (CtN).
+4-096	1H NMR (300 MHz, CDCl3, 295 K), δ: 8.09 (s, 2H), 8.00 (d, J = 8.4 Hz, 2H), 7.69 (m, 4H), 7.61 (m, 2H), 7.53 (m, 4H), 7.47 (m, 2H), 7.42 (m, 2H), 7.23 (d, J=8.4 Hz, 2H).
+4-097	Anal. Calcd. for C34H20N2: C, 89.45; H, 4.42; N, 6.14.
+4-098	Found: C, 89.38; H, 4.54; N, 5.68.
+4-099	[R]D[25] þ117.0(c 1, CHCl3).
+4-100	(S)-2,20-[NCAuCl]2-3,30-Ph2-binaphthyl ((S)-12).
+4-101	A 0.100 g portion of 11 (0.219 mmol) was added to a solution of [AuCl-(tht)] (0.140 g, 0.438 mmol) in THF (20 mL).
+4-102	After 15 min of stirring at room temperature the volatiles were pumped off, and the pale gray residue was washed with n-hexane (3 5 mL) and crystallized from dichloromethane/n-hexane.
+4-103	The white solid
+4-104	obtained was decanted, washed with n-hexane (3 5 mL), and vacuum-dried, yielding 0.174 g (86%).
+4-105	IR: 2211s ν(CtN).
+4-106	1H NMR (400 MHz, CDCl3, 295 K), δ: 8.23 (s, 2H), 8.14 (d, J = 8.0 Hz, 2H), 7.78 (t, J = 8.0 Hz, 2H), 7.57 (m, 10H), 7.52 (t, J = 8.0 Hz, 2H), 7.31 (t, J = 8.0 Hz, 2H).
+4-107	Anal. Calcd. for C34H20-N 2Au2Cl2: C, 44.32; H, 2.19; N, 3.04.
+4-108	Found: C, 43.95; H, 2.15; N, 2.96.
+4-109	(S)-2,20-bis[NH{C(AuCl)(NMe2)}]2-3,30-Ph2-binaphthyl ((S)-13).
+4-110	Dimethylamine (6.33 μL of a 2 M solution in THF, 0.120 mmol) was added to a solution of 12 (50 mg, 0.054 mmol) in THF (15 mL), and the resultant solution was stirred at room temperature until the solution did not show ν(CtN) IR absorption.
+4-111	Work up as for 2 yielded 0.027 g of a white solid (50%).1H NMR (400 MHz, CDCl3 , 295 K), δ: 8.11 (s, 2H, major), 8.08 (s, 2H, minor), 8.07 (s, 2H, minor), 8.03 (d, J=3.0 Hz, 2H), 7.86 (d, J=3.0 Hz, 2H),
+4-112	7. 96 (d, J = 3.0 Hz, 2H), 7.70-7.20 (m, 16H), 7.00 (s, 2H, NH, minor), 6.45 (s, 2H, NH, major), 6.41 (s, 2H, NH, minor), 3.29 (s, 6H, N(CH3 )2, major), 3.16 (s, 6H, N(CH3 )2, minor), 3.0 (s, 12H, N(CH3)2 , minor), 2.40 (s, 12H, N(CH3)2 , major), 2.35 (s, 12H, N(CH3)2, minor), 1.94 (s, 12H, N(CH3)2, minor).
+4-113	Stereo- isomeric ratio: 2:1:1.
+4-114	[R] D[25] -96.0(c 0.5, CHCl3).
+4-115	Anal. Calcd. for C38H34N4Au2Cl2: C, 45.12; H, 3.39; N, 5.54.
+4-116	Found: C, 45.34; H, 3.01; N, 5.46.
+4-117	(S)-2,20-bis[NH{C(AuCl)(NEt2)}]2-3,30-Ph2-binaphthyl ((S)-14).
+4-118	Diethylamine (7.4 μL, 0.072 mmol) was added to a solution of 12 (30 mg, 0.032 mmol) in THF (10 mL), and the resultant solution was stirred at room temperature until the solution did not show ν(CN) IR absorption.
+4-119	Work up as for 2 yielded 0.020 g (58%) of a white solid.
+4-120	1H NMR (400 MHz, CDCl3, 295 K), δ: 8.14 (s, 2H), 8.10 (s, 2H), 8.05 (s, 2H), 8.04 (d, J = 4.0 Hz, 2H), 7.99 (d, J = 4.0 Hz, 2H), 7. 96 (d, J = 4.0 Hz, 2H), 7.70-7.10 (m, 16H), 6.94 (s, 2H, NH), 6.50 (s, 2H, NH), 6.39 (s, 2H, NH), 3.93 (m, 2H, N(CH2CH3)2), 3.63 (m, 4H, N(CH2CH3)2), 3.47 (m, 2H, N(CH2CH3)2), 3.35 (m, 2H, N(CH2CH3)2), 3.55 (m, 2H, N(CH2-CH3)2), 3.10 (m, 2H, N(CH2CH3)2), 2.70 (m, 4H, N(CH2CH3)2), 2.65 (m, 2H, N(CH2CH3)2 ), 2.57 (m, 2H, N(CH2CH3)2),2.10 (m, 2H, N(CH2CH3)2 ), 0.70 (m, 12H, N(CH2 CH3)2), 0.58 (t, J=7.0 Hz, 6H, N(CH2 CH3 )2), 0.23 (t, J = 7.0 Hz, 6H, N(CH2 -CH3)2), 0.12 (t, J =7.0 Hz, 6H, N(CH2CH3)2), -0.01 (t, J=7.0 Hz, 6H, N(CH2CH3)2).
+4-121	Stereoisomeric ratio: 1:1:1.
+4-122	[R]D[25]-125.0(c 0.5, CHCl3).
+4-123	Anal. Calcd. for C42H42N4 Au2Cl2: C, 47.25; H, 3.97; N, 5.25.
+4-124	Found: C, 47.17; H, 4.27; N, 5.17.
+4-125	Experimental Procedure for X-ray Crystallography.
+4-126	Suitable single crystals of 2 and 9 were obtained by layering hexane in a THF solution of the corresponding compound.
+4-127	Crystals were mounted in glass fibers, and diffraction measurements were made using a Bruker SMART CCD and Varian Supernova area- detector diffractometers with Mo-Ka radiation (λ=0.71073 A).[27]
+4-128	Intensities were integrated from several series of exposures, each exposure covering 0.3° in ω, the total data set being a hemi- sphere.[28]
+4-129	Absorption corrections were applied, based on multi- ple and symmetry-equivalent measurements.[29]
+4-130	The structures were solved by direct methods and refined by least-squares on weighted F[2] values for all reflections (see Table 3).[30]
+4-131	All non-
+4-132	X-ray Instruments Inc.: Madison, WI, 1998.
+4-133	(b) CrysAlisPro, Version 1.171.33.48;
+4-134	Oxford Diffraction Ltd.: Abingdon, U.K.
+4-135	ments Inc.: Madison, WI, 1999.
+4-136	(b) CrysAlisPro, Version 1.171.33.48; Oxford Diffraction Ltd.: Abingdon, U.K.
+4-137	Instruments Inc.: Madison, WI, 1998.
+4-138	X-ray diffraction, normalized H atom positions were used.
+4-139	An N-H
+4-140	distance of 1.009 A was imposed.
+4-141	This value has been observed in amines by neutron diffraction: Allen, F. H.; Kennard, O.; Watson, D. G.; Brammer,
+4-142	L.; Orpen, A. G.; Taylor, R. J. Chem.
+4-143	Soc., Perkin Trans. 2 1987, S1.
+4-144	(mm-1)
+4-145	F(000) 1727 1608
+4-146	crystal size (mm) 0.3345 0.3196 0.20 0.04 0.04 0.0834
+4-147	hydrogen atoms were assigned anisotropic displacement para- meters and refined without positional constraints.
+4-148	All the hydrogen atoms, including those involved in hydrogen bonding, were calculated with a riding model.[31]
+4-149	Complex neutral-atom scatter- ing factors were used.[32]
+4-150	Crystallographic data (excluding struc- ture factors) for the structures reported in this paper have been deposited with the Cambridge Crystallographic Data Centre as Supplementary publications with the deposition numbers CCDC-777502 for 2 and CCDC-777503 for 9.
+4-151	Copies of the data can be obtained free of charge on application to the CCDC, 12 Union Road, Cambridge CB2 1EZ, U.K.
+4-152	[Fax: (internat.) þ 44-1223/336-033; E-mail: deposit@ccdc.cam.ac.uk].
+4-153	General Procedures for the Catalytic Reactions.
+4-154	All the reac- tions were carried out under N2 in solvents dried using a Solvent Purification System (SPS).
+4-155	Thin layer chromatography (TLC) was carried out using TLC-aluminum sheets with 0.2 mm of silica gel (Merck 60 F254).
+4-156	Chromatography purifications were carried out using flash grade silica gel (SDS S-2 Chromatogel 60 ACC, 40-60 μm).
+4-157	NMR spectra were recorded at 25 °C on a Bruker Avance 400 Ultrashield. 2,2-Diphenyl-4,5-hexadien-1-ol,[33] and propargyl pivaloate,[34] were synthesized employing published procedures.
+4-158	Chiral HPLC was performed on a Hewlett- Parkard chromatograph equipped with a 25 cm Chiracel OD-H column.
+4-159	Intramolecular Hydroalkoxylation of 2,2-Diphenyl-4,5-hexa- dien-1-ol.
+4-160	A mixture of the neutral gold carbene (0.05 equiv) and AgOTs (0.05 equiv) in toluene (1 mL) was stirred at room temperature for 10 min, and treated with 2,2-diphenyl-4,5-hexadien-1-ol (1 equiv) in toluene.
+4-161	The resulting suspension was stirred at room temperature and followed by TLC.
+4-162	Column chromatography of the reaction mixture (hexane/EtOAc 20:1) gave 2-vinyltetrahydrofurane as a colorless oil.
+4-163	Cyclopropanation of Styrene with Propargyl Pivaloate.
+4-164	The gold catalyst was generated by mixing the corresponding neutral gold carbene (0.05 equiv), AgSbF6 (0.05 equiv), and NO2 Me (3 mL) and stirring at room temperature for 10 min.
+4-165	Then, propargyl pivaloate (1 equiv) in NO 2Me (3 mL) and styrene (4 equiv) were added.
+4-166	The resulting suspension was stirred at room temperature and followed by TLC.
+4-167	The resulting mixture was concentrated and column chromatography purified (hexane/Et2 O 97:3) to yield the analytically pure cyclopropane.

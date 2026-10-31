@@ -1,0 +1,272 @@
+# document_id: cm5b03197
+# extractor: kordoc-markdown-adapter-1
+1-001	efficiencies (PCEs) in excess of 8−10% for single junction solar
+1-002	■ 11−19
+1-003	cells.
+1-004	However, there still have been few reports of Polymer-based organic field effect transistors (OFETs) and
+1-005	polymers that perform well in both OTFTs and OPVs, due to organic photovoltaics (OPVs) have gained considerable
+1-006	their discrepancies in device architectures and charge transport attention over the past few decades due to their potential for
+1-007	directions.
+1-008	The development of such versatile polymers could lightweight, solution processability and mechanical flexibility,
+1-009	be beneficial for applications that incorporate both types of which possess huge commercial potential to be manufactured
+1-010	devices.
+1-011	using low-cost, high-throughput processes such as roll-to-roll
+1-012	To efficiently absorb solar irradiation, the conjugated printing and inkjet printing.
+1-013	In order to improve the electronic
+1-014	π-delocalization of conjugated polymers, the donor−acceptor backbone in combination with bislactam-based quinoidal chromophoric moieties, such as diketopyrrolopyrrole (DPP), (D−A) alternating copolymers has become an efficient strategy
+1-015	for obtaining low-bandgap conjugated polymers and modulat- isoindigo (IIG), and thienoisoindigo (TIIG), has been evident ing their optoelectronic properties because of the easy tuning of from many recent studies of high-performance materials for their bandgap, absorption spectra, and HOMO energy level by OFET and OPV applications.
+1-016	Their planar structures were 1−10 promoted by nonbonding Coulombic interactions (e.g., S···O using different donor and acceptor units in the copolymers.
+1-017	It is believed that the intramolecular charge transfer (ICT) and interactions for DPP and TIIG) in single moiety, which can polar interaction between the D−A moieties are able to reduce steric hindrance.[20,21]
+1-018	The aromatic moieties or fused improve interchain packing and charge delocalization of
+1-019	polymer chains, which can further enhance the charge transport Received: August 18, 2015
+1-020	ability.
+1-021	Thus, the development of low bandgap polymer donors Revised: September 23, 2015
+1-022	has meanwhile aided the boost of solar cell power conversion Published: September 23, 2015
+1-023	© 2015 American Chemical Society 6837 DOI: 10.1021/acs.chemmater.5b03197 Chem.
+1-024	Mater. 2015,27,6837−6847
+1-025	thiophene rings are favorable for the strong π-stacked structure leading to high crystallinity and high electrical performance.
+1-026	Given the enormous combinations of different conjugated moieties, detailed knowledge of how specific chemical moieties and structures translate to material properties remains limited.
+1-027	Thus, comprehending the influences of specific chemical moieties on material and device properties is still essential to facilitate the development of high performing materials.
+1-028	In this context, IIG analogues, including small molecules and polymers, show great potential for OPV and OFET applications.
+1-029	Nevertheless, the structure of IIG was reported with steric repulsion between the hydrogens on the phenyl rings and the oxygens of the oxindoles, contributing to its slightly twisted structure.[22]
+1-030	To improve the planarity, the TIIG, in which the outer phenyl rings of IIG were replaced with thiophenes, was recently developed for incorporation with the strong intramolecular S···O interactions as well as the quinoidal structure to further enhance both the planarity and the charge delocalization along the backbone, resulting in a better molecular packing and higher charge carrier mobilities.
+1-031	The highest hole mobility of TIIG-based conjugated polymers was recorded over 14.4 cm2 V−1 s−1,[23] which was controlled with device geometries and packing distributions in the thin film.
+1-032	Despite its great progress in OFET application, very few examples of TIIG-based D−A copolymers for OPVs have been reported.
+1-033	The high-lying HOMO energy levels of TIIG-based materials were not desirable for the high open circuit voltage (Voc) in OPV devices.
+1-034	Only few end-capped D−A small molecules incoorperated with triphenylamine or phenyl- carbazole were reported with power conversion efficiency up to 2.2% due to their deep low-lying HOMO energy levels, despite their weak light harvesting propeties.[24]
+1-035	However, the enhanced absorption characteristics and packing behaviors of TIIG-based materials allow for a more precise analysis of the structure−function relationships compared to the original IIG-based materials.
+1-036	Recently, a series of D−A copolymers containing benzodithiophene (BDT) and IIG moieties were already reported to show potential performance in either OFET or OPV devices.[24,25]
+1-037	These copolymers showed solar cell efficiency in a range of 2.8−7.3%, contributed by different
+1-038	thiophene spacers between the D and A building blocks.[26]
+1-039	On the other hand, the improvement of absorption coefficient and effective tuning of the HOMO energy level in BDT-based conjugated polymers suggest that 4,8-bis(5-(2-ethylhexyl)-thiophen-2-yl)benzo[1,2-b:4,5-b′]dithiophene (2D-BDT) moi- ety is a promising building block for constructing conjugated polymers in OPV applications.[27]
+1-040	As a result, on the basis of the reported performance of the IIG-based polymers, the TIIG unit should be another promising building block to further compare the coplanarity effect on the molecular packing order and optoelectronics properties of polymers.
+1-041	Herein, we report on the synthesis and characterization of 2D-BDT-containing D−π−A copolymers (PBDT-IIG and PBDT-TIIG) coupled with either IIG or TIIG moieties as well as the thiophenes π-spacers, which are the candidates for both high performing OFETs and OPVs.
+1-042	The inserted thiophenes between D and A moieties can support the polymer backbone to release the steric hindrance from adjacent building blocks, which could encourage us to scrutinize the effects on the IIG- and TIIG-copolymer backbones.
+1-043	The charge transport characteristics would be further addressed to compare the polymer orientations on surface-treated substrates.
+1-044	We found that the optical absorption, frontier orbital energy levels, coplanarity, crystallinity, solubility, film morphology, charge carrier mobility, and solar cell performance of these two copolymers are significantly affected by the plural heteroarenes in the A subunits.
+1-045	These results provide insight into the effects of heteroarenes on the solid state structure and optoelectronic properties of conjugated polymers used in solution-processed OFETs and OPVs.
+1-046	OFETs made from PBDT-IIG and PBDT-TIIG are shown here to exhibit hole carrier mobilities of 0.1 and 0.07 cm2 V−1 s−1, respectively, while applied in solar cells, PBDT-IIG and PBDT-TIIG blended with [6,6]-phenyl-C71 -butyric acid methyl ester (PC71BM) have yielded promising PCEs of 5.86% and 2.55%, respectively.
+1-047	Our findings are able to demonstrate clear methodology for molecular design toward OFET and OPV applications for the IIG analogues.
+1-048	PBDT-IIG
+1-049	PBDT-TIIG
+1-050	a
+1-051	21
+1-052	34
+1-053	2.6
+1-054	2.8
+1-055	56
+1-056	76
+1-057	380
+1-058	411
+1-059	359,446,625
+1-060	463,826,854
+1-061	367,456,631,678
+1-062	466,833,856
+1-063	−5.38
+1-064	−4.96
+1-065	−3.35
+1-066	−3.29
+1-067	2.03 1.59
+1-068	1.67 1.05
+1-069	bElectrochemical
+1-070	HOMO and LUMO levels were estimated from the onset of the oxidation and reduction peaks of the cyclic voltammogram.
+1-071	bandgap calculated from the cyclic voltammogram. c
+1-072	−vis spectrum of the film.
+1-073	Optical bandgap estimated from the onset of the UV
+2-001	■
+2-002	The chemical structures and synthetic routes of PBDT-IIG and PBDT-TIIG are shown in Scheme 1.
+2-003	The polymer structure incorporates 2D-BDT and IIG or TIIG with long, branched 2- octyldodecyl alkyl groups being used to ensure good solubility
+2-004	of the polymer even at high molecular weight.
+2-005	Detailed experimental procedures for the synthesis of the monomers and polymers are given in the Experimental Section and Supporting Information.
+2-006	These two polymers were prepared by Stille cross- coupling reactions with tris(dibenzylideneacetone)dipalladium (Pd2(dba)3 ) and tri(o-tolyl)phosphine (P(o-tol)3) as catalysts under microwave heating conditions to obtain the PBDT-IIG
+2-007	and PBDT-TIIG copolymers.
+2-008	Crude polymers were purified by
+2-009	the Soxhlet extraction with methanol, hexane, and chloroform, respectively.
+2-010	The chloroform fraction was concentrated and precipitated into methanol to obtain the target copolymers.
+2-011	The number-average molecular weights (Mn) of the synthesized PBDT-IIG and PBDT-TIIG copolymers were determined by
+2-012	gel permeation chromatography (GPC) against polystyrene standards in a THF eluent and were found to be 21 and 34
+2-013	kDa, with polydispersity indices of 2.6 and 2.8, respectively.
+2-014	The thermal stability of these copolymers was investigated by thermal gravimetric analysis (TGA) under a nitrogen atmosphere at a heating rate of 10 °C min−1.
+2-015	Table 1 lists
+2-016	5% weight loss temperatures (Td ) of these copolymers
+2-017	determined from TGA curves (Figure S1).
+2-018	Both copolymers exhibit excellent thermally stability with a Td above 380 °C. Through differential scanning calorimetry (DSC) measure- ments, the glass transition temperatures (Tg) of PBDT-IIG and PBDT-TIIG were observed to be 56 and 76 °C, respectively.
+2-019	PBDT-TIIG copolymer shows a higher Tg probably because of
+2-020	the higher chain rigidity of the polymer backbone.
+2-021	The UV−vis absorption spectra of PBDT-IIG and PBDT-
+2-022	TIIG in DCB solution and as thin films are shown in Figure 1, while Table 1 summarizes the relevant data.
+2-023	The two polymers exhibit well-defined absorption bands in solution and as thin films, consisting of one at the high energy region and a broader
+2-024	one at the low energy region.
+2-025	The short-wavelength absorption bands from 350 to 500 nm are assigned to the delocalized excitonic π−π* transition of the BDT moieties, while the long- wavelength absorption bands with well-resolved vibronic shoulders in the range of 600 to 1000 nm are reasonably
+2-026	ascribed to intramolecular charge transfer (ICT) interactions from the D to the A unit of the polymer backbone.
+2-027	It has been reported that the greater magnitude of this vibronic peak reveals a more ordered microstructure.[28]
+2-028	The maxima absorption coefficients of PBDT-IIG and PBDT-TIIG thin films are 4.25 × 104 and 5.03 × 104 cm −1, respectively.
+2-029	Both copolymers show slightly red-shifted absorption in the solid state in comparison to that in solution, suggesting that the polymer thin film has a more ordered molecular organization than solution.
+2-030	Notably, the maximum absorption peak (λmax) of PBDT-TIIG obviously appears in the longer wavelength region than that of PBDT-IIG, indicating that the acceptor strength of TIIG is greater than that of IIG.
+2-031	This clearly demonstrates that the replacement of benzene with thiophene in the A subunits results in a reduction of the optical bandgap due to the increase of quinoid character in the polymer backbone.
+2-032	Support of this viewpoint is given by the optical bandgaps (Egopt) deduced from the absorption onsets of the film spectra, which are in the order of PBDT-IIG (1.59 eV) > PBDT-TIIG (1.05 eV).
+2-033	The electrochemical characteristics were then measured in acetonitrile with Ag/AgCl reference electrode at potential scan rate of 100 mV s−1 (Figure S2).
+2-034	The highest occupied molecular orbital (HOMO) energy level, the lowest unoccu- pied molecular orbital (LUMO) energy level, and the electrochemical bandgap (EgEC) were estimated from the onset oxidation potential (Eonsetox ) and onset reduction potential (Eonsetred ), on the basis of the following equations: HOMO =
+2-035	ox ferrocene red ferrocene
+2-036	−[Eonset − E1/2 + 4.8] V; LUMO = −[Eonset − E1/2 + 4.8] V, where the potential is referred to an Ag/AgCl reference electrode.
+2-037	Apparently, these two polymers exhibit both reversible oxidation and reduction processes.
+2-038	The HOMO/LUMO energies for PBDT-IIG and PBDT-TIIG are −5.38/−3.35 eV and −4.96/−3.29 eV, respectively.
+2-039	Compared to PBDT-IIG, PBDT-TIIG shows higher-lying HOMO/LUMO energy levels, inferring enhanced charge delocalization via a more planar quinoidal structure of the TIIG fragment than that of the IIG unit.[29]
+2-040	Since the open-circuit voltage (Voc) of OPVs correlates closely with the difference between the HOMO energy level of the donor polymer and the LUMO energy level of the fullerene, a larger Voc for IIG-based PSCs is anticipated.
+2-041	The LUMO energy levels of these two polymers are located at
+2-042	−3.35 to −3.29 eV, providing enough driving force for charge separation and electron transfer without too much energy loss.
+2-043	To gain more insight into the effect of planarization on the molecular structures and electronic properties, theoretical calculations by density functional theory (DFT) model at the B3LYP/6-31G* level were performed on the molecules of IIG-BDT-IIG and TIIG-BDT-TIIG with methyl substituted alkyl chains for simplicity.
+2-044	The theoretical HOMO/LUMO energies for PBDT-IIG and PBDT-TIIG are −4.94/−2.79 and −4.56/−2.70 eV, respectively (see Figure S3), which shows the similar trend as the target polymers.
+2-045	As can be observed, the electron density in the HOMO wave function of PBDT-TIIG is more evenly delocalized along the whole polymer backbone than that of PBDT-IIG, resulting in the higher experimental HOMO energy level of PBDT-TIIG.
+2-046	Conversely, the electron density associated with the LUMO wave function of PBDT-IIG is fairly well-localized at the electron acceptor site compared to that of PBDT-TIIG.
+2-047	Furthermore, the truncated PBDT-TIIG polymer represents excellent planarity through the entirety of the polymer backbone (Figure 2), possibly enabling the higher HOMO energy level and lower bandgap in the isolated state, contributed by its more effective π-orbital conjugation.
+2-048	Bottom-gate/top-contact OFETs of PBDT-IIG and PBDT-TIIG were fabricated with ODTS-treated silicon wafer.
+2-049	Figure 3 shows the FET transfer characteristics of the copolymer devices.
+2-050	In the saturation region (Vd > Vg − Vt), Id can be described by the following equation:
+2-051	Ids = ( Vg − Vt)
+2-052	2L
+2-053	where W and L are channel width and length, respectively, Co is the capacitance of gate insulator per unit area (SiO 2, 300 nm, Co = 10 nF cm−2), μ is the hole mobility, and Vt is threshold voltage.
+2-054	The saturation-region mobility of the polymers was calculated from the transfer characteristics of FET involving plotting (Id )1/2 versus V. The copolymers were spin-coated from chlorobenzene solution (10 mg mL−1) and annealed at 180 °C for 1 h before the deposition of gold.
+2-055	PBDT-IIG and PBDT-TIIG were measured by sweeping the gate voltage (Vg) under a source-drain voltage (Vds) of −80 V and revealed typical transfer and output curves (Figure 3).
+2-056	The FET mobilities of the annealed PBDT-IIG and PBDT-TIIG thin films are (1.03 ± 0.20) × 10−1 and (7.06 ± 0.25) × 10−2 cm2 V−1 s −1, which are both one order higher than the as-cast films (see Table 2).
+2-057	The high mobility of the annealed PBDT-IIG and PBDT-TIIG thin films on ODTS substrates could be correlated with their high crystallinity (vide infra).
+2-058	Intriguingly, PBDT-TIIG shows a slightly lower mobility than PBDT-IIG in
+2-059	spite of its relatively higher crystallinity, which will be discussed later.
+2-060	It is worth noting that PBDT-TIIG is capable of exhibiting the n-type charge transport with mobility up to 2.81 × 10−4 cm 2 V−1 s−1 under Vds of 60 V, owing to its stronger electron-acceptor capability than PBDT-IIG.
+2-061	To characterize the photovoltaic properties for PBDT-IIG and PBDT-TIIG, inverted BHJ PSCs using ITO/ZnO (40 nm)/poly[(9,9-dioctyl-2,7-fuorene)-alt-(9,9-bis(3′-(N,N- dimethylamino)propyl)-2,7-fuorene)] (PFN) (5 nm)/poly- mer:PC71BM (80−110 nm)/MoO3 (6 nm)/Ag (100 nm) device configuration were prepared and examined under simulated 100 mW cm−2 AM 1.5G illumination.
+2-062	The incorporation of thin PFN cathode interlayer can construct interfacial dipole, which could result in the reduced electron injection barrier and enhanced built-in potential across the device.[16]
+2-063	The optimized polymer to PC71 BM ratios of PBDT-IIG and PBDT-TIIG used to form the active layers of the PSCs were 1:2 and 1:4, respectively.
+2-064	The active layers of PBDT-IIG and PBDT-TIIG were prepared by spin-coating from a 4:1 (v/v) mixture of CB and DCB solutions with 2.5% and 2% (v/v) 1,8-diiodooctane (DIO) additives,[30] respectively.
+2-065	We optimized the thickness of the active layers and found that 80−110 nm was the best thickness for all devices.
+2-066	The J−V curves and incident photon-to-current efficiencies (IPCE) of solar cells are presented Figure 4.
+2-067	The detailed device performances are summarized in Table 3.
+2-068	After post-thermal annealing at 120 °C for 10 min, the optimized 1:2 PBDT-IIG:PC71 BM device offers a high PCE of 5.86% with a Voc of 0.85 V, a Jsc of 10.48 mA cm−2, and a FF of 65.8%.
+2-069	Further increase of the fullerene ratio yielded a negative effect in both Jsc and FF, which resulted in a decreased PCE.
+2-070	As expected from the low-lying HOMO energy levels of the polymers, the trend in Voc agrees well with the electrochemical potentials.
+2-071	Conversely, the device based on optimized 1:4 PBDT-TIIG:PC 71BM acquires a moderate PCE of 2.55%, with a Voc of 0.38 V, a Jsc of 11.74 mA cm−2, and a FF of 57.2%.
+2-072	To the best of our knowledge, this solar efficiency is hitherto among the highest in the TIIG-based materials with a PCE above 2.5%.
+2-073	In comparison with the optimized PBDT- IIG-based device, the optimized PBDT-TIIG-based device demonstrated a lower PCE owing to a significantly lower Voc and FF.
+2-074	The relatively low Voc of the optimized PBDT-TIIG-based device should be due to the high-lying HOMO energy level of PBDT-TIIG (vide supra).
+2-075	Notably, the HOMO energy level of PBDT-TIIG (−4.96 eV) is close to that of P3HT (−5.0 to −5.1 eV), and yet, the Voc of P3HT:PCBM cells are typically around 0.6 V. Some explanations such as the greater recombination rate from ambipolar charge transport,[31] the discrepancy in free energy for photoinduced charge transfer,[32] and the blend nanomorphology for enough interfacial area between D−A phases might also account for the significant Voc loss of PBDT-TIIG-based devices.
+2-076	Additionally, the lower FF limiting PCE can be ascribable to the fact that the high crystallization tendency of the polymer leads to a much faster crystallization than PC71 BM during spin-coating.
+2-077	Further investigations of how to control the blend morphology via mixed solvent systems and the influence of polymer molecular weight are still in progress.
+2-078	Nevertheless, the advantage for the PBDT-TIIG is its relatively abundant absorption coverage at the visible to near-infrared (NIR) region to achieve better sunlight harvesting and hence leads to a higher Jsc.
+2-079	In fact, regardless of the FF, the trade-off between light harvesting (Jsc) and Voc of low bandgap donor polymers in single-junction PSCs seems to act as a difficult obstacle toward high solar
+2-080	measurements, the corresponding IPCE spectra of the devices packing charge transport properties and photovoltaic proper- elaborated above were measured under illumination of ties, synchrotron grazing incidence wide-angle X-ray scattering monochromatic light shown in Figure 4b.
+2-081	Compared to the (GIWAXS) analysis was performed to examine the PBDT-IIG absorption spectra of pristine polymers, the substantially and PBDT-TIIG films.
+2-082	The 2D GIWAXS patterns of the as-cast broadened IPCE responses in the visible region can be and annealed thin films on bare substrates and on ODTS- attributed to both the intrinsic absorptions of the polymers treated substrates are shown in Figures 5 and S5.
+2-083	The relevant and PC 71BM.
+2-084	The integrated Jsc values from the IPCE spectra data are also summarized in Table S1.
+2-085	Additionally, their 1D are 10.12 and 11.36 mA cm−2 for PBDT-IIG and PBDT-TIIG profiles in both the out-of-plane and in-plane directions are devices, respectively.
+2-086	The Jsc values calculated from integration outlined in Figure 6.
+2-087	The 2D GIWAXS pattern of the PBDT- of the IPCE spectra are within 5% error, which conform well to IIG and PBDT-TIIG films both show arcs and anisotropic ring those obtained from the J−V measurements, supporting the scatterings.
+2-088	For the thin films on bare substrates, the (100) reliability of the photovoltaic measurement. reflection (q = 0.318 Å−1) in the in-plane direction and (010)
+2-089	Voc Jsc FF
+2-090	polymer polymer:PC71BMa [V] [mA cm−2] [%] PCEb [%]
+2-091	IIG became sharper and more intense than those of the as-cast film upon thermal annealing, suggesting that structures of the film became more ordered, and preferential face-on packing domains after thermal annealing.
+2-092	In consequence, the annealed PBDT-IIG film shows a bimodal molecular packing orientation despite its relatively weak (100) reflection peak in the out-of-plane direction.
+2-093	In contrast, PBDT-TIIG as-cast film exhibits a distinctive (010) reflection peak (q = 1.736 Å−1) in the out-of-plane direction and (100) reflection peak (q = 0.271 Å−1) in the
+2-094	in-plane direction, suggesting its almost extreme face-on orientation.
+2-095	It is noteworthy that the intensity and fractions of face-on domains in both polymers were highly enhanced after thermal annealing.
+2-096	The intrinsic molecular packing diffractions of these two polymers are able to correlate with the photovoltaic properties.
+2-097	Compared to PBDT-IIG, the nearly drastic face-on scattering profile and higher crystallinity of PBDT-TIIG allow better charge transport capability in the vertical direction.
+2-098	This arrangement is beneficial for charge transport in the solar cells and has often correlated with high OPV performance.
+2-099	Additionally, the result correlated with the TEM image of the pristine PBDT-TIIG (Figure 7) that clearly reveals a crystalline fibrillar interpenetrating network, possibly owing to the strong intermolecular π−π interactions.
+2-100	In agreement with DFT simulations, the higher backbone coplanarity of PBDT-TIIG indicates the stronger π−π interactions and cofacial polymer packing, which displays a preference for the face-on packing,[34] leading to a higher Jsc in the solar cells.
+2-101	Contrarily, the less planar PBDT-IIG subsequently adopts the bimodal molecular packing orientation since its intermolecular interactions dominate the alignment of crystalline domains.
+2-102	Moreover, in assessing the effect of these π−π interactions on device performances, the full width at half- maximum (fwhm) of (010) diffractions was calculated for correlating with the orientation distribution of the crystalline domains.
+2-103	The fwhm of PBDT-IIG and PBDT-TIIG are 32.98° and 23.56°, respectively, indicating that PBDT-TIIG possesses long-range and more ordered face-on packing than that of PBDT-IIG.
+2-104	Moreover, the GIWAXS patterns acquired from the thin films on bare substrates (Figure 5) are remarkably different from those on ODTS-treated substrates in virtue of the coplanarity of polymer backbone and introduction of branched alkyl side chains.[35,36]
+2-105	First, the as-cast PBDT-IIG thin film shows a face-on orientation rather than an edge-on orientation on the bare substrate.
+2-106	Second, compared with the as-cast PBDT-IIG thin film, the thermal-treatment PBDT-IIG film appears as a stronger (100) peak (q = 0.319 Å−1) along the out-of-plane direction.
+2-107	The results can be attributed to the fact that the original face-on packing gradually disappeared and the lamellar packing along the out-of-plane direction energetically appeared.
+2-108	This bimodal packing orientation of PBDT-IIG is able to promote the charge transport in the OFET application.
+2-109	In contrast, the stronger intensity and sharper width of (010) reflection at q = 0.270 Å−1 appears in both as-cast and thermally annealed PBDT-TIIG thin films, suggesting that it still maintains a highly ordered face-on packing on the ODTS-treated substrates with relatively weak edge-on packing.
+2-110	After thermal annealing, the appearance of sharper (100) reflection and high-order (200) reflection of PBDT-TIIG at the in-plane direction also indicates the more ordered face-on rich orientation than the edge-on orientation.
+2-111	However, in the OFETs with bottom-gate/top-contact architecture, the ideal molecular alignment for improving mobility is thought to be edge-on packing where the charge transport is parallel to the π−π stacking direction in the charge transport channel.[37]
+2-112	As a result, a slightly lower mobility of PBDT-TIIG might be attributable to its preferential face-on backbone orientation despite its higher crystallinity, where the charge transport was thought to prefer the edge-on orientation for the charge hopping between polymer chains.
+2-113	In these cases, the molecular packing orientation of these two polymers was dominated by their backbone coplanarity and the effect of thermal annealing on the film formation, which are able to correlate with the
+2-114	charge transport characteristics in different device architectures.
+2-115	Therefore, the morphological structures of the neat PBDT-IIG Note that the feasibility of controlling the packing order in and PBDT-TIIG films were probed by transmission electron PBDT-IIG also demonstrates its potential for further microscopy (TEM) and tapping mode atom force microscopy application into both OFET and OPV devices.
+2-116	On the (TM-AFM) measurements.
+2-117	As revealed in Figure 7, PBDT-IIG contrary, the preferential face-on packing orientation of and PBDT-TIIG display worm-like and nanofibrillar textures, PBDT-TIIG improves on the photocurrent but it is still not respectively.
+2-118	Additionally, TM-AFM observations of the neat favorable for the charge transport in OFET devices. films are identical to those of TEM images shown in the insets The nanoscale morphology plays an important role in the of Figure 7.
+2-119	The pristine PBDT-TIIG film exhibits a heavily device performance.
+2-120	Proper morphology is necessary for charge dense fibrillar nanostructure with a certain degree of long-range transport to respective electrodes for efficient collection.[38−41] order, indicating the nanoscale self-assembly of PBDT and
+2-121	TIIG moieties (vide supra).
+2-122	The obvious spacing of the nanostructures has a lateral dimension in the range of 15−25 nm, which is nearly in the same magnitude as the exciton diffusion length, and may effectively support the charge transport prior to recombination.
+2-123	Furthermore, we scrutinized the bulk-heterojunction nanostructures of the optimal polymer blends.
+2-124	The 1:2 PBDT-IIG:PC 71BM blend film (Figure 8a,c)
+2-125	reveals a considerable degree of fine-grained texture with a root- mean-square (RMS) roughness of 2.1 nm, which is beneficial to the exciton dissociation and charge carriers transport.
+2-126	In stark contrast, 1:4 PBDT-TIIG:PC71 BM blend contains vast long nanofibers that are around 15−25 nm in width, whereas the PC 71BM-rich domains are well distributed in the polymer matrix with a RMS roughness of 2.6 nm (Figure 8b,d).
+2-127	These nanofibers construct an interpenetrating network surrounded by the PC71BM clusters and therefore maximize the interfacial D−A contact area for the exciton dissociation into free charge carriers.
+2-128	Notably, the extremely dense fibrillar nanostructure is still conspicuous in the PC 71BM-rich blends, suggesting that the high crystallinity nature of PBDT-TIIG is able to preserve the same molecular arrangement when blended with fullerene.
+2-129	The intimately mixed and well-ordered domains within the matrix, along with the high hole carrier mobility of the material, are capable of efficient charge separation and transport and could support the good performance of the cells.
+3-001	In conclusion, we conducted a systematic study on the effects of plural heteroarenes on the solid state structure and optoelectronic properties of PBDT-IIG and PBDT-TIIG used in solution-processed OFETs and OPVs to establish a useful
+3-002	platform to understand the structure−function relationships.
+3-003	OFETs made from PBDT-IIG and PBDT-TIIG exhibited hole carrier mobilities of 0.1 and 0.07 cm2 V−1 s−1, respectively, while applied in OPVs, PBDT-IIG, and PBDT-TIIG blended with PC 71BM delivered promising PCEs of 5.86% and 2.55%, respectively.
+3-004	The superior mobility of PBDT-IIG could be boosted by the growing portion of edge-on molecular packing via the interfacial surface treatment.
+3-005	In spite of the long-range face-on packing alignment of PBDT-TIIG that could improve its Jsc in the OPV application, the low Voc arising from its high-lying HOMO energy level and greater recombination exhibited the trade-off between light absorption and solar cell perform- ance.
+3-006	Nonetheless, PBDT-TIIG, with a PCE of up to 2.55%, has the highest reported value to date among the TIIG-based materials.
+3-007	We believe that these materials should have a high potential of targeting future optoelectronics with more fine- tuning of the polymer structures.
+3-008	Our findings are able to demonstrate clear methodology for molecular design for the IIG analogues toward new potential applications where dual OFET and OPV functions are required on a single substrate.
+4-001	■
+4-002	Materials.
+4-003	Tri(o-tolyl)phosphin, tris(dibenzylideneacetone)-dipalladium(0), trimethyl (thiophen-2-yl)stannane, and bromothio- phene were purchased from Aldrich (Missouri, USA) and used without further purification.
+4-004	Common organic solvents for synthesis were distilled to remain anhydrous or degassed by nitrogen 0.5 h before use.
+4-005	Ultra-anhydrous o-dichlorobenzene (DCB) for device applications was purchased from Aldrich (Missouri, USA).
+4-006	A surface treatment agent of octadecyltrichlorosilane (ODTS) was purchased from Acros (Geel, Belgium) for field-effect transistor characterization.
+4-007	[6,6]-Phenyl-C71-butyric acid methyl ester (PC71BM) was purchased from Solenne BV (Groningen, The Netherlands) for photovoltaic cell applications.
+4-008	General Procedures for Polymerization.
+4-009	The synthesis of all monomers was described in the Supporting Information.
+4-010	The general procedure of synthesizing PBDT-IIG and PBDT-TIIG is shown in Scheme 1.
+4-011	(5,5′-(4,8-Bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2-b:4,5-b′]dithiophene-2,6-diyl)bis(thiophene-5,2-diyl))bis-(trimethylstannane) (2D-BDT-ditin), (E)-6,6′-dibromo-1,1′-bis(2-oc- tyldodecyl)-[3,3′-biindolinylidene]-2,2′ -dione or (E)-2,2′-dibromo-4,4′-bis(2-octyldodecyl)-[6,6′-bithieno[3,2-b]pyrrolylidene]-5,5′(4H,4′H)-dione, tri(o-tolyl)phosphine (16 mol % with respect to ditin monomer), and tris(dibenzylideneacetone)dipalladium(0) (2 mol % with respect to ditin monomer) were dissolved in chlorobenzene.
+4-012	Then, these copolymers were synthesized by Pd(0)-catalyzed Stille coupling polymerization under microwave heating (150 °C for 30 min).
+4-013	After being end-capped with trimethyl(thiophen-2-yl)stannane and bromothiophene (both 1.1 equiv. with respect to the monomers and under microwave heating at 160 °C, 10 min for each end-capping), the mixture was cooled and poured into methanol to afford a crude solid.
+4-014	The crude polymer was purified by methanol, acetone, and hexane successively using a Soxhlet extraction to remove byproducts, oligomers, and catalyst residues.
+4-015	Characterization.
+4-016	Microwave reaction was carried out using a Biotage microwave reactor in sealed vessels.
+4-017	1H NMR spectra were recorded with a Bruker Avance DRX 400 MHz instrument.
+4-018	Gel permeation chromatographic (GPC) analysis was performed on a Lab Alliance RI2000 instrument (two column, MIXED-C and D from Polymer Laboratories) which was connected to one refractive index detector from Schambeck SFD Gmbh.
+4-019	All GPC analyses were performed on polymer/THF solution at 40 °C and calibrated with polystyrene standards.
+4-020	Thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC) measurements were per- formed under a nitrogen atmosphere at heating rates of 10 and 5 °C min−1 using the TA Instruments Q-50 and Q-100, respectively.
+4-021	The thickness of the active films was measured with a depth-profile meter
+4-022	(Veeco Dektak 150, USA).
+4-023	Five lines on a film of 1 cm × 1 cm were made by carefully scratching with a plastic tip, and the average height between the hills and valleys is used to represent the film thickness.
+4-024	Grazing incidence wide-angle X-ray scattering (GIWAXS) patterns were conducted on beamline BL13A1 in the National Synchrotron Radiation Research Center (NSRRC), Taiwan.
+4-025	The scattering patterns were collected on a Mar165 CCD with a diameter of 40 mm.
+4-026	X-ray diffraction (XRD) was performed by an X’Pert PRO X-ray diffractometer (λ = 1.0219 Å).
+4-027	The scattering vector, q = 4π/λsin θ, along with the scattering angles q in these patterns were calibrated using silver behenate.
+4-028	The thin films were mounted on a z-axis goniometer.
+4-029	UV−vis absorption spectra were recorded using a Hitachi U-4100 spectrophotometer.
+4-030	Cyclic voltammetry (CV) was recorded on a CHI 611B electrochemical analyzer using a three-electrode cell in which ITO (polymer film areas were about 0.5 × 0.7 cm2) was used as a working electrode.
+4-031	A platinum wire was used as an auxiliary electrode.
+4-032	All cell potentials were taken with the use of a homemade Ag/AgCl, KCl (sat.) reference electrode.
+4-033	The electrochemical properties of the polymer films were detected under 0.1 M anhydrous acetonitrile solution containing tetrabutylammonium perchlorate (TBAP) as electrolyte.
+4-034	The morphology of the polymer film surface was obtained with a Nanoscope 3D Controller atomic force micrograph (AFM, Digital Instruments) operated in the tapping mode at room temperature.
+4-035	Transmission electron microscopy (TEM) images were obtained with a JEOL JEM-1230 instrument operating at a voltage of 100 kV with a Gatam dual vision CCD camera.
+4-036	Computational Methodology.
+4-037	Theoretical molecular simulation of the studied polymers was calculated through a Gaussian 03 program package.
+4-038	The density functional theory (DFT) method, using Becke’s three-parameter functional with the Lee, Yang, and Parr correlation functional method (B3LYP) with 6-31G*, was used for the optimization of ground-state molecular geometry.[42]
+4-039	Fabrication and Characterization of Field Effect Transistors.
+4-040	Highly doped n-type Si (100) wafers, with 300 nm SiO2 layer (capacitance per unit area Co = 10 nF cm−2) as a gate dielectric, were used as substrates.
+4-041	The cleaned Si wafers were then modified with an octadecyltrichlorosilane (ODTS) self-assembled monolayer according to the reported method.[43]
+4-042	FET devices were deposited by spin-coating from chlorobenzene (10 mg mL−1) at a spin rate of 1000 rpm for 60 s and annealing at 180 °C for 60 min and thermally evaporated with 100 nm-thick gold electrode (channel length (L) and width (W) were 50 and 1000 μm).
+4-043	FET transfer and output characteristics were recorded in a N2-filled glovebox by using a Keithley 4200 semiconductor parametric analyzer.
+4-044	Fabrication and Characterization of Polymer Photovoltaic Cells.
+4-045	The inverted solar cells were fabricated with the device architecture of ITO/ZnO (40 nm)/poly[(9,9-dioctyl-2,7-fluorene)-alt-(9,9-bis(3′-(N,N-dimethylamino)propyl)-2,7-fluorene)] (PFN) (5 nm)/polymer:PC 71BM (80−110 nm)/MoO3 (6 nm)/Ag (100 nm).
+4-046	Prior to use, patterned ITO-coated glass substrates (10 Ω/square) were successively cleaned according to the reported literature.[7,11,19]
+4-047	The ZnO precursor was prepared using zinc acetate dehydrate (Zn(CH3COO)2·2H2O, Aldrich, 99.999%) as starting material and 2-ethoxyethanol and monoethanolamine (MEA, Aldrich, 99.7%) as the nontoxic solvent and stabilizer under vigorous stirring for 12 h for the hydrolysis reaction in air.
+4-048	The respective solutions were spin-coated on ITO-coated glass substrates at 5000 rpm for 30 s and preheated at 180 °C for 30 min in air to remove residual organic materials and then transferred into an inert N2-filled glovebox (2 and H2O).
+4-049	Subsequently, the PFN interfacial layer was spin-coated onto the active layer according to a similar method described in the literature.[16]
+4-050	Blend solutions were prepared by dissolving the target polymer (PBDT-IIG or PBDT-TIIG) and PC 71BM in mixed CB:DCB (4:1, v/v) solution in the blend ratios of 1:1, 1:2, and 1:4 with a polymer concentration of 10 mg mL−1 and were heated to 100 °C and stirred for 8 h for complete dissolution.
+4-051	Afterward, the blend solution was spin-coated after adding 2.5% and 2% (v/v) 1,8-diiodooctane (DIO) for PBDT-IIG and PBDT-TIIG-based systems.
+4-052	The wet film was slowly dried in a covered Petri dish for 3 h in the glovebox and then annealed at 120 °C for 10 min.
+4-053	Thereupon, methanol was
+4-054	dropped onto the active layer with a spin-coating rate of 2000 rpm for 60 s, and subsequently, the coated substrates were transferred to a thermal evaporator and evacuated to ≤5 × 10−6 Torr.
+4-055	Molybdenum oxide was thermally deposited on top of the active layer with an evaporation rate of 0.1 Å s−1.
+4-056	Ultimately, 100 nm silver film was deposited on top of the molybdenum oxide layer through a shade mask.
+4-057	The J−V curves were measured using a Keithley 4200 source- measuring unit.
+4-058	A calibrated solar simulator (Oriel) with a 100 mW cm−2 power density was used as the light source.
+4-059	An IPCE (QE- R3011) characterization platform supplied by Enlitech Inc. was used for data acquirement.
+4-060	All IPCE spectra were recorded using a lock-in technique at a chopping frequency of 100 Hz.

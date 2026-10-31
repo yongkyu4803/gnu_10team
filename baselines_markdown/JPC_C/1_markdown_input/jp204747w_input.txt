@@ -1,0 +1,150 @@
+# document_id: jp204747w
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Much attention has been focused on the high-efficiency PEC splitting of water using oxide semiconductors (e.g., ZnO, TiO2)
+1-003	as a form of solar energy harvesting and storage.[1−7] However, most of these metal oxides have large band gaps, which prevents efficient absorption of the sunlight in the visible region
+1-004	and overall efficiency.
+1-005	To extend the activity of a photo- electrode into the visible light region, 1D nanowire arrays (such
+1-006	as ZnO or TiO2) sheathed with narrow bandgap semiconductor nanocrystal (e.g., CdS, CdSe, PbS) are emerging as a new photoelectrodes for these application.[8−14] In this case, light is absorbed by either phase, but the photogenerated electrons and holes can quickly separate into different phases because the topology dictates that the interfacial boundary is always nearby.
+1-007	The morphology of the nanowires then provided the photoinjected electrons with a direct electrical pathway to the photoanode.
+1-008	As has been reported by David et al,[15] the highly ordered transparent TiO2 nanotube array exhibits much better photoenergy conversion performance than the same weight of
+1-009	TiO 2 nanoparticles film sensitized by CdS QDs.
+1-010	For solar energy harvesting device, the highest conversion efficiency would be achieved by having a wide range of band
+1-011	gaps that matches the entire solar spectrum.[16,17]
+1-012	However, all existing work including the QDs-sensitized oxide photo- electrodes is mainly based on the binary semiconductors with
+1-013	© 2011 American Chemical Society 3802
+1-014	fixed composition and absorption edge.
+1-015	As compared with the binary semiconductors, the ternary alloy semiconductors have shown the capability of growing alloy with continuously tunable composition and band gap and even achieving spatial composition-graded nanostructures on a single substrate.[18,19]
+1-016	Their useful properties make them promising candidates for important applications such as solar energy conversion.
+1-017	Recently, Lee et al. reported a CdSSe layer-sensitized TiO2 nanowire arrays under different Se doping and showed an improved PEC performance from that of the pure CdS and CdSe-sheathed TiO 2 photoelectrodes.[20]
+1-018	In this Article, we report a new photoelectrodes with composition-graded ZnxCd1−xSe@ZnO core−shell nanowire array on the transparent FTO substrate.
+1-019	As depicted in Scheme 1 (left), the ZnO nanowire arrays were grown directly on the 2 cm × 2 cm FTO substrate, and a continuous ZnxCd1−xSe layer (with x from 0 to 1) was deposited on the ZnO nanowires by a temperature-gradient CVD method.
+1-020	Because the shell compo- sition in the ZnxCd1−xSe@ZnO nanowire array varies along the length direction of the substrate, the light absorption edge of the core−shell nanostructures spans a wide range of the solar
+1-021	Received: May 22, 2011
+1-022	Revised: November 27, 2011
+1-023	Published: December 29, 2011
+1-024	spectrum.
+1-025	Furthermore, the type-II band alignment of the ZnxCd1−xSe-ZnO heterojunction allows an efficient transfer of photoexcited electrons from ZnxCd1−xSe to ZnO (Scheme 1 (right)).
+1-026	Whereas the electrons contribute to the hydrogen generation reaction at the Pt cathode, holes are consumed for an oxidation reaction at the anode/electrolyte interface.[14,21]
+1-027	As a result of this, together with the good electron transport property of hydrothermal-grown ZnO nanowires, a good PEC performance is achieved.
+2-001	■
+2-002	Synthesis of ZnO Nanowire Arrays.
+2-003	The ZnO nanowire arrays were prepared by using a hydrothermal growth route.
+2-004	In a typical synthesis process, the transparent conductive F/SnO2 (FTO) substrates were first seeded with an oriented ZnO thin film (∼20 nm) by using the sol−gel dip-coating method.
+2-005	The substrates were then annealed at 450 °C for 30 min to obtain oriented ZnO seed layers.
+2-006	The growth solution consists of 0.025 M zinc nitrate, 0.025 M hexamethylenetetramine (HMTA), and 0.01 M PEI (end-capped, molecular weight 800 g/mol LS, Aldrich).
+2-007	The seeded substrates were then placed in 50 mL of the above growth solution.
+2-008	The container was sealed and heated to 95 °C for 12 h without stirring.
+2-009	After growth, the resultant samples were removed and rinsed thoroughly with ethanol to get rid of any residual reactants and dried in air at 80 °C. Finally, the as-grown ZnO nanowire arrays were annealed at 450 °C for 1 h.
+2-010	Coating of ZnxCd1−xSe Shells.
+2-011	To deposit composition- gradient of ZnxCd1−xSe outlayer on the ZnO nanowire arrays, a short tube furnace with sharp temperature gradient was used.
+2-012	Considering the lower melting point of CdSe than ZnSe, CdSe powder was positioned at the upstream inside the quartz-tube furnace to make sure that the CdSe can vaporize with the ZnSe at a similar speed.
+2-013	The FTO substrate grown with ZnO nanowire arrays was placed downstream of the gas flow where the temperature was between 450 and 540 °C (shown in Figure
+2-014	1).
+2-015	An appropriate selection of the temperature range that covers the full temperature range required to grow the full composition of ZnxCd1−xSe in a single run of growth was found to be crucial for the successful deposition of the gradient ZnxCd1−xSe nanolayer on the ZnO nanowire arrays.
+2-016	The furnace was heated to the temperature around 820 °C and maintained at this temperature for ∼20 min.
+2-017	The pressure in the quartz tube was controlled at 300 mbar using a 2% H 2 in Ar gas mixture that acted as a carrier gas.
+2-018	After 20 min of deposition, the ZnxCd1−xSe alloy outlayer with typical thickness around 5−
+2-019	10 nm was successfully coated on the ZnO nanowires.
+2-020	The composition gradient of the ZnCdSe alloy nanolayer was modulated by the temperature-gradient along the length of the substrate with the sample closer to the end of the tube having higher Cd content.
+2-021	Sample Characterizations.
+2-022	The morphology and micro- structures of the as-prepared ZnxCd1−xSe@ZnO core−shell nanowire array were examined using JEOL JSM-6700F field- emission scanning electron microscopy (FE-SEM) and JEM 2010F transmission electron microscopy (TEM).
+2-023	The position- dependent element composition analysis was performed by in situ energy-dispersive X-ray spectroscopy (EDS, taken in the SEM).
+2-024	To determine the elemental composition along the length direction of the substrate, we accurately positioned the sample using an encoded x-y translation stage, and the locations were recorded.
+2-025	The diffuse reflection spectra of the ZnxCd1−xSe/ ZnO core−shell nanowire arrays with different Cd content along the length direction of the substrate were measured by moving the excitation spot from one end of the substrate to the other.
+2-026	The diameter of excitation spot during the UV−vis measurements was focused to ∼1 mm.
+2-027	PEC Measurements.
+2-028	The PEC measurement of the ZnxCd1−xSe@ZnO nanowire array photoelectrodes was carried out in electrolytes containing 0.35 M Na2SO3 and 0.24 M Na 2S (pH 11.5) with Zaner IM6 electrochemical workstation.
+2-029	The as-prepared ZnxCd1−xSe@ZnO core−shell nanowire array on FTO electrode was used as the working electrode, a Pt foil as the counter electrode, and a saturated Ag/AgCl electrode as the reference electrode.
+2-030	The photocurrent densites versus meas- ured potential (I−V curve) measurements were performed in a standard three-electrode configuration under AM 1.5G simulated sunlight from a 150 W Xe lamp (Sciencetech SS150).
+2-031	The incident light intensity was calibrated to 100 mW/cm 2.
+3-001	■
+3-002	and joined into bundles.
+3-003	(See Figure 2c.) The bending and bundling of nanowires is a typical result of the balance between the tensile strain and the capillary interaction derived from their large aspect ratios and the surface tension of water during the hydrothermal synthesis process.
+3-004	In addition, the individual ZnO nanowires have a smooth lateral surface and uniform diameter along their entire length.
+3-005	These structural properties may qualitatively favor the formation of heterojunction with an abrupt interface.
+3-006	After the deposition with a ZnxCd1−xSe outlayer for 20 min, the overall alignment of the nanowire array is still retained, as shown in Figure 2d.
+3-007	Figure 1e shows a higher magnification SEM image of ZnxCd1−xSe@ZnO core−shell nanowire array.
+3-008	As compared with the pristine ZnO nanowires, the ZnxCd1−xSe@ZnO nanowires exhibit a larger diameter and rougher surface, which indicates the formation of a core−shell structure.
+3-009	Moreover, the ZnxCd1−xSe shells have similar thicknesses along the length of the nanowires, and nearly all the nanowires are coated.
+3-010	The spatial chemical compositions of ZnxCd1−xSe@ZnO nanowire array along the length direction of the substrate were further identified by EDS spectra at different positions.
+3-011	The EDS data (Figure 2f) collected from varied points of ZnxCd1−xSe@ZnO nanowire arrays demonstrate the existence of Zn, Cd, Se, and O elements.
+3-012	It is seen that when scanned from the yellow end of the sample surface to the black end, the Cd concentration evolves with a trend opposite to that of Zn.
+3-013	This is in
+3-014	accordance with the gradual composition change as determined optically.
+3-015	The microstructure of the ZnxCd1−xSe@ZnO coaxial heterogeneous nanowires was investigated based on TEM.
+3-016	Figure 3a is a typical TEM image of the ZnxCd1−xSe@ZnO
+3-017	coaxial nanowire.
+3-018	It can be seen that the alloy shell is deposited over the entire surface of the ZnO nanowire.
+3-019	It is an important point that a heterojunction is formed on the whole nanowire surface, which is beneficial to the charge separation during their photoelectrochemical applications (to be discussed below).
+3-020	A closer view of the surface reveals that the ZnCdSe shell, ∼5 nm in thickness, is granular-like with a clear interface with the ZnO core.
+3-021	(See Figure 3b.) A partial interface diffusion and alloying between the ZnO core and ZnCdSe shell might have occurred, as indicated by the rough interface compared with the smooth surface of the pristine ZnO nanowire (Figure 3d).
+3-022	The high-resolution TEM image (Figure 3c) taken from the edge of the shell verified that the shell is composed of ZnCdSe nanocrystals with diameters of 3−5 nm, which aggregated into a continuous film covering the entire surface of the ZnO nanowires.
+3-023	As for comparison, Figure 3d and its inset show a TEM image and the corresponding high-resolution TEM image of a bare ZnO nanowire, respectively, confirming that the pristine ZnO nanowires are single-crystalline with smooth surfaces.
+3-024	To demonstrate further that the band gap of the ZnxCd1−xSe shell can be well-tuned by their composition variation, we collected the spatial UV−vis diffuse reflection absorption spectra of the as-obtained ZnxCd1−xSe@ZnO nanowire sample at different spots along the length of the substrate.
+3-025	(See Figure 4a.) One can clearly see that each examined point along the sample length exhibits a steep absorption edge.
+3-026	Relative to the absorption edge of the bare ZnO nanowire array (a control sample) near 380 nm, the spectral position of the absorption edge red shifts continuously from 460 to 700 nm with the decrease in the composition x (Zn ratio) in the core−shell nanowires.
+3-027	Such a continuous shift of the absorption edge is in good agreement with the results of ZnxCd1−xSe films and single- crystal nanowires.[22,23]
+3-028	For direct bandgap semiconductors, the optical absorption near the band edge follows[24]
+3-029	nanowire arrays.
+3-030	Figure 5a shows the I−V curves of hybrid nanowire array photoelectrodes measured both in dark and
+3-031	(αhν)[2] = A(hν − Eg) (1) where α, ν, and Eg are the absorption coefficient, optical frequency, and band gap energy, respectively.
+3-032	A is a constant.
+3-033	Therefore, the bandgap (Eg) can be estimated from a plot of (αhν)[2] versus the photon energy (hν).
+3-034	From the spectra for various positions along the length direction of the substrate (Figure 4a), the corresponding band gaps were determined to be Eg = 2.70, 2.53, 2.41, 2.24, 2.06, 1.96, and 1.77 eV.
+3-035	The bandgap energy Eg = 2.7 eV corresponds to ZnSe (x = 1) and Eg = 1.77 eV to Zn0.05Cd0.95Se.
+3-036	These values are in good agreement with the previously reported values for ZnSe and CdSe nanowires.[25]
+3-037	The dependence of the bandgap energy on composition (x) was found to follow a quadratic relationship as follows[26]
+3-038	Eg(x) = 0.41x[2] + 0.54x + 1.74 (2) which is also plotted in Figure 4b.
+3-039	Therefore, when used as photoelectrodes, such ZnxCd1−xSe@ZnO core−shell nanowire array can absorb light that spans continuously from blue to red edge of the solar spectrum by controlling the shell composition variation.
+3-040	Note that whereas Pan and coworker have reported a spatial grading of bandgap engineering in ternary CdSSe nanowires on a single chip,[18] the novelty of our present work is to extend this method to the controllable synthesis of core−shell structured hybrid nanowires with spatially gradient absorption edge on a single FTO electrode.
+3-041	Electrochemical measurements were carried out to evaluate the PEC properties of photoanodes composed of both pristine ZnO and composition-graded ZnxCd1−xSe@ZnO core−shell
+3-042	under illumination.
+3-043	A dark scan shows a very small current density in the range of 10−1 mA/cm[2], whereas under light illumination, a pronounced photocurrent density is observed, implying efficient charge separation and transfer.
+3-044	Typically, the photocurrent density increases from the onset potential around −1.2 V versus Ag/AgCl and approaches ∼5.6 mA/cm[2] at 0 V. As for the pristine ZnO photoelectrode, the photocurrent onset potential (Von) is 0.25 V versus Ag/AgCl, which is much smaller than that of the core−shell nanowire arrays electrode.
+3-045	The measured potential versus Ag/AgCl was also converted to the reversible hydrogen electrode (RHE) scale according to the Nernst equation[27]
+3-046	ERHE = EAg/AgCl + 0.059pH + EAg/AgCl0 (3)
+3-047	where ERHE is the converted potential versus RHE, EoAg/AgCl = 0.1976 V at 25 °C, and EAg/AgCl is the experimentally measured potential versus the Ag/AgCl reference.
+3-048	With this scaling (Figure 5), the photocurrent density is ∼7.4 mA/cm[2] at 1.23 V versus RHE, 30 times higher than that (∼0.25 mA/cm[2]) of the pristine ZnO cell (Figure S1 in Supporting Information).
+3-049	The significantly higher photocurrent onset potential value in the core−shell nanowire arrays demonstrates a shift in the Fermi level to a more negative potential as a result of a coupling
+3-050	between the ZnO core and ZnxCd1−xSe shell in the composite system.[28,29]
+3-051	Moreover, no saturation of photocurrent was observed in the ZnxCd1−xSe@ZnO photoelectrode at a more positive potential, which indicates efficient charge separation in core−shell structures upon illumination.[30]
+3-052	Figure 5b shows the amperometric current−time (I−t) curves of the composition-graded ZnxCd1−xSe@ZnO nanowire array electrode with light on/off cycles at 0 V versus Ag/AgCl under AM1.5G 1 Sun illumination.
+3-053	Upon illumination, a spike in the photoresponse was observed, which might be due to the transient effect in the power excitation,[31] and the photocurrent then returned to a steady state after a few seconds.
+3-054	The steady values are 80−90% of initial currents.
+3-055	The photocurrent value dropped to nearly zero instantaneously when the incident light was turned off and returned to the original value only when the light was turned on again.
+3-056	The changes of both “on” and “off” currents are nearly vertical, which indicates that charge transport in the composite material proceeds very quickly.
+3-057	To show an idea of the composition dependent PEC property, we prepared ZnSe@ZnO, ZnxCd1−xSe@ZnO (x ≈ 0.5), and CdSe@ZnO nanowires samples under similar growth condition as control samples for comparison.
+3-058	Figure S2 of the Supporting Information shows a set of I−V curves recorded from these nanowire array photoanodes at AM1.5 1 sun illumination.
+3-059	All photoanodes show pronounced photoresponse under light illumination.
+3-060	The ZnSe@ZnO photoanode gives a photocurrent density of 2.4 mA/cm[2] at 0 V (vs Ag/AgCl).
+3-061	With increasing Cd content in the shells, the photocurrent density increases to 4.2 and 6.5 mA/cm[2] for the ZnxCd1−xSe@ZnO (x ≈ 0.5) and CdSe@ZnO photoanodes, respectively.
+3-062	The increase in photocurrent density can be ascribed mainly to the expanded absorption spectrum range of the ZnxCd1−xSe@ZnO core−shell nanowire arrays with more Cd,[32] consistent with the results of UV−vis measurements.
+3-063	Electrochemical impedance spectroscopy has been proved to be a powerful tool to study charge transfer and recombination processes in solar cells.
+3-064	From applying appropriate equivalent circuits and physical models, the transport rate and lifetime of the electron can be derived on the nanoscale.[33,34]
+3-065	Figure 6 shows the impedance spectra of the ZnCdSe-ZnO and pristine
+3-066	ZnO photoelectrocatalytic cells measured under open circuit condition under 1 sun light intensity.
+3-067	The radius of each arc is correlated with the charge-transfer ability of the corresponding photoelectrode.
+3-068	One can see that the charge-transfer impedance at the ZnO-ZnCdSe-electrolyte interface is much smaller than that of the bare ZnO-electrolyte interface under the same condition (as shown in the Nyquist plots in Figure 6a).
+3-069	Correspondingly, the higher characteristic frequency (1−100 Hz) in the ZnCdSe-ZnO composite (as shown in the Bode phase plots in Figure 6b) suggests that the electron lifetime in the ZnO-ZnCdSe composite is shorter than that in pristine ZnO electrode.
+3-070	The equivalent circuit of the ZnO-ZnCdSe electrode is also depicted in the inset of Figure 6a.
+3-071	Here Rs is the series resistance, and R and C represent the total charge transfer resistance and capacitance of the space charge region, respectively, including charge transfer across the FTO/ZnO- ZnCdSe interface and the ZnCdSe/electrolyte interface.
+3-072	W is the Warburg impedance.
+3-073	RPt and CPt are the resistance and capacitance of the Pt-coated cathode, respectively, which is identified by the high-frequency semicircle in Figure 6b (103 to 105 Hz).
+3-074	Although a ZnCdSe alloy layer deposition results in a higher electron injection, it also increases the recombination possibility of the electrons and causes a smaller lifetime, but in the ZnCdSe composite electrode, the reduction of lifetime could be compensated by the highly improved light-harvesting efficiency and greatly reduced the charge transfer resistance, hence resulting in improved overall PEC performance.
+3-075	To understand the intrinsic electronic properties of the ZnxCd1−xSe@ZnO nanowire arrays in contact with the electro- lytes, we also performed the electrochemical impedance measurements at the fixed frequency in the dark to determine the capacitance of the nanowire arrays and the flat band potential at the semiconductor/electrolyte interface.
+3-076	The capacitance can be described by the Mott−Schottky (M−S) equation[35,36]
+3-077	1/C[2] = (2/εε 00e N Ad 2)[(V − VFB) − kT/e0] (4) where C is the charge space capacity, ε is the dielectric constant of ZnCdSe, ε0 is the electric permittivity of vacuum, e0 is the electron charge, Nd is the donor density, A is the area, k is the Boltzmann constant, T is the absolute temperature, V is the electrode applied potential, and VFB is the flat band potential.
+3-078	The measured capacitance decreases monotonically with increasing potential as described by the M−S relation.
+3-079	VFB of the ZnxCd1−xSe@ZnO nanowire arrays can be determined from the extrapolation of X intercepts in the M−S plot (1/C[2] vs V) between −0.25 and 0.5 V versus Ag/AgCl, which is found to be−0.76 V (as shown in Figure 7).
+3-080	The positive slope indicates that the ZnxCd1−xSe@ZnO nanowire array is n-type material with electron conduction.
+3-081	Furthermore, the VFB of the ZnxCd1−xSe@ZnO nanowire arrays is much more negative than that of the VFB′ (−0.05 V) of pristine ZnO nanowire array (shown as inset of Figure 7).
+3-082	Such a big negative variation of the flat band potential suggests a higher carrier concentration in the composite system and more efficient charge transfer from ZnxCd1−xSe shell to the ZnO core and then to the transparent conducting oxide current collector.[37]
+3-083	Sunkara, M.; McFarland, E. W.; Domen, L.; Miller, E. L.; Turner, J. A.; Dinh, H. N. J. Mater.
+3-084	Res. 2010, 25, 1−16.
+4-001	■
+4-002	Nanowire arrays containing ZnO core and spatial composition-graded ZnxCd1−xSe shell have been fabricated by a temperature-
+4-003	gradient CVD of ZnCdSe layer on preprepared ZnO nanowire array and tested as photoelectrode for PEC hydrogen generation.
+4-004	The element composition and subsequently the bandgaps of the ZnxCd1−xSe shell can be tuned across the photoelectrode surface, allowing a continuous light absorption within the solar spectrum.
+4-005	A photocurrent intensity of ∼5.6 mA/cm[2] at a potential of zero (vs Ag/AgCl) and a photocurrent onset potential of about −1.2 V is achieved (vs Ag/AgCl).
+4-006	The present study opens a new route to the design of composition-graded alloy nanolayer (e.g., CdSSe)-coated nanowire array photoelectrodes for full-visible spectrum solar energy applications such as semiconductor-sensitized solar cells and PEC hydrogen generation devices.

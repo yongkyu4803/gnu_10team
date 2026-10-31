@@ -1,0 +1,18 @@
+# 논문 PDF와 묶음은 출판사 저작권 자료라 올리지 않는다
+*.pdf
+*.zip
+
+# 실행 결과(논문 문장이 들어 있음)
+1_extract/
+1_extract_passed/
+2_baseline/
+extract_gate.json
+*_layout.json
+검증그림*/
+!examples/**/extract_gate.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

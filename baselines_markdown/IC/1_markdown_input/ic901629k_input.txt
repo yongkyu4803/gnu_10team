@@ -1,0 +1,184 @@
+# document_id: ic901629k
+# extractor: kordoc-markdown-adapter-1
+1-001	Over the past decades, there has been considerable interest in the coordination chemistry of transition metal complexes containing organic thiolates, selenolates, or tellurolates due to their structural diversity[1-6] and potential application as precursors for materials,[7-10] antimicrobial drugs,[11] and models for the active site of metallothioneins.[12,13]
+1-002	The or- ganic ligands protect the complexes from self-aggregation into the binary phases.
+1-003	Due to the peculiarity of d[10] metal chalcogenides, a huge variety of nanometer-sized chalcogenide clusters have been synthesized that are stabilized by means of organic or
+1-004	*To whom correspondence should be addressed.
+1-005	Tel.: 00496421-2825751.
+1-006	Fax: 00496421-2825653.
+1-007	E-mail: dehnen@chemie.uni-marburg.de.
+1-008	organoelement ligand shells.
+1-009	Among the multifaceted types of d[10] metal chalcogenide clusters, there are many that combine organochalcogenolate and phosphine ligands at their surface to avoid the collapse of the clusters into the thermodynamically preferred binary chalcogenide.
+1-010	Examples are [Zn8Se(SePh)14- (PnPr3)2],[14a] [Zn16Te13(TePh)6(tmeda)5] (tmeda = tetremethyl- ethylenediamine),[14b] [Hg32Se14(SePh)36],[15] [Cd32Se14(SePh)36- (PPh3)4],[15][Cu144Se73(PPh3)30],16or the impressive record holder in metalchalcogenide cluster sizes, [Ag490S188(StC5H11)114].[17]
+1-011	In most of the cases, the syntheses of the clusters start out from a metal complex;frequently formed from metal salts and phos- phine ligands in situ;and a chalcogenide source that can also act as a chalcogenolate ligand.[14-17] Other ligands that serve to effectively inhibit the uncontrollable cluster growth into binary solids are diselenophosphates [(RO) 2PSe2]- and allied ligands.18Some of the resulting compounds, like the octanuclear [Cu8- (μ8-Se){Se2P(OiPr)2} 6]8[19a] or [Ag8(μ8-Se){Se2P(OiPr)2}6],[19b] are
+1-012	r 2009 American Chemical Society
+1-013	Article Inorganic Chemistry, Vol. 49, No. 1, 2010 145Table 1.
+1-014	Details of the X-Ray Diffraction Studies[23]
+1-015	compound 1 311THF 2a 3 6THF 2b 35THF
+1-016	empirical formula C260H268O11Ag14Se13P8 C258H243Ag14Se12.5P8O6Cl2Sn C254H253Ag14Se12.5P8O5Cl2Sn fw, g 3 mol-1 6353.32 6374.05 6320.09
+1-017	cryst syst monoclinic monoclinic trigonal
+1-018	space group P21/c I2/a R3
+1-019	a, A 31.7987(9) 24.7467(19) 20.3517(4)
+1-020	B, A 22.9837(4) 26.8921(15) 20.3517(4)
+1-021	C, A 33.2185(8) 36.722(3) 99.087(3)
+1-022	R, deg
+1-023	β, deg 92.257(2) 95.356(10)
+1-024	γ, deg
+1-025	V, A[3] 24259.0(10) 24332.0(3) 35542.5(15)
+1-026	Z 4 4 6
+1-027	F , g cm-3 1.724 1.740 1.772
+1-028	calcd 3
+1-029	μ(MoKR), mm-1 3.163 3.199 3.283
+1-030	abs. corr.
+1-031	Tmin/max 0.631/0.880 0.630/0.819 0.627/0.821
+1-032	2Θ range, deg 2-52 4-52 2-52
+1-033	reflns measured 228133 114253 59101
+1-034	ind. reflns (I > 2σ(I)) 15371 14478 6064
+1-035	params 2724 1380 632
+1-036	R1 (I > 2σ(I)) 0.0743 0.0437 0.0956
+1-037	wR2 (all data) 0.1625 0.1067 0.2484
+1-038	GoF (all data) 0.749 0.826 0.981
+1-039	max. peak/hole, e- 3 A-3 1.211/-1.419 2.967/-2.731 1.305/-1.228
+1-040	known for their capability to encapsulate and also exchange Synthesis of [(Ph3PAg)8Ag6(μ6 -Se)0.5(SePh)12][R3SnCl2] 3 main-group ions like E2- (E = S, Se) or X- (X = Cl, Br), lead- nTHF (R = Ph, n = 6 (2a); R = Cy, n = 5 (2b)).
+1-041	[(Ph3P)3Ag-19 NO 3] (0.2529 mmol) and Ph3SnCl (2a) or Cy3SnCl (2b)(0.2594 ing to unusual bonding characteristics.
+1-042	Here, we present a neutral and two cationic silver selenide/ mmol) were suspended in 10 mL of dry THF.
+1-043	The solution was cooled to -40 °C, R = PhSeSiMe3 (0.2529 mmol) was added selenolate complexes protected by selenophenolate groups
+1-044	dropwise.
+1-045	The mixture was allowed to warm up to room that show a so far unprecedented tolerance for the occupation
+1-046	2- temperature slowly.
+1-047	Crystals were obtained after one week upon of the central position by a Se anion, [(Ph3PAg)8(SePh)12-
+1-048	layering 5 mL of the solution with 5 mL of n-hexane.
+1-049	Yield: 48% (μ6-Se)Ag6] 3 11THF (1), [(Ph3PAg)8(SePh)12(μ6-Se)0.5Ag6]- (2a) and 35% (2b).
+1-050	Semiquantitative elemental analysis (EDX): [Ph3SnCl2] 3 6THF (2a), and [(Ph3PAg)8(SePh)12(μ6-Se)0.5- Ag 14.02Se12.73P7.98Sn1.0Cl1.95 (calcd: Ag14Se12.5P8Sn1 Cl2) (2a), Ag6][Cy3SnCl2] 3 5THF (2b).
+1-051	In addition to the experimental Ag 14.09Se12.80P8.63Sn1.0Cl1.80 (calcd: Ag14Se12.5P8Sn1Cl2) (2b).
+1-052	investigations, the structures and charges were rationalized by Spectroscopy.
+1-053	EDX analyses were performed using an EDX means of quantum chemical investigations using density device, Voyager 4.0 from Noran Instruments, coupled with an 20 electron microscope, CamScan CS 4DV.
+1-054	Data aquisition was functional theory (DFT) methods.
+1-055	performed with an acceleration voltage of 20 kV and 100 s of accumulation time.
+1-056	The following emitted radiation of the Experimental Section
+1-057	atoms was analyzed: Ag-L, Se-L, Sn-L, P-K, and Cl-K. General.
+1-058	All synthesis steps were performed with a strong UV-vis spectra were recorded on a Varian Cary 5000 UV/vis/ exclusion of air and external moisture (N2 atmosphere at a high- NIR spectrometer in the range of 800-200 nm employing the vacuum, double-manifold Schlenk line or Ar atmosphere in a double beam technique.
+1-059	The samples were prepared as suspen- glovebox).
+1-060	THF and n-hexane were dried and freshly distilled sions in Nujol oil between two quartz plates.
+1-061	Photoluminescence prior to use.
+1-062	(PPh3)3AgNO3[21a] and 1,4-bis(trichloro-stannyl)- spectra were measured in DCM solutions using a Varian Cary butane[22] were prepared according to literature methods.
+1-063	Eclipse photoluminescence spectrometer.
+1-064	Emission spectra were Ph 3SnCl or Cy3SnCl were used as received from Aldrich or recorded upon excitation at 250 nm.
+1-065	ABCR chemicals.
+1-066	X-Ray Structure Determination.
+1-067	Data were collected on a Synthesis of [(Ph3PAg)8Ag6(μ6-Se)(SePh)12] 311THF (1). 1,4- diffractometer equipped with a Stoe imaging plate detector Bis(trichlorostannyl)butane (0.098 mmol) and [(Ph3P)3AgNO3] system IPDS2T using graphite-monochromized Mo KR radia- (0.5916 mmol) were suspended in 10 mL of dry THF.
+1-068	The tion (λ = 0.71073 A) at 100 K. Structure solution and refine- mixture was cooled to -40 °C, and PhSeSiMe3 (0.6322 mmol) ment were performed by direct methods and full-matrix least- was added dropwise to it.
+1-069	It was then allowed to warm up to 2 23
+1-070	squares on F , respectively, using SHELXTL software.
+1-071	Final room temperature slowly.
+1-072	Crystals were obtained after one week crystallographic data and values of R 1 and wR2 are listed in upon layering 5 mL of the solution with 5 mL of n-hexane.
+1-073	Yield: Table 1.
+1-074	Relevant bond distances and angles are listed in Tables 41%.
+1-075	Semiquantitative elemental analysis (EDX): Ag 1.06- S1 and S2 (see Supporting Information).
+1-076	All compounds of this Se1.0P0.66 (calcd: Ag1.08Se1.0P0.61). type - including related ones reported so far - suffer from strong disorder of some of the Ag and chalcogen atoms and THF molecules.
+1-077	Therefore, the refinement required an accord-
+1-078	Molecules; Oxford University Press: New York, 1988.
+1-079	(b) Ziegler, T. Chem.
+1-080	Rev. ing split model.
+1-081	This way, even the very poor data set for 1991, 91, 651.
+1-082	Trans. 1986, 1965.
+1-083	(b) Miyoshi, N.; Ishu, H.; Kondo, K.; Murai, S.; Sonoda, N. (23) Sheldrick, G. M. Shelxtl 5.1; Bruker AXS Inc.: Madison, WI, 1997.
+1-084	Synthesis 1979, 300.
+1-085	(24) (a) Ahlrichs, R.; B€ar, M.; H€aser, M.; Horn, H.; K€olmel, C. Chem.
+1-086	146 Inorganic Chemistry, Vol. 49, No. 1, 2010
+1-087	compound 2b could be used to determine its structure.
+1-088	Note that the structural parameters given in this paper may represent values between averaged atomic positions.
+1-089	Methods of the Quantum Chemical Investigations.
+1-090	The density functional theoretical (DFT)[20] investigations were carried out by means of the program system TURBOMOLE[24] using the RIDFT program.[25]
+1-091	For the calculation of 1c (neutral cluster [(H3PAg)8-Ag6(μ6-Se)(SePh)12]), 2c1þ (oxidized cluster [(H3PAg)8Ag6(μ6-Se)- (SePh) 12]þ with unchanged elemental composition) and 2c2þ (charged cluster [(H3PAg)8Ag6(SePh)12]2þ without central Se ligand), the Becke-Perdew BP86 potential[26a-c] was used together with def2-TZVP basis sets (TZVP = triple-ζ valence plus polari- zation);[26d] Ph groups of PPh3 were replaced by H. An effective core potential (ECP-28)[26e] was employed for Ag atoms for both con- sideration of relativistic effects and reduction of the computational effort.
+1-092	The simultaneous optimizations of geometric and electronic structures were performed employing the C1 (1c) or Ci symmetry (2c1þ, 2c2þ), according to the crystallographic point group symme- tries of the neutral (1) and charged cluster (2).
+1-093	Tables S1 and S2 provide experimental as well as calculated distances for 1 and 2 (see Supporting Information).
+2-001	Syntheses.
+2-002	The title compounds were synthesized by the reaction of (PPh 3)3AgNO3[21a] with PhSeSiMe3[21b] in the presence of 1,4-bis(trichlorostannyl)butane[22] (1), tri- phenyltin chloride (2a), or tricyclohexyltin chloride (2b) in THF as a powder or as greenish-yellow crystals from a THF/n-hexane mixture.
+2-003	Thus, the driving force of the generation of 1, 2a, and 2b is the formation of stable NO3SiMe 3.
+2-004	Different from our previous studies with Cu complexes,[27a] but similar to the reaction of a ditin organyl with Pd(OAc) 2,[27b] the role of the bis(trichlorostannyl)-butane for the synthesis of 1 is not obvious.
+2-005	However, the synthesis was (a) not possible without it, and (b) reactions with related monotin compounds led to different pro- ducts (2a and 2b) under the given conditions.
+2-006	We assume either catalytic activity or the suppression of a competi- tive reaction as the most probable explanations for the necessity of the presence of the compound.
+2-007	Although it has not been possible to clarify how exactly the 1,4-bis- (trichlorostannyl)butane takes part in such reactions, it is well-known that both Sn-Cl and Sn-C bond cleavage can occur, producing free, active valences at the Sn atom.
+2-008	The first is obvious from derivatization of such com- pounds into compounds like 1,4-bis(trichalcogenolato- stannyl)butane.[27c] Sn-C bond cleavage is part of the precursor syntheses and can also be observed at the 1,4-bis(trichlorostannyl)butane under solvothermal condi- tions.[27a] A thorough study of the according processes is subject to future work.
+2-009	Complexes 1, 2a, and 2b were characterized by means of single-crystal X-ray diffrac- tion[23] and EDX analyses.
+2-010	According to these investiga- tions, the neutral compound 1 is based on a Ag14Se13
+2-011	cluster core, which differs from the average composition of the cationic cluster core in 2a and 2b, Ag14Se12.5 .
+2-012	The charge of the cluster cations is compensated by triorga- notin dichloride anions.
+2-013	Crystal Structures.
+2-014	Compound 1 crystallizes in the monoclinic space group P21/c with four formula units in the unit cell.
+2-015	Compounds 2a and 2b crystallize in the monoclinic space group I2/a with four formula units in the unit cell and in the trigonal space group R3 with six formula units in the unit cell, respectively.
+2-016	Figure 1 shows the molecular structures of 1 and 2b, emphasizing the (pseudo)-D3d symmetry, which is at least approximated by crystallographic C3 symmetry in 2b.
+2-017	The [Ag14Se13-x] cluster cores of compounds 1 (x = 0, Figure 2, left-hand side), 2a, and 2b (x = 0.5, Figure 2, right-hand side) can be described as highly distorted frag- ments of the halite topology.[28]
+2-018	The latter is encapsulated
+2-019	Article
+2-020	Inorganic Chemistry, Vol. 49, No. 1, 2010 147
+2-021	2a
+2-022	281.08(5)-282.35(6)
+2-023	251.4(2)- 255.47(10)
+2-024	261.08(6)-285.18(8)
+2-025	244.87(16)-251.11(15)
+2-026	2b
+2-027	279.3(3)-290.5(8)
+2-028	252.0(4)-254.9(4)
+2-029	251.0(4)-292.0(4)
+2-030	244.1(9)-249.3(8)
+2-031	Agcube and Agoct denote Ag positions at the eight vertices of the distorted cubic arrangement or the six faces, respectively.
+2-032	by an organic shell of eight PPh3 and 12 Ph groups.
+2-033	As in the halite topology itself, one might explain the cluster structures as consisting of four distorted polyhedra in an onion-type arrangement (Figure 2, bottom): around a central μ6-Se atom, one observes a Ag6 octahedron within a Ag8 cube (i.e., the face-centered cube).
+2-034	The latter is intertwining with a Se 12 polyhedron that represents a mixture (“centauer-polyhedron”) of an icosahedron (red part in Figure 2) and a cuboctahedron (blue part in Figure 2).
+2-035	The whole is finally encapsulated by a P8 cube.
+2-036	Table 2 summarizes ranges of the bond lengths in the clusters in 1 and the cluster cations in 2a and 2b.
+2-037	The six Ag atoms of the Ag6 octahedron bind to the μ6-Se atom, and they bind to two further Se neighbors in a slightly distorted linear manner (μ-Se-Ag-μ-Se, 1, 137.60(7)-148.18(7)°; 2a, 147.1(3)-156.39(5)°; 2b, 153.40(14)-161.18(8)°) to obtain a T-shaped coordina- tion in the sum.
+2-038	The Ag atoms of the Ag8 cube are located slightly above the centers of the eight triangular faces of the Se 12 polyhedron and adopt a near tetrahedral coordi- nation by one P and three Se atoms (Se-Ag-Se, 1, 86.05(6)-127.54(13)°; 2a, 94.19(3)-120.54(18)°; 2b, 86.16(6)-124.9(8)°; P-Ag-Se, 1, 95.40(10)-132.03(11)°; 2a, 106.83(16)-121.59(17)°; 2b, 102.77(12)-123.83(13)°).
+2-039	The selenolate Se atoms in turn act as μ3 bridges to two Ag atoms of the Ag8 cube and one Ag atom of the Ag6 octahedron.
+2-040	The eight terminal PR3 ligands point away from the vertices of the Ag8 cube.
+2-041	Disregarding the situation in the cluster center, the Ag/Se/P cluster cores of 1 and 2 are topologically iden- tical to the homologous Ag/S/P cluster cores in [Ag 14-(μ6-S)(SPh)12(PPh3)8] 3 4CH3OH 3 13H2O,[29a] the cation in [Ag 14(μ6-S)(Tab)12(PPh3)8\](PF6)12 (Tab = 4-(trimethyl- ammonio)benzenethiolate),[29b] the charge of which is, how- ever, caused by zwitterionic ammonium-thiolate ligands, and the Ag/Te/P cluster core of [Ag 14(μ6-Te)(TePh)12-(PEt 2Ph)8].[29c] However, in the cited compounds, the centers of the [Ag14 S12 ] face-centered cubes are always fully occupied, as in 1, whereas a defect situation as observed in 2a or 2b was so far not reported.
+2-042	The different bond lengths in 1 on the one hand and 2 on the other hand correspond to the different charge in both cluster types: in 2a and 2b, the Agoct-μ6-Se bonds are significantly elongated.
+2-043	This latter is in accordance with the observation that best refinement of the crystal structures with equally sized thermal ellipsoids was achieved for sof = 0.5 at the central μ6 bridging Se position to account for the overall þ1 charge.
+2-044	An obvious alternative model with a fully occupied Cl- instead of the
+2-045	Table 3.
+2-046	Ranges of Calculated Distances for 1 c, 2c1þ, 2 c2þ and the average of 1c
+2-047	Agoct-μ6-Se 269.9-273.3 280.6-282.1 Agoct-μ-Se 259.1-269.5 256.9-263.2 250.6-252.0 254.9-260.3 Ag cube-μ-Se 267.6-291.1 270.6-288.2 279.3-293.5 271.6-291.8 Ag-P 246.9-260.6 241.5-250.5 241.4-249.7 244.1-252.5 half-occupied Se2- ion, the electron numbers of which are the same, cannot be ruled out by means of X-ray diffrac- tion, though refinement of the Cl-containing model gives a little higher wR2 and R1 residuals for both structures 2a and 2b.30 But in EDX analyses, 1.95 Cl atoms per Sn atom were found for 2a and 1.80 for 2b, instead of 3.0 Cl atoms as expected for a Cl-centered cluster, which we consider a significant result.
+2-048	Thus, half of the clusters in 2 contain a central Se ligand, whereas the other half exhibit an empty cluster center.
+2-049	The structures of the statistically distributed neu- tral and þ2 charged clusters in 2 are averaged over the crystal l, leading to somewhat elongated displacement parameters and, of course, to averaging of the interatomic distances (Tables 2 and 3).
+2-050	In addition, residual electron densities indicated the presence of a second slightly inclined cluster core orientation with small occupations refined in a split atom disorder model to 7.5(1) % for 2a and 4.6(2) % for 2b, respectively.
+2-051	The data set of com- pound 2b is very poor, such that this compound is presented mainly as further indication for the existence of the charged species.
+2-052	The charge of the clusters in 2a and 2b is compensated for by one [R 3SnCl2]- Cy).
+2-053	In [R3SnCl2]-, tin is bonded to three R groups and two chloride ligands, resulting in a distorted trigonal bipyramidal geometry.
+2-054	The anions additionally serve to connect the clusters by a Cl ing interaction.
+2-055	In 2a into one-dimensional chains running along the crystal- lographic [201] direction anion per formula unit (R = Ph or 3333 H-CPh hydrogen-bond- , these interactions align the clusters (Cl 3333 H, 272.00(5) pm; Cl 333 H-Ph, 138.61(8)- °; Figure 3), whereas in 2b, one [Cy3SnCl2] anion connects every six clusters by Cl 333 H-CPh hydrogen bonds from Cl1 or Cl2 to three adjacent clusters each around the crystallographic c axis (Cl 333 H, 277.3(3)-323.0(5) pm; Cl 158.38(2)°). 3333 H-Ph, 136.35(10) - Quantum Chemical Investigations.
+2-056	DFT investiga- tions20 were performed for model compounds with PH 3 instead of PPh 3 groups, employing the program system TURBOMOLE,24,25 in order to rationalize the unusual structural and charge features.
+2-057	A neutral cluster [(H 3PAg) 8- Ag6(μ6-Se)(SePh)12 ] (1c ) and two charged ones;with a (30) The poor solubility of complex from obtaining good quality 2a in CDCl3 and CD2Cl 2 refrained us 77Se NMR spectra.
+2-058	148 Inorganic Chemistry, Vol. 49, No. 1, 2010
+2-059	central Se atom, [(H 3PAg)8Ag6(μ6-Se)(SePh)12]þ (2c1þ), or without a central Se ligand, [(H 3PAg)8Ag6(SePh)12]2þ (2c2þ);were calculated to exclude a pure oxidation of the cluster with unchanged composition (2c1þ).
+2-060	The mole- cular structure of 1 is well-reproduced by the calculations (Table S1, Supporting Information, and Table 3), with maximum Δd = 15.5 pm at the longest Agcube-μ-Se bond Ag12-Se12 (exptl: 3.066(2) pm) and smaller maximum deviations of Δd = 8.4 (Agoct-μ6-Se), 7.8 (Agoct-μ-Se), and 8.1 pm (Ag-P) for the stronger bonds.
+2-061	For 2, neither the structural parameters of the singly charged hypothe- tical species 2c1þ nor those of 2c2þ showed satisfying agreement with the observed structures (Table S2, Sup- porting Information, and Table 3).
+2-062	As expected, best agreement with the average bond lengths in 2 was achieved by averaging the structural parameters of 1c and 2c2þ with maximum Δd = 11.6 pm at the Agcube-μ-Se bonds, 6.0 pm for Agoct-μ-Se and 5.2 pm at Ag-P bonds (vs 2a).[31]
+2-063	The deviations observed for the singly charged species 2c1þ are in a similar range but;untypical for DFT calculations;show in part significantly shorter bonds (up to -7.5 pm) than the experimental results.
+2-064	This, together with the fact that an oxidation of the cluster seems chemically questionable, gives strong evidence for the 1:1 mixture of an uncharged and a doubly charged cluster to be the most likely model.
+2-065	The calculations show identical trends on going from 1 to 2 (neutral to a charged one; 259.1-291.0 pm (1c ) to 254.9-291.8 pm (av (1c; 2c2þ))) for the Ag-Se and (246.9-260.6 pm (1c) to 244.1-252.5 pm (av (1c ; 2c2þ))) for Ag-P distances as observed in the experiment.
+2-066	Optical Absorption and Emission Spectra.
+2-067	Single crys- tals of 1, 2a, and 2b have been investigated by means of solid-state optical absorption spectroscopy.
+2-068	Solutions of the three compounds in dichloromethane were investi- gated by means of photoluminescence spectroscopy.
+2-069	Figure 4 shows the solid-state UV-vis spectra of the
+2-070	compounds and the luminescence properties of 1, 2a, and 2b.
+2-071	Since both the silver and tin atoms possess a complete d[10] shell according to the DFT study (formal AgI, SnIV), only Se(p) f M(s,p) charge transfer processes are ex- pected for the absorption process.
+2-072	One observes an onset of absorption, that is, the lowest electronic excitation energy, at 433 nm (2.86 eV, 1), 461 nm (2.68 eV, 2a), and 458 nm (2.70 eV, 2b), which are all in agreement with the observed color of the compounds.
+2-073	Further onsets of absorption are due to intraligand charge transfer pro- cesses involving the aromatic groups.
+2-074	The emission spectra of the three compounds are dominated by the known luminescence of the PPh 3 ligand between 420 and 450 nm.[32]
+2-075	Therefore, the cluster heavy atoms are obviously not involved in the luminescence process; both emissions that are associated with Se2- to Agþ charge transfer originating from triplet excited states as well as intrasilver d-s/d-p type transitions are ex- pected to occur at distinctly lower energies.[33]
+2-076	As observed for the absorption properties, the emissions of the ionic compounds 2a and 2b are slightly different than those of the neutral cluster 1.
+2-077	The emission λmax of 2a and 2b (420 nm) is shifted by ca. 30 nm to higher energies with respect to 1.
+2-078	Comprehensive theoretical studies are cur- rently undertaken to gain further insight into the optical properties of the clusters, which are very demanding due to the large size of the complete clusters (420/421 atoms) and cannot be performed using the model compounds as they could for the structural investigations.
+2-079	Several quantum chemical investigations;ab initio or molecular dynamics;and physical measurements were reported that served to study capture properties of silver clusters with fcc topology for small molecules like O 2 or CO.[34]
+2-080	All of these investigations took the tetradeca- nuclear fragment of the fcc packing as a model for the
+2-081	Article
+2-082	reactive Ag surfaces of silver metal.
+2-083	With our report on a potentially free site within a 14 silver atom Ag/Se cluster, we show that a similar host-guest situation;including small molecules or ions;might also be meaningful for silver chalcogenides.
+2-084	Syntheses and characterization of three tetradecanuclear silver selenide clusters were reported, the Ag/Se cores of which are protected from further aggregation by Ph and PPh3 groups.
+2-085	The clusters show similar, highly distorted halite-type topologies, however with two of the compounds revealing a partial loss of the central Se atom.
+2-086	The latter additionally provokes a positive charge of the defect cluster structures.
+2-087	Inorganic Chemistry, Vol. 49, No. 1, 2010 149
+2-088	DFT calculations helped to rationalize both the structural answer on the different compositions and very weak Ag-μ6-Se contacts as an obvious precondition for the mobility of the central ligand.
+2-089	Ongoing work is dedicated to clarifying the so far unknown role of one of the precursors that seems to possess an indirect role in the cluster formation processes.

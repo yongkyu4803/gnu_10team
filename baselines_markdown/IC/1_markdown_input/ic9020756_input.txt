@@ -1,0 +1,448 @@
+# document_id: ic9020756
+# extractor: kordoc-markdown-adapter-1
+1-001	Today, magnetic resonance imaging (MRI) is one of the most powerful diagnostic methods in clinical medi- cine.
+1-002	The intrinsically low sensitivity of MRI is often improved by the application of contrast agents (CA); about 40% of all MRI examinations are made after administration of a contrast medium.
+1-003	These paramag- netic substances reduce the longitudinal (T1) and trans- verse (T2) relaxation times of water protons in the body tissue resulting in an increased image contrast.
+1-004	Nowa- days, the majority of contrast agents used in the clinics are Gd3þ complexes that affect primarily the T1 relaxation
+1-005	*To whom correspondence should be addressed.
+1-006	Tel.: þ33238257625 ( E.T.); þ420 2 2195 1259 (I.L.).
+1-007	Fax: þ33238631517(E.T.); þ42022195 1253 (I.L.).
+1-008	E-mail: eva.jakabtoth@cnrs-orleans.fr (E.T.); lukes@natur.cuni.cz (I.L.).
+1-009	time of water protons and provide positive contrast on T1-weighted MR images.[1-3]
+1-010	The efficiency of a CA is described by its proton relaxivity (r1) which is defined as the paramagnetic enhancement of the longitudinal water proton relaxation rate referred to 1 mM concentration of the agent.
+1-011	The overall relaxivity is deter- mined by microscopic properties of the paramagnetic com- plex and originates from inner- and outer-sphere mecha- nisms.1The inner-sphere relaxivity contribution is due to the presence of water molecule(s) in the first coordination sphere of the paramagnetic ion that exchange with the surrounding water, thus transmitting the paramagnetic effect of the metal ion to the bulk.
+1-012	Consequently, the inner-sphere relaxivity is linearly proportional to the number of coordinated water molecules (hydration number, q) and also depends on their exchange rate, kex.
+1-013	The rotational motion of the chelate, described by the rotational correlation time, τr, as well as the
+1-014	Article
+1-015	Inorganic Chemistry, Vol. 49, No. 7, 2010 3225
+1-016	relaxation rates of the electron spin of the metal ion, T1,2e, are other important parameters determining relaxivity.
+1-017	The outer-sphere relaxivity term arises from the random translation diffusion of water protons in the proximity of the paramag- netic ion and contributes up to 50% to the overall relaxivity for small-molecular-weight chelates.
+1-018	While Gd3þcomplexes have been extensively studied in the context of MRI, much less attention has been devoted to paramagnetic transition metals.
+1-019	Among them, Mn2þ is the best candidate given its high spin (5 unpaired electrons) and slow electronic relaxation.
+1-020	One advantage of Mn2þ com- plexes could be their fast water exchange, which is often in the optimal range to attain high relaxivities, while this factor can be highly limitative for Gd3þ-based agents.
+1-021	Manganese is a biogenic element.
+1-022	It is a cofactor in several enzymes such as manganese superoxide dismutase[4] or glut- amine synthetase.[5]
+1-023	Due to their similar ionic radius, Mn2þ shows biological and chemical similarity to Ca2þ, enabling, e.g., calcium influx detection,6and has a high affinity for Ca2þ and Mg2þ binding sites in proteins[7] and nucleic acids.[8]
+1-024	The free Mn2þ aqua ion shows toxicity only at higher concentra- tions.[9]
+1-025	Nevertheless, the accumulation of Mn2þ has been
+1-026	proven in the brain,[10] which can lead to neurological dis- orders resembling Parkinson’s disease.[11]
+1-027	In the current medical practice, only one Mn2þ-based CA, [Mn(DPDP)]4-, is used in liver or cardiac imaging (DPDP6-= N,N0-dipyridoxylethylenediamine-N,N0-diacetate-5,50-bis- (phosphate); Chart 1).[12,13]
+1-028	The complex itself has no coordi- nated water molecule, and the observed in vivo relaxation effect comes from free Mn2þ released from the chelate.
+1-029	The presence of the ligand is only important to ensure a slow release of Mn2þ which prevents toxicity observed on the direct application of simple manganese(II) salts.
+1-030	Indeed, a specific field of application of Mn2þ in MRI is manganese enhanced magnetic resonance imaging (MEMRI), where mostly manganese(II) chloride is used.[14]
+1-031	The main draw- back of this method is manganese toxicity for concen- trations providing sufficient contrast; thus, MEMRI is limited to small animal imaging.
+1-032	The design of ligands simultaneously satisfying stable Mn2þ complexation and good MRI efficiency remains a coordination che- mistry challenge.[15]
+1-033	Indeed, the high complex stability and the presence of water molecule(s) directly coordinated to Mn2þ are often contradictory requirements.
+1-034	Conse- quently, relatively few data have been reported on Mn2þ chelates in the context of MRI contrast agent applications.
+1-035	The Mn2þ complexes studied so far involve chelates of
+1-036	linear polydentate ligands, like EDTA4- 16-19 or DTPA5-derivatives,[20] or of macrocycle-based ligands, NOTA3- 21,22
+1-037	4- 18,21,23,24
+1-038	and DOTA (Chart 1).
+1-039	These complexes have a maximum of one water molecule in the first coordination sphere.
+1-040	Creating ligands that form bishydrated Mn2þ com- plexes of sufficient stability is a considerable problem and likely needs macrocyclic structures.
+1-041	Due to the lack of crystal-field stabilization caused by the d[5] electron configuration of Mn2þ and a lower positive charge, Mn2þ complexes are, in general, thermodynamically less stable than their transition metal ion or Gd3þ analogues.
+1-042	Therefore, their kinetic stability can play a very important role in prevent- ing in vivo toxicity.
+1-043	So far, dissociation or transmetalation kinetic data for Mn2þ chelates has not been reported in the literature.
+1-044	With the objective of exploring novel ligand systems that simultaneously ensure stable Mn2þ complexation and high efficiency in potential MRI applications, we have considered 15-membered aza-crown ethers.
+1-045	Such systems have been exten- sively investigated as superoxide dismutase (SOD) mimics.[25,26]
+1-046	We have synthesized pyridine-derivative macrocycles L1 and L2 (Chart 1) and investigated their Mn2þ complexes.
+1-047	These ligands are expected to provide a structural motif ensuring balance between complex stability, the presence of coordinated water, and suitable microscopic parameters governing relaxivity.
+1-048	The introduction of a pyridine ring into the macrocycle skeleton will rigidify the complex, which can contribute to an increased kinetic stability, as it has been observed for linear[27] or macro- cyclic[25,28] chelators.
+1-049	The Mn2þ complexes are expected to be bishydrated, with all five ligand donor atoms lying in the equa- torial plane and two water molecules occupying the axial positions of the pentagonal bipyramid (overall coordination number of seven).
+1-050	Such a coordination environment is com- monly found in solid-state structures of the complexes with 15-membered macrocyclic ligands; however, in these cases, some of the apical positions are usually occupied by anion(s).[25,29]
+1-051	Nevertheless, bishydration was found in the solid state for the
+1-052	Mn2þ complex of a C-substituted analogue of L2,[30] as well as for several complexes with related Schiff bases.[31]
+1-053	Recently, the bishydration was confirmed also in solution for Mn2þ com- plexes of pentaaza macrocycles, including L2.[32]
+1-054	Importantly, since the two inner-sphere water molecules are situated in the axial positions on two opposite sides of the macrocycle plane, the formation of ternary complexes and, thus, the replacement of these waters by endogenous bidentate anions should not be important.
+1-055	Moreover, potentiometric data indicated reasonable stability for MnL2.[25,32]
+1-056	Here, we report several crystal structures of the free ligands and of MnL1 and MnL2 complexes.
+1-057	In solution, the ligand protonation constants and the thermodynamic stability con- stants of the complexes formed between L1 or L2 and various transition and alkaline earth metal ions were determined by pH- potentiometric titrations.
+1-058	In order to gain insight into the disso- ciation kinetics behavior of the MnL2 complex, we studied its transmetalation with Zn2þ.
+1-059	To the best of our knowledge, this is the first transmetalation study on a Mn2þ complex.
+1-060	Finally, in order to assess the parameters governing proton relaxivity, variable-temperature 17O NMR and1H NMRD measurements were performed on both Mn2þ complexes.
+1-061	The formation of ternary complexes in the presence of some endogenous small anions was also investigated by relaxometric titrations.
+1-062	In the following, the short formulas MnL1 or MnL2 will be used instead of the full formulas [Mn(H2O)2(L1)]2þ or [Mn(H2O)2(L2)]2þ, respectively, for the complex cations, except the cases where the full formula is necessary.
+2-001	Synthesis.
+2-002	General.
+2-003	Dry solvents were prepared by standard purification procedures,[33] distilled under argon, and stored over 4 A molecular sieves in an argon atmosphere: THF (Penta, distilled from Na,K/benzophenone), CHCl3 (Penta, distilled from P 2O5), and MeOH (Penta, distilled from Na).
+2-004	The diethyl- ester of pyridine-2,6-dicarboxylic acid,[34] 2,6-bis(hydroxy- methyl)pyridine,[35] pyridine-2,6-dicarbaldehyde,[36] and the di- sodium salt of tetratosylated trien[37,38] and L239 were prepared according to the literature (or slightly modified, see the Support- ing Information) procedures.
+2-005	Other solvents and chemicals were purchased from commercial sources and used as received.
+2-006	[Mn(L1)(Cl)2][Mn(L1)- [Mn(L2)(Cl)2][Mn-
+2-007	(all data)a
+2-008	wR1 [I g 2σZ(I)]; 0.3809; 0.3880 0.0823; 0.1240 0.0359; 0.0708 0.0482; 0.0802 0.1752; 0.3654
+2-009	wR2 (all data)a
+2-010	a P P P 2 2 2 P 2 2 1/2
+2-011	R1, R2 = \|Fo - Fc\|/ \|Fc\|; wR1, wR2 = [ w(Fo - Fc ) / w(Fo ) ] (ref 44).
+2-012	NMR spectra were recorded on a Varian VNMRS300 spec-1 (LþNa)þ.
+2-013	Elemental analysis for C13H21N3 O2 3 C 2H5OH 33H2O trometer at 25 °C: H 299.9 MHz, TMS (internal) δ = 0.00 ppm; found (calculated): C, 50.86 (51.26); H, 8.11 (9.46); N, 11.68 13C 75.4 MHz, TMS (internal) δ = 0.00 ppm; CHCl 3 (internal) (11.96).
+2-014	δ = 77.00 ppm.
+2-015	Multiplicity of the signals is indicated as follows: s, Crystal Structure Determination.
+2-016	Single crystals of the per- singlet; d, doublet; t, triplet; q, quartet; m, multiplet; br, broad. chlorate salts of the free ligands were obtained by slow cooling of Deuterated solvent CDCl3 (99.8% D) from Chemtrade was used a saturated aqueous ligand solution, acidified by several drops as received.
+2-017	Mass spectra were measured on a Bruker spectro- of perchloric acid (conc. 65%).
+2-018	The solutions of the complexes meter ESQUIRE 3000 equipped with an electro-spray ion were prepared by mixing an aqueous ligand solution (cL = 17 source and ion-trap detector in positive/negative mode and on mM) and manganese(II) chloride or manganese(II) perchlorate an Autoflex instrument (Bruker Daltonics, Bremen, Germany) (cMn = 99 or 157 mM) in a Mn/L molar ratio of 1:1.05.
+2-019	The using the MALDI-TOF ionization/detection technique.
+2-020	For solutions were evaporated to dryness under reduced pressure, thin layer chromatography, Merck aluminum foils with silica and the residue was dissolved in EtOH.
+2-021	The single crystals for gel 60 F254 impregnated with a fluorescent dye were used. the X-ray analysis were prepared by a slow vapor diffusion of Elemental analyses were done at the Institute of Macromole- Et2O into the ethanol solution of the Mn(II) complexes at 5 °C.cular Chemistry (Academy of Science of the Czech Republic, Selected crystals were mounted on a glass fiber in random Prague). orientation and cooled to 150(1) K. The diffraction data were 3,12,18-Triaaza-6,9-dioxabicyclo[12.3.1]octadeca-1(18),14,16- collected on a Nonius Kappa CCD diffractometer (Enraf- triene (L1, 15-pyN3O 2).[40,41]
+2-022	Pyridine-2,6-dicarbaldehyde (1.50 Nonius) using Mo KR (λ = 0.71073 A) at 150(1) K (Cryo- g, 11.1 mmol) and MnCl2 3 4H2O (2.18 g, 11.0 mmol) were stream Cooler Oxford Cryosystem) and analyzed with the HKL42 dissolved in dry MeOH (150 mL).
+2-023	The solution of 1,8-diamino- DENZO program package.
+2-024	The structures were solved by 3,6-dioxaoctane (1.66 g, 11.2 mmol) in dry MeOH (25 mL) direct methods and refined by full-matrix least-squares techni- was added dropwise over 15 min.
+2-025	The yellow reaction mixture ques [SIR92 (ref 43) and SHELXL97 (ref 44)].
+2-026	The scattering was heated for 2 h at 60 °C and became light brown.
+2-027	After factors used for neutral atoms were included in the SHELXL97 cooling to 0 °C, NaBH4 (5.61 g, 148.3 mmol) was added portion- program.
+2-028	Selected experimental data are listed in Table 1.
+2-029	wise.
+2-030	The solution was left stirring overnight at RT.
+2-031	Water (50 In the structure of (H3L1)(ClO4)3, three protonated ligand mL) was slowly added, inducing precipitation of Mn(OH)2 molecules and nine perchlorate anions form the independent (which started to oxidize), and this suspension was stirred at unit.
+2-032	The hydrogen atoms were located in the electron density RT for 1 h.
+2-033	MeOH was removed in vacuo, and the remaining difference map; however, they were fixed in theoretical positions aqueous phase was extracted with CH2 Cl2 (3 50 mL).
+2-034	The using Ueq(H) = 1.2Ueq(X).
+2-035	The residual maxima of electronic organic layer was dried with anhydrous sodium sulfate, and the density lay very close to chlorine/oxygen atoms, pointing to a solvent was evaporated under reduced pressure.
+2-036	The crude disorder of the corresponding perchlorate anions.
+2-037	These dis- product was purified by column chromatography (SiO 2, orders could be reliably modeled only in the case of three anions.
+2-038	EtOH/NH3 (aq.) 20:1, Rf = 0.3) and dried in vacuo at 50 °C to All non-hydrogen atoms were refined anisotropically, except obtain a yellowish oil (2.06 g, 74% based on pyridine-2,6- for several atoms of one macrocycle unit which became dicarbaldehyde). nonpositive-definite, and except for disordered (not fully occupied) 1H NMR (CDCl3 ): δ 2.65 (NH, 2H, br s); 2.75 (OCH2CH2 N, perchlorate oxygen atoms; these atoms were treated isotropi-4H, m); 3.51 (OCH2CH2O, 4H, s); 3.58 (OCH2CH2N, 4H, m); cally.
+2-039	In the crystal structure, there is still a number of residual 3.81 (NCH2py, 4H, s); 6.90 (CH arom., 2H, d, 3 JHH = 7.8 Hz); density peaks (1-2 e A-3, the largest ones are nonreliable close 7.42, (CH arom., 1H, t, 3JHH = 7.8 Hz).
+2-040	13C{[1] H} NMR: δ 49.0
+2-041	(CH2-N, 2C); 53.2 (CH2-N, 2C); 69.5 (CH 2-O, 2C), 70.1
+2-042	(CH2-O, 2C); 120.4 (CH arom., 2C); 136.9 (CH arom., 1C); (42) (a) Otwinovski, Z; Minor, W. HKL Denzo and Scalepack Program þ Package; Nonius BV: Delft, The Netherlands, 1997.
+2-043	(b) Otwinovski, Z.; Minor, 156.9 (C-CH2 , 2C).
+2-044	MS, m/z (þ): 252.0 (LþH) ; 274.0
+2-045	W. Methods Enzymol. 1997, 276, 307–326.
+2-046	to the chlorine/oxygen atoms, pointing to a disorder in the perchlorate fragments), which decrease the quality of the statis- tical parameters of the refinement.
+2-047	Those maxima are probably artifacts of a low crystal quality.
+2-048	However, the structure of the ligand molecules could be determined unambiguously as evi- denced by the reasonable values of the bonding parameters.
+2-049	In the structure of (H4L2)(ClO4 )4 3 H2O, two independent ligand molecules were found.
+2-050	All non-hydrogen atoms were refined anisotropically.
+2-051	The hydrogen atoms, including those attached to water oxygen atoms, were located in the electron density difference map; however, they were fixed in theoretical (C-H, N-H) or original (O-H) positions using Ueq(H) = 1.2Ueq(X).
+2-052	In the structure, there are eight independent per- chlorate anions.
+2-053	The highest maximum of residual electronic density lays very close to one of the chlorine atoms, pointing to a slight disorder of the corresponding perchlorate anion.
+2-054	This disorder cannot be appropriately modeled.
+2-055	In the crystal structure of [Mn(L1)(H2O)Cl\](ClO4), all non-hydrogen atoms were refined anisotropically.
+2-056	The hydrogen atoms, including those attached to water oxygen atoms, were located using the electron density difference map; however, they were fixed in theoretical (C-H, N-H) or original (O-H) positions using Ueq(H) = 1.2Ueq(X).
+2-057	As this compound crystal- lized in a noncentrosymmetric space group P21212 1, only one enantiomer was present in the crystal structure (the chirality of the molecule is brought by the torsion of the five-membered chelate rings, which is, going from the pyridine nitrogen atom, δλδλδ).
+2-058	Chirality was assigned using a possibility with Flack’s parameter equal to zero.
+2-059	However, principally, both enantio- mers must be formed during the complexation reaction, as there was no source of chirality in the reaction mixture.
+2-060	In the crystal structure of [Mn(L1)(Cl)2 ][Mn(L1)(H2O)-Cl]Cl 3 1.5H2O, all non-hydrogen atoms were refined anisotro- pically.
+2-061	The largest maximum in the electronic difference map was assigned to the chloride anion, and the four remaining high difference electronic maxima isolated were best refined as dis- ordered solvate water molecules.
+2-062	Two larger (very close) max- ima were interpreted as one molecule with full occupancy, and two neighboring, less intense maxima were attributed to half- occupied water molecules.
+2-063	Hydrogen atoms were located using the electron density difference map; however, they were fixed in theoretical (C-H, N-H) or original (O-H) positions using Ueq(H) = 1.2Ueq(X).
+2-064	In the structure of [Mn(L2)(Cl)2][Mn(L2)(H2O)Cl] 2Cl2 3 4H2 O, three independent complex units were found, two mono- aqua-monochlorido and one dichlorido species, together with two chloride anions.
+2-065	Several remaining electronic density max- ima were attributed to solvate water molecules, one of them disordered in two positions.
+2-066	All non-hydrogen atoms (except of disordered water solvate) were refined anisotropically.
+2-067	Despite the low quality of the crystal data, most of the hydrogen atoms could be located in the electronic density map; however, they were fixed in theoretical (C-H, N-H) or original (O-H) positions using Ueq(H) = 1.2Ueq(X).
+2-068	In the crystal structure, there is still a number of residual density peaks (1-2 e A-3, the largest ones are nonreliable, close to the manganese(II) ions), which decrease the quality of the statistical parameters of the refinement, but they are probably artifacts of a low crystal quality and cannot be reasonably interpreted.
+2-069	Nevertheless, the structure of the complexes could be determined unambigu- ously, even with reasonable esd’s of the bond parameters.
+2-070	Potentiometric Measurements.
+2-071	To determine the protonation constants of the ligands and the stability constants of their complexes formed with different metal ions, potentiometric titrations were carried out at a 1:1 metal-to-ligand molar ratio.
+2-072	Titrations were performed at 25.0 ( 0.1 °C and at an ionic strength of I = 0.1 M (NMe4Cl) using deionized water.
+2-073	An inert atmosphere was provided by a constant passage of argon saturated with the solvent vapor.
+2-074	The titrations were run in
+2-075	the -log[Hþ] range from 1.8 (L1) or 2.5 (L2; except Cu2þ starting at -log[Hþ] 1.6) to 11.8 (or until precipitation of the metal hydroxide) with an extra HCl added to the starting solution.
+2-076	A PHM 240 pH-meter, a 2-mL ABU 901 automatic piston buret, and a GK 2401B combined electrode (all Radio- meter, Denmark) were used.
+2-077	The initial volume in the titration cell was 5 mL.
+2-078	Titrations were performed with a NMe 4OH solution (∼0.2 M), and the concentration of the ligand in the titrated solutions was ∼0.004 M. For each system, four parallel titrations were carried out, one titration consisting of about 50 points.
+2-079	All equilibria were established quickly.
+2-080	For calculations, the OPIUM software package was used.45The value of pKw was 13.81.
+2-081	The stability constants of the M2þ-OH- systems were taken from the literature.[46]
+2-082	For more details about potentio- metric titrations, see previous papers.[47]
+2-083	In the followings, pH will mean -log[Hþ] and all the equilibrium constants are concentration constants.
+2-084	Sample Preparation for NMR Measurements.
+2-085	The Mn2þ complexes have been prepared by mixing solutions of MnCl2 or Mn(ClO 4)2 and the ligand (in 10% molar excess) and adjust- ing the pH to 8.0.
+2-086	MnL1, MS m/z (þ): 341.1 (MnL1Cl)þ; 494.0 (MnL1(CCA))þ.
+2-087	MnL2, MS m/z (þ): 339.1 (MnL2Cl)þ; 492.1 (MnL2(CCA))þ (HCCA = R-cyano-4-hydroxycinnamic acid).
+2-088	Caution!
+2-089	Dry powder perchlorate samples, especially in larger quantities, should be handled with great care.
+2-090	17O NMR Measurements.
+2-091	Variable-temperature 17O NMR measurements of aqueous solutions of MnL1 or MnL2 (cMnL = 5 mmol/kg, pH 8.0, in 0.1M TRIS buffer; TRIS = tris- (hydroxomethyl)aminomethane) were performed on a Bruker Avance 500 MHz spectrometer (11.7 T, 67.8 MHz) in the temperature range 0-85 °C. The temperature was calculated according to previous calibration with ethylene glycol and MeOH.[48]
+2-092	Acidified water (HClO4, pH = 3.3) or the corre- sponding Zn2þ complex at identical concentration and pH as the paramagnetic Mn2þ sample were used as standard diamagnetic references, and they gave identical results, as in previous studies.
+2-093	The 17O longitudinal (T1) and transverse (T2) relaxation times were obtained by the inversion-recovery pulse sequence[49] and Carl-Purcell-Meiboom-Gill spin-echo technique, respec- tively.[50]
+2-094	To eliminate the susceptibility corrections to the che- mical shift[51] the sample was placed in a glass sphere fixed in a 10 mm NMR tube.
+2-095	To improve sensitivity, the amount of 17O was enriched by adding H217O (10% H217O, CortecNet) to achieve approximately 1% 17O content in the sample.
+2-096	NMRD Measurements.
+2-097	The 1 H NMRD profiles of aqueous Mn2þ complex solutions (cMn2þ = 5 mM, pH 8.0, 0.1 M TRIS buffer) were measured at 25, 37, 50, and 65 °C on a Stelar SMARTracer Fast Field Cycling NMR relaxometer (0.00024-0.24 T, 0.01-10 MHz 1H Larmor frequency) and a Bruker
+2-098	Article
+2-099	Inorganic Chemistry, Vol. 49, No. 7, 2010 3229
+2-100	WP80 NMR electromagnet adapted to variable-field measure- ments (0.47-1.88 T, 20-80 MHz 1H Larmor frequency) and controlled by the SMARTracer PC-NMR console.
+2-101	The tem- perature was controlled by a VTC91 temperature control unit and maintained by a gas flow.
+2-102	It was determined according to previous calibration with a Pt resistance temperature probe.
+2-103	The relaxivity at 500 MHz was measured on a Bruker Avance 500 (11.75 T) spectrometer.
+2-104	The temperature was calculated accord- ing to the previous calibration with ethylene glycol and MeOH.[48]
+2-105	Anion Binding Study.
+2-106	To assess ternary complex formation with small endogenous anions, relaxometric titrations were carried out on a Stelar SMARTracer Fast Field Cycling NMR relaxometer at 0.5 MHz and 25 °C. A solution of the anion
+2-107	(c(phosphate) = c(carbonate) = c(citrate) = 100 mM) was added step-
+2-108	wise to 1 mL of the Mn2þ complex solution (cMn2þ = 1 mM, 0.1 M TRIS buffer, pH 8.0) up to 100 equivalents of the anion.
+2-109	Dissociation Kinetics.
+2-110	The transmetalation of MnL2 with Zn2þ was followed by monitoring the relaxivity at 0.5 MHz on a Stelar SMARTracer Fast Field Cycling relaxometer (cMn2þ = 1 mM, 0.02 M MES buffer; MES = 2-(4-morpholino)ethane- sulfonic acid) in the pH range 4.7-6.0 and in the presence of 5-, 10-, 20-, 30-, and 50-fold excesses of the exchanging Zn2þ at 25 °C and 0.1 M KCl.
+2-111	Data Evaluation.
+2-112	The analysis of the experimental 17O NMR, 1H NMRD, and kinetic data was performed with the Micro- math Scientist program (version 2.0, Salt Lake City, UT) using a least-squares fitting procedure.[52]
+3-001	Syntheses.
+3-002	The crucial precursor for the synthesis of L1, pyridine-2,6-dicarbaldehyde, was prepared from the com- mercially available pyridine-2,6-dicarboxylic acid by its esterification to diethyl ester,[34] subsequent reduction by NaBH4 to 2,6-bis(hydroxymethyl)pyridine,[35] and gentle selective oxidation employing MnO2.[36]
+3-003	The last two reac- tion steps were slightly modified with respect to literature procedures (see the Supporting Information) where, in particular, the purification procedures were improved.
+3-004	Ligand L1 was previously prepared by the template reaction on Mg2þ.[40]
+3-005	To facilitate the procedure and, mainly, to avoid the high-dilution technique, the template reaction on Mn2þ was employed (Scheme 1).
+3-006	The reaction conditions were similar to those previously described for the preparation of Mn2þ complexes with a Schiff-base derived from 2,6-diacetylpyridine and different amines or aminoethers.[41]
+3-007	After reduction of the Mn2þ Schiff base complex (not isolated) with NaBH 4 and hydrolysis of the hydride excess, the manganese precipitated in the form of Mn(OH)2 and was further oxidized in the air allowing a simple demetalation to obtain the free ligand which was purified by column chromatography.
+3-008	The additional
+3-009	purification could be done by a high-vacuum distillation (<10-2 mbar).
+3-010	The overall yield was 74%.
+3-011	The manganese(II) complex of L2 (which could be demetalated as above) has also been prepared directly by the analogous template synthesis but in a rather low yield.[32]
+3-012	In our hands, any attempts to reproduce the synthesis failed, giving only nonpurifiable reaction mix- tures.
+3-013	Therefore, the general Atkins-Richman procedure was used for the synthesis of the macrocycle.[39]
+3-014	The procedure was slightly modified (Supporting Informa- tion).
+3-015	The MS spectrum after the deprotection showed only the molecular ion of the pure product, but there were two spots on TLC.
+3-016	To ensure the purity of L2, column chromatography was performed, and the final product was obtained in a 42% overall yield as a light-yellow solid (Supporting Information).
+3-017	Crystal Structures.
+3-018	Crystal Structures of the Free Ligands.
+3-019	In the structure of H3L1(ClO4)3, three indepen- dent ligand molecules were found, adopting very close geo- metries.
+3-020	Therefore, only one of them is shown in Figure 1.
+3-021	The molecules have a propeller-like shape, with a pseudo-C2 symmetry axis passing through carbon C17, nitrogen N1, and the center of the C8-C9 bond.
+3-022	All amino groups (secondary amines and the pyridine nitrogen) were found to be protonated.
+3-023	The protonation of the pyridine nitrogen atom N1 is stabilized by two medium-strong hydrogen bonds involving the macrocycle oxygen atoms O7 and O10, with dN 333 O ∼ 2.8-3.0 A. Such a hydrogen bond system results in a twisting of the macrocycle cavity.
+3-024	The protonated secondary amino groups contribute to an ex- tended hydrogen bond system involving oxygen atoms of the perchlorate counterions.
+3-025	However, several perchlorates have no hydrogen-bond contacts, resulting in a disorder of some of these anions.
+3-026	In the crystal structure of H4L2(ClO4)4 3 H2O, two independent ligand molecules were found, adopting very similar conformations; therefore, only one of them is
+3-027	shown in Figure 2.
+3-028	The molecules have rectangular geometry, with corners in the atoms C3, N7, N10, and C14.
+3-029	All secondary amino groups are protonated, but not the pyridine unit.
+3-030	In the independent unit, there are eight perchlorate anions, which form an extended medium-strong hydrogen bond network with protonated amino groups and solvate water molecules.
+3-031	Crystal Structures of the MnL1 Complexes.
+3-032	In the structure of [Mn(L1)(Cl)2][Mn(L1)(H2O)Cl]Cl 3 1.5H2O, two independent complex units were found, having the central Mn2þ ion coordinated in the center of the planar macrocyclic cavity, with two other donor atoms in apical positions forming the pentagonal-bipyramidal coordina- tion spheres.
+3-033	The two units differ in apically coordinating groups: in the first unit, the Mn2þ is coordinated by two chloride anions, while in the second unit, one apical site is occupied by a chloride and the coordination sphere is completed by a water molecule (Figure 3).
+3-034	In an attempt to characterize the bishydrated complex, we also used perchlorate as a counteranion with low coordination ability (i.e., Mn(ClO4) 2 as the starting salt, mixed with anion-free ligand).
+3-035	Only very few crystals suitable for the X-ray diffraction were isolated from this mixture.
+3-036	To our surprise, the X-ray analysis revealed that
+3-037	the crystal contains chloride and has a composition of [Mn(L1)(H2O)Cl\](ClO 4), with almost identical geometric parameters as the [Mn(L1)(H2O)Cl]þ unit found in the previous structure.
+3-038	It evidences that the presence of chloride is essential for a successful crystallization.
+3-039	All three MnL1 complex units have very similar pseudo- C2 geometry of the macrocyclic part, with virtual 2-fold axes laying on the Mn-N(pyridine) coordination bond.
+3-040	The 5-fold chelate rings adopt alternate δ/λ confor- mations; in the case of the chiral [Mn(L1)(H2O)Cl]-(ClO4) complex, the chirality of the chelate rings (starting from the pyridine nitrogen atom) was δλδλδ; therefore, independent molecules with the same chirality were chosen also in the centrosymmetric structure of [Mn(L1)(Cl)2]- [Mn(L1)(H2O)Cl]Cl 3 1.5H2O to have analogous signs of the torsion angles.
+3-041	The molecular structure of the [Mn(L1)(H2O)Cl]þ ca- tion found in the structure of [Mn(L1)(H2O)Cl\](ClO4) is shown in Figure S1 (Supporting Information), and se- lected geometric parameters are listed in Table 2 and Tables S1 and S2 (Supporting Information).
+3-042	Crystal Structure of MnL2.
+3-043	In the structure of the MnL2 complex, three independent complex units were found, one dichlorido and two monoaqua-monochlorido units, giving the formula [Mn(L2)(Cl)2][Mn(L2)(H2O)-Cl]2Cl2 3 4H 2O. All molecules have a pentagonal-bipyra- midal shape, with five macrocycle nitrogen atoms in the equatorial and two other donors (chloride and water molecule) in the apical positions, similarly to the previous structures of MnL1 complexes.
+3-044	Figure 4 shows the draw- ing of [Mn(L2)(Cl)2] and one of the [Mn(L2)(H2O)Cl]þ cations found in this crystal structure.
+3-045	As the compound crystallized in the centrosymmetric unit, the independent part was chosen in accordance with the previous cases of MnL1 (see above) to have δλδλδ conformation of the chelate rings, in order to obtain directly comparable values for the macrocycle torsion angles (Table S2, Sup- porting Information).
+3-046	All independent macrocyclic frag- ments have a virtual 2-fold symmetry, similarly to the previous case.
+3-047	Other structural features are also very similar (Table 2 and Tables S1 and S2, Supporting Information).
+3-048	Structural Features of the Mn2þ Complexes.
+3-049	All co- ordination bonds (Table 2) lay in the expected range, similarly to those found in related structures.[29,30]
+3-050	The
+3-051	Distances (A)
+3-052	[Mn(L2)(Cl)2][Mn(L2)(H2O)Cl]2Cl2 3 4H2O. The thermal ellipsoids are drawn with 50% probability.
+3-053	distances N(pyridine)-Mn (∼2.22-2.27 A) are slightly range of 69.6-76.1° (Table S1, Supporting Information), shorter as compared to other N-Mn bonds (2.28-2.37 consistent with the theoretical value of 72.0° for a regular A).
+3-054	The coordination bonds between the macrocycle pentagon.
+3-055	Both ligands adopt almost the same conforma- oxygen atom and the central ion are 2.25-2.32 A , on tion in the equatorial plane (Table S2, Supporting In- average only slightly longer than coordination bonds formation).
+3-056	The bond angle between apical donor atoms between the coordinated water molecule and the Mn2þ is 174.0-178.3°, which corresponds well to a regular (2.23-2.29 A).
+3-057	The distances between the hydrogen trans-apical coordination.
+3-058	atoms of the coordinated water and the Mn2þ are in the Thermodynamic Study.
+3-059	Stepwise protonation constants range of 2.74-2.98 A. The Cl-Mn coordination bonds of L1 and L2 as well as stability constants of their are 2.50-2.63 A long.
+3-060	The macrocyclic ligand forms a complexes with various transition and alkaline earth slightly distorted pentagonal plane, with a deviation of metal ions were determined by standard potentiometric the donor atoms from the mean plane in the range of titrations (Tables 3 and 4).
+3-061	The MnL2 complex has been 0.0-0.3 A. In the mixed aqua-chlorido species, the central previously investigated.[25,32]
+3-062	In the case of the Co2þ-L2 Mn2þ lays slightly above this plane toward the chloride system, metal ion oxidation prevented the titration.
+3-063	A full anions.
+3-064	In the bis(chlorido) species, the central ion lays set of the experimental values (with standard deviations) more regularly within the macrocyclic plane.
+3-065	The bond is given in the Supporting Information (Table S3).
+3-066	angles between two neighboring donor atoms in the As expected, two protonation constants were found for equatorial plane and the central Mn2þ ion are in the L1, corresponding to the secondary amine nitrogen
+3-067	atoms.
+3-068	The third protonation constant, probably related to the pyridine nitrogen, is too low to be detected under our experimental conditions.
+3-069	For L2, the three proton- ation constants observed are in good agreement with previously measured data.[25,32]
+3-070	They correspond to the protonation of the three secondary amine nitrogen atoms in the macrocycle.
+3-071	The protonation constants of the last amino group and of the pyridine are too low to be detected.
+3-072	The high acidity of the protonated pyridine unit is consistent with the solid-state structure of the perchlo- rate salt of L2 which showed only tetraprotonation (on all aliphatic amino groups) of the ligand molecule, despite the very low pH of crystallization.
+3-073	The first two proton- ation constants of L2 are both higher than the corre- sponding values for L1 resulting in a considerably higher overall basicity of L2.
+3-074	Distribution diagrams are shown in the Supporting Information (Figure S2).
+3-075	Table 3 com- pares the protonation constants of L1 and L2 with those reported for analogous, nonpyridine macrocycles.
+3-076	In general, the basicities are lower for the pyridine deriva- tives, likely caused by the electron-withdrawing effect and/or by the increased rigidity of the macrocycle induced by the pyridine ring.
+3-077	When comparing the basicity of the N 5 and N3O2 macrocycles, the differences originate from the preferential protonation of one of two nonbenzylic amine groups in the pentaaza ligands and/or the generally lower basicity of L1 due to the electron-withdrawing effect of the highly electronegative oxygen atoms.
+3-078	Among the metal ions investigated, Cu2þ forms the most stable chelates with both L1 and L2.
+3-079	Due to the high affinity of divalent copper for nitrogen donors, the CuL2 complex is much more stable than CuL1; it is almost completely formed even at the beginning of the titration (Figure S3, Supporting Information).
+3-080	The stability con-
+3-081	stants of both ligands follow the Williams-Irving rule: complexes of L1 show lower selectivity.
+3-082	For L2, the stability constant of the Zn2þ and Cd2þ complexes is about 4 orders of magnitude higher than that of MnL2.
+3-083	Complexes of both ligands form hydroxo-species in alka- line conditions while protonated complexes were detected only with L2 (Tables 4 and S3, Figures 5 and S4).
+3-084	Hence, the Mn2þ, Zn2þ, and Cd2þ complexes of L2 exhibit a stable monoprotonated species with less (e.g., four) donor atoms of the ligand coordinated to the metal ions in acidic solution.
+3-085	For the Mn2þ complexes of imine-containing macrocycles,[32] the deprotonation was attributed to li- gand changes, most probably to the base-catalyzed water addition to the imine bonds.
+3-086	In our case, the coordinated ligand itself cannot undergo any reaction associated with the consumption or formation of proton(s); therefore, we attribute the deprotonation process to the formation of a hydroxo species.
+3-087	The trends in the stability constants correspond to those found for complexes of 15-aneN 5 and 15-aneN3O2.[53,54]
+3-088	The stability of the Ca2þ and Mg2þ complexes is remarkably low as compared to the transi- tion metal analogues; thus, the alkaline earth ions should not compete with Mn2þ for the ligands under physiolo- gical conditions.
+3-089	As a general conclusion, the replacement of two nitro- gens by two oxygen atoms leads to a decrease of the ligand basicity, which is reflected in the lower stability of the Mn2þ complex.
+3-090	The complete formation of the MnL1 complex is achieved at pH ∼8 while MnL2 is fully formed at pH ∼7 (Figure 5).
+3-091	In order to better compare the stability of the Mn2þ complexes, we calculated pMn = -log[Mn2þ]free values corresponding to pH 7.4 and concentrations cMn = clig = 10-5 M (Table 5).
+3-092	It is evident that the polydentate aminocarboxylates (EDTA, NOTA, DOTA) form much more stable complexes with Mn2þ than L1 and L2.
+3-093	Nevertheless, comparing to other 15-membered macro- cycles, the introduction of the pyridine ring into the macrocycle leads to an increase of the complex stability.
+3-094	Dissociation Kinetics.
+3-095	The in vivo toxicity of Mn2þ complexes can be related to the release of free Mn2þ via proton-catalyzed dissociation or metal-assisted exchange reactions with endogenously available ions such as Ca2þ, Cu2þ, or Zn2þ.
+3-096	In general, even the Mn2þ complexes of high thermodynamic stability, like [Mn(DTPA)]3-, are kinetically labile.
+3-097	In contrast to Gd3þ complexes for which a large body of data has been reported, to the best
+3-098	log KLM(OH)2b
+3-099	a
+3-100	-12.57
+3-101	L2
+3-102	log KLM
+3-103	3.45 2.97
+3-104	10.89(11.64,e 11.12f)
+3-105	d
+3-106	21.84
+3-107	16.27 15.77
+3-108	log KHLMc
+3-109	log KLM(OH)b
+3-110	4.27(4.20,e 4.51f)
+3-111	-11.52(-11.54e)
+3-112	d
+3-113	d
+3-114	-12.30
+3-115	2.45
+3-116	-11.18
+3-117	2.70
+3-118	-11.88
+3-119	a K = [LM]/[L] [M]. b K = [LM(OH)(H O) ] [Hþ]/[LM(OH) (H O) ] for i = 1, 2. c K = [HLM]/[LM] [Hþ]. d Oxidation to
+3-120	LM LM(OH) i i 2 2-i i-123-i HLM
+3-121	Co3þ. e Ref 25 (NaClO4). f Ref 32 (NaClO4).
+3-122	Article
+3-123	Inorganic Chemistry, Vol. 49, No. 7, 2010 3233
+3-124	clig = 10-5 M)
+3-125	of our knowledge, there are no dissociation kinetic studies on Mn2þ complexes.
+3-126	In order to describe the kinetic inertness of MnL1 and MnL2 in a similar way as is commonly done for Gd3þ chelates, we investigated the transmetalation reaction with the diamagnetic Zn2þ at variable pH through monitoring the release of free Mn2þ by relaxometric measurements.
+3-127	The transmetalation of MnL1 with Zn2þ was too fast to be followed by relaxo- metry below pH 6.
+3-128	Above pH 6, the partial hydrolysis of
+3-129	Zn2þ prevented the measurements.
+3-130	For MnL2, the ob- served dissociation rate constants in the pH range 4.7-6.0 and in the presence of a 5-50-fold excess of Zn2þ are reported in Figure 6 and Table S4 (Supporting In- formation).
+3-131	In an excess of the exchanging metal ion, the reaction is of pseudo-first order and the reaction rate is directly proportional to the total concentration of MnL2 (eq 1), where kobs is the pseudo-first-order rate constant.
+3-132	d½MnLtot
+3-133	In general, the dissociation can proceed via different pathways, as illustrated in Scheme 2.[57]
+3-134	According to this scheme, the rate of the exchange reaction can be given by eq 2 (in the equations, charges of the complexes are omitted for the sake of clarity).
+3-135	d½MnLtot
+3-136	dt
+3-137	Here, the first term corresponds to the spontaneous dissociation of the complex (reaction A in Scheme 2), the second one to the spontaneous dissociation of the protonated complex (B), the third one to the proton-assisted dissociation (C), and the last term to the metal-assisted (D) dissociation of the protonated complex.
+3-138	The total complex concentration can be expressed as in eq 3:
+3-139	where k0 = kMnL ,Znk1 = kMnHL 3KMnHL, k2 = HkMnHL 3
+3-140	KMnHL, and k3 = kMnHL 3 KMnHL.
+3-141	The experimental rate constants were fitted to eq 4, and the calculated parameters are listed in Table 6.
+3-142	The value of the protonation constant of MnL2, KMnHL, was fixed to the value obtained from potentiometry (Table 4; when fitting KMnHL, we obtained a similar value).
+3-143	During the fitting procedure, k0 had to be set to zero; otherwise the fit gave very small values with large errors.
+3-144	It shows that the spontaneous dissociation of MnL2 does not contribute to the overall dissociation.
+3-145	Thus, we can conclude that the dissociation proceeds via protonated species involving pathways B, C, and D. Previously, k1 = 16 M-1 s-1 has been reported for the dissociation of MnL2.[25]
+3-146	In that study, the Cu2þ was used as a ligand scavenger, and the reaction was followed at a single Cu2þ concentration (8-fold excess) using UV-vis detection; however, a trans- metalation reaction with Cu2þ was not considered.
+3-147	Thus, the results could be hardly compared directly.
+3-148	With the lack of kinetic data available for Mn2þ com- plexes, we compare the rate constants obtained here with those for GdDTPA, a standard Gd3þ-based MRI con- trast agent (GdDTPA = [Gd(DTPA)(H2O)]2-).
+3-149	Overall, the dissociation pathways involving protonated com- plexes proceed several orders of magnitude faster for MnL2 than for GdDTPA.
+3-150	At pH 7.4 and a physiological blood concentration of Zn2þ (10-5 M),[58] the dissociation of MnL2 exclusively occurs via spontaneous dissociation of the protonated complex (route B in Scheme 2), while under the same conditions, the GdDTPA complex dis- sociates via the direct attack of Zn2þ on the complex (compare half-times in Table 6).
+3-151	The direct attack of Zn2þ on the MnL2 complex at any pH has low probability due to the positive charge of the complex and to the nonavail- ability of any donor atom for Zn2þ binding in the fully Mn2þ-bound ligand (unlike the negatively charged GdDTPA), and therefore the dissociation via a dinuclear complex with Zn2þ, commonly observed for lanthanide chelates,[57] was not taken into consideration.
+3-152	When this dissociation pathway was included in the fit, we obtained a very small value for the stability constant of the di- nuclear complex with large error and an unreliably low rate constant for its dissociation.
+3-153	The dissociation half- life of MnL2 at pH 7.4, c(Zn2þ) = 10-5M, corresponding to physiological conditions is 11.4 h (Table 6), which means that the complex should stay intact during the course of an MRI experiment (typical elimination times for small-molecular-weight Gd-based agents are a few hours for humans and a few minutes for small animals).
+3-154	17O NMR and 1H NMRD Measurements.
+3-155	In the con- text of MRI contrast agent research, the efficacy and the
+3-156	constant MnL2 GdDTPAa
+3-157	-1 -1
+3-158	t1/2 (pH 6.0, c(Zn2þ) = 10-3 M) 26 min 3.42 h
+3-159	t1/2 (pH 6.0, c(Zn2þ) = 10-5 M) 27 min 156 h
+3-160	t1/2 (pH 7.4, c(Zn2þ) = 10-3 M) 11.0 h 3.46 h
+3-161	t1/2 (pH 7.4, c(Zn2þ) = 10-5 M) 11.4 h 330 h
+3-162	a Ref 57. b Value fixed to that determined by pH potentiometry.
+3-163	paramagnetic relaxation behavior of a paramagnetic chelate is commonly characterized by proton relaxivity measurements as a function of the magnetic field.
+3-164	Such 1H NMRD profiles are dependent on all microscopic para- meters that determine relaxivity, and their shape can often help to distinguish between various relaxation mechanisms.
+3-165	To obtain reliable information on the para- meters characterizing water exchange (exchange rate, kex, or residence time, τM; τM = 1/kex), rotation (τR), and electron spin relaxation, the 1H NMRD data are usually completed with variable-temperature 17O NMR mea- surements.
+3-166	In the 17 O NMR experiment, the longitudinal (T1) and transverse (T2) relaxation times as well as the chemical shifts (ω) of the bulk water are recorded in the presence of the paramagnetic complex.
+3-167	The temperature dependence of 17 O transverse relaxation rates allows for a direct determination of the water exchange rate, kex, whereas the longitudinal relaxation describes the rota- tional motion of the complex.
+3-168	We measured variable-temperature transverse 17O re- laxation times and chemical shifts on aqueous solutions of MnL1 and MnL2 at pH 8.0 where the complexes are fully formed.
+3-169	The longitudinal relaxation times were also measured; however, they could not be involved in the fitting since they were only slightly (∼3-5%) shorter for the solutions containing the Mn2þ complexes than those for the diamagnetic reference.
+3-170	The 1H NMRD profiles were recorded at 25, 37, 50, and 65 °C. The profiles recorded in a TRIS buffer or in PBS were identical.
+3-171	The reduced transverse 17 O relaxation rates and chemical shifts were fitted simultaneously with the 1H NMRD data according to the Solomon-Bloembergen-Morgan theory of paramagnetic relaxation, as described in the Supporting Information together with the list of fixed parameters during the fitting procedure.
+3-172	The plots of the experimental data for the MnL1 and MnL2 complexes together with the fitted curves are depicted in Figure 7.
+3-173	The best-fit values of the parameters are shown in Table 7 and compared with data for [Mn(H2O)6]2þ and other relevant Mn2þ chelates.
+3-174	For MnL1, the parameters char- acterizing the electron spin relaxation are exclusively obtained from the 1H NMRD data, while for MnL2, they are also determined from the 17O 1/T2 values.
+3-175	For MnL2, the contribution of the electron spin relaxation term (1/T1e in τs1; eq S4 in Supporting Information) to the transverse relaxation rate varies between 3 and 60%, depending on the temperature.
+3-176	The small contribution of the electron spin relaxation in the fast exchange limit ensures that the value calculated for the water exchange rate is correct.
+3-177	and 1H NMRD data.
+3-178	parameter [Mn(L1)(H2O)2]2þ [Mn(L2)(H2O)2]2þ [Mn2(ENOTA)(H2O)2]a [Mn(H2O)6]2þ b
+3-179	r1 at 25/37 °C (20 MHz)/mM-1 s-1 4.48/3.61 3.56/3.13 3.39/2.71 7.4c/- kex[298]/107 s-1 0.38 ( 0.02 6.9 ( 0.7 5.5 2.1 ΔH‡/kJ mol-1 35.3 ( 2 37.7 ( 4 20.5 32.9
+3-180	‡ -1 -1
+3-181	2 18 -2
+3-182	persion between 1 and 10 MHz, as has been observed for tion by water molecule(s) in diluted aqueous solution was
+3-183	other dispersion at low field is also observed originating mM, c(Cl-) = 0 or 250 mM).
+3-184	Likewise, conductivity mea-
+3-185	from scalar interactions between the paramagnetic ion surement on analogous complexes also evidenced the and the water proton. replacement of chloride by water.[60]
+3-186	On the basis of the crystal structures and previous results on similar systems,[29-32] the hydration number of
+3-187	both complexes is supposed to be q = 2 in aqueous solu-
+3-188	Series A 101, 198-201.
+3-189	tion.
+3-190	The chloride ion(s) found in the solid-state structure (60) Jackels, S. C.; Durham, M. M.; Newton, J. E.; Henninger, T. C. completing the coordination sphere of the manganese(II) Inorg.
+3-191	Chem. 1992, 31, 234–239.
+3-192	decrease with decreasing temperature over all the tem- perature range studied, and only at the highest tempera- tures does the curve start to turn.
+3-193	It implies that the system is in the slow-exchange regime; hence, the 1/T2r values are determined by the water exchange rate.
+3-194	Ac- cordingly, the reduced chemical shifts are close to zero except for the highest temperatures.
+3-195	For MnL2, the reduced transverse relaxation rates and chemical shifts both indicate a fast- and intermediate-exchange regime.
+3-196	The experimental chemical shifts are related to the value of the hyperfine or scalar coupling constant, and they are directly proportional to q.
+3-197	By assuming two inner-sphere water molecules, we obtained an AO/p value which agrees well with those previously reported for Mn2þ chelates (∼39 MHz); thus it confirms q = 2.
+3-198	The scalar coupling constant reported here is a measure of the manganese spin density at the oxygen nucleus.
+3-199	For usual Mn2þ com- plexes, its value is expected to remain in a limited range.
+3-200	For MnL1, the 17O hyperfine or scalar coupling constant could not be calculated, as the system is in the slow-exchange limit.
+3-201	In the fit, its value was fixed to that determined for MnL2, which allowed for describing the experimental chemical shifts.
+3-202	The water exchange rate has been previously reported for various Mn2þ complexes as well as for the [Mn(H2O)6]2þ aqua ion.[61]
+3-203	Several Mn2þ-enzyme complexes have been investigated, and they showed increased[62] or decreased[63] water labilities as compared to the aqua ion.
+3-204	Among other chelates, such as the complexes of 1,10-phenanthroline,[64] ATP,[65] or the bis(triazamacrocycle) ENOTA,[22] water ex- change is only slightly accelerated on complexation, while for the complexes of EDTA[66] and EDTA derivatives,[17-19] it becomes much faster.
+3-205	The water exchange rate calculated for MnL1, kex[298]= 0.38 107 s-1, is the lowest value repor- ted for a Mn2þ complex, while, for MnL2, it is 1 order of magnitude higher, kex[298] = 6.9 107 s-1, close to the value previously reported.[32]
+3-206	This difference and, in particular, the very low kex[298] for MnL1 could be related to the formation of hydrogen bonds between the coordinated water mole- cules and the macrocycle oxygen atoms which do not exist
+3-207	or are weaker between the H2O and the nitrogen atoms in MnL2.
+3-208	We should note that the two inner-sphere water molecules can be nonequivalent with respect to their water exchange despite the symmetric nature of the complex.
+3-209	The activation entropy for MnL1 is close to zero (ΔS‡ = -1.1 J mol-1 K-1), indicating an interchange mechanism.
+3-210	Since the typical coordination numbers for Mn2þ are six or seven, normally six-coordinate complexes present an associ- atively activated water exchange (e.g., [Mn(H2O)6]2þ, [Mn2-(ENOTA)(H2O)2]), while seven-coordinate complexes show a dissociatively activated water exchange (e.g., [Mn(EDTA)-(H2O)]2-).
+3-211	Dissociatively activated water exchange has been also evidenced for MnL2 from previous variable-pressure 17O NMR measurements (ΔV‡ = þ3.2 cm3 mol-1, ΔS‡ = 33 mol-1 K-1),[32] and our ΔS‡ = 32 mol-1 K-1 is in good accordance with this (Table 8).
+3-212	The interchange character of the water exchange for MnL1 in contrast to MnL2 can be likely related to the presence of the two oxygen atoms in the ligand scaffold; otherwise, according to crystallographic data, the very open water-binding site in these planar Mn2þ complexes is identical for both MnL1 and MnL2.
+3-213	These oxygen atoms in MnL1 can participate in hydrogen bonding with surrounding water molecules and facilitate their approach to the inner-coordination sphere before the departure of the leaving water molecule.
+3-214	We should note that previous EPR measurements on Mn(15-aneN5)[55,60] confirmed monohydration of the complex (overall coordination number of six), in accor- dance with 1H NMRD data (r1 = 2.3 mM-1s-1, 24 MHz, 25 °C).[55]
+3-215	The relaxivities are about two times higher for [Mn(L2)(H2O)2]2þ, evidencing the presence of two coor- dinated water molecules.
+3-216	The different coordination numbers nicely reflect the higher rigidity of pyridine-containing ligands L1 and L2, which also leads to higher thermodynamic stability and kinetic inertness of their Mn2þ complexes.
+3-217	Reaction with Endogenous Anions.
+3-218	Small endogenous anions like carbonate, phosphate, citrate, etc. are known to interact with coordinatively unsaturated metal com- plexes by replacing the inner-sphere water molecule(s).
+3-219	The formation of such ternary complexes can be strongly limitative for the in vivo relaxivity of the complex, as has been proved for Gd3þ-DO3A derivatives.[67]
+3-220	In the case of
+3-221	Gd3þ, ternary complex formation is typically observed for bishydrated chelates, provided the two inner-sphere water molecules occupy adjacent positions.
+3-222	For MnL1 and MnL2, the two water molecules are in axial positions on the opposite side of the macrocycle plane, which should be unfavorable for anion binding.
+3-223	To assess anion binding, proton relaxivities were re- corded at 0.5 MHz for MnL1 and MnL2 solutions in the presence of an increasing amount of phosphate (mixture of HPO42-/H2PO4- at pH 8.0), carbonate (CO32-/HCO 3-), or citrate (cit3-/Hcit2-; Figure 8).
+3-224	Carbonate has no effect on either of the complexes.
+3-225	For MnL1, the relaxivities increase upon the addition of phosphate or citrate.
+3-226	The most evident reasons could be the release of free Mn2þ or aggregate formation.
+3-227	The decomposition of the complex and release of free Mn2þ could be promoted by an interaction between the free ligand and phosphate (or citrate), as some polyazamacrocycles behave as effi- cient receptors of phosphate.[68]
+3-228	This hypothesis was ex- cluded by the identical NMR spectra of the ligand in the presence and in the absence of phosphate (pH 2-12).
+3-229	In addition, on the basis of the stability constants,[46] phos- phate and citrate cannot replace L1 in MnL1.
+3-230	We have also recorded the 1H NMRD profile of MnL1 in the presence of 100 equiv of phosphate, which showed in- creased relaxivity all over the measured magnetic field range (see Figure S5, Supporting Information) without the low-field dispersion typical of free Mn2þ.
+3-231	The 1H NMRD profile does not show the typical high field peak characteristic of slowly tumbling aggregates either, ex- cluding therefore the formation of large aggregates.
+3-232	One
+3-233	Inorganic Chemistry, Vol. 49, No. 7, 2010 3237
+3-234	plausible explanation for the small relaxivity increase upon the addition of phosphate or citrate could be the formation of anion-bridged dimers/small oligomers with an important second sphere relaxivity effect (with possi- ble prototropic exchange on the bound and protonated phosphate ions).
+3-235	In the case of MnL2, the relaxivities decrease when increasing amounts of phosphate or citrate are added, in agreement with the replacement of an inner-sphere water molecule by the anion.
+3-236	The plots of the relaxivity versus the [anion]/[complex] ratio show saturation profiles for these two anions.
+3-237	The least-squares fitting of the titration profiles allowed us to estimate the binding constants, K = 20 ( 5 M-1 for phosphate and K = 100 ( 7 M-1 for cit- rate.
+3-238	These constants indicate a relatively weak binding of the anions (despite the positive charge of the complex), which can be related to the fact that they can only bind in a monodentate manner since these two inner-sphere water molecules are not adjacent.
+3-239	These anion interactions are weaker than those for complexes of DO3A derivatives.
+3-240	The relaxivity of each ternary complex, as obtained in the fit, is r1,t = 5.8 ( 0.2 mM-1 s-1, which is consistent with the replacement of only one inner-sphere water molecule.
+3-241	Electrochemistry.
+3-242	The oxidation of Mn2þ to Mn3þ re- sulting in a lower spin can strongly influence the relaxivity of the complex.
+3-243	Thus, cyclic voltammograms of MnL1 (Eox = 1.11 V and Ered = 0.94 V vs NHE) and MnL2 (Eox = 1.24 and Ered = 1.01 vs NHE) were measured, and both exhibit a quasi-reversible MnIIIL/MnIIL couple with relatively high formal redox potentials (for the experi- mental conditions and the cyclic voltammograms, see the Supporting Information (Figures S6 and S7)).
+3-244	Our results correspond well to the data published previously for MnL2 in anhydrous MeOH (E1/2 ∼0.8 V)[25] and for [Mn(Me2-15-pyaneN5)]2þ in an aqueous HEPES buffer (HEPES = 4-(2-hydroxyethyl)-1-piperazineethanesulfo- nic acid).[30]
+3-245	The values obtained are slightly higher than those for the [Mn(NOTA)]- and [Mn(EDTA)(H 2O)]2-complexes[69] and indicate a good stabilization of the divalent manganese in complexes with macrocycles L1 and L2.
+3-246	The formal redox potentials show that both MnL1 and MnL2 complexes have a low tendency to be oxidized by air oxygen.
+3-247	This confirms their stability toward oxidation under the experimental conditions used in the kinetic and NMR studies.
+4-001	Two pyridine-based macrocycles, L1 and L2, were pre- pared and characterized.
+4-002	Potentiometry was used to deter- mine the protonation constants of both ligands as well as the stability constants of metal complexes formed with Mn2þ, endogenously important (Ca2þ, Cu2þ, Zn2þ), and some other metal ions (Co2þ, Cd2þ, Mg2þ).
+4-003	The incorporation of the pyridine into the macrocyclic scaffold increases the rigidity of the complexes and leads to a greater thermodynamic stabi- lity.
+4-004	The substitution of oxygen with nitrogen in the macro- cycle results in a higher ligand basicity and, consequently, an increased stability of the complexes.
+4-005	The solid-state struc- tures of MnL1 and MnL2 confirm the coordination number of 7 for Mn2þ and the presence of Cl- and H2O in axial
+4-006	positions.
+4-007	Electrochemical measurements yielded a formal redox potential of ∼1 V, which confirms the resistance of the divalent manganese in the complexes toward air-oxidation.
+4-008	17O NMR and 1H NMRD measurements were performed on MnL1 and MnL2 to determine the microscopic parameters governing their relaxivity.
+4-009	The water exchange rate for MnL1, kex[298] = 0.38 107 s-1, is the lowest value ever measured for a Mn2þ complex and is about 20-times lower than kex[298] = 6.89 107 s-1on the MnL2 complex.
+4-010	Our results indicate that water exchange is highly sensitive even to minor changes in the ligand structure, similarly to Gd3þcomplexes.
+4-011	Water exchange on MnL2 is fast enough to achieve high relaxivity upon conjugation of the complex to slowly tumbling, large mole- cules.
+4-012	The proton/zinc(II)-catalyzed dissociation of MnL1 is too fast to be studied by conventional relaxivity measurements under pH 6.
+4-013	For MnL2, the prime importance of the proton-assisted dissociation was evidenced; the Zn2þ catalysis is not important at physiological pH.
+4-014	Relaxometric anion-binding studies revealed weak interactions between MnL2 and phos- phate or citrate, leading to the formation of monohydrated species.
+4-015	MnL1 seems to form oligomeric species in the presence of phosphate, resulting in an increased relaxivity.
+4-016	Carbonate shows no interaction with either of the complexes.
+4-017	The inclusion of the pyridine in the macrocycle scaffold induces crucial changes in several aspects.
+4-018	Most importantly, it increases the thermodynamic and the kinetic stability of the Mn2þ complexes.
+4-019	The presence of the pyridine rigidifies the ligand backbone, which leads to different coordination numbers of the Mn2þ complexes (CN 7 for L2 with respect to 6 for 15-aneN5).
+4-020	The relaxivity of the studied complexes is higher than those of typical low-molecular-weight Gd3þ chelates.
+4-021	In general, the toxicity of manganese is much lower with respect to that of gadolinium; moreover, the kinetic inertness of these macrocyclic Mn2þ chelates can likely be further improved by rigidifying the macrocycle backbone.
+4-022	The complexes presented here and their derivatives are known to be excellent SOD mimics, nearing the efficacy of
+4-023	the enzyme itself.
+4-024	Considering the concentrations that would be needed in vivo for successful contrast enhancement, the SOD activity would likely prevent any in vivo imaging application.
+4-025	Nevertheless, the results obtained on these model compounds give insight into the relaxation behavior of Mn2þ complexes in general with respect to MRI contrast agent applications.

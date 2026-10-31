@@ -1,0 +1,194 @@
+# document_id: jo901581w
+# extractor: kordoc-markdown-adapter-1
+1-001	The binding of anions with supramolecular hosts is a fascinating and growing field.[1,2]
+1-002	Researchers have relied on a variety of methods to investigate structural interactions and binding propensities.
+1-003	X-ray crystallography has histori- cally been the method of choice for definitive structural answers because it gives an atomic-level view of host/guest interactions, albeit in the solid state.
+1-004	A variety of titration techniques have been used to determine anion-binding con- stants in solution.
+1-005	Information concerning selectivity issues and structure in solution are important to most analytical
+1-006	DOI: 10.1021/jo901581w Published on Web 09/09/2009 r 2009 American Chemical Society
+1-007	applications and can only be answered with other techni- ques.
+1-008	19F NMR can be used as a very effective probe for examining the interaction of the highly electronegative F- ion with hosts in solution.
+1-009	Comparisons of solution- and solid-state structures can therefore be made.
+1-010	Encapsulation of targeted anions represents perhaps the most desirable structural host/guest interaction.
+1-011	This is espe- cially true for macrocyclic hosts and it ultimately can lead to size and shape selectivity.
+1-012	Because of their spherical shape, halides ideally lend themselves to encapsulation in cryptand[3-5]
+1-013	1
+1-014	þ -
+1-015	in DMSO-d6.
+1-016	and macropolycyclic hosts.[6]
+1-017	This is what occurs for the two F- complexes reported herein.
+1-018	Solution-binding studies are reported for F- ion with one thioamido- and two amido-cryptands along with crystal structures for two free bases and F- complexes with two of the hosts.
+1-019	The results emphasize the benefit of utilizing both multinuclear NMR solution studies and X-ray crystallography to elucidate solution and solid-state structural proclivities of anion complexes.
+2-001	Synthesis.
+2-002	The synthetic procedures for the cryptands are straightforward.
+2-003	With the exception of the thioamide, they consist of a one-step condensation reaction as reported pre- viously.[7]
+2-004	High-dilution techniques are used, and although the yields are relatively low, the simple one-step synthetic pathway to the amido-cryptands compensates for this.
+2-005	Two equivalents of tris(2-aminoethyl)amine and 3 equiv of the respective 2,6-pyridine or isophthaloyl dicarbonyl dichloride, both in large amounts of CH2Cl2, are added to a solution of an equal amount of CH2Cl2 in the presence of Et3N as a base
+2-006	(Scheme 1).[7]
+2-007	The pyridine thioamide cryptand can be readily obtained by treating the amido-cryptand with Lawesson’s reagent,[8,9] but the isophthaloyl thioamide analogue cannot.
+2-008	1H NMR Studies.
+2-009	The 1H NMR spectra of F- with the cryptands L1-L3 in DMSO-d6 indicate proton coupling with the internally held I = 1/2F-.
+2-010	A new doublet amide NH signal at 11.85 ppm appears upon addition of F- to L1 (JHF = 27 Hz) (Figure 1a), and a similar pattern is observed for the thioamide cryptand L3.
+2-011	Both the amide and iso- phthaloyl H atoms in L2 couple with F- (JHF = 14 Hz) (Figure 1b).
+2-012	Similar coupling of pyrrole NH with bound F- has also been observed by Sessler and Gale.[10,11]
+2-013	19F NMR Studies.
+2-014	The F- signal shifts upfield from free F- at -96.7 to bound F- at -111.7 ppm upon addition of L1 to a solution of F- in DMSO-d6.
+2-015	The new signal appears as a septet (JHF = 27 Hz) due to coupling of F- with the six equivalent amide H atoms (no. of multiplets = 2nI þ 1, where I = nuclear spin and n = number of atoms) (Figure 2a,b).
+2-016	These findings provide further confirmation that F- is present as an inclusion complex in solution.
+2-017	A similar upfield shift is observed with the thioamide L3.
+2-018	However, in addition to the septet (JHF = 25 Hz), the spectrum consists of a series of multiplets (Figure 2d), which are the result of deuterium exchange as described below.
+2-019	The F- undergoes a downfield shift for the isophthaloyl- containing cryptand L2 and displays a higher order multiplet pattern (JHF = 14 Hz) (Figure 2c).
+2-020	This multiplet was subse- quently determined to be an unresolved dectet that resulted from F- coupling with the six amide and three phenyl H atoms.
+2-021	The upfield chemical shifts of the F- signal with L1 and L3 can probably be attributed to the presence of the lone pair of electrons on the pyridine N atoms, which tends to shield the F-; the downfield shift observed for L2 is most likely the result of the ring current of aromatic ring.
+2-022	Similar H-bonding coupling of bound F- in 19F NMR has previously been observed with pyrrole NH protons in calix[4]pyrrole-fluoride complexes.[11]
+2-023	Deuterium Exchange.
+2-024	Over time, the 19 F spectra of L1 and L2 both displayed a series of multiplets similar to that seen immediately in the spectrum of the thioamido cryptand L3.
+2-025	This solution phenomenon has been attributed to D ex- change between the amide or thioamide H atoms and the methyl D atoms of the DMSO-d6 (Scheme 2).
+2-026	The series appears slightly upfield of the highest order multiplet, with each signal evenly separated by 0.46, 0.31, and 0.44 ppm for the three hosts L1, L2, and L3, respectively (Figure 3).
+2-027	A complete series of D exchange signals from septet (coupling with six NH atoms) through singlet (six ND atoms) was obtained for L1 when it was first heated and then allowed to stand at room temperature for several days
+2-028	without receptors and upon addition of 1 equiv of (b) L1, (c) L2, and
+2-029	(Figure 3a).
+2-030	However, for L2 the series ends in a quartet due to coupling of the F- with the remaining nonexchange- able phenyl H atoms.
+2-031	The series reverts to the original single multiplet upon addition of H2O. 19F NMR spectroscopy provides a unique tool for probing the nature of the H bonds between amide H atoms and F-.
+2-032	This technique can give direct evidence of D exchange from the DMSO-d6 solvent to the amide H atoms.
+2-033	In fact, the highly basic F- is known to extract protons from weak acids, including DMSO.[12]
+2-034	Fluoride Binding Studies.
+2-035	All three hosts display high affinity for F-, as anticipated by the strong H-bonding tendency of this ion.
+2-036	L1, L2, and L3 all showed slow exchange in DMSO-d6 upon addition of up to 1 equiv of [n-Bu4Nþ][F-] at room temperature.
+2-037	Calculations using EQNMR[13] indicate very high binding for L1 at the limits of NMR detectability (K = 8.1 105) and binding slightly more than a factor of 10 lower for L2 (K = 3.3 104) and L3 (K = 3.2 104).
+2-038	In general, for simple amido-based mono- cycles, the pyridine analogue displays significantly higher binding than the isophthaloyl derivative, so the superior binding of L1 is as anticipated.
+2-039	We and others have attribu- ted this to the preorganization effect of the pyridine N atom on the nearby amide H atoms.[14,15]
+2-040	The lessened affinity for L3 for F-, however, is not easily explained.
+2-041	In the monocycles, the thioamides show heigh- tened binding for anions as we communicated earlier.[9]
+2-042	Indeed, the rationale for exploring thioamides was for their enhanced H-bonding capability that we predicted would result in higher anion affinities.[16]
+2-043	The crystal structures of the two free bases, described below, do not shed light on the situation, since both the amido- and thioamido- cryptand are structurally very similar and almost superimposable.
+2-044	The only real experimental difference between the two hosts, then, is in the 19 F NMR, and involves the exchange process.
+2-045	As seen in Figure 2d, the thioamide L3 undergoes amide H atom exchange when immediately placed in solution, while the exchange process for the corollary amides L1 and L2 is slower, occurring over days.
+2-046	It is possible that the enhanced acidity of the thioamide group works against binding, since in a dissociative mechanism for D exchange the host would bear a negative or repelling charge to an incoming F-during any given instance in the rapid exchange process.
+2-047	A number of other selective hosts for F- have been
+2-048	10,11,17-23
+2-049	reported.
+2-050	One of the most interesting is the tiny octaazacryptand, 1, which shows highly selective binding for
+2-051	F- over a wide pH range in water (binding constant (K) of 4.0 103 M -1 at neutral pH).[17]
+2-052	The unusually high affinity was attributed to the small size of the cryptand, which was predicted to be too small to encapsulate larger anions.[18]
+2-053	This host was later shown by us to also encapsulate Cl- at low pHs[19] and by Ghosh to selectively encapsulate Cl- in a 500-fold excess of Br-.[20]
+2-054	Other F- selective host systems have included acyclic,[21,22] monocyclic,[23] and bicyclic hosts[24,25] in various organic or mixed organic/aqueous solvent systems.
+2-055	Gale has recently studied an acyclic cleft-containing host that contains both indole and amide H-bond donors that have a high selectivity for F- (>104 M-1) over Cl- (6/0.5% H2O solution.[21]
+2-056	Sessler and co-workers have published several cyclic polypyrrole recep- tors showing high selectivities for F-.
+2-057	They found that the diprotonated sapphyrin binds F-quite efficiently with bind- ing constants (K) of 2.8 105 M-1 calculated from optical titration studies in MeOH.[10]
+2-058	The intriguing and highly analogous cryptand formed from nine pyrroles showed strong binding in CD2Cl 2 with a wide range of anions having different host-guest stoichiometries: NO3-, L/A = 1:2; F-, L/A = 1:1; and Cl-, L/A = 2:1.[22]
+2-059	Unfortunately,
+2-060	binding constants for these systems were determined in different solvents, making comparisons of binding affinities difficult.[10,24]
+2-061	Nonetheless, while L1-L3 display high affinity for F- as noted above (K ∼ 104-105 in DMSO), considering
+2-062	that high binding is also observed for both acyclic and monocyclic hosts, one can infer that increased dimension- ality, while ideal for encapsulation, is not always necessary for tight binding.
+2-063	Crystal Structures of Free Bases.
+2-064	Crystal structures for solvated free bases of L1 and L3 were determined.
+2-065	Both the heptahydrate of L1 and the CH3CN adduct of L3 showed similar binding of solvent on one side of the host.
+2-066	All six amide H atoms are pointed inside the cavity for both L1 and L3 (Figure 4a-d).
+2-067	As noted earlier, this has been attributed by us and others to a preorganization effect of the pyridine lone electron pair forming a semicircular internal H-bonded network with the two contiguous amide groups.[14,15]
+2-068	The macrocycles adopt an overall “flattened” conformation with two of the three arms pointing in the same direction with nearly superimposed stacking of their pyridine rings.
+2-069	Npy 333 Npy distances are 3.799 A for L1 and 3.885 A for L3.
+2-070	The major difference is a slight offset of the pyridine rings in L3 relative to L1.
+2-071	Quite similar bridgehead amine N 333 N distances of 5.857 and 5.687 A are observed for L1 and L3, respectively.
+2-072	The similarity of conformations for L1 and L3 can be seen in the superposition (with a rms separation of 0.80 A) of their 50 non-H atoms (Figure 5).
+2-073	The asymmetric
+2-074	J.; Nam, K. C. J. Am.
+2-075	Chem.
+2-076	Soc. 2003, 125, 12376–12377.
+2-077	(b) Jose, D. A.;
+2-078	Kumar, D. K.; Ganguly, B.; Das, A. Org.
+2-079	Lett. 2004, 6, 3445–3448.
+2-080	(c) Kumar, S.; Luxami, V.; Kumar, A. Org.
+2-081	Lett. 2008, 10, 5549–5552.
+2-082	(d) Hudnall, T. W.; Melaimi, M.; Gabbai, F. P. Org.
+2-083	Lett. 2006, 8, 2747–
+2-084	2749.
+2-085	1996, 118, 5140–5141.
+2-086	(b) Furuta, H.; Maeda, H.; Osuka, A.J.
+2-087	Am.
+2-088	Chem.
+2-089	Soc.
+2-090	2001, 123, 6435–6436.
+2-091	(c) Khatri, V. K.; Chahar, M.; Pavani, K.; Pandey, P. S.
+2-092	T. N. G.; Maitra, U. Org.
+2-093	Lett. 2005, 7, 1441–1444.
+2-094	(e) Oton, F.; Tarraga, A.;
+2-095	Velasco, M. D.; Espinosa, A.; Molina, P. Chem.
+2-096	Commun. 2004, 1658–1659.
+2-097	Soc. 2001, 123, 9716–9717.
+2-098	Chem.
+2-099	Commun. 2004, 2206–2207.
+2-100	unit of crystalline-hydrated free base L1 contains seven H2O molecules that all lie outside the macrocyclic cavity.
+2-101	As previously reported, six of these H2O molecules form a hexagonal ring between the cryptands that is similar to that of the hexagonal form of ice (Figure 4c); the seventh H2O molecule bridges from the hexagonal array to the host.[26]
+2-102	In addition to having similar solid-state molecular conforma- tions, the crystal structures of the solvated cryptands are also alike.
+2-103	The CH3CN N(1s) atom, in solvated L3 (Figure 4d) adopts a H-bonded position relative to the macrocycle that is similar to that of the O(2w) atom in solvated L1 (Figure 4c) [NHam 333 NCH3CN distances of 3.157(3) and 3.169(4) A compared to NHam 333 O(2w) distances of 2.979(2) and 3.261(2)].
+2-104	Crystal Structures of the F-Complexes.
+2-105	The F- complex of L1 crystallized as the solvated tetra-n-butylammonium salt, with the neutral host containing one encapsulated F- ion.
+2-106	Disordered partial-occupancy CH3CN and CH2Cl2 solvent molecules occupy a common volume of the unit cell outside
+2-107	and solvent molecules of crystallization were omitted for clarity.
+2-108	the macrocycle cavity.
+2-109	Unlike the conformation observed for L1 in L1 3 7H2O, the three macrocycle chains emanating from the bridgehead amines in this [L1(F)] complex form a pinwheel- like structure with pseudo-C3 symmetry and a bridgehead N 333 N separation of 7.391 A. All six amide NH hydrogen atoms surround the F- ion in a distorted trigonal prismatic geometry, with a trigonal twist angle (calculated using the positions of the six amide nitrogen atoms) of 23.4°.
+2-110	N 333 F distances range from 2.822(2) to 2.889(2) A (Figure 6a).
+2-111	These
+2-112	amide H-bonding distances are longer than most N-H 333 F- interactions because the cryptand structure has constrained six NH groups to be within hydrogen-bonding distance of the singly charged fluoride.
+2-113	The n-Bu4Nþ counterion and the disordered solvent do not interact with the cryptand.
+2-114	The F- complex of the isophthaloyl host L2 also crystal- lized as the tetra-n-butylammonium salt [nBu4N][L2(F)] with the neutral host containing one encapsulated F- ion.
+2-115	The macrocycle conformations in [L1(F)] and [L2(F)] are very similar.
+2-116	In fact, their 50 non-H atoms superimpose with an rms deviation of 0.42 A. However, the bridgehead N 333 N separation of 7.876 A is 0.485 A longer in L2 than in L1.
+2-117	This longer bridgehead N 333 N separation is presumably the result of steric repulsion induced by the internally oriented isophthaloyl H atoms in L2 which replace the pyridine lone pairs in L1.
+2-118	These three isophthaloyl H atoms and the six amide H atoms are essentially equidistant (2.11 to 2.24 A) from the encapsulated F- anion.
+2-119	This close interaction obvi- ously also exists in solution where coupling between the F-and the amide H atoms as well as the isophthaloyl H atoms was observed in the 19F NMR spectra.
+2-120	The nine H atoms surrounding the encapsulated F-in [L2(F)]- describe a distor- ted tricapped trigonal prism with the amide H atoms repre- senting the trigonal prism as in [L1(F)]- and the isophthaloyl H atoms as the “caps”.
+2-121	The trigonal prism has a 25.2° trigonal twist from idealized trigonal prismatic geometry.
+3-001	Bicyclic cryptand hosts with differing H-bond donor functional groups (amide vs thioamide) and spacers (pyri- dine vs isophthaloyl) have been synthesized by simple one- or two-step procedures.
+3-002	The similar cryptand frameworks have allowed for an evaluation of anion-binding propensities and structural influences.
+3-003	The effect of preorganization has also been assessed by comparing L1 hosts containing pyridine (prone to preorganize adjacent amides) and L2 hosts containing isophthaloyl (no preorganization of adjacent amides) spacers.
+3-004	Binding studies indicated that the preorganized pyridine host L1 showed superiority in F- binding.
+3-005	The encapsulation of the F- in L1 and L2 was confirmed by crystal structures as well as solution 19 F NMR studies.
+3-006	Coupling between the F- and the amide H atoms as well as the isophthaloyl H atoms in L2 was observed.
+3-007	The strong H-bonding interactions between amides and the bound F- facilitated an interesting deuterium exchange of amide NHs in solution.
+3-008	The crystal structures of the two solvated free bases, the amide and thioamide, were virtually superimpo- sable.
+3-009	Both showed a stacking of two of the pyridine arms, indicating a preference for this interaction and the resulting conformation.
+3-010	In the two F-complexes the crystal structures showed that macrocycles were pulled in to surround the strongly bound F- ion.
+3-011	These studies emphasize the utility of F-ion as a probe for both solid-state and solution studies of anion binding.
+3-012	They also settle the question of whether the anion remains en- capsulated in solution and reveal some unanticipated chem- istry, the D exchange reaction.
+3-013	Finally, these findings add to the growing information base and understanding of the aptitude of amide- and thioamide-based cryptands as hosts for anions.
+4-001	Reagents.
+4-002	The reagents were obtained from commercial suppliers and used as received without further purification unless otherwise indicated.
+4-003	L1.
+4-004	A three-neck, round-bottom flask equipped with two dropping funnels was filled with dry CH2Cl2 (500 mL) under Ar.
+4-005	The funnels were charged with 2,6-pyridinedicarbonyl dichlo- ride (2.76 g, 13.53 mmol) in CH2Cl2 (300 mL) and tris- (2-aminoethyl)amine (1.32 mL, 9.02 mmol) and triethylamine (3.77 mL, 27.06 mmol) in CH2Cl2 (300 mL).
+4-006	The reagents were added simultaneously at equal rates over a period of 1 h, and the reaction mixture was stirred for an additional 24 h.
+4-007	The solvent was evaporated, and the residue was redissolved in 300 mL of CH2Cl2.
+4-008	The organic phase was washed with saturated NaH- CO3 solution (200 mL), dried over Na2SO4, and concentrated.
+4-009	The crude product was purified by alumina column chroma- tography, eluting with 2% of CH3 OH in CH2Cl2 to give the amide cryptand L1 (10%) as a white powder: 1H NMR (500 MHz, DMSO-d6) δ 8.88 (br s, 6H), 7.97 (s, 3H), 7.93 (s, 6H), 3.37 (s, 12H), 2.99 (s, 12H); 13C NMR (500 MHz, DMSO-d6) δ 163.4 (CdO), 148.9, 139.5, 124.1, 54.5, 38.5; FAB MS m/z 686.3 [MH]þ.
+4-010	Anal. Calcd for C33H39N11O6 3 6H2O: C, 49.93; H, 6.48; N, 19.41.
+4-011	Found: C, 50.02; H, 6.58; N, 18.74.
+4-012	L2.
+4-013	A three-neck, round-bottom flask equipped with two dropping funnels was filled with dry CH2Cl2 (500 mL) under Ar.
+4-014	The funnels were charged with isophthaloyl dichloride (2.0 g, 9.86 mmol) in CH2 Cl2 (300 mL), and tris(2-aminoethyl)amine (0.98 mL, 6.56 mmol) and triethylamine (2.74 mL, 19.68 mmol) in CH2 Cl2 (300 mL).
+4-015	The reaction carried out as above for L1, except it was not washed with NaHCO3.
+4-016	The crude product was purified by alumina (basic) column chromatography, eluting with 2% CH3OH in CH2Cl2 to give the isophthaloyl amide cryptand L2 (15%) as a white powder: 1H NMR (500 MHz, DMSO-d6) δ 8.50 (s, 6H), 8.64 (s, 3H), 8.02 (d, J(H,H) = 7.0 Hz, 6H), 7.52 (t, J(H,H) = 7.0 Hz, 3H), 3.21 (s, 12H), 2.62 (s, 12H); 13C NMR (500 MHz, DMSO-d6) δ 165.6 (CdO), 133.7, 130.3, 128.2, 125.1, 57.8, and 38.5; FAB MS m/z 683.5 [MH]þ.
+4-017	Anal. Calcd for C36H42N8O6 3 H2O: C, 61.70; H, 6.33; N, 15.99.
+4-018	Found: C, 61.50; H, 6.32; N, 15.75.
+4-019	L3.
+4-020	Lawesson’s reagent[27] was added to the solution of the receptor L1 in toluene (100 mL), and the mixture was refluxed for 2 d.
+4-021	A color change from yellow to orange was observed.
+4-022	The solvent was evaporated, and the crude product was purified by alumina (neutral) column chromatography, eluting with 1% of CH3OH in CH2Cl2 to give the thioamide cryptand L3 (15%) as a yellow powder: 1H NMR (500 MHz, DMSO-d6 ) δ 10.63 (s, 6H), 8.41 (d, J(H,H) = 7.4 Hz, 6H), 7.95 (t, J(H,H) = 7.4 Hz, 3H), 3.81 (s, 12H), 3.26 (s, 8H); 13C NMR (500 MHz, DMSO-d6) δ 188.3 (CdS), 148.6, 139.4, 126.2, 49.5, and 42.8; FAB MS m/z 782 [MH]þ.
+4-023	Anal. Calcd for C H N S 2H O: C, 48.44; H,
+4-024	33 39 11 6 3 2
+4-025	5.30; N, 18.83; S, 23.52.
+4-026	Found: C, 48.01; H, 4.65; N, 17.77; S, 23.22.
+4-027	NMR.
+4-028	Slow exchange was observed in the titrations of L1, L2, and L3 with F- ion.
+4-029	For 19F NMR spectra, the aqueous NaF signal (δ = -122.4) was used as an external standard.
+4-030	All spectra were recorded at 23 °C and [F-] of 10 mM.
+4-031	Temperature studies were performed with three different samples in different host/F- ratios (0.5:1, 1:1, and 2:1) to obtain a complete series of deuterium-exchange signals.
+4-032	19F NMR spectra in temperature studies were recorded after the samples were heated in DMSO-d6 at 150 °C for 1 h followed by cooling to 23 °C.
+4-033	X-ray Crystallography.
+4-034	Crystals of the free ligands, L1 3 7(H2O) and L3 3 CH3CN, suitable for X-ray diffraction were grown by the slow evaporation of CH3CN and MeOH/CH3CN
+4-035	solutions, respectively.
+4-036	Crystals of [n-Bu4N][L1(F)] 3 0.895- (CH3CN) 3 0.105(CH2Cl2) were obtained by the slow evapora- tion of CH3CN in the presence of excess n-Bu4NF.
+4-037	Crystals of [n-Bu4N][L2(F)] were obtained by the slow evaporation of a CHCl3/CH3CO2C2H5 solution in the presence of excess n-Bu4NF.
+4-038	Single-domain specimens for each of these four compounds were used to perform solid-state structure determinations.
+4-039	Detailed information about the structure refinements including tables of data collection information and H-bonding distances and angles is given in the Supporting Information.

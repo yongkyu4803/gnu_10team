@@ -1,0 +1,376 @@
+# document_id: cm2019668
+# extractor: kordoc-markdown-adapter-1
+1-001	Organic photovoltaics (OPVs) are promising for develop- ing low cost solar energy conversion technologies.[110]
+1-002	Because light absorption in OPVs initially generates strongly bound excitons,[2] an electron donoracceptor interface with suitable HOMO/LUMO energy level offsets is necessary for efficient charge photogeneration.[1,3]
+1-003	Among the different OPV device architectures explored to date, including the Schotky barrier[4] and bilayer heterojunction[5] cells, the bulk heterojunction (BHJ) cell[6] with an active layer consisting of a blend of a donor polymer and an acceptor material provides the most efficient example of these excitonic solar cells.[710]
+1-004	Although other acceptor materials such as inorganic nanocrystals (CdSe,[11] PbS,[12] TiO2 ,[13] etc), carbon nanotubes,[14] graphene sheets,[15] n-type conjugated small mole-
+1-005	1621 6,2226
+1-006	cules, and n-type polymer semiconductors have been explored, fullerene-based acceptors have demonstrated excellent electron-accepting[27] and electron-transport[28] properties and have thus dominated the field of OPVs.[110]
+1-007	Indeed, much pro- gress has been made in polymer/fullerene BHJ solar cells, including substantial improvements in the power conversion efficiency to current maximum levels of 68%[7] as well as under- standing of the critical role of the BHJ nanoscale morphology9,2932
+1-008	r 2011 American Chemical Society
+1-009	and the origin of the open circuit voltage (Voc).[33]
+1-010	However, ful- lerene acceptors have important drawbacks in OPVs: (i) they have negligible light absorption in the visible-near IR region;[1,34] (ii) they have relatively poor photochemical and chemical stability,[35] requir- ing extensive encapsulation for the operation of the OPVs in air; (iii) their much higher rates of molecular diffusion and crystallization compared to those of the donor polymer component pose chal- lenges for the control of the phase-separation kinetics and the BHJ film morphology;[1b,e](iv) their accessible LUMO energy levels are in a very narrow range, limiting the accessible photovoltage; (v) the available chemistry for the synthesis of fullerene derivatives is limited;[36] and (vi) the cost of fullerene synthesis and purification is high.[22]
+1-011	There is thus a major need to investigate and discover new n-type organic semiconductors that could potentially replace full- erene acceptors in OPVs.
+1-012	Small-molecule organic semiconductors1621and various conjugated polymers6,2226 have been explored as non-fullerene acceptor materials in OPVs of bilayer heterojunction and bulk
+1-013	heterojunction (BHJ) architectures.
+1-014	Among these n-type organic semiconductors that have been studied in non-fullerene OPVs are cyano-poly(phenylenevinylene) (CN-PPV),[6b,24] poly(benzobisi- midazobenzophenanthroline) (BBL),[23] polyfluorene(benzothia- diazole)) (F8TBT),[26] perylene diimides,[18,19,25] vinazene deri- vatives,[20] cyanopentacenes,[16,21] bifluorenylidene,[17a] and diketo- pyrrolopyrrole derivatives.[17b,c] The highest power conversion efficiency of BHJ solar cells using these n-type small molecules varies from 1.87% PCE in perylene diimides derivatives,[19d] 1.29% PCE in cyanopentacene,[21b] and 1.4% PCE in vinazene deriva- tives20cto 1% PCE in diketyopyrrolopyrrole derivatives.[17b,c] Among the major current challenges in developing more efficient non-fullerene BHJ polymer solar cells is the lack of suitable n-type organic semiconductors that combine solution processability with suitable HOMO/LUMO energy levels, good charge transport, and other properties.
+1-015	Indeed, the factors essential to the design and develop- ment of new electron acceptor materials for the realization of more efficient non-fullerene OPVs remain to be elucidated.
+1-016	In this paper, we explore the design of new, non-fullerene, n-type organic semiconductors for use as efficient electron accep- tors and electron-conducting materials in OPVs.
+1-017	Toward this end, we identify the following major considerations and design criteria:
+1-018	larger is necessary to inject holes and confine them to the donor polymer.
+1-019	As is already well-known, the maximum possible open circuit voltage (Voc) is directly related to the HOMO/LUMO offset (ΔEHOMO/LUMO) of the active donor and acceptor in the OPV.[1,3,33]
+1-020	(2) To facilitate good charge transport and efficient charge collection at the electrodes, the acceptor material should have a high electron mobility (μe > 104103 cm2/(V s)).
+1-021	(3) The absorption band and optical band gap (EgA) of the acceptor material should contribute to light harvesting and exciton generation, and ideally, they should be complementary[23] to those of the donor polymer (EgD) in the visible-near IR spectral range.
+1-022	(4) To facilitate favorable acceptor material/donor polymer blend phase separation thermodynamics and kinetics in forming the BHJ active layer film, the acceptor material should have a sufficiently large molar mass.
+1-023	(5) The solubility of the acceptor material in common organic solvents is essential to realize solution-based processing and the fabrication of OPVs.
+1-024	(6) The purity of the acceptor material should be sufficiently high (electronic grade) to enable high performance OPVs.
+1-025	To evaluate the criteria for the design of new acceptor materials for OPVs, we targeted a homologous series of π-conjugated oligomers with a donoracceptor (DA) architecture containing a central naphthalene diimide (NDI) electron-withdrawing group and appended electron-donating oligothiophenes of varying size (Figure 1b).
+1-026	We selected to focus on oligomers because they have a discrete molecular size, which should enable reproducible synthesis and ready tunability of HOMO/LUMO energy levels and other properties necessary to realize many of the design criteria.
+1-027	The DA architecture of the oligothiophene-functional- ized NDI molecules (NDI-nTH, n = 1, 2, 3, 4; NDI-nT, n = 2, 3) by virtue of intramolecular charge transfer (ICT) interactions[39a] can provide a facile means of tuning the optical band gaps, HOMO/LUMO energy levels, and charge carrier mobilities.39b,cNDI-based small molecules (evaporated thin films) and polymers (spin coated thin films) are known to exhibit n-channel organic field-effect transistor properties with high carrier mobilities.4044 In this paper, we report the synthesis, crystal structures, photophysics, electrochemical redox properties, and charge transport properties of the novel oligothiophene-functionalized naphthalene diimides shown in Figure 1b.
+1-028	The initial use of the materials as acceptors in bulk heterojunction solar cells in combination with a model donor polymer, poly(3-hexylthiophene) (P3HT), is also reported.
+1-029	The results are discussed in the context of the identified criteria for the design of acceptor materials toward more efficient non-fullerene OPVs.
+2-001	2.1.
+2-002	Materials and Synthetic Procedures.
+2-003	Regioregular poly- (3-hexylthiophene) (P3HT) was purchased from Rieke Metals with weight-average molecular weight (Mw) of 35.40 KDa and polydispersity index (PDI) of 2.45.
+2-004	All commercially obtained reagents were used without further purification.
+2-005	N,N0-Bis(2-ethylhexyl)-2,6-bis(5-hexyl-thiophen-2-yl)-1,4,5,8-naph- thalene Diimide (NDI-1TH). 2,6-Dibromonaphthalene diimide (1) (350 mg, 0.540 mmol), 5-hexyl-2-trimethylstannylthiophene (2a) (540 mg, 1.63 mmol), and palladium-tetrakis(triphenylphosphine) Pd- (PPh3)4 (31 mg, 0.0268 mmol) were added to a flask under argon.
+2-006	The flask was degassed with argon three times, followed by the addition of 15 mL of anhydrous toluene, and the mixture was refluxed overnight.
+2-007	The product was purified by column flash chromatography using a
+2-008	dichloromethane and hexane solvent mixture.
+2-009	The pure product was recrystallized from the dichloromethane/methanol mixture to give a red solid (212 mg, 48% yield).
+2-010	HRMS (FAB) (m/z) calcd for C50H66N2O4 S2 [(M + H)+] 823.4464, found 823.45709.
+2-011	1H NMR (CD2Cl2, 300 MHz, ppm): δ 8.7680 (s, 2H), 7.203 (d, J = 3.6 Hz, 2H), 6.8812 (d, J = 3.5 Hz, 2H), 4.0801 (d, J = 5.9 Hz, 4H), 2.9351 (t, J = 7.7 Hz, 4H), 1.934 (m, 2H), 1.7971.719 (m, 4H), 1.4241.274 (m, 29H), 0.9560.865 (m, 18H).
+2-012	13C NMR (CD2Cl2, 500 MHz, ppm): δ 162.554,162.516,146.647,140.925,139.135,139.093,136.245,134.009, 129.793,127.528,125.430,125.067,124.073,123.047,122.806,44.439, 37.855,31.592,31.577,30.647,30.164,28.765,28.613,23.917,23.123, 22.608,13.886,13.861,10.348.
+2-013	N,N0-Bis(2-ethylhexyl)-2,6-bis(50-hexyl[2,20]bithiophenyl-5-yl)-1,4,5, 8-naphthalene Diimide (NDI-2TH). 2,6-Dibromonaphthalene diimide
+2-014	Compound 5. 2,6-Dibromonaphthalene diimide (1) (627 mg, 0.967 mmol), 2-tributylstannylthiophene (1.08 g, 2.89 mmol), Pd(PPh3)4 (56 mg, 0.048 mmol), and 20 mL of anhydrous toluene were added to a flask under argon.
+2-015	The mixture was refluxed for 18 h.
+2-016	The crude product was purified by column flash chromatography using a dichloromethane and hexane mixture (3:2).
+2-017	The pure product was obtained as a red solid (546 mg, 86% yield).
+2-018	LC-MS (m/z) [(M + H)+] found 655.4, required 654.88.
+2-019	1H NMR (CDCl3, 300 MHz, ppm): δ 8.768 (s, 2H), 7.203 (d, J = 3.6 Hz, 2H), 6.881 (d, J = 3.5 Hz, 2H), 4.118 (d, J = 7 Hz, 4H), 2.921 (t, J = 7.7 Hz, 4H), 1.932 (m, 2H), 1.4751.268 (m, 16H), 0.891 (m, 12H).
+2-020	N,N0-Bis(2-ethylhexyl)-2,6-bis([2,20]bithiophenyl-5-yl)-1,4,5,8-naph- thalene Diimide (NDI-2T). 2,6-Dibromonaphthalene diimide (1)(560 mg, 0.87 mmol), 2-tributylstannylthiophene (4) (1.19 g, 2.61 mmol), Pd(PPh3)4 (50 mg, 0.043 mmol), and 20 mL of anhydrous toluene were added to a flask under argon.
+2-021	The mixture was refluxed for 18 h.
+2-022	The product was purified by column flash chromatography using a chloro- form/hexane solvent mixture (3:2).
+2-023	The purified product was collected and redissolved in chloroform and precipitated from methanol.
+2-024	The pure product was obtained as a blue solid (615 mg, 86% yield).
+2-025	HRMS (FAB) (m/z) calcd for [(M + H)+] C46H47 N2O4S4 819.24159, found 819.24212.
+2-026	1H NMR (CD2Cl2, 300 MHz, ppm): δ 8.795 (s, 2H), 7.3757.316 (m, 8H), 7.128 (d, 2H), 4.131 (d, 4H), 1.942 (m, 2H), 1.46071.3066 (m, 20H), 0.98280.8838 (m, 12H).
+2-027	13C NMR (CD2Cl2, 500 MHz, ppm): δ 162.507,162.488,140.157,139.815, 139.123,136.714,136.272,129.671,128.057,127.568,125.508,125.248, 124.361,123.866,123.067,44.466,37.853,30.634,28.596,23.915,23.110, 13.869,10.345.
+2-028	Compound 6.
+2-029	Compound 5 (373 mg, 0.569 mmol) was dissolved in 15 mL of chloroform and 5 mL of DMF.
+2-030	In a different flask, NBS (240 mg, 1.35 mmol) was dissolved in 5 mL of chloroform and 10 mL of DMF
+2-031	and added slowly via an addition funnel to compound 5.
+2-032	The reaction mixture was stirred in the dark for two days.
+2-033	The product was purified by column chromatography using a dichloromethane and hexane mixture.
+2-034	The pure product was collected as a red solid (443 mg, 96% yield).
+2-035	LC-MS (m/z) (M H+) found 812.2, requires 812.67.
+2-036	1H NMR (CDCl 3, 300 MHz, ppm): δ 8.739 (s, 2H), 7.174 (d, 2H), 7.109 (d, 2H), 4.114 (d, 4H), 1.919 (m, 2H), 1.3981.294 (m, 16H), 0.956 (m, 12H).
+2-037	Compound 7.
+2-038	NDI-2T (490 mg, 0.60 mmol) was dissolved in 17 mL of chloroform and 5 mL of DMF.
+2-039	NBS (220 mg, 1.23 mmol) was dissolved in 5 mL of chloroform and 10 mL of DMF and added slowly to NDI-2T. The reaction mixture was stirred in the dark for two days.
+2-040	The product was extracted with dichloromethane, washed with water and brine solution, and the organic solvent was evaporated.
+2-041	The blue solid was purified by column chromatography using a dichloromethane/hexane (5:1) solvent mixture to give the final product (496 mg, 85% yield).
+2-042	1H NMR (CD2Cl2, 300 MHz, ppm): δ 8.776 (s, 2H), 7.317 (dd, 4H), 7.091 (m, 4H), 4.114 (d, 4H), 1.932 (m, 2H), 1.4571.320 (m, 18H), 0.9770.777 (m, 12H).
+2-043	N,N0-Bis(2-ethylhexyl)-2,6-bis(500-hexyl[2,20;50,200]terthiophen-5-yl)-1,4,5,8-naphthalene Diimide (NDI-3TH).
+2-044	Compound 6 (440 mg, 0.545 mmol), 5-hexyl-2-trimethylstannylbithiophene (2b) (670 mg, 1.62 mmol), and Pd(PPh3)4 (31 mg, 0.027 mmol) were added to a flask under argon.
+2-045	The flask was degassed with argon three times, followed by addition of 20 mL of anhydrous toluene, and the mixture was refluxed for 24 h.
+2-046	The product was purified by column flash chromatography using a chloroform and hexane mixture.
+2-047	The pure product was collected and redissolved in chloroform and precipitated from methanol.
+2-048	The pure product was obtained as a dark green solid (377 mg, 60% yield).
+2-049	HRMS (ESI) (m/z) calcd for C 66H75N2O4S 6 1151.4046, found 1151.4059.
+2-050	1H NMR (CD2Cl2, 300 MHz, ppm): δ 8.793 (s, 2H), 7.336 (dd, J = 3.8 Hz, 4H), 7.225 (d, J = 3.8 Hz, 2H), 7.114 (dd, J = 3.8 Hz, 4H), 6.776 (d, J = 3.6 Hz, 2H), 4.129 (d, J = 7.1 Hz, 4H), 2.854 (t, J = 7.6 Hz, 4H), 1.9531.933 (m, 2H), 1.7561.703 (m, 4H), 1.4701.297 (m, 29H), 0.9850.891 (m, 18H).
+2-051	13C NMR (CD2 Cl2, 500 MHz, ppm): δ 162.546,162.502,146.238,140.063,139.744,139.028,137.683,136.269, 134.721,134.137,129.893,127.600,125.493,125.010,124.995,123.686, 123.670,122.946,44.479,37.861,31.603,31.566,30.643,30.137,28.751, 28.604,23.919,23.123,22.595,13.884,13.848,10.351.
+2-052	N,N0-Bis(2-ethylhexyl)-2,6-bis(500-hexyl-[2,20;50,200;500,2000]quaterthi- ophen-5-yl)-1,4,5,8-naphthalene Diimide (NDI-4TH).
+2-053	Compound 7 (623 mg, 0.638 mmol), compound 2b (681 mg, 1.66 mmol), and Pd(PPh3)4 (37 mg) were added to a flask under argon.
+2-054	The flask was degassed with argon three times, followed by addition of 18 mL of anhydrous toluene, and the mixture was refluxed for 12 h.
+2-055	The organic phase was washed with water and concentrated.
+2-056	The product was purified by column flash chromatography using a dichloromethane and hexane mixture.
+2-057	The product was collected and redissolved in chloroform and precipitated from methanol.
+2-058	The pure product was obtained as a dark green solid (265, 32% yield).
+2-059	MALDI-TOF MS (m/z) calcd 1314.3727, found 1313.844.
+2-060	1H NMR (CD2Cl2, 300 MHz, ppm): δ 8.792 (s, 2H), 7.322 (m, 4H), 7.237 (dd, 2H), 7.17 (t, 4H), 7.075 (m, 4H), 6.764 (m, 2H), 4.115 (dd, 4H), 2.846 (m, 4H), 1.749 (m, 4H), 1.4691.333 (m, 18H), 0.9890.893 (m, 12H).
+2-061	13C NMR (CDCl3, 500 MHz, ppm): δ 162.570,145.903,140.494,139.498,139.266,
+2-062	123.635,123.564,122.538,44.673,37.812,31.591,30.687,30.236, 28.791,28.623,23.961,23.149,22.604,14.150,14.112,10.645.
+2-063	N , N0 -Bis(2-ethylhexyl)-2,6-bis([2,20;50,200]terthiophen-5-yl)-1,4,5,8-naphthalene Diimide (NDI-3T).
+2-064	Compound 7 (496 mg, 0.508 mmol), compound 3 (564 mg, 1.51 mmol), and Pd(PPh3)4 (29 mg) were added to a flask under argon.
+2-065	The flask was degassed with argon three times, followed by addition of 24 mL of anhydrous toluene, and the mixture was refluxed for 12 h.
+2-066	The organic phase was washed with water and Scheme 1.
+2-067	Synthesis of Oligothiophene-Functionalized Naphthalene Diimidesa
+2-068	aConditions: (i) Pd(PPh3)4, toluene, reflux; (ii) NBS, CHCl3, DMF, 48 h, rt.
+2-069	concentrated.
+2-070	The product was purified by column flash chromatogra- phy using a dichloromethane and hexane mixture.
+2-071	The pure product was collected and redissolved in chloroform and precipitated from methanol.
+2-072	The pure product was obtained as a dark green solid (216 mg, 43% yield).
+2-073	MALDI-TOF MS (m/z) calcd 982.2095, found 983.086 [(M + H)+].
+2-074	1H NMR (CD2Cl2 , 300 MHz, ppm): δ 8.887 (s, 2H), 7.3317.318 (m, 6H), 7.291 (dd, 2H), 7.242 (dd, 2H), 7.194 (dd, 2H), 7.105 (t, 2H), 4.108 (dd, 4H), 1.9531.933 (m, 2H), 1.4691.333 (m, 16H), 0.9890.893 (m, 12H).
+2-075	13C NMR (CDCl3, 500 MHz, ppm): δ 162.566,140.474,139.495,139.305,137.158,136.976,136.544, 135.517, 130.117, 127.981, 127.583, 125.417, 125.074, 124.789, 124.472,123.961,122.600,79.528,44.670,37.804,30.676,28.614, 23.953,23.144,14.147,10.641.
+2-076	2.2.
+2-077	Characterization.
+2-078	1H NMR spectra were recorded on a Bruker AV300 at 300 MHz, whereas 13C NMR spectra were recorded on a Bruker AV 500 at 500 MHz using CDCl3 or CD 2Cl2 as the solvent.
+2-079	Mass spectra were obtained with a Bruker Esquire LC/ion trap mass spectrometer, JEOL/HX-110, or a matrix-assisted laser desorption ionization time-of-flight (MALDI/TOF) instrument.
+2-080	Differential scan- ning calorimetry (DSC) analysis was performed on a TA Instruments Q100 under N2 at a heating rate of 10 °C/min.
+2-081	Second-heating DSC scans are reported for all molecules except for NDI-1TH and NDI-2TH, where first-heating scans are reported.
+2-082	Thermogravimetric analysis of the NDI-nTH and NDI-nT was conducted on a Perkin-Elmer instru- ment, TGA 7.
+2-083	A heating rate of 5 °C/min under flow of N2 was used with runs conducted from room temperature to 600 °C.
+2-084	X-ray diffraction (XRD) data were collected from a Bruker-AXS D8 Focus diffractometer with Cu Kα beam (40 kV, 40 mA, λ = 0.15418 nm).
+2-085	Thin films for powder XRD were prepared by drop-casting from a concentrated (10 mg/mL) solution in chloroform onto glass
+2-086	slides or Si-wafers, followed by film annealing at 150 °C for 5 min.
+2-087	Cyclic voltammetry was measured on an EG&G Princeton Applied Research Potentiostat/Galvanostat (model 273A).
+2-088	Data were analyzed by model 270 electrochemical analysis system software on a PC computer.
+2-089	A three-electrode cell was used, using platinum wire electrodes as both the counter electrode and the working electrode.
+2-090	Silver/silver ion (Ag in 0.1 M AgNO3 solution, Bioanalytical System, Inc.) was used as a reference electrode.
+2-091	Ferrocene/ferrocenium (Fc/Fc+) was used as an internal standard.
+2-092	The potential values obtained in reference to Ag/Ag+ were converted to the saturated calomel electrode (SCE) scale.
+2-093	All solutions were purged with N2 for 20 min before each experiment.
+2-094	UVvis absorption spectra were collected on a Perkin-Elmer model Lambda 900 UV/vis/near-IR spectrophotometer.
+2-095	2.3.
+2-096	Fabrication and Characterization of Field-Effect Tran- sistors.
+2-097	Organic field-effect transistors (OFETs) were fabricated in standard bottom-contact and bottom-gate geometry.
+2-098	Heavily n-doped silicon with 200 nm thermal oxide (C0 = 17 nF/cm[2]) acted as a gate electrode with a dielectric layer, as well as the substrate.
+2-099	Gold source and drain electrodes (∼50 nm) with a thin chromium layer (∼2 nm) were photolithographically patterned on the substrate.
+2-100	The width (W) and length (L) of the transistor channel are 8001000 μm and 40100 μm, respectively.
+2-101	The silicon dioxide surface was treated with octyltrichlor- osilane (OTS-8).
+2-102	Thin films of NDI-nTH (or NDI-nT) were coated on the substrates by either spin-coating or thermal evaporation.
+2-103	NDI-nTH (or NDI-nT) solution (10 mg/mL) in 1,2-dichlorobenzene was spin- coated onto substrates at 1000 rpm for 60 s.
+2-104	The films were annealed at 120200 °C for 10 min under a flow of nitrogen (<0.1 ppm traces of oxygen and moisture).
+2-105	Electrical characteristics were measured using an HP4145B semiconductor parameter analyzer in nitrogen atmosphere.
+2-106	The mobility was calculated from the saturation region of transfer curves
+2-107	(Ids vs Vg) at a source-drain voltage (Vds) of (80 V with the following equation: Ids = (μWC0)(Vg Vt)[2]/(2L).
+2-108	2.4.
+2-109	Fabrication and Characterization of Solar Cells.
+2-110	OPV devices were fabricated by spin-coating a 40 nm layer of poly(3,4-ethylenedioxythiophene):poly(styrene sulfonate) (PEDOT:PSS) onto ITO-coated glass substrates (10 Ω/0, Shanghai B. Tree Tech.
+2-111	Consult Co., Ltd., Shanghai, China) and drying them at 150 °C for 10 min under vacuum.
+2-112	NDI-nTH (or NDI-nT) solutions were prepared by dissolving 10 mg in each 1 mL of degassed chloroform at room temperature, and they were filtered with a 0.45 μm filter.
+2-113	The P3HT:NDI-nTH and P3HT:NDI-nTH blends were each spin-coated on top of the PEDOT: PSS layer at various speeds for 30 s to make a thin film of ∼70 nm.
+2-114	The films were then annealed at 150 °C for 5 min.
+2-115	The substrates were taken out of the glovebox and loaded into a vacuum evaporator.
+2-116	A hole blocking layer (HBL) of 1,3,5-tris(4-phenylquinolin-2-yl)benzene (TQB) or 2,20,200-(1,3,5-benzinetriyl)tris(1-phenyl-1-H-benzimidazole) (TPBI) (3 nm) was thermally deposited on top of the active layer P3HT:NDI-nTH in a vacuum of 8 107 Torr.
+2-117	For the solar cell with a P3HT electron-blocking buffer layer, P3HT (8 mg/mL) in o-dichlorobenzene (ODCB) solution was spin-coated on top of the PEDOT:PSS layer, aged in a Petri dish for 5 min, and thermally annealed at 150 °C for 5 min to make a thin film of 15 nm.
+2-118	The P3HT:NDI-nTH blend was then spin-coated (70 nm) on top of the P3HT buffer layer in a glovebox.
+2-119	Finally, the cathode layer, which consists of LiF (1 nm) and Al (80 nm), was deposited onto the active layer or HBL layer using a shadow mask in a vacuum of 8 107 Torr.
+2-120	Each substrate contained five solar cells with an active area of 4.0 mm2.
+2-121	Currentvoltage char- acteristics were measured using an HP4155A semiconductor parameter analyzer (Yokogawa Hewlett-Packard, Tokyo) under 100 mW/cm[2] AM1.5 sunlight illumination from a filtered Xe lamp, calibrated using a NREL-calibrated Si diode.[29b] Film thickness was measured with an Alpha- Step 500 profilometer (KLA-Tencor, San Jose, CA).
+2-122	All measurements were done in ambient laboratory air.
+2-123	The measurement of the external quantum efficiency or the incident photon to current efficiency (IPCE) was made using an Oriel xenon lamp (450 W) with an Oriel Cornerstone 130 1/8 m monochromator.
+2-124	The signal was measured with a calibrated standard silicon solar cell and a KG5 filter calibrated at NREL using a SR830 DSP lock-in amplifier at a chopping frequency of 400 Hz.
+2-125	Atomic force microscopy (AFM) imaging was performed on the same solar cell devices using a Dimension 3100 SPM (Veeco) instrument operating in tapping mode.
+2-126	For transmission electron microscopy (TEM) imaging, thin films of the active layers were obtained by scratching edges of the device substrate.
+2-127	The device was then soaked in water until the thin film was peeled-off from the device substrate.
+2-128	The films were supported on TEM grids (Electron Microscopy Sciences) for bright-field transmission electron microscopy (BF-TEM) imaging.
+2-129	An FEI Tecnai G[2] F20 TEM at 200 kV was employed, and images were acquired with a CCD camera and recorded with Gatan Digital Micro- graph software.
+3-001	3.1.
+3-002	Synthesis and Characterization.
+3-003	The synthesis of the oligothiophene-functionalized NDI molecules, NDI-nTH and NDI-nT, is outlined in Scheme 1. 2,6-Dibromonaphthalene diimide (1),[45] 5-hexyl-2-trimethylstannylthiophene (2a),[46a] 5-hexyl-2-trimethylstannylbithiophene (2b),[46a] and 2-trimethyl- stannylbithiophene (3)[46b] were made according to reported methods.
+3-004	Stille coupling of compound 1 with 2a or 2b afforded NDI-1TH and NDI-2TH as a red solid and a blue solid in 48 and 79% yields, respectively.
+3-005	Stille coupling of 1 and 2-trimethyl- stannylthiophene (3) gave compound 5 as a red solid in 86%
+3-006	yield, whereas NDI-2T was obtained as a blue solid in 86% yield by Stille coupling of compounds 1 and 4.
+3-007	Bromination of compounds 5 and NDI-2T using NBS gave precursors 6 and 7 in high yields.
+3-008	Stille couplings of 6 and 2b, 7 and 2b, and 7 and 3 gave NDI-3TH, NDI-4TH, and NDI-3T as dark green solids in 60, 32, and 43% yields, respectively.
+3-009	All final compounds were purified by column flash chromatography and recrystallized from chloroform/methanol solvent mixtures.
+3-010	The molecular struc- tures of the six molecules were confirmed by 1H NMR, 13C NMR, high-resolution mass spectroscopy, or MALDI.
+3-011	Single-crystal X-ray structure of some of the NDI-nTH molecules (NDI-3TH and NDI-4TH) was also determined.
+3-012	All oligothio- phene-functionalized NDIs are readily soluble in organic solvents including chloroform, toluene, and chlorobenzene.
+3-013	Thermogravimetric analysis (TGA) was used to assess the thermal stability of the oligothiophene-functionalized NDIs.
+3-014	The TGA scans of NDI-nTH and NDI-nT (Figure S1 in the Supporting Information) showed that all six molecules were stable to temperatures above 300 °C, with onset decomposition temperatures (TD) in the range 336348 °C. The observed TD values are significantly higher than those of the corresponding oligothiophenes with or without an alkyl chain.[47a] For example,
+3-015	Chemistry of Materials ARTICLE
+3-016	(221 °C)[47a] and its dihexyl derivative (179 °C),[47b] as well as α-sexithiophene (280 °C)[47c] and its dihexyl derivative (290 °C),[47c] have higher Tm values.
+3-017	On the other hand, the Tm values of the present π-conjugated oligomers NDI-nTH and NDI-nT are much higher than those of NDIs that have only alkyl substitutions at the imide nitrogens and no extension of conjugation through functio- nalization of the naphthalene ring.[40b,47d]
+3-018	3.2.
+3-019	Single-Crystal Structures.
+3-020	The solid state packing and intermolecular interactions in the NDI-nTH series of molecules were investigated by X-ray diffraction on single-crystals of NDI-3TH and NDI-4TH.
+3-021	The NDI-3TH single-crystals were grown from a chloroform/methanol solution, whereas NDI-4TH single-crystals were grown from a chloroform solution.
+3-022	The resulting single crystal structure of NDI-4TH was of good quality, whereas the refinement of the NDI-3TH crystal structure was of poor quality as a result of the flexible belt-like single-crystals; however, the crystal structure of NDI-3TH is also presented because it can still be used for illustration and comparison purposes.
+3-023	Single crystal X-ray diffraction of NDI-3TH shows a monoclinic primitive lattice with a space group of P121/c1 and unit cell dimensions of a = 10.3066 (15) Å, b = 18.779(3) Å, c = 31.399(5) Å, α = 90°, β = 92.774(9)°, and γ = 90°.
+3-024	The NDI-4TH crystal structure also shows a monoclinic primitive lattice with a space group of P121/c1 and unit cell dimensions of a = 20.041(3) Å, b = 16.808(3) Å, c = 9.9175(13) Å, α = 90°, β = 100.606(5)°, and γ = 90°.
+3-025	The NDI core in NDI-3TH and NDI-4TH shows a
+3-026	α-sexithiophene (309 °C)[47a] and its dihexyl derivative (310 °C)[47a] have lower TD values than NDI-nTH and NDI-nT.
+3-027	The thermal transition properties of the oligothiophene-functionalized NDIs were also investigated by differential scan- ning calorimetry (DSC).
+3-028	The second-heating DSC scans of NDI-nTH and NDI-nT are exemplified by those of NDI-3TH and NDI-4TH in Figure 2; the DSC scans of the others are given in Figure S2 in the Supporting Information.
+3-029	The melting transition temperature (Tm) and corresponding recrystallization tempera- ture (Tc) are summarized in Table 1.
+3-030	The Tm increased from 74 °C in NDI-1TH to 223 °C in NDI-3TH and then decreased slightly to 205 °C in NDI-4TH.
+3-031	The Tm of the NDI-nTH series thus increases with molecular weight to a peak at n = 3.
+3-032	NDI-2TH with hexyl end groups has a significantly lower melting transition (109 °C) compared to that of NDI-2T without hexyl end groups (183 °C).
+3-033	In contrast, NDI-3TH has a melting transition comparable to that of NDI-3T (Table 1).
+3-034	The NDI materials showed clear thermal transitions during the cooling from the melt, except for NDI-1TH and NDI-2TH, which did not exhibit any recrystallization transition in the cooling scan, suggesting relatively slow crystallization rates in these latter materials.
+3-035	The observed melting temperature (Tm) in these oligothiophene-functionalized NDI materials (Table 1) is lower compared to that of the corresponding oligothiophenes with or without dihexyl end groups.
+3-036	For example, α-quarterthiophene
+3-037	relatively planar geometry (Figures 3 and 4).
+3-038	Interestingly, the thiophene rings adjacent to the NDI core exhibit a syn config- uration in both NDI-3TH and NDI-4TH molecules, while the outer thiophene rings exhibit an anti configuration.
+3-039	This kind of orientation appears to be directed by the carbonyl groups in the NDI core to facilitate hydrogen bonding (Figures 3a and 4a).
+3-040	The oligothiophene blocks in NDI-4TH adopt a more planar configuration relative to the NDI core, compared to the oligo- thiophene rings in NDI-3TH.
+3-041	Each of the thiophene rings adjacent to the NDI core has a twist angle of 35° in NDI-3TH.
+3-042	The syn configurations of the inner thiophene rings in NDI-3TH have a relatively large dihedral angle of 40°, whereas the anti configurations of the outer thiophene rings have a smaller dihedral angle (20°).
+3-043	In contrast, each of the thiophene rings adjacent to the NDI core in NDI-4TH has a much smaller twist angle (25°).
+3-044	The thiophene rings in NDI-4TH exhibit syn, anti, and anti configurations with dihedral angles of 23, 7, and 12°, respectively.
+3-045	The crystal structures of both of these NDI-nTH molecules show that there is no orbital overlap between the naphthalene diimide cores.
+3-046	The bulky ethylhexyl side chains on the NDI core prevent optimum orbital overlap between neighboring NDIs.
+3-047	The N 333 N distance between two adjacent NDI units in NDI-3TH is 10.31 Å, whereas the same distance in NDI-4TH is slightly shorter (9.92 Å).
+3-048	The π-stacking is mainly between the naphthalene diimide units and the thiophene rings.
+3-049	Figures 3a and 4a show that the π-stacking between two adjacent molecules in NDI-3TH and NDI-4TH with the shortest intermolecular distance are 3.26 and 3.21 Å, respectively.
+3-050	NDI-3TH forms a slipped face-to-face π-stacking along the a-axis as shown in Figure 3b.
+3-051	Similarly, NDI-4TH forms a slipped face-to-face π-stacking along the c-axis as shown in Figure 4b.
+3-052	Figure 3c shows that there are four NDI-3TH molecules in a unit cell.
+3-053	In contrast, there are only two NDI-4TH molecules in a unit cell, forming a zigzag structure, as shown in Figure 4c.
+3-054	3.3.
+3-055	Self-Assembly of NDI-nTH Nanowires.
+3-056	Unlike perylene diimides (PDIs) and other π-conjugated planar molecules whose solution-phase self-assembly into nanowires and other one- dimensional (1-D) nanostructures has been extensively investi- gated,[30,48,49] 1D nanostructures of naphthalene diimides (NDIs) and their self-assembly have not been reported.
+3-057	Because such nanowires and related 1D nanostructures represent one ap- proach to the rational control of the morphology of BHJ polymer solar cells,9,2932 we have done an initial investigation of the solution-phase assembly of nanowires from NDI-nTH.
+3-058	We selected NDI-3TH for the investigation of solution-phase self-assembly and used the solvent-exchange method,[30] where single-crystal nano/microwires were prepared by adding metha- nol (a nonsolvent) to a solution (5 mg/mL) of NDI-3TH in dichloromethane, and the resulting mixtures were left for two
+3-059	weeks.[48e] Figure 5 shows the transmission electron microscopy (TEM) images of NDI-3TH nanowires.
+3-060	The width or diameter of the nano/microwires was polydisperse (100 nm to 20 μm), and the length was in the 1300 μm range (Figure 5a).
+3-061	A single TEM image of a single microwire of NDI-3TH (13 μm width) and the corresponding electron diffraction of the single micro- wire are shown in Figure 5b and c.
+3-062	The selected area electron diffraction (SAED) pattern (Figure 5c) indicates that the nano/microwires are single crystalline.
+3-063	To further investigate the solid state morphology of these NDI-3TH nanowires/microwires, we performed X-ray diffraction (XRD) analysis on drop-casted films from methanol dispersion of the nanowires, (Figure S3 in the Supporting Information).
+3-064	The X-ray diffraction patterns of the nanowire films show strong diffraction peaks at 2θ = 4.90, 10.4, 15.9, 18.3, and 21.5°, corresponding to the d-spacing of 18.0, 8.5, 5.56, 4.84, and 4.14 Å.
+3-065	These intense and sharp diffraction peaks suggest that the nanowire films are highly crystalline and oriented.
+3-066	The d-spacing of 18.0 Å can be assigned to the [010] direction based on the previously discussed single crystal X-ray structure.
+3-067	It is remarkable that single-crystalline ultralong nanowires can be assembled from NDI-3TH given the bulky ethylhexyl side chains and hexyl end groups of the molecule, as well as the observed impeded intermolecular interactions between the NDI units (Figure 3) and the slipped face-to-face π-stacking.
+3-068	These results suggest that ultralong single crystalline nano-/microwires of oligothiophene-functionalized naphthalene diimides can be assemble from solution.
+3-069	Further study and optimization of the assembly conditions will be essential to control the width and aspect ratio in the ranges of particular interest in nanowire-based bulk heterojunction OPVs.[9,29,30]
+3-070	3.4.
+3-071	Photophysics.
+3-072	The photophysics and light harvesting potential of oligothiophene-functionalized NDIs, NDI-nTH and NDI-nT, were investigated by absorption spectroscopy of the molecules in dilute solution and as thin films.
+3-073	Figure 6a shows the absorption spectra of NDI-nTH and NDI-nT in dilute chloroform solutions ((25) 106 M).
+3-074	The absorption maxima (λmax) of the six molecules are summarized in Table 1.
+3-075	In solution, the NDI molecules show two absorption bands: a ππ* transition in the 300480 nm range and an intramolecular charge transfer (ICT) band in the 480780 nm range.
+3-076	A significant red shift in the absorption maximum is observed as the number of thiophene rings increased.
+3-077	A bathochromic shift of 79113 nm in λmax was observed as the size of the oligothiophene appended to NDI increased from n = 1 (NDI-1TH) to n = 2 (NDI-2TH) and to n = 4 (NDI-4TH).
+3-078	Interestingly, both NDI-3TH and NDI-4TH have a similar λmax in solution (632 and 638 nm), suggesting that the conjugation length in NDI-4TH has reached a plateau.
+3-079	The λmax in NDI-2T and NDI-3T in chloroform solution are similar to those of NDI-2TH and NDI-3TH, which confirms the similarity of the electronic structure between the alkyl substituted and unsubstituted end groups.
+3-080	The absorption spectra of the NDI molecules as thin films are shown in Figure 6b, and the λmax and optical band gap (Egopt) are summarized in Table 1.
+3-081	The absorption spectra of some of the NDI-nTH thin films show some vibronic structures, whereas the absorption spectra of NDI-nT materials were featureless.
+3-082	The λmax in NDI-nTH and NDI-nT thin films varied from 528 nm in NDI-1TH to 801 nm in NDI-4TH.
+3-083	The optical band gap (Egopt) of the oligothiophene-functionalized NDI materials varied from 2.1 eV in NDI-1TH and 1.6 eV in NDI-3TH to 1.4 eV in NDI-4TH and NDI-3T (Table 1).
+3-084	The large red shift in the absorption maximum with increasing oligothiophene size (n) is evidence of the increase in the intramolecular charge transfer (ICT) and, thus, conjugation length in these donoracceptordonor molecules.[39]
+3-085	It is also clear that, as the oligothiophene size increased, the difference between the λmax in solution and thin film steadily increased, which suggests that the increase in oligothiophene size leads to enhanced intermolecular interac- tions and long-range 2D order in the NDI-nTH and NDI-nT materials.
+3-086	For example, the λmax in NDI-nTH (n = 1, 2, 3) and NDI-2T thin films was only slightly red-shifted (339 nm) compared to the λmax in dilute solution.
+3-087	In contrast, the λmax values in NDI-4TH and NDI-3T thin films showed large bath- chromic shifts (76 and 163 nm) compared to the respective λmax values in solution.
+3-088	In the NDI-4TH thin film, the absorption maximum was red-shifted by 147 nm compared to that of NDI-3TH, despite their similar λmax values in solution.
+3-089	The large red shift in thin film absorption compared to solution spectra can be attributed to the improved planarization of the molecular backbone in the solid state that results in enhanced ICT and intermolecular interactions.
+3-090	These results on the photophysics of the NDI-nTH and NDI-nT materials demonstrate that their absorption spectra and optical band gaps are such that they can contribute to substantial light harvesting and exciton generation in OPVs.
+3-091	Extension of the absorption bands of these candidate acceptor materials to the near-IR range (700950 nm) suggests that there is latitude in the selection of a candidate donor polymer for pairing with them in BHJ solar cells.
+3-092	To achieve complementary light harvesting, a donor polymer with an absorption band in the 420600 nm spectral range would be ideal.
+3-093	3.5.
+3-094	Electrochemical Properties.
+3-095	The HOMO/LUMO en- ergy levels and associated ionization potential (IP)/electron affinity (EA) of the NDI-nTH and NDI-nT molecules are critical to fully evaluating their potential as acceptor materials in OPVs.
+3-096	We estimated the HOMO/LUMO energy levels by performing cyclic voltammetry of the NDI molecules in 1.01.5 mM solutions in benzene/acetonitrile mixture (10:3 v/v).
+3-097	Representative cyclic voltammograms (CVs) of the NDI molecules are shown in Figure 7a.
+3-098	All six molecules showed
+3-099	two reversible reduction waves with onset reduction potentials of 0.43 to 0.256 V (vs SCE).
+3-100	The estimated electron affinity (EA) values, or LUMO energy levels (EA = Eredonset + 4.4 eV),[50] were in the range 3.97 to 4.14 eV for the series of six NDI molecules (Table 1).
+3-101	The similarity of the LUMO level (∼4.0 eV) of all the NDI-nTH and NDI-nT molecules is to be expected from the constant NDI core unit in the materials.
+3-102	These LUMO levels of NDI-nTH and NDI-nT are comparable to the literature values reported for various NDI-based small molecules4042 and polymers.4345
+3-103	The observed oxidation CVs in Figure 7b and Figure S4 in the Supporting Information clearly show irreversible oxidation waves for all of the NDI molecules except NDI-2T and NDI-3T, which are quasi-reversible.
+3-104	The reason for the quasi-reversible oxidation of NDI-nT without hexyl end groups, whereas the oxidation of NDI-nTH with hexyl end groups is completely irreversible, is not obvious but may be related to the delocalization of the radical cation into the α-carbons of the hexyl end groups.
+3-105	As expected, the main feature of the oxidation CV is that the oxidation potential progressively became less positive with increasing oligothiophene size in the NDI-nTH and NDI-nT molecules.
+3-106	The onset oxidation potentials (Eoxonset) thus decreased from 1.66 V in NDI-1TH to 1.06 V (versus SCE) in NDI-4TH (Table 1).
+3-107	The estimated ionization potential (IP) values, or HOMO energy levels (IP = Eoxonset + 4.4 eV),[50] thus varied from 6.06 eV for NDI-1TH to 5.46 eV for NDI-4TH (Table 1).
+3-108	These results clearly demonstrate that the HOMO level can be varied by 0.6 eV by varying the oligothiophene size in the oligothiophene-functionalized NDI molecules.
+3-109	The trends in measured HOMO/LUMO energy levels of NDI-nTH and NDI-nT materials are graphically illustrated in Figure 8 along with the reported HOMO/LUMO energy levels of poly(3-hexylthiophene) (P3HT), a common donor polymer semiconductor widely used in BHJ solar cells.
+3-110	The LUMO level of 4.0 to 4.1 eV observed in these NDI molecules is remark- able comparable to LUMO levels reported for various fullerene acceptors (3.8 to 4.5 eV for PC61BM or PC71BM).[38]
+3-111	On the basis of the criterion of HOMO/LUMO energy levels and their offsets relative to a donor polymer, as discussed earlier, we can thus conclude that the series of NDI molecules have potential as acceptor materials for OPVs.
+3-112	For example, if P3HT is the donor, ΔELUMO ∼ 0.8 eV and ΔEHOMO ∼0.51.1 eV, which are greater than the target 0.3 eV.
+3-113	The observed LUMO levels of the NDI-nTH and NDI-nT molecules suggest that electron transport should be feasible in the materials.
+3-114	However, we note that the low ionization potential (5.55.6 eV) of some of these materials (NDI-3T, NDI-3TH, NDI-4TH) suggests that they could also transport holes, a feature of organic semiconductors with
+3-115	donoracceptor architecture.[44,51]
+3-116	It is interesting that the ob- served electrochemical band gap (Egel), or transport gap, of these NDI materials, which varies from 1.3 eV in NDI-4TH to 2.1 eV in NDI-1TH (Table 1), is very close to the optical band gap (Egopt).
+3-117	In fact, Egel is either identical to Egopt (e.g., NDI-1TH, NDI-4TH, NDI-2T, NDI-3T) or is larger by less than 100 meV.
+3-118	The implication of this is that the binding energy of excitons in these oligothiophene-functionalized NDI materials is small compared to the typical 0.51.0 eV expected in most organic semi- conductors.[52]
+3-119	3.6.
+3-120	Charge Transport.
+3-121	We investigated the charge transport properties of the NDI-nTH and NDI-nT by using a bottom-contact and bottom-gate field-effect transistor geometry with an octyltrichlorosilane (OTS) treated silicon dioxide dielectric and patterned gold/source drain electrodes.
+3-122	The substrates were at room temperature during the film deposition via spin coating or in the case of NDI-1TH and NDI-2TH by evaporation.
+3-123	Films of NDI-1TH and NDI-2TH could not be made by spin coating from solution because of the hydrophobic OTS-treated surface, which led to poor film wetting; therefore, evaporated films were evaluated.
+3-124	Field effect charge transport could not be observed in NDI-1TH, which may be due to its rapid crystallization into large domain aggregates (Figure S5 in the Supporting Information).
+3-125	The devices were briefly exposed to air while transferring them from the device fabrication facility to the nitrogen-filled device testing box.
+3-126	Both field-effect electron transport and hole trans- port were observed in all NDI-nTH and NDI-nT materials except NDI-1TH.
+3-127	Typical output and transfer characteristics of NDI-nTH OFETs are exemplified by those of NDI-4TH in Figure 9.
+3-128	on the five NDI materials are summarized in Table 2.
+3-129	In general, as expected from their favorable LUMO energy levels (4.0 to 4.1 eV), the NDI-nTH and NDI-nT materials transport electrons with moderately high mobility that varies from 5.0 106 cm2 /(V s) in NDI-2TH films to 9.0 104 cm2/(V s) in NDI-4TH films (Table 2).
+3-130	In fact, the field-effect mobilities of electrons in all spin coated films of NDI-nTH and NDI-nT are sufficiently high ((1.59.0) 104 cm 2/(V s)) to meet one of the previously discussed design criteria for new non-fullerene acceptors for OPVs.
+3-131	However, hole transport in all of the oligothiophene-functionalized NDI materials is equally fairly high, with field-effect mobility of holes varying from 2.2 105 cm 2/(V s) in NDI-2T to 2.1 103 cm2 /(V s) in NDI-4TH (Table 2).
+3-132	Among the series of NDI materials, NDI-4TH has the highest electron mobility and also has an even higher hole mobility, effectively making it a p-type semiconductor.
+3-133	By looking at the electron/hole mobility ratio (μe/μh), we find that the majority carriers are electrons in two of the materials (NDI-3TH and NDI-2T), holes in two of them (NDI-4TH and NDI-2TH), and perfectly balanced ambipolar transport in NDI-3T (Table 2).
+3-134	These charge transport results suggest that some of the NDI-nTH and NDI-nT materials may not be very effective acceptor materials for OPVs by virtue of the majority carriers being holes, despite their favorable LUMO energy levels (4.0 to 4.1 eV).
+3-135	We note that the Ion /Ioff ratio is low (101103 ) for all of the oligothiopheneNDI materials.
+3-136	The low Ion/Ioff ratio is com- monly seen in ambipolar OFETs where the majority charge carriers of the operation are determined by the applied voltage at the electrodes, that is, electrons for the n-channel mode with a positive voltage or holes for the p-channel mode with a negative bias.[44,53]
+3-137	The low onoff current ratio comes from the relatively high off-current (Ioff).
+3-138	Ion in OFETs under a high gate voltage is mainly governed by the field-effect mobility of the majority charge carriers.
+3-139	However, in an off-state of an ambipolar OFET with a low gate voltage, Ioff is often increased by the action of minority charge carriers, that is, holes (electrons) for the n-channel (p-channel) mode, which can be easily injected to the corresponding electronic energy level of the ambipolar semiconductor.
+3-140	This feature is not observed in unipolar OFETs where minority charge carriers are not active.
+3-141	3.7.
+3-142	Non-fullerene Bulk Heterojunction Solar Cells.
+3-143	The potential of the new NDI-based semiconductors NDI-nTH and NDI-nT, as acceptor materials in OPVs, was investigated by using P3HT as the donor in bulk heterojunction (BHJ) solar cells.
+3-144	As previously discussed (Figure 8), the HOMO/LUMO
+3-145	energy levels of each of the NDI materials provide good band offsets with those of P3HT.
+3-146	Photodiodes with a device archi- tecture of ITO/PEDOT:PSS/P3HT:NDI-nT(H)/HBL/LiF/Al were fabricated and characterized, where the thin layer of 1,3,5-tris(4-phenylquinolin-2-yl)benzene (TQB)[54] or 2,20,200-(1,3,5-benzinetriyl)-tris(1-phenyl-1-H-benzimidazole) (TPBI)[50a] was inserted between the active layer and the cathode as a hole-blocking layer to improve the overall device performance.
+3-147	Incorporation of a hole-blocking layer (HBL) between the active layer and the cathode electrode is well-known in bilayer solar cells and serves as an exciton blocking layer that prevents exciton quenching at the acceptor/cathode interface, thus leading to an increase in fill factor (FF) and short-circuit current density (Jsc).[5b] Among the six semiconductors, only NDI-3TH, NDI-2T, and NDI-3T showed a photovoltaic response.
+3-148	It is interesting to note that each of the three NDI materials that did not show a photovoltaic response in BHJ blends with P3HT has holes as the majority carriers with μe/μh < 1 (Table 2).
+3-149	In this respect, the lack of photovoltaic response in NDI-4TH is particularly note- worthy because it has the highest electron and hole mobilities among the series of NDI-based semiconductors.
+3-150	This is an important result in that it highlights and clarifies the criterion of charge transport in the design of acceptor materials; that is, the majority carriers in the acceptor material should be electrons.
+3-151	was deposited from dichloromethane with 0.2% DIO.
+3-152	solar cells under dark and under 100 mW/cm[2] AM1.5 solar illumination are shown in Figure 10a.
+3-153	The photovoltaic para- meters calculated from the current densityvoltage (JV) curves, including open-circuit voltage (Voc), short-current (Jsc), and fill factor (FF), are summarized in Table 3.
+3-154	The variation of the Voc from 0.83 V in the P3HT:NDI-3TH system to 0.71 V in P3HT:NDI-2T and 0.64 V in P3HT:NDI-3T cannot be fully understood on the basis of the differences in the HOMO energy level of P3HT and the LUMO levels of these acceptor materials, which are essentially constant (ΔEHOMO/LUMO = 0.91.0 eV).
+3-155	In the case of P3HT/fullerene BHJ solar cells, it is known that the Voc can also vary considerably, which has been explained by factors such as the scale of the two-phase morphology,[33] charge tran-
+3-156	9b,29a,33a 9b,29a
+3-157	sport, and blend compositions.
+3-158	BHJ solar cells based on the NDI-3TH acceptor gave the highest power conversion efficiency (PCE) of 0.77%, with a high Voc of 0.83 V, Jsc of 2.39 mA/cm[2], and FF of 0.39 under 100 mW/cm[2] AM1.5 solar illumination in air.
+3-159	The photovoltaic efficiency was significantly lower in the case of NDI-3T (0.09% PCE) and NDI-2T (0.19% PCE), despite the similarity of the electron mobilities of NDI-2T and NDI-3TH.
+3-160	This means that the observed trends in photo- voltaic efficiency cannot be explained solely by charge transport and carrier mobilities.
+3-161	Additional factors such as morphology and light absorption may also contribute to the observed trends in photovoltaic efficiency.
+3-162	Examination of the effect of the BHJ blend composition showed that a 1:3 weight ratio gave the best performances in P3HT:NDI-3TH and P3HT:NDI-3T, whereas the optimum composition was 1:2 for P3HT:NDI-2T. The optimum com- position in P3HT/fullerene BHJ solar cells was found to be 1:1.[55]
+3-163	Both the NDI-based acceptor and the P3HT in the present BHJ solar cells significantly contribute to light harvesting, as exemplified by the blend absorption spectra in Figure 10b.
+3-164	The absorption of the blend films clearly shows that P3HT:NDI-3TH blends harvest more of the 640800 nm light than the P3HT: NDI-2T blends, which can partly explain the superior perfor- mance of the NDI-3TH photodiodes.
+3-165	(1:2); and (e) P3HT:NDI-3T (1:3).
+3-166	Initial optimization of the P3HT:NDI-3TH devices was carried out to improve the power conversion efficiency, including the use of a processing additive, 1,8-diiodooctane (DIO), change of the solvent from chloroform to dichloromethane, incorpora- tion of a P3HT layer (15 nm) as a buffer layer between the active layer and the anode, and insertion of a TPBI layer (3 nm) between the active layer and the cathode.[56]
+3-167	The resulting solar cells had a power conversion efficiency of 1.5% with an open circuit voltage of 0.82 V, an FF of 0.53, and a Jsc of 3.43 mA/cm[2] under 100 mW/cm[2] AM1.5 sunlight illumination.
+3-168	This efficiency is among the highest obtained to date in non-fullerene small- molecule based BHJ solar cells.
+3-169	The high efficiency obtained for the optimized device is due to a significant increase in the fill factor and short-circuit current density.
+3-170	The role of the proces- sing additive is unclear thus far; however, further studies and device optimizations are underway.
+3-171	The incident photon-to- electron efficiency (IPCE), or external quantum efficiency spec- trum, of the optimized P3HT:NDI-3TH (1:1) solar cell that
+3-172	gave 1.5% PCE is shown in Figure 10c.
+3-173	The photoresponse of this BHJ diode covers the entire visible region ranging 800300 nm, with the highest IPCE of 1516% at 470600 nm.
+3-174	The Jsc calculated from IPCE is 3.00 mA/cm[2] , which is 14% lower than that observed from JV measurement.
+3-175	Specific reasons for the discrepancy include degradation of the non-encapsulated solar cells when taken to a measurement facility in a different building, neglect of the Jsc contribution from the 300350 nm wavelength region not covered by the IPCE spectrum, and spectral mismatch between the solar simulator and the solar spectrum.
+3-176	The IPCE spectrum clearly shows that both the NDI-3TH acceptor and P3HT donor contribute to light harvesting, exciton generation, and charge generation.
+3-177	3.8.
+3-178	Morphology of BHJ Blend Films.
+3-179	The morphology of the BHJ P3HT:NDI-nTH and P3HT:NDI-nT blends, as re- vealed by TEM imaging, is shown in Figure 11.
+3-180	Three main types of morphology are observed: (i) a dendritic microstructure in which the acceptor material forms a dendritic phase or dendritic islands is seen in P3HT:NDI-2TH blend thin films (Figure 11a); (ii) a bicontinuous two-phase nanostructure is seen in blend thin films of P3HT:NDI-3TH (Figure 11b), P3HT:NDI-2T (Figure 11d), and P3HT:NDI-3T (Figure 11e); and (iii) a microstructure with micrometer scale crystallites of the acceptor material is seen in P3HT:NDI-4TH (Figure 11c).
+3-181	These mor- phologies are generally consistent with the observed perfor- mance of photovoltaic devices.
+3-182	The dendritic islands seen in NDI-2TH blends partly explain the absence of a photovoltaic response in the blends because photogenerated electrons in the electron-conducting phase all end up in dead paths and thus cannot be collected at the electrodes.
+3-183	Similarly, the lack of a photovoltaic response in P3HT:NDI-4TH can be partly under- stood from the rather small donoracceptor area.
+3-184	In contrast, the bicontinuous nanoscale morphology of BHJ blends of P3HT: NDI-3TH and P3HT:NDI-nT (n = 2, 3) is consistent with the observed significant photovoltaic response of these blend sys- tems.
+3-185	Furthermore, the smaller scale of P3HT and NDI-3TH domains in the morphology can explain the superior photovol- taic properties of this acceptor, compared to those of either NDI-2T or NDI-3T. Finally, the large variation in the morphology of these BHJ blend films is quite remarkable given the small variations in the molecular structure of the NDI acceptor materials.
+3-186	These morphological results suggest that there is a greater potential for tuning and even controlling the BHJ blend morphology in oligomer acceptors via synthesis than there is in fullerene acceptors.
+3-187	To further investigate the solid state morphology, we per- formed XRD analysis on drop-casted films of the NDI acceptor materials and films of their blends with P3HT.
+3-188	Figure 12a presents the XRD patterns of films of the pure NDI-nTH and NDI-nT acceptor materials.
+3-189	NDI-2TH thin films showed no diffraction peaks before and after annealing, suggesting that this material does not readily crystallize.
+3-190	The X-ray diffraction pattern of NDI-3TH films showed a strong diffraction peak at 2θ = 4.92°, which corresponds to a d-spacing of 18.0 Å and can be assigned to (010) reflection.
+3-191	The diffraction pattern of NDI-4TH films showed a relatively weak diffraction peak at 2θ = 3.98°, which corresponds to a d-spacing of 22.17 Å and can be assigned to (100) reflection.
+3-192	A second strong diffraction peak in NDI-4TH thin films was also observed at 2θ = 27.59°, which corresponds to a d-spacing of 3.23 Å and can be assigned to the π-stacking direction.
+3-193	The X-ray diffraction pattern of NDI-2T films showed peaks at 2θ = 5.19° and 27.6°, corresponding to d-spacings of
+3-194	17.0 and 3.23 Å, respectively, whereas NDI-3T films showed diffraction peaks at 2θ = 6.2°, 19.6°, 22.3°, 22.9°, 25.1°, and 27.9°, corresponding to d-spacings of 14.2, 4.51, 3.98, 3.87, 3.54, and 3.2 Å, respectively.
+3-195	The strong diffraction peaks at 27.59° in NDI-4TH and 27.9° in NDI-3T films suggest that most of the molecular backbones oriented parallel, that is, face-on to the substrate.
+3-196	In contrast, the absence of the π-stacking peak in the XRD patterns of NDI-3TH and NDI-2T films suggests that the preferred molecular backbone orientation is perpendicular to the substrate.
+3-197	The X-ray diffraction patterns of P3HT:NDI-nTH and P3HT:NDI-nT blend thin films are shown in Figure 12b.
+3-198	The X-ray diffraction pattern of P3HT:NDI-3TH blend films showed three diffraction peaks at 4.9, 25.0, and 27.8°, corresponding to d-spacings of 18.0, 3.55, and 3.2 Å.
+3-199	The strong new diffraction peak at 27.8° corresponds to the π-stacking, which suggests that most of NDI-3TH backbones are oriented parallel to the substrate.
+3-200	This face-on orientation is the preferred orientation for charge transport in photovoltaic devices.
+3-201	The XRD pattern of P3HT:NDI-4TH blend films showed no reflection peaks.
+3-202	This suggests that the blend of P3HT with NDI-4TH severely disturbs the molecular packing of NDI-4TH and gives an amorphous film.
+3-203	The diffraction pattern of P3HT:NDI-2T blend film (2θ = 5.26 and 27.9°) is very similar to the pure NDI-2T diffraction pattern, suggesting that there is no change in the molecular packing when a NDI-2T film is blended with P3HT.
+3-204	In contrast, the P3HT: NDI-3T blend film showed only one diffraction peak (2θ = 27.8°), compared to the five diffraction peaks observed in the pure NDI-3T film.
+4-001	New oligomer semiconductors with donoracceptor archi- tecture based on oligothiophene donor and naphthalene diimide acceptor moieties, NDI-nTH and NDI-nT, have been synthe- sized and characterized.
+4-002	Single-crystal X-ray structures of NDI-3TH and NDI-4TH were obtained, revealing a slipped face-to-face π-stacking with relatively short intermolecular interactions (3.23.26 Å).
+4-003	The oligomer semiconductors had broad absorp- tion bands with optical band gaps in the 1.42.1 eV range.
+4-004	The LUMO energy level of the series of oligomers was relatively constant at 4.0 to 4.1 eV, whereas the HOMO energy level could be tuned from 5.5 in NDI-3TH and NDI-4TH to 6.1 eV in NDI-1TH.
+4-005	Ambipolar field-effect charge transport was observed in all six materials with electron mobilities (μe) from 5.0 106 to 9.0 104 cm 2/(V s) and hole mobilities (μh) from 2.2 105 to 2.1 103 cm2/(V s).
+4-006	The homologous series of oligomer semiconductors, NDI-nTH (n = 1, 2, 3, 4) and NDI-nT (n = 2, 3), was used to evaluate factors essential to the design of non-fullerene acceptor materials for OPVs, including HOMO/LUMO energy levels offsets, optical absorption, band gap, charge transport, and phase-sepa- rated morphology of the BHJ active layer film.
+4-007	Solution-pro- cessed BHJ blends of each oligomer with P3HT showed a photovoltaic response when the oligomer charge transport was such that μe/μh g 1; oligomers having μe/μh < 1 did not show a photovoltaic response.
+4-008	Similarly, a photovoltaic response was not observed in P3HT:NDI-2TH, which showed a dendritic nano- morphology, and P3HT:NDI-4TH, which showed a microscale phase-separated morphology.
+4-009	P3HT:NDI-nT(H) blends show- ing a photovoltaic response had a bicontinuous nanoscale morphology, while light harvesting and exciton generation take
+4-010	place in both phases of the BHJ thin film.
+4-011	Bulk heterojunction devices with an active layer of P3HT:NDI-3TH (1:3) showed a power conversion efficiency of 1.5%, with an open circuit voltage of 820 mV, which is among the highest photovoltaic efficiencies obtained to date in non-fullerene, small molecule acceptor BHJ polymer solar cells.
+4-012	These results suggest that the identified set of criteria can provide a guide in the design of new acceptor materials for organic photovoltaics.

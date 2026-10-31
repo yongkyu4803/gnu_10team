@@ -1,0 +1,188 @@
+# document_id: jp9065949
+# extractor: kordoc-markdown-adapter-1
+1-001	Hydrogen has been identified as a promising energy carrier.
+1-002	It is not associated with pollution when generated from renewable sources, such as solar and wind.
+1-003	For use as an energy carrier for automobile applications, its compact, safe, and efficient storage is an important issue.[1]
+1-004	The U.S.
+1-005	Department of Energy (DOE) has set a system target of 6 wt % of H2 content by 2010 for mobile applications.
+1-006	Such a system should also be able to discharge hydrogen and be recharged at moderate conditions.
+1-007	However, none of the current storage methods and materials can satisfy all the DOE requirements for on-board application.
+1-008	Storage in the form of a solid hydride is attractive from a safety and gravimetric density point of view.
+1-009	A promising class of materials is the complex metal hydrides, such as alanates and borohydrides.
+1-010	For instance LiBH4 has a gravimetric hydrogen content of 18.5%.
+1-011	However, the compound is ther- modynamically very stable, releasing H2 only at elevated temperatures (equilibrium typically 400 °C under 1 bar of H2).
+1-012	Moreover, it suffers from poor hydrogen uptake kinetics with limited rehydrogenation shown at 150 bar and 600 °C.[2]
+1-013	Several methods to improve the H2 sorption properties of LiBH4 have been proposed.
+1-014	A first method deals with addition of metal, metal halides, oxides, amides, or metal hydrides to form composites or alloys after dehydrogenation.[3–11]
+1-015	This approach is sometimes referred to as “destabilization” of the LiBH4 and can lower the overall enthalpy for dehydrogenation and improve reversibility.
+1-016	For example, Vajo et al.[3,4] obtained enhanced hydrogen sorption properties when MgH 2 was added to LiBH4.
+1-017	Formation of MgB2 upon dehydrogenation reduces the dehydrogenation/rehydrogenation enthalpy by 25 kJ/(mol of H2) compared with pure LiBH4.
+1-018	The reversibility was also improved.
+1-019	A second approach to improve the kinetics of hydrogen uptake and release is the use of catalysts.
+1-020	The addition of suitable catalysts has led to a significant improvement in the hydrogen sorption properties of materials, such as NaAlH4[11–13] and MgH2 .[14,15]
+1-021	Zu¨ttel et al.[16] showed that the addition of SiO2 to LiBH4 lowered the hydrogen desorption temperatures signifi- cantly, whereas Vajo et al. recently added TiCl3 to improve the rate of H2 absorption in the LiBH4/MgH2 system.[3]
+1-022	Ming et al.[6–8] reported a significant decrease in the desorption temperature, increased desorption rates, and improved reversibility of LiBH4 when doped with some metal halides and oxides.
+1-023	The system, LiBH4 + 0.2MgCl2 + 0.1TiCl3, desorbs 5 wt % of hydrogen at 60 °C and can be rehydrogenated to 4.5 wt %.
+1-024	However, the rehydrogenation is only possible at an elevated temperature of 600 °C (500 °C for LiBH4 + 0.1TiF3) and 70 bar.
+1-025	Furthermore, the loss of boron in some of the systems reduces the reversible amount.
+1-026	Reducing the size of materials to the nanoscale is another approach that is promising in terms of altering the kinetics and potentially also thermodynamics of hydrogen storage materials.[17–24]
+1-027	However, the practical application of this approach can be limited by grain growth and particle agglomeration during cycling.
+1-028	Recent literature reports show that confining the material in a nanoporous host might be beneficial.
+1-029	Gutowska et al. demonstrated that the hydrogen storage properties of ammonia borane (NH3BH3) could be improved by incorporating the compound into a mesoporous silica scaffold.[20]
+1-030	Reduced dehydrogenation temperatures and a change in the decomposi- tion pathway from that of bulk ammonia borane were observed.
+1-031	Balde´ et al.[21,22] showed that the hydrogen desorption of NaAlH4 was greatly enhanced upon nanosizing using a carbon nanofiber support.
+1-032	Recent work by Vajo et al.[23] demonstrates that LiBH4 incorporated into a carbon scaffold shows faster dehydrogenation than bulk LiBH 4.
+1-033	Although these effects are generally not yet well-understood, they may be related to physical confinement, support effects, shorter diffusion distances, and particle size effects that come into play at the nanoscale.
+1-034	However, they do
+1-035	* To whom correspondence should be addressed.
+1-036	E-mail: P.E.deJongh@uu.nl.
+1-037	Fax: +31302511027.
+1-038	10.1021/jp9065949  2010 American Chemical Society
+1-039	Published on Web 03/17/2010
+1-040	Ngene et al.
+1-041	affect both the kinetics and, in some cases, even the thermo- dynamics of hydrogen sorption in these materials.
+1-042	The nanopo- rous host serves as the structure-directing agent and helps to preserve the nanostructure of the material during cycling.
+1-043	In this work, we investigate the possibility to confine LiBH4 in ordered mesoporous silica and the effect of this confinement and intimate contact between LiBH4 and porous SiO2 on the hydrogen sorption properties of LiBH4.
+1-044	The feasibility of melt infiltration as a preparation route for nanocomposites has been shown previously for the Mg/C[25] and LiBH4 /C under Ar pressure.[23]
+1-045	This approach has not been extended to LiBH4/SiO2, probably due to literature reports that LiBH4 might react with silica upon heating to form lithium silicates.[26,27]
+1-046	In this paper, we prove that this synthesis procedure is also effective for LiBH4/SiO2 but only if the melt infiltration is performed under hydrogen pressure high enough to prevent the decomposition of LiBH4 during melting.
+1-047	The interest of using ordered meso- porous silica in this study is the possibility to vary its structural properties, such as pore size, specific pore volume, and surface area, and hence study the effects of these properties on the hydrogen desorption properties of the composite material.
+1-048	Furthermore, the pore order provides an extra tool to monitor the destruction of the pore structure by reaction.
+2-001	SBA-15 (amorphous SiO2 with hexagonally ordered, uniform mesopores, for which the diameter can be varied from 5 to 9 nm) was prepared following the procedure of Zhao et al.,[28] whereas LiBH4 (95% pure) was purchased from Acros Organics and used without further purification.
+2-002	Sample handling and storage was conducted under a N2 atmosphere in a glovebox (contamination typically 1 ppm of O2 and H2 O).
+2-003	The required amounts of dried SBA-15 and LiBH4 were mixed in a graphite sample holder and placed into a stainless steel autoclave.
+2-004	An initial pressure of 100 bar of H2 was applied, and the sample was heated at 3 °C/min to 295 °C (LiBH4 melting point ) 268 °C) and allowed to stay for 25 min at 295 °C at a final pressure of 180 bar of H2.
+2-005	The sample was then allowed to cool to room temperature, the hydrogen gas was released, and the samples were stored in the glovebox.
+2-006	Nanocomposites with nominal LiBH4 loadings of 10, 25, 50, and 65 wt % were prepared and the samples were labeled according to the weight percentage of LiBH4 in the mixture (100 × mass of LiBH4/total mass of the mixture).
+2-007	Physical mixtures were prepared by mixing LiBH4 with dried SBA-15 in a mortar using a pestle.
+2-008	Structural characterization was performed using N2 phys- isorption and X-ray diffraction measurements in airtight sample holders.
+2-009	N2 physisorption measurements were performed at -196 °C, using a Micromeritics Tristar 3000 apparatus.
+2-010	Prior to analysis, the samples were dried under vacuum for 14 h at 120 °C. The pore size distributions of the samples were calculated from the desorption branch using BJH theory with the Harkins and Jura thickness equation.
+2-011	XRD patterns were obtained at room temperature from 0.5 to 90° 2θ with a Bruker- AXS D-8 Advance X-ray diffractometer setup using Co KR1,2 radiation with λ ) 1.79026 Å.
+2-012	We quantified the amount of crystalline phases, as well as estimated the amount of amorphous material, using a crystalline Si reference powder (nr 640 supplied by NIST, formerly known as NBS (U.S.A.), purity ) 99.9%, average particle size ) 10 μm).
+2-013	Quantitative phase analysis was performed by Rietveld profile fitting using the Powdercell program.
+2-014	Full details of the fitting are included in the Supporting Information.
+2-015	Hydrogen release properties were measured by temperature- programmed desorption (TPD) using a Micromeritics AutoChem
+2-016	II 2920 apparatus.
+2-017	A 30-100 mg portion of the sample was heated at 5 °C/min from room temperature to 500 °C in 25 mL/min Ar flow.
+2-018	Cycling under H2 pressure was performed in a magnetic suspension balance from Rubotherm.
+2-019	A 50-100 mg portion of the sample was loaded in a graphite sample holder and inserted into the stainless steel sample holder.
+2-020	The sample was heated under 1.3 bar of H2 pressure (99.999% purity) to 450 °C. Rehydrogenation was performed at 450 °C by increasing the pressure from 1.3 to 100 bar in 1 h and remaining at 450 °C for 2 h.
+2-021	Hydrogen uptake and release were determined from the weight changes while correcting for buoyancy.
+2-022	Hydrogena- tion of desorbed samples was also performed in an autoclave under 100 bar of H 2 at 300 °C for 3 h, after which the samples were analyzed with XRD and TPD.
+3-001	Synthesis of LiBH4/SBA-15 Nanocomposites.
+3-002	Figure 1 shows the XRD patterns of SBA-15 and melt infiltrated LiBH4/SBA-15 nanocomposites with different LiBH4 weight loadings.
+3-003	SBA-15 shows a broad peak between 20° and 40° 2θ due to the presence of amorphous silica.
+3-004	Comparing the 50 wt % sample prepared under hydrogen (Figure 1, pattern d) and argon pressure (Figure 1, pattern f), it is clear that, in both cases, a large part of the LiBH4 crystallinity is lost.
+3-005	However, for the sample prepared under argon pressure, the broad peak due to silica has completely disappeared while the silica broad peak is retained in the samples synthesized under hydrogen pressure.
+3-006	Furthermore, only diffraction lines due to LiBH4 were observed, indicating that there is no formation of new crystalline phases.
+3-007	At weight loadings of LiBH4 less than 25 wt %, no LiBH4 diffraction lines were visible.
+3-008	This is in contrast with physical mixtures (not shown here) for which LiBH 4 diffraction lines were clearly seen even at a loading of 5 wt %.
+3-009	It suggests that, for the lower loadings, the LiBH4 is confined in the pores, hence, not X-ray visible.
+3-010	For loadings of 25 wt % and above, crystalline LiBH4 (probably located outside the pores) is detected.
+3-011	For pure SBA-15, the order of the mesopores leads to diffraction lines at low angles, as illustrated in Figure 2.
+3-012	The major peak at about 1.1° and two additional ones at higher angles due to the (100), (110), and (200) diffractions indicate well-ordered SBA-15 with a hexagonal unit cell parameter of 10.8 nm.
+3-013	Small-angle XRD patterns of the nanocomposite samples heated to 295 °C under Ar pressure gave no diffraction
+3-014	LiBH4/SBA-15 Nanocomposites
+3-015	lines, indicating that the long-range order of the SBA-15 had been destroyed during heating under Ar.
+3-016	It was demonstrated earlier that LiBH4 can be melt infiltrated into carbon aerogel under Ar pressure.[23]
+3-017	The results from XRD and SAXS clearly indicate that this is not true for LiBH 4/SBA-15 composites as the SiO2 ordered pore structure is destroyed.
+3-018	However, well- resolved diffraction lines are present in the composites prepared under 180 bar of hydrogen.
+3-019	The decrease in the intensity of the diffraction lines is expected due to the change in the electron density differences between an empty pore and a filled pore.
+3-020	Clearly, the SBA-15 porous structure has been well-retained after melt-infiltrating with LiBH4 under a H2 atmosphere.
+3-021	Also, at lower H 2 pressures (50 bar), the structure of the SBA-15 scaffold was maintained.
+3-022	Nitrogen adsorption/desorption isotherms (normalized to 1 g of SBA-15) and the corresponding structural parameters of the pristine SBA-15, a physical mixture, and LiBH4/SBA-15 composites prepared under hydrogen pressure are presented in Figure 3 and Table 1.
+3-023	The isotherm of the pristine material (Figure 3, curve a) shows a steep capillary condensation step and a hysteresis loop at a high relative pressure (above 0.6), typical of well-ordered mesoporous SBA-15.
+3-024	After the melt infiltration, the BET surface area and the pore volume of SBA-15 had decreased.
+3-025	However,
+3-026	this is not the case with the physically mixed sample (Figure 3, curve b).
+3-027	Therefore, the decrease in pore volume after melt infiltration indicates that the SBA-15 pores have been destroyed, blocked, or filled due to interaction with the molten LiBH4.
+3-028	XRD and SAXS proved that the SBA-15 was not damaged upon heating.
+3-029	Furthermore, Table 1 shows that the decrease in pore volume with increasing loading of LiBH4 corresponds roughly to the expected volume of the added LiBH 4.
+3-030	Hence, the pore volume loss can be ascribed to filling and possibly some blocking of the pores.
+3-031	Most likely, the capillary suction force enables the transport of the molten LiBH4 into the pores of SBA-15, and on cooling, the molten LiBH4 resolidifies.
+3-032	As no diffraction pattern was observed at low LiBH4 loadings, the LiBH4 in the pores shows no long-range crystallinity.
+3-033	The LiBH4 diffraction lines observed at higher loading are most likely due to unconfined LiBH4.
+3-034	Above 50 wt % (corresponding to >90% pore filling), the pore volume is negligible, indicating that all the pores are filled.
+3-035	We can thus conclude that melt infiltration is an effective preparation technique for LiBH4/SBA-15 if and only if performed under hydrogen pressure.
+3-036	Hydrogen Desorption Properties.
+3-037	Figure 4 compares the TPD profiles of pure LiBH4 and melt infiltrated nanocomposites with 10, 50, and 65 wt % loadings of LiBH 4.
+3-038	During the TPD runs, heat effects were observed, which can be ascribed to the transition from the orthorhombic to the hexagonal phase of LiBH4 (around 110 °C) and the melting transition (around 270 °C), hence, at temperatures slightly lower than those reported for bulk LiBH 4.
+3-039	The onset of dehydrogenation for bulk LiBH4 is around 280 °C, close to its melting point and shows multiple desorption peaks, as also reported in the literature.
+3-040	The majority of the hydrogen is only released above 400 °C. For the melt infiltrated samples, H2 desorption started at about 150 °C, which is more than a 100 °C reduction of the onset temperature compared with the bulk material.
+3-041	The 10 and 50 wt % LiBH4/SBA-15 nanocomposites display a single broad desorption peak with a maximum between 280 and 300 °C and a shoulder at 300-350 °C. The 65 wt % sample has, in addition, a hydrogen release peak around 380 °C. Above 50 wt %, all the SBA-15 pores are filled and some bulk LiBH4 is expected to be outside the pores.
+3-042	Indeed, for the extra peak in the hydrogen desorption from the 65 wt % nanocomposites, the release temperature is similar to that of the first major release peak for bulk LiBH4.
+3-043	However, remarkably, no second bulklike release peak is observed in the temperature range of 400-450 °C. This indicates that, although, for the 65 wt % nanocomposite sample, part of the LiBH4 is outside the pores, the release of hydrogen is still influenced by the presence of the SiO2, modifying the multiple step release normally observed for pure LiBH4.
+3-044	Clearly, confining LiBH4 in the pores of SBA-15 leads to lower hydrogen desorption temperatures.
+3-045	This can have several reasons.
+3-046	First, it might be that reducing the size of the LiBH4 to nanoscale alters its dehydrogenation properties, as demon- strated for LiBH4/C nanocomposites.[23]
+3-047	Second, it might be due to catalytic effects of SiO 2 (as originally claimed by Zu¨ttel et al.).[16]
+3-048	A third reason for the change in desorption could be due to reaction with SiO2 during heating, as reported in the literature.[26,27]
+3-049	To investigate this, XRD patterns of 65 wt % LiBH4 nanocomposite samples were obtained after heating to different temperatures (Figure 5).
+3-050	Full details of the quantitative phase analysis of these patterns are included in the Supporting Information (Figure S3).
+3-051	Li2SiO3 and LiBH4 diffraction lines were observed after thermal desorption at 300 °C (after the first
+3-052	desorption peak), while the SiO2 had dissappeared.
+3-053	Quantitative phase analysis suggested that the majority of the SiO2 had reacted with LiBH4 to form Li2SiO3, while also a part of the remaining LiBH4 had decomposed.
+3-054	After heating to 500 °C (Figure 5, pattern c), the Li2SiO3 and LiBH4 diffraction lines had disappeared, while Li4SiO4 and LiH diffraction lines were observed.
+3-055	Quantitative analysis showed that the majority of the LiBH4 that was still present in the sample had reacted with the Li2SiO3 to form crystalline Li4SiO4.
+3-056	These observations indicate that a major part of the gas desorption at lower temperatures is due to reaction of LiBH4 with SiO2 and later with Li2SiO3.
+3-057	Another possibility to distinguish whether gas release is either due to reaction, forming silicates, or due to reversible decom- position of LiBH4 is by studying the rehydrogenation and further cycling, as reaction to form silicates would exclude reversibility of the reaction.
+3-058	We tried to rehydrogenate the nanocomposites at 450 °C and 100 bar of H2 for 2 h.
+3-059	At lower weight loadings (e45 wt % of LiBH4), no hydrogen uptake was observed.
+3-060	These findings suggest that, for samples with a low loading, the hydrogen release at low temperatures during the first cycle can indeed be predominantly ascribed to reaction with SiO2.
+3-061	However, we could partially rehydrogenate our nanocomposites, and cycle several times, if the LiBH4 loading was 45 wt % or above (see the Supporting Information, Figure S2).
+3-062	Visual inspection reveals that the composites change from a white to black powder after thermal desorption, whereas after hydrogena- tion, it turned brown.
+3-063	However, the XRD data (Figure 5, pattern d) did not indicate the formation of crystalline LiBH 4 after hydrogenation.
+3-064	This suggests that the LiBH4 might be in an amorphous state after rehydrogenation or the formation of another intermediate hydride has occurred.
+3-065	Similar cycling performance was obtained by charging the dehydrogenated sample in an autoclave at 170 bar and 300 °C for 3 h, indicating that rehydrogenation is possible under relatively mild conditions.
+3-066	However, the recyclable capacity is highly reduced after the first cycle while the desorption temperature increased to 370 °C. Furthermore, the capacity decreases with increasing cycling, possibly due to boron loss, as reported by Ming et al. 6,8
+3-067	To study the effects of the structural properties of SBA-15 on the desorption properties of the nanocomposites in more detail, experiments using SBA-15 with different pore sizes and volumes were performed for nanocomposites with a LiBH4 loading of 50 wt %.
+3-068	Figure 6 shows that the structural properties of the porous silica have two remarkable effects on the hydrogen release properties of the nanocomposites.
+3-069	First, the hydrogen desorption profile is changed, with lower hydrogen release temperatures favored by high surface areas/pore volumes for the same given LiBH4 wt % loading.
+3-070	Second, the onset of hydrogen desorption shows a clear contribution at temperatures far below the bulk LiBH4 melting temperature, especially for the SiO 2 with the highest surface area and pore volume.
+3-071	These effects will be discussed in more detail in the following section.
+4-001	Originally, it was proposed in the papers by Zu¨ttel et al. that SiO2 acted as the catalyst for the hydrogen release from LiBH4.[16]
+4-002	Hydrogen dissociation and recombination catalysts are typically d-electron metals, such as Ni or Co.
+4-003	However, for hydrogen storage materials, especially those prepared by ball-milling, several nonclassical (de)hydrogenation catalysts seem very effective,[29] although the mechanism or exact action of the catalyst is often not clear yet.
+4-004	Nevertheless, in these cases, the dehydrogenation reaction is reversible, and high rates require only a small amount of additives.
+4-005	In the case of LiBH4 and
+4-006	LiBH4/SBA-15 Nanocomposites
+4-007	SiO2, thermodynamics calculations show that the combination is not stable, not even at room temperature, as silicates and boron are the most stable species (see the Supporting Information, Figure S1).
+4-008	This does not exclude that, for kinetic reasons, the reversible release of hydrogen from LiBH4 might be possible even in the presence of SiO2.
+4-009	For the SBA-15/LiBH4 nanocomposites, hydrogen is released at low temperatures.
+4-010	It is difficult to determine from simple desorption experiments whether this is due to catalysis, nano- effects, or reaction because comparable amounts of hydrogen can be evolved in the reaction with SiO2 as well as in the dissociation of LiBH 4 (reaction 1 versus 2)
+4-011	6LiBH4 + 3SiO2 f 2Li2SiO3 + Si + 4B + 2LiBH4 +
+4-012	3 1
+4-013	8H2 f Li4SiO4 + Si + 2B + 4H2 (1) 2 2
+4-014	6LiBH4 f 6LiH + 6B + 9H2 f 6Li + 6B + 3H2
+4-015	Since the first papers, several authors have discussed that LiBH4 might actually react with the SiO2 upon heating, forming silicates.
+4-016	Evidence for the formation of silicates was demon- strated by means of XRD and in situ synchrotron radiation powder X-ray diffraction.[26,27]
+4-017	Also, experiments in which TiO2 was added to the LiBH4 show that lithium titanate was formed after heating the sample.[30]
+4-018	Hence, at the moment, it is generally assumed that reaction between LiBH4 and SiO2 is kinetically hindered at room temperature but, upon heating, takes place, especially when the LiBH4 starts melting, leading to an irreversible reaction to lithium silicates. 26
+4-019	In this paper, we use the XRD signature of the pore order in mesoporous SBA-15 as a clear fingerprint whether reaction involving SiO2 has taken place or not.
+4-020	This means that it is possible to detect the reaction, even if no crystalline silicates are formed.
+4-021	The results presented in this paper show that indeed melt infiltration of SBA-15 (a high surface area and amorphous, hence, reactive form of SiO2) under Ar is not possible.
+4-022	The SBA-15 structure was destroyed after heating to 295 °C in the
+4-023	presence of LiBH4.
+4-024	This would be in line with the assumption that, as soon as the kinetic barriers have been overcome (because the LiBH4 starts melting), fast reaction is possible.
+4-025	However, if we use hydrogen pressures well above the calculated equilibrium pressure at 300 °C (using data from ref 2), the reaction with the SiO2 was effectively suppressed.
+4-026	Hence, the presence of molten LiBH4 alone is not enough for reaction with the SiO2.
+4-027	Apparently, molten LiBH4 does not react directly with SiO2, but, most likely, its decomposition products.
+4-028	In the literature, intermediate phases are suggested that can be formed during thermal dehydrogenation of LiBH4.[16,31–36]
+4-029	Most likely, one of these intermediate products might be the reactive species.
+4-030	Under hydrogen pressure, the decomposition is hindered and thus melt infiltration can be performed even above 300 °C without any silicate formation.
+4-031	Unfortunately, upon decomposition of the LiBH4 in the nanocomposites, reaction takes place with the SiO2.
+4-032	The multiple hydrogen desorption peaks observed at higher LiBH4 loadings (Figure 4) can be ascribed to reactions, first, to form Li2 SiO3 around 300 °C and subsequent reaction with the Li2SiO3 to form Li4SiO4.[8,26,27]
+4-033	As this leads to very stable lithium silicates, this reaction is irreversible.
+4-034	The partial reversibility observed in the composite with a LiBH 4 loading of 65 wt % is probably due to partial rehydrogenation of LiBH4 in excess of the stoichiometric amount required for complete reaction with SiO2.
+4-035	The further decrease in capacity on cycling might be due to boron loss, as reported in the literature.[6,8–37]
+4-036	For the 65 wt %, it is expected that the LiBH4 in excess of the stoichiometric amount required to completely react with SiO2 will exhibit bulk dehydrogenation behavior.
+4-037	However, the desorption profile (Figure 4) shows a clear departure from bulk behavior, with only one clearly defined hydrogen release peak instead of the multiple peak desorption profile observed for bulk LiBH 4.
+4-038	To test whether this was due to interaction with the lithium silicates in the sample, we made a physical mixture of LiBH4 and Li4SiO4.
+4-039	In this case, a similar desorption profile was obtained, showing that departure from bulk behavior is due to the interaction of the LiBH 4 with Li4SiO4.
+5-001	Melt infiltration as a preparation method for LiBH4/SBA-15 nanocomposites has been investigated and the hydrogen sorption properties of the nanocomposites determined.
+5-002	It was shown that melt infiltration is effective only if performed under hydrogen pressure to avoid the decomposition of LiBH 4.
+5-003	Surprisingly, molten LiBH4 can fill the pores of SBA-15, forming LiBH4/SBA-15 nanocomposites while the ordered porous structure of SBA-15 remains intact.
+5-004	Only upon decomposition of the nanostructured LiBH4 does reaction with the SiO2 takes place, leading to irreversible hydrogen loss.
+5-005	Monitoring the pore order in SBA-15 is a simple and sensitive probe to follow the reaction between the LiBH4 and SiO2, even if no crystalline products are formed.
+5-006	Varying the structural properties of the ordered mesoporous SiO2 allowed further understanding of the reaction and the different products formed.

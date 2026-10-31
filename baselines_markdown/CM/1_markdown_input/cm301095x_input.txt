@@ -1,0 +1,397 @@
+# document_id: cm301095x
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Over the past several years, the field of organic electronics has received intense research attention.[1]
+1-003	Striking new materials systems have been developed to fulfill the requirements of organic field-effect transistors (OFETs)[2] and organic photo- voltaic (OPV) cells.[3]
+1-004	Organic semiconductors represent an attractive, low cost alternative to amorphous silicon for numerous devices, and in fact, some materials already out- perform it in terms of carrier mobility.
+1-005	Moreover, the use of organic molecules paves the way for an array of new applications where low cost, minimal weight, and mechanical flexibility will be required.[4]
+1-006	Currently, only a small percentage
+1-007	of the devices in consumer electronics is fabricated with organic semiconductors.
+1-008	However, this trend is likely to change very soon in view of the materials performance reported in the recent literature.[1b,2c]
+1-009	Much of the recent materials progress for organic electronics
+1-010	has been achieved through the development of new conjugated polymers.
+1-011	For example, the emergence of “push-pull” structure types[5] has proven to be a viable approach to creating low band
+1-012	© 2012 American Chemical Society 2929
+1-013	gap OPV polymers as well as materials with the extensive intermolecular organization favorable for organic thin film transistors (OTFTs).
+1-014	The most studied “electron-rich” units are typically composed of fused aromatics such as carbazole,[5] cyclopentadithiophene,[6] dithienosilole,[7] and benzodithiophene skeletons.[8]
+1-015	These building blocks have demonstrated great promise, with OPV power conversion efficiencies (PCEs) approaching or exceeding 8%.[9,10]
+1-016	Similarly, impressive field-effect mobilities have been achieved using the same electron-rich units in polymers.[11]
+1-017	Nevertheless, the principal limitation in using polymer-based materials is the inherent issue of reproducibility in polymer synthesis and attendant purification, and recent studies have emphasized the importance of dealing with these challenges.[12]
+1-018	Macromolecular mass and polydisper- sity also have a major influence on the processability, microstructure, and opto-electronic performance of polymeric
+1-019	Received: April 8, 2012
+1-020	Revised: June 19, 2012
+1-021	Published: July 17, 2012
+1-022	dx.doi.org/10.1021/cm301095x \|Chem.
+1-023	Mater. 2012,24,2929−2942 Downloaded from pubs.acs.org/cmatex/article-pdf/24/15/2929/17600573/cm301095x.pdf by GYEONGSANG NATL UNIV user on 29 October 2026
+1-024	semiconductors,[13] and there is a very large sensitivity to starting because their MO energetics can be tuned as broadly as in monomer purity, reaction temperature, and polymerization other families of π-electron materials.[23]
+1-025	Furthermore, stiff triple time.
+1-026	Consequently, the polydispersity index is often bonds promote shape consistency within the structure, and rod- significantly greater than 2.0, reflecting a broad distribution of like motifs can be varied by modifying the catenation of chain lengths, which typically compromises thin film charge arylacetylene repeat units.[24]
+1-027	It has also been shown that alkyne transport properties.
+1-028	Furthermore, other factors may play an linkages between aromatic building blocks are conformationally important role in the product polymer properties, such as the more accommodating than alkenes because of their reduced solvent sequence used for Soxhlet extraction, the precipitation steric and conformational constraints.[25]
+1-029	Nevertheless, there method, and the metal purity of the catalysts used for Suzuki, have been only a handful of studies of alkyne-containing Stille, or Sonogashira cross-coupling polymerizations. semiconducting materials.
+1-030	The first focused on vacuum- For all these reasons, solution-processable small molecules deposited OFET molecules, where Roy obtained hole have recently received great attention for both OPVs[14] and mobilities as high as 0.3 cm2/(V s),[26] with good performance, OTFTs.[15]
+1-031	Small molecules offer numerous attractions, also subsequently achieved for solution-cast films.
+1-032	Silvestri including monodisperse molecular weight characteristics and 2
+1-033	reported alkyne materials with mobilities as high as 0.07 cm / the wide variety of applicable purification methods (recrystal- (V s) using drop-cast and spin-coated films.[27]
+1-034	Other exotic lization, column chromatography, vacuum sublimation, etc.). materials such as metalated polyynes have been used for The principal drawback of small molecule derived films is their OFETs as well as OPVs, exhibiting field-effect mobilities less impressive mechanical properties compared to polymer reaching 0.01 cm 2/(V s) and maximum PCEs of 4.8%, films.
+1-035	However, it has been shown over the past several years respectively.[28]
+1-036	that it is still possible to fabricate flexible OTFT devices from In view of this exciting progress, further synthetic research small molecules such as vapor-deposited pentacene[16] and spin- into rigid building blocks connected by acetylenic bridges may coated dicyanoperylene-3,4:9,10-bis(dicarboximide) (PDI).[17] afford greater understanding of structure−performance rela- Nevertheless, only a few studies have dealt with high- tionships.
+1-037	In this contribution, new 2,2′-ethyne-1,2-diylbis[3-performance solution-processed small molecules for organic (alk-1-yn-1-yl)thiophene] (EBT) derivatives are presented as electronics.
+1-038	Note that Anthony made important contributions novel, rigid, and planar precursors for the construction of by synthesizing new soluble pentacenes for TFTs with hole acceptably soluble/processable small-molecule OTFT and OPV mobilities greater than 1 cm2 /(V s),[18] while Kippelen and constituents (Figure 2).
+1-039	The EBT core is flanked here with Marder showed that flexible devices could be fabricated with
+1-040	this type of molecule.[19]
+1-041	Indeed, most of the recent break-
+1-042	through performances have been obtained with extended fused
+1-043	aromatic structures (Figure 1).[20]
+1-044	Very recently, low band gap small molecules have been
+1-045	investigated in bulk-heterojunction OPV systems with great
+1-046	success.
+1-047	Thus, solution-processed small molecule OPVs with
+1-048	PCEs approaching 7% were reported by Heeger,[21] while
+1-049	rhodanine-based small molecule OPVs have been reported with
+1-050	a PCE of 6.1%.[22]
+1-051	For all these reasons, arylacetylene materials
+1-052	should be considered as attractive OPV donor candidates Figure 2.
+1-053	General chemical structure of the EBT flanked with DPPs.
+1-054	diketopyrrolopyrrole (DPP) units at both ends to lower the band gap and enable good condensed phase organization of these materials.
+1-055	Note that some of the highest performance in the field has been achieved with the DPP core, yielding TFT hole mobilities greater than 1 cm2/(V s),[29] while a PCE of 4.1% has recently been obtained for a DPP-containing small molecule OPV.[14b] The synthesis and characterization of these new materials are described here as well as their performance in organic opto-electronic devices.
+1-056	The thin-film microstructure and crystallinity are investigated in detail by X-ray diffraction (XRD) and atomic force microscopy (AFM), and are discussed in relation to microstructure and device response.
+2-001	■
+2-002	Materials Synthesis.
+2-003	The reagents 3-bromo-2-iodothiophene,[30] 3-bromo-2-ethynylthiophene,[30] 4-ethyloct-1-yne,[31] and 3-(2-thienyl)-6-(5-bromo-2-thienyl)-2,5-bis(2-ethylhexyl)pyrrolo[3,4-c]pyrrole-1,4-dione (Br-TDPP)[14b] were synthesized according to published procedures.
+2-004	All starting organic reagents were purchased from Aldrich, Alfa Aesar, and TCI America and used without further purification.
+2-005	All reactions were carried out under N2 at 1 atm unless mentioned otherwise.
+2-006	THF was distilled from Na/benzophenone.
+2-007	Analytical thin- layer chromatography (TLC) was performed on aluminum sheets, precoated with silica gel 60-S2 F254 (Merck 5554).
+2-008	Flash column chromatography was carried out using silica gel 60 (Silicycle) as the stationary phase.
+2-009	2,2′-Ethyne-1,2-diylbis(3-bromothiophene) 1.
+2-010	A flame-dried one-neck flask mounted with a condenser was charged with 3-bromo-2-iodothiophene (2.32 g, 8,02 mmol), PdCl2(PPh)3)2 (0.056 g, 0.08 mmol), and CuI (0.076 g, 0.401 mmol).
+2-011	Degassed, anhydrous toluene (27 mL) and (i-Pr)2NH (80 mL) were added, followed by addition of 3-bromo-2-ethynylthiophene (1.50 g, 8.02 mmol).
+2-012	The reaction mixture was then heated at 70 °C and stirred overnight.
+2-013	After cooling down to room temperature, 50 mL of water was added and the mixture was extracted 3 times with 50 mL of toluene; the extract was dried over MgSO 4, filtered, and the filtrate concentrated under reduced pressure.
+2-014	The crude product was next purified via flash chromatography (10% ethyl acetate in hexanes) to afford 2.24 g (80%) of the title compound as a yellow powder.
+2-015	1H NMR (500 MHz, CDCl3, 298 K): δ 7.29 (d, J = 5.5 Hz, 2H); 7.02 (d, J = 5.5 Hz, 2H); 13C NMR (125 MHz, CDCl3, 298 K): 130.30; 127.95; 120.11; 116.89; 88.25 ppm.
+2-016	HRMS (APCI-TOF-MS): m/z calculated for C10H4S2Br2 [M+H]+ 348.4170, found 348.8178.
+2-017	General Procedure for the Sonogashira Coupling between 1 and Linear and Branched Alkynes.
+2-018	Compound 1 (1 equiv), Pd(PPh3)4 (mol 10%), and CuI (mol 10%) were loaded into a flame-dried one-neck flask mounted with a condenser.
+2-019	Degassed, anhydrous toluene (0.12 M) and (i-Pr)2NH (0.10 M) were added, followed by the addition of the alkyne (2.5 equiv).
+2-020	The reaction mixture was then heated at 100 °C and stirred overnight.
+2-021	After cooling to room temperature, 25 mL of water was added and the mixture was extracted 3 times with 25 mL of toluene, dried over MgSO4 and filtered, and the filtrate concentrated under reduced pressure.
+2-022	The crude product was purified via flash chromatography (5% ethyl acetate in hexanes) to afford the title compound as a yellow oil.
+2-023	2,2′-Ethyne-1,2-diylbis[3-(oct-1-yn-1-yl)thiophene] (EBT-C6) 2.
+2-024	Yield = 0.502 g (67%) of the title compound as a yellow oil.
+2-025	1H NMR (500 MHz, CDCl3, 298 K): δ 7.18 (d, J = 5.2 Hz, 2H); 6.98 (d, J = 5.2 Hz, 2H); 2.46 (t, J = 6.9 Hz, 4H); 1.63 (quintet, J = 7.5 Hz, 4H); 1.47 (m, 4H); 1.29 (m, 8H); 0.87 (t, J = 7.1 Hz, 6H) ppm.
+2-026	13C NMR (125 MHz, CDCl3, 298 K): δ 129.80; 127.79; 126.35; 124.83; 95.36; 89.04; 74.95; 31.41; 28.70; 28.62; 22.55; 19.74; 14.13 ppm.
+2-027	HRMS (APCI-TOF-MS): m/z calcd for C26H30S 2 [M+H]+ 407.1862, found 407.1856.
+2-028	2,2′-Ethyne-1,2-diylbis[3-(hexadec-1-yn-1-yl)thiophene] (EBT- C14) 3.
+2-029	Yield = 2.72 g (90%) of the title compound as a yellow oil.
+2-030	1H NMR (500 MHz, CDCl3, 298 K): δ 7.18 (d, J = 5.3 Hz, 2H); 6.97 (d, J = 5.2 Hz, 2H); 2.45 (t, J = 7.1 Hz, 4H); 1.62 (quintet, J = 7.5 Hz,
+2-031	4H); 1.46 (quintet, J = 7.8 Hz, 4H); 1.26 (m, 40H); 0.89 (t, J = 7.1 Hz, 6H) ppm.
+2-032	13C NMR (125 MHz, CDCl3, 298 K): δ 129.75; 127.74; 126.28; 124.79; 95.33; 89.01; 74.92; 31.92; 29.68; 29.51; 29.37; 29.21; 28.91; 28.70; 22.69; 19.70; 14.13 ppm.
+2-033	HRMS (APCI- TOF-MS): m/z calcd for C42H63S 2 [M+H]+ 631.4366, found 631.4355.
+2-034	2,2′-Ethyne-1,2-diylbis[3-(4-ethyloct-1-yn-1-yl)thiophene] (EBT- EH) 4.
+2-035	Yield = 0.768 g (86%) of the title compound as a yellow oil.
+2-036	1H NMR (500 MHz, CDCl3, 298 K): δ 7.18 (d, J = 5.4 Hz, 2H); 6.97 (d, J = 5.1 Hz, 2H); 2.45 (t, J = 5.2 Hz, 4H); 1.47 (m, 10H); 1.27 (m, 8H); 0.88 (m, 12H); 13C NMR (125 MHz, CDCl3, 298 K): δ 129.73; 127.96; 126.29; 124.76; 93.89; 88.87; 75.74; 38.70; 32.80; 29.09; 26.04; 23.41; 22.89; 14.14; 11.18.
+2-037	HRMS (APCI-TOF-MS): m/z calcd for C24H36O6S2 [M+H]+ 463.2488, found 463.2490.
+2-038	General Procedure for Stannylation of Alkyne-Containing Building Blocks.
+2-039	Compounds 2, 3, and 4 (1.0 equiv) were dissolved in anhydrous THF (0.05 M) and the solutions cooled to −78 °C under N2.
+2-040	Next, n-butyllithium (2.2 equiv) was added, and the stirring was continued for 2 h.
+2-041	Trimethylstannyl chloride (3.0 equiv) was then added to the reaction mixture, and the mixture was allowed to warm up to room temperature, stirred overnight, and quenched by adding 25 mL of water.
+2-042	The mixture was extracted with diethyl ether, the organic layer dried over MgSO 4, filtered, and concentrated in vacuo.
+2-043	The crude monomer was dissolved in 5 mL of THF and then dropped into methanol (200 mL).
+2-044	The product was allowed to precipitate in the freezer overnight before collecting by filtration and washing with cold methanol, affording yellow fluffy powder as the title compound.
+2-045	2,2′-Ethyne-1,2-diylbis[5-(trimethylstannyl)-3-(oct-1-yn-1-yl)-thiophene] 5.
+2-046	Yield = 1.00 g (88%) of the title compound as a yellow powder.
+2-047	1H NMR (500 MHz, CDCl 3, 298 K): δ 7.04 (s, 2H); 2.47 (t, J = 7.0 Hz, 4H); 1.65 (quintet, J = 7.8 Hz, 4H); 1.49 (m, 4H); 1.31 (m, 8H); 0.88 (t, J = 6.7 Hz, 6H); 0.39 (s, 18H) ppm.
+2-048	13C NMR (125 MHz, CDCl3, 298 K): δ 140.63; 137.42; 130.49; 128.43; 95.25; 90.17; 75.02; 31.49; 28.83; 28.67; 22.58; 19.82; 14.17; −8.22 ppm.
+2-049	HRMS (ESI-TOF-MS): m/z calcd for C24H36O6S2 [M+H]+ 733.1141, found 733.1166.
+2-050	2,2′-Ethyne-1,2-diylbis[5-(trimethylstannyl)-3-(hexadec-1-yn-1-yl)thiophene] 6.
+2-051	Yield = 1.00 g (88%) of the title compound as a yellow powder.
+2-052	1H NMR (500 MHz, CDCl3, 298 K): δ 7.02 (s, 2H); 2.45 (t, J = 7.1 Hz, 4H); 1.63 (quintet, J = 7.5 Hz, 4H); 1.46 (quintet, J = 7.5 Hz, 4H); 1.27 (m, 40H); 0.89 (t, J = 7.2 Hz, 6H); 0.38 (s, 18H) ppm.
+2-053	13C NMR (125 MHz, CDCl3, 298 K): δ 140.57; 137.70; 130.45; 128.37; 95.21; 90.15; 74.98; 31.92; 29.71; 29.67; 29.53; 29.37; 29.25; 28.96; 28.83; 22.69; 19.78; 14.13; −8.25.
+2-054	HRMS (ESI-TOF-MS): m/z calcd for C24H36O6S2 [M+H]+ 957.3676, found 957.3662.
+2-055	2,2′-Ethyne-1,2-diylbis[5-(trimethylstannyl)-3-(4-ethyloct-1-yn-1-yl)thiophene] 7.
+2-056	Yield = 0.750 g (71%) of the title compound as an orange oil.
+2-057	Precipitation was not performed in this case, and the crude material was used for the next step.
+2-058	1H NMR (500 MHz, CDCl3, 298 K): δ 7.02 (s, 2H); 2.47 (t, J = 5.0 Hz, 4H); 1.49 (m, 10H); 1.28 (m, 8H); 0.90 (m, 12H); 0.40 (m, 18H) ppm.
+2-059	13C NMR (125 MHz, CDCl 3, 298 K): δ 140.52; 137.35; 130.43; 128.57; 93.74; 90.04; 75.80; 38.78; 32.81; 29.14; 26.04; 23.51; 22.91; 14.18; 11.23; −8.27 ppm.
+2-060	HRMS (ESI-TOF-MS): m/z calcd for C24H36O6S2 [M+H]+ 789.1794, found 789.1776.
+2-061	General Procedure for Stille Cross-Coupling between Alkyne-Containing Building Blocks and Br-TDPP ((TDPP)2-EBT).
+2-062	Stannylated EBT derivative (1.0 equiv), Br-TDPP (2.2 equiv), and Pd(PPh 3)4 were loaded in a flame-dried one-neck flask mounted with a condenser.
+2-063	The glassware was purged with nitrogen 3 times before adding degassed, anhydrous toluene (0.009 M) and dimethylformamide (DMF; 0.041 M).
+2-064	The reaction mixture was then heated at 110 °C and stirred overnight.
+2-065	After cooling to room temperature, 40 mL of water was added, and the mixture extracted 3 times with 50 mL of toluene.
+2-066	The organic layer was dried over MgSO4, filtered, and concentrated under reduced pressure.
+2-067	The crude product was purified via flash chromatography (chloroform) to afford the title compound as a dark blue powder.
+2-068	(TDPP) 2-EBT-C6 8.
+2-069	The same procedure afforded 0.113 g (yield = 81%) of the title compound as a dark blue powder.
+2-070	1H NMR (500
+2-071	MHz, CDCl3, 298 K): 8.93 (m, 4H); 7.65 (dd, J = 5.0 and 0.8 Hz, 2H); 7.32 (d, J = 4.1 Hz, 2H); 7.28 (dd, J = 4.9 and δ 4.0 Hz, 2H); 7.21 (s, 2H); 4.05 (m, 8H); 2.50 (t, J = 7.2 Hz, 4H); 1.89 (m, 4H); 1.67 (t, J = 7.8 Hz, 4H); 1.51 (m, 4H); 1.33 (m, 48H); 0.90 (m, 30H) ppm.
+2-072	13C NMR (125 MHz, CDCl3, 298 K): δ 161.64; 161.61; 140.89; 140.38; 139.37; 136.52; 136.37; 135.48; 130.73; 129.78; 129.03; 129.01; 128.48; 127.23; 125.49; 124.34; 108.56; 108.06; 96.31; 91.18; 74.44; 45.92; 45.89; 39.22; 39.04; 31.42; 30.24; 30.15; 30.14; 28.64; 28.60; 28.46; 28.30; 23.60; 23.47; 23.09; 23.06; 22.56; 19.72; 14.13; 14.08; 14.03; 10.53; 10.46 ppm.
+2-073	HRMS (APCI-TOF-MS): m/z calcd for C86H106N4O4S6 [M+H]2+ 725.3264, found 725.3216.
+2-074	(TDPP) 2-EBT-C14 9.
+2-075	Afforded 0.060 g (yield = 63%) of the title compound as a dark blue powder.
+2-076	1H NMR (500 MHz, CDCl3, 298 K): δ 8.93 (m, 4H); 7.65 (d, J = 5.0, 2H); 7.32 (d, J = 4.1 Hz, 2H); 7.29 (dd, J = 4.9 and 4.2 Hz, 2H); 7.21 (s, 2H); 4.04 (m, 8H); 2.50 (t, J = 7.0 Hz, 4H); 1.90 (m, 4H); 1.66 (t, J = 7.6 Hz, 4H); 1.50 (m, 4H); 1.31 (m, 80H); 0.89 (m, 30H) ppm.
+2-077	13C NMR (125 MHz, CDCl3, 298 K): δ 161.64; 161.61; 140.90; 140.38; 139.37; 136.56; 136.38; 135.48; 130.73; 129.79; 129.03; 128.49; 127.22; 125.50; 124.35; 108.56; 108.07; 96.32; 91.19; 74.46; 45.92; 45.89; 39.24; 39.05; 31.93; 30.26; 30.16; 30.14; 29.73; 29.68; 29.59; 29.38; 29.28; 29.00; 28.65; 28.47; 28.30; 23.61; 23.47; 23.10; 23.06; 22.69; 19.73; 14.12; 14.09; 14.04; 10.53; 10.46 ppm.
+2-078	HRMS (APCI-TOF-MS): m/z calcd for C102 H138N4O4S6 [M+H]2+ 837.4516, found 837.4516.
+2-079	(TDPP) 2-EBT-EH 10.
+2-080	The same procedure afforded 0.080 g (yield = 59%) of the title compound as a dark blue powder.
+2-081	1H NMR (500 MHz, CD2Cl2, 298 K): δ 8.91 (d, J = 4.1, 2H); 8.88 (d, J = 3.7, 2H); 7.68 (d, J = 5.3, 2H); 7.36 (d, J = 4.1, 2H); 7.29 (dd, J = 5.4 and 4.0, 2H); 7.22 (s, 2H); 4.02 (m, 8H); 2.51 (t, J = 4.9 Hz, 4H); 1.90 (m, 4H); 1.37 (m, 48H); 0.90 (m, 36H) ppm.
+2-082	13C NMR (125 MHz, CD2Cl2, 298 K): δ 162.00; 141.21; 140.74; 139.68; 137.17; 136.81; 135.69; 131.39; 130.48; 129.86; 129.80; 128.83; 127.75; 126.03; 124.51; 109.16; 108.63; 95.62; 91.44; 75.66; 46.25; 39.82; 39.64; 39.28; 33.42; 30.75; 30.73; 30.67; 30.65; 29.67; 29.00; 28.87; 26.70; 24.09; 23.98; 23.89; 23.63; 23.60; 23.52; 14.51; 14.41; 14.35; 11.60; 10.80; 10.74 ppm.
+2-083	HRMS (APCI-TOF-MS): m/z calcd for C90H114N4O4S6 [M+H]2+ 753.3577, found 753.3541.
+2-084	Physical Characterization.
+2-085	NMR spectra were recorded on either a Bruker Avance III 500 or a Varian Unity Plus 500 spectrometer at frequencies of 499.4 MHz for 1H and 125.6 MHz for 13C. Chemical shifts are reported in ppm and referenced to the residual non- deuterated solvent frequencies (CDCl 3: δ 7.27 ppm for 1H, δ 77.0 ppm for 13C).
+2-086	High resolution mass spectra were recorded on an Agilent 6210 LC-TOF multimode ionization (MMI) mass spectrom- eter.
+2-087	Electrospray mass spectrometry was performed with a Thermo
+2-088	Finnegan model LCQ Advantage mass spectrometer.
+2-089	UV−visible spectroscopy was performed on a Varian Cary 5000 UV−vis−NIR spectrophotometer.
+2-090	Differential scanning calorimetry (DSC) was performed on a TA model DSC 2920 with a heating ramp of 10 °C/min, and data are reported for the second heating−cooling cycle.
+2-091	Electrochemistry was performed on a C3 Cell Stand electrochemical station equipped with BAS Epsilon software (Bioanalytical Systems, Inc., Lafayette, IN).
+2-092	The voltammograms were acquired in CH 2Cl2 solutions at a concentration of ∼0.3 mg/mL using 0.1 M Bu4NPF6 as electrolyte.
+2-093	The electrochemical cell was equipped with a glassy carbon (3 mm diameter) working electrode, a Pt-wire counter electrode, and a Ag-wire pseudo-reference electrode.
+2-094	All scans were performed at 100 mV/s.
+2-095	Prior to operation, the solutions were stirred at 600 rpm and purged with N2 gas for 5 min.
+2-096	A ferrocene/ferrocenium redox couple was used as an internal standard (with the standard approximation that the Fc/Fc+ HOMO (highest occupied molecular orbital) level is −5.1 eV),[32] and the potential values obtained in reference to the silver electrode were converted to the vacuum scale.
+2-097	Thin films were analyzed using wide-angle X-ray diffractometry (WAXRD) on a Rigaku ATX-G using standard θ−2θ techniques with monochromatic Cu Kα radiation.
+2-098	Organic field-effect transistors (OFETs) were fabricated on p+-Si/SiO2 (300 nm thermal oxide; Montco Silicon Technologies Inc.) coated with hexamethyldisiloxane (HMDS) or octadecyltrichlorosilane (OTS) monolayers deposited by previously reported techniques.[33]
+2-099	Device measurements were carried out at room temperature in a customized probe station under air.
+2-100	Coaxial and/or triaxial shielding was incorporated into Signatone probes to minimize noise levels.
+2-101	OFET characterizations were performed with a Keithley 6430 subfemtoamp (drain) and a Keithley 2400 (gate) source meter, operated by a locally written Labview program.
+2-102	OPV characterization was performed on a Spectra-Nova Class A Solar Simulator with AM1.5G light (100 mW/cm 2) from a Xe arc lamp.
+2-103	The light source was calibrated with an NREL-certified Si diode equipped with a KG3 filter to bring spectral mismatch to unity.
+2-104	Current versus potential (J− V) measurements were recorded with a Keithley 2400 digital source meter.
+2-105	External quantum efficiency (EQE) was measured using an Oriel Model QE-PV-SI (Newport Instruments) equipped with a NIST (National Institute of Standards and Technology)-certified Si-diode and a Merlin lock-in amplifier and optical chopper.
+2-106	Monochromatic light was generated from a 300 W Xe arc lamp.
+3-001	■
+3-002	Small Molecule Synthesis.
+3-003	The synthesis of the present new materials is straightforward, as shown in Scheme 1.
+3-004	First, 3-
+3-005	bromo-2-iodothiophene and 3-bromo-2-ethynylthiophene were prepared according to previously published procedures.[30]
+3-006	These two compounds were used to perform a Sonogashira coupling,[34] which afforded compound 1 in good yield (82%).
+3-007	The subsequent step was another Sonogashira coupling in order to introduce an additional alkyne chain having different aliphatic substituents to tune the solubility and thin-film organization of the resulting materials.
+3-008	Specifically, three different side chains were investigated in this study, 1-octyne, 1-hexadecyne, and 4-ethyloct-1-yne; the latter is not commercially available and was synthesized following the procedure of Janssen et al.[30] While smaller side chains were synthesized, solubility issues prohibited their use in this study.
+3-009	Note that, for the synthesis of compound 1, a Pd(II) catalyst [PdCl 2(PPh3)2] was effective.
+3-010	However, the same catalyst gave poor yields in the syntheses of compounds 2, 3, and 4, and therefore the Pd(0) source [Pd(PPh3)4] was used.
+3-011	The reaction yields varied from 67% to 90% depending on the substituent type.
+3-012	The final step in the synthesis of the new building blocks is the stannylation of the terminal thiophene positions via double lithiation, followed by treatment with Me3SnCl which yields compounds 5, 6, and 7 in 95, 88, and 71% yields, respectively.
+3-013	Simple bromination using N- bromosuccinimide (NBS) was also attempted with compound
+3-014	6.
+3-015	Unfortunately, the NBS reaction at room temperature in the dark for 1 h yields a mixture of numerous side products as assessed by TLC.
+3-016	This latter result indicates that not only are the thiophene 5 positions reactive but the triple bonds are also subject to reaction.
+3-017	The lithiation reaction does not evidence any side products and is very clean since only a quick precipitation in methanol is required for purification.
+3-018	This versatile route to these compounds opens the door to future small molecule and polymer syntheses using this building block.
+3-019	The final step in these syntheses is Stille cross-coupling[35] between a monobromo DPP, which was synthesized according to previously published procedure and compounds 5, 6, and 7.
+3-020	Scheme 2 shows that compounds 8, 9, and 10 are successfully obtained via this strategy in yields ranging from 59% to 81%.
+3-021	Subsequent column chromatographic purification must be carried out very carefully, since 2.2 equiv of the DPP derivative
+3-022	are used in the reaction.
+3-023	The column is eluted with 100% chloroform to remove all remaining starting materials.
+3-024	When there are no further impurities eluting from the column, 5% ethyl acetate is added to the eluent.
+3-025	The addition of ethyl acetate greatly reduces the elution time for the final product.
+3-026	The last purification step is precipitation from methanol, which also affords a material that is much easier to work with.
+3-027	The reason is that the crude product obtained by evaporating the solvent from the chromatographic eluent is very sticky and difficult to remove from the flask.
+3-028	Optical Spectroscopic Properties.
+3-029	The optical absorp- tion spectra of compounds 8, 9, and 10 were recorded in dilute solutions and in the solid state.
+3-030	The solution spectra are very similar for all three compounds and are shown in Figure 3A.
+3-031	The absorption maxima (λmax ) are 599, 601, and 597 nm, respectively.
+3-032	Very small differences in λmax are expected because the only difference between each molecule is the alkyl side chains on the EBT building block (hexyl, tetradecyl, and ethylhexyl).
+3-033	The deep blue color of these materials in solution suggests that they are promising for solar cells applications.
+3-034	To investigate the optical spectra in the solid state, films were spun-cast on quartz plates from 4 mg/mL chloroform solutions, affording deep blue films.
+3-035	As shown in Figure 3B, the λmax values of these films exhibit bathochromic shifts of approx- imately 20 nm with maxima at 626, 626, and 623 nm for
+3-036	compounds 8, 9, and 10, respectively.
+3-037	The red-shift typically indicates favorable π−π interactions and stacking between molecules in the solid state and, thus, greater electronic delocalization.[36]
+3-038	The solid state spectra of compounds 8 and 9 are very similar, and a sharp vibronic shoulder is observed at 685 nm.
+3-039	For compound 10, the shoulder in the spectrum is visible in the same region but is not as pronounced.
+3-040	Such features are common in the solid state optical spectra of conjugated molecules.
+3-041	The noticeable fall in intensity of the shoulder of compound 10 is likely related to greater disorder and less dense π−π stacking.
+3-042	This assertion is physically reasonable because compounds 8 and 9 have linear side chains, which should allow closer π−π stacking than in compounds such as 10, which contain bulkier branched alkyl substituents.
+3-043	Another informative aspect of these solid state optical spectra is that in addition to the red-shift of the peaks, they are significantly broader than their solution phase counterparts.
+3-044	The optical band gaps (Eg) of these materials were calculated from the band edges and are compiled in Table 1, along with
+3-045	optical
+3-046	efficient light-harvesting materials in bulk heterojunction (BHJ) OPVs.[37]
+3-047	Thermal Properties.
+3-048	Thermal analysis of the present EBT- based small molecules was carried out by differential scanning calorimetry (DSC) at a temperature ramp rate of 10 °C/min.
+3-049	As shown in Figure S1 (Supporting Information), no obvious thermal features can be detected in 8, 9, or 10, and heating beyond 250 °C risks thermal decomposition.
+3-050	Small molecules exhibit sharp thermal transitions compared to polymers;[38] however, considering the size and bulkiness of the substituents in the present small molecules, there may be too much disorder in the molecular packing to exhibit significant crystallinity.
+3-051	The presence of thermal transitions is, of course, a useful guide for determining appropriate thin film annealing temperatures for OFET and OPV processing.
+3-052	Redox Properties.
+3-053	Cyclic voltammetry was performed on all materials in order to evaluate their electrochemical properties such as the oxidation and reduction potentials, which yield HOMO and LUMO (lowest unoccupied molecular orbital) energies as well as electrochemical band gaps.
+3-054	Data are compiled in Table 1, and representative voltammograms are shown in Figure 4.
+3-055	The curves shown are the first scan for each material.
+3-056	Note that alkyne-containing molecule electrochemical behavior varies widely; however, most recent studies report quasi-reversible or even completely reversible redox proper- ties.[24]
+3-057	Nevertheless, there are still some examples showing no
+3-058	redox reversibility.[39]
+3-059	The curves recorded in this study show that the three materials display nearly complete reductive reversibility, whereas oxidation is only quasi-reversible.
+3-060	Solid state cyclic voltammetry was also performed on thin films of these materials; however, the results were substantially different, as shown in Figure S2 (Supporting Information).
+3-061	The reversibility of film reduction and oxidation was not evident, which may be due to dewetting of the films from the platinum electrode or oxidation of the EBT unit to unidentified species.
+3-062	Possible oxidation processes that seem most plausible were demonstrated by Bildstein et al.[40] Figure S3 (Supporting Information) shows how a radical cation might be stabilized.
+3-063	The cyclic voltammetry enables estimation of the HOMO and LUMO energies of the present EBT derivatives.
+3-064	The oxidation onsets of compounds 8, 9, and 10 are very similar (0.34−0.42 V vs Fc/Fc+) giving HOMO energies of 5.44−5.52 eV.
+3-065	Such low-lying HOMOs are common for small conjugate molecules.
+3-066	Conjugated polymers, especially DPP-containing macromolecules, are known to have higher-lying HOMOs (around 5.00−5.20 eV), which is expected for structures having more extensive conjugation.[29a,b] Note that low-lying HOMOs generally correlate with large open-circuit voltages (VOC) in bulk heterojunction (BHJ) OPVs.
+3-067	This small molecule characteristic could, in principle, be advantageous in OPVs because, while polymers can exhibit very good field-effect mobilities (p- and n-type) and very good short-circuit currents (JSC), VOC values can be lower than in small molecules.[41]
+3-068	Similarly, reduction potentials are used here to estimate the LUMO energies of compounds 8−10.
+3-069	Once again, the values are similar, ranging from 3.64 to 3.78 eV (−1.32 to −1.46 V vs Fc/Fc+).
+3-070	In general, bulky side chains are only expected to alter redox properties if they alter the conjugation length by twisting aromatic groups out of coplanarity.
+3-071	In this case, the EBT triple bond should act as a spacer, preserving the molecular planarity even with 2-ethylhexyl substituents.
+3-072	Finally, the electrochemical band gaps taken from these data and are found to be 1.82 eV for 8, 1.74 eV for 9, and 1.78 eV for 1all within ∼0.1 eV of the band gaps obtained from the solid state optical spectra.
+3-073	Electronic Structure Analysis.
+3-074	Density functional theory (DFT) calculations on (TDPP)2-EBT containing methyl substituents were carried out at the DFT level.[42]
+3-075	Methyl side chains were chosen to make the calculations more tractable.
+3-076	Beckes three-parameter exchange functional combined with the LYP correlation functional (B3LYP)[43] was employed with the standard 6-31G basis set.[44]
+3-077	The molecular geometries of the neutral and charged species were first optimized.
+3-078	In addition, to
+3-079	the frontier molecular orbitals of methylated (TDPP) 2-EBT.
+3-080	better understand the electrical performance within this semiconductor series, intramolecular reorganization energies for both hole and electrons were also estimated theoretically using the DFT formalism.
+3-081	The intramolecular reorganization energy (λ) considers the molecular structure reorganization required to accommodate added charge as a prerequisite for efficient transport.
+3-082	It consists of two terms associated with the geometric relaxation energies upon going from the neutral to the charged species and vice versa, and these are computed directly from the adiabatic potential energy surfaces, as described previously.[45]
+3-083	As it can be seen in Figure 5, molecule 8 is planar with skeletal distortions of less than 10°, which indicates an effective π-conjugation.
+3-084	Furthermore, the topologies of the HOMO and LUMO indicate delocalization of both orbitals throughout the entire π-conjugated skeleton, which is desirable for a greater π−π interaction and thus enhanced electrical properties.
+3-085	In addition, reorganization energies for both holes and electrons are estimated to be 0.15 eV.
+3-086	These values are quite low and, in fact, are comparable to those reported for pentacene[46] (0.097 eV for holes) and other fused benzene-thiophene structures[47] (0.118−0.204 eV for holes), which exhibit high performance in OFETs.
+3-087	Organic Field-Effect Transistors.
+3-088	Bottom-gate/top-con- tact (BG/TC) thin film transistors were fabricated with films of compounds 8, 9, and 10 spin-coated on Si/SiO2 substrates (10 mg/mL in chloroform).
+3-089	The films were annealed under vacuum; several annealing temperatures were investigated because, as noted, DSC does not reveal any thermal transitions.
+3-090	Finally, gold source/drain electrodes were deposited by thermal evaporation through a shadow mask.
+3-091	The Si/SiO2 substrates were subjected to various surface treatments [bare, hexame- thyldisilazane (HMDS) and octadecyltrichlorosilane (OTS)] to evaluate the effect of gate dielectric surface pre-treatment on OFET performances.
+3-092	Electrical measurements were performed at room temperature under ambient conditions and data are summarized in Table 2.
+3-093	modified surfaces.[48]
+3-094	Silane reagents such as HMDS and OTS can lower the surface conductivity of the dielectric and suppress charge traps on the surface,[49,50] thus minimizing the off-current and consequently increasing ION/IOFF.[51]
+3-095	These SAMs can also template more ordered growth of the semiconductor on the surface.
+3-096	While such templating is certainly more important for vapor deposited semiconductor films, it still has a significant influence on solution-processed films as well.[52]
+3-097	Films of compound 8 were also spin-coated on OTS- modified Si/SiO2 to compare with the devices on bare Si/SiO2 .
+3-098	The measured mobility was more than 100× greater, regardless of the annealing temperature.
+3-099	Indeed, five different film thermal treatments were investigated for this material (as-cast, 50, 85, 100, and 150 °C) and hole mobilities were consistently greater than 0.08 cm2/(V s), with the highest being 0.17 cm2/(V s) for the as-cast films.
+3-100	This result is intriguing because OFET film annealing typically enhances long-range order.[53]
+3-101	Additionally, the exceptional performance achieved here without annealing is significant because device annealing is a time-consuming and costly step in manufacturing processes.
+3-102	This particular device
+3-103	also exhibits a good ION/IOFF of ∼105.
+3-104	For all devices characterized in this study, the threshold voltage (VT) is located between −20 V to −35 V. As noted earlier, annealing of the 8 films does not enhance the hole mobility.
+3-105	For TANNEAL between 50 and 100 °C, the OFETs exhibit approximately the same overall performances with μ ∼ 0.10 cm2/(V s) and ION/IOFF ∼ 105, while annealing at higher temperatures, that is, 150 °C, depresses μh to a maximum of 0.06 cm2/(V s).
+3-106	The reason for this trend is discussed in the X-ray diffraction (XRD) and atomic force microscopy (AFM) characterization of the films.
+3-107	Compound 9-derived TFTs were studied in the same fashion as those of compound 8.
+3-108	In this case, however, film annealing is required to optimize the performance.
+3-109	The hole mobility increases from 0.03 to 0.08 cm2/(V s) on going from a 50 to 150 °C annealing, with the highest hole mobility measured = 0.09 cm2/(V s).
+3-110	This is not surprising considering the much longer side chains on the EBT building block (C 14 versus C6).
+3-111	Furthermore, note that the ION/IOFF for TANNEAL= 150 °C is 100× higher (104 vs 106), which is excellent for OFETs measured under ambient conditions.
+3-112	To compare the OFET performance of devices fabricated with different Si/SiO2 surface treatments, devices were also fabricated using HMDS self- assembled monolayers (SAMs) instead of OTS since previous reports show that HMDS treatment is sometimes more effective than OTS for BG/TC OFETs.[2d] In the present case, however, the hole mobility decreases by more than 10× (μ = 6.6 × 10−3 cm 2/(V s)) at TANNEAL = 50 and 200 °C.
+3-113	The last material investigated, 10, containing 2-ethylhexyl substituents, was designed primarily for OPV, but it was nevertheless evaluated in OFETs to assess the impact of introducing bulky branched side groups on the EBT core.
+3-114	Impressively, this material nevertheless exhibits mobilities greater than 10−2 cm 2/(V s).
+3-115	While a range of annealing temperatures was investigated, devices were found to perform well under all conditions, similar to molecule 8.
+3-116	A hole mobility of 0.04 cm2/(V s) is observed for as-cast films and for TANNEAL= 100 °C, and there is no significant change in ION/IOFF and VT for all the annealing temperatures except for TANNEAL = 150 °C, which increases ION/IOFF to greater than 106, 100× higher than
+3-117	for the other annealing temperatures.
+3-118	Note that the same phenomenon is also observed in the case of compound 8 for TANNEAL = 150 °C. This result corroborates the assumption made above that linear EBT side chains should afford better OFET performance than materials having more branched substituents.
+3-119	Furthermore, the smaller linear n-hexyl side chains in compound 8 apparently assist in maintaining high levels of film organization, promoting slightly better OFET performance than the tetradecyl substituted EBT.
+3-120	Thin-Film Morphology: XRD and AFM.
+3-121	Film micro- structure and morphology, as assessed by X-ray diffraction (XRD) and tapping mode AFM, have an important impact on OFET performance for the present materials.
+3-122	Unlike the DSC measurements, which are taken on bulk powders, these characterizations are performed on the same types of thin films used in the devices, and provide information on microstructural ordering.
+3-123	It is found that both the side chain substituents on the EBT building block and the annealing temperatures impact the π−π ordering within the thin films, and it will be seen that there are correlations between structural ordering and the OTFT device performance.
+3-124	Films of compound 8 were first investigated (Figure 7), since this material exhibits the best OTFT performance under almost
+3-125	all annealing conditions.
+3-126	The first observation from the XRD data is that the features in each scattering pattern have a very low intensity, suggesting significant amorphous character.
+3-127	Nevertheless, informative changes are observed on varying the annealing temperature, and correlations are observed between the film microstructure and OFET performance.
+3-128	The films without thermal treatment exhibit a single feature at 2θ = 5.52°, corresponding to a d-spacing of 16.0 Å.
+3-129	This peak has a low intensity and is the only observable feature; such low- angle reflections are usually associated with lamellar spacing.
+3-130	Throughout this study, no features are observed at high angles (2θ > 25°), indicating there is negligible regular in-plane π-stacking in these films.
+3-131	This is reasonable to expect because each molecule contains numerous side chains, which may hinder regular π-orbital overlap.
+3-132	These bulky side chains also greatly affect the crystallinity of the thin films.
+3-133	Furthermore, the XRD patterns change by increasing the TANNEAL applied to these films.
+3-134	The only reflection that remains constant,
+3-135	regardless of the annealing temperature, is at 2θ = 5.52° (d- spacing= 16.0 Å).
+3-136	However, this peak becomes more intense and narrower on annealing at elevated temperatures.
+3-137	Also, a shoulder begins to appear at greater d-spacing for TANNEAL= 100 °C. At this same annealing temperature, another feature with very low intensity is also observed at 2θ = 16.6°, which corresponds exactly to the third order Bragg reflection (d = 16.0 Å), indicating a greater degree of crystallinity.
+3-138	These XRD results are informative considering that the measured hole mobilities for all of these films are all very similar, varying from 0.08 to 0.17 cm2/(V s).
+3-139	As noted, the as-cast films exhibit the highest performance with the largest mobilities in this series (0.17 cm2/(V s)), regardless of the low crystallinity observed by XRD.
+3-140	Curiously, while films of 8 annealed at 100 °C exhibit slightly greater crystallinity, the field-effect mobility drops to 0.08 cm2/(V s).
+3-141	A possible explanation is that increased crystallite size at elevated annealing temperatures leads to increased grain boundary densities, thereby hindering charge transport.
+3-142	Diffraction patterns for films of compounds 9 and 10 after TANNEAL = 50 and 150 °C are shown in Figure 8.
+3-143	Thin films of
+3-144	compound 9 exhibit large differences between the two temperatures.
+3-145	At 50 °C, the peaks from the first- and second-order Bragg reflections are observed at 2θ = 4.29° and 8.47° (d- spacing = 20.6 Å).
+3-146	However, the second-order peak is not well- defined and first-order peak is of rather low intensity and broad.
+3-147	The derived d-spacing for this material is also larger than for compound 8, meaning it is less densely packed.
+3-148	This observation is likely the principal reason why the hole mobility for 9-derived films is lower than those of compound 8.
+3-149	After annealing at higher temperatures, the first- and second-order reflections shift to 2θ = 4.55° and 9.02°; while the third- and fourth-order peaks are observed at low intensity, 13.6° and 18.2°, corresponding to a d-spacing of 19.5 Å.
+3-150	The slight contraction in the d-spacing indicates tighter organization within the film; however, it is difficult to predict whether this would enhance mobility, especially between grains.
+3-151	That the diffraction features are more intense and sharper than for 50 °C annealing correlates well with the field-effect mobilities found for these two film types.
+3-152	At the lower annealing temperature,
+3-153	the highest measured mobility is 0.03 cm2/(V s) compared with 0.09 cm2/(V s) for TANNEAL = 150 °C.
+3-154	The XRD patterns for compound 10 films are surprisingly similar to those for the two other materials even though bulky 2-ethylhexyl side chains are appended to the EBT core.
+3-155	Higher annealing temperatures slightly alter the diffraction pattern with the lowest reflection shifted from 5.36° for 50 °C annealing to 5.44° for 100 °C annealing.
+3-156	These two angles correspond to d- spacings of 16.5 and 16.2 Å, respectively, which are somewhat smaller than those observed for compound 9, but slightly greater than for compound 8.
+3-157	Note that the increased annealing temperatures do not alter the peak shapes or lead to the appearance of second- or third-order reflections.
+3-158	This may explain why the mobility of this particular material is invariant with TANNEAL.
+3-159	The peak shape is rather broad and of low intensity, which correlates with the lower mobility versus the films of 8 and 9.
+3-160	Film morphology was also characterized by AFM to seek correlations with the XRD microstructural data analysis and to help elucidate the relationship between film microstructure and device performance.
+3-161	The topographic images of these films are shown in Figure 9 for various annealing temperatures.
+3-162	The first
+3-163	three images, of films as-cast, TANNEAL = 50 °C, and 85 °C, are very similar, with no evidence of crystallites or other features to distinguish them.
+3-164	In each case, the images reveal similar feature sizes of approximately 5−8 nm deep.
+3-165	However, since the film thickness is always on the order of 100 nm, they should not alter the charge transport properties or affect the carrier in the channel near the semiconductor/dielectric interface.
+3-166	Annealing of these films at 100 °C produces smoother surfaces with an rms roughness of 1.15 nm.
+3-167	Importantly, these films do not exhibit the small depressions that are the only notable topological characteristics of the low temperature annealed films.
+3-168	Such topologies stand in contrast to typical molecular materials with high levels of organization, which feature distinct crystallites and film electrical properties, which are often nonuniform, especially when processed by spin-coating.
+3-169	Figure 10 presents AFM images of films of compounds 9 and 10 for different annealing temperatures.
+3-170	Compound 9 films undergo minor changes on increasing the annealing temperature from 50 to 150 °C. The features are much smaller for lower
+3-171	concentration (20 mg/mL) in chloroform, and the spin-coating speed (4000 rpm) constant throughout the study.
+3-172	OPV performance metrics are summarized in Table 3.
+3-173	Most
+3-174	Cells Fabricated DPP End-Capped EBT Donorsa
+3-175	TANNEAL VOC JSC FF RS (Ω PCE
+3-176	cmpd (°C) (V) (mA/cm[2]) (%) cm2) (%)
+3-177	8 RT 0.692 6.51 30.1 104 1.38
+3-178	9 RT 0.753 5.64 39.6 84 1.68
+3-179	130 0.444 0.11 17.0 8932 0.008
+3-180	Figure 10.
+3-181	AFM topograph images (5 μm × 5 μm scans) of
+3-182	temperature annealing and the films have smoother surfaces a
+3-183	Values are an average based on three devices.
+3-184	(rms roughness = 0.94 nm).
+3-185	On higher temperature annealing,
+3-186	the features become larger, in accordance with the larger rms
+3-187	roughness (1.38 nm).
+3-188	This trend parallels the XRD data where noticeably, OPVs based on compounds 8 and 9, which bear the level of crystallinity is much greater after annealing at 150 only linear alkyl EBT building block substituents, exhibit °C. As noted earlier, this leads to notable increases in the field- dramatically enhanced performance over devices fabricated with effect mobility, 0.03 → 0.09 cm2/(V s).
+3-189	The same effect is seen compound 10, which contains exclusively branched 2-ethyl- for films of compound 10 where the roughness more than hexyl substituents.
+3-190	The open circuit voltage (VOC ), short circuit doubles when TANNEAL is increased from 50 to 100 °C (rms = current density (JSC), fill factor (FF), and the power conversion 0.41−0.92 nm); however, this is not accompanied by significant efficiency (PCE) are lowest for 10.
+3-191	In fact, the best enhancement in OFET performance.
+3-192	At lower annealing performance for 10-based devices, obtained after a 120 °C temperatures, random terrace-like structures with heights of annealing step, is VOC = 0.63 V, JSC = 2.37 mA/cm[2], FF = 29%, ∼3 nm are observed.
+3-193	However, in regions where there are no and PCE = 0.43%.
+3-194	This is surprising considering that many such structures, the films are very smooth and homogeneous. high-performance BHJ OPV donor materials frequently feature These types of structures disappear on annealing at 100 °C; bulky alkyl substituents such as 2-ethylhexyl.[8a,9,55] Nevertheless, however, the mobility remains unchanged (0.04 cm2/(V s)). compared to 8 and 9, molecule 10 has the lowest hole mobility This is not surprising because only the few first layers are (Table 2) and the lowest XRD-measured order (Figure 8), expected to dominate charge transport in bottom gate/top suggesting that the bulky side chains of 10 disrupt crystalline contact OFETs,[53] and it is likely that the terrace structures lie domains.
+3-195	This may hinder excitons from efficiently reaching above these layers.
+3-196	Thus, the AFM data show that all of the donor/acceptor interfaces and forming extended long-range present EBT films are morphologically homogeneous and percolated pathways for efficient photogenerated charge carrier featureless, except for compound 10 films exposed to low collection, consistent with the low JSC, FF, and PCE metrics of annealing temperatures.
+3-197	In light of this, it is important to note the 10-based devices.
+3-198	that many examples in the literature demonstrate that it is Compounds 8 and 9 present two interesting cases: they both possible to greatly increase the crystallinity of a thin film by bear linear alkyl substituents on the EBT skeleton (C6 vs C14 ), modifying the molecular core and/or solubilizing groups of an and the annealing temperature is found to play a vital role for organic semiconductor.[2,15]
+3-199	The current work demonstrates a both chain lengths (Table 3).
+3-200	The shorter n-hexyl chains on 8 unique building block which with further molecular mod- provide good performance even at very low annealing ification may be able to achieve better TFT performance. temperatures, with as-cast films yielding VOC = 0.69 V, JSC = Organic Photovoltaic Cells.
+3-201	The present EBT optical 6.51 mA/cm[2], FF = 30%, and PCE = 1.4%.
+3-202	Furthermore, absorption spectra, FMO energies, and TFT mobilities suggest increasing TANNEAL to 100 °C enhances all metrics and affords prospects as small molecule OPV donors.
+3-203	To investigate the PV optimal results, with VOC = 0.72 V, JSC = 6.67 mA/cm[2] , FF = response of the present small molecules, devices blended with 36%, and PCE = 1.7% (“champion” PCE = 1.8%).
+3-204	However, PC 61 BM (1:1 wt/wt) were fabricated using previously when TANNEAL is raised above 130 °C, the performance of these described procedures.[14b,54] These OPVs utilize the conven- devices degrades dramatically.
+3-205	Devices fabricated with com- tional architecture ITO/PEDOT:PSS/(TDPP) 2 - pound 9 bearing longer side chains exhibit greater sensitivity to EBT:PC61BM/LiF/Al where ITO is the transparent anode annealing, and optimal performance is obtained without and PEDOT:PSS acts as a hole-extracting interfacial layer while annealing.
+3-206	The average VOC, JSC, FF, and PCE of the three simultaneously planarizing the ITO surface.
+3-207	OPV performance devices fabricated with 9 are 0.75 V, 5.64 mA/cm[2], 40%, and was investigated as a function of the active layer annealing 1.7%, respectively.
+3-208	Similar to 8 and 10, the performance of 9-temperature, while keeping the donor−acceptor ratio, the blend based devices for TANNEAL = 130 °C or above is significantly
+3-209	lower than devices processed from TANNEAL = 25−120 °C. Representative J−V plots for the best-performing cell of each device are shown in Figure 11A. Note that these results are among the highest performances reported to date for solution-processed small molecules containing alkyne functional groups.
+3-210	The AFM images of compounds 8, 9, and 10 blended with PC 61BM in Figure 12 reveal major changes in the film microstructure after annealing at 100 or 120 °C. For compound 8, 100 °C annealed films are similar to as-cast films but exhibit greater uniformity, which corresponds to increased PCE.
+3-211	The surface morphology of compound 9 evolves from small, uniform grains to larger, disordered grains upon annealing.
+3-212	Here the largest morphology change corresponds to the largest decline in PCE from 1.68% for as-cast to 0.61% after annealing at 100 °C. Finally, solar cells with compound 10 as the donor material exhibit the lowest PCEs but still exhibit surface morphological differences between as-cast and TANNEAL = 120 °C. To compare the relative crystallinity of the blend films
+3-213	before and after annealing, XRD data are shown in the Supporting Information.
+3-214	Consistent with the AFM micro- graphs, higher crystallinity is observed for films annealed >100 °C, suggesting that molecular domain sizes increase upon thermal annealing.
+3-215	However, compared to the long-range order observed in the XRD of the pristine films, the blend films exhibit reduced crystallinity indicating that PCBM disrupts long-range domain formation.
+3-216	External quantum efficiency spectra for the best-performing OPV devices fabricated with donors 8, 9, and 10 are shown in Figure 11B. A common feature of the EQE response for all devices is the broad absorption from 350−700 nm.
+3-217	The low overall EQE of 10 reflects the low JSC values, suggesting that devices fabricated from 10 do not efficiently generate charge carriers, as a result of the bulky side chains on the EBT building block that interrupt the highly ordered molecular organization necessary for efficient charge separation with PC61 BM.
+3-218	However, note that the maximum EQEs of nearly 32% and 38% for 9 and 8, respectively, are consistent with the higher JSC values observed for these molecules versus 10.
+3-219	The mobilities of the present TFTs generally fall or remain unchanged with increasing annealing temperature, and XRD/AFM-assessed crystallinity suggests that emerging/growing grain boundaries increasingly impede hole transport.
+3-220	Since the OPVs blend film performance, to a significant degree, parallels these effects, this indicates that long-range crystal- lization and organization achieved by high temperature annealing may cause the donor and acceptor components to form unacceptably large, phase-separated domains.
+3-221	Large domains throughout the film at TANNEAL above 120 °C are consistent with the large measured OPV RS values (Table 3), which would indicate poor donor−acceptor interactions and poor charge collection at the electrode interfaces.
+3-222	10 at indicated TANNEAL: (A) 8 as-cast; (D) 8 after 100 °C annealing; (B) 9 120 °C annealing.
+3-223	as-cast; (E) 9 after 100 °C annealing; (C) 10 as-cast; and (F) 10 after
+3-224	Chemistry of Materials Article
+4-001	■
+4-002	In this contribution we show that alkyne-functionalized electron donor building blocks can be very efficiently synthesized via Sonogoshira coupling.
+4-003	The new EBT core was prepared with various alkyl substituents, which play a significant role not only in the resulting physiochemical properties of the materials but also in the performances of TFT and OPV devices incorporating them.
+4-004	The three new EBT derivatives flanked by the DPP π-acceptor unit afford low band gaps and low-lying HOMOs as indicated by optical spectros- copy and cyclic voltammetry.
+4-005	Good hole mobilities as high as 0.17 cm2/(V s) for compound 8 with ION/IOFF greater than 104 are measured even under ambient conditions.
+4-006	XRD and AFM characterization of the spin-coated films reveal modest crystallinity but good homogeneity, affording very uniform/ reproducible device performance.
+4-007	Furthermore, DFT calcu- lations indicate low reorganization energies for both holes and electrons, which is desirable for efficient charge transport.
+4-008	BHJ solar cells fabricated with these small molecules yield PCEs close to 2%.
+4-009	Thus, EBT-related cores show promise for developing new organic opto-electronic materials.

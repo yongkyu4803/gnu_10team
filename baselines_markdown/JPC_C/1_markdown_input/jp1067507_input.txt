@@ -1,0 +1,164 @@
+# document_id: jp1067507
+# extractor: kordoc-markdown-adapter-1
+1-001	Noble metals are used widely in a range of electrochemical applications, such as electrocatalysis, electrochemical analysis, electrochemical synthesis, etc., owing to their inertness and catalytic properties, generally through chemisorption on the surface.
+1-002	The electrocatalytic activity of the metals is of great interest, particularly in the field of fuel cells.
+1-003	Pt is the most commonly used cathode catalyst in fuel cells, as it shows high activity toward a sluggish oxygen reduction reaction (ORR).
+1-004	Recently, there have been an increasing number of studies searching for more efficient electrocatalysts as a replacement for the expensive and rare Pt.
+1-005	In general, Au is regarded as a poor catalyst for ORR due to the weak chemisorption properties caused by the filled d-band.[1-3] To improve the activity of Au, there have been a series of efforts using the following approaches: (i) increasing the surface area using nanoparticles (NPs) 4-7 or nanoporous structures,[6] (ii) employing a single crystalline structure,[4-10] (iii) modification with second metals,[5,10] and (iv) a combination of these methods.
+1-006	Some examples of these efforts are as follows.
+1-007	In fact, the Au(100) facet[4,5] and Au(100)-like AuNPs 6 were reported to show high catalytic activity toward the ORR.
+1-008	The particle-size dependent ORR activity of AuNPs was studied. 7 Single crystal Au(111) exhibited an enhanced positive catalytic effect for the ORR by surface modification with Cu and Ag ad-layers. 8
+1-009	The effective ORR via the four-electron-transfer pathway to form water was confirmed at nanoporous Au made by dealloying Ag/Au alloys.[9]
+1-010	More recently, the catalytic activity of Au-based bimetallic NPs was reported to be superior to that of each separate metal. 10 The effect of the particle size of AuNPs on the kinetics of the ORR in acidic medium was examined, and greater catalytic activity was confirmed on the smaller AuNPs.[11]
+1-011	However, the approaches described here are rather limited
+1-012	because they include difficult and complicated fabrication and modification processes.
+1-013	The electrocatalytic activity of noble metals can be altered dramatically by surface pretreatments: the first discovery was the enhancement of Pt activity by pulsing between the anodic and cathodic potentials.[12,13]
+1-014	With regard to Au, activation with electrochemical,[14-17] thermal,[16-18] and chemical pretreatments[19,20] was reported.
+1-015	Indeed, the catalytic effects of activated Au were investigated mostly for oxidation reactions rather than reduction reactions.
+1-016	The oxidation of hydrogen,[14] hydroxide,[15] some organic substances (diethyl amine, hydrazine, glyoxal),[17] and hydrogen peroxide[20] has been reported.
+1-017	On the other hand, there are relatively few reports on the application of activated Au for reduction reactions, such as nitrobenzene[18] and dichromate.[21]
+1-018	However, none of these were for the ORR.
+1-019	This paper reports the significantly enhanced catalytic activity of Au, which was activated electrochemically by repetitive potential cycling, toward the ORR as well as the oxidation of H2 O2 under neutral conditions, which are important in the area of biofuel cells and biosensors.
+2-001	Chemicals and Materials.
+2-002	Hydrogen tetrachloroaurate tri- hydrate (HAuCl 4 · 3H2O), sodium citrate (Na3C 6H5O7 · 2H2O), NaBH 4, sodium phosphate monobasic (NaH2PO4 , g 99%), sodium phosphate dibasic (Na2HPO4, g 99%), hexaammineru- thenium(III) chloride (Ru(NH3)6Cl3), and chitosan (MW ∼1 × 106 Da; ∼80% deacetylation) were purchased from Sigma- Aldrich (St.
+2-003	Louis, MO, USA).
+2-004	Au wire (12.5 μm diameter) and tungsten rods (0.05 in. × 3 in.) were obtained from GoodFellow (Oakdale, PA, USA) and FHC (Bowdoin, ME, USA), respectively.
+2-005	Glass capillaries (borosilicate, 1.5 mm outer diameter, 1.02 mm inner diameter) were supplied by World Precision Instrumentation, Inc.
+2-006	(Sarasota, FL, USA).
+2-007	O2 and Ar gases were acquired from Dong-A Gas Co.
+2-008	(Seoul, Korea).
+2-009	All
+2-010	* Corresponding authors, cmlee@ewha.ac.kr and youngmilee@ewha.ac.kr.
+2-011	10.1021/jp1067507  2011 American Chemical Society
+2-012	Published on Web 12/10/2010
+2-013	Shim et al.
+2-014	solvents and chemicals were of analytical-reagent grade and used as received.
+2-015	All the solutions were prepared using 18 MΩ cm-1 deionized water.
+2-016	AuNP Synthesis.
+2-017	AuNPs (∼10 nm diameter) were synthe- sized using a similar method to the one previously described.[22]
+2-018	First, 20 mL of 1.0 mM HAuCl4 and 2 mL of 38.8 mM sodium citrate aqueous solutions were mixed with magnetic stirring.
+2-019	Subsequently, 50 μL of NaBH 4 (0.75%) in water was added slowly to this solution until the solution color changed.
+2-020	Magnetic stirring was stopped once the color of the solution turned a deep red color.
+2-021	The prepared solution containing AuNPs was stored under refrigerated dark conditions before and after use.
+2-022	The sizes of the AuNPs were confirmed by ultraviolet/visible spectroscopy (UV-vis, HP 8453, Hewlett-Packard Wilmington, DE, USA) and transmission electron microscopy (TEM, JEM 1230, JEOL, Japan) operated at 80 kV.
+2-023	The field-emission scanning electron microscopy (FE-SEM) images of the surface of a AuNP-loaded GC electrode were obtained using a JSM-6700 (JEOL, Japan).
+2-024	The phase structures were examined by X-ray diffraction (XRD; Siemens D500, with a Cu KR radiation) for bulk Au and AuNPs.
+2-025	Fabrication of Au Microwire Electrode.
+2-026	Au microwire (∼30-mm long and 12.5 μm diameter) was contacted electrically to a tungsten rod using silver conductive epoxy.
+2-027	The Au/tungsten rod was inserted with caution into a ∼5 cm long tapered glass capillary leaving out a ∼10 mm long Au wire from the end of the capillary.
+2-028	The surface of the Au microwire electrode was heated electrically with nichrome coiled wire (∼800 °C) for 60 s and allowed to cool to room temperature.
+2-029	The heating process also caused the glass capillary in which the Au wire was sealed to melt with a 10 mm length protruding from the glass capillary end.
+2-030	Electrodes and Electrochemical Pretreatments.
+2-031	Au and glassy carbon (GC) rotating disk electrodes (BASi, A ) 0.071 cm2), which served as the working electrode, were polished to a mirror finish using 0.3 and 0.05 μm alumina slurries.
+2-032	After alumina polishing, the electrodes were sonicated in a water bath for 10 min.
+2-033	Five microliters of the prepared AuNP colloidal solution was loaded onto the clean surface of a GC electrode and then dried at room temperature.
+2-034	The loading/drying processes were repeated five times.
+2-035	Subsequently, 10 μL of a chitosan solution (0.01 wt %) was transferred to a AuNP-loaded GC electrode to adhere the AuNPs to the GC substrate electrode.
+2-036	The chitosan solution was prepared by dissolving chitosan flakes in acetic acid (0.5%, v/v) followed by filtration through a syringe filter (0.45 μm Millex-HA, Millipore) to remove the coarse undissolved flakes and impurities.
+2-037	The Au disk and AuNP- modified GC (AuNP/GC) electrodes were pretreated electro- chemically by potential scanning between -0.2 and +1.0 V (vs saturated calomel reference electrode, SCE) for 200 cycles at a scan rate of 50 mV s-1 with a Pt counter electrode (coiled).
+2-038	Electrochemical Measurements.
+2-039	RDE voltammetry and cyclic voltammetry (CV) were carried out using a RDE-1 rotor/ Epsilon electrochemical analyzer (Bioanalytical Systems Inc., IN, USA) and a 1000A multipotentiostat (CH Instruments TX, USA), respectively.
+2-040	A Pt coil counter electrode and SCE reference electrode were used in all electrochemical measure- ments.
+2-041	ORR was examined in an O2-saturated 0.05 M phosphate buffer solution (pH 7.4) prepared with triple-distilled water.
+2-042	The solution was purged with O2 gas for 30 min before each measurement, and O 2 gas was flowed over the solution during the experiments.
+3-001	Characterization of the AuNPs.
+3-002	The synthesized AuNPs were characterized in terms of their size distribution by TEM and UV-vis spectroscopy.
+3-003	Figure 1a shows representative TEM images of the AuNPs, which are mostly monodisperse and spherical in shape.
+3-004	The mean diameter of the AuNPs was estimated to be 10 ( 2 nm, which was also confirmed by the UV-vis spectra (data not shown).[23]
+3-005	The loaded AuNP layers on a GC electrode were imaged by SEM.
+3-006	As shown in Figure 1b, fairly dense and aggregated AuNPs showing rough porous structures were observed, whereas the preserved shapes/ structures of the individual AuNPs could still be recognized.
+3-007	The SEM image of the AuNPs after the electrochemical pretreatment was also obtained.
+3-008	Any noticeable differences were not found in the SEM images before and after the pretreatment.
+3-009	Electrochemical Characterization of the Au Catalysts.
+3-010	As described in the Experimental Section, the Au disk and AuNP/GC electrodes were pretreated electrochemically by repetitive potential cycling.
+3-011	These electrodes were examined electrochemi- cally by CV performed in 1.0 M H2SO 4 (Ar purged) before and after the pretreatment (Figure 2).
+3-012	Compared to the Au disk, a large increase in the charging current was recognized for the AuNP/GC, which was attributed to higher surface area of the AuNPs.
+3-013	In the positive sweep, the anodic peaks at approximately 1.3 - 1.35 V, corresponding to the monolayer Au oxide formation, were observed at both Au and AuNPs before the pretreatment.
+3-014	In particular, an additional anodic peak at a less positive potential (∼1.15 V) was observed for the electrodes after the pretreatment.
+3-015	This additional peak was assigned possibly to the thicker Au oxide layer.
+3-016	In a subsequent negative sweep, this oxide layer was reduced at ∼0.9 V. Relatively higher cathodic peak currents and more negative cathodic peak potentials were observed for the pretreated Au (tAu) and AuNP/GC (tAuNPs) compared to the untreated ones (uAu and uAuNPs).
+3-017	Indeed, the integrated charges corresponding to the reduction of the Au oxide layers were 51 μC for uAu, 102 μC for tAu, indicating an approximately 2.0-fold increase, and 138 μC for uAuNPs, 184 μC for tAuNPs, indicating an ap- Electrocatalytic Activity of Gold Nanoparticles
+3-018	proximately 1.3-fold increase.
+3-019	This indicates the electrochemical pretreatment induces the growth of thick Au oxide layers on the tAu and tAuNP surface.
+3-020	Structural characterization of Au was carried out by XRD.
+3-021	However, there were no distinct differences observed in the XRD patterns of the Au before and after the pretreatment, indicating no surface structural change by the pretreatment process (data not shown).
+3-022	ORR at the Catalysts.
+3-023	The catalytic performance of the Au and AuNPs for the ORR was examined under neutral conditions by RDE voltammetry.
+3-024	Figure 3 shows the RDE voltammograms for uAu, tAu, uAuNPs, and tAuNPs recorded in the O2-saturated phosphate buffer solution (pH ) 7.4) at various rotation speeds.
+3-025	The current densities shown in Figure 3 were obtained by normalizing the measured currents to the corresponding elec- trode geometric surface areas (GSA).
+3-026	To determine the GSA of the electrodes, chronocoulometry (CC) was performed in a 10 mM Ru(NH3)6Cl3 solution containing 0.1 M K2SO4 adjusted to pH 3.0 with H2SO4.
+3-027	The GSAs were estimated from the slopes of the linear plot of the measured charge (Q) versus time1/2 to be 0.085, 0.090, 0.082, 0.096 cm2 for uAu, uAuNPs, tAu, tAuNPs, respectively, according to eq 1.[24]
+3-028	This suggests that AuNPs might be loaded even over the insulator of the GC electrode, resulting in an enlarged GSA without showing significant changes in GSA induced by the pretreatment.
+3-029	2nFADRuCRut1/2
+3-030	Q ) π1/2 + Qdl (1)
+3-031	where, Q is the charge passed, n is the number of electrons transferred (i.e., n ) 1 in the case of the Ru(NH3)63+ reduction), F is the Faraday constant, CRu is the concentration, DRu is the diffusion coefficient of Ru(NH3)63+, t is the time passed, and Qdl is the capacitive charge.
+3-032	As known for bulk Au, the ORR at the uAu was found to be unfavorable and quite sluggish.
+3-033	Therefore, a clear limiting current was not observed within the experimental potential range.
+3-034	On the other hand, the ORR at the uAuNPs commenced at a considerably more positive potential than at the uAu.
+3-035	This may be due to the enlarged surface area per unit volume of the
+3-036	AuNPs providing more active sites.
+3-037	Indeed, it was previously reported that compared to bulk Au the overpotential for the ORR was observed to decrease at the AuNPs and decrease further with decreasing the Au particle size. 11,25
+3-038	Meanwhile, the results show that the pretreatment process affects the ORR catalytic activity of Au and AuNPs.
+3-039	In fact, after the pretreatment, the onset of ORR at the tAu was shifted significantly to a more positive potential (∼300 mV) and became comparable to one of the uAuNPs.
+3-040	Therefore, more limiting- like current levels, but not-well-defined, of the ORR were observed even for the same potential range where no limiting current was found at the uAu.
+3-041	The not-well-defined limiting current, even at the tAu, could be explained by the potential dependency of the ORR mechanism as previously described.[25]
+3-042	We also examined the potential-dependent ORR at the Au and AuNPs before and after the pretreatment which will be discussed later (Figure 4).
+3-043	Interestingly, the ORR onset of the tAuNPs was observed at an even more positive potential than that of the uAuNPs.
+3-044	This shows that the electrochemical pretreatment process leads to an additional decrease in the ORR overpotential at the AuNPs.
+3-045	More positive ORR onset potentials and greater current densities (i.e., the more efficient ORR) were observed in the order of tAuNPs > uAuNP > tAu . uAu, indicating that an increase in both active surface area and the electrochemical pretreatment could improve the electrocatalytic activity of Au synergistically.
+3-046	Indeed, the beneficial effects (in terms of onset potential shift, increased current densities) were observed almost identically for the Au catalysts pretreated with Au counter electrode instead of Pt, indicating the improved activity is not caused by the catalyst contamination with Pt.
+3-047	The number of electrons transferred during the course of the ORR at each electrode could be determined using the Koutechy-Levich (K-L) equation[26,27]
+3-048	Shim et al.
+3-049	111
+3-050	) + (2) j jk jd
+3-051	where j is the measured current density, jk is the kinetic current density and jd is the diffusion-limited current density expressed as the following equation
+3-052	jd ) 0.6nFCO2DO22/3V-1/6ω1/2 (3)
+3-053	where n is the number of electrons transferred in the ORR, F is the Faraday constant, CO 2 (1.13 × 10-6 mol cm-3) is the saturated concentration of oxygen, DO2 (1.76 × 10-5 cm2 s-1) is the diffusion coefficient of oxygen, V is the kinematic viscosity of the solution (1.0 × 10-2 cm2 s-1), and ω is the electrode rotation rate.
+3-054	The parameters for the calculation were obtained from the literature.[11,28]
+3-055	The n values were a function of the potentials as shown in the inset of Figure 4.
+3-056	The general tendency was that the more negative the potentials, the higher the n values observed for all the electrodes.
+3-057	The potential dependency was observed to be much less significant, particularly for the uAuNPs and tAuNPs reflecting the more limiting-like ORR currents at these electrodes compared to the tAu (Figure 3).
+3-058	In other words, for the AuNPs and tAuNPs, the ORR via four electron transfer occurred mainly without depending on a potential (<-0.3 V).
+3-059	On the other hand, a potential-dependent ORR mechanism could be considered for the tAu.
+3-060	Compared to the uAuNPs and tAuNPs, the tAu showed lower a n value at a relatively less negative potential range.
+3-061	On the other hand, the observed n value approached 4 at a more negative potential range, even exceeding the one obtained at
+3-062	the uAuNPs.
+3-063	In fact, the ORR mechanism is likely to be changing from two-electron to almost four-electron transfer pathway at the tAu as the applied potential becomes more negative.
+3-064	It supports a further reduction of peroxide to water at a more negative potential at the tAu.
+3-065	Thermal Pretreatment.
+3-066	The experimental results show that the catalytic activity of the Au and AuNPs was improved by the electrochemical pretreatment.
+3-067	The improved activity might be induced by the formation of a thick Au oxide layer, as evidenced by the CV characterization of the Au catalysts before and after the pretreatment.
+3-068	The ORR activity of Au on which the thick Au oxide layer was grown by the thermal pretreatment was examined to confirm the effect of the Au oxide on the ORR.
+3-069	Indeed, linear sweep voltammetry (LSV) was carried out with a Au microwire electrode (ca. 10 mm long and 12.5 μm diameter), which was fabricated as described in the Experimental Section, before and after the thermal pretreatment.
+3-070	The Au microwire electrode was pretreated thermally by heating electrically in a nichrome coiled wire (ca. 800 °C) for 60 s and allowed to cool to room temperature.
+3-071	The thermally pretreated Au microwire electrode was moved from air to an O2-saturated solution until the end of the Au microwire first touched the air/solution interface using a micromanipulator.
+3-072	Electrode movement was then stopped, and LSV was run.
+3-073	Figure 5 shows the LSV results.
+3-074	In the O2-saturated solution, the ORR onset potential of the Au microwire electrode exhibited a great positive shift after the thermal pretreatment (i.e., -0.2 V vs +0.04 V, before vs after the treatment, respectively, a Au wire after the thermal pre- treatment is denoted as thAu).
+3-075	A similar positive shift in the ORR onset potential was also observed at the Au disk and AuNPs after the electrochemical pretreatment (repetitive po- tential cycling).
+3-076	The observed thermal pretreatment effect on the ORR activity of the Au also shows that the Au oxide layer plays a key role in the ORR.
+3-077	The XPS spectra of Au also support the formation of Au oxide on the Au surface after the pretreatment.
+3-078	(See the Supporting Information.) Indeed, the Au oxide layer presumably enables O 2 to be chemisorped more favorably than the bare Au surface.
+3-079	Hydrogen Peroxide Oxidation at the Catalysts.
+3-080	The activity of each electrode for H 2O2 oxidation, which is of particular interest for oxidase enzyme-based biosensors, was examined to obtain further proof of the higher activity of the tAuNPs.
+3-081	Figure 6 shows the cyclic voltammograms at the various electrodes in a deaerated 0.05 M phosphate buffer solution
+3-082	Electrocatalytic Activity of Gold Nanoparticles
+3-083	containing 1.0 mM H 2O2.
+3-084	The measured currents in CV were converted to current densities by normalizing with the corre- sponding GSAs determined using the aforementioned CC method.
+3-085	At the bulk GC and uAu electrodes, only low background currents were observed in the experimental potential range.
+3-086	On the other hand, at the tAu, the oxidation of H2O2 began at ∼+0.25 V. A clear anodic current was also observed at the tAu compared to the uAu.
+3-087	Meanwhile, the more distinct and much higher anodic current densities were observed at both uAuNPs and tAuNPs.
+3-088	As discussed for the ORR, the AuNPs showed higher activity toward H2O2 oxidation, presumably due to the increased active surface area per unit volume.[25]
+3-089	In regard to the oxidation peak potentials, the tAuNPs exhibited a less positive peak potential (∼+0.32 V) than the uAuNPs (∼+0.43 V).
+3-090	This also confirms that the electrochemical pretreatment of Au can enhance the catalytic activity even for the oxidation of H2O2, which is in conformity with the observations for the ORR.
+3-091	In addition, H2O2 reduction was studied with CV under the same condition.
+3-092	The activity of the catalysts for H2O2 reduction was observed to be almost identical to the one for H2O2 oxidation in the order of tAuNPs > uAuNPs > tAu . uAu.
+3-093	(See the Supporting Information.)
+4-001	This study examined the effect of the electrochemical pretreatment by repetitive potential cycling on the electrocata- lytic activity of bulk Au and AuNPs under neutral conditions.
+4-002	The RDE voltammetric studies showed that the ORR became more favorable and efficient at both the Au and AuNPs after the pretreatment.
+4-003	Indeed, more positive onset potentials, higher current densities, and an increase in the n value involved (nearly to 4) were observed at the tAu and the tAuNPs compared to the corresponding untreated ones.
+4-004	In particular, for the bulk Au, a considerable positive shift in the ORR onset potential (∼ 300 mV) and a great increase in the n value (<2 to ∼4) were obtained using a simple electrochemical pretreatment.
+4-005	Considering all
+4-006	the experimental results, the observed catalytic activity was in the order of tAuNPs > uAuNPs > tAu . uAu.
+4-007	The increase in the ORR, catalytic activity by the electrochemical pretreat- ment was presumably due to the formation of thick Au oxide layers.
+4-008	The tAu and tAuNPs also exhibited an improved activity for the oxidation of hydrogen peroxide.

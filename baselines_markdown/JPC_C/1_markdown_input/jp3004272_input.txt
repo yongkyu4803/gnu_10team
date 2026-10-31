@@ -1,0 +1,250 @@
+# document_id: jp3004272
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	The decreasing availability and increasing (energetic) mining costs of fossil fuels will soon impose a shift in the type of primary energy sources and energy carriers on which our society relies.
+1-003	In particular, we must find a technologically suitable way to sustain mobility and transportation.
+1-004	Hydrogen (H2) as a fuel is considered one of the most promising energy carriers for vehicles and can potentially achieve zero CO2 emission.
+1-005	The most convenient method to store and transport hydrogen is to stock H 2 by means of physisorption or chemisorption[1] into solid-state host structures.
+1-006	The selection of a good ratio between cargo load and host structure weight is economically of critical importance.
+1-007	One of the most promising, lightweight hydrogen storage system involves the hydrogen cycling between lithium nitride, lithium imide, and lithium amide, which is supposed to occur by the activation of the following reaction processes.[2]
+1-008	Li N3 + H2 → Li NH2 + LiH (I) Li NH2 + H 2 → LiNH2 + LiH (II) The reactions I and II are expected to provide a storage potential of 10.4 wt %.
+1-009	However, the complete desorption of H2 (I) requires temperatures higher than 320 °C (∼600 K) in high vacuum (10−5 mbar).[2a] On the other hand, the alkali imide/amide transformation is an interesting process, due to the high storage density (6.5%) of LiNH 2, which can be exploited through the inverse of process II (desorption of H2).
+1-010	The knowledge of the Li 3N based storage is still considered of value for the development of solid-state storage materials in the
+1-011	© 2012 American Chemical Society
+1-012	and the Fd3m structures.
+1-013	The
+1-014	files are associated with a
+1-015	fluorite sites.
+1-016	future.
+1-017	Several experimental and theoretical studies in the gas phase have been carried out in the past years in order to understand the processes involving LiH, LiNH 2, and Li2NH and to assign the correct kinetics and reactivities.[3]
+1-018	However, processes involving solid-state mixtures and the role of diffusion of H and Li in bulk and at the interfaces are still not fully understood.
+1-019	In particular, while the crystallographic structures of LiH and LiNH2 are well established, Li2NH turned out to be a rather complex system, for which the local arrangement of Li and H atoms is still a matter of debate.
+1-020	It has been reported that the material undergoes an order−disorder transition at around360 K.[4] However, there is still no general consensus on the structures of the low- and high-temperature phases.[5,6]
+1-021	Recent results seem to indicate that the low temperature crystal structure of lithium imide has the Fd3m space group symmetry, with lattice constant of 10.1 Å.
+1-022	This structure can be seen as a reconstruction of the antifluorite lattice.
+1-023	Indeed, the NH2− ions occupy the face-centered cubic (fcc) sublattice, and the N atoms are tetrahedral coordinated to Li atoms on antifluorite sites.
+1-024	However, these latter sites are only partially occupied, since the Li atoms tend to occupy interstitial sites.
+1-025	The resulting structure has a larger unit cell and lower symmetry if compared to the antifluorite lattice (Fm3m).[6]
+1-026	The order−disorder transition occurring at 360 K involves displacements of Li atoms and the reorientation of NH groups.
+1-027	Neutron
+1-028	Received: January 13, 2012
+1-029	Revised: August 13, 2012
+1-030	Published: August 14, 2012
+1-031	The Journal of Physical Chemistry C Article
+1-032	diffraction measuraments confirmed the antifluorite structure for the high temperature phase of Li 2NH.[6]
+1-033	Several attempts have been made to identify the equilibrium distribution of Li interstitials and vacancies of the low temperature phase by means of first principle calculations.[6,7]
+1-034	It turned out to be quite difficult to build a simple model that satisfies the Fd3m symmetry and could be stabilized at finite temperature.
+1-035	More recently, two new structures have been proposed, based on the observation of the instability of the perfect antifluorite structure of Li ions along first principles molecular dynamics simulations at 300 K. Luduena et al.[8] propose a revised structure characterized by pronounced disorder of the lithium sublattice.
+1-036	Such local disorder, which cannot be detected in X-ray and neutron diffraction, is consistent with the high diffusivity of Li, eventually leading to the known phase transformation and the superionic behavior.
+1-037	From now on we denote this structure as Fd3m A. Also the structure proposed by Miceli et al.[9] comes from a close inspection of molecular dynamics trajectories which proposed still a pronounced disorder of the Li sublattice with spontaneous formation of Frenkel pairs.
+1-038	They observed that interstitial Li atoms might form tetrahedral clusters with a Li2 vacancy at their center.
+1-039	These clusters stabilize the structure by preventing further diffusion of Li interstitials.
+1-040	The smallest supercell consistent with the stoichiometry consists of 192 atoms and contains 4 vacancy-interstitials clusters evenly distributed, to balance the negatively charged constitutional vacancies.
+1-041	We call this structure Fd3m B.
+1-042	The atomistic structural parameters that discriminate among the locally disordered Fm3m structure and the two newly proposed structures, (Fd3m A) and (Fd3m B), are not directly accessible by experimental techniques.
+1-043	In this material the local disorder of the light element Li and H has a crucial role in stabilizing the structure.
+1-044	In this case it is difficult to resolve the structural details, in particular the local environment of defects, with global crystallographic probes like the X-ray diffraction.
+1-045	From the diffraction pattern the two Fd3m structures can be discriminated only from subtle changes.
+1-046	On the other hand, nuclear magnetic resonance (NMR) spectroscopy can provide a more detailed insight into the local environment.
+1-047	In this work, the characterization of the atomic structure of Li2NH, as obtained from geometry optimization or by molecular dynamics equilibration at different temperatures, is combined with the calculation of H, Li, and N NMR chemical shifts.
+1-048	The goal is to identify signatures in the NMR spectra that can be associated with specific features of the local environment and can be used to discriminate among the possible structures.
+1-049	The comparison to solid-state NMR experiments, when available, could then be used to support or invalidate given proposed structures.
+1-050	To this purpose, we first consider the results of the optimizations starting from the three structures discussed in previous works, i.e., the ideal Fm3m lattice, and the defective structures (Fd3m A) and (Fd3m B).
+1-051	These structures differ for the arrangements of Li interstitials and vacancies.
+1-052	Therefore, we look for signatures of these structural differences in their NMR spectra.
+1-053	In the second part of the discussion, the effects of equilibration at finite temperature are considered by running first principles molecular dynamics starting from the defective (Fd3m A) structure.
+1-054	The diffusion of the Li atoms occurs by hopping between interstitial sites and antifluorite lattice sites, and at higher temperatures this leads to a statistical distribution of the Li atoms closer to the higher symmetry group Fm3m.
+1-055	We discuss the possibility to recognize this transformation from NMR spectroscopy.
+2-001	■
+2-002	The starting atomic configurations employed in this study are the (2 × 2 × 2) ideal antifluorite structure with lattice constant of 5.007 Å and 128 atoms in total, the optimized coordinates of (Fd3m A, 128 atoms), as provided in ref 8, and the averaged coordinates of (Fd3m B, 192 atoms), as provided in ref 9.
+2-003	For geometry optimizations and for MD runs at lower temperatures (100 and 300 K), larger simulation cells have been used in order to take into account possible size effects on the rearrangement of defects.
+2-004	Simulation cells consisting of 1024 atoms, corresponding to 2 × 2 × 2 replicas of the smaller ones, have been used for Fm3m and (Fd3m A), while a simulation cell consisting of 768 atoms, 1 × 2 × 2 replicas of the smaller one, has been used for (Fd3m B).
+2-005	All calculations have been performed with the CP2K program package[10] and are based on density functional theory[11] in the generalized gradient approximation using the BLYP exchange-correlation functional.[12]
+2-006	For standard simu- lations the hybrid Gaussian and plane wave (GPW) formalism is employed together with the pseudopotential approximation in order to describe the interaction between valence electrons and ionic cores.
+2-007	Goedecker−Teter−Hutter pseutopotentials[13] and double-ζ MOLOPT basis sets (DZVP-MOLOPT-SR- GTH)[14] are used for all elements.
+2-008	For the expansion of the charge density in plane waves, an energy cutoff of 300 Ry is used.
+2-009	In such crowded materials, with high coordination numbers for all the species, dispersion contributions might become important.
+2-010	Therefore, empirical van der Waals corrections are always applied, following the DFT-D2 scheme proposed by Grimme.[15]
+2-011	The simulations at constant temper- atures, ranging from 100 to 900 K, have been performed starting from the optimized structure of (Fd3m A) and using a time step of 1 fs.
+2-012	The equilibration procedure at each considered temperature involves the generation of trajectories of 60 ps, of which the first 15 ps are carried out in the canonical ensemble (NVT), by controlling the temperature by means of a thermostat, the next 15 ps are performed without the thermostat to check whether the equilibrium temperature is maintained and the total energy is conserved, and the final 30 ps are in the microcanonical ensemble (NVE) and are used for the analysis.
+2-013	Radial and angular distribution functions are obtained by sampling the structure over the last 20 ps.
+2-014	Average coordinates over the same time span are extracted in order to identify possible structural motifs and to simulate the X-ray diffraction spectra.
+2-015	For the sake of comparison, the same equilibration procedure has been applied for LiH and LiNH 2 at room temperature.
+2-016	Namely, crystallographic positions and NMR spectra of these materials are well established,[16,17] and their simulation can be useful as validation of the computational set up.[8]
+2-017	All NMR calculations are based on the all-electron version of the Gaussian and augmented-plane-wave (GAPW) method as implemented in CP2K.[18] The present approach to compute the induced current density generated by the magnetic field, and consequently, the shielding tensors and the magnetic susceptibility is described in detail in ref 19.
+2-018	The standard all electron cc-pVTZ basis set[20] is employed for N atoms, while for Li and H the basis sets have been optimized ad-hoc to get the best performance within the GAPW scheme.[21]
+2-019	To be able to compare our results to experimental values, only the isotropic component of the tensor is considered and the chemical shift is computed taking as reference the tetramethylsilane (TMS) molecule for H, LiCl
+2-020	Fd3m A (red), and Fd3m B (blue).
+2-021	solvated in water for Li, and CH3NO2 for N (see Supporting Information).
+2-022	The simulated NMR spectra at finite temperature are computed by averaging over a set of snapshots extracted from the MD trajectory at every of 0.1 ps.
+2-023	The sampling set of about 200 configurations is taken from the last 20 ps of the NVE trajectory, and the NMR simulation is performed for each of them.
+2-024	The quality of this sampling procedure is confirmed by the good convergence of the shielding associated to individual atoms and by the lack of correlation among consecutive spectra (see Supporting Information).
+3-001	■
+3-002	Characterization of Li2NH-Optimized Structures.
+3-003	Structure optimizations have been carried out for the three investigated structures.
+3-004	The starting configurations are the ideal 2 × 2 × 2 antifluorite lattice for Fm3m, the structure reported in ref 8, replicated 2 × 2 × 2 times, for (Fd3m A) (for the atomic positions see Supporting Information), and the structure reported in ref 9, replicated 1 × 2 × 2 times, for (Fd3m B).
+3-005	After a geometry optimization at 0 K, all the three structures appear to be stable and only slight deviations from the initial configurations are observed.
+3-006	The structural motifs characterizing the three geometries are reported in the Supporting Information.
+3-007	The H atoms are not reported in these sketches.
+3-008	The highly ordered arrangement of Fm3m, with all NH groups collinear with the z-axis, is found to be a local minimum at 0 K, due to symmetry.
+3-009	However, as soon as some deviations from these ideal positions are introduced, for example by thermal fluctuations, the structure becomes unstable and Frenkel pairs are formed.
+3-010	In the other two structures, the distribution of Li-vacant antifluorite sites and interstitials determines the local orientation of the NH groups.
+3-011	In general the H atoms are oriented away from the Li interstitials and toward the vacancy, in order to compensate the missing positive charge.
+3-012	In (Fd3m A) only half of the Li atoms occupy antifluorite sites, while the others are located in 96 g sites (Li2).
+3-013	In the case of (Fd3m B), the distribution of vacancies and interstitials is more complex, since some N-fcc units contain all the 8 Li atoms in antifluorite sites; some contain one or two vacant antifluorite site, and some contain the tetrahedral Li- interstitial cluster coordinating a Li vacancy.
+3-014	The presence of defects introduces some distortion of the N sublattice, as it can be observed from the broader band of first neighbors in the N−N pair correlation function reported in Figure 1.
+3-015	This distortion is more pronounced in the (Fd3m B) due to the presence of the tetrahedral interstitial clusters.
+3-016	The lower degree of local order
+3-017	of the two defective structures becomes evident from the Li−Li and the Li−N pair correlation functions.
+3-018	New features appear, with respect to the optimized antifluorite structure, between 3 and 4 Å, which are related to the presence of interstitial Li atoms in the first neighbor shells.
+3-019	At longer range, the variety of occupied Li sites and the lattice distortion are responsible for an almost even distribution of Li−N and Li−Li distances.
+3-020	The loss of symmetry going from Fm3m to Fd3m is also evident in the simulated X-ray diffraction patterns (Figure 2).
+3-021	The intensities
+3-022	appearing below 20° indicate a reduced size of the Brillouine zone, i.e., larger lattice constant and the increased number of formula units per unit cell.
+3-023	These features are in agreement with experimental data.[6]
+3-024	On the other hand, the least ordered structure (Fd3m B) turns out to be the lowest in energy, being 0.05 eV per formula unit more stable than (Fd3m A) and 0.3 eV more stable than Fm3m.
+3-025	Fm3m is also the least dense structure, with an optimized volume per unit of 32.02 Å[3], while the volume per unit of (Fd3m A) is 29.74 Å[3], and for (Fd3m B) is 30.62 Å[3].
+3-026	The NMR spectra computed on the three optimized structures at 0 K are displayed in Figure 3.
+3-027	The top panels report the Li (left), H (middle), and N (right) spectra obtained from the highly symmetric Fm3m structure.
+3-028	In this case, each element is occupying only one type of site.
+3-029	The corresponding spectra show one localized feature, which indicates that the local environment for each element is basically equivalent over the whole simulation cell.
+3-030	In turn, the considerably broader distribution of the NMR chemical shift values for the (Fd3m A)
+3-031	structure (center of Figure 3) reveals strong variations in the local environment of all nuclei.
+3-032	The profile of the 7Li NMR spectrum shows three distinguished bands.
+3-033	The first above 4.4 ppm is the signal of those Li atoms in interstitial 96 g position (ratio 4 /8) (Figure 3).
+3-034	The other two, at 3.3 and 2.7 ppm, correspond to Li atoms occupying antifluorite sites but experiencing different environments due to the distribution of vacancies and interstitials.
+3-035	The H and N spectra present still a single band, but displaced by a few ppm, with respect to the Fm3m spectra, and broader, thus indicating some variations in the local environment of H and N as well.
+3-036	The number of possible different environments characterizing the (Fd3m B) structure is even larger, which is immediately recognized by the broad range over which the NMR signals are distributed.
+3-037	The spread of the spectral profile does not only involve the Li spectrum but also the H and N spectra, revealing a quite strong effect due to the lattice distortion and local distribution of vacancies and interstitials.
+3-038	As already discussed in previous works, Frenkel pairs may spontaneously form in Li 2NH, which opens a multitude of possible locations for the corresponding interstitials.
+3-039	Common theoretical and experimental tools like pair correlation functions and X-ray diffraction patterns cannot reliably discriminate between different types of defective structures, falsely suggesting that the two are substantially equivalent.
+3-040	In contrast to this, the computed NMR spectra are substantially different, because of the high sensitivity of the chemical shift to the local environment.
+3-041	Equilibration of Li2NH at finite temperature.
+3-042	By increasing the temperature, the mobility of the Li ions is enhanced, and the on-set of superionicity has also been hypothesized.[23,24]
+3-043	Thermal fluctuations at low temperature are already sufficient to destabilize the Fm3m model in favor of the formation of a defective structure with Li Frenkel pairs.
+3-044	This has been observed also in previous MD studies.[9,23,25]
+3-045	The Li hopping events are associated with the rotation of the neighboring NH groups.
+3-046	Also at finite temperature, several defects’ distributions can be stabilized, where further hopping events of the interstitial Li atoms are quite rare.
+3-047	However, it is expected that, by increasing the temperature, the mobility of the Li atoms is further enhanced, leading to shorter lifetime of individual interstitials and an increased occupation probability of the antifluorite sites.
+3-048	Recent MD simulations starting from (Fd3m B) show that above 500 K the tetrahedral clusters of interstitials dissolve and the Li interstitials start diffusing.[25]
+3-049	In this work, we follow the time evolution of the (Fd3m A) structure at finite temperature by running MD simulations.
+3-050	A wide range of temperatures has been considered, from 100 to 900 K. The atomic positions describing the equilibrated structure at 300 K are reported in table1, together with the
+3-051	Table 1.
+3-052	Atomic Positions Describing the Structure
+3-053	(Δ+0.014)
+3-054	also at the highest tested temperatures.
+3-055	On the other hand, Li hopping events and changes in the orientation of the NH groups are observed already at low temperature and become more frequent at higher temperatures.
+3-056	In particular, during the equilibration part of the trajectory, the Li interstitials, which are originally located at the 96 g sites, are redistributed.
+3-057	Most of them (∼60%) move back to the vacant antifluorite sites, the others hop into interstitial sites of 4b type (Li3), which are found between N atoms along the [100] axis.
+3-058	The displacement of Li interstitials is also associated with the reorientation of the NH groups.
+3-059	Since after the relaxation the number of Li- vacancies is reduced, more H atoms, from 3 to 4, point to the same vacant site.
+3-060	The change in the nature of the interstitials is also indicated by some modifications in the Li−Li and Li−N pair correlation functions.
+3-061	By comparing the results obtained for the optimized structure (Figure 1 middle panels) to the distribution averaged over the trajectory at 100 and at 300 K (Figure 4 top and middle panels), beside the general smoothening and broadening of the bands due to the thermal fluctuations, it is observed that the features at 3 Å disappear.
+3-062	Those peaks in the Li−Li and in the Li−N distributions at 0 K correspond to the Li2−Li2 and to the second neighbor Li2−N distances, respectively.
+3-063	At 100 and 300 K, the pronounced Li−Li peaks at 3.5 Å and 4.2 Å and the Li−N peak at 4 Å are features indicating a stable lattice close to the antifluorite structure.
+3-064	On the other hand, the first neighbor shells show tails toward larger distances due to the presence of the interstitials.
+3-065	Overall the radial distribution functions obtained at 100 and 300 K look more similar to the one computed for the optimized (Fd3m B) structure.
+3-066	This similarity is also revealed by the X-ray diffraction patterns (see Supporting Information), where the characteristic feature at 15 degrees appears, and the signal at 52° becomes more pronounced.
+3-067	This new configuration is quite stable and Li hopping events are no longer observed along the trajectories generated below 400 K. This is also verified by the analysis of the mean square displacement, as computed over the last 20 ps at 100 and 300 K, and reported in Figure 4c (100 K in blue, 300 K in green).
+3-068	Also the orientation of the NH group
+3-069	(blue), 300 K (green), and 600 K (red).
+3-070	(c) Li (top panel), H (middle panel), and N (bottom panel) root mean square displacement tracked over
+3-071	the same NVE trajectories (same color code as in parts (a) and (b)).
+3-072	remains substantially the same, with the azimuthal angle distributed between two values, 55 and 125°, conferring an antiferroelectric character to the NH sublattice.
+3-073	A sketch of the structure is proposed in Figure 5a, where the averaged positions of Li and N atoms are reported.
+3-074	ps of the NVE trajectories generated at 100 K (a) and 600 K (b).
+3-075	The
+3-076	blue spheres represent N atoms, the dark green spheres the Li atoms occupying antifluorite sites, and the light green spheres the Li interstitials.
+3-077	We also find the interstitial Li atoms (Frenkel-pair) in the
+3-078	32e position.
+3-079	However, at 300 K our rate is 0.344 instead of 0.26, as reported from experiment in the ref 6 for the Fd3m at
+3-080	low temperature.
+3-081	We have the full occupation for the 8a position too, but we have 8b full and not 48f in contrast to what
+3-082	was previously reported.
+3-083	Out of concern for the H atoms, we report the occupation of 96 g sites instead of 32e.
+3-084	This can be
+3-085	an effect of the more regular arrangement of the N atoms, at
+3-086	16c and 16d sites.
+3-087	In comparison to the experimental Ima2 structure, reported in ref 7, the average nearest-neighbor distances in our 300 K structure are larger, i.e., 2.1 vs 1.960 Å
+3-088	for Li−N and 2.5 vs 2.218 Å for Li−Li (see Figure 4).
+3-089	On the other hand, the unit cell volume is smaller, 29.74 Å[3] vs 31.76
+3-090	Å[3].
+3-091	These differences can also be related to the larger number
+3-092	of Li interstitials observed in our structure.
+3-093	The tetrahedral interstitial arrangement with Li in 32e position with an antifluorite Li inside the tetrahedron is observed after MD equilibration at finite temperature.
+3-094	This feature is observed inside a primary cell (a = 5.007 Å), while for
+3-095	Fd3m B the tetrahedral arrangement is observed between two primary cells.
+3-096	While in the optimized geometry Fd3m A, the tetrahedral structure with the Li in 96 g position contains no antifluorite Li; after MD equilibration, some Li interstitials are displaced to the 32e position, and indeed, one Li occupies an
+3-097	18581
+3-098	antifluorite site within the tetrahedron formed by these interstitials.
+3-099	The distance between the interstitial Li (32e) atoms is approximately 3.5 Å.
+3-100	The resulting atomic arrange- ment reproduces some features of the Fd3m B structure.
+3-101	However, the distance between separating the interstitial Li is about 1 Å larger.
+3-102	Since several Li interstitials move to antifluorite sites by equilibration at 300 K, the tetrahedral arrangement is not dominant; we observe only one such arrangement in the simulation box of size a = 10.014 Å.
+3-103	Moreover, the NH groups are oriented pointing to Li antifluorite vacancies and are arranged in antiferroelectric order (see Supporting Information on the azimutal angle), thus compensating the positively charged region of tetrahedral interstitials.
+3-104	We observe similar tetrahedral groups of interstitials in the 1024 atoms box, even though less frequently.
+3-105	This is an indication that the formation of these groups is not a box-size effect.
+3-106	At higher temperatures, e.g., at 600 K, the number of Li interstitials is further reduced, being, on average, only one interstitial every 8 Li atoms.
+3-107	However, the number of atoms residing at least for some time in interstitial positions increases.
+3-108	This happens because the hopping events become more frequent and involve also atoms that already occupy antifluorite sites, hence promoting the overall mobility.
+3-109	The pair distribution functions at higher temperature present broader bands that merge together, so that it is difficult to identify clear structural signatures.
+3-110	The enhanced mobility of the Li atoms is indicated by the constant increase of the Li mean square displacement (MSD), as shown in the top panel of Figure 4c.
+3-111	Each site change of one Li atom is generally associated with the reorientation of some neighboring NH groups.
+3-112	Such correlation appears also in the MSD of the H atoms that shows larger fluctuations when a hopping event occurs.
+3-113	However, the H atoms do not diffuse.
+3-114	On the other hand, the N sublattice is only slightly perturbed by these events, and the MSD of N atoms is still negligible.
+3-115	Indeed, over the last 20 ps of the trajectory generated at 600 K, five Li hopping events are observed.
+3-116	By averaging the coordinates over the same time frame (Figure 5b), some Li atoms appear to be in intermediate position between lattice sites and interstitial sites.
+3-117	These results indicate that at higher temperature the structure has on average the antifluorite symmetry.
+3-118	The Li-antifluorite sites acquire a higher occupation probability, even though the instantaneous configurations are still defective.
+3-119	However, our MD simulations are too short to collect enough statistics to have a final averaged structure that is perfectly antifluorite.
+3-120	Simulated 1H, 7Li, and 15N NMR Chemical Shift Spectra at Finite Temperature.
+3-121	The effect of the Li mobility on the NMR spectra can be investigated by sampling the chemical shielding over the trajectories generated at different temperatures.
+3-122	LiH and LiNH2 are compounds related to the imide, also playing an important role in the hydrogen cycling process mentioned in the introduction.
+3-123	The hydride and the amide structures are well established and several studies based on NMR techniques are available.
+3-124	In general, for ordered
+3-125	compounds, as reported in ref 25, to the values obtained by sampling over MD trajectories at 300 K. The standard deviations reported next to the computed averages refer to the sensitivity of the computed instantaneous NMR chemical shifts to structural fluctuations along the trajectory.
+3-126	The differences with respect to the experimental data are about 0.5 ppm, except for the Li shift in LiH, where the discrepancy to experiment is larger.
+3-127	We note that the LiH sample used in the reported experiment was prepared from LiNH 2 by milling and heating near the temperature of reaction II.[27]
+3-128	Other similar experimental studies[26,28] show spectra with two peaks for a mixture of LiNH 2 + LiH, one at around 2.7 ppm and the other around 1.9 ppm, where the 2.7 ppm signal is always assigned to LiNH 2.
+3-129	According to our results, it is reasonable to conclude that the peak at 1.9 ppm is the signature of crystalline LiH and that, in the experiment reported in ref 26, the two contributions, from LiH and from LiNH2, are still present.
+3-130	In spite of the good agreement with experiment, the average shift value cannot fully reveal important details related to variations in the local environment and to the presence of defects.
+3-131	To better understand how structural changes and, in particular, the nature and distribution of Li interstitials can affect the spectra, we investigate the details of the spectral profiles at different temperatures.
+3-132	The spectra computed at 100, 300, and 600 K are reported in Figure 6.
+3-133	We observe that at 100 K and in part also at 300 K (top and middle panels of Figure 6) the Li and the N spectra show structured profiles.
+3-134	The reason is that both elements experience different local environments due to the presence of Li Frenkel pairs.
+3-135	After equilibration at low temperature, the number of interstitials is reduced with respect to the optimized (Fd3m A) structure, being 11/68 instead of 4/
+3-136	8.
+3-137	Hence, the larger contribution in the Li spectrum, at about 4 ppm, is attributed to Li atoms on atifluorite sites (black line in Figure 6).
+3-138	The Li atoms at interstitial sites and those atoms to vacant sites are more shielded, thus giving the contributions between 3.8 and 2 ppm.
+3-139	The green and the orange lines in Figure 6 show these.
+3-140	The N atoms occupy fcc lattice sites, but most of them are coordinated with the Li interstitials, with Li−N distances between 2.4 and 2.6 Å, or have a vacancy in the first coordination shell, or both.
+3-141	The three features in the N spectrum sampled at 100 K are associated with these three
+3-142	different environments.
+3-143	Also the H spectrum shows an asymmetric tail at lower temperatures that can be attributed to the rigid orientation of the NH groups.
+3-144	However, the signature of the presence of defects is in this case less pronounced.
+3-145	All these features are smoothed out at higher temperature.
+3-146	In particular, the shoulder at 2.5 ppm of the Li spectrum disappears, due to the frequent hopping between interstitial and lattice sites and the longer residence-time in the antifluorite positions.
+3-147	Moreover, the diffusion of Li atoms induces some distortion in the N sublattice, and each N experiences different local environments along the trajectory.
+3-148	The effect on the NMR spectrum is the broadening of the band that at 600 K covers a range more similar to the large signal distribution observed for the optimized (Fd3m B) structure (see Figure 3).
+4-001	We presented an investigation of the lithium imide structure at low and high temperature, starting from structures that were previously proposed in the literature.
+4-002	The goal is to find possible fingerprints that can help in identifying the structure and the effects of Li mobility by experimental techniques, such as NMR spectroscopy.
+4-003	NMR spectroscopy is particularly suited for such a study because of its sensitivity to local environments, and it can provide valuable information also for substantially disordered systems.
+4-004	Our characterization of the three optimized structures at 0 K shows that structural parameters taking into account the long- range order and average structural properties, like pair distribution functions and X-ray diffraction patterns, are not very useful to discriminate among the variations in the local environment induced by the formation of Frenkel pairs.
+4-005	Only the NMR spectra provide a clear identification.
+4-006	In particular, different Li chemical shifts could be associated to different types of interstitial environments.
+4-007	By considering the average shift obtained over the spectral profile, the agreement obtained from the optimized (Fd3m A) structure with the available experimental data at 300 K is already quite good.
+4-008	On the contrary, the optimized structure of (Fd3m B) produces spectra distributed over larger ranges.
+4-009	This seems to be less in agreement with the experiment.
+4-010	Our results confirm that the presence of Frenkel pairs stabilizes the structure also at 0 K, in
+4-011	spite of the distortion of the N sublattice.
+4-012	At low temperature, below 400 K, the MD simulations show first relaxation processes, involving a partial reorientation of the NH groups and hopping of some interstitial Li atoms into antifluorite sites.
+4-013	However, no proper Li mobility is observed.
+4-014	Only at higher temperature the hopping events involve also the Li atoms occupying antifuluorite sites.
+4-015	The resulting disorder in the Li sublattice, with dominant occupation of antifluorite sites, is the reason why Li2NH shows, at least on average, the Fm3m space group symmetry.
+4-016	The modification of the interstitials’ distribution at lower temperature, as well as the setup of diffusive behavior at higher temperatures, are clearly captured by the calculation of the NMR chemical shift spectra.
+4-017	In particular, from the NMR chemical shift we are able to discriminate among different stable local environments.
+4-018	On the other hand, at higher temperature, these differences are smoothed out.
+4-019	The Li atoms start diffusing and experiencing all possible environments, thus leading to the order−disorder transition, as it was already observed previously.
+4-020	In conclusion, the (Fd3m A) structure, which was theoretically determined following the relaxation of the antifluorite at low temperature, is a good candidate as a low temperature structure of Li2NH.
+4-021	It is consistent with the structural parameters of other defective structures; it provides the best agreement with the available experimental NMR data and leads to the high temperature order−order transition already discussed by other authors.

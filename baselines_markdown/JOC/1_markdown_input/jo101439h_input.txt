@@ -1,0 +1,295 @@
+# document_id: jo101439h
+# extractor: kordoc-markdown-adapter-1
+1-001	Because of their impressive structural diversity,[1,2] terpenes have long served as a source of inspiration for the develop- ment of strategies and tactics in organic synthesis; however, this same diversity of architectures also renders the develop- ment of a completely general strategy for the synthesis of terpenes difficult.
+1-002	Inspired by the unusual tetracyclic archi- tecture of echinopine A[3] (1, Figure 1), we sought to develop an efficient method for synthesizing the exo-methylidenecyclo- heptane function (highlighted in red) present in this natural product.
+1-003	While contemplating potential solutions to this problem, we recognized that exo-methylidenecycloalkanes occur frequently in terpene natural products.
+1-004	To the best of our knowledge, no truly general strategy has been reported for the synthesis of this functional group arrangement that is characterized by the presence of a thermodynamically less stable exocyclic alkene.
+1-005	The majority of the reported routes to natural products containing exo-methylidenecycloalkanes utilize either ketone olefination processes,[4] the elimination of a suitable leaving group,5or an annulation sequence involv- ing a vinyl organometallic reagent or intermediate[6] to install the exocyclic alkene.
+1-006	Exemplary exo-methylidenecycloalkane-bearing terpenes include echinopine A (1),[3] caryophyllene (2),[7] teucladiol (3),[8] poitediol (4),[9] eupahualin D (7),[10] and cladiellisin (8)[11] (Figure 1); these natural products demonstrate the variety of ring sizes and substitution patterns found in this large subset of terpenes.
+1-007	Many terpenes that contain exo-meth- ylidenecycloalkanes are coproduced with their thermodynam- ically more stable endocyclic isomers as a consequence of their biogenetic derivation from cationic cyclization reac- tions[12] (see isoteucladiol [5][13] and dactylol [6],[14] Figure 1, and Scheme 1).
+1-008	An ideal strategy for accessing exo-methyl- idenecycloalkanes would also provide the flexibility to gen- erate these endocyclic isomers from late-stage intermediates; moreover, the ability to introduce diverse functional groups adjacent to the exocyclic alkene would be substantially useful.
+1-009	We recently conceived of a straightforward strategy for constructing exo-methylidenecycloalkanes.[15]
+1-010	Our two-step approach involves ring-closing olefin metathesis[16] of allyl- silanes of type 9, with subsequent SE0 electrophilic desilylation of the resultant trisubstituted allylsilane 10 to generate the exo-methylidenecycloalkane motif (11, Scheme 2a).
+1-011	(E = electrophile (H, Cl, OH, carbon electrophiles, etc.)); (b) Known
+1-012	RCM-Based Allylsilane Syntheses; (c) Sakurai’s Precedent for Accessing Both Exocyclic and Endocyclic Alkenes from a Common Cyclic
+1-013	Ring-closing metathesis of allylic silanes has been reported;[17] for example, silacycles have been forged according to the metathesis process 12 f 1318,19 (Scheme 2b), and cyclic allylsilanes with the silicon atom attached directly to the ring have also been made by RCM (see 14 f 15).[20]
+1-014	Examples of allylsilane cross-metathesis are also known (not shown).[21]
+1-015	In
+1-016	spite of all of these precedents, prior to our work, cyclic allyl- silanes of specific type 10 had never been made by RCM.
+1-017	With respect to the second key step in our strategy, myriad examples of electrophilic desilylation of allylsilanes are known.[22]
+1-018	Given these literature precedents, it was surprising that the combina- tion of these simple reaction types into a cohesive strategy to access the exo-methylidenecycloalkane motif common to many terpene natural products had never been reported.
+1-019	The closest precedent that shares the spirit of our design is the strategy reported by Sakurai in 1982,[23] which involved the Diels-Alder reaction of 2-trimethylsilylmethylbutadiene with typical dieno- philes to afford compounds of type 16, followed by SE0 electro- philic desilylation to afford the exocyclic alkene (Scheme 2c).
+1-020	Conditions for desilylation that retained the location (endo- cyclic) of the alkene were also reported.
+1-021	This report clearly docu- mented the versatility of cyclic allylsilanes of type 10 that we hoped to use in our work.
+1-022	However, because of the requisite cycloaddition step, this earlier work was limited to the genera- tion of six-membered rings.
+1-023	Virtues of the strategy outlined in Scheme 2a for the synthesis of exo-methylidenecycloalkanes include the fol- lowing: (1) Ring-closing olefin metathesis is an efficient and functional-group-tolerant method for constructing nor- mal, medium, and large rings.[16]
+1-024	(2) Allylsilanes are readily introduced by a variety of reliable procedures (see below)[24] and are relatively stable species that can be carried through multistep reaction sequences.
+1-025	(3) In addition to simple pro- todesilylation of allylsilane 10 to give 19 (Scheme 3), this versatile intermediate is amenable to multiple productive transformations to other motifs frequently found in terpene natural products, including (1) epoxidation/fluoride-mediated olefination to produce allylic alcohols of type 20;[22a,b] (2)
+1-026	halogenation via an SE0 mechanism to deliver allylic halides with exocyclic alkenes (10 f 21);[25] (3) fluoride-mediated desilylation to provide the endocyclic alkene (22) from the same allylsilane precursor (enabling the synthesis of either the more stable or the less stable alkene regioisomer at will);23band
+1-027	There are a wide variety of methods for incorporting allylsilanes into organic substrates, which adds to the overall flexibility of this approach.
+1-028	They can generally be divided into methods that bring in the allylsilane unit via a nucleo- philic reagent (Scheme 4a)[29] and methods that construct the allylsilane from other functional groups (Scheme 4b).[30]
+1-029	Of particular importance to the work described in this report are the conjugate addition reactions of cuprates derived from 2-(3-trimethysilyl-1-propenyl)magnesium bromide (26) as developed by Trost,[29a] the indium-mediated allylation of carbonyl electrophiles starting from allylic iodide 30 as de- scribed by Remuson,[29c] and the method of Bunnelle that treats esters with excess trimethylsilylmethylmagnesium chloride and cerium trichloride followed by a Peterson elimination (see 35 to 37).[30a]
+1-030	Full details describing the incorporation of the strategy shown in Scheme 2a into syntheses of teucladiol (3, Figure 1)[8] and poitediol (4)9are included below, along with a previously undisclosed account of the synthesis of the natural products isoteucladiol (5)[13] and dactylol (6)[14] from intermediates orig- inally used to make 3 and 4, respectively, and attempted
+1-031	application of this strategy to a synthesis of caryophyllene
+2-001	Although published examples of cross and ring-closing metathesis reactions involving allylsilanes are numerous, as are cases of allylsilane SE0 electrophilic desilylation, to the best of our knowledge the synthesis of an exo-methylidene- cycloalkane using the two-step sequence shown in Scheme 2a had not been reported.
+2-002	In order to establish the feasibility of this two-step reaction sequence, a model substrate, 43, was constructed as shown in Scheme 5.
+2-003	Conjugate addition of butenylmagnesium bromide to methyl cinnamate afforded known ester 42,[31] which was converted into allylsilane 43 according to Bunnelle’s protocol.[30a] Exposure of 43 to the Grubbs first-generation catalyst (see Grubbs I, Scheme 5)[32] in dichloromethane at reflux afforded the homodimer 44 in 65% yield.
+2-004	The desired cyclic trisubstituted allylsilane 45 was not detected in the crude reaction mixture.
+2-005	This result was not surprising, because it is known that this relatively unreactive catalyst often fails to effect the formation of cyclic trisubstituted olefins.[33]
+2-006	Exposure of 43 to the Grubbs second- generation catalyst (Grubbs II)[34] furnished allylsilane 45 in 89% yield, which underwent smooth SE0 protodesily- lation[23a] in the presence of p-TsOH.
+2-007	The exo-methylidene- cyclohexane product (46) proved to be very stable to p-TsOH in Et2O; exposure of this compound to excess acid for 24 h did not lead to isomerization to the more stable endocyclic alkene.
+2-008	With success in this simple model system, we aimed to demonstrate its utility in complex contexts by incorporat- ing this two-step strategy into discrete syntheses of teucladiol
+2-009	Teucladiol: Background.
+2-010	Teucladiol (3, Figure 1) is a guaiane sesquiterpene that was first isolated in 1993 by de la Torre and co-workers[8] from the aerial parts of Teucrium leucocladum, a flowering plant found in Egypt.
+2-011	The structure and relative stereochemistry of teucladiol were determined using a combination of one- and two-dimensional NMR techniques.
+2-012	Since this initial disclosure, teucladiol has been isolated from a variety of terrestrial sources[35] including the Egyptian weed Pluchea dioscoridis,[13] the green rabbitbrush (Chrysothamnus viscidiflorus) in the western United States,[35a] the aerial parts of the plant Croton arboreous in Mexico,[35b] the stem of the peacock flower (Caesalpinia pulcherrima) in Thailand,[35c] the rhizome of the plant Notopterygium incisum
+2-013	in China,[35d] and the aerial parts of the flowering plant Cleome droserifolia in Saudi Arabia.[35e] Mabry and co-workers have shown teucladiol to be moderately cytotoxic against
+2-014	the MCF-7 and MDA-MB-435 breast cancer cell lines with EC50 = 50 μg/mL.35aNo synthesis of teucladiol has been re- ported prior to (or since) our initial communication in 2009.[15]
+2-015	The major synthetic challenge posed by teucladiol involves the controlled installation of five contiguous stereogenic centers, four of which are present on the seven-mem- bered ring embedded in teucladiol’s bicyclo[5.3.0]decane framework.[36]
+2-016	Teucladiol: Retrosynthetic Analysis and Synthetic Planning.
+2-017	Our general retrosynthetic plan for teucladiol is shown in Scheme 6.
+2-018	It was anticipated that teucladiol could be generated from ketone 47 in two steps via substrate-controlled methyl- cerium addition followed by allylsilane protodesilylation.
+2-019	Ke- tone 47, in turn, would be derived from diene 48 through a ring-closing olefin metathesis reaction.[37]
+2-020	This compound (48) was envisioned to arise from a diastereoselective tandem vicinal difunctionalization reaction[38] between cyclopentenone (49), an organometallic reagent (50) derived from 2-bromoallyltri- methylsilane (25, Scheme 4a), and aldehyde 51.[39]
+2-021	If successful, this three-component coupling process[38a] would set four of the five stereogenic centers found in teucladiol and assemble all but one of the necessary carbon atoms.
+2-022	With respect to the proposed three-component coupling reaction (49 þ 50 þ 51 f 48), Snider has shown that conjugate addition of the organocuprate derived from
+2-023	metalation of 2-bromopropene to cyclopentenone and trap- ping of the resulting enolate with pivaldehyde gives 53 as a single diastereomer in 80% yield (eq 1).40The stereochemical result of this reaction is consistent with trans-addition of the nucleophile and electrophile and anti-selective aldol addition of the ring-constrained E-enolate proceeding via a closed transition state.
+2-024	The three contiguous stereocenters found in 53 map directly onto teucladiol (3) with the correct relative configuration, which indicated that a related three-component coupling process might be suitable for a synthesis of teucladiol.
+2-025	It was further anticipated that aldol coupling of the racemic enolate (()-54 (Scheme 7), derived from conjugate addition of cyclopentenone (49) and organometallic 50, with aldehyde (()-51, might proceed with a high level of double diastereodifferen- tiation[41] to provide the desired stereoisomer (()-48 with the correct relative configuration at the isopropyl-bearing C7.
+2-026	The pertinent aldol addition is anticipated to proceed through a closed transition state; this prediction is supported by the stereochemical outcome of Snider’s three-component coupling reaction.
+2-027	The transition-state assembly between enolate (R)-54 and aldehyde (S)-51 depicted as 55 at the top of Scheme 7 (or the enantiomeric pair of (S)-54 and (R)-51, not shown) corre- sponds to a Felkin-Anh addition, a preference that is known to be enhanced when E-enolates are employed,[42] and would
+2-028	3 3 2
+2-029	6b Cul PBu Et O -78 2.0 15%
+2-030	3 3 2
+2-031	9c CuCN Et2O/hexanes (3:1) -78 2.0 34%
+2-032	10c CuCN Et2O/THF (19:1) -78 2.1 60%d
+2-033	aIsolated yield after column chromatography. b1 equiv of 25 and 2 equiv of t-BuLi were used in this reaction. c2.2 equiv of 25, 4.2 equiv of t-BuLi, and 1.05 equiv of CuCN were used in this reaction. ddr of reaction as determined from crude 1H NMR: g10:1.
+2-034	produce the diastereomer required for a synthesis of teucladiol. it was isolated in low and variable yields (15-28%).
+2-035	The major In contrast, aldol coupling between (R)-54 and (R)-51 corres- identifiable side products resulted from oxidative dimerization ponding to 56 (or the enantiomeric pair (S)-54 and (S)-51, not of the cuprate and 1,2-addition to cyclopentenone.
+2-036	Subsequent shown) should be disfavored due to the presence of a destabiliz- experiments examined the use of other copper sources, and ing interaction between the bulky isopropyl group and the vinyl copper cyanide emerged as the reagent of choice for this hydrogen of the cyclopentene in the pretransition-state assem- reaction, routinely affording the desired product in 35% yield bly.
+2-037	This predicted preference of reactivity of one enantiomer (entry 7).
+2-038	Utilizing two equivalents of the readily available of enolate with one enantiomer of aldehyde would represent aldehyde (()-51 provided a modest improvement in yield an interesting and unusual example of double stereodifferentia- (entry 8).
+2-039	Optimization of solvent demonstrated that a 19:1 tion/kinetic resolution of two chiral but racemic reaction mixture of diethyl ether/THF proved ideal among those partners. examined, furnishing the desired product in g10:1 diastereo- Trost first demonstrated the utility of 2-metalated allyl- selectivity as determined by 1H NMR analysis of the crude silane reagents in organic synthesis in the early 1980s.
+2-040	For reaction product and in 60% isolated yield after column example, the Grignard reagent 26 (Scheme 4) derived from chromatography (entry 10).
+2-041	These results suggest that small 2-bromoallyltrimethylsilane (25) was shown to add in a quantities of THF help to suppress oxidative dimerization of conjugate manner to cyclohexenone in high yields in the the cyanocuprate; on the other hand, when used as the sole presence of catalytic copper(I) iodide.[29a] Attempts to form solvent, THF appears detrimental to aldol addition (entry 4).and utilize stoichiometric cuprates derived from reductively The high level of diasteroselection observed in this three- metalated derivatives of 2-bromoallyltrimethylsilane were component coupling reaction indicates that there is a strong reported to be unsuccessful,[29a] because the desired reactivity kinetic preference for aldol coupling between (R)-54 and (S)-51 was complicated by competitive oxidative dimerization of (and its enantiomeric pair) relative to that between (R)-54 and the cuprate.
+2-042	This result caused us some concern regarding the (R)-51 (and its enantiomeric pair), as predicted by the analysis feasibility of the proposed three-component coupling reac- shown in Scheme 7.
+2-043	tion (49 þ 50 þ 51 f 48) because the majority of high- With a reliable route to aldol adduct 48 in hand, subse- yielding tandem vicinal difunctionalization reactions that quent efforts focused on converting this material into teu- are triggered by the addition of an organocuprate to a cyclic cladiol (Scheme 8).
+2-044	Attempted ring-closing olefin metathesis conjugate acceptor utilize stoichiometric cuprates.[38,40] of 48 failed, likely due to coordination of the intermediate Teucladiol: Synthesis.
+2-045	Table 1 outlines our attempts to ruthenium alkylidene with the pendant alcohol.[44]
+2-046	While in situ develop a one-pot tandem vicinal difunctionalization sequence protection of the hydroxy group with Lewis acids was to access 48.
+2-047	Initial experiments adhered closely to the proce- considered,[45] we opted to mask the secondary alcohol with dure used by Snider in his synthesis of 53 (eq 1),[40] which a triethylsilyl ether to aid in both the ring-closing metathesis involved reductive lithiation[43] of 2-bromoallyltrimethylsilane reaction and a later step.
+2-048	Silyl ether 58 underwent smooth in diethyl ether, forming the stoichiometric Gilman reagent, ring-closing olefin metathesis in the presence of the Grubbs treating the resultant cuprate with cyclopentenone, and trap-
+2-049	ping the resulting enolate with aldehyde (1 ()-51 at -78 °C (44) For other examples of unsuccessful RCM in the presence of a free (entry 1, Table 1).
+2-050	H NMR analysis of the crude reaction alcohol, see: (a) Rhee, H. J.; Beom, H. Y.; Kim, H.-D. Tetrahedron Lett.
+2-051	mixture suggested that the reaction had proceeded with a useful 2004, 45, 8019–8022.
+2-052	(b) Fujiwara, K.; Koyama, Y.; Doi, E.; Shimawaki, K.;
+2-053	Ohtaniuchi, Y.; Takemura, A.; Souma, S.-I.; Murai, A. Synlett 2002, 1496–
+2-054	level of diastereoselectivity to provide 48 (see below); however, 1499.
+2-055	second-generation catalyst (see Grubbs II in Scheme 5) to furnish bicyclic 59 in 89% yield.
+2-056	NOESY and COSY NMR analysis of 61 (the TMS congener of 59) confirmed the expected and desired stereochemical outcome of the three-component coupling reaction.
+2-057	It was anticipated that addition of a methyl nucleophile to ketone 59 would proceed with a high level of diastereoselec- tion to give 60 as a result of steric shielding of the re-face of the ketone by the adjacent triethylsilyl ether.
+2-058	Slow addition of 59 as a solution in THF to the organocerium reagent[46] derived from methyllithium at -95 °C with gradual warming to -78 °C afforded an 87:13 mixture of diastereomers at C4, which were isolated in a combined 92% yield.
+2-059	These two isomers were separable, and the desired diastereomer was isolated in 71% yield.
+2-060	Exposure of 60 to p-toluenesulfonic acid in diethyl ether led to protodesilylation of both the allylsilane and the silyl ether to afford racemic teucladiol (3) in 85% yield.
+2-061	Alternatively, exposure of 60 to CsF, KOt-Bu, and 1,3-diaminopropane in DMSO at 150 °C under micro- wave irradiation afforded the natural product 4β,6β-dihydroxy-1R,5β(H)-guai-9-ene (iso-teucladiol, 5)[13] in 76% yield and in moderate purity (contaminated with small quantities of teucladiol), thus demonstrating the versatility of cyclic allylsilane 60 in particular and this strategy for terpene synthesis in general.
+2-062	The optimized route to racemic teucladiol required a total of five operations from cyclopentenone and known aldehyde 51 and proceeded in 28% overall yield.
+2-063	Besides featuring a high level of step[47] and redox[48] economy, this synthesis constitutes one of the most concise synthetic routes to a guaiane sesquiterpene.
+2-064	Notable features include a highly diastereoselective three-component coupling reaction that establishes four contiguous stereogenic centers, the use of an allylsilane RCM/SE0 sequence to construct the exo-methyliden- ecycloalkane motif, and the efficient use of a TES protecting group, which served to enable the key ring-closing olefin metathesis reaction, likely influenced the diastereoselectivity
+2-065	of the methylcerium addition reaction, and was efficiently removed under conditions required for SE0 protodesilylation of the allylsilane.
+2-066	Enantioselective Synthesis of (-)-Teucladiol.
+2-067	A synthesis of enantiomerically enriched teucladiol was realized by incorporating enantiomerically enriched aldehyde (-)-51 into a modified version of the three-component coupling sequence shown above (Scheme 9).
+2-068	Aldehyde (-)-51 could be prepared in enantiomerically enriched form through utilization of the Myers pseudoephedrine amide alkylation technology[49] or in fewer steps through organocatalytic SOMO R-allylation of isovaleraldehyde using a modified version of MacMillan’s procedure.[26,50]
+2-069	Enolsilane (()-68 was produced in racemic form through conjugate addition of the cyanocuprate derived from 2-bromoallyltrimethylsilane 25 to cyclopentenone fol- lowed by trapping of the resulting enolate with TMSCl.
+2-070	Regeneration of the corresponding lithium enolate from enol- silane (()-68 was achieved through treatment with n-BuLi; addition of anhydrous zinc chloride[51] presumably led to the zinc enolate, which was trapped with enantiomerically enriched aldehyde (-)-51 (precursor alcohol (-)-67 had 95% ee) to give (-)-48 in 36% yield (theoretical maximum ca. 50%) and 88% ee.[52]
+2-071	Conversion of (-)-48 into (-)-teucladiol (3) was achieved using the same four-step sequence from our synthesis of (()-teucladiol (Scheme 8) and proved that the absolute configuration of natural teucladiol is that depicted in Figure 1 and Scheme 8.
+2-072	Incorporating aldehyde (-)-51 into the identical one-pot, three-component coupling sequence utilized for the synthesis of (()-48 delivered (-)-48 in 35% yield (theoretical maximum ca. 50%) and 83% ee.
+2-073	Although the yields for these two procedures are essentially the same, it appears that the use of the zinc enolate generated from enolsilane (()-68 in the stepwise procedure leads to slightly better retention of enantioselectivity.
+2-074	While an ideal enantioselective synthesis
+2-075	aDMP = Dess-Martin periodinane.
+2-076	of (-)-48 would incorporate enantioenriched enolate (R)-54, the asymmetric conjugate addition of sp[2]-hybridized organo- metallics to cyclopentenone with productive use of the resulting enolate is not a well-developed process.[53]
+2-077	Our goal was simply to use inexpensive materials to rapidly determine the absolute configuration of teucladiol.
+2-078	Poitediol: Background.
+2-079	Poitediol (4) was isolated by Feni- cal and Clardy from the red seaweed Laurencia poitei in 1978 in the waters off the coast of the Florida Keys.[9]
+2-080	This unusual cyclooctane-containing natural product is thought to arise from a halogen solvolysis/rearrangement sequence of a more typical sesquiterpene skeleton, although no specific bioge- netic postulate has been put forth.[54]
+2-081	As a result, and unlike most sesquiterpenes that display exo-methylidenecycloal- kanes, poitediol’s exocyclic alkene is not directly adjacent to a ring junction.
+2-082	The structure of poitediol was secured by X-ray crystallographic analysis.
+2-083	Gadwood reported the only prior synthesis of poitediol in 1984.[55]
+2-084	While his synthesis elegantly exploits an oxy-Cope rearrangement to forge poi- tediol’s eight-membered ring, the entire route required 26
+2-085	steps and proceeded in approximately 1% overall yield.
+2-086	Five syntheses of the related cyclooctene natural product dactylol (6, Scheme 10) have been reported;[55b,56] F€urstner’s efficient 1996 synthesis of this sesquiterpene[56e] was one of the first to showcase the effectiveness of RCM for medium-ring forma- tion (see below) and served as an inspiration for our study toward poitediol.
+2-087	It is also noteworthy that Gadwood was able to transform synthetic poitediol into dactylol under dissolving metal reducing conditions.[55b,56a]
+2-088	Poitediol: Retrosynthetic Analysis and Synthetic Planning.
+2-089	Eight-membered rings are widely considered to be the most difficult ring size to construct due to the presence of desta- bilizing transannular interactions and ring strain.[57]
+2-090	Over the past decade and a half, however, ring-closing metathesis has emerged as a useful method for directly forming eight-membered rings.[58]
+2-091	In this context, poitediol was viewed as an attractive target, as it would allow us to test the applica- bility of our allylsilane RCM/SE0 strategy for the synthesis of exo-methylidenecyclooctenes, in this case with the simulta- neous stereoselective introduction of an adjacent hydroxyl group.
+2-092	Thus, poitediol (4) would be derived from allylsilane
+2-093	69 (Scheme 10), which molecular models suggest should undergo diastereoselective allylsilane oxidation in the desired sense, as the re-face appears to be blocked by the adjacent OTMS moiety as a result of the conformational bias of the cyclooctene ring.
+2-094	Allylsilane 69 would be produced through RCM of diene 70, which would be derived from ketone 71 through an allylation reaction.[29c] Ketone 71 is known; it was a key intermediate in F€urstner’s synthesis of dactylol (6).[56e]
+2-095	Poitediol: Synthesis.
+2-096	Our synthesis of poitediol makes use of a slight modification of F€urstner’s procedure for produc- ing ketone 71, an important intermediate in his dactylol synthesis.
+2-097	Tandem vicinal difunctionalization of cyclopente- none with dimethylcuprate and the commercially available aldehyde 72 gave adduct 73 in 93% yield (Scheme 11).
+2-098	In our hands, the use of copper bromide 3 dimethylsulfide complex in this three-component coupling reaction afforded a much better yield of 73 than we obtained using F€urstner’s procedure, which utilized copper iodide 3 tributylphosphine complex.
+2-099	The aldol adduct 73 was dehydrated with methanesulfonyl chloride in the presence of DMAP and triethylamine to furnish enone 74.
+2-100	Chemo- and stereoselective reduction of the enone was achieved with tributyltin hydride in the presence of catalytic Pd(PPh3)4 and zinc chloride to afford ketone 71 as a single diastereomer in 79% yield over two steps.
+2-101	The stereochemical
+2-102	result of this reaction is consistent with the known tendency of 2,3-disubstituted cyclopentenone-derived enols to give the thermo- dynamically preferred trans-product following kinetic protona- tion.[59]
+2-103	Indium-mediated reductive allylation of ketone 71 with allyl iodide 30 followed by in situ silylation gave 70 in 55% yield as a 4:1 mixture of diastereomers in favor of the isomer shown.
+2-104	This method of allylsilane introduction is distinct from that employed in our teucladiol synthesis and represents the third different method for introducing this key functionality showcased in this report.
+2-105	Exposure of the diastereomeric mixture of 70 to the Grubbs second-generation catalyst (see Grubbs II in Scheme 5) in refluxing dichloromethane gave crude cyclooctene 69, which was epoxidized with buffered m-CPBA.
+2-106	Fluoride-promoted fragmentation of this crude silyl epoxide with TBAF furnished pure poitediol (4) in 46% yield over three steps from 70.
+2-107	While this sequence does not techni- cally make use of the SE0 reactivity of the allylsilane, the net transformation accomplished just such an oxidation.
+2-108	The structure of synthetic poitediol was confirmed by X-ray crystallo- graphic analysis, since a complete set of NMR data was not available.[9]
+2-109	The versatility of cyclic allylsilane 69 was demon- strated by its transformation into the natural product dactylol
+2-110	Caryophyllene: Background, Retrosynthetic Analysis, and Synthetic Planning.
+2-111	Caryophyllene (2) is a widely distributed natural product that is most abundantly produced by the clove tree Eugenia caryophyllata.[7]
+2-112	This sesquiterpene has attracted a significant amount of interest from synthetic chemists as a result of its intriguing trans-fused bicyclo- [7.2.0]decane carbon framework, which incorporates both an exo-methylidene function and an endocyclic trisubsti- tuted E-alkene.[60]
+2-113	Our interest in this natural product is derived from the presence of the exo-methylidenecyclono- nene, which suggested that a concise approach to caryophyl- lene might be possible through utilization of our allylsilane RCM/SE0 desilylation strategy.
+2-114	Thus, the key step in our proposed sequence toward caryophyllene would be ring-closing olefin metathesis of 78 to generate cyclononene 77 (Scheme 12).
+2-115	Examination of molecular models suggested that this transformation is feasible, and several examples of successful cross-metathesis[61] and ring-closing[62] olefin me- tathesis reactions of 1,4-dienes have been reported; however,
+2-116	there was some concern regarding the viability of this key ring-closing metathesis reaction because it is known that the formation of trisubstituted olefins in nine- to 12-membered rings using ring-closing olefin metathesis can be difficult, especially when one of the alkenes in the substrate is R- branched.[63-66] Despite these concerns, we reasoned that the substrate for the key ring-closing metathesis reaction, triene 78, should be relatively easy to construct; the allylsilane function in this triene would be derived from the correspond- ing ester 79 using Bunnelle’s methodology.[30a] The ester precursor to the allylsilane would, in turn, enable its forma- tion via conjugate addition reaction of the organocuprate derived from Grignard reagent 81 to known cyclobutene 80.
+2-117	Diene 82 is a known, easily prepared compound that should serve as a reasonable precursor to an organometallic reagent such as 81.
+2-118	Caryophyllene: Attempted Synthesis.
+2-119	The known cyclobu- tene ester 80 was prepared using a modification of Fleming’s procedure (Scheme 13).[67]
+2-120	Thermal [2þ2] cycloaddition be- tween methyl acrylate and enamine 83 derived from pyrrol- idine and isobutyraldehyde gave cyclobutane 84, which was quaternized with methyl iodide.
+2-121	The resulting ammonium salt was treated with methanolic sodium methoxide in pen- tane to furnish cyclobutene ester 80 in 84% yield over four steps.
+2-122	Although this sequence of reactions is identical to Fleming’s original route to this useful cyclobutene,[67] the overall yield is much improved, and the total time for the sequence is dramatically decreased.
+2-123	The known TBS-protected alcohol 82 was prepared using a nickel-catalyzed three-component coupling process devel- oped by Ikeda and co-workers.[68]
+2-124	Treatment of 82 with bromine/triphenylphosphine afforded alkyl bromide 86 directly[69] in nearly quantitative yield, which was trans- formed into the corresponding Grignard reagent (81) under standard conditions.
+2-125	In the presence of trimethylsilyl chloride, DMPU, and a catalytic amount of copper bro- mide 3 dimethylsulfide complex, Grignard reagent 81 under- went smooth conjugate addition to cyclobutene ester 80 to give 79 in 67% yield as a 5:1 mixture of diastereomers in which the major isomer was tentatively assigned the trans- configuration.[70]
+2-126	Conversion of the ester function in 79 into
+2-127	an allylsilane was accomplished via Peterson olefination to give allylsilane 78 in 53% unoptimized yield as an apparent 9:1 mixture of diastereomers.
+2-128	With the key intermediate in hand, efforts were focused on effecting the challenging ring-closing olefin metathesis reaction to generate the cyclono- nene ring (78 f 77).
+2-129	Unfortunately, and despite extensive evaluation of various metathesis initiators (Grubbs second-generation catalyst, Hoveyda-Grubbs second-generation catalyst,[71] Schrock catalyst,[72] and several others) under various sets of conditions (dichloromethane, toluene, or hexanes at reflux, all at ca. 1 mM), the desired cyclononene 77 was never detected.
+2-130	Instead, the major identifiable prod- uct of the reactions was 87, the result of a deallylation reaction.
+2-131	The highest yield of this compound was achieved when 78 was exposed to the Grubbs second-generation catalyst (see Grubbs II in Scheme 5) in hexanes at reflux (75%).
+2-132	Attempts to circumvent this destructive process included masking the trisubstituted alkene as its correspond- ing epoxide (which would have ultimately provided cary- ophyllene oxide, not shown).
+2-133	While the deallylation process was certainly prevented, this substrate decomposed appar- ently without ring closure upon exposure to Grubbs II at 100 °C in toluene.
+2-134	To the best of our knowledge, the metal alkylidene-promoted deallylation of 1,4-dienes is a novel process.
+2-135	A potential mechanism for the transformation of 78 into 87 is shown in Scheme 14.
+2-136	According to this proposal, dimeriza- tion of starting material is followed by metathetical cleavage of one of the trisubstituted olefins of dimer 89 to afford one equivalent of 87 and metal carbene 91.
+2-137	In the case where the dimer was produced with the new alkene Z-configured,
+2-138	ring-closing olefin metathesis with the remaining trisubsti- tuted alkene within 91 would generate a molecule of 1,4-cyclohexadiene (92)[73] and eventually a second molecule of 87 (via metal alkylidene 93).
+2-139	In order to provide further circum- stantial evidence for this mechanistic proposal with another, simpler substrate, the trisubstitued skipped diene 86 was exposed to the Grubbs second-generation catalyst in CDCl3 in a closed reaction vessel and heated to 40 °C. After 2 h, 1H NMR analysis of the reaction mixture showed a 0.4:1 mixture of 92 and 95.
+2-140	Another mechanistic scenario that cannot be ruled out at this time involves direct catalyst attack on the trisubstituted alkene of the starting material: in effect, a cross-metathesis deallylation procedure that could certainly eventuate molecules of 1,4-cyclohexadiene.
+2-141	The simplest and most direct mechanistic possibility, involving ring-closing metathesis of 88 to generate cyclopropene, is unlikely from an energetic standpoint.
+2-142	All mechanistic sce- narios that we have entertained to this point are troubling in one way or another.
+2-143	For example, the dimerization-based mechanism shown in Scheme 14 requires selective intermo- lecular metathesis of a trisubstituted alkene in the presence of a disubstituted one.
+2-144	Clearly, more experiments are required to gain a better mechanistic understanding of this interesting deallylation reaction that apparently becomes operative with 1,4-dienes when more kinetically favored metathetical pro- cesses are not available.
+3-001	Allylsilane ring-closing metathesis/SE0 electrophilic desi- lylation is a powerful strategy for synthesizing exo-methyl- idenecycloalkanes that are embedded in numerous terpene natural products.
+3-002	The power of this strategy has enabled concise syntheses of teucladiol (racemic: five steps, 28% overall yield; enantioenriched: five steps, 16% overall yield) and poitediol (seven steps, 18% overall yield).
+3-003	Syntheses of the natural products iso-teucladiol and dactylol, as well as unnatural analogues, were realized using advanced inter- mediates en route to teucladiol and poitediol, respectively.
+3-004	Attempted incorporation of this strategic combination of
+3-005	the Proposed Mechanism
+3-006	reactions into a synthesis of caryophyllene failed to deliver the natural product because a novel deallylation reaction of the starting 1,4-diene preempted the challenging ring closure.
+3-007	Because of the ubiquity of the exo-methylidenecycloalkane motif in terpene natural products, many more applications of the allylsilane RCM/SE0 strategy in natural product synthesis are likely.
+4-001	General Experimental Details.
+4-002	All reactions were performed under a nitrogen or argon atmosphere using oven-dried glass- ware.
+4-003	All solvents were dried by passing through activated alumina columns.
+4-004	1H and 13C NMR spectra were obtained on 500 or 600 MHz spectrometers at 298 K, unless otherwise indicated.
+4-005	Chemical shifts are reported in parts per million (ppm) using the internal solvent residual of CDCl3 at 7.26 for 1H NMR and 77.23 for 13C NMR as the internal reference.
+4-006	Coupling constants are reported in hertz (Hz), and the peak multiplicity is listed as follows: s, singlet; d, doublet; t, triplet; q, quartet; p, pentet; m, multiplet.
+4-007	Column chromatography was performed using 230-400 mesh silica gel (SiO2) or 230-400 mesh high-preformance silica gel with the indicated solvent system.
+4-008	Reactions were monitored by thin-layer chromatogra- phy (TLC) carried out on 0.25 mm coated commercial silica gel plates (F254 precoated glass plates) using iodine as visualizing agent and vanillin or KMnO4 and heat as a developing agent.
+4-009	Melting points are uncorrected. p-Toluenesulfonic acid monohydrate was dried by azeotropic removal of water with toluene and recrystallized from hexanes/ethyl acetate prior to use.
+4-010	DMPU was distilled from CaH under reduced pressure.
+4-011	Chlorotrimethylsilane was distilled from CaH at atmospheric
+4-012	pressure.
+4-013	Compounds not included in this Experimental Section have been previously documented in ref 15.
+4-014	Isoteucladiol (5).
+4-015	Argon was bubbled through a mixture of 60 (7.00 mg, 0.017 mmol), CsF (25.0 mg, 0.165 mmol), KOt-Bu (18.0 mg, 0.165 mmol), and 1,3-diaminopropane (0.013 mL, 0.165 mmol) in DMSO (0.6 mL) for 20 min.
+4-016	The reaction mixture was sealed and heated to 150 °C in a microwave for 45 min.
+4-017	The cooled black reaction mixture was poured into saturated aqueous NH4Cl (10 mL) and extracted with Et2O (2 15 mL).
+4-018	The combined organic layers were washed with brine (10 mL), dried over MgSO4, filtered, and evaporated in vacuo to afford an apparent 4:1 mixture of isoteucladiol/teucladiol by[1] H NMR as a clear oil.
+4-019	The crude material was purified by column chromatography (HP SiO2, 98:2 to 92:8 hexanes/EtOAc) to afford 5 (3 mg, ca. 85% pure, 76% yield) as a clear oil.
+4-020	R f = 0.28 (65:35 hexanes/EtOAc); spectral data were obtained on a cut fraction and were consistent with those reported previously for the natural product.131H NMR (500 MHz, CDCl3) δ 5.50 (d, J = 9.3 Hz, 1H), 4.14 (m, 1H), 2.44 (s, 1H), 2.25-2.35 (m, 2H), 2.26 (d, J = 3.0 Hz, 1H), 2.09 (dd, J = 12.0, 9.5 Hz, 1H), 1.88-1.60 (m, 6H), 1.66 (s, 3H), 1.32 (s, 3H), 1.25-1.30 (m, 1H), 1.03 (d, J = 6.6 Hz, 3H), 0.96 (d, J = 6.6 Hz, 3H); 13C NMR (125 MHz, CDCl3 ) δ 139.5,126.4,81.4,72.6,57.7,50.7,42.5, 40.1, 28.7, 26.8, 24.5, 24.4, 23.4, 21.7, 21.6; IR (thin film) ν 2958, 1455 cm-1; HRMS (ESI) m/z calc for C15H26O2Na (M þ Na)þ261.1830, found 261.1837.
+4-021	Dactylol (6).
+4-022	A solution of crude allylsilane 69 (27.0 mg, 0.074 mmol) [from the ring-closing metathesis reaction of 70] and CsF (11.3 mg, 0.074 mmol) in a mixture of H2O (0.05 mL) and DMF (0.75 mL) was heated to 120 °C for 4 h.
+4-023	The cooled reaction mixture was treated with more CsF (40.0 mg, 0.263 mmol) and again heated to 120 °C. After an additional 3.5 h, the cooled
+4-024	reaction mixture was poured into NH4 Cl (15 mL) and extracted with Et2 O (2 15 mL).
+4-025	The combined organic layers were dried over MgSO4, filtered, and evaporated in vacuo.
+4-026	The crude material was purified by column chromatography (SiO2, 100:0 to 98:2 hexanes/EtOAc) to afford 6 (8 mg, 62% from 70) as a white solid with mp = 45-47 °C [lit.[14] 50.3-51.5 °C].
+4-027	Spectral data were consistent with those reported previously.[56e] Rf = 0.38 (9:1 hexanes/EtOAc); 1H NMR (500 MHz, CDCl3) δ 5.51-5.55 (m, 1H), 2.40 (d, J = 13.5 Hz, 1H), 2.19 (d, J = 13.5 Hz, 1H), 1.98 (dd, J = 12.9, 10.5 Hz, 1H), 1.88-1.95 (m, 1H), 1.84 (s, 3H), 1.71-1.76 (m, 3H), 1.59 (dd, J = 6.7, 13.2 Hz, 1H), 1.39 (dd, J = 7.84, 14.6 Hz, 1H), 1.13-1.20 (m, 1H), 1.10 (dd, J = 7.8, 11.3 Hz, 1H), 0.97 (d, J = 6.6 Hz, 3H), 0.92 (s, 3H), 0.91 (s, 3H), 0.83 (d, J = 14.6 Hz, 1H); 13C NMR (125 MHz, CDCl3 ) δ 135.5,125.1,83.4,53.0,42.9,40.1,39.32,39.26,36.6, 35.3, 29.4, 28.9, 27.9, 19.3; IR (thin film) ν 2951,2866,1469,
+4-028	1015, 859 cm-1; HRMS (NH3-CI GCMS) m/z calc for C15H30NO (M þ NH4)þ 240.2327, found 240.2335.
+4-029	Isodactylol (75).
+4-030	[Note: As described below, this reaction was worked up several times in order to monitor the progress of the reaction by[1] H NMR, because TLC analysis was not possible.] A solution of 69 (30.0 mg, 0.082 mmol) in Et2O (1.6 mL) was treated with p-TsOH (28.0 mg, 0.162 mmol), and the solution was stirred at rt.
+4-031	After 1.66 h, the reaction mixture was poured into saturated aqueous NaHCO3 (10 mL) and extracted with Et2O (2 15 mL).
+4-032	The combined organic layers were dried over MgSO4, filtered, and evaporated in vacuo to afford a clear oil, which was diluted with Et2O (1.6 mL) and treated with p-TsOH (28.0 mg, 0.162 mmol).
+4-033	After 2.25 h, the reaction mixture was poured into saturated aqueous NaHCO3 (10 mL) and extracted with Et2 O (2 15 mL).
+4-034	The combined organic layers were dried over MgSO4, filtered, and evaporated in vacuo to afford a clear oil, which was diluted with Et2O (1.2 mL) and treated with p-TsOH (28.0 mg, 0.162 mmol).
+4-035	After 4 h, the reaction mixture was poured into saturated aqueous NaHCO3 (10 mL) and extracted with Et2O (2 15 mL).
+4-036	The combined organic layers were dried over MgSO4, filtered, and evaporated in vacuo to afford a clear oil.
+4-037	The crude material was purified by column chromatography (SiO2, 100:0 to 98:2 hexanes/EtOAc) to afford 75 (13 mg, 71%) as a white solid with mp = 37-39 °C. R f = 0.45 (9:1 hexanes/EtOAc); 1H NMR (500 MHz, CDCl3) δ 4.99 (s, 1H), 4.79 (s, 1H), 2.40-2.47 (m, 3H), 2.20-2.56 (m, 1H), 2.17 (d, J = 12.9 Hz, 1H), 1.97 (ddt, J = 7.4, 9.1, 13.0 Hz, 1H), 1.80-1.85 (m, 1H), 1.65-1.78 (m, 3H), 1.34 (dd, J=14.9, 6.9 Hz, 1H), 1.10-1.20 (m, 2H), 1.02 (dd, J = 6.9, 11.3 Hz, 1H), 0.95 (d, J= 6.7 Hz, 3H), 0.92 (s, 3H), 0.87 (d, J = 14.9 Hz, 1H), 0.83 (s, 3H); 13C NMR (125 MHz, CDCl3) δ 147.2,113.4,79.0,51.9,43.4, 39.01, 38.99, 36.4, 35.4, 34.2, 33.3, 31.1, 29.8, 28.2, 19.0; IR (thin film) ν 2951, 2865, 1458, 1251, 1042, 894; HRMS (NH 3-CI GCMS) m/z calc for C15H30NO (M þ NH4)þ 240.2327, found 240.2324.
+4-038	Allyl Chloride (76).
+4-039	A solution of crude allylsilane 69 (23.0 mg, 0.063 mmol) [from the ring-closing metathesis reaction of 70] in MeOH (2.5 mL) was treated with NCS (67.0 mg, 0.508 mmol) and stirred at rt.
+4-040	After 1 h, the reaction mixture was poured into a solution of saturated aqueous sodium sulfite (10 mL) and extracted with Et2O (2 15 mL).
+4-041	The combined organic layers were washed with brine (10 mL), dried over MgSO4 , filtered, and evaporated in vacuo to afford a clear oil.
+4-042	The crude product was immediately treated with water (0.05 mL) and a solution of TBAF (1 mL, 1 M in THF) and stirred at rt.
+4-043	After 20 h, the reaction mixture was poured in saturated aqueous NH4Cl (10 mL) and extracted with Et2 O (2 25 mL).
+4-044	The combined
+4-045	organic layers were dried over MgSO4 , filtered, and evaporated in vacuo.
+4-046	The crude material was purified by column chromato- graphy (SiO2, 100:0 to 97:3 hexanes/EtOAc) to afford 76 (4.0 mg, 25% from 70) as an oily residue.
+4-047	Rf = 0.43 (4:1 hexanes/EtOAc); 1H NMR (500 MHz, CDCl 3) δ 5.31 (s, 1H),
+4-048	5.10 (s, 1H), 4.74 (dd, J = 4.0, 12.6 Hz, 1H), 2.47 (d, J = 13.7 Hz, 1H), 2.38 (d, J = 13.7 Hz, 1H), 2.06 (t, J = 13.6 Hz, 1H), 1.95-2.02 (m, 1H), 1.94 (s, 1H), 1.70-1.85 (m, 5H), 1.35 (dd, J = 6.9, 15.1 Hz, 1H), 1.17-1.25 (m, 1H), 1.04 (dd, J = 7.3, 11.5 Hz, 1H), 0.97 (s, 3H), 0.95 (d, J = 6.6 Hz, 3H), 0.88 (s, 3H); 13C NMR (125 MHz, CDCl3) δ 145.1,118.8,79.3,65.6,51.9,45.9, 39.2, 39.0, 38.7, 35.6, 33.5, 31.4, 29.6, 28.3, 18.9; IR (thin film) ν 2952, 2866, 1471, 1016, 916; HRMS (NH3-CI GCMS) m/z calc for C15H29ClNO (M þ NH4 )þ 274.1938, found 274.1948.
+4-049	Cyclobutene Ester 80.
+4-050	The preparation of 80 is based on a modified version of a procedure described by Fleming.[67]
+4-051	A mixture of isobutyraldehyde (6.30 mL, 69.3 mmol) and pyrrol- idine (5.20 mL, 62.4 mmol) in benzene (150 mL) was heated to reflux in a flask outfitted with a Dean-Stark trap and a reflux condenser.
+4-052	After 6 h, the reaction mixture was cooled to rt and evaporated under reduced pressure.
+4-053	The residue was diluted with acetonitrile (100 mL), and methyl acrylate (6.20 mL, 68.6 mmol) was added; the resulting mixture was heated at reflux for 3 h.
+4-054	The cooled reaction mixture was concentrated under reduced pressure to afford an amber oil (10.16 g), which was diluted with CH3CN (24 mL).
+4-055	The resulting solution was treated with iodomethane (7.48 mL, 120 mmol) and allowed to stir at rt.
+4-056	After 14 h at rt, the reaction mixture was concentrated to afford a brown solid.
+4-057	This solid was dissolved in MeOH (100 mL) and added to a two-phase mixture of sodium methoxide (11.40 g, 211.7 mmol) dissolved in methanol (300 mL) and pentane (400 mL).
+4-058	The reaction mixture was stirred vigorously for 1 h, at which point the two phases were separated.
+4-059	The methanol phase was extracted with pentane (2 150 mL), then diluted with water (150 mL) and extracted with pentane/Et2O (2:1, 3 150 mL).
+4-060	The combined organic layers were washed with 0.5 N HCl (50 mL), water (200 mL), and brine (2 200 mL) and dried over MgSO4.
+4-061	Filtration through SiO2, followed by evaporation in vacuo, afforded 80 as an amber oil (7.33 g, 84% from pyrrolidine).
+4-062	The spectral properties of 80 were consistent with those reported previously.[1]
+4-063	Rf = 0.48 (92:8 hexanes/EtOAc);1H NMR (500 MHz, CDCl3) δ 6.83 (s, 1H), 3.72 (s, 3H), 2.42 (s, 2H), 1.22 (s, 6H).
+4-064	Diene 82.
+4-065	We adopted the procedure reported by Ikeda and co-workers, who previously described the preparation of diene 82.[68]
+4-066	1H NMR data reported for this compound in Ikeda’s publication appear to correspond to a lower homologue of 82 (their compound 5c); therefore, we fully characterized this diene.
+4-067	To a cooled (0 °C) solution of Ni(acac)2 (493 mg, 1.91 mmol) in THF (191 mL) was added trimethylaluminum (27.6 mL, 49.6 mmol, 15% in hexane) over the course of 10 min.
+4-068	The resulting black reaction mixture was stirred at 0 °C for 5 min, then treated with alkyne 85 (7.40 g, 40.2 mmol) followed by allyl chloride (3.12 mL, 38.3 mmol).
+4-069	The reaction mixture was stirred at 0 °C for an additional 30 min, then allowed to warm to rt and stirred for an additional 1.5 h.
+4-070	The reaction mixture was poured into 0.5 N HCl (350 mL) and extracted with pentane (3 250 mL).
+4-071	The combined organic layers were washed with saturated aqueous NaHCO3 (100 mL) and brine (100 mL), dried over MgSO4, and filtered through a plug of SiO2, eluting with pentane.
+4-072	Concentra- tion in vacuo afforded 82 as a 92:8 mixture of regioisomers (9.81 g, >99%).
+4-073	Rf = 0.45 (9:1 hexanes/CH2Cl2).
+4-074	Spectral data for the major isomer, 82: 1H NMR (600 MHz, CDCl3) δ 5.80 (m, 1H), 5.20 (t, J = 7.2 Hz, 1H), 5.02 (dt, J = 17.2, 1.6 Hz, 1H), 4.95 (d, J = 20.1 Hz, 1H), 3.68 (t, J = 7.0 Hz, 2H), 2.75 (t, J = 7.0 Hz, 2H), 2.22 (t, J = 7.0 Hz, 2H), 1.62 (s, 3H), 0.90 (s, 9H), 0.03 (s, 6H);13C NMR (125 MHz, CDCl3) δ 137.5,133.8,123.5,114.4,62.6,43.2, 32.5,26.1,16.5, -5.1; IR (thin film) ν 2929,2857,1472,1255,1099, 836 cm-1; HRMS (NH3-CI GCMS) m/z calc for C14H29OSi(M þ H)þ 241.1988, found 241.1984.
+4-075	Bromide 86.
+4-076	To a cooled (0 °C) solution of PPh3 (6.68 g, 25.5 mmol) in CH2Cl2 (100 mL) was added bromine (1.29 mL, 25.0 mmol).
+4-077	The ice water bath was removed, and the reaction was allowed to slowly warm to rt over 20 min, which resulted in
+4-078	the formation of a white precipitate.
+4-079	The reaction mixture was then treated with neat 82 (1.2 g, 5.0 mmol, 92:8 mixture of regioisomers) and allowed to stir at rt for 1 h.
+4-080	The reaction mixture was filtered through SiO2 eluting with hexanes (300 mL), and the filtrate was evaporated in vacuo.
+4-081	The resulting residue was subjected to column chromatography eluting with pentane to afford 86 as a clear oil (923 mg, 97%).
+4-082	R f = 0.41 (hexanes); 1H NMR (500 MHz, CDCl 3) δ 5.80 (ddt, J = 17.1, 10.8, 6.1 Hz, 1H), 5.28 (t, J = 7.3 Hz, 1H), 5.04 (dd, J = 17.1, 1.7 Hz, 1H), 4.98 (dd, J = 10.8, 1.7 Hz, 1H), 3.44 (t, J = 7.5 Hz, 2H), 2.77 (t, J = 7.0 Hz, 2H), 2.56 (t, J = 7.5 Hz, 2H), 1.63 (s, 3H);13C NMR (125 MHz, CDCl3) δ 136.8,133.4,124.9,114.7,43.0,32.3, 31.7, 15.7; IR (thin film) ν 2975, 1638, 1434, 1266, 912 cm-1; HRMS (EI GCMS) m/z calc for C8H13Br (M)þ 188.0201, found 188.0196.
+4-083	Grignard Reagent 81.
+4-084	To solid Mg0 ribbons (83.0 mg, 3.43 mmol) in THF (5.2 mL) was added 86 (500 mg, 2.64 mmol).
+4-085	The reaction mixture was stirred at rt, and the magnesium was clearly being consumed after ca. 20 min.
+4-086	After stirring at rt for 2 h, the solution of putative Grignard reagent 81 was used directly in the next step.
+4-087	Cyclobutane 79.
+4-088	A suspension of CuBr 3 SMe2 (44.0 mg, 0.216 mmol) in THF (2 mL) was cooled to -78 °C and treated sequentially with DMPU (0.52 mL, 4.32 mmol), TMSCl (0.658 mL, 5.18 mmol), and 80 (302 mg, 2.16 mmol).
+4-089	The reaction mixture was stirred at -78 °C for 10 min, then treated with the Grignard reagent 81 prepared above dropwise over 5 min, which caused the reaction mixture to become viscous.
+4-090	The reaction mixture was allowed to stir at -78 °C for 1 h and then slowly warm to -20 °C over the course of 1 h.
+4-091	The reaction mixture was then poured into 1 N HCl (40 mL).
+4-092	The product was extracted with pentane (3 45 mL), and the combined organic layers were washed with brine (30 mL), dried over Na2SO4, filtered, and concentrated in vacuo to afford crude product, which was subjected to column chromatography on SiO 2 (hexanes/Et2O, 100:0 to 97:3) to provide 79 (364 mg, 67%, ca. 5:1 mixture of diastereomers) as a clear oil.
+4-093	Rf = 0.55 (9:1, hexanes/EtOAc); 1H NMR (500 MHz, CDCl3 ) δ 5.80 (ddt, J = 17.1, 11.1, 6.1 Hz, 1H), 5.13 (t, J = 7.1 Hz, 1H), 5.02 (d, J = 17.1 Hz, 1H), 4.95 (d, J = 10.1 Hz, 1H), 3.67 (s, 3H), 2.74 (t, J = 6.7 Hz, 2H), 2.61 (q, J = 9.2 Hz, 1H), 2.16 (q, J = 8.2 Hz, 1H), 1.85-1.95 (m, 3H), 1.78 (t, J = 9.7 Hz, 1H), 1.59 (s, 3H), 1.44-1.52 (m, 2H), 1.09 (s, 3H), 1.03 (s, 3H); 13C NMR (125 MHz, CDCl3) δ 176.2,137.6,136.6,121.5,114.3,51.7,48.2, 39.5, 37.4, 36.5, 34.8, 32.4, 30.6, 29.1, 22.4, 16.1; IR (thin film) ν 2951, 2863, 1736, 1434, 1168 cm-1; HRMS (ESI) m/z calc for C16H26O2Na (M þ Na)þ 273.1830, found 273.1834.
+4-094	Triene 78.
+4-095	CeCl3 3 7H2O (3.24 g, 8.73 mmol) was pulverized with a mortar and pestle, placed under high vacuum (0.5 mmHg), and slowly heated to 150 °C over the course of 2 h.
+4-096	The solid was maintained at 150 °C under vacuum with vigorous stirring for 14 h and then allowed to cool to rt under N2.
+4-097	The white solid was cooled to 0 °C and treated with THF (14.5 mL), the ice water bath was removed, and the suspension was stirred at rt for 2 h, producing a thick white slurry.
+4-098	The slurry was cooled to -78 °C and treated with a freshly prepared solution of trimethylsilylmethylmagnesium chloride (1.0 M in Et2O, 7.9 mL, 7.9 mmol) dropwise via syringe over 15 min.
+4-099	The reaction mixture was stirred at -78 °C for 1.5 h, and ester 79 (364 mg, 1.45 mmol) in THF (2.5 mL) was added to the reaction mixture.
+4-100	The reaction mixture was stirred at -78 °C for 2 h and rt for 48 h.
+4-101	The reaction mixture was then poured into saturated aqueous NH4Cl (100 mL) and extracted with CH2Cl2 (3 100 mL).
+4-102	The combined organic layers were washed with water (50 mL), dried over MgSO4, filtered, and concentrated in vacuo to afford an oil, which was dissolved in CH2Cl2 (20 mL) and treated with SiO2 (2 g).
+4-103	The slurry was stirred at rt for 4 h, the solvents were removed in vacuo, and the crude material was purified by column chromatography (SiO2, 100:0 to 95:5 hexanes/EtOAc) to afford allylsilane 78 (237 mg, 53%, ca. 9:1 mixture of diastereomers) as a clear oil.
+4-104	Rf = 0.41 (hexanes);[1] H NMR (500 MHz, CDCl3) δ 5.80 (ddt, J = 17.1, 10.5, 6.2 Hz, 1H), 5.15 (t, J = 7.0 Hz, 1H), 5.02 (dd, J = 17.1, 1.4 Hz, 1H), 4.95 (dd, J = 10.5, 1.4 Hz, 1H), 4.60 (s, 1H), 4.52 (s, 1H), 2.75 (t, J = 6.6 Hz, 2H), 2.25 (q, J = 9.1 Hz, 1H), 1.1.80-2.00 (m, 4H), 1.77 (t, J = 8.5 Hz, 1H), 1.61 (s, 3H), 1.43-1.50 (m, 3H), 1.40 (t, J = 10.0 Hz, 1H), 1.06 (s, 3H), 1.04 (s, 3H), 0.00 (s, 9H); 13C NMR (125 MHz, CDCl3) δ 151.2,137.7,137.1,121.2,114.3,104.9,48.9,43.0,40.2,38.4, 33.5,32.5,31.6,29.7,25.4,22.6,16.2, -0.9; IR (thin film) ν 2952, 1634, 1248, 852 cm-1; HRMS (NH3-CI GCMS) m/z calc for C20H37Si (M þ H)þ 305.2664, found 305.2666.
+4-105	Diene 87.
+4-106	A solution of 78 (20.0 mg, 0.066 mmol) in deoxy- genated hexanes (44 mL) was treated with the Grubbs second-generation catalyst (11.1 mg, 0.013 mmol).
+4-107	The reaction mixture was stirred at rt for 15 min, then heated to 60 °C for 1 h.
+4-108	The cooled reaction mixture was filtered through a plug of silica gel, eluting with hexanes.
+4-109	Concentration of the filtrate afforded 87 (13 mg, 75%) as a clear oil.
+4-110	The 1H NMR spectrum of 87 provided in the Supporting Information was taken after chro- matography on silica gel (pentane).
+4-111	Rf = 0.46 (hexanes); 1H NMR (500 MHz, CDCl3) δ 4.69 (s, 1H), 4.66 (s, 1H), 4.60 (s, 1H), 4.51 (s, 1H), 2.25 (q, J = 8.9 Hz, 1H), 1.94 (q, J = 8.4 Hz, 1H), 1.87 (m, 1H), 1.78 (t, J = 10.0 Hz, 1H), 1.71 (s, 3H), 1.55 (m, 3H), 1.46 (d, J = 9.4 Hz, 2H), 1.40 (t, J = 10.1 Hz, 1H), 1.07 (s, 3H), 1.04 (s, 3H), 0.10 (s, 9H); 13C NMR (125 MHz, CDCl 3) δ 150.9,146.4,109.4,104.8,48.6,42.8,39.9,36.3,33.3,31.3, 29.3,25.2,22.5,22.4, -1.1; IR (thin film) ν 2952,1247,851 cm-1; HRMS (NH3-CI GCMS) m/z calc for C17H33Si (M þ H)þ265.2352, found 265.2349.

@@ -1,0 +1,710 @@
+# document_id: jo4024107
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Benzothiazoles are sulfur- and nitrogen-containing heterocycles that have emerged in their usage as a core structure for diversified therapeutic applications, including antimicrobial and antifungal,[1,2] cytotoxic,[3] and antidiabetic[4] uses.
+1-003	In recent years, an increasing number of 2-substituted benzothiazoles have been designed and synthesized for biological evaluations.
+1-004	These het- erocycles include the immunosuppressive drug frentizole (I), the antiparasitic tioxidazole (II), a cathepsin-D inhibitior (III), a PPARγ receptor activator (IV), a heat shock protein-90 inhib- itor (V), a human CCR1 and CCR3 receptor antagonist (VI), an antiproliferative (VII), and the calcium channel blocker fostedil (VIII) (Figure 1).[5]
+1-005	These moieties are also found in fluorescent pH indicators,[6] an iminocoumarin-based zinc sen- sor,[7] a bioluminogenic substrate,[8] cleavage agents for soluble oligomers of amyloid β-peptides,[9] and ligands for catalytic reac- tions.[10,11]
+1-006	Earlier, several methods for the synthesis of benzothiazole derivatives have been reported, including condensation of 2-
+1-007	conversion of 2-haloamides into the corresponding thioamides using P4S10 or Lawesson’s reagent, which is generally not feasible for substrates containing ketone, ester, and amide moieties;[20] cyclization of thioformanilides with the aid of transition-metal catalysts[21] under SNAr[22] or radical condi- tions;[23] and cyclization of an arylthioamide using potassium ferricyanide (Jacobson’s method).[24]
+1-008	These methods suffer from disadvantages such as harsh reaction conditions, use of toxic metal catalysts and reagents, air-sensitive and toxic substances, cumbersome workup procedures, generation of acidic and me- tallic wastes. etc.
+1-009	Recently, Katritzky and co-workers reported a metal-free environmentally benign synthesis of 2-substituted benzothiazoles in water under microwave (MW) irradiation.[25]
+1-010	However, this methodology utilizes substrates that are soluble
+1-011	in water only, which poses significant challenges.
+1-012	© 2013 American Chemical Society 251
+1-013	In last few decades, the ring-opening reactions of benzo- triazole derivatives emerged as an attractive way to generate a wide variety of benzoheterocycles such as indoles, benzoazines, quinazolines, 3,4-dihydroquinazolines, quinazoline-4-thiones, etc.[26,27]
+1-014	We envisioned exploring the feasibility of utilizing the benzotriazole ring-opening approach for the preparation of a library of 2-N/S/C-substituted benzothiazoles.
+1-015	Thus, as part of our ongoing work on the development of benzotriazole
+1-016	Received: October 31, 2013
+1-017	Published: December 6, 2013
+1-018	The Journal of Organic Chemistry Article
+1-019	methodologies for the synthesis of novel heterocyclic scaf- folds of multifaceted biological profiles,[27,28] we herein report our efforts toward the synthesis of 2-(N,N-dialkylamino)-benzothiazoles 4, 2-(aryl)benzothiazoles 9, and 2-(aryl/alkylthio)-benzothiazoles 13 via disruption of the benzotriazole ring.
+2-001	■
+2-002	In a recent communication, our group reported that 2-O- substituted benzothiazoles could be readily prepared from sugar-based benzotriazolemethanethiones via cyclative cleavage catalyzed by tributyltin hydride (n-Bu3SnH).[27]
+2-003	We speculated that a similar transformation would occur to provide 2-(N,N- dialkylamino)benzothiazoles 4 and 2-(aryl/alkylthio)-benzothiazoles 13 if the nucleophiles were replaced with amines and thiols, respectively.
+2-004	We undertook an investigation to explore this possibility and synthesized N,N-dialkylthiocar- bamoylbenzotriazoles (R1R2NCSBt, 3) by thiocarbamoylation of secondary amines 1 with bis(benzotriazole)methanethione 2 in a very short time span of 10−15 min (Scheme 1).
+2-005	benzothiazoles 4
+2-006	At first sight indeed, N,N-dialkylthiocarbamoylbenzotriazoles 3 have several important features.
+2-007	First is their preparation from 2, which in turn can be prepared easily from readily available benzotriazole.
+2-008	Second, these compounds should incorporate a relatively weak N−N bond β to the thiocarbonyl moiety, similar to Barton−McCombie deoxygenation,[29] in which a C−O single bond β to a thiocarbonyl moiety is reduced to C−H. Thus, treatment of 1-(2-fluorophenyl)piperazine (1a) with com- pound 2 in the presence of Et3N (0.2 equiv) in anhydrous CH 2Cl2 at room temperature furnished (1H-benzo[d][1,2,3]-triazol-1-yl)(4-(2-fluorophenyl)piperazin-1-yl)methanethione (3a) quantitatively in a very short reaction time.
+2-009	The high stability of the resulting adduct 3a prevented it from being further attacked by another amine molecule, and indeed, no disubstituted product was observed during the synthesis of benzotriazolemethanethiones 3a−o (Table 1).
+2-010	The structures of compounds 3a−o were elucidated using NMR spectroscopy.
+2-011	Single-crystal X-ray analysis unambiguously evidenced the structure of compound 3a (see Figure S1 and Table S1 in the Supporting Information).
+2-012	Treatment of compound 3a with reagents capable of inducing a free-radical reaction in dry toluene afforded 2-(4-(2-fluorophenyl)piperazin-1-yl)benzo[d]thiazole (4a) in good to excellent yields.
+2-013	In a reaction optimization study, we briefly investigated the effect of a diverse range of silanes in terms of
+2-014	yield and reaction time, and the results are summarized in Table 2.
+2-015	The cyclizations carried out in the presence of tri- ethylsilane (Et 3SiH) and tris(isopropyl)silane (Pri3SiH) re- sulted in poor yields (entries 3−6).
+2-016	Silanes with two or more hydrogens [e.g., phenylsilane (PhSiH3) and diphenylsilane (Ph 2SiH2); entries 1, 2, 7, and 8] furnished poor yields of 4a.
+2-017	In cyclizations carried out with alkyl-, phenyl-, and trimethylsilyl- substituted silanes and disilanes, the yield of 4a increased persistently with substitution of phenyl or trimethylsilyl groups (entries 9−24).
+2-018	Among disilanes, 1,1,2,2-tetraphenyldisilane (Ph 4Si2H2 ) performed better than 1,1,2,2-tetraanisyldisilane [(p-MeOPh) 4 Si2H 2] and 1,2-dimethyl-1,2-diphenydiailane [(Ph(CH 3)SiH)2].
+2-019	The reaction accomplished in the presence of pentamethyldisilane (Me 5Si2H) required a longer reaction time.[30]
+2-020	Cyclizations with tris(trimethylsilyl)silane [(TMS)3SiH], Ph4Si2H2 and n-butylgermanium hydride (n-Bu3GeH) were quantitative (entries 21−26), but a higher yield of 4a was noticed with n-Bu3SnH (entries 27 and 28).
+2-021	The high cost of Ph4 Si2H2 limited its further exploration in our free-radical cyclization, while the use of Bu 3SnH was ruled out on the basis of toxicity and complication in removal of the tin byproducts.[31,32]
+2-022	Moreover, it appeared inappropriate to utilize toxic Bu 3SnH as a radical reducing agent for the syn- thesis of compounds having value to medicine and agriculture.
+2-023	Chatgilialogu and co-workers described the use of (TMS)3SiH as a substitute for Bu3SnH under moderate conditions.[33]
+2-024	In comparison to n-Bu3Sn· and n-Bu3Ge· radicals, trialkylsilyl radicals are more reactive in additions to multiple bonds[34] and abstraction of halogen.[35]
+2-025	However, they are rather poor H-atom donors toward alkyl radicals and therefore tend to support chain reactions only at elevated temperatures.
+2-026	Also, the greater strength of the Si−H bond in (TMS)3SiH (78 kcal mol−1) compared with the Sn−H bond in n-Bu3SnH (74 kcal mol−1) causes cyclization with silanes to be relatively slow, requiring considerably high temperatures or an added initiator.[36]
+2-027	In the optimization study, a gradual increase in the yield of 4a was observed upon substitution of silanes with phenyl or trimethylsilyl groups, indicating that the Si−H bond weakening effect was operative here.
+2-028	The factors that moderate Si−H bond dissociation enthalpies are not yet completely un- derstood, but the available thermochemical data on Si−H bond dissociation energies[37] and the rate constants for the reactions of some radicals with a variety of silicon hydrides strongly suggest that the bond-weakening effects operative upon tri- methylsilyl or phenyl substitution are due to radical stabilization by π-conjugation of the phenyl group(s) and d-orbital par- ticipation of the trimethylsilyl group(s).
+2-029	Furthermore, significant reductions in the reaction time were observed when the reactions were executed in the presence of 5 mol % AIBN as a radical initiator (Table 2).
+2-030	The reagent (TMS) 3SiH proved to be the best among an array of silanes tested, and addition of AIBN was found to be crucial for the aforementioned conversion (Table 2, entry 21).
+2-031	In the reaction optimization study executed by varying the ratio of (TMS) 3SiH under refluxing conditions, an increase in the total yield of 4a was observed as the amount of reagent was increased quan- titatively.
+2-032	The optimum yield of 4a was realized using 2.2 equiv of (TMS)3 SiH in the presence of AIBN (5 mol %) under refluxing conditions.
+2-033	Additionally, we explored the reactions under microwave (MW) conditions, where the reaction times were significantly reduced (ranging from 5 to 30 min; Table 2).
+2-034	Next, under the optimized reaction conditions, the developed benzotriazolemethanethiones 3a−o were cyclized to their Table 1.
+2-035	Synthesis of Thiocarbamoylbenzotriazoles (R1R2NCSBt)
+2-036	radical initiator. dReaction temperatures were in the range 80−150 °C. eReaction times in hours. fReaction times in minutes.
+2-037	respective benzothiazoles 4a−o in excellent yields ranging from toxic tin-based reagent, and reaches completion rapidly after a 85 to 94% (Table 3).
+2-038	Among these, most of the substituted brief induction period.
+2-039	The workup is simple, and the reaction benzothiazoles were obtained in the crystalline state, while a is conveniently carried out by microwave irradiation.
+2-040	However, few were formed as viscous liquids. in the presence of functionalities bearing acidic hydrogen (i.e., The structures of compounds 4a−o were assigned by 3m and 3n having −COOH and −OH groups, respectively), comparison with NMR spectra of their respective benzotriazo- the cyclizations were unsuccessful, and no products could be lemethanethiones 3a−o.
+2-041	For example, relative to the observed under the optimized conditions.
+2-042	Likewise, mono- benzotriazolyl C−H protons resonating at δ 8.08 (t, J = 7.8 N-alkylthiocarbamoylbenzotriazole 3o having an NH moiety Hz, 2H), 7.59 (dd, J = 7.8, 7.5 Hz, 1H), and 7.43 (dd, J = 7.8, furnished isothiocyanate derivative 5 when treated with 7.5 Hz, 1H) in the 1H NMR spectrum of compound 3k, the (TMS) 3SiH and AIBN in refluxing toluene.
+2-043	four benzothiazolyl C−H protons of 4k were observed downfield.
+2-044	Furthermore, the efficacy of the developed methodology was In the 13C NMR spectrum of 3k, the signal corresponding to the demonstrated by treatment of compound 2 with (TMS)3SiH (2 thiocarbonyl carbon resonated at δ 174.5, while this signal was equiv) and AIBN (5 mol %) in dry toluene under refluxing shifted upfield to δ 168.8 for compound 4k.
+2-045	In addition, the mass conditions to afford 2-(1H-benzo[d][1,2,3]triazol-1-yl)benzo- spectrum of 4k exhibited the [M + H]+ peak at m/z 221, which is [d]thiazole (6) in 97% yield in 3 h (Scheme 2).
+2-046	The structure 28 units less than the [M + H]+ molecular ion peak of 3k of compound 6 was assigned by NMR spectroscopy, and single- observed at m/z 249.
+2-047	The structures of compounds 4b, 4c, and 4e crystal X-ray analysis unambiguously evidenced the structure were also confirmed by single-crystal X-ray analysis (see Figures (see Figure S5 and Table S5 in the Supporting Information).
+2-048	S2−S4 and Tables S2−S4 in the Supporting Information).
+2-049	The methodology was also successfully used for the prepa- The synthesis of 2-N-substituted benzothiazoles 4 through ration of a library of N-alkyl-N-(ferrocenylmethyl)benzothiazol- this optimized procedure has several features that make it 2-amines 4p−t from the respective N-(ferrocenylmethyl)-N- attractive from the perspective of scale-up and environmental alkylthiocarbamoylbenzotriazoles 3p−t (Table 4), which were considerations.
+2-050	It is relatively insensitive to the rate of addition readily prepared by the reaction of ferrocene-based secondary of reagents, uses a silicon-based reagent rather than the more amines with compound 2.
+2-051	The structures of compounds 3p−t
+2-052	aMolar ratios: 3 (1.0 equiv), (TMS) 3SiH (2.2 equiv), and AIBN (5 mol %). bReaction times in hours. cReaction times in minutes.
+2-053	and 4p−t were deduced from extensive spectral studies (IR, NMR, and MS).
+2-054	Single-crystal X-ray analyses unambiguously evidenced the structures of compounds 3p and 4p (see Figures S6 and S7 and Tables S6 and S7 in the Supporting Information).
+2-055	Earlier, Katritzky et al. reported the synthesis of compounds 3k, 3l, and 3h for the development of unsymmetrical di- and trisubstituted thioureas, thioamides, thiocarbamates, and dithiocarbamates.[38,39]
+2-056	Toward this end, we investigated the
+2-057	scope of compounds 3p−t in the synthesis of novel ferrocene- containing unsymmetrical trisubstituted thoiurea derivatives.
+2-058	Treatment of compound 3q with benzylamine in the presence of Et3N in anhydrous CH2 Cl2 at rt afforded 1,3-dibenzyl-1-(ferrocenylmethyl)thiourea (7) in 87% yield (Scheme 3).
+2-059	The structure of compound 7 was elucidated by NMR spectroscopy and also confirmed by single-crystal X-ray analysis (see Figure S8 and Table S8 in the Supporting Information).
+2-060	The methodology was further successfully extended to the synthesis of 2-aryl/alkyl-substituted benzothiazoles 9 from their respective aryl/alkylthiocarbonylbenzotriazoles 8, which were readily prepared by the previously reported method.[39]
+2-061	The
+2-062	a b
+2-063	Molar ratios: bis(benzotriazole)methanethione (1.01 equiv), (TMS)3SiH (2.2 equiv), and AIBN (5 mol %).
+2-064	Ferrocene-based
+2-065	c d
+2-066	benzotriazolemethanethiones.
+2-067	Ferrocene-containing benzothiazoles.
+2-068	Yields of final step only, reported after purification by column
+2-069	chromatography. eReaction times in hours. fReaction times in minutes.
+2-070	a b
+2-071	All of the reactions were complete within 1 h.
+2-072	Molar ratios: alkyl/arylthiol (1.0 equiv), pyridine (0.3 equiv), bis(benzotriazole)methanethione
+2-073	c d
+2-074	e f
+2-075	(1.01 equiv).
+2-076	Alkyl/arylthiols.
+2-077	S-Alkyl/aryl(benzotriazolyl)dithiocarbamates.
+2-078	Yields of compounds 11 after purification.
+2-079	Disulfide byproducts.
+2-080	gYields of compounds 12 after purification.
+2-081	reactions of compounds 8a and 8b with a mixture of (TMS)3SiH (2.2 equiv) and AIBN (5 mol %) in dry toluene under refluxing or
+2-082	MW conditions were accomplished smoothly (Scheme 4).
+2-083	However, because of the low-yielding initial thioacylation step, this does not appear to be a good way to access 2-(aryl/alkylbenzothiazoles 9 under the optimized conditions.
+2-084	The structures of compounds 9a
+2-085	and 9b were assigned from their NMR spectra.
+2-086	Furthermore, in order to access the scope of the developed methodology in the synthesis of a library of (alkyl/arylthio)- benzothiazoles 13, a diverse range of thiols 10a−f were reacted with compound 2 in the presence of pyridine at rt to afford S-alkyl/aryl(benzotriazolyl) dithiocarbamates 11a−f in 49−68% yield along with the observed disulfide byproducts 12a−f (Table 5).
+2-087	We briefly investigated the reaction and found that the yields of compounds 11 could be improved by slow addition of the thiol in the presence of a suitable weak organic base.
+2-088	Further cyclization of 11a−f under the optimized conditions furnished the corresponding 2-(alkyl/arylthio)benzothiazoles 13a−f in excellent yields ranging from 83 to 95% in 5−6 h (Table 6).
+2-089	Mechanistic Considerations.
+2-090	The thiocarbonyl derivatives of primary and secondary alcohols can be reduced easily by n-Bu3 SnH using AIBN as a radical initiator.[40]
+2-091	In such reactions, the 2-cyanoprop-2-yl radical generated from AIBN initiates the process by rapidly reacting with tin hydride to produce a tin radical, which attacks the thione function of thiocarbonyl and propagates the reaction.
+2-092	A similar mechanism of radical cyclization can also be argued with (TMS) 3SiH, which upon The Journal of Organic Chemistry Article
+2-093	aMolar ratios: 11a−f (1 equiv), (TMS)3SiH (2.2 equiv), and
+2-094	c d e
+2-095	AIBN (5 mol %). bS-Alkyl/aryl(benzotriazolyl)dithiocarbamates 11a−f.
+2-096	2-(Alkyl/arylthio)benzothiazoles 13a−f.
+2-097	Reaction times in hours; Reaction times in minutes.
+2-098	reaction with 2-cyanoprop-2-yl radical generates a silyl radical that attacks the thiocarbonyl derivative and propagates a chain reaction.
+2-099	The generated intermediate A is further reduced by H· radical followed by subsequent attack of a silyl radical to produce radical intermediate B, which decomposes to give resonance-stabilized nitrogen-centered biradical C via N−N bond cleavage.
+2-100	The stabilization of C through delocalization of the electron density over the aryl ring results in the elimination of a nitrogen molecule followed by a consequent intramolecular
+2-101	attack of sulfur, producing resonance-stabilized nitrogen-centered radical D, which furnishes benzothiazole 4 via a ther- modynamically favored and thermally induced oxidation pro- cess leading to aromatization at the cost of two σ bonds to form a π bond (Figure 2).
+2-102	Several mechanisms could be operative.
+2-103	For example, radical intermediate C could eliminate molecular nitrogen and simul- taneously get reduced to a resonance-stabilized radical intermediate C1 that could transform into dihydro product C2 (Figure 3).
+2-104	However, this species could not be isolated.
+2-105	All of the reactions were carried out typically under an inert atmosphere, and the benzothiazoles 4 were isolated as sole aro- matic cyclized products with no dihydro derivatives observed
+2-106	in the gas phase.
+2-107	The bond between (TMS)3Si· radical and the thiocarbonyl sulfur of 3g along with elongated bond distances (in Å) are shown.
+2-108	even when oxygen was rigorously excluded.
+2-109	We exploited here the addition of silyl radical onto the thiocarbonyl moiety and investigated the reductive cyclization reported with n-Bu3SnH[41] and subsequent oxidation of the dihydro product.
+2-110	The reduc- tive cyclization using (TMS)3SiH possibly includes “oxidation” by either autooxidation or a process in which (TMS)3SiH acts as a base and abstracts the acidic proton from the cyclized dihydro intermediate.[42]
+2-111	The oxidation process may be pho- tochemical or thermal, as both are thermodynamically favorable and lead to aromatization at the cost of two σ bonds to form a π bond in the final product.
+2-112	However, the problem is explaining how the hydrogen is lost.
+2-113	Moreover, it was difficult to observe N2 and H 2 in the stream of nitrogen and under refluxing conditions.
+2-114	Additionally, the possibility of auto or air oxidation of the dihydro product was ruled out because the reaction was carried out under inert conditions.
+2-115	However, this could be effectively explained by considering (TMS)3SiH as a base, which abstracts hydrogen from the radical intermediate C2 or D2 and affords the benzothiazole 4 as product.
+2-116	Hence, the silane is not only catalytic and reductive but also acts as a base.
+2-117	The mechanism of the reaction was also supported by den- sity functional theory (DFT), where the geometries of inter- mediate A and compound N,N-dimethyl-1H-benzo[d][1,2,3]-triazole-1-carbothioamide (3g) were optimized at the B3LYP/6-31G(d,p) level in the gas phase using the Gaussian 03package.[43]
+2-118	Gaussview 3.09 was used to visualize the optimized molecular geometries, bond lengths, and bond angles.
+2-119	The cal- culations at this level provided evidence for a strong interaction between silicon and the sulfur of the thiocarbonyl group in intermediate A (Figure 4).
+2-120	In addition, close observation of the IR frequencies of the optimized molecule 3g and intermediate A calculated by DFT predict an enhancement in the intensity of the N1−N2 stretching frequency, while the interaction of 3g with (TMS)3Si· radical suggests the cleavage of benzotriazole ring (for details, see Figures S9−S12 and Tables S9−S12 in the Supporting Information).
+3-001	We have developed a concise and efficacious benzotriazole- mediated, two-step, novel and toxic-metal-free approach that provides easy access to a diverse range of 2-N/S/C-substituted benzothiazoles under mild conditions.
+3-002	The developed method- ology also demonstrates significant compatibility under micro- wave conditions and is important as it avoids the use of toxic
+3-003	n-Bu3 SnH for radical cyclization.
+3-004	The synthesis of 2-(N,N- dialkylamino)benzothiazoles, 2-(aryl/alkyl)benzothiazoles, and 2-(aryl/alkylthio)benzothiazoles via benzotriazole ring cleavage using (TMS) 3SiH as radical reducing agent had not been realized previously, and thus, this approach should be of further interest to synthetic and medicinal chemists.
+3-005	The short reaction period, simple workup, high yield, and mild conditions of this methodology express significant tolerance toward a number of functional groups such benzyl ethers, acetals, thioethers, esters, aryl halides (Ar−F and Ar−Cl), and alkenes.
+3-006	In addition to the generality with respect to the substrate scope, the facile access to the starting materials is also highly appealing.
+3-007	The developed methodology performs well in both small and gram-scale syntheses of 2-N/S/C-substituted benzothiazoles and thus may have industrial significance.
+4-001	■
+4-002	General Remarks.
+4-003	All of the reactions were executed in anhydrous solvents under an argon atmosphere in glassware oven-dried for 1 h at 110 °C. All of the reagents and solvents were of pure analytical grade.
+4-004	Thin-layer chromatography (TLC) was performed on TLC silica gel 60 F254 precoated on aluminum plates and revealed with a UV lamp and/or with iodine vapors.
+4-005	1H and 13C NMR spectra were recorded at 300 and 75 MHz, respectively.
+4-006	Chemical shifts (δ) are given in parts per million downfield from internal TMS; coupling constant (J) values are given in hertz.
+4-007	Mass spectra were recorded using electrospray ionization mass spectrometry (ESI-MS).
+4-008	Infrared spectra were re- corded as Nujol mulls in KBr plates.
+4-009	Elemental analysis was performed using a C, H, N analyzer, and the results were found to be within ±0.4% of the calculated values.
+4-010	Reactions under microwave irradiation were carried out in a single-mode microwave reactor.
+4-011	Single-crystal X-ray data were collected on a CCD diffractometer.
+4-012	Procedure for the Synthesis of N,N-Dialkylthiocarbamoyl- benzotriazoles (R[1] R2NCSBt, 3a−o).
+4-013	To a stirring solution of bis-(benzotriazole)methanethione (2) (0.567 g, 2.02 mmol) in dry CH2Cl2 (5 mL) was added dropwise a solution of amine 1a−o (2.0 mmol) in dry CH2Cl2 (5 mL) in the presence of Et3N under an inert atmosphere at room temperature.
+4-014	After completion of the reaction (10−15 min as monitored by TLC), the reaction mixture was concentrated in vacuo.
+4-015	After extraction with CH2Cl2 and washing with 10% Na2CO3, water, and saturated brine solution followed by drying over anhydrous Na2SO4, the organic layer was concentrated under reduced pressure.
+4-016	Further purification with flash column chromatography using gradient mixtures of ethyl acetate and n-hexane afforded pure benzotriazolemethanethione 3a−o.
+4-017	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-(2-fluorophenyl)piperazin-1-yl)-methanethione (3a).
+4-018	Yellow crystals, 0.635 g, yield 93%, mp 106−107 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-019	1H NMR (300 MHz, CDCl 3): δ 8.00 (d, J = 8.4 Hz, 1H), 7.96 (d, J = 8.4 Hz, 1H), 7.48 (dd, J = 7.2, 6.6 Hz, 1H), 7.32 (t, J = 7.8 Hz, 1H), 6.98−6.81 (m, 4H), 4.41
+4-020	(m, 2H), 3.76 (m, 2H), 3.26 (m, 2H), 3.31 (m, 2H).
+4-021	13C NMR (75 MHz, CDCl 3): δ 174.6, 155.52 (d, J = 244.1 Hz), 146.0, 138.59 (d, J = 7.8 Hz), 133.3, 128.9, 125.0, 124.51 (d, J = 3.7 Hz), 123.38 (d, J = 7.3 Hz), 119.7, 119.2 (d, J = 2.4 Hz), 116.19 (d, J = 20.4 Hz), 113.7, 52.1, 51.1, 50.5, 49.7.
+4-022	IR (KBr) νmax : 3059, 2923, 2846, 1612, 1585, 1505, 1447, 1269, 1158, 1041, 1010, 737, 424 cm−1.
+4-023	MS: m/z 342 [M + H] +.
+4-024	Anal. Calcd for C17H16FN5S: C, 59.65; H, 4.95; N, 20.51.
+4-025	Found: C, 59.81; H, 4.72; N, 20.12.
+4-026	(E)-(1H-Benzo[d][1,2,3]triazol-1-yl)(4-cinnamylpiperazin-1-yl)-methanethione (3b).
+4-027	White crystals, 0.662 g, yield 91%, mp 92− 94 °C. Rf = 0.7 (50% ethyl acetate/n-hexane).
+4-028	1H NMR (300 MHz, CDCl3): δ 8.06 (t, J = 8.4 Hz, 2H), 7.56 (dd, J = 7.8, 7.2 Hz, 1H), 7.43−7.18 (m, 6H), 6.53 (d, J = 15.9 Hz, 1H), 6.22 (ddd, J = 15.9, 6.7, 6.6 Hz, IH), 4.38 (m, 2H), 3.707 (m, 2H), 3.20 (d, J = 6.6 Hz, 2H), 2.77 (m, 2H), 2.62 (m, 2H).
+4-029	13C NMR (75 MHz, CDCl3): δ 174.2, 145.9, 136.3, 133.5, 133.2, 128.8, 128.4 (2C), 127.5, 126.1 (2C), 125.2, 124.9, 119.6, 113.6, 60.1, 53.3, 52.9, 51.9, 51.0.
+4-030	IR (KBr) νmax: 3029, 2925, 2810, 2766, 1608, 1509, 1441, 1022, 1047, 780, 748, 695 cm−1.
+4-031	MS: m/z 364 [M + H]+.
+4-032	Anal. Calcd for C20H21N5S: C, 66.09; H, 5.82; N, 19.27.
+4-033	Found: C, 66.48; H, 6.06; N, 19.08.
+4-034	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-(2-chlorophenyl)piperazin-1-yl)methanethione (3c).
+4-035	Yellow crystals, 0.644 g, yield 90%, mp 144−145 °C. Rf = 0.7 (30% ethyl acetate/n-hexane).
+4-036	1H NMR (300 MHz, CDCl3): δ 8.11 (d, J = 9.3 Hz, 1H), 8.07 (d, J = 9.6 Hz, 1H), 7.60 (t, J = 7.8 Hz, 1H), 7.44 (dd, J = 7.8, 7.5 Hz, 1H), 7.38 (d, J = 7.8 Hz, 1H), 7.24 (dd, J = 7.5, 7.2 Hz, 1H), 7.03 (dd, J = 11.7, 7.8 Hz, 2H), 4.54 (m, 2H), 3.88 (m, 2H), 3.34 (m, 2H), 3.21 (m, 2H).
+4-037	13C NMR (75 MHz, CDCl3): δ 174.7,147.6,146.0,133.3,130.6,128.9,128.7, 127.6, 125.0, 124.5, 120.5, 119.7, 113.7, 52.4, 51.2 (2C), 50.3.
+4-038	IR (KBr) νmax: 1597, 1536, 1067, 1007, 959, 891, 728, 692, 650 cm−1.
+4-039	MS: m/z 358 [M + H]+ .
+4-040	Anal. Calcd for C17H16ClN5S: C, 57.13; H, 4.52; N, 19.61.
+4-041	Found: C, 57.32; H, 4.18; N, 19.77.
+4-042	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-phenylpiperazin-1-yl)-methanethione (3d).
+4-043	Yellow crystals, 0.588 g, yield 91%, mp 107−108 °C. Rf = 0.5 (20% ethyl acetate/n-hexane).
+4-044	1H NMR (300 MHz, CDCl3): δ 8.10 (d, J = 8.4 Hz, 1H), 8.06 (d, J = 8.4 Hz, 1H), 7.57 (dd, J = 7.8, 7.2 Hz, 1H), 7.42 (dd, J = 7.8, 7.2 Hz, 1H), 7.28 (d, J = 7.5 Hz, 1H), 7.26 (d, J = 8.1 Hz, 1H), 6.91 (d, J = 7.2 Hz, 3H), 4.47 (m, 2H), 3.86 (m, 2H), 3.46 (m, 2H), 3.31 (m, 2H).
+4-045	13C NMR (75 MHz, CDCl3): δ 174.5, 149.9, 146.0, 133.3, 129.1 (2C), 128.9, 125.1, 120.5, 119.7, 116.3 (2C), 113.8, 51.8, 50.8, 49.3, 48.4.
+4-046	IR (KBr) νmax: 3060, 2909,2828,1602,1581,1505,1448,1280,1230,1167,1049,1016, 741, 517, 429 cm−1.
+4-047	MS: m/z 324 [M + H]+.
+4-048	Anal. Calcd for C17H17N5S: C, 63.13; H, 5.30; N, 21.65.
+4-049	Found: C, 63.0; H, 5.57; N, 21.29.
+4-050	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-(pyridin-2-yl)piperazin-1-yl)-methanethione (3e).
+4-051	Yellow crystals, 0.596 g, yield 92%, mp 112−113 °C. Rf = 0.7 (30% ethyl acetate/n-hexane).
+4-052	1H NMR (300 MHz, CDCl3): δ 8.21 (d, J = 3.9 Hz, 1H), 8.16 (d, J = 8.4 Hz, 1H), 8.08 (d, J = 8.4 Hz, 1H), 7.60 (dd, J = 8.1, 7.2 Hz, 1H), 7.52 (ddd, J = 7.2, 6.9, 1.5 Hz, 1H), 7.45 (dd, J = 7.8, 7.5 Hz, 1H), 6.69 (dd, J = 6.6, 6.9 Hz, 1H), 6.65 (d, J = 8.7 Hz, 1H), 4.46 (m, 2H), 3.89 (m, 4H), 3.74 (m, 2H).
+4-053	13C NMR (75 MHz, CDCl3): δ 174.7,158.3,147.9,146.1,137.7, 133.7, 129.0, 125.1, 119.8, 114.1, 113.9, 106.9, 51.6, 50.8, 45.2, 44.0.
+4-054	IR (KBr) νmax: 3026, 2924, 2810, 1612, 1579, 1443, 1044, 1020, 746, 685, 497 cm−1.
+4-055	MS: m/z 325 [M + H] +.
+4-056	Anal. Calcd for C16H16N6S: C, 59.24; H, 4.98; N, 25.92.
+4-057	Found: C, 58.91; H, 5.20; N, 26.19.
+4-058	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-methylpiperazin-1-yl)-methanethione (3f).
+4-059	Yellow crystals, 0.496 g, yield 95%, mp 103−104 °C. Rf = 0.6 (80% ethyl acetate/n-hexane).
+4-060	1H NMR (300 MHz, CDCl3): δ 8.08 (d, J = 6.0 Hz, 2H), 7.59 (t, J = 7.5 Hz, 1H), 7.44 (dd, J = 7.8, 7.5 Hz, 1H), 4.39 (m, 2H), 3.72 (m, 2H), 2.71 (m, 2H), 2.56 (m, 2H), 2.37 (s, 3H).
+4-061	13C NMR (75 MHz, CDCl 3): δ 174.5,146.1, 133.4, 128.9, 125.1, 119.7, 113.7, 54.9, 53.0, 52.0, 51.0, 45.4.
+4-062	MS: m/z 262 [M + H] +.
+4-063	Anal. Calcd for C12H15N5S: C, 55.15; H, 5.79; N, 26.80.
+4-064	Found: C, 54.78; H, 5.94; N, 26.50.
+4-065	N,N-Dimethyl-1H-benzo[d][1,2,3]triazole-1-carbothioamide (3g).
+4-066	Yellow crystals, 0.326 g, yield 79%, mp 111−112 °C. Rf = 0.7 (30% ethyl acetate/n-hexane).
+4-067	1H NMR (300 MHz, CDCl3): δ 8.06 (d, J = 8.1 Hz, 2H), 7.58 (dd, J = 7.5, 7.2 Hz, IH), 7.43 (dd, J = 7.5, 7.2 Hz,
+4-068	1H), 3.65 (s, 3H), 3.32 (s, 3H).
+4-069	13C NMR (75 MHz, CDCl3): δ 175.5, 145.8, 133.1, 128.8, 125.0, 119.7, 113.8, 44.1, 43.7.
+4-070	IR (KBr) νmax: 3082,2927,1605,1590,1532,1449,1390,1258,1148,1025,784, 749 cm−1.
+4-071	MS: m/z 207 [M + H]+.
+4-072	Anal. Calcd for C 9H10N4S: C, 52.41; H, 4.89; N, 27.18.
+4-073	Found: C, 52.02; H, 4.56; N, 26.97.
+4-074	N,N-Diethyl-1H-benzo[d][1,2,3]triazole-1-carbothioamide (3h).
+4-075	Yellow oil, 0.408 g, yield 87%.
+4-076	Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-077	1H NMR (300 MHz, CDCl3): δ 8.03 (m, 2H), 7.56 (dd, J = 8.1, 7.2 Hz, 1H), 7.41 (dd, J = 7.8, 7.5 Hz, 1H), 4.11 (d, J = 6.6 Hz, 2H), 3.49 (d, J = 6.9 Hz, 2H), 1.47 (t, J = 6.9 Hz, 3H), 1.31 (t, J = 6.6 Hz, 3H).
+4-078	13C NMR (75 MHz, CDCl3): δ 174.5,145.6,133.1,128.6,124.8, 119.5, 113.3, 48.1, 48.0, 13.8, 10.7.
+4-079	IR (KBr) νmax: 3060, 2984, 2937, 2875, 1611, 1592, 1519, 1448, 1279, 1031, 746 cm−1.
+4-080	MS: m/z 335 [M + H]+.
+4-081	Anal. Calcd for C11H14N4S: C, 56.39; H, 6.03; N, 23.93.
+4-082	Found: C, 56.72; H, 6.42; N, 23.70.
+4-083	N,N-Diisopropyl-1H-benzo[d][1,2,3]triazole-1-carbothioamide (3i).
+4-084	Yellow oil, 0.441 g, yield 84%.
+4-085	Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-086	1H NMR (300 MHz, CDCl3): δ 8.11−8.08 (m, 2H), 7.61 (t, J = 7.5 Hz, 1H), 7.46 (dd, J = 7.5, 7.8 Hz, 1H), 3.89−3.80 (m, 2H), 1.34 (s, 3H), 1.32 (s, 3H), 1.24 (s, 3H), 1.22 (s, 3H).
+4-087	13C NMR (75 MHz, CDCl 3): δ 174.5,146.8,130.4,126.8,120.8,113.7,47.4, 47.2, 22.4 (2C), 20.6 (2C).
+4-088	IR (KBr) νmax: 3038, 2944, 2927, 2845, 1610, 1589, 1532, 1444, 1282, 1021, 738, 585, 487 cm−1.
+4-089	MS: m/z 263 [M + H]+.
+4-090	Anal. Calcd for C13H18N4S: C, 59.51; H, 6.92; N, 21.37.
+4-091	Found: C, 59.25; H, 7.09; N, 21.13.
+4-092	N,N-Dibutyl-1H-benzo[d][1,2,3]triazole-1-carbothioamide (3j).
+4-093	Yellow oil, 0.511 g, yield 88%.
+4-094	Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-095	1H NMR (300 MHz, CDCl3): δ 8.04 (d, J = 8.4 Hz, 1H), 7.97 (d, J = 8.4 Hz, 1H), 7.55 (dd, J = 7.8, 7.2 Hz, 1H), 7.40 (t, J = 7.5 Hz, 1H), 4.05 (d, J = 7.8, 7.5 Hz, 2H), 3.46 (dd, J = 7.8, 7.2 Hz, 2H), 1.91 (m, 2H), 1.61 (m, 2H), 1.47 (m, 2H), 1.11 (m, 2H), 1.01 (t, J = 7.2 Hz, 3H), 0.72 (t, J = 6.9 Hz, 3H).
+4-096	13C NMR (75 MHz, CDCl3): δ 174.6, 145.4,132.9,128.4,124.5,119.3,113.0,53.4,53.3,30.1,27.4,19.8, 19.4, 13.5, 13.1.
+4-097	IR (KBr) νmax: 3077, 2929, 2861, 1611, 1590, 1530, 1438, 1226, 1042, 1021, 757, 595 cm−1.
+4-098	MS: m/z 291 [M + H]+.
+4-099	Anal. Calcd for C15H22N4S: C, 62.04; H, 7.64; N, 19.30.
+4-100	Found: C, 62.21; H, 7.88; N, 19.63.
+4-101	(1H-Benzo[d][1,2,3]triazol-1-yl)(morpholino)methanethione (3k).
+4-102	Yellow crystals, 0.528 g, yield 93%, mp 112−113 °C. Rf = 0.7 (30% ethyl acetate/n-hexane).
+4-103	1H NMR (300 MHz, CDCl3): δ 8.08 (t, J = 7.8 Hz, 2H), 7.59 (dd, J = 7.8, 7.5 Hz, 1H), 7.43 (dd, J = 7.8, 7.5 Hz, 1H), 4.36 (m, 2H), 3.95−3.75 (m, 6H).
+4-104	13C NMR (75 MHz, CDCl3): δ 174.5,145.9,133.2,128.9,125.0,119.7,113.7,66.5,66.0,52.6,51.3.
+4-105	IR (KBr) νmax: 2927, 1860, 1610, 1589, 1497, 1447, 1237, 1115, 1051, 1024, 738, 524 cm−1.
+4-106	MS: m/z 249 [M + H]+.
+4-107	Anal. Calcd for C11H12N4OS: C, 53.21; H, 4.88; N, 22.58.
+4-108	Found: C, 52.90; H, 5.07; N, 22.21.
+4-109	(1H-Benzo[d][1,2,3]triazol-1-yl)(piperidin-1-yl)methanethione (3l).
+4-110	Yellow crystals, 0.453 g, yield 92%, mp 105−106 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-111	1H NMR (300 MHz, CDCl 3): δ 8.04 (d, J = 8.7 Hz, 2H), 7.57 (dd, J = 7.8, 7.2 Hz, 1H), 7.41 (dd, J = 7.8, 7.2 Hz, 1H), 4.30 (m, 2H), 3.56 (m, 2H), 1.90 (m, 2H), 1.75 (m, 4H).
+4-112	13C NMR (75 MHz, CDCl3): δ 173.9,145.8,133.1,128.6,124.8, 119.6, 113.4, 53.2, 52.5, 26.6, 25.2, 23.8.
+4-113	IR (KBr) νmax: 3086, 2942, 1859, 1612, 1589, 1513, 1446, 1257, 1049, 1021, 727, 534 cm−1.
+4-114	MS: m/z 247 [M + H]+ .
+4-115	Anal. Calcd for C12H14N4S: C, 58.51; H, 5.73; N, 22.76.
+4-116	Found: C, 58.24; H, 5.54; N, 22.55.
+4-117	(S)-1-(1H-Benzo[d][1,2,3]triazole-1-carbonothioyl)pyrrolidine-2-carboxylic Acid (3m).
+4-118	White crystals, 0.508 g, yield 92%, mp 152−154 °C. Rf = 0.5 (10% methanol/chloroform).
+4-119	1H NMR (300 MHz, CDCl 3): δ 9.08 (bs, 1H), 8.22 (d, J = 8.4 Hz, 1H), 8.08 (d, J = 8.1 Hz, 1H), 7.60 (dd, J = 7.2, 7.5 Hz, 1H), 7.45 (dd, J = 7.8, 6.9 Hz, 1H), 5.13−5.10 (m, 1H), 4.21−4.18 (m, 1H), 4.02−4.00 (m, 1H), 2.52−2.42 (m, 1H), 2.31−2.06 (m, 3H).
+4-120	13C NMR (75 MHz, CDCl3): δ 174.9,173.7,145.7,133.1,129.1,125.3,119.8,114.5,65.9,54.6,29.3, 25.0.
+4-121	MS: m/z 277 [M + H]+.
+4-122	Anal. Calcd for C 12H12N4O2S: C, 52.16; H, 4.38; N, 20.28.
+4-123	Found: C, 51.89; H, 4.20; N, 20.05.
+4-124	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-hydroxypiperidin-1-yl)-methanethione (3n).
+4-125	White crystals, 0.372 g, yield 71%, mp 110−111 °C. R = 0.7 (40% ethyl acetate/n-hexane).
+4-126	1H NMR (300 MHz,
+4-127	f
+4-128	CDCl3): δ 8.09 (d, J = 8.4 Hz, 2H), 7.61 (t, J = 7.5 Hz, 1H), 7.46 (dd, J = 7.5, 7.8 Hz, 1H), 4.64 (s, 1H), 4.23−4.21 (m, 3H), 3.78 (m, 2H), 2.24 (m, 2H), 2.08 (m, 2H).
+4-129	13C NMR (75 MHz, CDCl3): δ 174.9, 146.2,133.4,129.2,125.3,120.0,113.9,52.3,48.5,47.8,32.7,31.6.
+4-130	MS: m/z 263 [M + H]+.
+4-131	Anal. Calcd for C12H14N4OS: C, 54.94; H, 5.38; N, 21.36.
+4-132	Found: C, 55.25.; H, 5.12; N, 21.58.
+4-133	Methyl 2-(1H-Benzo[d][1,2,3]triazole-1-carbothioamido)-3-(4-hydroxyphenyl)propanoate (3o).
+4-134	Viscous liquid, 0.484 g, yield 68%.
+4-135	R f = 0.6 (40% ethyl acetate/n-hexane).
+4-136	1H NMR (300 MHz, CDCl3): δ 9.37 (d, J = 6.9 Hz, 1H), 7.86 (d, J = 8.4 Hz, 1H), 8.09 (d, J = 8.4 Hz, 1H), 7.65 (dd, J = 8.1, 7.5 Hz, 1H), 7.48 (t, J = 7.5 Hz, 1H), 7.05 (d, J = 8.1 Hz, 2H), 6.77 (d, J = 8.4 Hz, 2H), 5.46−5.39 (m, 1H), 5.10 (bs, 1H), 3.78 (s, 3H), 3.40 (dd, J = 13.2, 5.7 Hz, 1H), 3.28 (dd, J = 13.2, 5.7 Hz, 1H).
+4-137	13C NMR (75 MHz, CDCl3): δ 174.4,171.0,155.9, 147.2, 132.7, 130.7 (3C), 126.8, 126.3, 120.5, 116.3 (3C), 58.9, 53.1, 36.6.
+4-138	IR (KBr) νmax: 3521, 3328, 2978, 2941, 1738, 1545, 1438, 1228, 1009, 747, 546 cm−1.
+4-139	MS: m/z 357 [M + H]+.
+4-140	Anal. Calcd for C17H16N4O3S: C, 57.29; H, 4.52; N, 15.72.
+4-141	Found: C, 57.13; H, 4.75; N, 15.51.
+4-142	Procedure for the Synthesis of 2-(N,N-Dialkylamino)-benzothiazoles (4a−l).
+4-143	To a stirring solution of benzotriazoleme- thanethione 3a−l (1 mmol) in dry toluene were added tris(trimeth- ylsilyl)silane (2.2 equiv) and AIBN (5 mol %) under an inert atmo- sphere.
+4-144	The reaction mixture was stirred under heating at 110 °C or exposed to single-mode microwave reactor with a new sealed pressure regulation 10 mL pressurized vial with “snap-on” cap and Teflon- coated magnetic stir bar.
+4-145	The standard temperature control system consisted of a noncontact calibrated infrared sensor that monitored and controlled the temperature conditions of the reaction vessel located in the instrument cavity.
+4-146	For each reaction, the reaction temperature was kept at 110 °C. After completion of the reaction (as monitored by TLC), the reaction mixture was concentrated in vacuo, extracted with CH2Cl2, and washed with 10% LiOH, water, and brine solutions.
+4-147	The organic layer was dried over anhydrous Na 2SO4 and concentrated in vacuo.
+4-148	Purification using flash column chromatog- raphy afforded benzothiazole 4a−l.
+4-149	2-(4-(2-Fluorophenyl)piperazin-1-yl)benzo[d]thiazole (4a).
+4-150	White crystals, 0.297 g, yield 95%, mp 121−122 °C. R f = 0.5 (20% ethyl acetate/n-hexane).
+4-151	1H NMR (300 MHz, CDCl3): δ 7.61 (d, J = 7.5 Hz, 1H), 7.56 (d, J = 7.5 Hz, 1H), 7.32−7.24 (m, 1H), 7.10−6.93 (m, 5H), 3.82−3.79 (m, 4H), 3.23−3.19 (m, 4H).
+4-152	13C NMR (75 MHz, CDCl3): δ 168.6, 155.75 (d, J = 244.2 Hz), 152.6, 139.57 (d, J = 8.6 Hz), 130.7, 126.0, 124.5, 123.18 (d, J = 8.1 Hz), 121.5, 120.7, 119.1 (2C), 116.24 (d, J = 20.4 Hz), 50.0 (2C), 48.5 (2C).
+4-153	IR (KBr) νmax: 3059, 2955, 2929, 1588, 1538, 1453, 1280, 744, 697, 567 cm−1.
+4-154	MS: m/z 314 [M + H]+.
+4-155	Anal. Calcd for C17H16FN3S: C, 65.15; H, 5.15; N, 13.41.
+4-156	Found: C, 65.52; H, 5.45; N, 13.62.
+4-157	(E)-2-(4-Cinnamylpiperazin-1-yl)benzo[d]thiazole (4b).
+4-158	White crystals, 0.305 g, yield 91%, mp 122−123 °C. R f = 0.7 (50% ethyl acetate/n-hexane).
+4-159	1H NMR (300 MHz, CDCl3): δ 7.59 (d, J = 7.8 Hz, 1H), 7.55 (d, J = 8.1 Hz, 1H), 7.40−7.21 (m, 6H), 7.07 (dd, J = 7.8, 7.5 Hz, 1H), 6.55 (d, J = 15.6 Hz, 1H), 6.32−6.24 (m, 1H), 3.67 (dd, J = 5.1, 4.8 Hz, 4H), 3.22 (d, J = 6.9 Hz, 2H), 2.64 (dd, J = 5.1, 4.8 Hz, 4H).
+4-160	13C NMR (75 MHz, CDCl3): δ 168.8,152.5,136.5, 133.6,130.6,128.5,127.6,126.3,126.0,125.7,125.5,121.4,120.6, 118.9, 114.9, 60.9, 52.2 (2C), 48.3 (2C).
+4-161	IR (KBr) νmax : 3051, 3025, 2923, 1594, 1543, 1446, 1291, 752, 693 cm−1.
+4-162	MS: m/z 336 [M + H]+ .
+4-163	Anal. Calcd for C20H21N3S: C, 71.61; H, 6.31; N, 12.53.
+4-164	Found: C, 71.33; H, 6.64; N, 12.16.
+4-165	2-(4-(2-Chlorophenyl)piperazin-1-yl)benzo[d]thiazole (4c).
+4-166	White crystals, 0.310 g, yield 94%, mp 132−133 °C. R f = 0.5 (20% ethyl acetate/n-hexane).
+4-167	1H NMR (300 MHz, CDCl3): δ 7.61 (d, J = 8.1 Hz, 1H), 7.57 (d, J = 9.0 Hz, 1H), 7.39 (d, J = 8.1 Hz, 1H), 7.30 (dd, J = 8.1, 7.2 Hz, 1H), 7.24 (dd, J = 11.4, 8.1 Hz, 1H), 7.11−6.98 (m, 3H), 3.82 (m, 4H), 3.18 (m, 4H).
+4-168	13C NMR (75 MHz, CDCl3): δ 168.8, 152.6, 148.6, 130.7 (2C), 128.9, 127.6, 126.0, 124.2, 121.4, 120.7, 120.5, 119.1, 50.7 (2C), 48.6 (2C).
+4-169	IR (KBr) νmax : 3072, 2946, 2923, 1592, 1540, 1445, 1265, 758, 677 cm−1.
+4-170	MS: m/z 330 [M + H]+ .
+4-171	Anal. Calcd for C17H16ClN3S: C, 61.99; H, 4.90; N, 12.77.
+4-172	Found: C, 62.3; H, 4.73; N, 12.64.
+4-173	2-(4-Phenylpiperazin-1-yl)benzo[d]thiazole (4d).
+4-174	White crystals, 0.283 g, yield 96%, mp 181−182 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-175	1H NMR (300 MHz, CDCl3): δ 7.60 (d, J = 8.9 Hz, 1H), 7.57 (d, J = 9.0 Hz, 1H), 7.31−7.24 (m, 3H), 7.08 (t, J = 7.2 Hz, 1H), 6.98 (m, 3H), 3.80−3.77 (m, 4H), 3.32−3.29 (m, 4H).
+4-176	13C NMR (75 MHz, CDCl3): δ 168.6, 152.6, 150.9, 130.7, 129.2 (2C), 126.0, 121.5, 120.7 (2C), 119.2, 116.8 (2C), 49.1 (2C), 48.3 (2C).
+4-177	IR (KBr) νmax: 2926, 2841, 1594, 1539, 1444, 1230, 755, 687, 518 cm−1.
+4-178	MS: m/z 296 [M + H]+ .
+4-179	Anal. Calcd for C17H17N3S: C, 69.12; H, 5.80; N, 14.22.
+4-180	Found: 69.33; H, 5.61; N, 14.06.
+4-181	2-(4-(Pyridin-2-yl)piperazin-1-yl)benzo[d]thiazole (4e).
+4-182	White crystals, 0.281 g, yield 95%, mp 192−193 °C. R f = 0.5 (20% ethyl acetate/n-hexane).
+4-183	1H NMR (300 MHz, CDCl3): δ 8.21 (d, J = 4.2 Hz, 1H), 7.61 (d, J = 7.8 Hz, 1H), 7.57 (d, J = 8.4 Hz, 1H), 7.51 (dd, J = 7.2, 8.4 Hz, 1H), 7.30 (dd, J = 7.5, 7.8 Hz, 1H), 7.08 (t, J = 7.5 Hz, 1H), 6.70−6.65 (m, 2H), 3.74−3.73 (m, 8H).
+4-184	13C NMR (75 MHz, CDCl 3): δ 168.7,159.0,152.5,148.0,137.6,130.6,126.0, 121.5, 120.7, 119.1, 113.9, 107.3, 48.0 (2C), 44.7 (2C).
+4-185	IR (KBr) νmax: 3028,2929,2821,1564,1540,1449,1298,1230,738,623,516,496 cm−1.
+4-186	MS: m/z 297 [M + H]+.
+4-187	Anal. Calcd for C16H16N4S: C, 64.84; H, 5.45; N, 18.92.
+4-188	Found: C, 65.07; H, 5.16; N, 19.25.
+4-189	2-(4-Methylpiperazin-1-yl)benzo[d]thiazole (4f).
+4-190	White crystals, 0.217 g, yield 93%, mp 94−95 °C. Rf = 0.7 (80% ethyl acetate/n-hexane).
+4-191	1H NMR (300 MHz, CDCl3): δ 7.56 (t, J = 9.0 Hz, 2H), 7.28 (dd, J = 7.2, 7.5 Hz, 1H), 7.06 (dd, J = 7.5, 7.2 Hz, 1H), 3.66−3.63 (m, 4H), 2.54−2.51 (m, 4H), 2.33 (s, 3H).
+4-192	13C NMR (75 MHz, CDCl 3): δ 168.6, 152.6, 130.6, 125.9, 121.3, 120.5, 119.0, 54.1 (2C), 48.1 (2C), 46.0.
+4-193	MS: m/z 234 [M + H]+.
+4-194	Anal. Calcd for C12H15N3S: C, 61.77; H, 6.48; N, 18.01.
+4-195	Found: C, 61.49; H, 6.79; N, 17.64.
+4-196	N,N-Dimethylbenzo[d]thiazol-2-amine (4g).
+4-197	White crystals, 0.164 g, yield 92%, mp 84−85 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-198	1H NMR (300 MHz, CDCl3): δ 7.56 (t, J = 6.3 Hz, 2H), 7.27 (t, J = 7.5 Hz, 1H), 7.03 (dd, J = 7.2, 7.5 Hz, 1H), 3.17 (s, 6H).
+4-199	13C NMR (75 MHz, CDCl 3): δ 168.6,153.1,131.0,125.8,120.8,120.5, 118.7, 40.1, 40.0.
+4-200	IR (KBr) νmax : 3054, 2919, 1598, 1567, 1548, 1452, 1418, 1294, 751, 724 cm−1.
+4-201	MS: m/z 179 [M + H]+.
+4-202	Anal. Calcd for C9H10N2S: C, 60.65; H, 5.66; N, 15.73.
+4-203	Found: C, 60.40; H, 5.95; N, 15.57.
+4-204	N,N-Diethylbenzo[d]thiazol-2-amine (4h).
+4-205	Colorless oil, 0.192 g, yield 93%.
+4-206	Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-207	1H NMR (300 MHz, CDCl 3): δ 7.54 (t, J = 8.4 Hz, 2H), 7.25 (dd, J = 7.8, 7.2 Hz, 1H), 7.01 (dd, J = 7.5, 7.2 Hz, 1H), 3.59−3.52 (m, 4H), 1.29−1.25 (m, 6H).
+4-208	13C NMR (75 MHz, CDCl 3): δ 167.2,153.2,130.5,125.6,120.5,120.4, 118.4, 45.5 (2C), 12.7 (2C).
+4-209	IR (KBr) νmax : 3067, 2966, 2871, 1597, 1536, 1256, 1067, 1007, 728, 692, 550 cm−1.
+4-210	MS: m/z 207 [M + H]+ .
+4-211	Anal. Calcd for C11H14N2S: C, 64.05; H, 6.85; N, 13.59.
+4-212	Found: C, 63.86; H, 7.06; N, 13.78.
+4-213	N,N-Diisopropylbenzo[d]thiazol-2-amine (4i).
+4-214	Colorless oil, 0.220 g, yield 94%.
+4-215	Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-216	1H NMR (300 MHz, CDCl3): δ 7.67 (d, J = 8.1 Hz, 1H), 7.63 (d, J = 8.4 Hz, 1H), 7.36 (dd, J = 7.2, 7.5 Hz, 1H), 7.22 (dd, J = 8.4, 7.2 Hz, 1H), 3.71−3.62 (m, 2H), 1.29 (s, 3H), 1.24 (s, 6H), 1.21 (s, 3H).
+4-217	13C NMR (75 MHz, CDCl 3): δ 168.5,152.4,130.5,125.5,121.3,120.5,119.0, 46.0 (2C), 20.7 (2C), 19.6 (2C).
+4-218	IR (KBr) νmax : 3089, 2944, 2856, 1562, 1540, 1258, 729, 692, 545 cm−1.
+4-219	MS: m/z 235 [M + H]+ .
+4-220	Anal. Calcd for C13H18N2S: C, 66.63; H, 7.75; N, 11.96.
+4-221	Found: C, 66.93; H, 7.91; N, 11.78.
+4-222	N,N-Dibutylbenzo[d]thiazol-2-amine (4j).
+4-223	Colorless oil, 0.239 g, yield 91%.
+4-224	Rf = 0.8 (20% ethyl acetate/n-hexane).
+4-225	1H NMR (300 MHz, CDCl3): δ 7.52 (dd, J = 9.3, 8.4 Hz, 2H), 7.24 (ddd, J = 8.1, 7.3, 1.2 Hz, 1H), 6.99 (t, J = 7.5 Hz, 1H), 3.48 (t, J = 7.5 Hz, 4H), 1.66 (quintet, J = 7.2 Hz, 4H), 1.37 (sextuplet, J = 7.5 Hz, 4H), 0.95 (t, J = 7.2 Hz, 6H).
+4-226	13C NMR (75 MHz, CDCl3): δ 167.8,153.2,130.6,125.6,120.5, 120.3, 118.4, 50.9 (2C), 29.5 (2C), 20.0 (2C), 13.8 (2C).
+4-227	IR (KBr) νmax: 3077, 2931, 2841, 1550, 1533, 1262, 1223, 736, 545 cm−1.
+4-228	MS: m/z 263 [M + H]+ .
+4-229	Anal. Calcd for C15H22N2S: C, 68.66; H, 8.46; N, 10.68.
+4-230	Found: C, 68.82; H, 8.16; N, 10.55.
+4-231	4-(Benzo[d]thiazol-2-yl)morpholine (4k).
+4-232	White crystals, 0.204 g, yield 93%, mp 123−124 °C. Rf = 0.5 (20% ethyl acetate/n-hexane).
+4-233	1H NMR (300 MHz, CDCl 3): δ 7.58 (dd, J = 8.7, 8.4 Hz, 2H), 7.29
+4-234	(dd, J = 7.8, 7.5 Hz, 1H), 7.08 (t, J = 7.5 Hz, 1H), 3.80 (t, J = 4.8 Hz, 4H), 3.59 (t, J = 4.8 Hz, 4H).
+4-235	13C NMR (75 MHz, CDCl3): δ 168.8, 152.3, 130.4, 125.9, 121.5, 120.6, 119.2, 66.1 (2C), 48.3 (2C).
+4-236	IR (KBr) νmax: 2960, 2855, 1594, 1563, 1540, 1442, 1290, 1229, 1113, 1032, 1017, 757 cm−1.
+4-237	MS: m/z 221 [M + H]+.
+4-238	Anal. Calcd for C11H12N2OS: C, 59.98; H, 5.50; N, 12.73.
+4-239	Found: C, 60.11; H, 5.84; N, 12.40.
+4-240	2-(Piperidin-1-yl)benzo[d]thiazole (4l).
+4-241	White crystals, 0.209 g, yield 96%, mp 82−83 °C. R f = 0.7 (20% ethyl acetate/n-hexane).
+4-242	1H NMR (300 MHz, CDCl 3): δ 7.54 (t, J = 7.8 Hz, 2H), 7.25 (t, J = 7.5 Hz, 1H), 7.02 (t, J = 7.5 Hz, 1H), 3.56 (m, 4H), 1.65 (m, 6H).
+4-243	13C NMR (75 MHz, CDCl 3): δ 168.7,152.8,130.5,125.7,120.8,120.4, 118.6, 49.4 (2C), 25.1 (2C), 24.1.
+4-244	IR (KBr) νmax : 3028, 2953, 2845, 1544, 1531, 1436, 1224, 1028, 737 cm−1.
+4-245	MS: m/z 219 [M + H]+ .
+4-246	Anal. Calcd for C12H14N2S: C, 66.03; H, 6.47; N, 12.84.
+4-247	Found: C, 66.33; H, 6.16; N, 13.13.
+4-248	Methyl 3-(4-Hydroxyphenyl)-2-isothiocyanatopropanoate (5).
+4-249	Viscous liquid, 0.175 g, yield 74%.
+4-250	Rf = 0.7 (30% ethyl acetate/n-hexane).
+4-251	1H NMR (300 MHz, CDCl3): δ 7.05 (d, J = 8.1 Hz, 2H), 6.79 (d, J = 8.4 Hz, 2H), 6.10 (bs, 1H), 4.45 (dt, J = 4.5, 3.0 Hz, 1H), 3.77 (s, 3H), 3.19−3.02 (m, 2H).
+4-252	13C NMR (75 MHz, CDCl3): δ 168.7, 155.1, 137.5, 130.5 (2C), 126.6, 115.6 (2C), 60.9, 53.1, 38.8.
+4-253	IR (KBr) νmax: 3540, 2947, 1742, 1537, 1431, 1228, 1178, 1019, 767, 546 cm−1.
+4-254	MS: m/z 238 [M + H]+.
+4-255	Anal. Calcd for C11H11NO3S: C, 55.68; H, 4.67; N, 5.90.
+4-256	Found: C, 56.05; H, 4.97; N, 6.13.
+4-257	2-(1H-Benzo[d][1,2,3]triazol-1-yl)benzo[d]thiazole (6).
+4-258	White crystals, 0.244 g, yield 97%, mp 175−176 °C. Rf = 0.6 (5% ethyl acetate/n-hexane).
+4-259	1H NMR (300 MHz, CDCl3): δ 8.62 (d, J = 8.4 Hz, 1H), 8.13 (d, J = 8.4 Hz, 1H), 8.31 (d, J = 8.1 Hz, 1H), 7.87 (d, J = 7.8 Hz, 1H), 7.69 (dd, J = 7.8, 7.5 Hz, 1H), 7.50 (dd, J = 7.8, 7.5 Hz, 2H), 7.40 (dd, J = 7.8, 7.5 Hz, 1H).
+4-260	13C NMR (75 MHz, CDCl3): δ 157.1,150.6,146.6,132.2,131.0,129.8,126.6,125.8,125.4, 122.9, 121.4, 120.1, 113.7.
+4-261	IR (KBr) νmax: 3098, 2967, 1610, 1595, 1578, 1528, 1487, 1440, 1288, 1157, 989, 891, 735, 665 cm−1.
+4-262	MS: m/z 253 [M + H]+.
+4-263	Anal. Calcd for C13H8N4S: C, 61.89; H, 3.20; N, 22.22.
+4-264	Found: C, 62.10; H, 3.07; N, 21.91.
+4-265	Procedure for the Synthesis of N-(Ferrocenylmethyl)-N-alkylthiocarbamoylbenzotriazoles (3p−t).
+4-266	The ferrocene-contain- ing secondary amines 1p−t were prepared from readily available ferrocenecarboxaldehyde and various primary amines using a standard protocol reported in literature.[44]
+4-267	Thus, to a stirring solution of bis(benzotriazole)methanethione (2) (0.567 g, 2.02 mmol) in dry CH2Cl2 (5 mL) was added a solution of amine 1p−t (2.0 mmol) in dry CH2Cl2 (5 mL) in the presence of Et3N under an inert atmosphere at room temperature.
+4-268	After completion of the reaction (10−15 min, as monitored by TLC), the reaction mixture was concentrated in vacuo.
+4-269	After extraction with CH2Cl2 and washing twice with 10% Na2CO3, water, and saturated brine solution, the organic layer was dried over anhydrous Na2SO4.
+4-270	Further concentration under reduced pressure followed by purification with flash column chromatography using gradient mixtures of ethyl acetate and n-hexane afforded pure benzo- triazolemethanethione 3p−t.
+4-271	N-(Ferrocenylmethyl)-N-phenethyl-1H-benzo[d][1,2,3]triazole-1-carbothioamide (3p).
+4-272	Red crystals, 0.826 g, yield 86%, mp 144−145 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-273	1H NMR (300 MHz, CDCl3): δ 8.05 (d, J = 8.1 Hz, 1H), 7.99 (d, J = 8.4 Hz, 1H), 7.60 (dd, J = 7.2, 7.5 Hz, 1H), 7.48 (dd, J = 8.1, 7.8 Hz, 1H), 7.33−7.28 (m, 3H), 7.14−7.09 (m, 2H), 5.15 (s, 2H), 4.47 (s, 2H), 4.24−4.10 (m, 7H), 3.69 (t, J = 7.2 Hz, 2H), 2.86 (t, J = 7.2 Hz, 2H).
+4-274	13C NMR (75 MHz, CDCl3): δ 174.4, 145.9, 138.1, 133.4, 128.8 (2C), 128.6 (3C), 126.7, 124.9, 119.8, 113.5, 80.7, 70.0 (2C), 69.4 (2C), 68.8 (5C), 54.7, 53.4, 31.7.
+4-275	IR (KBr) νmax: 2941, 1605, 1589, 1509, 1232, 1167, 1032, 1009, 749, 489 cm−1.
+4-276	MS: m/z 481 [M + H]+.
+4-277	Anal. Calcd for C26H24N4FeS: C, 64.99; H, 5.04; N, 11.67.
+4-278	Found: C, 64.60; H, 5.30; N, 11.36.
+4-279	N-Benzyl-N-(ferrocenylmethyl)-1H-benzo[d][1,2,3]triazole-1-car- bothioamide (3q).
+4-280	Red crystals, 0.783 g, yield 84%, mp 124−125 °C. R f = 0.6 (20% ethyl acetate/n-hexane).
+4-281	1H NMR (300 MHz, CDCl3): δ 7.99 (d, J = 7.8 Hz, 1H), 7.95 (d, J = 8.1 Hz, 1H), 7.59 (dd, J = 7.8, 7.5 Hz, 1H), 7.46−7.31 (m, 6H), 5.12 (s, 2H), 4.72 (s, 2H), 4.48
+4-282	(s, 2H), 4.20−4.14 (m, 7H).
+4-283	13C NMR (75 MHz, CDCl3): δ 176.0, 146.6, 134.6, 128.9 (2C), 128.5 (2C), 127.9, 127.0, 124.7, 119.6, 113.2, 80.5, 70.0 (2C), 69.1 (2C), 68.7 (5C), 55.2, 51.9.
+4-284	IR (KBr) νmax: 3029, 2947, 1609, 1590, 1530, 1228, 1170, 1023, 1012, 751, 469 cm−1.
+4-285	MS: m/z 467 [M + H]+.
+4-286	Anal. Calcd for C 25H22N4FeS: C, 64.37; H, 4.76; N, 12.02.
+4-287	Found: C, 64.10; H, 4.43; N, 11.77.
+4-288	N-(Furan-2-ylmethyl)-N-(ferrocenylmethyl)-1H-benzo[d][1,2,3]-triazole-1-carbothioamide (3r).
+4-289	Red crystals, 0.739 g, yield 81%, mp 104−105 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-290	1H NMR (300 MHz, CDCl3): δ 7.85 (d, J = 8.1 Hz, 2H), 7.49−7.41 (m, 2H), 7.34 (d, J = 3.6 Hz, 1H), 6.52 (s, 1H), 6.36 (s, 1H), 5.05 (s, 2H), 4.55 (s, 2H), 4.43 (s, 2H), 4.15−4.06 (m, 7H).
+4-291	13C NMR (75 MHz, CDCl3): δ 175.4,147.9,145.8,142.6,133.4,128.8,124.9,119.6,113.5,110.6, 109.5, 80.1, 70.0 (2C), 69.3 (2C), 68.6 (5C), 52.3, 48.3.
+4-292	IR (KBr) νmax: 2962, 2921, 1596, 1531, 1444, 1105, 1018, 816, 473 cm−1.
+4-293	MS: m/z 457 [M + H]+.
+4-294	Anal. Calcd for C 23H20FeN 4OS: C, 60.52; H, 4.42; N, 12.28.
+4-295	Found: C, 60.71; H, 4.18; N, 12.67.
+4-296	N-Cyclohexyl-N-(ferrocenylmethyl)-1H-benzo[d][1,2,3]triazole-1-carbothioamide (3s).
+4-297	Red crystals, 0.761 g, yield 83%, mp 106−107 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-298	1H NMR (300 MHz, CDCl 3): δ 7.99 (m, 2H), 7.43−7.32 (m, 2H), 4.88 (s, 2H), 4.35 (s, 2H), 4.19−4.11 (m, 7H), 3.33−3.26 (m, 1H), 2.15 (m, 2H), 1.92 (m, 2H), 1.80−1.36 (m, 4H).
+4-299	13C NMR (75 MHz, CDCl3): δ 175.5,145.7, 133.2, 128.4, 124.6, 119.2, 113.3, 82.1, 69.6, 69.5, 68.8 (2C), 68.6 (3C), 68.1, 67.7, 64.0, 47.2, 32.8, 30.1, 25.5 (3C).
+4-300	IR (KBr) νmax: 2935, 2855, 1660, 1909, 1470, 1449, 1036, 747, 482 cm−1.
+4-301	MS: m/z 459 [M + H]+.
+4-302	Anal. Calcd for C24H26N4FeS: C, 62.87; H, 5.72; N, 12.23.
+4-303	Found: C, 62.64; H, 5.87; N, 12.49.
+4-304	N-Butyl-N-(ferrocenylmethyl)-1H-benzo[d][1,2,3]triazole-1-car- bothioamide (3t).
+4-305	Red crystals, 0.735 g, yield 85%, mp 92−93 °C. R f = 0.6 (20% ethyl acetate/n-hexane).
+4-306	1H NMR (300 MHz, CDCl3): δ 8.08 (d, J = 8.1 Hz, 1H), 8.04 (d, J = 8.4 Hz, 1H), 7.56−7.52 (m, 2H), 5.14 (s, 2H), 4.50 (s, 2H), 4.22 (m, 7H), 3.40 (m, 2H), 1.80 (m, 2H), 1.53 (m, 2H), 0.98 (s, 3H).
+4-307	13C NMR (75 MHz, CDCl3): δ 174.3,145.6,133.2,128.6,124.8,119.6,113.3,80.4,69.8,69.1,68.9 (2C), 68.6 (3C), 68.4 (2C), 52.9, 51.7, 27.5, 20.0, 13.2.
+4-308	IR (KBr) νmax: 1597, 1536, 1067, 1007, 959, 891, 728, 692, 650 cm−1.
+4-309	MS: m/z 433 [M + H]+.
+4-310	Anal. Calcd for C22H24FeN4S: C, 61.10; H, 5.60; N, 12.96.
+4-311	Found: C, 61.33; H, 5.31; N, 13.15.
+4-312	Procedure for the Synthesis of N-Alkyl-N-(ferrocenyl- methyl)benzothiazol-2-amines (4p−t).
+4-313	Compounds 4p−t were obtained by the same procedure as for the synthesis of 2-(N,N- dialkylamino)benzothiazoles 4a−l.
+4-314	N-(Ferrocenylmethyl)-N-phenethylbenzo[d]thiazol-2-amine (4p).
+4-315	Red crystals, 0.425 g, yield 94%, mp 158−159 °C. Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-316	1H NMR (300 MHz, CDCl3): δ 7.56 (d, J = 8.1 Hz, 1H), 7.31−7.26 (m, 3H), 7.23−7.15 (m, 3H), 7.04 (dd, J = 7.5, 7.8 Hz, 1H), 4.45 (s, 1H), 4.27 (s, 1H), 4.17 (s, 5H), 4.13 (s, 2H), 3.58 (dd, J = 7.5, 7.8 Hz, 2H), 2.88 (dd, J = 8.1, 7.2 Hz, 2H).
+4-317	13C NMR (75 MHz, CDCl 3): δ 167.3, 153.1, 138.8, 130.7, 128.8 (2C), 128.5 (2C), 126.4, 125.8, 120.8, 120.5, 118.7, 82.5, 69.5, 69.4, 68.7, 68.6 (2C), 68.4 (3C), 68.3, 52.0, 50.4, 33.5.
+4-318	IR (KBr) νmax : 3020, 2927, 1597, 1542, 1384, 1229, 1148, 753, 481 cm−1.
+4-319	MS: m/z 453 [M + H]+.
+4-320	Anal. Calcd for C26H24N2FeS: C, 69.01; H, 5.35; N, 6.19.
+4-321	Found: C, 68.62; H, 5.52; N, 6.43.
+4-322	N-Benzyl-N-(ferrocenylmethyl)benzo[d]thiazol-2-amine (4q).
+4-323	Red crystals, 0.416 g, yield 95%, mp 151−152 °C. R f = 0.7 (20% ethyl acetate/n-hexane).
+4-324	1H NMR (300 MHz, CDCl3): δ 7.57 (d, J = 7.8 Hz, 1H), 7.56 (d, J = 7.8 Hz, 1H), 7.35−7.24 (m, 6H), 7.07−7.02 (m, 1H), 4.66 (s, 2H), 4.49 (s, 2H), 4.24−4.23 (m, 2H), 4.14−4.10 (m, 7H).
+4-325	13C NMR (75 MHz, CDCl3): δ 168.4,153.0,136.5,130.8, 128.6, 127.5 (2C), 125.8, 121.0, 120.8, 120.5, 118.8, 82.1, 69.7, 69.5, 68.6 (5C), 68.2, 52.8, 49.3.
+4-326	IR (KBr) νmax : 3027, 2921, 1593, 1562, 1536, 1441, 1297, 750, 728, 472 cm−1.
+4-327	MS: m/z 439 [M + H]+ .
+4-328	Anal. Calcd for C25H22N2FeS: C, 68.48; H, 5.06; N, 6.39.
+4-329	Found: C, 68.69; H, 5.26; N, 6.70.
+4-330	N-(Furan-2-ylmethyl)-N-(ferrocenylmethyl)benzo[d]thiazol-2-amine (4r).
+4-331	Red crystals, 0.771 g, yield 90%, mp 99−100 °C. R f = 0.7 (20% ethyl acetate/n-hexane).
+4-332	1H NMR (300 MHz, CDCl 3): δ 7.57 (d, J = 8.1 Hz, 2H), 7.38 (d, J = 1.2 Hz, 1H), 7.28 (dd, J = 8.4, 6.9 Hz,
+4-333	1H), 7.08−7.05 (m, 1H), 6.34−6.32 (m, 1H), 6.28 (d, J = 2.4 Hz, 1H), 4.62 (s, 2H), 4.50 (s, 2H), 4.29 (d, J = 1.8 Hz, 2H), 6.91 (s, 5H), 4.13 (t, J = 1.8 Hz, 2H).
+4-334	13C NMR (75 MHz, CDCl3): δ 167.7,152.8, 150.2,142.3,130.8,125.8,121.1,120.5,118.9,110.2,108.7,81.9,69.7, 69.5, 68.7 (2C), 68.5 (3C), 68.4, 68.2, 49.4, 45.4.
+4-335	IR (KBr) νmax: 3031, 2947, 1581, 1548, 1518, 1443, 1257, 755, 723, 492 cm−1.
+4-336	MS: m/z 429 [M + H]+ .
+4-337	Anal. Calcd for C23H20N2OFeS: C, 64.48; H, 4.71; N, 6.54.
+4-338	Found: C, 64.29; H, 4.34; N, 6.21.
+4-339	N-Cyclohexyl-N-(ferrocenylmethyl)benzo[d]thiazol-2-amine (4s).
+4-340	Red crystals, 0.404 g, yield 94%, mp 134−135 °C. Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-341	1H NMR (300 MHz, CDCl3): δ 7.56−7.53 (m, 2H), 7.26 (dd, J = 8.4, 6.9 Hz, 1H), 7.01 (dd, J = 7.5, 7.2 Hz, 1H), 4.51 (s, 2H), 4.40 (s, 2H), 4.21−4.19 (m, 5H), 4.06 (s, 2H), 3.77−3.73 (m, 1H), 1.80−1.65 (m, 3H), 1.53−1.29 (m, 4H), 1.18−1.10 (m, 1H).
+4-342	13C NMR (75 MHz, CDCl 3): δ 167.9,153.0,130.4,125.6,120.5,120.3, 118.6, 84.9, 69.9, 69.7, 68.7, 68.67 (2C), 68.60 (2C), 67.8, 67.6, 61.1, 45.9, 31.0 (2C), 26.0 (2C), 25.5.
+4-343	IR (KBr) νmax: 2934, 2850, 1595, 1561, 1525, 1443, 1282, 748, 483 cm−1.
+4-344	MS: m/z 431 [M + H]+.
+4-345	Anal. Calcd for C24H26FeN2S: C, 66.96; H, 6.09; N, 6.51.
+4-346	Found: C, 66.66; H, 6.48; N, 6.27.
+4-347	N-Butyl-N-(ferrocenylmethyl)benzo[d]thiazol-2-amine (4t).
+4-348	Red oil, 0.375 g, yield 93%.
+4-349	Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-350	1H NMR (300 MHz, CDCl3): δ 7.54 (d, J = 6.9 Hz, 2H), 7.26 (dd, J = 7.8, 7.5 Hz, 1H), 7.01 (dd, J = 7.5, 7.2 Hz, 1H), 4.52 (s, 2H), 4.28 (s, 2H), 4.18−4.10 (m, 7H), 3.36 (t, J = 6.9 Hz, 2H), 1.65−1.53 (m, 2H), 1.38−1.26 (m, 2H), 0.92 (t, J = 6.0 Hz, 3H).
+4-351	13C NMR (75 MHz, CDCl3): δ 167.7,153.1,130.6,125.7,120.6,120.4,118.5,82.6,69.4, 69.3, 68.6 (4C), 68.5, 68.2 (2C), 50.0, 49.5, 29.1, 20.0, 13.8.
+4-352	IR (KBr) νmax: 3088, 2976, 2857, 1580, 1540, 1528, 1445, 1244, 761, 728, 488 cm−1.
+4-353	MS: m/z 405 [M + H]+.
+4-354	Anal. Calcd for C22H24FeN2S: C, 65.35; H, 5.98; N, 6.93.
+4-355	Found: C, 65.62; H, 6.26; N, 6.59.
+4-356	1,3-Dibenzyl-1-(ferrocenylmethyl)thiourea (7).
+4-357	Compound 7 was obtained using a known procedure reported by Katritzky et al.[38] To a stirring solution of N-benzyl-N-(ferrocenylmethyl)-1H-benzo- [d][1,2,3]triazole-1-carbothioamide (3q) (0.454 g, 1.01 mmol) in dry CH2Cl2 (5 mL) was added a solution of benzylamine (1.0 mmol) in dry CH2Cl2 (5 mL) in the presence of Et3N under an inert atmosphere at room temperature.
+4-358	After completion of the reaction (10−15 min, as monitored by TLC), the reaction mixture was concentrated in vacuo.
+4-359	After extraction with CH2Cl2 and washing twice with 10% Na2CO3, water, and saturated brine solution, the organic layer was dried over anhydrous Na2SO4.
+4-360	In vacuo concentration followed by purification with flash column chromatography using gradient mixtures of ethyl acetate and n-hexane afforded pure benzotriazolemethanethione 7.
+4-361	Red crystals, 0.399 g, yield 87%, mp 116−117 °C. Rf = 0.6 (20% ethyl acetate/n-hexane).
+4-362	1H NMR (300 MHz, CDCl3): δ 7.29−7.18 (m, 8H), 7.05 (m, 2H), 5.69 (bs, 1H), 4.84 (s, 2H), 4.80−4.76 (m, 4H), 4.22 (s, 2H), 4.10 (m, 7H).
+4-363	13C NMR (75 MHz, CDCl3): δ 182.1, 137.7, 135.9, 128.9 (2C), 128.5 (2C), 127.7, 127.6 (2C), 127.4, 126.8 (2C), 82.5, 69.2 (2C), 68.7 (5C), 68.3 (2C), 53.3, 50.8, 50.5.
+4-364	IR (KBr) νmax: 3337, 3057, 2909, 1603, 1536, 1339, 1182, 1020, 732, 697, 497, 480, 453 cm−1.
+4-365	MS: m/z 455 [M + H]+.
+4-366	Anal. Calcd for C26H26FeN2S: C, 68.72; H, 5.77; N, 6.16.
+4-367	Found: C, 68.48; H, 6.13; N, 5.85.
+4-368	Procedure for the Synthesis of Arylthiocarbonylbenzotria- zoles (8a and 8b).
+4-369	To a solution of p-methoxy/p-methylphenylmag- nesium bromide (5 mL, 1 M, 5.0 mmol) in THF at 0 °C was added carbon disulfide (450 μL, 5 mmol).
+4-370	The reaction mixture was heated for 3 h and then cooled to room temperature, and 1-chlorobenzo- triazole (1.55 g, 10 mmol) was added.
+4-371	After stirring overnight at room temperature, the reaction mixture was concentrated in vacuo and purified by flash silica gel column chromatography.[38]
+4-372	(1H-Benzo[d][1,2,3]triazol-1-yl)(4-methoxyphenyl)methane- thione (8a).
+4-373	Orange crystals, 0.632 g, yield 47%, mp 130−131 °C. R f = 0.7 (20% ethyl acetate/n-hexane).
+4-374	1H NMR (300 MHz, CDCl3): δ 8.51 (d, J = 8.4 Hz, 1H), 8.19 (d, J = 8.1 Hz, 1H), 7.70 (t, J = 7.2 Hz, 1H), 7.55 (dd, J = 7.2, 8.4 Hz, 1H), 7.19 (d, J = 9.0 Hz, 2H), 7.02 (d, J = 9.0 Hz, 2H), 3.86 (s, 3H).
+4-375	13C NMR (75 MHz, CDCl3): δ 182.6, 158.2, 146.6, 146.1, 131.7, 130.7, 126.2, 122.8 (2C), 120.8, 115.2, 114.7 (2C), 55.5.
+4-376	IR (KBr) νmax: 3242, 2926, 1596, 1502, 1448, 1381, 1194, 1028, 1013, 833, 769, 752, 574 cm−1.
+4-377	MS: m/z 270
+4-378	[M + H]+.
+4-379	Anal. Calcd for C 14H11N3OS: C, 62.44; H, 4.12; N, 15.60.
+4-380	Found: C, 62.44; H, 4.12; N, 15.60.
+4-381	(1H-Benzo[d][1,2,3]triazol-1-yl)(p-tolyl)methanethione (8b).
+4-382	Or- ange crystals, 0.6671 g, yield 53%, mp 140−142 °C. Rf = 0.7 (20% ethyl acetate/n-hexane).
+4-383	1H NMR (300 MHz, CDCl3): δ 8.50 (d, J = 8.1 Hz, 1H), 8.19 (d, J = 7.8 Hz, 1H), 7.70 (dd, J = 7.5, 7.8 Hz, 1H), 7.32 (d, J = 8.1 Hz, 2H), 7.15 (d, J = 8.1 Hz, 2H), 2.43 (s, 3H).
+4-384	13C NMR (75 MHz, CDCl 3): δ 182.4,150.5,146.6,137.1,131.7,130.7, 130.4 (2C), 126.2, 121.6 (2C), 120.8, 115.1, 21.0.
+4-385	IR (KBr) νmax 3244, 2923, 1584, 1535, 1452, 1367, 1176, 1023, 1011, 842, 758, 577 cm−1.
+4-386	MS: m/z 254 [M + H]+.
+4-387	Anal. Calcd for C14H11N3S: C, 66.38; H, 4.38; N, 16.59.
+4-388	Found: C, 66.72; H, 4.65; N, 16.93.
+4-389	Procedure for the Synthesis of 2-(Aryl)benzothiazoles (9a and 9b).
+4-390	Compounds 9a and 9b were obtained by the same procedure as for the synthesis of 2-(N,N-dialkylamino)benzothiazoles (4a−l).
+4-391	2-(4-Methoxyphenyl)benzo[d]thiazole (9a).
+4-392	White solid, 0.214 g, yield 89%, mp 130−132 °C. Rf = 0.8 (20% ethyl acetate/n-hexane).
+4-393	1H NMR (300 MHz, CDCl3): δ 7.73 (d, J = 8.1 Hz, 1H), 7.64 (d, J = 8.1 Hz, 1H), 7.37 (t, J = 7.8 Hz, 1H), 7.28−7.25 (m, 3H), 6.95 (d, J = 8.7 Hz, 2H), 3.83 (s, 3H).
+4-394	13C NMR (75 MHz, CDCl3): δ 172.9, 157.7, 149.2, 148.3, 132.2, 126.2, 123.8, 121.8 (2C), 121.6, 121.2, 114.8 (2C), 55.5.
+4-395	IR (KBr) νmax: 3242, 2925, 1597, 1531, 1501, 1441, 1227, 1034, 828, 755 cm−1.
+4-396	MS: m/z 242 [M + H]+.
+4-397	Anal. Calcd for C14H11NOS: C, 69.68; H, 4.59; N, 5.80.
+4-398	Found: C, 69.51; H, 4.80; N, 5.64.
+4-399	2-(p-Tolyl)benzo[d]thiazole (9b).
+4-400	White solid, 0.196 g, yield 87%, mp 85−86 °C. Rf = 0.8 (20% ethyl acetate/n-hexane).
+4-401	1H NMR (300 MHz, CDCl3): δ 7.86 (d, J = 7.8 Hz, 1H), 7.61 (d, J = 7.8 Hz, 3H), 7.37 (t, J = 7.5 Hz, 1H), 7.28−7.20 (m, 4H), 2.39 (s, 3H).
+4-402	13C NMR (75 MHz, CDCl3): δ 172.8, 153.8, 139.8, 136.4 (2C), 131.1 (3C), 127.8, 126.4, 124,3, 121.3, 120.2, 22.7.
+4-403	IR (KBr) νmax: 3254, 2931, 1579, 1540, 159, 1445, 1225, 1040, 845, 747 cm−1.
+4-404	MS: m/z 226 [M + H]+.
+4-405	Anal. Calcd for C14H11NS: C, 74.96; H, 4.92; N, 6.22.
+4-406	Found: C, 74.63; H, 5.09; N, 6.09.
+4-407	Procedure for the Synthesis of (Alkyl/arylthio)thio- acylbenzotriazoles (RSCSBt, 11a−f) and Disulfide Byproducts (12a−f).
+4-408	To a stirring solution of bis(benzotriazole)methanethione
+4-409	Benzyl 1H-Benzo[d][1,2,3]triazole-1-carbodithioate (11a).
+4-410	Yellow crystals, 0.479 g, yield 56%, mp 108−110 °C. Rf = 0.7 (5% ethyl acetate/n-hexane).
+4-411	1H NMR (300 MHz, CDCl3): δ 8.74 (d, J = 8.4 Hz, 1H), 8.11 (d, J = 8.1 Hz, 1H), 7.64 (dd, J = 8.1, 7.5 Hz, 1H), 7.49 (dd, J = 8.1, 7.5 Hz, 1H), 7.45−7.42 (m, 2H), 7.36−7.29 (m, 3H), 4.59 (s, 2H).
+4-412	13C NMR (75 MHz, CDCl3): δ 197.4,147.1,133.9,132.1,131.0, 129.5 (2C), 128.7 (2C), 127.9, 126.5, 120.6, 115.5, 40.7.
+4-413	IR (KBr) νmax: 3123,2934,1609,1596,1541,1438,1357,1259,1147,1078,1019,845, 753, 559 cm−1.
+4-414	MS: m/z 286 [M + H]+.
+4-415	Anal. Calcd for C14H11N3S2: C, 58.92; H, 3.89; N, 14.72.
+4-416	Found: C, 59.11; H, 3.65; N, 14.53.
+4-417	2-Chlorobenzyl 1H-Benzo[d][1,2,3]triazole-1-carbodithioate (11b).
+4-418	Yellow crystals, 0.508 g, yield 53%, mp 99−100 °C. Rf = 0.7 (5% ethyl acetate/n-hexane).
+4-419	1H NMR (300 MHz, CDCl3): δ 8.73 (d, J = 8.4 Hz, 1H), 8.10 (d, J = 8.1 Hz, 1H), 7.64 (dd, J = 7.5, 7.8 Hz, 1H), 7.55−7.52 (m, 1H), 7.48 (dd, J = 8.4, 7.5 Hz, 1H), 7.41−7.38 (m, 1H), 7.27−7.20 (m, 2H), 4.71 (s, 2H).
+4-420	13C NMR (75 MHz, CDCl 3): δ 197.1,147.1,134.7,132.2,132.1,131.4,131.0,129.7,129.4, 126.9, 126.4, 120.5, 115.5, 38.4.
+4-421	IR (KBr) νmax: 3111, 2937, 1610, 1596, 1540, 1444, 1351, 1259, 1170, 1021, 828, 755, 640 cm−1.
+4-422	MS: m/z 320 [M + H]+.
+4-423	Anal. Calcd for C14H10ClN3S2: C, 52.66; H, 3.16; N, 13.17.
+4-424	Found: C, 52.49; H, 3.39; N, 12.81.
+4-425	Furan-2-ylmethyl 1H-Benzo[d][1,2,3]triazole-1-carbodithioate (11c).
+4-426	Yellow crystals, 0.405 g, yield 49%, mp 124−125 °C. R f = 0.7 (5% ethyl acetate/n-hexane).
+4-427	1H NMR (300 MHz, CDCl3): δ 8.74 (d, J = 8.4 Hz, 1H), 8.12 (d, J = 8.1 Hz, 1H), 7.66 (dd, J = 7.2, 8.1 Hz, 1H), 7.50 (t, J = 7.5 Hz, 1H), 7.38 (s, 1H), 6.40 (s, 1H), 6.34 (s, 1H), 4.66 (s, 2H).
+4-428	13C NMR (75 MHz, CDCl3): δ 196.7,147.6,147.2, 142.8, 132.2, 131.1, 126.5, 120.6, 115.4, 110.6, 109.5, 33.0.
+4-429	IR (KBr) νmax: 3126, 2927, 1593, 1540, 1446, 1361, 1289, 1163, 1098, 1009, 830, 747, 638, 601, 556, 427 cm−1.
+4-430	MS: m/z 276 [M + H]+.
+4-431	Anal. Calcd for C12H9N3OS2: C, 52.36; H, 3.30; N, 15.28.
+4-432	Found: C, 52.64; H, 3.08; N, 15.65.
+4-433	Phenyl 1H-Benzo[d][1,2,3]triazole-1-carbodithioate (11d).
+4-434	Yellow crystals, 0.553 g, yield 68%, mp 86−88 °C. Rf = 0.7 (5% ethyl acetate/n-hexane).
+4-435	1H NMR (300 MHz, CDCl3): δ 8.66 (d, J = 8.4 Hz, 1H), 8.14 (d, J = 8.4 Hz, 1H), 7.63 (dd, J = 7.8, 8.1 Hz, 1H), 7.56−7.46 (m, 6H).
+4-436	13C NMR (75 MHz, CDCl3): δ 198.0, 147.2, 136.3 (2C), 132.3, 131.1, 130.8, 129.6 (2C), 129.2, 126.5, 120.6, 115.5.
+4-437	IR (KBr) νmax: 3060,2924,1591,1447,1370,1289,1164,1098,1082,827,750,689, 517, 424 cm−1.
+4-438	MS: m/z 272 [M + H]+.
+4-439	Anal. Calcd for C13H9N3S2: C, 57.56; H, 3.35; N, 15.50.
+4-440	Found: C, 57.31; H, 3.64; N, 15.31.
+4-441	4-Chlorophenyl 1H-Benzo[d][1,2,3]triazole-1-carbodithioate (11e).
+4-442	Yellow crystals, 0.568 g, yield 62%, mp 128−129 °C. R f = 0.7 (5% ethyl acetate/n-hexane).
+4-443	1H NMR (300 MHz, CDCl3): δ 8.67 (d, J = 8.4 Hz, 1H), 8.16 (d, J = 8.1 Hz, 1H), 7.67 (dd, J = 7.2, 8.1 Hz, 1H), 7.56 (m, 5H).
+4-444	13C NMR (75 MHz, CDCl3): δ 197.3,147.3, 137.7 (2C), 137.5, 132.3, 131.3, 130.1 (2C), 127.7, 126.7, 120.7, 115.6.
+4-445	IR (KBr) νmax: 3071, 2944, 1608, 1597, 1443, 1389, 1232, 1134, 1087, 1062, 835, 758, 690, 554 cm−1.
+4-446	MS: m/z 306 [M + H]+.
+4-447	Anal. Calcd for C 13H8ClN3S2: C, 51.15; H, 2.64; N, 13.77.
+4-448	Found: C, 51.32; H, 2.88; N, 14.15.
+4-449	p-Tolyl 1H-Benzo[d][1,2,3]triazole-1-carbodithioate (11f).
+4-450	Yellow crystals, 0.547 g, yield 64%, mp 88−89 °C. Rf = 0.7 (5% ethyl acetate/n-hexane).
+4-451	1H NMR (300 MHz, CDCl3): δ 8.67 (d, J = 8.1 Hz, 1H), 8.13 (d, J = 8.1 Hz, 1H), 7.62 (dd, J = 7.5, 7.8 Hz, 1H), 7.49 (t, J = 7.8 Hz, 1H), 7.44 (d.
+4-452	J = 7.8 Hz, 2H), 7.33 (d, J = 7.8 Hz, 2H), 2.45 (s, 3H).
+4-453	13C NMR (75 MHz, CDCl3): δ 198.6, 147.2, 141.3, 136.1 (2C), 132.3, 131.0, 130.5 (2C), 126.5, 125.7, 120.5, 115.6, 21.4.
+4-454	IR (KBr) νmax: 3073, 2928, 1603, 1589, 1450, 1378, 1289, 1176, 1024, 817, 778, 661, 534 cm−1.
+4-455	MS: m/z 286 [M + H]+.
+4-456	Anal. Calcd for C 14H11N3S2: C, 58.94; H, 3.89; N, 14.74.
+4-457	Found: C, 59.25; H, 4.18; N, 15.06.
+4-458	1,1′-((Benzyldisulfanyl)methylene)bis(1H-benzo[d][1,2,3]triazole) (12a).
+4-459	White crystals, 0.461 g, yield 38%, mp 114−116 °C. Rf = 0.6 (10% ethyl acetate/n-hexane).
+4-460	1H NMR (300 MHz, CDCl 3): δ 8.01 (d, J = 8.4 Hz, 2H), 7.77 (d, J = 8.1 Hz, 2H), 7.68 (s, 1H), 7.47 (t, J = 7.5 Hz, 2H), 7.36 (d, J = 8.1 Hz, 2H), 7.31−7.30 (m, 3H), 7.19 (d, J = 3.6 Hz, 2H), 3.61 (s, 2H).
+4-461	13C NMR (75 MHz, CDCl3): δ 146.2, 135.6, 131.2, 129.4 (3C), 128.8 (2C), 128.5 (2C), 128.0, 124.9 (2C), 120.1, 120.0, 110.9, 75.1, 75.0, 42.7.
+4-462	IR (KBr) νmax: 2944, 1611, 1449, 1079, 1038, 745, 703 cm−1.
+4-463	MS: m/z 405 [M + H]+.
+4-464	Anal. Calcd for C20H16N6S2: C, 59.39; H, 3.99; N, 20.79.
+4-465	Found: C, 59.03; H, 4.25; N, 21.0.
+4-466	1,1′-(((2-Chlorobenzyl)disulfanyl)methylene)bis(1H-benzo[d]- [1,2,3]triazole) (12b).
+4-467	White crystals, 0.461 g, yield 35%, mp 113−114 °C. Rf = 0.7 (10% ethyl acetate/n-hexane).
+4-468	1H NMR (300 MHz, CDCl3): δ 8.04 (d, J = 8.1 Hz, 2H), 7.89 (s, 1H), 7.84 (d, J = 8.1 Hz, 2H), 7.51 (dd, J = 7.5, 8.1 Hz, 2H), 7.43−7.35 (m, 3H), 7.28−7.23 (m, 1H), 7.13 (d, J = 4.5 Hz, 2H), 3.74 (s, 2H).
+4-469	13C NMR (75 MHz, CDCl3): δ 146.3 (2C), 134.4, 133.5, 131.3, 131.2 (2C), 130.1, 129.5, 128.7 (2C), 126.8, 125.0 (2C), 120.2 (2C), 110.8 (2C), 75.6, 40.7.
+4-470	IR (KBr) νmax: 2940, 2931, 1611, 1594, 1489, 1447, 1277, 1231, 1088, 1063, 1021, 765, 538, 487 cm−1.
+4-471	MS: m/z 439 [M + H]+ .
+4-472	Anal. Calcd for C20H15ClN6S2: C, 54.79; H, 3.45; N, 19.18.
+4-473	Found: C, 55.06; H, 3.24; N, 19.01.
+4-474	1,1′-(((Furan-2-ylmethyl)disulfanyl)methylene)bis(1H-benzo[d]- [1,2,3]triazole) (12c).
+4-475	White crystals, 0.485 g, yield 41%, mp 124−125 °C. Rf = 0.7 (10% ethyl acetate/n-hexane).
+4-476	1H NMR (300 MHz, CDCl3): δ 8.03 (d, J = 8.4 Hz, 2H), 7.89 (d, J = 7.8 Hz, 2H), 7.88 (s, 1H), 7.52−7.47 (m, 3H), 7.37 (t, J = 7.5 Hz, 2H), 6.32 (s, 1H), 6.14 (d, J = 3.0 Hz, 1H), 3.68 (s, 2H).
+4-477	13C NMR (75 MHz, CDCl3): δ 148.6, 146.2 (2C), 143.1, 131.3 (2C), 128.6 (2C), 124.9 (2C), 120.2
+4-478	(2C), 111.0, 110.8 (2C), 109.8, 75.4, 35.3.
+4-479	IR (KBr) νmax: 2956, 2919, 1610,1591,1491,1450,1287,1226,1058,1053,1011,788,748,597, 529, 437 cm−1.
+4-480	MS: m/z 395 [M + H]+.
+4-481	Anal. Calcd for C18H14N6OS2: C, 54.81; H, 3.58; N, 21.32.
+4-482	Found: C, 55.12; H, 3.41; N, 21.19.
+4-483	1,1′-((Phenyldisulfanyl)methylene)bis(1H-benzo[d][1,2,3]triazole) (12d).
+4-484	Yellow crystals, 0.222 g, yield 19%, mp 94−96 °C. Rf = 0.7 (10% ethyl acetate/n-hexane).
+4-485	1H NMR (300 MHz, CDCl 3): δ 8.45 (s, 1H), 7.93 (d, J = 8.4 Hz, 2H), 7.79 (d, J = 8.1 Hz, 2H), 7.39 (dd, J = 7.5, 8.1 Hz, 2H), 7.28 (dd, J = 7.8, 7.2 Hz, 2H), 7.17 (d, J = 7.2 Hz, 2H), 6.99−6.95 (m, 3H).
+4-486	13C NMR (75 MHz, CDCl3): δ 146.1 (2C), 133.0, 131.1 (2C), 130.1 (2C), 128.6 (2C), 128.4 (2C), 128.2, 124.7 (2C), 110.7 (2C), 75.9.
+4-487	IR (KBr) νmax: 3060, 2924, 1611, 1591, 1490, 1449, 1219, 1048, 786, 742, 687, 572, 528, 482, 429 cm−1.
+4-488	MS: m/z 391 [M + H]+ .
+4-489	Anal. Calcd for C19H14N6S2: C, 58.45; H, 3.62; N, 21.54.
+4-490	Found: C, 58.71; H, 3.29; N, 21.17.
+4-491	1,1′-(((4-Chlorophenyl)disulfanyl)methylene)bis(1H-benzo[d]- [1,2,3]triazole) (12e).
+4-492	Yellow crystals, 0.216 g, yield 17%, mp 106−107 °C. Rf = 0.7 (10% ethyl acetate/n-hexane).
+4-493	1H NMR (300 MHz, CDCl 3): δ 8.44 (s, 1H), 7.88 (d, J = 8.4 Hz, 2H), 7.78 (d, J = 8.4 Hz, 2H), 7.43 (dd, J = 7.2, 7.8 Hz, 2H), 7.34 (dd, J = 7.8, 7.2 Hz, 2H), 7.04 (d, J = 8.4 Hz, 2H), 6.86 (d, J = 8.1 Hz, 2H).
+4-494	13C NMR (75 MHz, CDCl 3): δ 146.2 (2C), 134.6, 131.6, 131.5 (2C), 131.2 (2C), 128.7 (4C), 125.0 (2C), 120.2 (2C), 110.7 (2C), 76.2.
+4-495	IR (KBr) νmax: 2950, 2933,1610,1593,1495,1444,1265,1227,1078,1061,1017,766,587, 559, 474 cm−1.
+4-496	MS: m/z 225 [M + H] +.
+4-497	Anal. Calcd for C19H13ClN6S2: C, 53.77; H, 3.09; N, 19.81.
+4-498	Found: C, 53.94; H, 3.30; N, 20.20.
+4-499	1,1′-((p-Tolyldisulfanyl)methylene)bis(1H-benzo[d][1,2,3]triazole) (12f).
+4-500	Yellow solid, 0.243 g, yield 20%, mp = 97−98 °C. Rf = 0.7 (10% ethyl acetate/n-hexane).
+4-501	1H NMR (300 MHz, CDCl3): δ 7.90 (d, J = 8.1 Hz, 2H), 7.77 (d, J = 8.1 Hz, 2H), 7.37 (dd, J = 6.9, 7.8 Hz, 2H), 7.29 (dd, J = 8.1, 6.9 Hz, 2H), 7.18 (d, J = 7.8 Hz, 2H), 6.96 (d, J = 7.8 Hz, 2H).
+4-502	13C NMR (75 MHz, CDCl3): δ 146.7 (2C), 139.9, 138.1, 133.9 (2C), 130.4, 130.1 (2C), 129.3, 127.1 (2C), 124.0 (2C), 119.9, 119.8, 112.3, 112.2, 73.1, 21.1.
+4-503	IR (KBr) νmax: 3078, 2954, 2920, 1612, 1595, 1480, 1446, 1240, 1223, 1032, 1008, 777, 767, 576 cm−1.
+4-504	MS: m/z 405 [M + H]+.
+4-505	Anal. Calcd for C20H16N6S2: C, 59.39; H, 3.99; N, 20.79.
+4-506	Found: C, 59.11; H, 4.33; N, 20.42.
+4-507	Procedure for the Synthesis of 2-(Alkyl/arylthio)-benzothiazoles (13a−f).
+4-508	Compounds 13a−f were obtained by the same procedure as for the synthesis of 2-(N,N-dialkylamino)-benzothiazoles 4a−l.
+4-509	2-(Benzylthio)benzo[d]thiazole (13a).
+4-510	Colorless oil, 0.247 g, yield 96%.
+4-511	Rf = 0.8 (5% ethyl acetate/n-hexane).
+4-512	1H NMR (300 MHz, CDCl 3): δ 7.77 (d, J = 8.1 Hz, 1H), 7.55 (d, J = 7.8 Hz, 1H), 7.31−7.22 (m, 3H), 7.18−7.08 (m, 4H), 4.44 (s, 2H).
+4-513	13C NMR (75 MHz, CDCl 3): δ 166.2, 152.9, 136.0, 135.1, 128.9 (2C), 128.5 (2C), 127.6, 125.9, 124.1, 121.3, 120.8, 37.5.
+4-514	IR (KBr) νmax: 2917, 1588, 1451, 1409, 1223, 1010, 987, 565 cm−1.
+4-515	MS: m/z 258 [M + H]+.
+4-516	Anal. Calcd for C 14H11NS2: C, 65.36; H, 4.31; N, 5.45.
+4-517	Found: C, 65.55; H, 4.57; N, 5.64.
+4-518	2-(2-Chlorobenzylthio)benzo[d]thiazole (13b).
+4-519	Colorless oil, 0.274 g, yield 94%.
+4-520	R f = 0.8 (5% ethyl acetate/n-hexane).
+4-521	1H NMR (300 MHz, CDCl3): δ 7.89 (d, J = 8.1 Hz, 1H), 7.71 (d, J = 8.1 Hz, 1H), 7.42−7.35 (m, 2H), 7.26 (dd, J = 7.8, 8.1 Hz, 1H), 7.22−7.16 (m, 3H).
+4-522	13C NMR (75 MHz, CDCl3): δ 166.0,153.0,135.3,134.2, 131.2, 129.6, 129.1, 128.8, 126.9, 126.6, 125.9, 124.2, 121.4, 35.1.
+4-523	IR (KBr) νmax : 3065, 2943, 2922, 1597, 1536, 1067, 1007, 959, 891, 728, 692, 650 cm−1.
+4-524	MS: m/z 292 [M + H] +.
+4-525	Anal. Calcd for C14H10ClNS2: C, 57.73; H, 3.46; N, 4.81.
+4-526	Found: C, 58.01; H, 3.23; N, 5.19.
+4-527	2-(Furan-2-ylmethylthio)benzo[d]thiazole (13c).
+4-528	Colorless oil, 0.212 g, yield 86%.
+4-529	R f = 0.8 (5% ethyl acetate/n-hexane).
+4-530	1H NMR (300 MHz, CDCl3): δ 7.89 (d, J = 8.1 Hz, IH), 7.74 (d, J = 7.8 Hz, 1H), 7.41 (dd, J = 6.9, 8.1 Hz, 1H), 7.35 (s, 1H), 7.29 (t, J = 7.5 Hz, 1H), 6.34 (s, 1H), 6.29 (s, 1H), 4.63 (s, 2H).
+4-531	13C NMR (75 MHz, CDCl 3): δ 165.5,153.0,149.4,142.5,135.3,128.6,126.0,124.3,121.5, 120.9, 110.6, 108.9, 29.9.
+4-532	IR (KBr) νmax: 2924, 1602, 1457, 1427, 1240, 1074, 995, 597 cm−1.
+4-533	MS: m/z 248 [M + H]+.
+4-534	Anal. Calcd for C12H9NOS2: C, 58.30; H, 3.67; N, 5.67.
+4-535	Found: C, 58.03; H, 3.48; N, 5.43.
+4-536	2-(Phenylthio)benzo[d]thiazole (13d).
+4-537	Colorless oil, 0.231 g, yield 95%.
+4-538	Rf = 0.8 (5% ethyl acetate/n-hexane).
+4-539	1H NMR (300 MHz, CDCl3): δ 7.87 (d, J = 8.1 Hz, 1H), 7.71 (d, J = 5.7 Hz, 2H), 7.62 (d, J = 7.8 Hz, 1H), 7.47−7.42 (m, 3H), 7.38 (dd, J = 7.5, 7.8 Hz, 1H), 7.23 (t, J = 7.5 Hz, 1H).
+4-540	13C NMR (75 MHz, CDCl3): δ 169.5,153.8, 135.4, 135.2 (2C), 130.3, 129.8 (3C), 126.0, 124.2, 121.8, 120.6.
+4-541	IR (KBr) νmax: 3059, 2955, 2923, 1581, 1457, 1425, 1020, 1007, 753, 726, 497, 430 cm−1.
+4-542	MS: m/z 244 [M + H]+.
+4-543	Anal. Calcd for C13H9NS2: C, 64.19; H, 3.73; N, 5.76.
+4-544	Found: C, 64.49; H, 3.92; N, 5.62.
+4-545	2-(4-Chlorophenylthio)benzo[d]thiazole (13e).
+4-546	Colorless oil, 0.255 g, yield 92%.
+4-547	R f = 0.8 (5% ethyl acetate/n-hexane).
+4-548	1H NMR (300 MHz, CDCl3): δ 7.87 (d, J = 7.8 Hz, 1H), 7.66−7.62 (m, 3H), 7.43−7.37 (m, 3H), 7.26 (dd, J = 7.8, 6.9 Hz, 1H).
+4-549	13C NMR (75 MHz, CDCl3): δ 168.3, 153.7, 136.8, 136.3 (2C), 135.4, 130.0 (2C), 128.2, 126.2, 124.4, 121.9, 120.7.
+4-550	IR (KBr) νmax: 3056, 2950, 2931, 1578, 1455, 1431, 1019, 757, 497 cm−1.
+4-551	MS: m/z 278 [M + H]+.
+4-552	Anal. Calcd for C 13H8ClNS2: C, 56.32; H, 2.91; N, 5.06.
+4-553	Found: C, 56.50; H, 2.60; N, 4.91.
+4-554	2-(p-Tolylthio)benzo[d]thiazole (13f).
+4-555	Colorless oil, 0.239 g, yield 93%.
+4-556	Rf = 0.8 (5% ethyl acetate/n-hexane).
+4-557	1H NMR (300 MHz, CDCl3): δ 7.85 (d, J = 7.8 Hz, 1H), 7.72 (d, J = 7.5 Hz, 3H), 7.37 (t, J = 7.5 Hz, 1H), 7.27−7.20 (m, 3H), 2.41 (s, 3H).
+4-558	13C NMR (75 MHz, CDCl3): δ 170.6, 153.9, 141.0, 135.4 (3C), 130.6 (2C), 126.2, 126.0, 124.1, 121.7, 120.6, 21.3.
+4-559	IR (KBr) νmax: 3061, 2945, 2920, 1588, 1540, 1097, 1011, 995, 867, 735, 665, 587 cm−1.
+4-560	MS: m/z 258 [M + H]+ .
+4-561	Anal. Calcd for C14H11NS2: C, 65.36; H, 4.31; N, 5.45.
+4-562	Found: C, 65.75; H, 4.65; N, 5.72.

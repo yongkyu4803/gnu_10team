@@ -1,0 +1,169 @@
+# document_id: cm903492k
+# extractor: kordoc-markdown-adapter-1
+1-001	Optoelectronics using organic semiconductors with a π-conjugated structure have been intensively studied, and their applications have been extended to organic field- effect transistors (OFETs),[1-3] organic photovoltaic cells (OPVCs),[4,5] organic light-emitting diodes (OLEDs),[6,7] and organic phototransistors.[8,9]
+1-002	Organic semiconductors used as active materials have advantages for optoelectro- nic applications because of their light weight, large area coverage, and ease in processing at low temperatures.
+1-003	Nanoscience and related technologies based on low- dimensional inorganic nanowires, carbon nanotubes, and organic-based nanostructures have attracted considerable
+1-004	attention over recent years because of their intrinsic low- dimensional nature with well-defined structures.[10-12] Single-crystalline organic-based nanostructures with var- ious physical shapes have been fabricated and have been found to produce fewer defects and no grain boundaries.
+1-005	These findings contribute to the improved intrinsic prop- erties of the nanostructures produced, resulting in the fabrication of high-quality organic-based electronic devices.[13,14]
+1-006	Various organic-based nanostructures using π-conjugated small molecules have been fabricated by using chemical vapor deposition,[15] physical vapor de- position,[16,17] or electrochemical methods.[18,19]
+1-007	Self-as- sembled polymer nanowires or nanotubes with a π-conjugated structure have also been studied by Wan and other groups.[20-22] The self-assembled nanostructures
+1-008	*Corresponding author.
+1-009	Phone: þ82-2-3290-3103.
+1-010	Fax: þ82-2-927-3292.
+1-011	E-mail: jjoo@korea.ac.kr.
+1-012	r 2010 American Chemical Society
+1-013	Published on Web 02/16/2010
+1-014	of the organic small molecules[23,24] through a relatively strong π-π stacking could contribute to enhanced ther- mal stabilities and relatively high charge-carrier mobili- ties in electronic devices.[17,25]
+1-015	Organic metal phthalocyanine (MPc) molecules, such as copper phthalocyanine (CuPc), zinc phthalocyanine (ZnPc), etc., consisting of a central metal atom bound to the π-conjugated ligands, have been applied to active materials for fabricating OLEDs,[26] OFETs,[11] OPVCs,[4] and various other sensors,[27] because of their environ- mental stability and excellent photoresponsive character- istics.
+1-016	Recently, Tang and co-workers have synthesized a number of nanostructures, including nanoribbons of MPc molecules, by using the physical vapor deposition method.[17]
+1-017	Forrest and co-workers have studied the bulk heterojunction photovoltaic cells, using vapor-phase deposition grown and controlled CuPc/3,4,9,10-pery- lenetetracarboxylic bis-benzimidazole.[5]
+1-018	And Jenekhe and co-workers reported the ambipolar OTFTs using the blends of benzobisimidazobenzophenanthroline (BBL) and CuPc.[28]
+1-019	However, the systematic study of solution- based chemically self-assembled CuPc nanowires and their transformed nanostructures, and optoelectronic characteristics have not yet been studied in any significant detail.
+1-020	This study reports that CuPc molecules have been chemically self-assembled into a form of nanowires, through reaction with trifluoroacetic acid (CF3COOH).
+1-021	After a hydrothermal process, it is observed that R-phase CuPc nanowires are transformed to high crystalline β-phase CuPc hollowed rectangular nanotubes.
+1-022	The charge carrier mobility (μ) and the current on and off ratio (Ion/off) of a single nanotube transistor using the β-phase CuPc crystalline rectangular nanotube have been enhanced through the highly crystalline structure and rela- tively strong π-π interaction between the CuPc molecules.
+1-023	Synthesis.
+1-024	The CuPc powder from Sigma-Aldrich Co., is used without further purification; the CuPc (1 10-4 M) powders are dispersed in chloroform (CHCl3) solution, using an ultrasonic cleaner for 10 min.
+1-025	The CF3COOH (1.754 10-4 M) is added and mixed with the solution by using a magnetic stirrer for 5 h.
+1-026	The CuPc molecules are then chemically self-assembled into a form of nanowires that are then filtered and dried for 24 h.
+1-027	For the fabrication of the CuPc rectangular shaped nanotubes, the self-assembled CuPc nanowires dispersed in methyl alcohol are placed in a hydrothermal chamber (Parr Instrument acid diges- tion bombs, 4744 general purpose bomb) and heated in a
+1-028	vacuum oven at 180 °C in 1 10-3 Torr for 10 h.
+1-029	After the hydrothermal process, the chamber containing the samples is naturally cooled in a vacuum oven for 12 h.
+1-030	The additional annealing process of the as-grown (i.e., self-assembled) or hydrothermal treated CuPc nanostructures have been per- formed onto a glass substrate in a vacuum oven at 180 °C in 1 10-3 Torr for 10 h.
+1-031	Measurements.
+1-032	For the scanning electron microscope (SEM) and high resolution transmission electron microscope (HR- TEM) images, the Hitachi S-4300 and the JEOL JEM-2000EXII systems have been used, respectively.
+1-033	The XRD patterns are measured by using an XRD [PANalytical X’Pert PRO, Cu-KR radiation (λ = 1.54 A)].
+1-034	For the XRD experiments, the samples are placed on a quartz substrate.
+1-035	The chemical structures of the CuPc nanostructures are analyzed using the Fourier transform infrared (FT-IR) spectra (obtained using the PERKIN ELMER spectrum GX FT-IR system).
+1-036	To study the optical properties, ultraviolet and visible (UV/vis) absorption spectra of the CuPc nanostructures dispersed in methyl alcohol are measured by using an HP-8453 spectrometer.
+1-037	For photoresponsive I-V characteristic curves, the wavelength and power of the incident light are 633 nm and 5-6 mW cm-2, respectively.
+1-038	The optical powers are measured using an optical-power meter (Thorlabs PM120) connected to a sensor (Thorlabs S130A).
+1-039	For obtaining the photoresponsive electrical characteristics, 4-5 strands of the nanowires or nanotubes are placed onto the source-drain elec- trodes.
+1-040	To investigate the gate field-dependent charge transport properties, the doped p-type Si wafer (R = 0.001-0.003 Ω cm) and the thermally grown SiO2 layer are used as the gate electrode and the dielectric layer, respectively.
+1-041	The thickness and dielectric constant (εr) of the SiO2 layer are ∼250 nm and ∼3.9, respec- tively.
+1-042	Using conventional photolithography, gold (Au) source and drain electrodes are patterned with a length and width of ∼5-20 and 1500 μm, respectively, and for better adhesion, a Ti layer of thickness ∼5 nm is deposited before the deposition of the Au electrodes.
+1-043	Devices are treated with ozone during 300 s and are spin-coated with hexamethyldisilazane (HMDS) at 4500 rpm during 75 s for a better adhesion between the hydrophobic organic CuPc nanowire or nanotube and the relatively hydro- philic SiO2 layer.
+1-044	The single strand of CuPc nanostructures are placed onto the Au electrodes, and coated with poly (methyl- methacrylate) (PMMA) solution at 4500 rpm during 75 s, before a modest pressure is applied.
+1-045	The PMMA coating can assist the homogeneous pressure on the sample for better electrical con- tact, and prevents the oxidation of the samples.[29]
+1-046	Ten different devices have been fabricated to measure the gate field-dependent I-V characteristics of the CuPc nanostructures.
+1-047	And the leakage currents of the devices are measured to be 3.50(( 1.19) 10-10 A.
+2-001	Self-Assembled CuPc Nanowires and Their Transformed Rectangular Nanotubes.
+2-002	Figure 1 shows the SEM and HR- TEM images of the self-assembled (i.e., as-grown) CuPc nanowires, the annealed CuPc nanowires, the hydrother- mal treated CuPc nanotubes, and the hydrothermal process followed by the annealed CuPc nanotubes.
+2-003	The diameters and lengths of the self-assembled CuPc nanowires are 300-800 nm and 20-50 μm, respectively, as shown in Figure 1a.
+2-004	As the CuPc molecules are chemically interacted
+2-005	with the CF3COO- ions, causing the CuPc molecules to be self-assembled into the form of nanowires (see the analysis of the FT-IR spectra in Figure 2 for further details).
+2-006	Figure 1b shows the HR-TEM image of the self-assembled CuPc nanowire where a relatively amorphotic phase is observed, i.e., no periodic patterns in the HR-TEM image.
+2-007	Figure 1c shows the SEM image of the annealed CuPc nanowires and the diameters and lengths of the annealed CuPc nanowires are 300-500 nm and 20-50 μm, respec- tively.
+2-008	After the annealing process, the diameters of the CuPc nanowires become smaller.
+2-009	Figure 1d shows a HR-TEM image of the annealed CuPc nanowire.
+2-010	From this HR-TEM image, the periodic stripe pattern implies a crystalline structure of the annealed CuPc nanowires, and the interlayer d-space of the annealed CuPc nanowire can be estimated to be ∼1.2 nm, which is determined by digital micrograph software (Gatan-TEM imaging) measurement, as shown in Figure 1d.
+2-011	This indicates an increase in the crystallinity of the CuPc nanowires after the annealing process.
+2-012	It is noted that the inside of the CuPc nanowires is filled, as shown in images a and c in Figure 1.
+2-013	After the hydrothermal treatment of the self-assembled CuPc nano- wires, the physical shape of the CuPc nanowires is drama- tically changed to the hollowed rectangular nanotubes (i.e., an empty nanometer size rectangular waveguide), as shown in images e and g in Figure 1.
+2-014	The lengths and widths of the CuPc rectangular nanotubes increase to 50-100 μm and 500 nm to 2.8 μm, respectively.
+2-015	The wall thickness of the CuPc rectangular nanotubes is estimated to be ∼100 nm.
+2-016	From the HR-TEM images, as shown in images f and h in Figure 1, the interlayer d-space of the hydrothermal and the hydrothermal process followed by annealed CuPc nano- tubes, are estimated to be ∼1.1 and ∼1.0 nm, respectively.
+2-017	These results indicate the structural transformation of the CuPc nanowires to the hollowed rectangular nanotubes through the hydrothermal process.
+2-018	Self-Assembly Mechanism of CuPc Nanowires.
+2-019	Figure 2 shows the FT-IR spectra of the self-assembled CuPc nanowires and hydrothermal and/or annealed CuPc nanostructures.
+2-020	The IR characteristic peaks due to the vibration mode of Cu-N bonding and the CdN-C at bridge sites are observed at 1166 and 1287 (and 1334) cm-1, respectively.
+2-021	For the self-assembled, hydro- thermal, and/or annealed CuPc nanowires and nano- tubes, the IR characteristic peaks related to the CuPc molecule have the same positions.
+2-022	The detailed assign- ments of the IR characteristic peaks are listed in Table 1 (see the Supporting Information).
+2-023	The CuPc molecular structure has been confirmed from the FT-IR spectra.[30]
+2-024	However, only for the self-assembled CuPc nanowires are the additional IR peaks observed at 1144, 1384, 1444, and 1679 cm-1, because of the CF3COOH molecules.
+2-025	The peak at 1144 cm-1 corresponds to the C-F stretching modes and the peaks at 1384 and 1444 cm-1 indicate the C-O deformation mode.
+2-026	The peak at 1679 cm-1 is
+2-027	assigned to the CdO stretching modes.
+2-028	These results imply that the CF3COO- ions remain in the self-assembled CuPc nanowires, which induce the chemical self-assembly of the CuPc molecules.
+2-029	The CF3COO-ions interact with the Cu2þ ions of the CuPc molecules in the CHCl3 solution, and play a bridging role for the self-assembly of the CuPc molecules into the form of nanowires.
+2-030	The remaining CF3COO- ions in the self-assembled CuPc nanowires can be mainly placed between the CuPc molecules, and so reduce the π-π interaction of the CuPc molecules.
+2-031	The IR peaks of the CF3COOH molecules disappear after the hydrothermal or annealing process, except for the O-H related peaks, as listed in Table 1 (see the Supporting Information) and shown in Figure 2.
+2-032	The IR peaks of the O-H related modes are observed at 1204, 2856, 2926, and 3048 cm-1, as shown in Figure 2.[31]
+2-033	These O-H mode related IR peaks disappear after the hydrothermal process.
+2-034	Based on the analysis of the FT-IR spectra, it is suggested that the CF3COO-ions contribute to the chemical self-assembly of the CuPc molecules, and are removed through the hydrothermal and/or annealing processes.
+2-035	Structural and Optical Characteristics of CuPc Nano- wires and Rectangular Nanotubes.
+2-036	Figure 3a shows the XRD patterns of the self-assembled CuPc nanowires and their annealed samples.
+2-037	The XRD peaks of the self-assembled and annealed CuPc nanowires have the same positions, as shown in Figure 3a.
+2-038	Two crystalline peaks at 6.76 and 7.301° of the CuPc nanowires indicate the R-phase molecular stacking structures.[32]
+2-039	For the self-assembled CuPc nanowires, the intensities of the XRD peaks are relatively weaker than those of the annealed CuPc nanowires, suggesting the relatively amorphortic R-phase CuPc nanowires, because the CF3COO- ions remain between the CuPc molecules, as discussed in the FT-IR spectra of Figure 2.
+2-040	This contributes to the weak- ness of the π-π stacking of the CuPc molecules and interrupt the crystalline formation.
+2-041	However, after the annealing process of the self-assembled CuPc nanowires, the CF3COO- ions are removed, resulting in the increase of the crystallinity and the π-π stacking.
+2-042	These results agree with those of the HR-TEM images in Figures 1b,d.
+2-043	Figure 3b shows the XRD patterns of the hydrothermal and hydrothermal process followed by the annealed CuPc hollowed rectangular nanotubes.
+2-044	The XRD crystalline peaks are observed at 7.08 and 9.25°, which indicate the β-phase CuPc molecular stacking structures, as shown in the inset of Figure 3b.[33]
+2-045	It is noted that the tilted angles of the CuPc molecules in the R- and β-phases are at 26.5 and 45.8°, respectively.[34]
+2-046	The hydrothermal process induces the transformation of the R-phase CuPc nanowires to
+2-047	the β-phase CuPc hollowed rectangular nanotubes.
+2-048	The CuPc rectangular nanotubes treated with both hydrother- mal and annealing processes also have the β-phase stacking of the CuPc molecules.
+2-049	Using Bragg’s law (2dsin θ = nλ) for the XRD patterns, the lattice constants of the β-phase CuPc hollowed rectangular nanotubes are estimated to be a = 14.646 A, b = 4.696 A, and c = 17.316 A, and the angles are R = γ = 90° and β = 105.49°, indicating mono- clinic structures.
+2-050	For the hydrothermal and annealed CuPc nanotubes, the CuPc molecules are well-aligned along the direction of (101), corresponding to a relatively high XRD peak at 7.08°, as shown in Figure 3b.
+2-051	During the hydro- thermal process, with the conditions of high pressure and high temperature in the closed hydrothermal chamber, not only the CF3COOH molecules are removed but also the CuPc molecules are more tilted and closely packed in the energetically most stable states.
+2-052	The CuPc molecule has 4-membered phthaloimino groups around the Cu atom.
+2-053	The 4-membered phthaloi- mino groups as negative charged ligands and the Cu atom as positive charge are made up for the electric dipole.[35]
+2-054	Because of the weak interaction between the π-orbitals along the π-conjugated path in the 4-membered phtha- loimino groups and the delocalized d-orbital of Cu atoms, the CuPc molecules have two levels of HOMO (π-orbitals) and LUMO (π*-orbitals).[36]
+2-055	These induce the UV/vis ab- sorption characteristic bands, as shown in the inset of Figure 4.
+2-056	Figure 4 shows the normalized UV/vis absorption spectra of the self-assembled CuPc nanowires and their transformed nanostructures after the hydrothermal and/or annealing process.
+2-057	The UV/vis absorption main peaks of CuPc nanowires are observed at 382 and 630 nm, as shown in Figure 4.
+2-058	The UV/vis absorption peaks at 382 and 630 nm correspond to the Soret-band and the Q-band, respectively.[37]
+2-059	The Soret-band (or B-band) is the strong absorption band in the blue region (250-500 nm), whereas the Q-band is a relatively weak absorption band (600-800 nm).
+2-060	The UV/vis absorption peak in the Q-band is divided into two peaks at ∼630 and ∼750 nm by Davydov splitting.
+2-061	The window region of the CuPc nanowires is observed at ∼539 nm.
+2-062	The broad UV/vis absorption bands in the 800-1500 nm region are related to the free charge carrier tail due to the delocalized π-electrons.[38]
+2-063	After the hydro- thermal process of the R-phase CuPc nanowires, the UV/vis absorption peaks corresponding to the Soret-band and Q-band at 382 and 630 nm shifted to longer wave- lengths at 450 and 653 nm, respectively, because of the structural modification, as shown in Figure 4.
+2-064	The in- tensity of the UV/vis absorption peak at 382 nm relatively decreases and the red-shift of the Soret-band implies that the gap of π-π* transition also decreases.
+2-065	This suggests the delocalization of the π-electrons along the π-conju- gated path in the 4-membered phthaloimino groups, after the hydrothermal process.
+2-066	The decrease of the UV/vis
+2-067	absorption peak intensity at 382 nm means that the Soret-band π-π* transition might easily occur with the longer wavelength light absorption, which could be applied to optoelectronic devices using the hydrothermal treated CuPc rectangular nanotubes.
+2-068	The UV/vis absorption peak at the long wavelength region (g800 nm) of the Q-band increases as shown in Figure 4 because the number of the delocalized π-electrons in the intraband increases after the hydrothermal process.
+2-069	Therefore, it is expected that the charge transport property along the direction of the π-π stacking of the hydrothermal treated β-phase CuPc rectangular nanotubes is better than those of the R-phase CuPc nanowires.
+2-070	Photoresponsive Electrical Characteristics.
+2-071	Figure 5 and its inset show the light/dark current (Ilight /Idark) switching performance with the irradiating light (λ = 633 nm, power = 5-6 mW cm-2) at a constant drain voltage (Vds = 10 V) for the CuPc nanotubes and nano- wires, respectively, in a vacuum at room temperature (RT).
+2-072	When the nanotubes and nanowires are exposed to the light illumination, both current levels are increased, as shown in Figure 5 and its inset, indicating active photo- responsive electrical characteristics.
+2-073	In the case of the R-phase CuPc nanowires, Vds(t) is increased only slightly during the first 400 s and then becomes saturated.
+2-074	For the β-phase crystalline CuPc rectangular nanotubes Vds(t) is decreased during the first 400 s and then saturated.
+2-075	Similar results have been observed for the five different devices.
+2-076	The high and low current states are repeated when the light is turned on and off, respectively, during more than 20 min.
+2-077	The ratio of Ilight /Idark is 15.8 ( 11.1 for the β-phase crystalline CuPc rectangular nanotubes and 3.62 ( 0.63 for the R-phase CuPc nanowires.
+2-078	The ratio of Ilight /Idark of the β-phase crystalline CuPc rectangular nanotubes is ∼4 times higher than that of the R-phase CuPc nanowires.
+2-079	The maximum value of the ratio of Ilight /Idark of the β-phase crystalline CuPc rectangular nano- tubes is 36.4 and that of the R-phase CuPc nanowires is 4.39.
+2-080	Therefore, the β-phase crystalline CuPc rectangular
+2-081	characteristic curves with various Vg values of the R-phase CuPc single nanowire-based OFET devices.
+2-082	(d) The Ids-Vds characteristic curves with various Vg
+2-083	values of the β-phase CuPc single rectangular nanotube-based OFET devices.
+2-084	(e) Ids-Vg and (-Ids)1/2-Vg characteristic curves of the R-phase CuPc single
+2-085	nanowire-based OFET devices.
+2-086	(f) Ids-Vg and (-Ids)1/2-Vg characteristic curves of the β-phase CuPc single rectangular nanotube-based OFET devices.
+2-087	nanotubes have a relatively higher photosensitive current than the self-assembled R-phase CuPc nanowires.
+2-088	This originates from the relatively strong cofacial π-stacking interaction in the b-direction of the CuPc molecules for the hydrothermal process followed by annealed β-phase CuPc rectangular nanotubes.
+2-089	Gate-Field-Dependent Electrical Characteristics for a Single Nanowire/Nanotube Transistor.
+2-090	Figure 6 shows the gate-field-dependent I-V characteristic curves for tran- sistors using the self-assembled R-phase CuPc single nanowire and the β-phase CuPc single rectangular nano- tube.
+2-091	The experimental conditions and device patterns are identical in order to achieve a quantitative comparison.
+2-092	Panels a and b in Figure 6 show the schematic illustration of a single nanowire/nanotube transistor and the SEM image of the real field-effect transistor (FET) device, respectively.
+2-093	Figure 6c-f shows the FET performance of a single strand of the β-phase crystalline CuPc rectan- gular nanotube and of the R-phase CuPc nanowire in a vacuum condition.
+2-094	It is observed that both devices show typical p-type characteristics, in which the negative Ids increases with negatively increasing Vg, as shown in Figures 6c and 6d.
+2-095	The amplification and saturation of
+2-096	the -Ids is clearly observed by applying -Vg for both OFETs, as shown in panels c and d in Figure 6.
+2-097	Panels e and f in Figure 6 show the source-drain current charac- teristic curves as a function of the gate bias (Ids-Vg) when the constant drain voltage, Vds = -30 V. The charge carrier mobility (μ) of the OFETs can be estimated by using the equation in the saturation region, Ids=WμC i- (Vg - Vth)[2]/2L, where the L (5-24 μm) is the channel length (i.e., the sample length between source and drain electrodes), W (0.5-2.8 μm) is the channel width (i.e., the width of single nanostructure), Vth is the threshold vol- tage, and Ci (1.381 10-8 Fcm-2) is the capacitance of the gate dielectric per unit area. μ, the ratio of the maxi- mum and minimum values of Ids, the current on/off ratio (Ion/off), and the threshold voltage (Vth) are calculated using the results of panels e and f in Figure 6.
+2-098	The Ion/off and Vth of the β-phase CuPc single rectangular nanotube-based OFETs are 1 103 and -13.5 ( 4.92 V, respec- tively, whereas those of the R-phase CuPc single nano- wire-based OFETs are 1 102 and 45.7 ( 35.0 V, respectively.
+2-099	The Ion/off of the β-phase CuPc single rec- tangular nanotube-based OFETs is about 10 times higher than that of the CuPc single nanowire-based OFETs.
+2-100	From the slope of (-Ids)1/2 versus Vg, the μ of the β-phase CuPc single rectangular nanotube-based OFETs is esti- mated to be 1.73 (( 1.92) 10-2 cm2 V-1 s-1, and that of the R-phase CuPc single nanowire-based OFETs is 2.21(( 1.61) 10-3cm[2] V -1 s-1.
+2-101	The average value of μ’s and their standard deviation have been obtained from ten different OFET devices.
+2-102	The averaged μ of the β-phase CuPc single rectangular nanotube-based OFETs is ap- proximately 8 times higher than that of the R-phase CuPc single nanowire ones.
+2-103	It is noted that the maximum μ of the β-phase CuPc single rectangular nanotube-based OFETs is 6.64 10-2 cm2 V-1 s-1 and that of the R-phase CuPc single nanowire-based OFETs is 5.70 10-3 cm2 V-1 s-1.
+2-104	These results suggest that the β-phase CuPc rectangular nanotubes have an improved charge transport nature in comparison to the self-assembled R-phase CuPc nanowires due to the highly crystalline structure and relatively strong π-π interaction of the CuPc molecules.
+2-105	It is noted that the μ values of the R-phase CuPc single- nanowire- and β-phase CuPc single-nanotube-based OFETs are lower than those of the R-phase CuPc sin- gle-crystal nanowire-based OFETs reported by Xiao’s group[33] and of the β-phase CuPc single-crystalline nano- ribbon-based OFETs reported by Tang and co-work- ers.[11]
+2-106	Their CuPc single crystalline nanowires and nano- ribbons were fabricated by using the organic vapor deposition method.
+2-107	In our study, the solution-based chemically self-assembled R-phase CuPc nanowires have not perfect crystalline structure due to the existence of CF3COO- ions, supported by FT-IR spectra and XRD patterns (Figures 2 and 3a).
+2-108	However, the β-phase CuPc nanotubes induced by the hydrothermal process consist with only CuPc molecules and have better crystalline structure.
+2-109	Comparing with the μ values of the previous reports,[11,33] the lower μ values of the β-phase CuPc single rectangular nanotube-based OFETs studied here may be due to the relatively higher contact resistance because of the bottom contact method.
+2-110	This contact resistance in- duces the non-Ohmic behavior of Ids at low \|Vds\| (e5 V), as shown in panels c and d in Figure 6.
+2-111	The μ values of the
+2-112	CuPc deposited thin-film-based OFETs were reported to be 1.2 10-3 to 1.61 10-2 cm2 V-1 s-1,[39,40] which are lower than those of the β-phase CuPc single rectangular nanotube-based OFETs.
+3-001	The self-assembled CuPc nanowires and their trans- formed CuPc hollowed rectangular nanotubes have been synthesized in this study.
+3-002	From the FT-IR results, it is suggested that the CF3COO- ions interact with the Cu2þ ions of the CuPc molecules, and play a bridging role for the self-assembly of the CuPc molecules into a form of nanowires.
+3-003	Through the hydrothermal (followed by the annealing) process, the CuPc nanowires are transformed into the rectangular nanotubes.
+3-004	From the XRD patterns, it is observed that the crystal structure of the CuPc nanowires is R-phase, and that of the CuPc rectangular nanotubes is β-phase and well-alligned along the direc- tion of (101).
+3-005	The OFET devices using CuPc nanowires and rectangular nanotubes have been fabricated, and the photoresponsive and gate field-dependent charge trans- port characteristics have been measured.
+3-006	The ratio of Ilight/dark of the β-phase CuPc rectangular nanotubes is about 4 times higher than that of the self-assembled R-phase CuPc nanowires.
+3-007	The μ and Ion/off of β-phase crystalline CuPc single rectangular nanotube-based OFETs are ∼8 and ∼10 times higher, respectively, than those of R-phase CuPc single nanowire-based OFETs.
+3-008	These originate from the highly crystalline structure and the relatively strong π-π interaction of CuPc molecules for the β-phase CuPc nanotubes, supported by the results of HR-TEM, XRD, FT-IR, and UV/vis absorption experiments.

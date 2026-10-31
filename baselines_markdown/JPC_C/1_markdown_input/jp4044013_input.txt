@@ -1,0 +1,346 @@
+# document_id: jp4044013
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Supercapacitors have emerged as a highly promising device technology for temporary electrical storage, thanks to intrinsi- cally high power densities that enable fast charging and discharging as well as excellent cycling behavior.
+1-003	Ideal supercapacitor electrode materials should exhibit high electrical conductivity, high specific surface area, and area-specific capacitance, as well as good mechanical strength, yet be chemically inert to ensure long device lifetime.
+1-004	For these reasons, sp[2] carbon materials have attracted a great deal of attention.[1−4] Nevertheless, limitations in the energy density of carbon-based supercapacitor electrodes remain a significant impediment.[5]
+1-005	Besides development of advanced electrolytes, efforts toward increased capacitance have mostly been focused on optimizing the overall electrode morphology in order to increase the surface area and to take advantage of recently discovered pore size effects.[2,6−8] The underlying notion is that energy storage nominally occurs in the electric double layer present at the electrode−electrolyte interface and that the capacitance is therefore proportional to the active contact area.
+1-006	Furthermore, the capacitance of nanopores can depend strongly on the pore size; for example, it has been shown to increase 3-fold as the pores become smaller than the size of the solvated ion.[7]
+1-007	However, it is important to emphasize that a strategy based exclusively on increased electrode−electrolyte contact area and pore morphology neglects the crucial role played by the electronic structure of the carbon electrode itself.
+1-008	© 2013 American Chemical Society
+1-009	The importance of electronic structure in determining the area-specific capacitance of an electrode/electrolyte interface has been suggested in the past.[9,10]
+1-010	It is also an accepted concept in the field of electrochemically gated graphene-based field- effect transistor devices.[11]
+1-011	However, in the field of electro- chemical supercapacitors, the effect of quantum capacitance on device performance has only recently begun to attract attention.[12−14] This is despite its increasing relevance as high surface area synthesis techniques improve and traditional morphological limitations are overcome.[15−18] As an example, a recently synthesized graphene-derived electrode demonstra- ted an active, electrolyte-accessible surface area approximating that of a mass-equivalent graphene sheet, with both top and bottom electrode surfaces in contact with the electrolyte solution.[5,19]
+1-012	Nevertheless, the area-specific capacitance was shown to decrease with increasing active surface areain direct conflict with predictions based solely on electrode morphol- ogy.[4,5]
+1-013	On the basis of these and similar results, it is clear that a new improvement strategy that directly accounts for the intrinsic electronic structure of the electrode is required.
+1-014	This paper uses first-principles calculations on a variety of model systems in order to explore the nature and origin of intrinsic limitations in the capacitance of graphene-derived carbon electrodes as well as to suggest strategies for
+1-015	Received: May 3, 2013
+1-016	Revised: December 7, 2013
+1-017	Published: December 13, 2013
+1-018	improvement.
+1-019	We show that the capacitance limitation of graphitic carbon-based electrodes is indeed traceable to low electrode quantum capacitance as the limit of single-layer, graphene-like local morphology is approached, which directly illustrates the lack of available states for carriers to occupy upon charging.
+1-020	More significantly, we show that the limiting low density of states, and thus the capacitance, can be enhanced by tuning the local defect structure, morphology, and thickness of a carbon-based electrode.
+1-021	By investigating and evaluating each of these possibilities independently, we attempt to provide a theory-inspired roadmap that may be used to devise coherent design strategies for improving the capacitance in graphene-derived electrode materials.
+2-001	■
+2-002	Density functional theory (DFT) calculations were performed within the plane-wave pseudopotential formalism, as imple- mented in the Quantum ESPRESSO code.[20]
+2-003	Ultrasoft pseudopotentials[21] were employed with plane-wave and charge-density cutoffs of 30 and 300 Ry, respectively.
+2-004	The Perdew−Burke−Ernzerhof (PBE) exchange-correlation func- tional was used.[22]
+2-005	For the point defects and substitutional dopants, 3√3 × 3√3 hexagonal supercells (nominally, 54 carbon atoms) were used, with the lattice parameter fixed to calculated value for pristine graphene (2.46 Å).
+2-006	For the rippled surfaces, 4 × 4 hexagonal supercells (32 carbon atoms) were used.
+2-007	Rippling was induced by decreasing the in-plane lattice parameter perpendicular to the zigzag direction, convoluting the out-of-plane coordinates with a sinusoidal variation, and relaxing the resulting structure within the compressed unit cell.
+2-008	The folded geometry was produced in a similar manner, using an orthorhombic 2√3 × 9 supercell (8 atoms across, 104 atoms total).
+2-009	The cell was compressed parallel to the zigzag direction and relaxed after convolving with a sinusoidal variation.
+2-010	The degree of compression was chosen such that the spacing between the folds matched the experimental interlayer spacing in graphite.
+2-011	For all other surfaces, including in-plane strain and thickness calculations, the primitive cell was used.
+2-012	The interplanar spacing of the multilayer samples was fixed to the experimental value.
+2-013	Except where indicated, all ionic degrees of freedom were relaxed to determine equilibrium structures.
+2-014	Relaxations were performed using a 12 × 12 in-plane k-point mesh for the primitive cell, which was increased to 96 × 96 for accurate determination of the density of states for the final configuration.
+2-015	For larger supercells, this same k-point mesh density was retained.
+2-016	A Gaussian electronic smearing of 0.007 Ry was applied to aid k-point convergence.
+2-017	For calculations under a fixed bias potential, the effective screening medium (ESM) method[23] was employed.
+3-001	Definition of Capacitance.
+3-002	The total capacitance of an electrode−electrolyte interface can be modeled as an equivalent series circuit of component capacitance contributions from the solid electrode (Cs ) and the liquid electrolyte (Cl, itself consisting of Helmholtz and diffuse regions).[9,24]
+3-003	This series representation is used routinely in fields such as graphene-based transistor devices.[11]
+3-004	Here, we apply it to supercapacitors, following a similar framework to that used in refs 12−14.
+3-005	Within this model, the contributions sum is
+3-006	Ctotal−1 = Cs−1 + Cl−1 (1)
+3-007	from which it is clear that the smaller of the two component terms will limit the overall device capacitance.
+3-008	Note that this construct assumes that Cs and C l can be treated independently, whereas in practice, they demonstrate a complex and ill- understood interdependency.[24]
+3-009	Nevertheless, we adopt this model as a useful first-order approximation for the purpose of devising improved electrode optimization strategies.
+3-010	For a perfect screening medium such as an ideal metal, the intrinsic electrode capacitance is effectively infinite and does not play a role in determining the device capacitance, and excess charge remains confined to the surface.
+3-011	However, in carbon materials, perfect screening is not attainable.
+3-012	In this case, the electrode capacitance Cs is represented by the quantum capacitance Cq, which can be evaluated directly from the electronic density of states (DOS) at a given voltage V:
+3-013	∂Q 2
+3-014	Cq(V ) =∂V = e × DOS( −Ve) (2)
+3-015	The above definition assumes the voltage V is referenced to the zero-bias Fermi level, i.e., the neutral (uncharged) electrode potential.
+3-016	However, for supercapacitor applications, the most important limiting quantity is usually the total energy storage capacity.
+3-017	This quantity is based not on the differential capacitance, but rather on its value integrated over a complete charge/discharge cycle, assuming equilibrium conditions (i.e., slow charge/discharge).
+3-018	For predicting the capacity, we use the integrated quantum capacitance, which can be given as a function of charging potential by
+3-019	One can think of the integrated quantum capacitance in eq 3 as the effective storage capacity per unit applied potential.
+3-020	Because we are concerned primarily with providing guidelines for enhancing the energy density of graphene-based super- capacitors, this is the preferred definition used in this paper.
+3-021	We caution that the integrated quantum capacitance depends on the potential reference, which in eq 3 is assumed to be the Fermi level of the neutral working electrode, rather than a universal fixed-reference potential or counterelectrode.
+3-022	Neglect- ing pseudocapacitive contributions, this level can be considered a reasonable approximation of the potential at the point of zero charge (PZC).
+3-023	As such, the definition given in eq 3 is probably best compared with the half-cell voltage in a two-electrode symmetric configuration.
+3-024	Note that under these assumptions, if we desire the total charge storage capacity of an electrode for a given charging potential V0 (measured for the half cell, with respect to the PZC), it can be straightforwardly estimated by multiplying V0 by the value of Cqint at V0.
+3-025	It is important to note that the differential and integrated capacitances are often mistakenly used interchangeably.[25−27] This is in part because the two quantities are degenerate for ideal metallic electrode behavior.
+3-026	However, if the electrode behaves nonideally, as is the case for graphene-based materials, it is important to distinguish between them when comparing theoretical predictions with experimental measurements.
+3-027	For instance, cyclic voltammetry and galvanostatic measurements can be used to derive the integrated or differential capacitance, whereas impedance spectroscopy is used to assess the differential capacitance.[26]
+3-028	Similarly, continuum capacitance models are generally based on integrated capacitance, yet
+3-029	calculated within the fixed-band approximation.
+3-030	The dotted black line shows the result for a fictitious idealized graphene in which the electronic DOS
+3-031	is replaced with a constant value for all energies above the minimum occupied valence level.
+3-032	Here, the constant DOS value represents the average
+3-033	graphene DOS over all energies from the minimum occupied valence level to the zero-bias Fermi level.
+3-034	For the fictitious system, the integrated and
+3-035	differential capacitances are degenerate.
+3-036	A typical area-specific double-layer capacitance of Cl = 20 μF/cm[2] is shown for reference (dash-dotted red
+3-037	line).
+3-038	first-principles calculations often report differential capacitance only.
+3-039	In principle, the shape of the DOS in eq 2 depends implicitly on the charge and, by extension, the voltage.
+3-040	However, for small bias, it is assumed that any such dependence is minor and that slow charging or discharging simply changes the Fermi occupation of an otherwise fixed density of states.
+3-041	We refer to this as the “fixed-band approximation”, within which calculations presented here are performed unless otherwise indicated.
+3-042	Practically speaking, the key shortcoming of the fixed-band approximation is that it does not consider the effect of the electrolyte on the DOS.
+3-043	This turns out to limit its validity to single-layer samples, as discussed in detail below.
+3-044	Pristine Graphene.
+3-045	The area-specific and gravimetric quantum capacitance of pristine graphene for a ±1.5 V range is shown in Figure 1.
+3-046	The calculation is carried out within the fixed-band approximation and shows both the integrated (eq 3) and differential (eq 2) capacitances.
+3-047	The difference between the two capacitances for graphene is clearly manifested: the near- linear dispersion of the DOS around the Fermi level translates to an integrated capacitance that is smaller than the differential value by about a factor of 2.
+3-048	Note that energies below the Fermi level correspond to positive bias (electron depletion), whereas energies above the Fermi level correspond to negative bias (electron accumulation).
+3-049	Looking at the integrated capacitance, the results clearly demonstrate that for much of the ±1.5 V range the area-specific Cs is smaller than typical values of Cl (Figure 1 shows one example, for Cl = 20 μF/cm[2]).
+3-050	This means that the total capacitance is indeed limited by the dearth of available states for electrons and holes near the Dirac point, as has been suggested.[5,9,10,12]
+3-051	To further illustrate this point, we computed the capacitance of a ficitious graphene-equivalent electrode that has a constant DOS instead of the known linear dispersion.
+3-052	The constant DOS resembles an ideal 2-D free electron system in which the charge remains confined to the surface.
+3-053	A graphene unit cell was assumed, with the DOS from the minimum valence level to the Fermi level replaced by its average value
+3-054	over that range.
+3-055	In this case, Figure 1 shows that the integrated and differential capacitances have an identical value that is significantly greater than the typical Cl, such that the latter becomes limiting.
+3-056	Note that the value of Cqint in Figure 1 at 0 V is nonzero.
+3-057	The reason for this is twofold.
+3-058	First, electronic smearing is employed to limit the size of the k-point mesh.
+3-059	This imposes an effective temperature on the electrons (1100 K) and removes the ideal behavior at the Dirac point.
+3-060	(We note that experimental measurements should exhibit a similar but lesser effect if performed at room temperature.) Second, there are intrinsic numerical inaccuracies associated with dividing two near-zero quantities in eq 3, making reliable calculation near 0 V difficult for samples with low densities of states at the Fermi level.
+3-061	The capacitance in Figure 1 is generally higher at negative bias (i.e., testing unoccupied states above the Fermi level) than at equivalent positive bias, in agreement with experiments.[28]
+3-062	The difference is relatively minor for small voltages but becomes quite large beyond ±0.6 V due to the breakdown in the linear dispersion at negative bias.
+3-063	In the region where the dispersion remains approximately linear (say, from −0.5 to 0.5 V), we can fit the differential quantum capacitance data to the analytical expression for the linear-dispersion quantum capacitance.
+3-064	This allows us to extract the equivalent Fermi velocity vF.
+3-065	In the limit of zero temperature, the quantum capacitance expression for a linear dispersion DOS becomes[29]
+3-066	2e V3
+3-067	Cq(V ) ≈ 2 2
+3-068	πℏ vF (4)
+3-069	Using eq 4 and performing a linear regression of the differential capacitance data in Figure 1, we obtain a Fermi velocity of 8.2 × 105 m/s.
+3-070	Although in good agreement with other generalized gradient-based DFT methods,[30] this value is 18−29% smaller than values reported in the literature.[28,31−36] There are a few potential reasons for the experiment−theory discrepancy.
+3-071	First, PBE could be underestimating the Fermi velocity due to improper description of nonlocal exchange, as has been
+3-072	suggested previously.[30,37]
+3-073	Second, the fixed-band approximation used in our study does not account for the presence of the electrolyte and the interfacial electric field and may therefore be overestimating the capacitance.
+3-074	Third, intrinsic defects are introducing additional carriers in the region near the Fermi level in the experiments, which has the effect of increasing the observed Fermi velocity in that region.
+3-075	We explore some of these possibilities here, although further study is required to determine which forms the dominant contributor.
+3-076	Thickness Dependence and Screening Behavior.
+3-077	The experimentally observed decrease in area-specific capacitance near the single-layer limit[5] suggests that excess charge induced on the surface of a graphene substrate may not be effectively screened within the electrode.
+3-078	This relates to the low concentration of surface states for pristine single-layer graphene, as shown in Figure 1.
+3-079	In this event, there may be a benefit to using multilayer graphene structural units to realize higher area-specific quantum capacitance, as the additional layers can contribute to the image charge.
+3-080	Additional layers could be especially valuable when both faces of the electrode are simultaneously exposed to the electrolyte, as in most electrode designs.
+3-081	It is possible to perform a straightforward fixed-band quantum capacitance calculation for multilayer graphene, as done in eq 1 for single-layer graphene.
+3-082	However, use of the fixed-band approximation to assess capacitance becomes highly suspect in the case of multilayer samples.
+3-083	To see why, one must consider the effect the presence of the electrolyte has on the electrochemically measured quantum capacitance.
+3-084	The electro- lyte causes the formation of an electric double layer (EDL) at the interface with the electrode, which induces an electric field that decays into the electrode.
+3-085	For single-layer samples, all atoms are assumed to be in contact with the electrolyte, meaning the interfacial electric field shifts the electrode potential essentially uniformly.
+3-086	In this case, the fixed-band approximation remains reasonable to within a constant potential shift.
+3-087	However, in multilayer electrodes, only the outer layers are in direct contact with the electrolyte.
+3-088	As a result, the outer layers see a different potential from the inner layers, with the degree of the difference determined by the screening properties of the electrode.
+3-089	In this event, the EDL- induced potential shift is no longer uniform throughout the electrode, and the standard formulation of the fixed-band approximation (which is not spatially resolved) breaks down.
+3-090	Given the intimate connection between the quantum capacitance limitation and the EDL screening properties, it is useful to gain an actual measure of the extent of the screening length.
+3-091	From this, we can derive the minimum thickness for near-complete screening of an interfacial double layer and consequently of maximal area-specific capacitance.
+3-092	To do so, we evaluate the electrode screening properties as a function of layer thickness using the effective screening medium (ESM) method.[23]
+3-093	The ESM method modifies the Hartree potential via a Green’s function formalism to simulate insertion of the electrode slab between two virtual media with specified dielectric constants.
+3-094	We polarize the slab by applying a fixed electric field of 0.4 V/Å between the two virtual infinite- dielectric perfect metals.
+3-095	This is comparable to the interfacial field strength generated by the EDL.
+3-096	The decay of the polarization response into the interior of the multilayer electrode slab is then used to obtain a measure of the Debye−Huckel screening length.
+3-097	thickness.
+3-098	We use ABA stacking for all samples.
+3-099	It is immediately obvious that for thinner slabs the polarization response does not fully decay within the electrode.
+3-100	This is a manifestation of the low density of surface states, which forces displaced charge to the inner electrode layers.
+3-101	Beginning with the six-layer slab, screening behavior improves significantly.
+3-102	For the thicker slabs, the decay of the polarization response can be fit to an exponential curve.
+3-103	For a field strength of 0.4 V/Å, the 1/e screening length is found to be 2.2 Å.
+3-104	To obtain a 95% screening of the polarization response therefore requires 6.6 Å of material, which corresponds to about two additional layers beyond the surface.
+3-105	This should be doubled for supercapacitor operation in which the both surfaces are assumed to be in contact with the electrolyte, meaning graphitic electrodes should be at least five or six layers thick in order to generate the highest area-specific capacitance.
+3-106	However, for actual device engineering, this must be mediated by considerations of gravimetric and volumetric capacity, which will decrease with thicker samples.
+3-107	We point out that the screening and DOS limitations of single-layer graphene will be similarly relevant for engineering electrodes derived from other sp[2] carbon derivatives.
+3-108	For instance, supercapacitors based on single-walled carbon nano- tubes (SWCNTs) would be expected to screen more poorly than few-layer multiwalled nanotubes (MWCNTs).
+3-109	This intrinsic limitation may be partially responsible for the higher observed capacitances of MWCNTs with respect to SWCNTs.[38]
+3-110	The fact that successive layers in multilayer graphene experience a different potential under actual operation due to the presence of the electrolyte, as we have supposed, is borne out clearly in the ESM calculations of Figure 2.
+3-111	This same
+3-112	approach allows us to evaluate the validity of the fixed-band approximation for calculating the quantum capacitance of multilayer slabs.
+3-113	In doing so, we find that the fixed-band approximation fails even for bilayer slabs and more spectacularly for thicker slabs.
+3-114	This can be seen in Figure 3,
+3-115	which plots the band structure of n-layer graphene for n = 1, 2, and 8 before and after application of the electric polarization field.
+3-116	In order to permit direct comparison, we have aligned the zero of energy to the Fermi level in the absence of the electric field.
+3-117	For single-layer graphene, the band structure does not change upon application of the polarizing field, suggesting the fixed-band approximation holds well within the voltage range of interest.
+3-118	However, for bilayer and 8-layer graphene, the presence of the field breaks the symmetry and induces level splitting in the states nearest the Fermi level.
+3-119	For bilayer graphene, this opens a gap near the K point, as reported previously.[39−41] For 8-layer graphene, the field-induced level splitting instead creates a near-continuum of bands.
+3-120	Interest- ingly, for the thicker slab, there is also a contribution to the density of states from the π* states, which are driven lower in energy by the field until they mix with the states nearer the Fermi level.
+3-121	Although this shift of the π* states is also seen for the thinner samples, its magnitude depends on the thickness (it is barely visible beyond E − EF = 2.0 eV for the bilayer).
+3-122	It is worth noting that there is a corresponding shift of the π states upward toward the Fermi level; however, the degree of the shift is much smaller and does not appear within the ±2 V window even for the 8-layer slab.
+3-123	A similar asymmetric π−π* field response has been reported in recent experiments on bilayer graphene.[40,41]
+3-124	We emphasize that the rehybridization of states near the Fermi level for thicker slabs in Figure 3 would not be captured in the fixed-band approximation, nor would the observed level splitting at the K point for multilayer slabs.
+3-125	Moreover, the response is asymmetric, with the π* states apparently much more sensitive to an applied field than the π states.
+3-126	As such, detailed studies of the quantum capacitance of multilayer slabs should be done using more direct methods rather than relying on the fixed-band approximation.
+3-127	We are currently investigating this in detail.
+3-128	On the other hand, single-layer graphene can be adequately described within the fixed-band approximation for the voltage range of interest, at least for field strengths on the order of 0.4 eV/Å.
+3-129	Naturally, the magnitudes of the level shifts in Figure 3, as well as the observed screening length, should depend on the field strength.
+3-130	The dependence is likely quasi- linear, matching the behavior reported for screening radius in
+3-131	the basal plane.[42]
+3-132	In this regard, the fixed-band approximation could fail even for single-layer graphene at large field strengths.
+3-133	However, for most realistically achievable field strengths, this is unlikely to be the case.
+3-134	As such, we continue to rely on the fixed-band approximation for the structures in the remainder of this paper, all of which are derived from single-layer geometries.
+3-135	Point Defects and Substitutions.
+3-136	Several experimental measurements of the capacitance of single-layer graphene have exhibited significant deviations from the zero-temperature ideal limit and from the pristine graphene behavior shown in Figure
+3-137	28,31,32,43
+3-138	1.
+3-139	Common features include a significantly enhanced, nonzero density of states at the Fermi level, and enhanced capacitance at potentials close to zero bias that is largely flat across a range of tens or hundreds of meV.
+3-140	This leads to better- than-predicted capacitive behavior in this region, which authors have generally attributed to additional states due to defects or local electronic density oscillations.
+3-141	In other words, the electronic signature of graphene implies that it is unlikely to retain a zero-temperature, defect-free structure under actual testing conditions.
+3-142	It is reasonable to assume that this effect will be amplified in intrinsically defect-rich systems, such as polymer-derived, three-dimensional graphene structures.[19]
+3-143	Selective and deliberate inclusion of certain defects through controlled synthesis may therefore be used as a tool to enhance the quantum capacitance.
+3-144	Accordingly, we devote the following sections to a detailed analysis of the effects of local modifications to graphene-based materials.
+3-145	We begin with a discussion of graphene point defects.
+3-146	A variety of native point defects have been recorded in graphene samples, including the Stone−Wales defect (55−77), various divacancy structures (e.g., 5−8−5 and 555−777), and monovacancies (5−9).[39,44]
+3-147	Models of graphene in the presence of these defects are depicted in Figure 4.
+3-148	Each was tested for its
+3-149	effect on the quantum capacitance of a graphene electrode within the fixed-band approximation.
+3-150	In the case of the monovacancy, a Jahn−Teller distortion creates a five- membered ring via an elongated bond between two of the carbons nearest the vacancy.
+3-151	This leaves the third carbon with an exposed dangling bond that is similar to a zigzag edge.
+3-152	To terminate this bond and preserve the carbon coordination, we
+3-153	one defect per 54 carbon atoms (7 × 1013 cm −2) was used.
+3-154	also tested addition of hydrogen or oxygen to the dangling- bond carbon as well as substitution of the carbon for nitrogen in a pyridine ring.
+3-155	Hydrogen and oxygen are found to distort out of the graphene plane (by 1.1 and 1.9 Å, respectively), flexing nearby carbon bonds.
+3-156	The unpassivated monovacancy possesses a nonzero magnetic moment, although this is removed upon addition of any of the three terminating species.
+3-157	The calculated quantum capacitance upon selective intro- duction of each of the point defects in a 54-atom supercell is shown in Figure 5.
+3-158	It is immediately evident that the addition of defects can increase the capacitance profile considerably.
+3-159	The degree to which this is the case depends both on the defect species and on the applied potential; however, in nearly all instances, the effect is to increase Cqint with respect to the graphene baseline.
+3-160	The 55−77 Stone−Wales defect is the only point defect we tested that did not appreciably change the density of states at the Fermi level itself; nevertheless, it does increase the observed Cqint at nonzero bias in both positive and negative directions.
+3-161	This agrees with previous DOS calcu- lations.[45−47]
+3-162	Particularly large contributions near the Fermi level are observed for the 555−777 divacancy and for the 5−9 monovacancy in the presence of hydrogen or nitrogen, resembling a pseudocapacitive feature.
+3-163	In fact, the capacitance profile of these three look very similar across the voltage range in Figure 5, suggesting resemblance in their electronic structure.
+3-164	Closer analysis of the DOS revelas that in each of these cases a common predominant feature in the electronic structure is the formation of a new quasi-localized state at the Fermi level, which is half occupied at zero bias.
+3-165	Examination of the projected DOS shows that this state is derived from the pz orbitals of carbon atoms immediately surrounding the vacancy, where the dangling bonds and nonhexagonal rings exist.
+3-166	We suggest that it results from a discontinuity in the π manifold due to the missing atom(s), which breaks the local symmetry and results in a disconnected, half-filled pz state that is higher in energy.
+3-167	We point out that the especially large peak in the hydrogen- and nitrogen-saturated monovacancy in Figure 5 resembles calculations of hydrogen adsorption on pristine graphene.[45]
+3-168	Chemisorption of hydrogen or nitrogen could therefore contribute significantly to quantum capacitance in graphene derivatives with high concentrations of exposed edges or pores.
+3-169	Indeed, chemical modification could represent a valuable engineering strategy; we are currently pursuing this research direction by testing other chemical functional groups.
+3-170	In addition, the profile of the 5−9 monovacancy in the presence of oxygen strongly resembles that of the 5−8−5 divacancy.
+3-171	A new, largely pz-derived state is also created in these cases, although it is fully unoccupied rather than half- occupied at zero bias.
+3-172	This shifts the effective minimum in the integrated quantum capacitance toward negative voltages.
+3-173	The difference between the oxygen- and hydrogen/nitrogen- terminated monovacancies is probably a consequence of the strong electron-withdrawing nature of the oxygen at the monovacancy edge, which depletes the charge in the six- membered ring to which it is attached.
+3-174	The hydrogen- and oxygen-terminated monovacancies also feature some distortion of the carbon−hydrogen and carbon− oxygen bonds out of the graphene basal plane, likely because the vacancy size is too small to fully accommodate the adsorbate.
+3-175	This distortion, which is accompanied by a slight degree of sp[3] rehybridization, may serve to further enhance the symmetry-breaking of the π manifold that leads to the localized pz-derived state.
+3-176	We acknowledge that there may be some contribution to the quantum capacitance in Figure 5 due to defect-induced residual stress.
+3-177	This is because we fix the supercell dimensions to the lattice parameter of pristine graphene.
+3-178	However, our estimates suggest that these contributions are quite small compared to the observed increases (see Table S1, Supporting Information) and that the defect chemistry produces the dominant effect.
+3-179	The models in Figure 4 correspond to rather high defect densities (one per 54 carbon atoms, or 1.9% by concentration) and therefore demonstrate comparatively large Cqint enhance- ments in Figure 5.
+3-180	Naturally, the actual enhancement with respect to pristine graphene will depend on the observed concentration of each defect.
+3-181	At room temperature, the equilibrium concentration of native topological defects in otherwise pure graphene is rather low, owing to the
+3-182	concentration of one substitution per 54 carbon atoms (7 × 1013 cm−2) was used.
+3-183	comparatively high point defect formation energies (see Table S1, Supporting Information).
+3-184	However, Figure 5 makes it clear that highly disordered graphene derivatives, as well as samples for which the defect concentration has been artificially increased, could demonstrate substantial increases in Cqint, provided defect densities can be made sufficiently high.
+3-185	Although we calculate values only for a fixed defect concentration of 1.9%, we can obtain a rough estimate of the dependence of the capacitance increase on concentration by interpolating values between this concentration and the zero- concentration limit of pristine graphene.
+3-186	This dependence is shown in Figure S1 of the Supporting Information and suggests that concentrations as low as 0.75% can provide 2-fold increases in Cqint at ±0.5 V for the proper choice of point defects.
+3-187	We note that the selective introduction of certain native point defects over others may be difficult in practice.
+3-188	Still, it is clear that the presence of defects of any sort generally increases the capacitance of graphene-based electrodes.
+3-189	Along these lines, the strategy of deliberately introducing topological defects in order to enhance capacitance was recently explored in depth experimentally by Hoefer et al.[48−50] By irradiating carbon nanotubes with argon to increase the defect density, they were able to realize enhancements in the double-layer capacitance of up to 300%.
+3-190	We point out that enhancements of this magnitude are indeed plausible in light of the results of Figure 5.
+3-191	We also studied the possibility of substituting nitrogen or boron dopants for carbon atoms within the graphene sheet, which has been suggested as a strategy for supercapacitor electrode improvement in several recent studies.[14,51−53] Results for a fixed dopant concentration of 1.9%, or one substitution per 54 carbon atoms, are shown in Figure 6.
+3-192	The calculations show significantly increased capacitance with respect to graphene, particularly near the quantum capacitance-limited zero-voltage region.
+3-193	The shift in the capacitance minimum reflects the Fermi level shift due to electronic doping and will be a function of the dopant concentration.
+3-194	In addition, there are some additional changes to the underlying band structure that are not accounted for by a purely electronic doping model.
+3-195	These changes involve shifts of certain π (for B doping) or π* (for N doping) bands toward the Fermi level, which occur when the π manifold distorts in response to the different nuclear potential at the substitution site.
+3-196	As a result, some π/
+3-197	π*-derived features appear as ripples in Figure 6, occurring at potentials that are within 1.5 V of the capacitance minimum.
+3-198	Results for nitrogen and boron have opposite behavior with respect to the sign of the applied voltage, as expected based on an electronic doping model.
+3-199	Accordingly, the boron-doped sample will be more effective at positive bias (under charging conditions) and the nitrogen-doped sample at negative bias.
+3-200	This implies that using a boron-doped electrode as an anode and a nitrogen-doped electrode as a cathode could be a viable strategy.
+3-201	Local Strain and Curvature.
+3-202	Since the physical morphol- ogy of the electrode surface represents an additional possible variable in the processing of nanoporous carbon substrates, we also ran a series of simulations investigating the capacitance of curved and strained graphene surfaces.[39]
+3-203	The effects of in-plane strain were tested as well as surface buckling under compression.
+3-204	The changes in fixed-band capacitance upon application of high uniaxial strain applied parallel to the zigzag direction, and upon application of biaxial strain applied uniformly along both planar directions, are shown in Figure 7.
+3-205	Linear expansions of the equilibrium in-plane lattice parameter by 5% and 10% were examined (for biaxial strain, these were applied equivalently in both in-plane directions).
+3-206	We also tested the case of biaxial compression based on a 5% linear contraction in the lattice parameter, under the constraint of no out-of-plane atomic rearrangement.
+3-207	Although useful for examining capacitance trends, the magnitude of these strains is much higher than what is typically achievable experimentally for pristine graphene (generally <2%).[54−56] Still, the surface variations in nanoporous carbon, and the nonequilibrium process by which they are produced, are likely to generate local regions with above- average strain energy.
+3-208	We also point out that much higher graphene strains of 10−20% have recently been reported for templated structures.[57,58]
+3-209	The results in Figure 7 show a general trend of increased area-specific Cqint with in-plane tensile strain.
+3-210	This is true even after accounting for the correspondingly enhanced surface area.
+3-211	(The gravimetric Cqint would show an even more dramatic effect than that shown in Figure 7.) For the range of ±1.5 V, the changes scale with voltage and with the level of applied strain.
+3-212	This agrees with previous calculations of reduced Fermi velocity in strained graphene.[59]
+3-213	The increase in Cqint for biaxial
+3-214	expansion of the lattice parameter by 5% is approximately equal to the 10% uniaxial expansion case.
+3-215	Since these translate to essentially equivalent surface areas, this suggests that the directionality of the applied strain is less important than the magnitude of the areal increase in predicting capacitance.
+3-216	The dependence between areal strain and capacitance is nearly linear at small voltages, as shown in the inset of Figure 7.
+3-217	It arises from a flattening of the π/π* bands with strain, which effectively shifts these bands closer to the Fermi level.[60]
+3-218	According to Figure 7, in-plane compressive strain tends to dampen Cqint with respect to pristine graphene.
+3-219	However, under compression, a graphene surface is known to corrugate in order to dissipate strain energy.[61]
+3-220	To simulate such corrugation, we compressed the cell along the zigzag direction and allowed for sinusoidal variation of the out-of-plane coordinates.
+3-221	Four different values of in-plane compression were explored (5%, 10%, 15%, and 20% linear compression), corresponding to different characteristic wavelengths λ of the sinusoidal surface ripples: λ = 8.1, 7.7, 7.3, and 6.8 Å.
+3-222	The resulting changes in Cqint are shown in Figure 8.
+3-223	The calculations demonstrate that a large enhancement of the quantum capacitance can be realized upon rippling and that this enhancement scales with curvature (inversely with wavelength).
+3-224	Note that the contribution to the capacitance is opposite in sign from what we saw for in-plane compression.
+3-225	However, application of compressive stress is much more likely to induce surface buckling than in-plane compressive strain, since the former is a lower-energy transformation.
+3-226	Having already established that tensile stress also enhances capacitance, we therefore conclude that applied stress of either sign is likely to be linked to increased quantum capacitance.
+3-227	Accordingly, electrodes should be engineered to maximize local variations in morphology in order to increase local stresses and stress gradients; planar geometries are inefficient by comparison.
+3-228	This is probably a contributing factor in the experimentally reported capacitance enhancement of graphene with curved morphologies.[17]
+3-229	Since even pristine graphene is known to exhibit corrugation by room-temperature activation of low-frequency modes,[39] it is reasonable to assume some degree of capacitive enhancement of the type seen in Figure 8 should be present natively.
+3-230	As such, one should expect somewhat more aggressive scaling of Cqint with voltage magnitude than is predicted for perfect, unstrained graphene.
+3-231	This could be a contributing factor in the theoretical underprediction of the measured Fermi velocity of graphene.
+3-232	There are some characteristic features to note in the ripple- induced changes in fixed-band capacitance depicted in the top panel of Figure 8.
+3-233	A shoulder appears in the capacitance at
+3-234	Cqint of graphene upon surface rippling induced by compressive stress.
+3-235	Results
+3-236	are shown for ripples of four different characteristic wavelengths (λ = 6.8, 7.3, 7.7, and 8.1 Å).
+3-237	(b) Partial density of states of rippled graphene (λ =
+3-238	6.8 Å), projected onto carbon atoms at the peak of the ripple (red, site 1) and the flattest point (green, site 2).
+3-239	The dashed line shows the data for
+3-240	pristine graphene as a reference.
+3-241	(c) Dependence of Cqint at +0.5 V on the local curvature at the peak of the ripple.
+3-242	Cqint of graphene upon folding the surface.
+3-243	Bottom panel: partial density
+3-244	of states of folded graphene, projected onto the seven carbon atoms along the folded edge (schematic inset).
+3-245	The dashed lines show the
+3-246	corresponding data for pristine graphene.
+3-247	positive bias, the location of which shifts toward smaller voltages with higher curvature (shorter wavelength).
+3-248	The location is at +2.0, +1.6, +1.2, and +0.9 V for λ = 8.1, 7.7, 7.3, and 6.8 Å, respectively (the shoulder for λ = 6.8 Å and its corresponding DOS feature is indicated by an arrow in Figure
+3-249	8).
+3-250	A soft shoulder can also be seen at negative bias for the highly corrugated samples, appearing around −0.5 to −0.8 V
+3-251	for the highest corrugation (λ = 6.8 Å).
+3-252	In real porous carbon samples, the shoulders in Figure 8 would be averaged over multiple curvatures and would most likely manifest as a smoother change in the slope of the capacitance.
+3-253	These features can be seen more clearly in the bottom panel
+3-254	of Figure 8, which shows the atomically projected density of states for carbon atoms in the λ = 6.8 Å sample at the ripple peak, where the curvature is maximized, and at the flattest region, where the curvature is minimized.
+3-255	The feature at positive bias (below the Fermi level) appears as a peak at E −
+3-256	EF = −0.9 eV, marked with an arrow.
+3-257	At negative bias (above
+3-258	the Fermi level), there is a shoulder at E − EF = 0.6−0.9 eV,
+3-259	and the π* peak (E − EF = 1.8 eV for pristine graphene) shifts toward the Fermi level and splits into two peaks at E − EF = 1.2
+3-260	and 1.6 eV.
+3-261	Such characteristics may be detectable spectroscopi- cally as an indicator of local morphology.
+3-262	Projections onto atomic orbitals confirm that rippling mixes in-plane px/py character into the out-of-plane pz states.
+3-263	This weakens the π bonds and leads to smaller π−π* splitting, while simultaneously increasing the in-plane σ bond strength (accordingly, the C−C bond length decreases by ∼2% for λ
+3-264	= 6.8 Å).
+3-265	The smaller π−π* splitting translates to more accessible states at energies near the Fermi level, which is beneficial for capacitance.
+3-266	A similar rationale can be provided
+3-267	for the scaling of Cqint in the strained samples (Figure 7).
+3-268	In the case of rippling, there is also some mixing of s character for energies above EF (negative bias).
+3-269	This contributes to the soft shoulder and the π* peak splitting seen in the bottom panel of Figure 8.
+3-270	These result from curvature-induced sp[2] -to-sp[3] rehybridization.
+3-271	For the low-curvature (long-wavelength) samples, the onset of s character is buried beneath the π*
+3-272	peak, which explains why the soft shoulder at negative bias appears only for shorter wavelengths.
+3-273	As a final morphological feature, we examined the effect of introducing a periodic fold into the graphene framework.
+3-274	Unlike the ripple, the folded sample contains both a graphite- like region in the fold center and a rippled region at its edge, and can be thought of as a maximum corrugation limit.
+3-275	Such folds have been observed in real graphene samples and are thought to be low-energy transformations of the pristine sheet.[62,63]
+3-276	The capacitance change, as calculated within the fixed-band approximation, is shown in the top panel of Figure
+3-277	9.
+3-278	The bottom panel shows the atomically projected density of states for each of the carbon atoms along the path from highest to lowest curvature within the fold.
+3-279	As with the rippled sample, the results show an enhancement in capacitance, with the regions of highest curvature contributing most.
+3-280	The capacitance enhancement for the folded sample is not symmetric about zero bias, as for the rippled samples, but rather is seen preferentially at negative voltages.
+3-281	This agrees with tight-binding calculations on a single graphene fold.[64]
+3-282	Examination of the projected density of states (bottom panel, Figure 9) shows a π*-derived peak just above the Fermi level, which is predominant contributor to the enhancement at negative voltages.
+3-283	This feature is indicated with an arrow in both the density of states and in the capacitance curve.
+3-284	Analogous contributions from the π states appear deeper in the valence (E − EF = −1.8 to −2.2 eV), but they contribute less strongly to the capacitance in the ±1.5 V window.
+3-285	The bands therefore respond asymmetrically to folding, similar to the
+3-286	asymmetric π/π* response in the polarized ESM results of Figure 3.
+3-287	The fold also induces metallicity, which leads to additional capacitive increases near zero bias.
+3-288	This effect has been reported previously, in both calculations and experiments.[62]
+3-289	The large difference between the capacitive behavior of the fold (Figure 9) and the ripple (Figure 8) is somewhat surprising, given their structural similarity.
+3-290	The origin is the graphite-like stacking in the folded sample, which introduces hybridization of the π states between successive layers.[64]
+3-291	This difference highlights the large influence of local morphology on the electronic structure of real electrodes.
+4-001	■
+4-002	In conclusion, we have introduced and evaluated strategies for improving the capacitance of graphene-derived supercapacitors that are based on modifying the local structure and morphology of the electrode rather than global surface area and pore geometry.
+4-003	To do so, we have calculated the quantum capacitance within the fixed-band approximation of a variety of defective graphene-based surfaces containing point defects as well as local strain and curvature.
+4-004	Our calculations confirm that the interfacial capacitance of graphene-derived electrodes is generally limited by the quantum capacitance, which is a consequence of the low density of states near the Fermi level.
+4-005	However, the addition of defects into the graphene structure can significantly improve the calculated capacitance if introduced in sufficient concentrations.
+4-006	For instance, the presence of hydrogen at vacancy-derived nanopores can increase the capacitance near zero bias significantly, whereas Stone−Wales defects have a much larger effect at higher voltage magnitudes.
+4-007	These could prove an important tool for increasing graphene-based supercapacitor performance.
+4-008	Similarly, tensile strain and rippling upon compression tend to increase capacitance at higher voltage magnitudes.
+4-009	Folding the graphene sheet also increases capacitance at positive potentials.
+4-010	Heavily curved local morphologies, which introduce rippling, folding, and regions of local tensile strain, should therefore be desirable over planar geometries.
+4-011	An in-depth analysis of the electrode screening properties reveals that multilayer regions are far more effective at screening the double-layer potential than are single-layer regions, which leads to higher area-specific capacitance.
+4-012	In this regard, five graphene layers ought to be sufficient to expect nearly full screening.
+4-013	However, the thickness consideration should be weighed against the importance of gravimetric capacitance, which decreases with thickness.
+4-014	Our analysis shows that the fixed-band approximation, in which the density of states is assumed to be rigidly shifted with changes in electronic occupation, remains reliable for single-layer samples but breaks down for multilayer samples due to level splitting and rehybridization of the π* states.
+4-015	It should be noted that our calculations do not account for the interdependence of the electrode and electrolyte contributions to the capacitance or for the electrode stability; a more detailed study to this effect is currently under way.

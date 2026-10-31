@@ -1,0 +1,331 @@
+{
+ "version": "hedge-baseline-0.4.4",
+ "papers": 21,
+ "items": [
+  {
+   "check": "논문 수 2~25편",
+   "result": "Pass",
+   "detail": "21편"
+  },
+  {
+   "check": "ic100724r: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 45,
+    "RD": 67,
+    "CON": 6,
+    "MET": 181
+   }
+  },
+  {
+   "check": "ic100724r: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3070
+  },
+  {
+   "check": "ic100741x: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 21,
+    "MET": 35,
+    "RD": 50,
+    "CON": 4
+   }
+  },
+  {
+   "check": "ic100741x: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2290
+  },
+  {
+   "check": "ic101059c: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 20,
+    "RD": 57,
+    "CON": 11,
+    "MET": 167
+   }
+  },
+  {
+   "check": "ic101059c: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2935
+  },
+  {
+   "check": "ic101213q: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 29,
+    "MET": 35,
+    "RD": 105,
+    "CON": 11
+   }
+  },
+  {
+   "check": "ic101213q: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3281
+  },
+  {
+   "check": "ic102429t: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 11,
+    "MET": 186,
+    "RD": 133,
+    "CON": 7
+   }
+  },
+  {
+   "check": "ic102429t: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4744
+  },
+  {
+   "check": "ic2022616: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 14,
+    "MET": 38,
+    "RD": 148,
+    "CON": 4
+   }
+  },
+  {
+   "check": "ic2022616: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2562
+  },
+  {
+   "check": "ic202648h: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 16,
+    "RD": 121,
+    "CON": 6,
+    "MET": 85
+   }
+  },
+  {
+   "check": "ic202648h: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3230
+  },
+  {
+   "check": "ic3015496: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 24,
+    "MET": 72,
+    "RD": 180,
+    "CON": 5
+   }
+  },
+  {
+   "check": "ic3015496: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3933
+  },
+  {
+   "check": "ic400478d: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 13,
+    "MET": 103,
+    "RD": 171,
+    "CON": 5
+   }
+  },
+  {
+   "check": "ic400478d: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4320
+  },
+  {
+   "check": "ic401020m: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 30,
+    "MET": 81,
+    "RD": 230,
+    "CON": 16
+   }
+  },
+  {
+   "check": "ic401020m: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 6014
+  },
+  {
+   "check": "ic401091r: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 22,
+    "RD": 193,
+    "CON": 26,
+    "MET": 64
+   }
+  },
+  {
+   "check": "ic401091r: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 6088
+  },
+  {
+   "check": "ic4012197: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 38,
+    "RD": 204,
+    "MET": 46
+   }
+  },
+  {
+   "check": "ic4012197: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3335
+  },
+  {
+   "check": "ic4015543: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 21,
+    "RD": 170,
+    "MET": 109,
+    "CON": 4
+   }
+  },
+  {
+   "check": "ic4015543: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3500
+  },
+  {
+   "check": "ic500279q: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 19,
+    "MET": 46,
+    "RD": 287,
+    "CON": 9
+   }
+  },
+  {
+   "check": "ic500279q: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 7638
+  },
+  {
+   "check": "ic500354t: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 50,
+    "MET": 20,
+    "RD": 140,
+    "CON": 10
+   }
+  },
+  {
+   "check": "ic500354t: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 3756
+  },
+  {
+   "check": "ic901071v: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 53,
+    "MET": 17,
+    "RD": 83,
+    "CON": 35
+   }
+  },
+  {
+   "check": "ic901071v: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4242
+  },
+  {
+   "check": "ic901374f: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 10,
+    "MET": 96,
+    "RD": 138,
+    "DIS": 51,
+    "CON": 5
+   }
+  },
+  {
+   "check": "ic901374f: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4074
+  },
+  {
+   "check": "ic901629k: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 93,
+    "RD": 89
+   }
+  },
+  {
+   "check": "ic901629k: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 2808
+  },
+  {
+   "check": "ic901741n: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 19,
+    "MET": 50,
+    "RD": 173,
+    "CON": 5
+   }
+  },
+  {
+   "check": "ic901741n: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 4155
+  },
+  {
+   "check": "ic901897w: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 22,
+    "MET": 3,
+    "RES": 64,
+    "CON": 8
+   }
+  },
+  {
+   "check": "ic901897w: RESULTS 절만 있어 결과·논의로 묶음",
+   "result": "Pass",
+   "detail": "RES 64문장"
+  },
+  {
+   "check": "ic901897w: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 1865
+  },
+  {
+   "check": "ic9020756: 서론과 결과·논의 절 있음",
+   "result": "Pass",
+   "detail": {
+    "INT": 62,
+    "MET": 112,
+    "RD": 247,
+    "CON": 25
+   }
+  },
+  {
+   "check": "ic9020756: 분석 단어 수 1,000 이상",
+   "result": "Pass",
+   "detail": 7291
+  }
+ ],
+ "model": "en_core_web_sm",
+ "include_abstract": false
+}

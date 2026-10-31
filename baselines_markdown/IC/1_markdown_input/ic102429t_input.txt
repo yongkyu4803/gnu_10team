@@ -1,0 +1,339 @@
+# document_id: ic102429t
+# extractor: kordoc-markdown-adapter-1
+1-001	After the first report on the visible-light metal-to-ligand charge-transfer (MLCT) transitions and the long-lived MLCT phosphorescence of Re(I) tricarbonyl diimine complexes[1] [Re(NN)(CO)3 X] (NN = diimine), tremendous attention has been paid to the derivatization of both the diimine ligand or the axial coligand.
+1-002	With the rational design of the ligands, the characteristic MLCT excited state and its luminescence features can be utilized for a wide range of applications, such as the emissive layer for light-emitting devices,[2] photosensitizers,[3] photocatalysts,[4] and chemosensors.[5]
+1-003	However, when these ligands were modified with functional moieties for different applications, further tuning of the physical and excited state properties is challenging as carbonyl ligands cannot be deriva- tized.
+1-004	To improve the tunability of the systems, we have successively developed tunable rhenium(I) diimine lum- inophores,[6] [Re(CNR)4 (NN)]þ6a and [Re(CO)2(CNR)2 - (NN)]þ,[6b] by replacing the carbonyl ligands with readily tunable isoelectronic isocyanide ligands.
+1-005	With these lumino- phores, the photophysical and physical properties could be readily modified by changing the substituent on the N-atom of the isocyanide ligands.[6]
+1-006	To improve the flexibility of function- alization, we have developed new synthetic strategies based on the photo-ligand substitution reactions and carbonyl ligand substitution reactions through the oxidative decarbonylation reaction to prepare the tri(isocyano) analogue complexes
+1-007	r 2011 American Chemical Society
+1-008	([Re(CO)(CNR)3 (NN)]þ) and to incorporate another type of coligand into these isocyano rhenium(I) diimine complexes.
+1-009	Since [Re(CO)(CNR)3(NN)]þ can exist as two geome- trical isomers, the facial tri(isocyano) and the meridional tri- (isocyano) arrangements, selective synthetic routes to each of these isomers are also reported.
+1-010	As noted in the previous work on tris-cyclometalated Ir(III) complexes,[7] pronounced differ- ences in the metal-centered oxidation potential, emission energy, lifetime, and quantum yield between facial and meridional isomers with the same empirical formula have been observed.
+1-011	The different photophysical properties between the facial and the meridional isomers of [Re(CO)(CNR)3(NN)]þ are also discussed.
+2-001	Materials and Reagents. 1,10-Phenanthroline monohydrate (phen), 4,40-di-tert-butyl-2,20-bipyridine (tBu2bpy), triphenylphosphine (PPh3), thallium trifluoromethanesulfonate (TlOTf), silver trifluoro- methanesulfonate (AgOTf), and [Re2(CO)10] were purchased from Strem Chemical Company and used without further purification.
+2-002	Anilines, pyridine, formic acid, phosphorus oxychloride, and trimethyl amine N-oxide dihydrate (Me3NO 3 2H2O) were obtained from Aldrich Chem- ical Co. 5,6-Dibromo-1,10-phenanthroline (Br2phen) was prepared
+2-003	Received: December 5, 2010
+2-004	Published: April 25, 2011
+2-005	according to a previously published procedure.[3e,f] Substituted phenyl isocyanide ligands, C6H5NC, 4-BrC6H4NC, 4-ClC6H4NC, 4-MeOC6H4NC, and 2,6-iPr2C6H3NC were prepared from the corresponding substituted anilines according to the synthetic methodology reported by Ugi and co- workers.[8]
+2-006	Re(CO)5Br was synthesized from the reaction between [Re2(CO)10 ] and bromine according to a literature procedure.[9] cis, cis-[Re(CO)2(CNC6 H4Cl-4) 2(phen)]PF6 and the complex precursors with general formula of fac-[Re(CO)3(CNR)2Br] were prepared ac- cording to our previously reported procedures.[6b] All solvents were of analytical reagent grade and were used without further purification.
+2-007	The synthetic routes for target complexes are summarized in Schemes 1 and 2.
+2-008	Unless specified in the procedure, all the reactions were performed under anhydrous conditions and strictly inert argon atmosphere using the standard Schlenk technique.
+2-009	General Synthetic Procedure for fac-[Re(CO)3(CNR)3]CF3SO3.
+2-010	To a mixture of [Re(CO)3(CNR)2Br] (0.35 mmol) and AgOTf (107.9 mg, 0.42 mmol, 1.2 mol equiv.) in tetrahydrofuran (THF, 40 mL) were heated to reflux for 2 h.
+2-011	The resulting suspension was filtered to remove the precipitated AgBr.
+2-012	Thereafter, a slight excess of CNR (0.46 mmol, 1.3 mol equiv.) was added and stirred at 50 °C for 12 h.
+2-013	After removal of solvent under reduced pressure, the residue was purified by column chromatogra- phy on silica gel using dichloromethane/acetone (3:1 v/v) as eluent.
+2-014	fac-[Re(CO)3(CNC6H5)3]CF3SO3.
+2-015	Yield: 160 mg, 0.22 mmol; 63%.
+2-016	1H NMR (400 MHz, CDCl3, 298 K): δ 7.487.53 (m, 9H, phenyl H’s), 7.767.78, (m, 6H, phenyl H’s).
+2-017	ESI-MS: m/z 580 [M]þ.
+2-018	IR (KBr disk, v/cm[1])1999,2064 v(CtO); 2170, 2210 v(NtC).
+2-019	Elemental analyses, Calcd for [Re(CO)3(CNC6H5)3]CF3SO3 (found) %: C 41.21 (41.19), H 2.07 (2.15), N 5.77 (5.80).
+2-020	fac-[Re(CO)3(CNC6H4Br-4)3]CF3SO3.
+2-021	Yield: 207 mg, 0.21 mmol; 61%.
+2-022	1H NMR (400 MHz, CDCl3, 298 K): δ 7.607.63 (m, 6H, phenyl H’s), 7.707.73 (m, 6H, phenyl H’s).
+2-023	ESI-MS: m/z 817 [M]þ.
+2-024	IR (KBr disk, v/cm[1])2005,2058 v(CtO); 2170, 2214 v(NtC).
+2-025	Elemental analyses, Calcd for [Re(CO)3(CNC6H4Br-4)3]CF3SO3 3 1/2CH3COCH3 (found) %: C 32.01 (32.25), H 1.52 (1.60), N 4.23 (4.46).
+2-026	fac-[Re(CO)3(CNC6H4Cl-4)3]CF3SO3.
+2-027	Yield: 222 mg, 0.27 mmol; 76%.
+2-028	1H NMR (400 MHz, CDCl3, 298 K): δ 7.44 (d, 6H, J = 7.5 Hz, phenyl H’s), 7.78 (d, 6H, J = 7.5 Hz, phenyl H’s).
+2-029	ESI-MS: m/z 682 [M]þ.
+2-030	IR (KBr disk, v/cm[1])2000,2061 v(CtO); 2174, 2213 v(NtC).
+2-031	Elemental analyses, Calcd for [Re(CO)3(CNC6 H4Cl-4)3]CF3SO3 (found) %: C 36.09 (36.21), H 1.45 (1.32), N 5.05 (4.93). fac-[Re(CO)3(CNC6H4OMe-4)3]CF3SO 3.
+2-032	Yield: 197 mg, 0.24 mmol; 69%.
+2-033	1H NMR (400 MHz, CDCl 3, 298 K): δ 3.85 (s, 9H, OMe H’s), 7.00 (d, 6H, J = 9.0 Hz, phenyl H’s), 7.66 (d, 6H, J = 9.0 Hz, phenyl H’s).
+2-034	ESI-MS: m/z 670 [M]þ.
+2-035	IR (KBr disk, v/cm[1])1990, 2055 v(CtO); 2184, 2210 v(NtC).
+2-036	Elemental analyses, Calcd for [Re(CO)3(CNC6H4OMe-4)3 ]CF3SO3 (found) %: C 41.07 (41.12), H 2.59 (2.75), N 5.13 (5.18).
+2-037	fac-[Re(CO)3(CNC6H3iPr2-2,6) 3]CF3SO3.
+2-038	Yield: 254 mg, 0.26 mmol; 74%.
+2-039	1H NMR (400 MHz, CDCl 3, 298 K): δ 1.29 (d, 36H, J = 6.9 Hz,iPr H’s), 3.18 (septet, 6H, J = 6.9 Hz,iPr H’s), 7.30 (d, 6H, J = 7.8 Hz, phenyl H’s), 7.52 (t, 3H, J = 7.8 Hz, phenyl H’s).
+2-040	ESI-MS: m/z 832 [M]þ.
+2-041	IR (KBr disk, v/cm[1])2012,2065 v(CtO); 2160, 2201 v(NtC).
+2-042	Elemental analyses, Calcd for [Re(CO)3(CNC6H3iPr2-2,6)3]CF3SO3 (found) %: C 52.64 (52.35), H 5.24 (5.35), N 4.28 (4.28).
+2-043	mer-[Re(CO)2(CNC6H5)3Br].
+2-044	To a solution of Re(CO)5Br (203.1 mg, 0.5 mmol) and CNC6 H5 (0.22 mL, 2.15 mmol, 4.3 mol equiv.) in a solvent mixture of THF and toluene (1:3 v/v, 60 mL) were strongly refluxed for 2 days.
+2-045	After removal of the solvent, the residue was purified by column chromatography on silica gel using dichloromethane/acteone (4:1 v/v) as eluent to give the analytically pure complexes as off-white powder.
+2-046	Yield: 133 mg, 0.21 mmol; 42%.
+2-047	1H NMR (400 MHz, CDCl3, 298 K): δ 7.307.46 (m, 15H, phenyl H’s).
+2-048	ESI-MS: m/z 632
+2-049	[MþH]þ.
+2-050	IR (KBr disk, v/cm[1]) 1862, 1986 br v(CtO); 2085 br v(NtC).
+2-051	Elemental analyses, Calcd for [Re(CO)2- (CNC6H5)3 Br] (found) %: C 43.74 (43.50), H 2.39 (2.32), N 6.65 (6.56).
+2-052	fac-[Re(CO)(CNC6H5)3(Br2phen)]PF6 (1). fac-[Re(CO)3(CNC6-H5)3]CF3SO3 (72.8 mg, 0.1 mmol) and Br2phen (40.8 mg, 0.12 mmol, 1.2 mol equiv.) were mixed and dissolved in argon-degassed benzene (12 mL).
+2-053	The resulting solution was then irradiated with UV light (λ = 254 nm) for 2 h at room temperature using a Pen-Ray mercury lamp (11SC-1) in a water cooled quartz jacket, during which the solution gradually turned orange.
+2-054	After removal of solvent under reducing pressure, the residue was purified by column chromatography on silica gel using dichloromethane/acetone (3:1 v/v) as eluent.
+2-055	Subsequent metathesis reaction in methanol with a saturated methanolic solution of ammonium hexafluorophosphate gave the target complex as a PF6 salt.
+2-056	Analytically pure dark red crystals were obtained from slow diffusion of diethyl ether vapor into a concentrated acetone solution of the complexes.
+2-057	Yield: 40.3 mg, 0.040 mmol; 40%.
+2-058	1H NMR (400 MHz, CDCl3, 298 K): δ 7.297.47 (m, 15H, phenyl H’s), 8.13 (dd, 2H, J = 5.1, 8.6 Hz, 3,8-phen H’s), 9.04 (dd, 2H, J = 1.2, 8.6 Hz, 4,7-phen H’s), 9.60 (dd, 2H, J = 1.2, 5.1 Hz, 2,9-phen H’s).
+2-059	ESI-MS: m/z 862 [M]þ.
+2-060	IR (KBr disk, v/cm[1])842 v(PF); 1924 v(CtO); 1999, 2082, 2148 v(NtC).
+2-061	Elemental analyses, Calcd for 1 3CH3COCH3 (found) %: C 41.74 (41.55), H 2.56 (2.51), N 6.58 (6.65).
+2-062	fac-[Re(CO)(CNC6H5)3(phen)]PF6 (2).
+2-063	The complex was synthesized according to a procedure similar to that used for 1, except phen (23.8 mg, 0.12 mmol) was used instead of Br2phen in the photosubstitution reaction.
+2-064	Orange solids were obtained by slowly diffusing diethyl ether vapor into a concentrated dichloromethane solution of 2.
+2-065	Yield: 40 mg, 0.047 mmol; 47%. 1 H NMR (400 MHz, CDCl3 , 298 K): δ 7.177.48 (m, 15H, phenyl H’s) 8.03 (dd, 2H, J = 5.1, 8.3 Hz, 3,8-phen H’s), 8.18 (s, 2H, 5,6-phen H’s), 8.70 (d, 2H, J = 8.3 Hz, 4,7-phen H’s), 9.60 (d, 2H, J = 5.1 Hz, 2,9-phen H’s).
+2-066	ESI-MS: m/z 704 [M]þ.
+2-067	IR (KBr disk, v/cm[1])840 v(PF); 1924 v(CtO); 1996, 2080, 2148 v(NtC).
+2-068	Elemental analyses, Calcd for 2 (found) %: C 48.11 (48.09), H 2.73 (2.66), N 8.25 (8.31).
+2-069	fac-[Re(CO)(CNC6H4Br-4)3 (phen)]PF6 (3).
+2-070	The complex was synthe- sized according to a procedure similar to that used for 1, except fac-[Re(CO)3(CNC6H4Br-4)3]CF3 SO3 (96.8 mg, 0.1 mmol) and phen (23.8 mg, 0.12 mmol) were used in place of fac-[Re(CO)3- (CNC6H5)3 ]CF3SO3 and Br2phen in the photosubstitution reaction.
+2-071	Analytically pure orange crystals were obtained from slow diffusion of diethyl ether vapor into a concentrated dichloromethane solution of 3.
+2-072	Yield: 50 mg, 0.046 mmol; 46%.
+2-073	1H NMR (400 MHz, CDCl3, 298 K): δ 7.12 (d, 2H, J = 8.8 Hz, phenyl H’s), 7.33 (d, 4H, J = 8.8 Hz, phenyl H’s), 7.43 (d, 2H, J = 8.8 Hz, phenyl H’s), 7.6 (d, 4H, J = 8.8 Hz, phenyl H’s), 8.04 (dd, 2H, J = 5.1, 8.2 Hz, 3,8-phen H’s), 8.13 (s, 2H, 5,6-phen H’s), 8.65 (dd, 2H, J = 1.4, 8.2 Hz, 4,7-phen H’s), 9.60 (dd, 2H, J = 1.4, 5.1 Hz, 2,9-phen H’s).
+2-074	ESI-MS: m/z 942 [M]þ.
+2-075	IR (KBr disk, v/cm[1])842 v(PF); 1932 v(CtO); 1998, 2076, 2146 v(NtC).
+2-076	Elemental analyses, Calcd for 3 (found) %: C 37.62 (37.99), H 1.86 (1.85), N 6.45 (6.45).
+2-077	fac-[Re(CO)(CNC6H4Cl-4)3(phen)]PF 6 (4).
+2-078	The complex was synthe- sized according to a procedure similar to that used for 1, except fac-[Re(CO)3(CNC6H4Cl-4)3]CF3 SO3 (83 mg, 0.1 mmol) and phen (23.8 mg, 0.12 mmol) were used in place of fac-[Re(CO)3- (CNC6H5)3 ]CF3SO3 and Br2phen in the photosubstitution reaction.
+2-079	Orange crystals were obtained by slowly diffusing diethyl ether vapor into a concentrated dichloromethane solution of 4.
+2-080	Yield: 47.5 mg, 0.050 mmol; 50%.
+2-081	1H NMR (400 MHz, CDCl3 , 298 K): δ 7.18 (d, 2H, J = 8.8 Hz, phenyl H’s), 7.24 (d, 2H, J = 8.8 Hz, phenyl H’s), 7.38 (d, 4H, J = 8.8 Hz, phenyl H’s), 7.43 (d, 4H, J = 8.8 Hz, phenyl H’s), 8.03 (dd, 2H, J = 5.1, 8.2 Hz, 3,8-phen H’s), 8.12 (s, 2H, 5,6-phen H’s), 8.64 (dd, 2H, J = 1.3, 8.2 Hz, 4,7-phen H’s), 9.60 (dd, 2H, J = 1.3, 5.1 Hz, 2,9-phen
+2-082	H’s).
+2-083	ESI-MS: m/z 806 [M]þ.
+2-084	IR (KBr disk, v/cm[1])843 v(PF); 1906 v(CtO); 2007, 2076, 2146 v(NtC).
+2-085	Elemental analyses, Calcd for 4 (found) %: C 42.89 (42.92), H 2.12 (2.30), N 7.36 (7.31).
+2-086	mer-[Re(CO)(CNC6H4Cl-4)3 (tBu2bpy)]PF6 (5).
+2-087	The complex was synthesized according to a procedure similar to that used for 1, except fac-[Re(CO)3(CNC6H4Cl-4)3]CF3 SO3 (124.5 mg, 0.15 mmol) and tBu2bpy (48 mg, 0.18 mmol) were used in place of fac-[Re(CO)3- (CNC6H5)3 ]CF3SO3 and Br2phen in the photosubstitution reaction.
+2-088	Recrystallization by slow diffusion of diethyl ether vapor into a con- centrated acetone solution of the complex gave the analytically pure 5 as yellow crystals.
+2-089	Yield: 66 mg, 0.064 mmol; 42%.
+2-090	1H NMR (400 MHz, CDCl3, 298 K): δ 1.48 (s, 18H, tBu H’s), 7.14 (d, 4H, J = 8.9 Hz, phenyl H’s), 7.29 (d, 4H, J = 8.9 Hz, phenyl H’s), 7.36 (d, 2H, J = 8.9 Hz, phenyl H’s), 7.41 (d, 2H, J = 8.9 Hz, phenyl H’s), 7.48 (dd, 1H, J = 1.9, 5.9 Hz, 5-bpy H’s), 7.78 (dd, 1H, J = 1.9, 5.9 Hz, 50-bpy H’s), 8.30 (d, 2H, J = 1.9 Hz, 3,30-bpy H’s), 9.04 (d, 1H, J = 5.9 Hz, 6-bpy H’s), 9.08 (d, 1H, J = 5.9 Hz, 60-bpy H’s).
+2-091	ESI-MS: m/z 894 [M]þ.
+2-092	IR (KBr disk, v/cm[1])844 v(PF); 1897 v(CtO); 2008, 2075, 2146 v(NtC).
+2-093	Elemental ana- lyses, Calcd for 5 3 CH3COCH 3 (found) %: C 47.02 (46.92), H 3.85 (3.97), N 6.38 (6.52).
+2-094	fac-[Re(CO)(CNC6H4Cl-4)3(tBu2 bpy)]PF6 (6).
+2-095	A mixture of fac-[Re- (CO)3(CNC6H4 Cl-4)3]CF3SO3 (124.5 mg, 0.15 mmol) and Me3NO 3 2H2O (40 mg, 0.36 mmol, 2.4 mol equiv.) in THF/MeCN (10:1 v/v, 200 mL) was heated to 50 °C and stirred at this temperature overnight.
+2-096	The crude intermediate fac-[Re(CO)(MeCN)2(CNC 6H4Cl-4) 3]-CF3SO3 was purified by column chromatography on silica gel using dichloromethane/acetone (3:1 v/v) as eluent.
+2-097	Thereafter, the orange red residue of fac-[Re(CO)(MeCN)2(CNC6H4Cl-4)3]CF3SO3 was mixed withtBu2bpy (48 mg, 0.18 mmol, 1.2 mol equiv.) in THF/MeCN (110 mL, 10:1 v/v) and stirred at 5060 °C for 12 h.
+2-098	It was then purified by column chromatography on silica gel using dichloromethane/acet- one (3:1 v/v) as eluent.
+2-099	Subsequent metathesis reaction with ammo- nium hexafluorophosphate in minimum amount of methanol gave the target complex as PF6 salt.
+2-100	Orange crystals were obtained by slowly diffusing diethyl ether vapor into a concentrated dichloromethane solution of 6.
+2-101	Yield: 72 mg, 0.069 mmol; 46%.
+2-102	1H NMR (400 MHz, CDCl3, 298 K): δ 1.49 (s, 18H, tBu H’s), 7.297.31 (m, 8H, phenyl H’s), 7.39 (d, 2H, J = 8.8 Hz, phenyl H’s), 7.41 (d, 2H, J = 8.8 Hz, phenyl H’s), 7.61 (dd, 2H, J = 1.8, 5.9 Hz, 5,50-bpy H’s), 8.28 (d, 2H, J = 1.8 Hz, 3,30-bpy H’s), 9.07 (d, 2H, J = 5.9 Hz, 6,60-bpy H’s).
+2-103	ESI-MS: m/z 894 [M]þ.
+2-104	IR (KBr disk, v/cm[1])844 v(PF); 1930 v(CtO); 1993, 2076, 2150 v(NtC).
+2-105	Elemental analyses, Calcd for 6 (found) %: C 46.18 (45.93), H 3.49 (3.35), N 6.73 (6.82).
+2-106	fac-[Re(CO)(CNC6H3iPr2-2,6)3\](phen)]PF6 (7).
+2-107	The complex was synthesized according to a procedure similar to that used for 6, except [Re(CO)3 (CNC6H3iPr2 -2,6)3]CF 3SO3 (147.2 mg, 0.15 mmol) and phen (35.6 mg, 0.18 mmol) were used in place of fac-[Re(CO)3(CNC 6H4 Cl-4)3]CF3 SO3 and tBu2bpy.
+2-108	Subsequent metathesis reaction with ammonium hexafluorophosphate in a mini- mum amount of methanol gave the target complex as PF6 salt.
+2-109	Red powdery solid was obtained by slowly diffusing diethyl ether vapor into a concentrated dichloromethane solution of 7.
+2-110	Yield: 91 mg, 0.083 mmol; 55%. 1 H NMR (400 MHz, CDCl3, 298 K): δ 0.76 (d, 12H, J = 6.9 Hz, iPr H’s), 1.31 (dd, 24H, J = 1.9, 6.9 Hz, iPr H’s) 2.45 (septet, 2H, J = 6.9 Hz, iPr H’s), 3.50 (septet, 4H, J = 6.9 Hz, iPr H’s), 6.98 (d, 2H, J = 7.8 Hz, phenyl H’s), 7.197.30 (m, 7H, phenyl H’s), 8.03 (dd, 2H, J = 5.1, 8.2 Hz, 3,8-phen H’s), 8.30 (s, 2H, 5,6-phen H’s), 8.86 (dd, 2H, J = 1.3, 8.2 Hz, 4,7-phen H’s), 9.58 (dd, 2H, J = 1.3, 5.1 Hz, 2,9-phen H’s).
+2-111	ESI-MS: m/z 957 [M]þ.
+2-112	IR (KBr disk, v/cm[1])845 v(PF); 1928 v(CtO); 2020, 2076, 2144 v(NtC).
+2-113	Elemental analyses, Calcd for 7 (found) %: C 56.71 (56.45), H 5.40 (5.52), N 6.36 (6.28).
+2-114	fac-[Re(CO)(CNC6H4OMe-4)3(phen)]PF6 (8).
+2-115	The complex was syn- thesized according to a procedure similar to that used for 6, except
+2-116	fac-[Re(CO)3(CNC6H4OMe-4)3]CF3SO3 (123 mg, 0.15 mmol) and phen (35.6 mg, 0.18 mmol) were used in place of fac-[Re(CO)3- (CNC6H4Cl-4)3]CF3 SO3 and tBu2 bpy.
+2-117	Subsequent recrystallization by slow diffusion of diethyl ether vapor into a concentrated dichlor- omethane solution of 8 afforded the analytically pure complex as red crystals.
+2-118	Yield: 50 mg, 0.05 mmol; 35%.
+2-119	1H NMR (400 MHz, CDCl3, 298 K): δ 3.86 (s, 9H, OMe H’s), 6.76 (d, 2H, J = 9.1 Hz, phenyl H’s), 6.96 (d, 4H, J = 9.1 Hz, phenyl H’s), 7.06 (d, 2H, J = 9.1 Hz, phenyl H’s), 7.36 (d, 4H, J = 9.1 Hz, phenyl H’s), 8.02 (dd, 2H, J = 5.3, 8.2 Hz, 3,8-phen H’s), 8.19 (s, 2H, 5,6-phen H’s), 8.72 (dd, 2H, J = 1.4, 8.2 Hz, 4,7-phen H’s), 9.60 (dd, 2H, J = 1.4, 5.3 Hz, 2,9-phen H’s).
+2-120	ESI-MS: m/z 794 [M]þ.
+2-121	IR (KBr disk, v/cm[1])844 v(PF); 1917 v(CtO); 2015, 2085, 2150 v(NtC).
+2-122	Elemental analyses, Calcd for 8 (found) %: C 47.34 (47.32), H 3.11 (3.13), N 7.46 (7.51).
+2-123	mer-[Re(CO)(CNC6 H5) 3(phen)]PF6 (9).
+2-124	A mixture of mer-[Re(CO)2- (CNC6H5)3 Br] (90 mg, 0.14 mmol), phen (84.7 mg, 0.43 mmol, 3 mol equiv.) and TlOTf (54 mg, 0.154 mmol, 1.1 mol equiv.) in argon-degassed THF (90 mL) was heated to 60 °C and stirred overnight.
+2-125	Thereafter, Me3NO 3 2H2O (17 mg, 0.154 mmol, 1.1 mol equiv.) was added, and the reaction mixture was stirred at 55 °C for 4 days.
+2-126	After purification by column chromatography on silica gel using dichloro- methane/acetone (3:1 v/v) as eluent and subsequent metathesis reac- tion with ammonium hexafluorophosphate, the target complex was obtained as PF6 salt.
+2-127	Analytically pure orange crystals were obtained from the slow diffusion of diethyl ether vapor into a dichloromethane/ methanol solution (10:1 v/v) of 9.
+2-128	Yield: 40 mg, 0.041 mmol; 41%.
+2-129	1H NMR (400 MHz, CDCl3, 298 K): δ 7.057.08 (m, 5H, phenyl H’s), 7.267.35 (m, 5H, phenyl H’s), 7.48 (d, 5H, J = 4.4 Hz, phenyl H’s), 7.91 (dd, 1H, J = 5.2, 8.2 Hz, 3-phen H’s), 8.16 (dd, 1H, J = 5.2, 8.2 Hz, 8-phen H’s), 8.18 (s, 1H, 6-phen H’s), 8.22 (s, 1H, 5-phen H’s), 8.66 (dd, 1H, J = 1.2, 8.2 Hz, 4-phen H’s), 8.79 (dd, 1H, J = 1.2, 8.2 Hz, 7-phen H’s), 9.58 (d, 2H, J = 5.2 Hz, 2,9-phen H’s).
+2-130	ESI-MS: m/z 704 [M]þ.
+2-131	IR (KBr disk, v/cm[1])842 v(PF); 1888 v(CtO); 1999, 2077, 2147 v(NtC).
+2-132	Elemental analyses, Calcd for 9 3 CH3OH (found) %: C 47.73 (47.66), H 3.09 (2.94), N 7.95 (8.09).
+2-133	cis,cis-[Re(CO)(py)(CNC6H4Cl-4)2(phen)]PF6 (10).
+2-134	A solution of cis, cis-[Re(CO)2(CNC6 H4Cl-4) 2(phen)]PF6 (100 mg, 0.12 mmol) and Me3NO 3 2H2O (16 mg, 0.144 mmol, 1.2 mol equiv.) in degassed pyridine (40 mL) was warmed and stirred overnight at 40 °C. There- after, dichloromethane (50 mL) was added and then washed with diluted hydrochloric acid (0.1 M, 50 mL 2) and copious amount of water.
+2-135	The organic layer was collected and purified by column chroma- tography on silica gel with acetone/dichloromethane (4:1 v/v) as eluent.
+2-136	A dark brown crystalline solid was obtained from the slow diffusion of diethyl ether vapor into a concentrated acetone solution of 10.
+2-137	Yield: 62 mg, 0.062 mmol; 52%.[1]
+2-138	H NMR (400 MHz, CDCl3, 298 K): δ 6.85 (d, 2H, J = 8.9 Hz, phenyl H’s), 7.177.20 (m, 4H, 2 pyridyl H’s and 2 phenyl H’s), 7.41 (s, 4H, phenyl H’s), 7.567.61 (m, 1H, pyridyl H’s), 7.96 (dd, 1H, J = 5.1, 8.3 Hz, 3-phen H’s), 8.04 (d, 1H, J = 8.3 Hz, 5-phen H’s), 8.09 (d, 1H, J = 8.3 Hz, 6-phen H’s), 8.28 (dd, 1H, J = 5.1, 8.3 Hz, 8-phen H’s), 8.378.39 (m, 2H, pyridyl H’s), 8.58 (dd, 1H, J = 1.4, 8.3 Hz, 4-phen H’s), 8.67 (dd, 1H, J = 1.4, 8.3 Hz, 7-phen H’s), 9.68 (dd, 1H, J = 1.4, 5.1 Hz, 2-phen H’s), 9.75 (dd, 1H, J = 1.4, 5.1 Hz, 9-phen H’s).
+2-139	ESI-MS: m/z 748 [M]þ.
+2-140	IR (KBr disk, v/cm[1])843 v(PF); 1877 v(CtO); 1978, 2086 v(NtC).
+2-141	Elemental analyses, Calcd for 10 3 CH3 COCH3 (found) %: C 44.17 (44.06), H 2.86 (3.06), N 7.36 (7.13).
+2-142	cis,cis-[Re(CO)(MeCN)(CNC6H4Cl-4) 2(phen)]PF6 (11).
+2-143	A mixture of cis,cis-[Re(CO)2(CNC6H4Cl-4)2(phen)]PF6 (250 mg, 0.30 mmol) and Me3NO 3 2H2O (40 mg, 0.36 mmol, 1.2 mol equiv.) in argon-degassed THF/MeCN (1:1 v/v, 200 mL) was stirred at 40 °C for 12 h.
+2-144	After removal of the solvent, further purification by column chromatography on silica gel using dichloromethane/acetone (4:1 v/v) as eluent gave the complex as red powdery solid.
+2-145	Yield: 173 mg, 0.18 mmol; 60%.1H NMR
+2-146	(400 MHz, CDCl3, 298 K): δ 2.18 (s, 3H, MeCN), 6.82 (d, 2H, J = 8.6 Hz, phenyl H’s), 7.15 (d, 2H, J = 8.6 Hz, phenyl H’s), 7.42 (s, 4H, phenyl H’s), 7.878.14 (m, 4H, 3,8-phen and 5,6-phen H’s), 8.63 (d, 1H, J = 8.1 Hz, 4-phen H’s), 8.67 (d, 1H, J = 8.1 Hz, 7-phen H’s), 9.51 (m, 2H, 2,9-phen H’s).
+2-147	ESI-MS: m/z 710 [M]þ.
+2-148	IR (KBr disk, v/cm[1]) 837 v(PF); 1860 v(CtO); 1937, 2090 v(NtC).
+2-149	Elemental analyses, Calcd for 11 (found) %: C 40.71 (40.85), H 2.24 (2.26), N 8.19 (8.28). trans,cis-[Re(CO)(PPh3)(CNC6H4Cl-4)2(phen)]PF6 ( 12).
+2-150	To a solu- tion of 11 (80 mg, 0.07 mmol) in argon-degassed THF (60 mL), PPh3 (1 g, 3.8 mmol, 53 mol equiv.) was added.
+2-151	The resulting solution was warmed and stirred overnight at 70 °C. After removal of the solvent, analytically pure complex 12 as a brownish orange powdery solid was obtained from the recrystallization by slow diffusion of diethyl ether vapor into a concentrated dichloromethane solution of 12.
+2-152	Yield: 47 mg, 0.04 mmol; 50%.
+2-153	1H NMR (400 MHz, CDCl3, 298 K): δ 6.957.02 (m, 11H, phenyl H of PPh3 and phenyl H of CNC6H4Cl-4), 7.107.14 (m, 6H, phenyl H of PPh3 ),7.257.28 (m, 2H, phenyl H of PPh3 ), 7.347.36 (d, 4H, J = 8.8 Hz, phenyl H of CNC 6H4Cl-4), 7.74 (dd, 2H, J = 5.2, 8.1 Hz, 3,8-phen H’s), 8.04 (s, 2H, 5,6-phen H’s), 8.52 (d, 2H, J = 8.1 Hz, 4,7-phen H’s), 9.10 (d, 2H, J = 5.2 Hz, 2,9-phen H’s).
+2-154	ESI- MS: m/z 931 [M]þ.
+2-155	IR (KBr disk, v/cm[1])844 v(PF); 1897 v(CtO); 1986, 2086 v(NtC).
+2-156	Elemental analyses, Calcd for 12 (found) %: C 50.19 (49.85), H 2.90 (2.75), N 5.20 (5.45).
+2-157	Physical Measurements and Instrumentation.
+2-158	1H NMR spectra were recorded on a Bruker AV400 (400 MHz) FT-NMR spectrometer.
+2-159	Chemical shifts (ppm) were reported relative to tetra- methylsilane (Me4Si).
+2-160	All positive-ion electrospray ionization (ESI) mass spectra were recorded on a Perkin-Elmer Sciex API 365 mass spectrometer.
+2-161	The elemental analyses were performed on an Elementar Vario EL III Analyzer.
+2-162	Electronic absorption spectra were recorded on a Hewlett-Packard 8452A diode array spectrophotometer.
+2-163	Steady state emission and excitation spectra at room temperature and at 77 K were recorded on a Horiba Jobin Yvon Fluorolog-3-TCSPC spectrofluorom- eter.
+2-164	Solutions were rigorously degassed on a high-vacuum line in a two- compartment cell with no less than four successive freeze pump-thaw cycles.
+2-165	Measurements of the EtOHMeOH (4:1 v/v) glass samples at 77 K were carried out with the dilute EtOHMeOH sample solutions contained in a quartz tube inside a liquid nitrogen-filled quartz optical Dewar flask.
+2-166	Luminescence quantum yields were determined using the optically dilution method described by Demas and Crosby[10] with an aqueous solution of [Ru(bpy)3]Cl2 (φem = 0.04211 with 436-nm excitation) as the reference.
+2-167	Luminescence lifetimes (τ) of the samples were measured using time-correlated single photon counting (TCSPC) technique on the TCSPC spectrofluorometer in a Fast MCS mode with a NanoLED-375LH excitation source, which has its excitation peak wavelength at 375 nm and pulse width shorter than 750 ps.
+2-168	The photon counting data were analyzed by Horiba Jobin Yvon Decay Analysis Software.
+2-169	Rate constant for nonradiative decay (knr) is calculated according to the equation: knr = [(1 φem)/τ].
+2-170	Cyclic voltammetric measurements were performed by using a CH Instruments, Inc.
+2-171	Model CHI 620 Electrochemical Analyzer.
+2-172	Electro- chemical measurements were performed in acetonitrile solutions with 0.1 M n Bu4NPF 6 as the supporting electrolyte at room temperature.
+2-173	The reference electrode was a Ag/AgNO3 (0.1 M in acetonitrile) electrode, and the working electrode was a glassy carbon electrode (CH Instruments, Inc.) with a platinum wire as the auxiliary electrode.
+2-174	The working electrode surface was polished with a 1 μm R-alumina slurry (Linde) and then a 0.3 μm R-alumina slurry (Linde) on a microcloth (Buehler Co.).
+2-175	The ferrocenium/ferrocene couple (FeCp2þ/0) was used as the internal calibrant (0.38 V).[12]
+2-176	All solutions for electrochemical studies were deaerated with prepurified argon gas prior to measurements.
+2-177	X-ray Crystal Structure Determination.
+2-178	The crystal structures were determined on an Oxford Diffraction Gemini S Ultra X-ray single
+2-179	crystal diffractometer using graphite monochromatized Cu-KR (λ = 1.54178 Å) or Mo-KR radiation.
+2-180	(λ = 0.71073 Å).
+2-181	The structures were solved by direct methods employing the SHELXL-97 program[13] on a PC.
+2-182	Re and many non-H atoms were located according to the direct methods.
+2-183	The positions of other non-hydrogen atoms were found after successful refinement by full-matrix least-squares using SHELXL-97 program[13] on a PC.
+2-184	In the final stage of least-squares refinement, all non-hydrogen atoms were refined anisotropically.
+2-185	H atoms were generated by the program SHELXL-97.[13]
+2-186	The positions of H atoms were calculated based on the riding mode with thermal parameters equal to 1.2 times that of the associated C atoms, and participated in the calculation of final R-indices.
+3-001	Synthesis and Characterization.
+3-002	All isocyanides were synthe- sized using the synthetic methodology developed by Ugi and co- workers.[8]
+3-003	With different synthetic strategies, fac-[Re(CO)(CNR)3- (NN)]OTf and mer-[Re(CO)(CNR)3(NN)]OTf could be prepared from the fac-[Re(CO)3(CNR) 3]OTf and mer-[Re- (CO)2(CNR)3Br] (Scheme 1).
+3-004	The substitution reaction of fac-[Re(CO)3(CNR)2Br] or [Re(CO)5Br] with excess isocyanide ligands in refluxing toluene/THF gave mer-[Re(CO)2(CNR)3Br].
+3-005	To synthesize facial tri(isocyano) rhenium(I) complexes, the bromide ligand of fac-[Re(CO)3(CNR)2Br] was first removed using AgOTf and subsequent reaction with slight excess of isocyanide ligands afforded the target fac-[Re(CO)3(CNR) 3]OTf.
+3-006	Using our recently reported synthetic strategy for cis,cis-[Re(CO)2- (CNR)2(NN)]þ,[6b] photochemical ligand substitution reactions of fac-[Re(CO)3(CNR) 3]OTf and mer-[Re(CO)2(CNR)3Br] with different diimine ligands were performed.
+3-007	For the syntheses of 14 from the corresponding fac-[Re(CO)3(CNR) 3]OTf (R = C6H5, 4-BrC6H4 or 4-ClC6H4), the photochemical substitution reactions were found to be highly stereoselective with the target complexes, fac-[Re(CO)(CNR)3(NN)]OTf, being the only major product.
+3-008	However, in the preparation of other analogous complexes 68, which contain electron-releasing and/or bulky substituents on the isocyanide ligands or diimine ligands, the photosubstitution reactions led to the formation of a 1:1 isomeric mixture of both the facial and the meridional conformations of [Re(CO)(CNR)3(NN)]OTf as determined by 1 H NMR spec- troscopy.
+3-009	Subsequent metathesis reaction with ammonium hexa- fluorophosphate gave the target complex as a PF6 salt.
+3-010	The formations of the two different isomers in the photoche- mical ligand substitution are likely to be the result of the fac-mer photoisomerization of the reaction intermediates since the pure fac- isomers 68 were found to be highly stable upon prolonged 254-nm excitation for 2 h under similar condition.
+3-011	Except for [Re(CO)(CNC6H4Cl-4)3(tBu2bpy)]PF6, in which the mer- iso- mer 5 can be separated by repeated recrystallization, the fac- and mer- isomeric mixtures of [Re(CO)(CNR)3(NN)]PF6 are difficult to separate by column chromatography and recrystalliza- tion.
+3-012	The photochemical ligand substitution reactions were also successfully carried out with lower energy UV light (λ = 365 nm) as excitation source; however, the ratio of the facial to meridional conformations in the syntheses of 68 were not found to improve.
+3-013	On the other hand, the mer-[Re(CO)(CNR)3(NN)]PF6 could also be prepared through the photosubstitution reaction of mer-[Re(CO)2(CNR)3Br] with diimine ligands under similar conditions, but the yields of target products were very low (<10%).
+3-014	As a result of the strong competition of π-back bonding interactions between the isocyanide ligands and the carbonyl
+3-015	ligands, the carbonyl ligands, which are trans- to the isocyanide ligands, could undergo oxidative decarbonylation reaction by Me3 NO, which was demonstrated to be an effective decarbony- lation reagent for metal carbonyl complexes with v(CtO) > 2000 cm1.[14]
+3-016	Through the decarbonylation and the subsequent ligand substitution reactions, synthetic routes for the fac- and mer- isomers have been developed (Scheme 1).
+3-017	These routes are found to be highly effective in controlling the isomerism of the target complexes.
+3-018	On the basis of this strategy, the fac-[Re(CO)- (CNR)3(NN)]OTf isomer could be obtained from the dec- arbonylation reactions of two carbonyl ligands in fac-[Re(CO)3- (CNR)3]OTf in THF/acetonitrile (10:1 v/v) solution and the subsequent substitution with a diimine ligand.
+3-019	Similarly, as illustrated in the preparation of 9, the mer-[Re(CO)(CNR)3- (NN)]PF6 isomer could be obtained from the decarbonylation of mer-[Re(CO)2(CNR)3Br] and the subsequent substitution with a diimine ligand in the presence of TlOTf for bromide abstraction.
+3-020	With the successful decarbonylation in these rhenium carbonyl isocyano complexes, extension of this synthetic methodology to extend the flexibility in the functionalization of these rhenium diimine luminophores was attempted.
+3-021	The cis,cis-[Re(CO)(Lx)- (CNC6H4Cl-4)2(phen)]PF6 (Lx = MeCN or pyridine) has been synthesized from cis,cis-[Re(CO)2(CNC6H4Cl-4)2(phen)]PF6 through the selective decarbonylation of the carbonyl ligand trans- to isocyanide ligand with Me3NO and ligand substitution reaction in MeCN or pyridine (Scheme 2).
+3-022	To confirm the carbonyl ligand that trans- to isocyanide ligand is selectively decarbonylated and replaced, the substitution reaction of cis,cis-[Re(CO)2- (CNC6H4Cl-4)2(phen)]PF6 with large excess of CNC6H4Cl-4 under similar condition have also been performed, and this reaction gave the mer-[Re(CO)(CNC6H4Cl-4)3(phen)]PF6 as the only major product.
+3-023	Further ligand substitution reaction of labile MeCN ligand in cis,cis-[Re(CO)(MeCN)(CNC6H4Cl-4)2- (phen)]PF6 with large excess of PPh3 ligand at 70 °C was also performed.
+3-024	Surprisingly, the major product obtained from this substitution reaction is the trans,cis-[Re(CO)(PPh3)(CNC6H4Cl-4)2(phen)]PF6 (12), in which both the cis- isocyanide ligands are trans- to the phenanthroline, as characterized by the symmetric[1] H NMR signals for the phenanthroline ligand.
+3-025	All of the complexes are air and thermally stable, and have good solubility in common organic solvents.
+3-026	They gave satisfactory elemental analyses and were characterized by 1H NMR, IR spectroscopy, and positive-ion ESI mass spectro- metry.
+3-027	Complexes 1, 3, 4, 5 , 6, 8, 9, and fac-[Re(CO)3 - (CNC6H 3iPr2-2,6)3 ]OTf were also structurally characterized by X-ray crystallography.
+3-028	IR and NMR Spectroscopy.
+3-029	All precursor complexes with general formula of fac-[Re(CO)3(CNR)3]OTf, exhibit two strong CtO stretches and two CtN stretches (one strong and one weak) at about 19902065 cm1 and 21602214 cm1, respectively.
+3-030	The two IR active CtO stretches for the carbonyl ligands and two IR active CtN stretches of isocyanide ligands are consistent with the facial arrangement of these ligands with C3v symmetry in an octahedral complex.[15]
+3-031	On conversion to the target complexes fac-[Re(CO)(CNR) 3- (NN)]þ, which contain one carbonyl ligand and facial iso- cyano ligands of Cs symmetry, the complexes exhibit one CtO stretch and three CtN stretches, typical for facial arrangement of isocyano ligands in a distorted octahedral complex with Cs symmetry.[15,16]
+3-032	Similarly, the mer-[Re(CO)(CNR)3(NN)]þ complexes also display one CtO stretch and three CtN
+3-033	stretches.
+3-034	Because of the competition of the π back-bonding interactions between the isocyanide and the carbonyl ligands, the carbonyl stretching frequency for the fac- isomer of the phenan- throline complexes in the CH2Cl2 solution (Supporting Informa- tion, Table S1) increased with the π-accepting ability of the isocyanide ligands [8 (1934 cm1) x)(CNR) 2(NN)]þ, they can be characterized by one CtO and two CtN stretches.
+3-035	Although the facial and the meridional conformations of [Re(CO)(CNR)3(NN)]þ cannot be distinguished by the number of IR active CtO stretches nor the CtN stretches, they can be readily distinguished by the 1H NMR spectroscopy.
+3-036	Because of the symmetric environment of the bipyridine or phenanthroline ligand in the facial isomer, protons of the two pyridyl moieties of the diimine ligand are chemically equivalent and therefore show one set of 1 H NMR signals (Figure 1a).
+3-037	While for the meridional conformation, the two pyridine moieties of the bipyridine or phenanthroline ligand are of different chemical environments, two different sets of 1 H NMR signals for the two pyridyl moieties of the bipyridine or phenanthroline ligand (Figure 1b) would be observed.
+3-038	Since different sets of 1H NMR signals of the two pyridyl moieties in the mer-isomer show similar coupling patterns and constants, their proton signals were unambiguously assigned based on the two-dimensional (2D) homonuclear correlation spectroscopy (1H-1H COSY).
+3-039	The COSY spectra of the mer- isomers (5 and 9) suggested that the chemical shifts of one of the pyridyl rings in the diimine ligand are more downfield.
+3-040	This is probably due to the difference of the electronic effects as one of the pyridyl rings is trans to the carbonyl ligand and the other is trans to the isocyanide ligand.
+3-041	Comparing the mer- and fac- isomers, the chemical shifts of most of the proton signals in the diimine ligand of the fac- isomer are in between those of the two sets of the proton signals at the same ring position of the pyridyl rings in mer- isomer and are relatively closer to the upfield pyridyl proton signals of the mer- isomer (Figure 1).
+3-042	The overall slightly more downfield signals for the mer- isomer compared to the fac- isomer is suggestive of the more
+3-043	electron deficient diimine ligand in the mer- isomer, which is consistent with the better π-accepting ability of the carbonyl ligand than the isocyanide ligand.
+3-044	On the basis of these obser- vations and the previous NMR spectroscopic study of [Mo- (CO)4n(CNR)n(bpy)] (n = 02),[17] which show a progressive upfield shifting of the bipyridyl protons on successive replacement of the carbonyl ligand with the isocyanide ligand, the more downfield pyridyl proton signals in the mer- isomers are tenta- tively assigned to those of the pyridyl ring trans to the carbonyl ligand.
+3-045	X-ray Crystal Structure Determination.
+3-046	Diffraction quality crystals of 1, 3, 4, 5, 6, 8, 9, and fac-[Re(CO)3(CNC6H 3iPr2-2,6)3 ]OTf were obtained by slow diffusion of diethyl ether vapor into concentrated dichloromethane, methanol, or acetone solu- tions of the complexes.
+3-047	Both the fac- and mer- isomers of [Re(CO)(CNR)3(NN)]PF6 were also confirmed by X-ray crystallography.
+3-048	Perspective drawings of the complex cations of 1, 3, 4, 5, 6, 8, 9, and fac-[Re(CO)3 (CNC6 H3iPr2 -2,6)3]OTf are depicted in Figure 2.
+3-049	The experimental details for the crystal structure determinations, and the selected bond distances and bond angles are summarized in Tables 1 and 2, respectively.
+3-050	The rhenium metal in the crystal structure of fac-[Re(CO)3- (CNC6 H3iPr2 -2,6)3]OTf adopted an octahedral geometry and owing to the highly symmetric environment, the bond lengths of three ReC (isocyanide), three ReC (carbonyl), and three CtN (isocyanide) are very similar with averaged distances of 2.074 Å, 1.986 Å, and 1.153 Å, respectively.
+3-051	These bonding parameters are similar to those reported for other related carbonyl rhenium(I) isocyanide complexes.[15]
+3-052	For the crystal structures of fac-[Re(CO)(CNR)3 (NN)]PF6 (1, 3, 4, 6, and 8) and mer-[Re(CO)(CNR)3 (NN)]PF6 (5 and 9), the rhenium metals adopted a distorted octahedral geometry with the bite angles of the diimine ligands ranging from 74.7° to 76.0°, typical of rhenium complexes with diimine ligands.[2,3]
+3-053	The deviations of the CtNC bond angle of isocyanide ligands from linearity in these structures are attributed to the π-back- bonding interaction from the rhenium metal center.[6,18]
+3-054	As a consequence of the competitions for π-back bonding interaction and the difference of trans- influence, CtNC are more linear for isocyanide ligands that are trans- to the carbonyl ligand or trans- to the isocyanide ligand (averaged angle 173.1°) compared to those trans- to the diimine ligand (averaged angle 164.3°).
+3-055	UVvis Spectroscopy.
+3-056	The absorption properties of com- plexes 112 in CH2Cl2 solution were investigated, and the electronic absorption data are summarized in Table 3.
+3-057	Intense absorptions at 260340 nm with molar extinction coefficients on the order of 104 dm 3 mol1 cm 1 were observed in all complexes.
+3-058	Such absorptions are attributable to the spin allowed intraligand (IL) π f π* transitions of the isocyanide and diimine moieties.
+3-059	Moreover, one to two additional moderately intense MLCT [dπ(Re) f π*(CNR)] and [dπ(Re) f π*(NN)] absorption bands or shoulders with molar extinction coefficients on the order of 103 dm[3] mol1 cm1 were also observed at lower energy region of 385455 (Supporting Information, Figure S1).[3,6,19]
+3-060	With reference to the previous spectroscopic and computation study of related rhenium isocyano diimine complexes,[20] the higher energy absorption is assigned as the MLCT [dπ(Re) f π*(CNR)] transition.
+3-061	The lowest energy MLCT absorption bands of 19 show strong dependency on the electronic nature of both the isocyanide and diimine ligands (Supporting Information, Figure S2).
+3-062	The absorption energy for complexes with the
+3-063	Figure 2.
+3-064	Perspective drawings of the complex cations of (a) fac-[Re(CO)3(CNC6H3iPr2-2,6)3 ]OTf, (b) 1, (c) 3, (d) 4, (e) 6, (f) 8, (g) 5, and (h) 9.
+3-065	same diimine ligand is progressively lower from those with isocyanide ligands bearing electron-withdrawing substituents to those with electron-releasing substituents, as reflected by the order of λabs : 4 (411 nm) abs : 2 (430 nm) < 1 (443 nm) and 6 (392 nm) < 4 (411 nm).
+3-066	These observed energy dependences result from the modification of the orbital energy level of dπ(Re) through the rhenium- isocyanides (ReCNR) interactions and orbital energy level of π*(NN) by substituents with different electronic features and therefore consistent with the assignment of MLCT [dπ(Re) f π*(NN)] transition.
+3-067	Although the
+3-068	ligand-to-ligand charge transfer (LLCT) [π(CNR) f π*- (NN)] transitions are also expected to show similar energy dependence, this assignment is disfavored because these low- est-energy absorptions are significantly shifted when one of the isocyanide ligands is replaced with other ligands as reflected from the absorption maxima of 4 (411 nm) < 12 (427 nm) < 11 (435 nm) < 10 (453 nm).
+3-069	Emission Spectroscopy.
+3-070	Upon excitation with λ 2Cl2 solution, complexes 112 exhibited an orange to red photoluminescence at room temperature with emission maxima in the range of 607690 nm (Table 3, Supporting Information, Figure S2).
+3-071	With reference to the previous spectroscopic and
+3-072	1,3,6,19,20
+3-073	computational study of related rhenium diimine complexes,
+3-074	these emissions are ascribed to the metalligand-to-ligand charge transfer (MLLCT) [dπ(Re)/π*(RNC) f π*(NN)]
+3-075	Inorganic Chemistry ARTICLE 2 Re2 P 3.50 ° O 9 10 0.1
+3-076	C 1040.26 113(2) 11.6902(3) 20.5384(6) 17.7957(4) 90.00 97.044(3) 90.00 4240.5(2) yellow monoclinic P 4 2056 1.629 0.5 1.54180 8.26 3.81 h k l: 98% 16251 7400 5905 529 0.0541 0.1523 1.04 0.001 þ
+3-077	C 1040.26 100(2) 14.4834(4) 23.0100(7) 14.6848(7) 90.00 96.219(3) 90.00 4865.1(3) yellow monoclinic P 4 2056 1.420 0.9 1.5418 7.20 3.59 h k l 99.6% 35595 8653 7835 520 0.0524 0.1463 1.055 0.001 þ
+3-078	C 1037.00 173(2) 12.6678(6) 17.9925(10) 16.7007(6) 90.00 94.874(4) 90.00 3792.8(3) orange monoclinic P 4 2016 1.816 0.3 0.71073 3.67 3.5 h: k: l: 99.7% 14950 6643 4457 487 0.0353 0.0730 0.90 0.001 þ
+3-079	C 1006.55 133(2) 13.1790(3) 13.3794(2) 13.8300(3) 72.3996(16) 70.3319(17) 62.2971(19) 2001.73(7) red triclinic P 2 964 1.670 0.2 1.54178 9.18 3.45 h: k: l: 99.9% 33376 7121 6671 472 0.0277 0.0712 1.053 0.002 þ = [2 3 P
+3-080	], where bP m þ erence map, e Å2 p ff ) nement, max ap fi ned, ) nal di ( fi /σ fi
+3-081	Inorganic Chemistry ARTICLE
+3-082	1
+3-083	N(4)Re(1)N(5) 75.27(11)
+3-084	3
+3-085	N(4)Re(1)N(5) 75.96(13)
+3-086	4
+3-087	N(4)Re(1)N(5) 76.18(18)
+3-088	5
+3-089	N(4)Re(1)N(5) 74.72(15)
+3-090	6
+3-091	N(4)Re(1)N(5) 74.9(2)
+3-092	8
+3-093	N(4)Re(1)N(5) 75.92(14)
+3-094	9
+3-095	N(9)Re(2)N(10) 75.0(3)
+3-096	phosphorescence.
+3-097	For complexes 19 with general formula of correlation with the π-accepting ability of the diimine and [Re(CO)(CNR)3(NN)]PF6, their emission show similar isocyanide ligands (Figure 3a) [8 (674 nm) > 7 (650 nm) > 2
+3-098	Table 3.
+3-099	UV-vis Absorption and Emission Data for 112
+3-100	(640 nm) for phenylisocyano complexes with different diimine ligands; 4 (621 nm) > 6 (618 nm) for chlorophenylisocyano complexes with different diimine ligands] as the lowest-energy MLCT transition.
+3-101	Such emission energy dependence and the sub microsecond lifetime are supportive of the MLLCT phosphores- cence assignment.
+3-102	Moreover, because of the higher basicity of the isocyanide ligands compared to carbonyl ligands that results in the formation of a higher-lying dπ(Re) orbital, the emission energies are in the order of [Re(CO)2(CNR)2(NN)]PF6[6b] > [Re(CO)(CNR)3(NN)]PF6 > [Re(CNR)4(NN)]PF6[6a] for similar isocyanide and diimine ligands.
+3-103	As with tris-cyclometalated Ir(III) complexes, Ir(C∧N)3 , where C∧N = cyclometalating ligand,[7] the emissions of [Re(CO)(CNR)3(NN)]PF6 are also sensitive to the isomeric conformations.
+3-104	A slight blue-shift in the emission energy is observed for meridional isomers compared to facial isomers (Figure 3b) [9 (625 nm) vs 2 (640 nm); 5 (607 nm) vs 6 (618 nm)].
+3-105	As discussed above, the carbonyl ligands can better stabilize dπ(Re) orbital than the isocyanide ligands.
+3-106	Conse- quently, when the carbonyl ligand is trans- to the diimine ligand in the meridional form, it can stabilize the rhenium metal center to a greater extent through a stronger metalligand interaction compared to that in facial conformation, in which the carbonyl ligand is trans- to the isocyanide ligand.
+3-107	This could be reflected from the higher metal-centered oxidation potentials for the mer- isomers compared to the fac- isomers (vide infra).
+3-108	266 (75140), 293 sh (50905), 344 (28235), 384 (18080), 418 sh (10590) 267 (75080), 293 (53745), 386 sh (19400), 411 sh (11355)
+3-109	240 (56570), 288 (67930), 310 (67315), 348 sh (32310), 394 sh (19710) 241 (62990), 285 (78290), 307 sh (54265), 344 (31995), 392 (18355) 267(72140),293(45750),336(20770),384(12780),437(8230)
+3-110	267 (92200), 293 (62995), 322 sh (30000), 382 (15405), 436 (9575)
+3-111	268 (76785), 294 (59650), 342 sh (24350), 385 (17715) 271(62820),295(35760),324(30360),374(16390),453(6620) 269(55400),292(33715),319(25610),371(14615),435(7520) 269(56240),295(41920),323(32390),372(14850),427(7005)
+3-112	b In CH 2Cl2 at 298 K. c EtOH/MeOH = 4:1 (v/v).
+3-113	When one of the isocyanide ligands of fac-[Re(CO)- (CNC6 H4 Cl-4)3 (phen)]PF6 is replaced with MeCN or pyridine or triphenylphosphine ligand, the emission energies are in line with the π-acidity of the substituted ligand, as reflected from the emission maxima λem: 4 (621 nm) < 12 (630 nm) < 11
+3-114	(665 nm) nr) and emission energy (Eem) (Figure 4).
+3-115	The slope of 5.2 eV1 is similar in magnitude compared to those found for other MLCT emitters.[22]
+3-116	This correlation suggests that the emissive excited states of these phenanthroline complexes have very similar vibrational and electronic components.
+3-117	The deviation of the emission properties of 12 from the linear correlation may be suggestive of different modes of deactivation or electronic structure of the emissive excited state of 12 compared to other phenanthroline complexes.
+3-118	The emissions of the complexes in low-temperature 77 K EtOHMeOH (4:1 v/v) glassy medium were also investigated (Table 3).
+3-119	Compared to the solution medium, blue-shifted emissions, because of the luminescence rigidochromic effect,[23] with similar emission energy trends (Supporting Information, Figure S3) were observed.
+3-120	These emissions are also assigned to be derived from an 3 MLLCT [dπ(Re) f π*(NN)] excited state origin.
+3-121	Electrochemistry.
+3-122	The electrochemical properties of the complexes were studied by cyclic voltammetry.
+3-123	Complexes 112 generally exhibit a quasi-reversible oxidation, irreversible oxidation wave in the range of þ0.81 V to þ1.00 V and þ1.70 V to þ1.90 V vs SCE, respectively.
+3-124	Except for 1, which exhibits two irreversible reduction waves in the reductive scan, a quasi-reversible reduction couple ranged from 1.28 V to 1.45 V vs SCE was recorded in all other complexes.
+3-125	The representative cyclic voltammograms of 3 are shown in Figure 5, and the electrochemical data of 112 are summarized in Table 4.
+3-126	With reference to electrochemical studies of related rhenium complexes[6] and the sensitivity of the oxidative potentials toward the changes of the isocyanide and diimine ligands, the first oxidation couple and irreversible oxidation wave are tentatively suggested to be the successive metal-centered ReII/I and ReIII/II oxidations.
+3-127	By comparing the first oxidation potentials of differ- ent complexes, corresponding to the ReII/I couple, the relative energy of the Highest Occupied Molecular Orbital (HOMO) [dπ(Re)] could be revealed.
+3-128	As discussed in the UVvis absorption and emission properties of these complexes, the dπ(Re) orbital would be more stabilized with better π-accepting isocyanide ligands; consequently, the first oxidation potentials
+3-129	for complexes with the same diimine ligands are in line with the π-accepting ability of the corresponding isocyanide ligands: 4 (þ0.98 V) > 3 (þ0.95 V) > 7 (þ0.93 V) > 2 (þ0.90 V) > 8 (þ0.78 V).
+3-130	Similarly, with the same isocyanide ligands, a higher oxidation potential is observed for complexes with more elec- tron-withdrawing diimine ligand, as reflected by 4 (þ0.98 V) > 6 (þ0.92 V).
+3-131	The lower-lying dπ(Re) orbital in mer- isomers compared to the fac- isomers could be revealed by the slightly higher oxidative potentials for 9 (þ0.97 V) and 5 (þ1.00 V) relative to those of 2 (þ0.90 V) and 6 (þ0.92 V), respectively.
+3-132	In the reductive scan, the reversible reduction couple observed in
+3-133	212 is highly sensitive to the nature of the diimine ligand and relatively insensitive to the change of the isocyanide ligand; therefore it is assigned as the one-electron diimine-based reduc- tions that are commonly observed in other rhenium(I) diimine complexes.[3a,6,19a] The irreversible reduction wave observed in 1 may be attributed to the instability of the reduced phenanthroline ligand in the presence of bromine substituents as similar irrever- sible diimine-based ligand reductions are commonly observed in metal complexes with bromo-substituted diimine ligands.[24]
+4-001	New classes of rhenium(I) complexes with general formula of [Re(CO)(CNR)3 (NN)]PF6 and [Re(CO)(Lx)(CNR)2- (NN)]PF6 with tunable features have been synthesized and characterized by IR spectroscopy, 1 H NMR, ESI mass spectro- metry, and elemental analysis.
+4-002	The photophysical and electro- chemical properties of all these complexes were investigated.
+4-003	Both the fac- and mer- conformations of [Re(CO)(CNR)3- (NN)]PF6 were also structurally characterized by X-ray crystallography.
+4-004	In the preparation of the fac- and mer- conformations of [Re(CO)(CNR)3(NN)]PF6, photochemical ligand substitu- tion reactions of fac-[Re(CO)3(CNR)3]OTf and mer-[Re- (CO)2(CNR)3Br] with different diimine ligands were per- formed.
+4-005	However, some of the photochemical ligand substitution reactions gave an isomeric mixture of the target complexes.
+4-006	Another synthetic methodology based on the oxidative decarbo- nylation reaction by Me3NO and subsequent ligand substitution reactions were developed and demonstrated to be highly effective in the preparation of both the isomeric pure fac- and mer- forms of [Re(CO)(CNR)3(NN)]PF6.
+4-007	With these new synthetic meth- odologies, rhenium(I) diimine luminophores capable of functio- nalized in various orientations and with tailored excited state properties could be achieved.

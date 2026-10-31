@@ -1,0 +1,204 @@
+# document_id: jo402429q
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Polycyclic aromatic hydrocarbons (PAHs) have found wide- spread applications in organic light-emitting diodes (OLEDs)
+1-003	for decades.[1−5] Small polyaromatic hydrocarbons serve as appealing materials because of their high carrier mobility[6] and oxidation resistance.[1−6] The energy gaps (3−4 eV) of these PAHs make these compounds suitable for use as OLED active- layer materials as either host or blue dopants.
+1-004	Considerable interest has focused on the elaboration of anthracenes,[1] pyrenes,[2] fluorenes,[3] and perylenes[4] as OLED materials.
+1-005	Among these small PAHs, pyrene derivatives are particularly notable because of their outstanding OLED performance as host materials.
+1-006	Examples include 1-(4-(1-pyrenyl)phenyl)- pyrene (PPP), 1-(2,5-dimethoxy-4-(1-pyrenyl)phenyl)pyrene (DOPPP), and 1-(2,5-dimethyl-4-(1-pyrenyl)phenyl)pyrene (DMPPP).[2a]
+1-007	Chrysene resembles pyrene in comprising a fused tetracene core; this structural comparison presages its prospective use in OLED devices.[5]
+1-008	However, its development has been impeded
+1-009	by both the lack of a convenient synthesis[7] and the costly commercial materials (\$306/g, purity >97%).[8]
+1-010	Reported syntheses of chrysene derivatives are based mainly on naphthalene derivatives bearing special functional groups, which requires a long procedure.[7]
+1-011	There is only one literature report[5] on tetraphenylchrysene used in an OLED device, of
+1-012	© 2013 American Chemical Society 267
+1-013	which the data fail to reflect the potential of the chrysene family.
+1-014	For instance, the reported OLED device gave a broad blue emission with CIE (x, y) = (0.23, 0.35) in addition to a small current efficiency (1.5 cd/A).
+1-015	We report herein a convenient synthesis of chrysene that enables the subsequent preparation of tetrasubstituted chrysene derivatives.
+1-016	Notably, the introduction of suitable substituents significantly alters the photophysical properties and enhances the quantum yield.
+1-017	Importantly, one representative chrysene was used as a blue fluorescent emitter with outstanding OLED performance (7.2 cd/A).
+2-001	■
+2-002	We previously reported regiocontrolled syntheses of ethylene- bridged p-phenylene oligomers based on platinum-catalyzed
+2-003	Received: October 31, 2013
+2-004	Published: December 2, 2013
+2-005	aromatization of 2-aryl-1-ethynylbenzenes.[9]
+2-006	The reported procedures for chrysene derivatives are tedious, and commercial chrysene (4) is costly.
+2-007	We employed this platinum-catalyzed aromatization to develop a short synthesis of 4, as outlined in Scheme 1.
+2-008	An initial Sonogashira coupling reaction[10] of 2-bromo-1-iodobenzene with (trimethylsilyl)acetylene provided 2-alkynyl-1-bromobenzene 2 in 94% yield, of which a subsequent Suzuki coupling[11] gave the desired product 3 in 82% yield.
+2-009	Species 3 was then desilylated with K2CO3 and subsequently treated with PtCl2 in hot toluene to give 4 in 85% yield with high regioselectivity (>20:1).
+2-010	Chrysene 4 was converted to 3,6,9,12-tetrabromochrysene (5) by direct bromination (Br2 , 6 equiv) in neat trimethyl phosphate at 100 °C (3 days) according to a procedure reported by Ionkin and co-workers.[5]
+2-011	Among tetrasubstituted chrysenes,[5,12] there have been no reports on the systematic variation of their photophysical properties with substituents.
+2-012	We sought to vary the HOMO
+2-013	and LUMO energy levels of tetrasubstituted chrysenes with suitable aryl, alkynyl, and amino groups because these substituents can significantly alter the energy levels of an anthracene core.[1b,c] As shown in Scheme 2, treatment of tetrabromochrysene 5 with various 2-aryl-1,3,2-dioxaborolanes (6 equiv, Ar = 3,5-di-tert-butylphenyl, 4-tert-butylnaphthalen-1-yl, 6-tert-butylphenanthren-2-yl, and 7-tert-butylpyren-1-yl), Na 2CO3 (60 equiv), and Pd(PPh3)4 (15 mmol %) in a EtOH/toluene/H2O mixed solvent afforded the resulting Suzuki coupling products 6a−d in 10−27% yield.
+2-014	We also employed Sonogashira coupling reactions on tetrabromide species 5 to give tetraalkynyl-substituted chrysene derivatives 6e [R = Si(i-Pr)3] and 6f (R = 3,5-di-tert-butylphenyl) in 22−29% yield after purification from a silica gel column.
+2-015	The introduction of four diarylamino groups was achieved also with the Buchwald−Hartwig coupling reaction,[13] providing com- pound 6g as a yellow solid in 20% yield.
+2-016	The overall yields of 10−29% in such fourfold coupling reactions are acceptable
+2-017	because each step corresponds to 56−72% yield.
+2-018	During these catalytic coupling reactions, we did not attempt to isolate the mono-, bis-, or trisubstituted products, which existed in minor proportions as monitored by TLC and NMR.
+2-019	Single crystals of 6a suitable for X-ray diffraction were grown in hexane/dichloromethane.
+2-020	The ORTEP drawing of 6a (Figure 1) shows a symmetrical structure with four di-tert-
+2-021	butylphenyl substituents located on carbons C1, C20, C1′ ,and C20′.
+2-022	The torsion angles between chrysene and the two phenyl rings on the C1 and C1′ carbons are 49° and 54°, respectively, and the planes between chrysene and the phenyl rings on the C20 and C20′ carbons show smaller torsion angles of ca. 34°.
+2-023	These angles allow partial electron delocalization within four phenyl groups and the chrysene core, resulting in variability of the photophysical parameters (Table 1).
+2-024	substituted chrysenes 6a−6d, the alkynyl- and amino- substituted analogues 6e−g have three absorption maxima.
+2-025	The absorption maxima of aryl-substituted chrysenes 6a−d increase gradually with increasing size of their aryl arrays; this phenomenon supports our postulated electron delocalization over the aryl groups and the chrysene core.
+2-026	Compounds 6a−g are strongly fluorescent with high quantum yields (Φ) of 0.44−0.87), which are much greater than that of chrysene 4 itself (Φ = 0.12).
+2-027	The PL emission wavelength of diarylamino- substituted chrysene 6g is somewhat affected by solvent polarity (e.g., 456 nm in hexane, 471 nm in CH2 Cl2, and 470 nm in acetonitrile), showing a small degree of charge-transfer character in its excited states.[14]
+2-028	The presence of four substituents is expected to decrease intermolecular π−π interactions between two chrysene cores, thus inhibiting intermolecular fluorescence quenching.
+2-029	The increasing quan- tum yields (Φ = 0.61−0.87) for chrysene derivatives 6a−d are attributed to the increasing sizes of their aryl substituents.
+2-030	Compounds 6a−d and 6g showed one-electron quasi- reversible oxidation in CH 2Cl 2, as revealed by cyclic voltammetry (CV) measurements;[15] compound 6g bearing four amino groups undergoes no second oxidation to form a dicationic species.[16]
+2-031	We determined their HOMO energies (EHOMO) from the E1/2ox potentials and the band gaps (ΔE) from the UV absorption.
+2-032	The LUMO energies were then obtained as ELUMO = EHOMO + ΔE. Compounds 6e and 6f have excessively low HOMO energies that were beyond the detection limit of the CV method.
+2-033	Their HOMO energies were measured by photoelectron spectroscopy and found to be −6.09 and −5.84 eV, respectively [see the Supporting Information (SI)].
+2-034	A summary of the HOMO and LUMO energies is provided in Figure 3.
+2-035	These data clearly reflect the substituent effects, which generate small band gaps for aryl-substituted chrysenes 6a−d(ΔE = 3.08−3.30 eV, ca. 0.47−0.69 eV smaller than that of unsubstituted chrysene 4).
+2-036	Electron-withdrawing alkynyl substituents, as in compounds 6e and 6f, lower the energies of both the HOMO and the LUMO, giving ΔE = 3.04 and 2.81 eV respectively.
+2-037	For compound 6g bearing π-donating diarylamino groups, the band gap is ΔE = 2.73 eV; this small value implies that the amino groups raise the HOMO energy to a larger extent than the LUMO energy.
+2-038	To understand the electronic structures of such chrysene derivatives, we performed time-dependent density functional theory (TD-DFT) calculations at the B3LYP/6-31G* level for
+2-039	in CH2Cl2.
+2-040	aIn CH2Cl2, 1.0 × 10−5 M. bExcitation wavelengths are shown in the Experimental Section. cCoumarin-1 was used as a standard. dEHOMO values were determined by CV. eEHOMO was determined by photoelectron spectroscopy. fBand gaps were calculated from UV/vis absorption.
+2-041	compound 6a using its crystallographic data (Figure 1).
+2-042	We found that the distributions of both the HOMO and the LUMO of compound 6a (Figure 4) were located mainly on the
+2-043	N,N′-bis[4-(N,N-diphenylamino)phenyl]benzidine (NPNPB), 4,4′-bis[N-(1-naphthyl)-N-phenylamino]biphenyl (NPB), 1- [2,5-dimethyl-4-(1-pyrenyl)phenyl]pyrene (DMPPP), and bis-(2-methyl-8-quinolinato)(4-phenylphenolato)aluminum (BAlq2) are shown in Scheme 3.
+2-044	The device showed a low activation voltage of 3.0 V, a large external quantum efficiency of ηext = 6.31%, a current efficiency of ηc = 7.2 cd A−1, a power efficiency of ηp = 3.21 lm W−1, and a maximum brightness of up to 42 325 cd/m[2].
+2-045	Figure 5 shows the EL spectrum with a maximum wavelength 471 nm and no shoulder at an applied voltage of 8.0 V (Figure 5); this emission pattern was unaffected by the use of a range of applied voltages (6−10 V).
+2-046	The CIE (x, y) coordinates of (0.13, 0.20) are indicative of a satisfactory blue color quality.
+2-047	A similar OLED without compound 6g showed a distinct emission at 450 nm with ηext = 4.0%, ηc = 3.4 cd A−1, and ηp = 1.1 lm W−1.[18]
+2-048	Accordingly, the blue dopant 6g really enhances the OLED performance with an effective energy transfer from the host material.[18]
+2-049	Among blue fluorescent OLEDs, distyrylamine (DSA) derivatives are the most commonly referred dopants.[19]
+2-050	Lee et al.[19c] reported that a light-blue EL device using p-bis(p-N,N-diphenylaminostyryl)-benzene (DSA-Ph) reaches a current efficiency of 9.7 cd A−1 with CIE (x, y) = (0.16, 0.32).
+2-051	Our preliminary data reflect the prospects of chrysene derivative 6g as a blue fluorescent material.
+3-001	Before this work, there was no systematic study on the photophysical properties of chrysene derivatives to evaluate their prospects in OLED devices.
+3-002	In this work, a convenient synthesis of chrysene was developed and further utilized to prepare 3,6,9,12-tetrasubstituted chrysenes bearing various aryl, alkynyl, and diarylamino groups.
+3-003	Relative to unsubstituted chrysene 4, there are large bathochromic shifts in the UV/vis
+3-004	central chrysene core, with minor distributions on the four phenyl rings.
+3-005	For both the HOMO and the LUMO, significant orbital coefficients were situated at the carbons linked to the phenyl groups (C1, C20, C1′, and C20′; see Figure 1).
+3-006	This feature indicates that the energies of both orbitals could be affected significantly by various electron-donating or -with- drawing substituents, consistent with our observations in Figure
+3-007	3.
+3-008	Chrysene derivative 6g was used as a dopant to fabricate blue fluorescent OLEDs by thermal evaporation because of its suitable emission wavelength (471 nm) and satisfactory quantum yield (Φ = 0.44).
+3-009	Its PL is affected by solvent polarity but to only a small extent; this property does not result
+3-010	in undesired electroluminescence (EL) red shifts as for some monostyrylamine materials.[17]
+3-011	The multilayer configuration consisted of ITO/NPNPB (80 nm)/NPB (10 nm)/DMPPP:6g (5%) (25 nm)/BAlq2 (20 nm)/LiF (1 nm)/Al (100 nm).
+3-012	The device components and molecular structures of N,N′-diphenyl-
+3-013	and BAlq2
+3-014	and PL spectra of these new chrysene derivatives, and their quantum yields are greatly enhanced.
+3-015	The HOMOs and LUMOs of these new chrysenes are easily affected by the presence of aryl, alkynyl, and amino substituents because significant orbital coefficients are located on the chrysene 3,6,9,12-carbons linked to these substituents.
+3-016	Diarylamino- substituted chrysene 6g was tested as a blue fluorescent emitter in an OLED; this device showed an outstanding external quantum efficiency (η = 6.31%) with blue emission [CIE (x, y) = (0.13, 0.20)] and a low turn-on voltage (3.0 V).
+4-001	■
+4-002	X-ray diffractometer.
+4-003	The compound [(2-bromophenyl)ethynyl]-trimethylsilane (2) was prepared from 1-bromo-2-iodobenzene according to a literature procedure.[20] 3,6,9,12-Tetrabromochrysene
+4-004	Photophysical Properties.
+4-005	UV/vis absorption and PL spectra were recorded on samples in dichloromethane (1.0 × 10−5 M) using a fluorescence spectrophotometer.
+4-006	The quantum yield was measured with reference to coumarin-1 (Φf = 0.99).[26]
+4-007	Electrochemical measurements were undertaken with an electrochemical analyzer employing Ag/Ag + (Ag/0.01 M AgNO3) as the reference electrode, a Pt wire as the counter-electrode, a glassy carbon electrode as the working electrode, and an internal ferrocene/ferrocenium (Fc/Fc +) standard.
+4-008	Samples were prepared in dry CH2Cl2 (1.0 × 10−3 M) containing tetrabutylammonium hexafluorophosphate (0.1 M) as the supporting electrolyte.
+4-009	The energy level of Fc/Fc+ was taken as 4.8 eV; the HOMO energies were determined using the equation EHOMO = 4.8 eV + E1/2ox .
+4-010	The HOMO energies of 6e and 6f were measured using a photoelectron spectrometer (AC-2) in ambient air with a UV source.
+4-011	OLED Device Fabrication.
+4-012	The EL devices with the configuration ITO/NPNPB (80 nm)/NPB (10 nm)/DMPPP:6g (5%) (25 nm)/BAlq 2 (20 nm)/LiF (1 nm)/Al (100 nm) were fabricated by sequential thermal evaporation onto clean glass precoated with a layer of indium tin oxide (ITO) having a sheet resistance of 25 Ω/ square.
+4-013	The effective area of the emitting diode was 9.00 mm2.
+4-014	Current, voltage, and light intensity were recorded simultaneously using a source meter and an optical meter equipped with a silicon photodiode.
+4-015	EL spectra were measured on a fluorescence spectropho- tometer.
+4-016	All of the measurements were performed near 23 °C in air.
+4-017	Synthesis of Compound 3.
+4-018	A mixed solution of toluene (160 mL), EtOH (40 mL), and water (40 mL) was degassed with nitrogen for 30 min; to this solution were added compound 220 (1.68 g, 6.63 mmol), Pd(PPh3)4 (390 mg, 0.33 mmol), Na2CO3 (2.11 g, 19.89 mmol), and naphthalen-2-ylboronic acid (1.14 g, 6.63 mmol).
+4-019	The resulting mixture was heated at 80 °C for 24 h, and the solution was extracted with hexane and concentrated.
+4-020	The crude material was purified by silica gel column chromatography (hexane) to afford compound 3 (1.63 g, 5.44 mmol, 82%) as a yellow oil.
+4-021	1H NMR (400 MHz, CDCl3): δ 8.06 (d, J = 1.3 Hz, 1H), 7.87−7.84 (m, 3H), 7.75 (dd, J = 1.8, 8.5 Hz, 1H), 7.60 (dd, J = 1.4, 7.5 Hz, 1H), 7.50−7.47 (m, 3H), 7.40 (td, J = 1.4, 7.5 Hz, 1H), 7.29 (td, J = 1.4, 7.5 Hz, 1H), 0.06
+4-022	General Information.
+4-023	All of the experimental operations were performed under nitrogen; the equipment was dried in an oven at 150 °C for several hours.
+4-024	THF and toluene were distilled over sodium particles.
+4-025	CH2Cl2 was distilled over calcium hydride.
+4-026	All other specified chemicals were commercially purchased and used without further purification.
+4-027	1H and 13C NMR spectra were determined on either a 400 or 600 MHz NMR spectrometer using CDCl 3 or CD2Cl2.
+4-028	HRMS was performed on double-focusing sector mass spectrometer in EI mode.
+4-029	MALDI mass determination was performed on a MALDI-TOF mass spectrometer.
+4-030	Elemental analysis was performed on an element analyzer.
+4-031	The single-crystal X-ray structure of 6a was collected on an
+4-032	(s, 9H).
+4-033	13C NMR (100 MHz, CDCl3): δ 144.0,137.7,133.4,133.4, 133.0,132.6,129.6,128.7,128.3,128.1,127.6,127.5,127.1,126.9, 125.9,121.6,104.9,97.6, −0.3.
+4-034	HRMS Calcd for C21H20Si: 300.1334.
+4-035	Found: 300.1335.
+4-036	Synthesis of Compound 4.
+4-037	Compound 3 (1.63 g, 5.43 mmol) was dissolved in MeOH/CH 2Cl2 (100 mL/100 mL) and then K2CO3 was added (75 mg, 0.54 mmol); the resulting solution was stirred for 3 h.
+4-038	The solution was treated with water and extracted with dichloromethane (3 × 40 mL).
+4-039	The combined organic phases were dried over MgSO 4 and evaporated to dryness.
+4-040	The crude product was purified on a flash silica gel column (hexane) to afford a yellow oil.
+4-041	This oil was treated with dry toluene (300 mL) and PtCl 2 (143 mg, 0.54 mmol) under an argon atmosphere at 85 °C for 8 h.
+4-042	The resulting solution was extracted with dichloromethane.
+4-043	The extract was dried over MgSO4, concentrated under reduced pressure, and purified on a silica gel column (dichloromethane/hexane 1/10) to afford chrysene
+4-044	Synthesis of (4-tert-Butylnaphthalen-1-yl)pinacolborane.
+4-045	To a 1,4-dioxane solution (50 mL) of Pd(dppf)Cl 2 (146 mg, 0.2 mmol) and KOAc (1.12 g, 12 mmol) were added 1-bromo-4-tert- butylnaphthalene (1.05 g, 4.0 mmol) and bis(pinacolato)diboron (1.29 g, 4.8 mmol); the mixture was stirred for 3 h at 80 °C. The solution was extracted with dichloromethane, and the extract was washed with water, dried over MgSO 4, and concentrated.
+4-046	The residues were purified by silica gel column chromatography (ethyl acetate/hexane 1/10) to afford the desired borane compound (1.15 g, 3.73 mmol, 93%) as a white solid.
+4-047	Mp: 140−146 °C. 1H NMR (400 MHz, CDCl3): δ 8.82 (dd, J = 2.4, 7.6 Hz, 1H), 8.46 (dd, J = 2.0, 7.6 Hz, 1H), 7.99 (d, J = 7.6 Hz, 1H), 7.50−7.45 (m, 3H), 1.61 (s, 9H), 1.39 (s, 12H).
+4-048	13C NMR (100 MHz, CDCl 3): δ 149.6,138.4,135.4,131.3, 129.8, 126.9, 125.0, 124.1, 122.4, 83.5, 36.1, 31.8, 24.9.
+4-049	HRMS Calcd for C20H27BO2: 310.2104.
+4-050	Found: 310.2109.
+4-051	Synthesis of 3,6,9,12-Tetrakis(3,5-di-tert-butylphenyl)-chrysene (6a).
+4-052	Nitrogen was bubbled through a mixed solution of toluene (40 mL), EtOH (10 mL), and water (10 mL) for 30 min, and to this solution were added compound 5 (875 mg, 1.61 mmol), Pd(PPh3)4 (379 mg, 0.32 mmol), Na2CO3 (10.239 g, 96.60 mmol), and 3,5-di-tert-butylphenylpinacolborane[21] (3.055 g, 9.66 mmol).
+4-053	The mixture was heated at 80 °C for 24 h.
+4-054	The solution was extracted with hexane, concentrated, and purified by silica gel column chromatog- raphy (dichloromethane/hexane 1/10) to afford compound 8a (427 mg, 0.43 mmol, 27%) as a white solid.
+4-055	Mp: >350 °C. 1H NMR (400 MHz, CDCl3): δ 9.04 (d, J = 1.2 Hz, 2H), 8.79 (s, 2H), 8.21 (d, J = 8.6 Hz, 2H), 7.82 (dd, J = 1.6, 8.6 Hz, 2H), 7.60 (d, J = 1.8 Hz, 4H), 7.57 (d, J = 1.8 Hz, 4H), 7.55 (t, J = 1.8 Hz, 2H), 7.47 (t, J = 1.8 Hz, 2H), 1.43 (s, 36 H), 1.40 (s, 36 H).
+4-056	13C NMR (100 MHz, CDCl3): δ 151.3, 150.8,141.0,140.5,140.4,139.9,131.4,130.2,127.8,127.5,126.4, 124.8, 124.8, 122.2, 122.2, 121.6, 121.3, 35.1, 35.1, 31.7, 31.6.
+4-057	MALDI-TOF-MS Calcd for C 74H92: 980.7199.
+4-058	Found: 980.523.
+4-059	Anal. Calcd for C74H92: C, 90.55; H, 9.45.
+4-060	Found: C, 90.47; H, 9.50.
+4-061	Synthesis of 3,6,9,12-Tetrakis(4-tert-butylnaphthalen-1-yl)-chrysene (6b).
+4-062	Compound 6b was prepared in a similar manner as 6a from compound 5 (652 mg, 1.20 mmol) and (4-tert-butylnaphthalen-1-yl)pinacolborane (2.23 g, 7.20 mmol) and was obtained as white solid (172 mg, 0.18 mmol, 15%).
+4-063	Mp: >355 °C. 1H NMR (400 MHz, CDCl3): δ 8.87 (s, 2H), 8.80 (s, 2H), 8.58 (d, J = 8.8 Hz, 2H), 8.50 (d, J = 8.8 Hz, 2H), 7.97 (d, J = 8.4 Hz, 2H), 7.71−7.43 (m, 18H), 7.35−7.29 (m, 4H), 1.72 (s, 18H), 1.64 (s, 18H).
+4-064	13C NMR (100 MHz, CDCl3): δ 146.2,145.8,139.6,139.2,138.1,137.6,134.5,133.2,131.7, 131.7,131.5,130.6,128.9,128.3,127.9,127.6,127.5,127.5,127.2, 127.1,127.1,126.8,124.8,124.8,124.4,124.3,123.2,122.9,122.8, 36.1, 36.0, 32.0, 31.9.
+4-065	MALDI-TOF-MS Calcd for C74H68: 956.5321.
+4-066	Found: 956.497.
+4-067	Anal. Calcd for C74H68: C, 92.84; H, 7.16.
+4-068	Found: C, 92.46; H, 7.20.
+4-069	Synthesis of 3,6,9,12-Tetrakis(6-tert-butylphenanthren-2-yl)chrysene (6c).
+4-070	Compound 6c was prepared in a similar manner as 6a from compound 5 (272 mg, 0.50 mmol) and (6-tert- butylphenanthren-2-yl)pinacolborane[22] (1.08 g, 3.00 mmol) and was obtained as a light-yellow solid (81 mg, 0.07 mmol, 13%).
+4-071	Mp: >360 °C. 1H NMR (400 MHz, CDCl3): δ 9.29 (s, 2H), 9.01 (s, 2H), 8.97 (d, J = 8.7 Hz, 2H), 8.82 (d, J = 8.7 Hz, 2H), 8.81 (s, 2H), 8.68 (s, 2H), 8.29−8.25 (m, 6H), 8.11 (dd, J = 1.8, 8.6 Hz, 2H), 8.04 (dd, J = 1.8, 8.4 Hz, 2H), 8.01 (dd, J = 1.6, 8.6 Hz, 2H), 7.91 (d, J = 8.4 Hz, 2H), 7.86−7.66 (m, 14H), 1.55 (s, 18H), 1.48 (s, 18H).
+4-072	13C NMR (100 MHz, CDCl3): δ 149.7,149.5,139.2,139.2,139.0,132.6,132.4, 131.4,130.6,130.2,130.1,129.9,129.9,129.9,129.8,129.8,128.8, 128.4,128.3,128.1,127.8,127.3,127.2,127.1,126.5,126.3,126.3, 126.3,126.0,125.1,125.0,123.4,122.7,122.6,122.1,118.4,118.3, 35.3, 35.2, 31.6, 31.5.
+4-073	MALDI-TOF-MS Calcd for C90H76: 1156.5947.
+4-074	Found: 1156.426.
+4-075	Anal. Calcd for C90H76: C, 93.38; H, 6.62.
+4-076	Found: C, 93.29; H, 6.55.
+4-077	Synthesis of 3,6,9,12-Tetrakis(7-tert-butylpyren-1-yl)-chrysene (6d).
+4-078	Compound 6d was prepared in a similar manner as 6a from compound 5 (290 mg, 0.52 mmol) and (7-tert-butylpyren-1-yl)pinacolborane[23] (1.20 g, 3.12 mmol) and was obtained as a light-yellow solid (63 mg, 0.05 mmol, 10%).
+4-079	Mp: >360 °C. 1H NMR (400 MHz, CDCl3): δ 9.18 (s, 2H), 9.11 (s, 2H), 8.33 (dd, J = 2.2, 7.8 Hz, 2H), 8.25−8.19 (m, 8H), 8.16−8.06 (m, 12H), 8.01−7.91 (m, 10H), 7.73 (dd, J = 8.7, 12 Hz, 4H), 1.57 (s, 9H), 1.56 (s, 9H), 1.52 (s, 18H).
+4-080	13C NMR (100 MHz, CDCl3): δ 149.3,149.1,139.9,138.4,137.4, 135.9,131.7,131.3,131.3,131.0,130.9,130.9,130.8,130.6,130.0, 129.5,128.4,128.2,127.9,127.9,127.8,127.6,127.5,127.3,127.2, 125.8,125.7,125.3,125.0,124.9,124.8,124.5,124.5,123.8,123.1, 123.0, 122.6, 122.5, 122.4, 122.4, 122.1, 35.2, 35.2, 31.9, 31.9.
+4-081	MALDI-TOF-MS Calcd for C98H76: 1252.5947.
+4-082	Found: 1252.286.
+4-083	Anal. Calcd for C98H76: C, 93.89; H, 6.11.
+4-084	Found: C, 93.55; H, 6.14.
+4-085	Synthesis of 3,6,9,12-Tetrakis((triisopropylsilyl)ethynyl)-chrysene (6e).
+4-086	Compound 5 (300 mg, 0.55 mmol), Pd(PPh3)4 (130 mg, 0.11 mmol), CuI (42 mg, 0.22 mmol), and PPh3 (58 mg, 0.22 mmol) were dissolved in a solution of piperidine (7.5 mL) and triethylamine (22.5 mL); the mixture was stirred for 5 min.
+4-087	To this mixture was added (triisopropylsilyl)acetylene (1.094 g, 6.00 mmol) dropwise under a nitrogen atmosphere; the resulting solution was heated to 80 °C for 8 h.
+4-088	After the solution was cooled to room temperature, the solvent was removed under reduced pressure.
+4-089	The residues were eluted through a long silica gel column (hexane) to give compound 6e (151 mg, 0.16 mmol, 29%) as a white solid.
+4-090	Mp: >260 °C. 1H NMR (400 MHz, CDCl3): δ 8.85 (s, 2H), 8.82 (s, 2H), 8.48 (d, J = 8.4 Hz, 2H), 7.78 (dd, J = 1.2, 8.4 Hz, 2H), 1.23−1.18 (m, 42H).
+4-091	13C NMR (100 MHz, CDCl3): δ 131.4,130.6,129.4,127.5, 127.0,127.0,126.8,122.5,121.2,107.4,104.9,97.7,92.5,18.8,18.7, 11.5, 11.4.
+4-092	MALDI-TOF-MS Calcd for C62H92Si4: 948.6276.
+4-093	Found: 948.547.
+4-094	Anal. Calcd for C62H92Si4: C, 78.41; H, 9.76.
+4-095	Found: C, 78.32; H, 9.69.
+4-096	Synthesis of 3,6,9,12-Tetrakis((3,5-di-tert-butylphenyl)-ethynyl)chrysene (6f).
+4-097	Compound 5 (250 mg, 0.46 mmol), Pd(PPh3)4 (107 mg, 0.09 mmol), CuI (34 mg, 0.18 mmol), and PPh 3 (47 mg, 0.18 mmol) were dissolved in a solution of piperidine (6 mL) and triethylamine (18 mL); the mixture was stirred for 5 min.
+4-098	To this mixture was added 1,3-di-tert-butyl-5-ethynylbenzene[24] (887 mg, 4.14 mmol) dropwise under a nitrogen atmosphere; the resulting solution was heated to 80 °C for 8 h.
+4-099	The resulting solution was cooled to room temperature, and the solvent was removed under reduced pressure.
+4-100	The residues were eluted through an alumina column (hexane) to give compound 6f (108 mg, 0.10 mmol, 22%) as a yellow solid.
+4-101	Mp: >280 °C. 1H NMR (400 MHz, CDCl 3): δ 9.03 (s, 2H), 9.02 (s, 2H), 8.60 (d, J = 8.4 Hz, 2H), 7.89 (d, J = 8.4 Hz, 2H), 7.58 (d, J = 1.7 Hz, 4H), 7.50 (d, J = 1.7 Hz, 4H), 7.48 (s, 2H), 7.44 (s, 2H), 1.39 (s, 36H), 1.36 (s, 36H).
+4-102	13C NMR (100 MHz, CDCl3): δ 151.1,151.0,131.1,129.9,129.7,127.6,127.2,127.0,126.3,126.1, 126.1,123.3,123.0,122.6,122.1,122.0,121.2,96.6,92.0,88.7,86.6, 34.9, 34.9, 31.4, 31.4.
+4-103	MALDI-TOF-MS Calcd for C82H92: 1076.7199.
+4-104	Found: 1076.755.
+4-105	Anal. Calcd for C82H92: C, 91.39; H, 8.61.
+4-106	Found: C, 91.51; H, 8.32.
+4-107	Synthesis of 3,6,9,12-Tetrakis(bis(4-tert-butylphenyl)-amino)chrysene (6g).
+4-108	Compound 5 (212 mg, 0.39 mmol), bis(4-tert-butylphenyl)amine[25] (545 mg, 1.93 mmol), potassium tert- butoxide (263 mg, 2.34 mmol), Pd(OAc) 2 (2 mg, 0.004 mmol), and P(tBu)3 (6 mg, 0.02 mmol) in dry toluene (15 mL) were stirred under an argon atmosphere at 100 °C for 12 h.
+4-109	The resulting solution was cooled to room temperature and extracted with dichloromethane.
+4-110	The extract was dried over MgSO 4, concentrated under reduced pressure, and purified on an alumina column to afford 6g (108 mg, 0.08 mmol, 20%) as a yellow solid.
+4-111	Mp: >370 °C. 1H NMR (400 MHz, CD2Cl 2): δ 8.10 (d, J = 2.1 Hz, 2H), 7.99 (s, 2H), 7.89 (d, J = 9.0 Hz, 2H), 7.28−7.25 (m, 8H), 7.20−7.14 (m, 10H), 7.06−7.02 (m, 8H), 6.96−6.92 (m, 8H), 1.29 (s, 36H), 1.27 (s, 36H).
+4-112	13C NMR (100 MHz, CD2Cl2): δ 147.4,146.8,145.9,145.2,144.4,142.1,133.7,128.2,126.7,126.6, 126.2,126.1,124.7,123.7,121.3,120.9,115.2,34.6,34.4,31.6,31.6.
+4-113	MALDI-TOF-MS Calcd for C 98H112 N4: 1344.8887.
+4-114	Found: 1344.874.
+4-115	Anal. Calcd for C98H112 N4: C, 87.45; H, 8.39; N, 4.16.
+4-116	Found: C, 87.14; H, 8.41; N 4.09.
+4-117	Molecular geometries were optimized and electronic properties computed with the Gaussian 09 program using DFT or TD-DFT calculations in conjunction with the B3LYP hybrid exchange−correlation functional (Becke’s three-parameter exchange functional combined with the Lee−Yang−Parr correlation functional) and the 6-31G* basis set.
+4-118	The molecular orbitals were visualized using Gaussview 4.1 software.

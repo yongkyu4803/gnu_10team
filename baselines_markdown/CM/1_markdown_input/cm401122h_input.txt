@@ -1,0 +1,167 @@
+# document_id: cm401122h
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Ambipolar OTFTs based on polymeric semiconductors with high and balanced electron and hole mobilities are currently of great interest,[1] due to their applications in complementary-like circuits[2] and in light-emitting transistors.[3]
+1-003	Effective methods developed thus far for fabricating ambipolar OTFTs include blending of unipolar p- and n-channel materials[3b,4] or using a single-component layer but with asymmetric electrodes of different work functions.[5]
+1-004	These methods, however, signifi- cantly increase the device complexity and therefore the manufacturing cost.
+1-005	Covalently linked donor−acceptor (D-A) copolymers provide an effective strategy to develop single- component ambipolar semiconductors,[6] because fine-tuning of energy levels through appropriate combination of D−A building blocks makes it possible for efficient charge injection of both holes and electrons from the same-type electrodes.
+1-006	Proper selection of acceptor units is a key step for ambipolar D−A polymers, including diketopyrrolopyrrole (DPP),[7] naphthalenediimide (NDI),[8] and benzothiadiazole (BZ).[9]
+1-007	Recently, improved mobilities of both holes and electrons (over 1 cm2 V−1 s −1) have been obtained for DPP-based copolymers.[10]
+1-008	However, most of them were achieved under nitrogen, and few are known to operate in ambient conditions.
+1-009	Development of air-stable ambipolar polymeric semiconductors is of crucial importance for practical applications, especially, for utilizing the superior rheological properties of polymer materials in the printing process.
+1-010	© 2013 American Chemical Society
+1-011	For achieving high performance air-stable ambipolar polymers, three key criteria need to be met: (i) low-lying lowest unoccupied molecular orbital (LUMO < −4.0 eV) for air-stable electron injection and conduction; (ii) appropriate highest occupied molecular orbital (HOMO) ensuring low- energy bandgap (<1.8 eV) for both hole and electron injection from the same-type electrodes; (iii) structural planarity of the polymer backbone for tight solid-state packing and therefore efficient charge delocalization.
+1-012	Optimizing these criteria requires concurrent up- and/or down-movement of both HOMO and LUMO energy levels of D−A polymers.
+1-013	This, however, is not an easy task with respect to molecular design, because a limited box of available acceptors makes it difficult to systematically modify the LUMO levels of single-type-acceptor copolymers.
+1-014	For example, due to its highly electron-deficient character of NDI acceptors, NDI-based D−A copolymers are air-stable but inherently favored for electron transport.[11,12]
+1-015	Although introduction of strong electron-donating groups, such as dialkoxybithiophene, can lead to ambipolar NDI-based D−A polymers, the hole-mobility (maximum 10−3 cm 2 V−1 s −1) is an order of magnitude lower than the electron-mobility.[2b,13]
+1-016	Herein, we developed a novel strategy to construct ambipolar copolymers, in which NDI moieties are covalently connected with BZ units through thiophene (T) linkers, namely, PNDI-
+1-017	Received: April 7, 2013
+1-018	Published: April 25, 2013
+1-019	Chemistry of Materials Article
+1-020	mT(BZ)mT (m = 1, 2).
+1-021	BZ groups are conventional acceptors widely used in D−A polymers for organic photovoltaics (OPVs)[14] and OTFTs.[3d,15] However, in PNDI-mT(BZ)mT polymers, the coplanarity of BZ core with flanking thiophenes makes mT(BZ)mT a whole as electron donors rather than acceptors.
+1-022	We found that decreasing the number of thiophene linkers from m = 2 to 1 lowers both LUMO and HOMO energy levels.
+1-023	Under ambient conditions, PNDI-2T(BZ)2T exhibits unipolar p-type transport with hole mobility up to 0.07 ± 0.02 cm2 V−1 s−1, whereas PNDI-T(BZ)T presents balanced ambipolar transport with electron and hole mobilities up to 0.05 ± 0.02 and 0.1 ± 0.03 cm2 V −1 s−1, respectively.
+1-024	Furthermore, OTFT devices based on both polymers are air-stable and exhibit negligible variations when stored in ambient over 3 months.
+1-025	Our results provide an example for rational design and synthesis of air-stable ambipolar polymeric semi- conductors.
+2-001	■
+2-002	General.
+2-003	Chemical reagents were purchased and used as received.
+2-004	All air and water sensitive reactions were performed under nitrogen atmosphere.
+2-005	Compounds N,N′-bis(2-octyldodecyl)-2,6-dibromo-1,4,5,8-naphthalene diimide 1,[16,2a] N,N′-bis-(2-octyldodecyl)-2,6-bis-(5-bromo-thiophenyl-5-yl)-1,4,5,8-naphthalene diimide 3a, and N,N′-bis(2-octyldodecyl)-2,6-bis(5-bromo[2,2′]bithiophenyl-5′-yl)-1,4,5,8-naphthalene diimide 3b[17] were synthesized according to the literature.
+2-006	Mass spectra were recorded on a Bruker Daltonics BIFLEX III MALDI-TOF analyzer using MALDI mode.
+2-007	Absorption spectra were recorded on a Shimidazu UV-3600 UV−vis-NIR spectrophotometer.
+2-008	Cyclic voltammetry was performed using a BASI Epsilon workstation, and measurements were carried out in acetonitrile containing 0.1 M n- Bu 4NPF6 as a supporting electrolyte.
+2-009	Carbon electrode was used as a working electrode and a platinum wire was used as a counter electrode; all potentials were recorded versus Ag/AgCl (saturated) as a reference electrode.
+2-010	The scan rate was 100 mV s−1.
+2-011	Elemental analyses were performed using a German Vario EL III elemental analyzer.
+2-012	Thermal gravity analyses (TGA) were carried out on a TA Instrument NETZSCH STA 409 PC/PG analyzer, and differential scanning calorimetry (DSC) analyses were performed on a METTLER TOLEDO Instrument DSC822 calorimeter.
+2-013	Gel permeation chroma- tography (GPC) was performed on Polymer Laboratories PL 220 at 150 °C using 1,2,4-tricholorobenzene (TCB) as eluent.
+2-014	Atomic force microscopy (AFM) studies were performed with a Nanoscope IIIa microscope (Extended Multimode, Digital Instruments, Santa Barbara, CA).
+2-015	All experiments were carried out in tapping mode at ambient condition.
+2-016	AFM samples were identical to those used in FET performance analysis.
+2-017	For grazing incidence X-ray scatting (GIXD), the drop-coated films were illuminated at a constant incidence angle of 0.2° (λ = 2d sin θ = 1.54 Å).
+2-018	Synthesis of N,N′-Bis(2-octyldodecyl)-2,6-bis([2,2′]-bithiohenyl-5-yl)-1,4,5,8-naphthalene Diimide 2b. 1 (493 mg, 0.5 mmol), 5-tributylstannyl-2,2′-bithiophene (1.14 g, 2.5 mmol), Pd(PPh3)2Cl2 (49 mg, 0.05 mmol), and 20 mL of anhydrous toluene were added to a flask under argon.
+2-019	The mixture was refluxed for 18 h and then cooled down to room temperature.
+2-020	After removing the solvent under vacuum, the product was purified by column flash chromatography using an ethyl acetate/petroleum ether solvent mixture (10:1).
+2-021	The purified product was collected and redissolved in chloroform and precipitated from methanol.
+2-022	The pure product was obtained as a blue solid (615 mg, 86% yield).
+2-023	1H NMR (CDCl3, 400 MHz) δ: 8.79 (s, 2H), 7.29 (m, 4H), 7.26 (m, 4H), 7.06 (m, 2H), 4.09 (d, J = 7.2 Hz, 4H), 1.96 (m, 2H), 1.22 (m, 64H), 0.86 (m, 12H) 13C NMR (CDCl3, 100 MHz) δ: 162.67, 161.99, 140.86, 139.57, 139.52, 136.95,136.65,129.98,128.09,127.67,125.57,124.55,124.14,122.85, 44.98,36.68,32.03,31.78,30.22,29.80,29.77,29.72,29.48,29.45, 26.56, 22.80, 14.24; MS-TOF[M]+ : 1154.8(m/z).
+2-024	N,N′-Bis(2-octyldodecyl)-2,6-bis(thiophenyl-5-yl)-1,4,5,8-naphthalene Diimide 2a.
+2-025	Red solid, yield 89%.
+2-026	1H NMR (CDCl 3,
+2-027	300 MHz) δ: 8.74 (s, 2H), 7.54 (dd, J = 5.1, 1.2 Hz, 2H), 7.28 (dd, J = 3.6, 0.9 Hz, 2H), 7.18 (m, 2H), 4.05 (d, J = 7.2 Hz, 4H), 1.93 (m, 2H), 1.23 (m, 64H), 0.86 (m, 12H), MS-TOF[M]+: 990.8 (m/z).
+2-028	Synthesis of N,N′-Bis(2-octyldodecyl)-2,6-bis(5-bromo- [2,2′]bithiophenyl-5′-yl)-1,4,5,8-naphthalene Diimide 3b.
+2-029	2b (460 mg, 0.5 mmol) was dissolved in 17 mL of chloroform and 5 mL of DMF.
+2-030	NBS (214 mg, 1.2 mmol) was dissolved in 5 mL of chloroform and 10 mL of DMF and added slowly to 2b.
+2-031	The reaction mixture was stirred in the dark for two days.
+2-032	The product was extracted with dichloromethane and washed with brine, and the organic layer was evaporated.
+2-033	The blue solid was purified by column chromatography using an ethyl acetate/petroleum ether (8:1) solvent mixture to give the final product as purple solid (496 mg, 85% yield).
+2-034	1HNMR (CDCl3, 300 MHz) δ: 8.77 (s, 2H), 7.26 (m, 2H), 7.18 (d, J = 3.9 Hz, 2H), 7.00 (m, 4H), 4.09 (d, J = 7.5 Hz, 4H), 1.96 (m, 2H), 1.22 (m, 64H), 0.86 (m, 12H), MS-TOF[M]+: 1311.8 (m/z).
+2-035	N,N′-Bis(2-octyldodecyl)-2,6-bis(5-bromo-thiophenyl-5-yl)-1,4,5,8-naphthalene Diimide 3a.
+2-036	Red solid, yield 67%.
+2-037	1H NMR (CDCl3, 300 MHz) δ: 8.77 (s, 2H), 7.44 (d, J = 3.9 Hz, 2H), 7.08 (d, J = 3.9 Hz, 2H), 4.07 (d, J = 7.2 Hz, 4H), 1.94 (m, 2H), 1.24 (m, 64H), 0.85 (m, 12H), MS-TOF[M]+: 1148.4 (m/z).
+2-038	Preperation of Poly{[N,N′-bis(2-octyldodecyl)-2,6-bis-([2,2′]-bithiophenyl-5-yl)-1,4,5,8-naphthalene diimide-5′,5‴-diyl]-alt-4,7-(2,1,3-benzothiadiazole)} (PNDI-2T(BZ)2T).
+2-039	3b (131 mg, 0.1 mmol), 4,7-bis(boronic acid pinacol ester)-2,1,3-benzothiadiazole (39 mg, 0.1 mmol), Pd(PPh3)4 (12 mg, 10 mol %), one drop of Aliquat 336, K 2CO3 (2 mL, 2 N), and 2 mL of toluene were added to a Schlenk tube.
+2-040	The tube was charged with nitrogen through a freeze− pump−thaw cycle for three times.
+2-041	The mixture was stirred for 48 h at 110 °C. After having been cooled to room temperature, bromobenzene (5 mg) was added, and the mixture was stirred at 90 °C for 4 h.
+2-042	Then 4,4,5,5-tetramethyl-2-phenyl-1,3,2-dioxaborolane was added to the mixture at room temperature and stirred at 90 °C for another 4 h.
+2-043	The mixture was cooled to room temperature and precipitated into methanol (200 mL).
+2-044	The precipitate was filtered through a nylon filter, purified via Soxhlet extraction for 12 h with methanol, acetone, hexane, and choloroform, and finally collected with chlorobenzene.
+2-045	The chlorobenzene solution was then concentrated by evaporation, precipitated into methanol (200 mL), and filtered off to afford a dark blue solid (61 mg, yield 47%).
+2-046	Poly{[N,N′-bis(2-octyldodecyl)-2,6-bis(thiophenyl-5-yl)-1,4,5,8-naphthalene diimide-2,2′-diyl]-alt-4,7-(2,1,3-benzo- thiadiazole)} (PNDI-T(BZ)T).
+2-047	Dark blue solid, 67.4 mg, yield 60%.
+2-048	Device Fabrication and Characterization.
+2-049	Top-contact/bottom- gate OTFT devices were fabricated using n++-Si/SiO2 substrates where n++-Si and SiO2 were used as the gate electrode and gate dielectric, respectively.
+2-050	The substrates were subjected to cleaning using ultrasonication in acetone, ethanol, and deionized water.
+2-051	After cleaning the SiO 2/Si wafer with piranha solution (7:3 mixture of H2SO4 and H2O2 by volume ratio) and UV-ozone plasma treatment, the SiO 2 surface was modified with n-octadecyltrimethoxysilane (OTS) self- assembled monolayer (SAM) as reported.[18]
+2-052	The thin films of the polymers were deposited on the treated substrates by spin-coating using a polymer solution (8−10 mg/mL) at 1500 rpm for 60 s, optionally followed by thermal annealing at 120 °C, 160 °C, 200 °C, and 240 °C under ambient condition.
+2-053	After organic thin-film deposition, about 60-nm thick gold thin films were deposited as source and drain contacts using a shadow mask.
+2-054	The OTFT devices had a channel length (L) of 200 (or 30) μm and a channel width (W) of 500 μm.
+2-055	The evaluations of the OTFTs were carried out in atmosphere using a Keithley 4200 parameter analyzer on a probe stage.
+2-056	The carrier mobility, μ, was calculated from the data in the saturated regime according to the equation ISD = (W/2L)Ciμ(VG − VT)[2], where ISD is the drain current in the saturated regime.
+2-057	W and L are, respectively, the semiconductor channel width and length, Ci (Ci = 10 nF) is the capacitance per unit area of the gate dielectric layer, and VG and VT are the gate voltage and threshold voltage.
+2-058	VG − VT of the device was determined from the relationship between the square root of ISD and VG at the saturated regime.
+3-001	■
+3-002	Synthesis and Thermal Stability.
+3-003	Synthetic routes to polymers, PNDI-mT(BZ)mT and m = 1, 2, are depicted in Scheme 1.
+3-004	The monomers were synthesized by Stille coupling of NDI-Br 1 with tributylstanny(bi)thiophenes and then bromide with NBS, while polymers were readily prepared via Suzuki coupling polymerization between monomer Br-mT- NDI-mT-Br (3a, 3b) and 4,7-bis(boronic acid pinacol ester)-2,1,3-benzothiadiazole.
+3-005	The obtained polymers were precipi- tated in methanol and then purified by Soxhlet extraction to remove oligomers and other impurities.
+3-006	Molecule weights of two polymers were evaluated by high temperature gel permeation chromatography (GPC) eluted with 1,2,4-trichlor- obenzene (TCB) at 150 °C. PNDI-T(BZ)T (31.0 kDa) showed a higher Mn than PNDI-2T(BZ)2T (11.5 kDa) as well as a slightly lower polydispersity index (PDI: 2.4 vs 2.2) (Figure S1).
+3-007	The lower molecule weight of PNDI-2T(BZ)2T is probably due to its poor solubility in the reaction solvent of toluene.
+3-008	The thermal gravimetric analysis (TGA) revealed that both polymers exhibited good thermal stability: PNDI-T(BZ)T with 5% weight loss at 454 °C and PNDI-2T(BZ)2T with 5% weight loss at 288 °C (Figure S2).
+3-009	A differential scanning calorimetry (DSC) thermograph of PNDI-T(BZ)T showed endothermic and exothermic peaks at 362 and 297 °C, respectively, while only endothermic transition was observed at 232 °C for PNDI-2T(BZ)2T (Figure S3).
+3-010	DFT-Calculated Molecular Geometries and Orbitals.
+3-011	To predict the minimum-energy conformation of the polymer backbone and the LUMO/HOMO, we performed DFT calculations (B3LYP/6-31G(d)) for trimers of NDI-mT(BZ)mT and m = 1, 2 (Figure 1).
+3-012	In order to reduce the calculation time, long alkyl chains were replaced by methyl groups in the calculations.
+3-013	The dihedral angles between the BZ core and the neighboring thiophene units are calculated to be 4° and 2° in NDI-T(BZ)T and NDI-2T(BZ)2T trimers, respectively, much smaller than that typically in oligothiophenes (12°).[19]
+3-014	The distance between the nitrogen atom of BZ core and the β-hydrogen atom of neighboring thiophene, i.e., short contacts of N···H (indicated by red-dashed lines), is calculated to be ca. 2.32 Å, much shorter than the sum of the van der Waals radii (2.59 Å).[20]
+3-015	It is these short contact heteroatom interactions
+3-016	that improve the coplanarity of mT(BZ)mT.
+3-017	Because of the existence of dihedral angle 12° between two thiophene rings in PNDI-2T(BZ)2T, the planarity of PNDI-T(BZ)T backbone should be even better than that of PNDI-2T(BZ)2T (Figure S4).
+3-018	Most importantly, in both polymers, the HOMOs are mainly located in the mT(BZ)mT moieties, while the LUMOs concentrate on NDI parts.
+3-019	Moreover, the better planarity of PNDI-T(BZ)T enhances the delocalization of both LUMO and HOMO along the backbone.
+3-020	In any event, well-planar mT(BZ)mT moieties taken as a whole serve as donors in our PNDI-mT(BZ)mT polymers, though the electron deficient BZ core is usually the acceptor part in D−A polymers.
+3-021	Optical and Electrochemical Properties.
+3-022	The UV−vis-NIR absorption spera of both polymers were measured in chlorobenzene solutions (ca. 10−6 M) and in thin films (Figure 2a).
+3-023	Absorption spectrum of PNDI-T(BZ)T thin film show dual absorption bands.
+3-024	In comparison to those in the solution, the 0−0 vibronic peak at 716 nm increases and the 0−1 peak at 660 nm decreases in the film.
+3-025	This suggests that the PNDI-T(BZ)T polymer backbone is rigid and becomes more planar in the solid-state.
+3-026	The absorption spectra of PNDI-2T(BZ)2T
+3-027	N(Bu) 4PF6 solution in anhydrous tetrahydrofurane.
+3-028	present a single broad and structureless band, with a maximum at 685 nm in the solution and at 710 nm in the film.
+3-029	Furthermore, the optical energy bandgap estimated from the absorption onsets in thin films were 1.49 and 1.33 eV for PNDI-mT(BZ)mT and m = 1, 2, respectively (Table 1).
+3-030	a Eopt b CV c CV c ECV d λmax/onset g EHOMO ELUMO g
+3-031	polymers (nm) (eV) (eV) (eV) (eV)
+3-032	PNDI-T(BZ)0Te 697/- 1.45 / −3.96 /
+3-033	aMaximum absorption and absorption onset in thin films. bOptical band gap calculated from the onset of film absorption. cElectrochemi- cally determined vs Fc/Fc+, EHOMO = −(Eoxonset + 4.8), ELUMO = −(Eredonset + 4.8). dEnergy band gap calculated from the difference between EHOMO and ELUMO. eReported in ref 12a.
+3-034	Cyclic voltammetry (CV) was further employed to investigate the electrochemical properties and determine the HOMO/LUMO energy levels of two polymers.
+3-035	The measure- ments were performed using polymer films drop-casted on a Pt disk electrode and placed in a 0.1 M solution of N(Bu)4PF6 in anhydrous tetrahydrofurane.
+3-036	As shown in Figure 2b, the oxidation peaks are stronger than the reduction peaks for both two polymers.
+3-037	Moreover, both the oxidation peak and reduction peak of PNDI-mT(BZ)mT and m = 1, 2 polymers are reversible.
+3-038	This is in sharp contrast to previously reported NDI-based polymers, such as PNDI-T(BZ)0T, which exhibits irreversible oxidation peaks and only n-doping behavior in OTFTs.
+3-039	The reversible oxidation peaks of PNDI-mT(BZ)mT suggest the possibility of p-doping processes in both polymers.
+3-040	Both HOMO and LUMO levels of PNDI-T(BZ)T are simultaneously decreased as compared with those of PNDI-2T(BZ)2T. The LUMO/HOMO levels of the former are−4.17/−5.73 eV, 0.12/0.23 eV lower than those of the latter (Table 1).
+3-041	Moreover, the energy bandgaps determined by CV results are 1.56 and 1.45 eV for m = 1, 2 polymers, slightly larger than those optical bandgaps (Table 1).
+3-042	Note that the LUMO levels of PNDI-mT(BZ)mT are even lower than most of air-stable n- type polymers, such as PNDI-T(BZ)0T (Table 1).
+3-043	Hence, air-stable ambipolar charge transport is expected for our polymers.
+3-044	OTFTs Characterization.
+3-045	To test the charge transport capability of both polymers, typical bottom-gate/top-contact OTFTs were fabricated.
+3-046	The semiconducting layer was deposited by spin-coating the polymer solutions (8 mg/mL in CB/DCB) onto octadecyltrichlorosilane (OTS) treated SiO2 (300 nm)/n++-Si substrate.
+3-047	After thermal annealing at optimized temperature of 200 °C, 60-nm-thick gold electrodes were deposited on the polymer films through a shadow mask.
+3-048	Figure 3 shows the typical output and transfer curves of OTFTs tested in ambient air conditions without any special precautions.
+3-049	Remarkable, OTFT devices based on PNDI-2T(BZ)2T exhibited unipolar p-type transport characteristics, whereas PNDI-T(BZ)T devices showed balanced ambipolar transport characteristics.
+3-050	For PNDI-2T(BZ)2T the average hole mobility was 0.07 ± 0.02 cm2 V−1 s−1, while PNDI-T(BZ)T exhibited the average electron and hole mobilities of 0.05 ± 0.02(μe) and 0.1 ± 0.03(μh ) cm2 V−1 s−1, respectively (Table
+3-051	2).
+3-052	Note that PNDI-T(BZ)T can be considered as the introduction of BZ group to the reported copolymer PNDI- T(BZ)0T.[12a]
+3-053	However, the major carries in OTFTs were switched from n-channel (electron transport) for PNDI-T(BZ)0T to balanced ambipolar (both hole and electron transport) for PNDI-T(BZ)T without sacrificing the electron mobility.
+3-054	It suggests that the introduction of the BZ group the polymer backbone does play an important role for the ambipolar behavior.
+3-055	While increasing the thiophene units from 1 to 2 in the polymer backbone of PNDI-mT(BZ)mT, p-channel only was observed.
+3-056	Moreover, it is worthy of notice that similar charge mobilities are measured for OTFTs of both polymers after storage in ambient for 3 months (Figure S5), indicating negligible deterioration due to the ambient trapping species (O2/H2O).
+3-057	Thin Film Microstructures and Morphologies.
+3-058	Since film morphology and crystallinity are key parameters for device performance, the thin film microstructures and morphologies of both polymers were investigated by tapping-mode atomic force microscopy (AFM) and grazing incident X-ray scattering (GIXD).
+3-059	In the AFM height images, intertwined polymer nanofibers were observed for both PNDI-T(BZ)T (Figure 4a) and PNDI-2T(BZ)2T (Figure 4b).
+3-060	Such polymer fibers form interconnected networks as highly efficient pathways for charge carrier transport throughout the polymer film.
+3-061	Compared to PNDI-2T(BZ)2T film (Figure 4b, RMS = 1.05 nm), the PNDI-T(BZ)T film has stronger crystalline tendency with larger room mean square deviation (Figure 4a, RMS = 1.24
+3-062	μha(cm[2] V−1 (Ion/ μea(cm 2 V−1 (Ion/polymers s−1) Iof f)b s−1) Ioff)c
+3-063	PNDI-T(BZ)T 0.1 ± 0.03 10 3−104 0.05 ± 0.02 104−105 PNDI-2T(BZ)2T 0.07 ± 0.02 10 4−105 / /
+3-064	PNDI-T(BZ)0Td / / 0.06 /
+3-065	aAverage values measured over 10 devices in ambient conditions (RH = 50−60%). bEvaluated at VDS = −80 V. cEvaluated at VDS = +80 V.dReported in ref 12a.
+3-066	nm).
+3-067	As illustrated in Figure 4c, for both thin film samples two diffraction peaks were observed in the out-of-plane X-ray scattering patterns and ascribed to (100) and (200) diffractions of lamellar structures.
+3-068	The (100) peaks appear at 2θ = 3.8 and 4.2° for PNDI-mT(BZ)mT and m = 1, 2 polymers, corresponding to an interlayer distance of 23.1 and 21.2 Å, respectively.
+3-069	These interlayer distances are much shorter than that of fully extended alkyl chains (36 Å ), indicating that side chains of polymers in adjacent layers are closely interdigitated in lamellar film structures.[21]
+3-070	Figure 4d depicts the in-plane X-ray scattering patterns.
+3-071	An obvious peak was observed at 2θ = 23.4° for PNDI-T(BZ)T, while only a broad peak for 2θ between 18 to 25° was found for PNDI-2T(BZ)2T. This suggests that interchain π−π stacking (3.82 Å) of PNDI-T(BZ)T backbones is more ordered that that of PNDI-2T(BZ)2T within layered structures.
+3-072	Moreover, no peaks were detected in the range of 2θ = 3−10° for both polymer thin films in the in-plane patterns.
+3-073	Therefore, both PNDI-mT(BZ)mT and m = 1, 2 polymers adopt solely the edge-on packing in thin films, in which π−π stacking of polymer backbones is oriented parallel to the dielectric layer of OTFTs and favored for the charge carrier transport.[22]
+3-074	These findings reveal that the introduction of BZ unit into NDI-based D−A polymers not only provides an effective way to tune LUMO/HOMO energy levels but also enhances the intermolecular packing in the solid-state.
+3-075	In the case of PNDI-T(BZ)T, the better planarity of the polymer backbone improves the delocalization of LUMO/HOMO along the polymer chain, moreover, leading to close interchain π−π stacking in the thin film.
+3-076	Besides appropriate HOMO/LUMO levels, we speculate that these parameters also play key roles in achieving air-stable ambipolar OTFTs with high and balanced electron/hole mobilities.
+3-077	Chemistry of Materials Article
+4-001	■
+4-002	We have reported the design, synthesis, and characterization of two polymers PNDI-mT(BZ)mT (m = 1, 2).
+4-003	Unipolar p-type transport (μh = 0.07 ± 0.02 cm2 V−1 s −1) was observed for OTFTs based on PNDI-2T(BZ)2T. By simply reducing the thiophene number from 2 to 1 in the repeat unit, balanced ambipolarity was achieved in PNDI-T(BZ)T with electron and hole mobilities up to 0.05 ± 0.02 and 0.1 ± 0.03 cm2 V −1 s −1, respectively.
+4-004	Our results demonstrated an efficient approach to enhance the hole mobilities of NDI-based polymers without sacrificing the electron mobilities.
+4-005	The good air-stability was evidenced by the trifling variations in charge mobilities of OTFTs of both polymers when stored in ambient over 3 months.

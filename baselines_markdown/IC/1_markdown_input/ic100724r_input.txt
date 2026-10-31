@@ -1,0 +1,301 @@
+# document_id: ic100724r
+# extractor: kordoc-markdown-adapter-1
+1-001	In the past two decades, significant progress has made in the development of supramolecular self-assembly.[1,2]
+1-002	A large number of macrocyclic or cage-like structures have been ob- tained by rationally designed metal directional self-assembly approach,[1-3] which has attracted a great deal of attention in recent years not only because of their structure diversity such
+1-003	3,4,6-8 3,5-10
+1-004	as molecular triangles, squares and rectangles,
+1-005	11 12
+1-006	polytubes, and so on, but also due to the rich physical
+1-007	*To whom correspondence should be addressed.
+1-008	E-mail: yusy@ruc.edu.cn (S.-Y.Y.), Qinyu75@nju.edu.cn (Y.Q.).
+1-009	properties of the metal-assembled systems in magnetism, lumi- nescence,[2] electron transfer,[9,10,16] and the exciting applications
+1-010	Coord.
+1-011	Chem.
+1-012	Rev. 1999, 185-186, 653–667.
+1-013	(j) Fujita, M. Acc.
+1-014	Chem.
+1-015	Res. 1999, 32, 53–61.
+1-016	(k) Fujita, M. Chem.
+1-017	Soc.
+1-018	Rev. 1998, 27, 417–425.
+1-019	(l) Slone, R. V.; Benkstein, K. D.; Belanger, S.; Hupp, J. T.; Guzei, I. A.; Rheingold, A. L. Coord.
+1-020	Chem.
+1-021	Rev. 1998, 171, 221–243.
+1-022	(m) Stang, P. J. Chem. -Eur.
+1-023	J. 1998,4, 19–27.
+1-024	(n) Stang, P. J.; Olenyuk, B. Acc.
+1-025	Chem.
+1-026	Res. 1997, 30, 502–518.
+1-027	(o) Fujita, M.; Ogura, K. Coord.
+1-028	Chem.
+1-029	Rev. 1996, 148, 249–264.
+1-030	r 2010 American Chemical Society
+1-031	Published on Web 08/06/2010 pubs.acs.org/IC
+1-032	in selective guest inclusion, drug delivery, molecular recognition,
+1-033	1,3,6,12,13,17
+1-034	catalysis, and biological mimicry.
+1-035	However, most of the self-assembled metallosupramolecular systems have been using single metal ions as the corner for co- ordinating with a variety of monodentate or chelating ligands.
+1-036	The isolated, structurally characterized metal-metal bonded or dimetal-interacted based finite molecular architectures play an
+1-037	Article
+1-038	Inorganic Chemistry, Vol. 49, No. 17, 2010 7785
+1-039	important role in both inorganic and organometallic chemistry, which have been rarely reported.[18]
+1-040	In the past years, we have been interested in developing the emerging supramolecular self-assembly via metal-metal bonding or bonding interaction.[19]
+1-041	In our previous work, we have developed the solution self-assembly method and structural characterization of a series of metallomacrocyclic complexes with dipalladium (II, II) and diplatinum (II, II) centers and multipyrazolate anion linkers via spontaneous deprotonation in aqueous solution.[20-22]
+1-042	Herein, we designed the flexible dipyrazolyl ligands with luminescent spacers.
+1-043	With anthracene-based dipyra- zolate dianion as the linker and [(bpy) 2Pd2(NO3)2\](NO3)2 or [(phen)2Pd2(NO3) 2\](NO 3)2 dimetallic clips as the cor- ner, we synthesized and characterized a series of metallo- macrocyclic complexes with interior cavities via self-assembly in aqueous solution (as shown in Scheme 1).
+1-044	Host-guest properties for luminescent metal macrocyclic
+1-045	host and aromatic guests (depicted in Chart 1) were studied though UV-vis and fluorescent titrations.
+2-001	Self-Assembly and Characterization of the [M4L2]4þ-Type Metallomacrocycles.
+2-002	[(bpy)2Pd2(NO3)2\](NO3)2 or [(phen)2-Pd2(NO3)2\](NO3)2 was treated with a solution containing 0.5 equivalent of H2Ln (n labeled by 1, 2, 3, 4, 5, 6) (as shown in Scheme 2) in water at room temperature over 2 h, followed by adding acetone into the solution.
+2-003	The resulting mixture was heated at 60 °C for 12 h to produce [M4L2]- (NO3)4 in quantitative yield with spontaneous deprotona- tion of dipyrazole ligands.
+2-004	The 1H and13C NMR analyses of the product indicated the formation of a single highly sym- metrical species, and integration of the signals is indicative of 2:1 ratio of metal complex ((bpy)Pd2þ or (phen)Pd2þ) fragment to the dipyrazolate dianion.
+2-005	The formation of the [M4L2]4þ-type metallomacrocyclic structure is further supported by electrospray ionization mass spectrometry (ESI-MS).
+2-006	For the hexafluorophosphate com- plex, the ESI-MS experiment was performed in acetonitrile solution.
+2-007	As shown in Figure 1a, the signals at m/z = 1310.2, 825.5, and 583.1, which are assignable to [1 32PF6- ]2þ, [1 3PF6- ]3þ, and [1]4þ, respectively.
+2-008	In Figure 1b, 1062.1, 660.1, and 458.8 are assignable to [3 3 2PF6- ]2þ, [3 3 PF6- ]3þ, and [3]4þ, respectively.
+2-009	Self-Assembly and Characterization of [M8L4]8þ-Type Metallomacrocycle.
+2-010	Unlike other flexible dipyrazolate ligands, the treatment of H2L[1] with [(phen)2Pd2(NO3) 2]- (NO 3)2 in a 1:2 ratio in water and acetone quantitatively gave the metallomacrocycles complex {[(phen)Pd]8L[1]4}- (NO 3)8 instead of [M4L2]4þ, which resulted in a huge metallomacrocyle with a big cavity, as shown in Scheme 3.
+2-011	The assignment of [M8L4]8þ-type metallomacrocycle 9 38PF6h is proved by ESI-MS studies, as shown in Figure 2.
+2-012	The multiple-charged molecular ions of 9 38PF6h at m/z 5=þ 1058.1, 857.8, 714.4, and 607.1 are ascribed to [6þ 7þ 8þ 9 33PF6h] , [9 32PF6h] , [9 3 1PF6h] , and [9] , respectively.
+2-013	Ring numbers of cyclic assemblies are often controlled by changing reaction conditions (concentration, tempera- ture, etc.) or by adding a template molecule that selectively binds to and stabilizes one particular assembly.
+2-014	In this
+2-015	work, to control the size of the metallomacrocyle, we used the dimetallic clips with a rigid phen ring, which could produce more hindrance than the bpy ligand.
+2-016	Crystal Structure of Assembly [M4L2]4þ-Type Metallo- macrocycles.
+2-017	The ORTEP diagram of 1 3 4PF6h is shown in Figure 3.
+2-018	Complex 1 34PF6h crystallizes in the ortho- rhombic space group Fddd.
+2-019	The crystal structure analysis for 1 34PF6h reveals the Pd 4 bowl-shaped macrocyclic structure with two (μ-pyrazolato-N,N0)2 doubly bridged [(bpy)Pd]2 dimetal corners.
+2-020	The two anthracene rings form a dihedral angle of 90 o, and each one forms a dihedral angle of about 60.9 and 71.8° with pz planes in the dipyrazole bridged ligand.
+2-021	The Pd1 333 Pd2 separation of 3.157 A sug- gests the presence of weak metal-metal interaction.
+2-022	The dihedral angles between the two pz (N3A-N4A and N1A- N2A; N4--N3 and N1-N2) planes at each corner are 89.25 and 70.50°, which are smaller than the dihedral angles between the Pd1A-N3A-N4A-Pd2A and Pd1-N3-N4-Pd2 planes (116.38 and 115.05°).
+2-023	The cavity of the Pd4 bowl-shaped macrocycle is small, because it is twisted by the two vertical anthracene planes.
+2-024	The distances of Pd1-Pd1A and Pd2-Pd2A are 11.95 and 13.32 A, respectively.
+2-025	The ORTEP diagram of 3 3 4PF6h3 8CH 3CN 3H2O is shown in Figure 4.
+2-026	Complex 3 3 4PF6h crystallizes in the monoclinic space group C2/c with one cocrystallized water molecule.
+2-027	The crystal structure analysis for 3 3 4PF6h reveals the Pd4 bowl-shaped macrocyclic structure with two (μ-pyrazolato-N,N0)2 doubly bridged [(bpy)Pd]2 dimetal corners.
+2-028	The two anthracene rings each form a dihedral angle of about 80° with pz planes in the dipyrazole bridged ligand, showing a syn-syn orientation according to the planes of (bpy)Pd1A and (bpy)Pd1B. The Pd1A 333 Pd2A separation of 3.232 A suggests the presence of weak metal-metal interactions.
+2-029	The remarkable structure fea- ture is that the (bpy)Pd1A and (bpy)Pd2A planes (with a dihedral angle of 82.4°) form a cleft with a cavity size of approximately 7.09 A (center-to-center distance).
+2-030	As shown
+2-031	a (a) Ball-and-stick model and (b) Space-and-stack model.
+2-032	(yellow: Pd; gray: C; white: H; and blue: N).
+2-033	in Figure 4b, one CH3CN binds between the two bpy rings by C-H 333 π interactions between the H54A atom and X (1D) (the centroid of one bpy ring), which is separated by 2.565 A (C54A-H54A 333 π) with the C-H 333 X angle 158.11°.
+2-034	Furthermore, two acetonitrile molecules are en- capsulated through C-H 333 π interactions[22] within the aromatic ring built cavity, and the distances from C-H of the CH3CN to the three centroids (X (1A), X (1B), X (1C) in Figure 4a of the three adjacent aromatic planes are 3.067, 3.052, and 2.672 A with the C-H 333 X angles 140.90, 153.35, and 132.54°, respectively.
+2-035	Similarly short intermo- lecular C-H 333 π distances were previously found between CH3 and an aromatic ring (2.75, 2.89 A).23a,cThe inclusion
+2-036	small.
+2-037	The distance between the two central anthracene rings is 8.1 A, and the distances of Pd1A-Pd1B and Pd2A-Pd2B are 8.59 and 12.85 A, respectively.
+2-038	The ORTEP diagram of 7 3 4PF6h3 6H2O is shown in Figure 5.
+2-039	Complex 7 34PF6h crystallizes in the monoclinic space group P21/c.
+2-040	The crystal structure analysis for 7 3 4PF6h reveals the Pd4 bowl-shaped macrocyclic struc- ture with two (μ-pyrazolato-N,N0)2 doubly bridged [(bpy)Pd]2 dimetal corners.
+2-041	The two benzene rings form a dihedral angle of 56.18° and form dihedral angles of about 85.09, 85.43° and 83.95, 87.24° with pz planes in the bipyrazole bridged ligand, showing a syn-syn orienta- tion according to the planes of (bpy)Pd1 and (bpy)Pd3.
+2-042	The Pd1 333 Pd2 separation of 3.232 A suggests the pre- sence of weak metal-metal interactions.
+2-043	The dihedral angles between the two pz (N7-N8 and N5-N6; N13-N14 and N15-N16) planes at each corner are 58.34 and 87.31° , which are smaller than the dihedral angles bet- ween the Pd1-N7-N8-Pd2 and Pd3-N13-N14-Pd4 planes (117.77 and 118.76°).
+2-044	The cavity of the Pd4 bowl-shaped macrocycle is small because the four pyrazole methyl groups fill in the cavity.
+2-045	The distances of Pd1-Pd4 and Pd2-Pd3 are 12.685 and 7.823 A, respectively.
+2-046	UV-vis Titrations and Fluorescent Spectra.
+2-047	The H2L[1] has been synthesized in high yields (Scheme 1).
+2-048	In dimethyl sulfoxide (DMSO), it exhibited characteristic anthracene emission and fluorescence maxima at 421, 440, and 465 nm and UV-vis spectrum peaks at 405, 382, 364, and 346 nm, respectively (Supporting Information, Figure 1S).
+2-049	When the [(bpy)2Pd2(NO3)2\](NO3) 2 was added into H2L[1], the
+2-050	a Cannot be determined because the change of absorbance does not linearly relate to [G].
+2-051	emission intensity of H2L[1] in fluorescent spectra was quenched sharply, and the absorbance of H2L[1] in UV-vis spectra was decreased notably (Supporting Information, Figure 1S), due to the coordination between the N atom of pyrazole and the Pd atom and the distortion effects on the emission quantum yield (Φem ) of the anthracenyl rings.
+2-052	Upon addition of aromatic guests to the solution of the receptors in DMSO, the absorbance of the receptors in the UV-vis spectrum was shifted significantly.
+2-053	Figure 7a presented the UV-vis spectra of 1 in DMSO in the pre- sence of an incremental amount of Dmb.
+2-054	(Dhb, An, and Ben-CO 2-Naþ are shown in Supporting Information, Figures 6S-8S, respectively.) Job’s plot analysis based on the UV-vis experiments, as shown in Supporting Informa- tion, Figures 2S-5S, supported a 1:1 stoichiometry for com- plexes 1:Dmb, 1:Dhb, 1:An, and 1: Ben-CO2-Naþ, which exhibited the largest change of absorbance at the 1:1 ratio of the receptor and the aromatic guests when the total concen- tration of the two samples was kept constant.[25,26]
+2-055	The association constants (K-a) of complexesþ 1 3Dmb, 1 3 Dhb, 1 3 An, and 1 3Ben-CO2 Na in DMSO were then evaluated by the UV-vis titration method.
+2-056	On the basis of the change values of absorbance with (aromatic guests), we estimated the Ka of the four complexes to be 1.42 106, 1.11 105, 2.7 105, and 3.48 105 M-1, respectively (Table 1).
+2-057	Fluorescence studies (Figure 7b) revealed that the emission intensity of the anthracene ring units of the receptors could be significantly increased by the aromatic guest (Dhb, An, and Ben-CO2-Naþare shown in Support- ing Information, Figures 9S-11S, respectively).
+2-058	These results are consistent with the above UV-vis investigation, reflecting the remarkably complexing affinity between the two anthracene rings of 1 and the aromatic guest due to the π-π stacking interactions (Figure 6).
+2-059	Such similar spectroscopic changes were not observed when an incremental amount of Hfb and Py were added to the solution of 1 in DMSO as well as An, Hfb, and Ben-CO 2-Naþ were added to the solution of 3 in DMSO, which may be rationalized by considering steric hindrance and electrostatic repulsion.
+2-060	The cavity of host 1 is too small to include the Py, and Hfb is an electron- defect compound which is unfavorable for binding with the positively charged metallomacrocycle 1.
+2-061	There are
+2-062	Article Inorganic Chemistry, Vol. 49, No. 17, 2010 7789
+2-063	1 -5 -5
+2-064	R [F[2] > 2σ(F[2])], wR[F[2]]b 0.0488,0.0934 0.0495,0.1338 0.0514,0.1379
+2-065	ΔFmax, ΔFmin [e A-3] -0.32,0.64 -0.58,0.35 -0.65,0.33
+2-066	a GOF = [w(Fo[2] - Fc[2])[2]]/(n - p)1/2, where n and p denote the number of data points and parameters, respectively. b R1 = (\|\|Fo\| - \|Fc\|\|)/\|Fo\|; wR2 = [w(Fo[2] - Fc[2])[2]]/[w(Fo[2])[2]]1/2, where w = 1/[σ[2](Fo[2]) þ (aP)[2] þ bP] and P = [max(0,Fo[2]) þ 2Fc[2]]/3.
+2-067	four methyl groups filling the small cavity of 3, which keeps the aromatic guests outside the cavity.
+3-001	Fluorescent dipyrazolate-bridged metallomacrocycles with dipalladium(II, II) centers can be obtained in nearly
+3-002	quantitative yield from [(bpy)2Pd2(NO3)2\](NO3)2 or [(phen)2-Pd2(NO3) 2\](NO3)2 and 1H-bipyrazolyl ligands in a 2:1 molar ratio via a directed self-assembly process that occurs along with spontaneous deprotonation of the ligands.
+3-003	Ring size and shape of cyclic assemblies {[M4L2\](NO3)4 and [M8L4\](NO3)8} have been controlled by fine-tuning different dimetallic clips
+3-004	and flexible dipyrazole ligands.
+3-005	The assemblies have been char- acterized by elemental analysis, 1H and 13C NMR, electrospray ionization mass spectrometry (ESI-MS), and single crystal X-ray diffraction methods for 1, 3, and 7.
+3-006	In addition, the 1:1 host-guest complexation for the anthracene-based dipyrazo- late-bridged macrocycle (1 and 3) with aromatic guests was investigated via UV-vis and fluorescence spectra.
+4-001	Materials.
+4-002	All chemicals and solvents were of reagent grade and were purified according to conventional methods.[27]
+4-003	The dimetal clips [(bpy)2Pd 2(NO3)2\](NO3)2 and [(phen)2Pd 2(NO3 )2]-(NO 3)2 were prepared according to literature procedures.[28,29]
+4-004	X-ray Structural Determinations.
+4-005	X-ray diffraction measure- ments were carried out at 291 K on a Bruker Smart Apex CCD area detector equipped with a graphite monochromated Mo KR radiation (λ = 0.71073 A).
+4-006	The absorption correction for all complexes was performed using SADABS.
+4-007	All the structures were solved by direct methods and refined employing full-matrix least-squares on F2 by using the SHELXTL (Bruker, 2000) program and were expanded using Fourier techniques.
+4-008	All nonhydrogen atoms of the complexes were refined with aniso- tropic thermal parameters.
+4-009	The hydrogen atoms were included in idealized positions.
+4-010	Final residuals along with unit cell, space group, data collection, and refinement parameters are presented in Table 2.
+4-011	Typical Procedures for the UV-vis Titration and Evaluation Constants Ka.
+4-012	Aliquots of a fixed solution of the aromatic guests in DMSO were added to a DMSO solution of the receptors (1 and 3), and the mixture was heated at 60 °C then cooled to 25 °C and subjected to the UV-vis spectroscopy.
+4-013	The spectrum was corrected with a dilution factor and background subtrac- tion.
+4-014	The difference in absorbance (ΔAbs) of the receptors in the presence of the guest and the absence of the guest was recorded, and the data were plotted against [G].
+4-015	The association constant Ka for the 1:1 complexes was derived by using the nonlinear curve fitting based on the equation:[25,26]
+4-016	ΔA ¼ ΔA¥ðð1 þ Ka½G þ Ka½H0Þ - ðð1þKa½GþKa½H0Þ[2]
+4-017	- 4Ka[2]½H0½GÞ0:5ÞÞ=ð2Ka½H0Þ
+4-018	where ΔA = A - ΔA0, ΔA¥ = A¥ - A0, [G] is concentration of aromatic guests, [H]0 is [1 3 4NO3h].
+4-019	CAChe Program 6.1.1.
+4-020	A visual molecular model was com- puted using the CAChe program 6.1.130 to evaluate shape of macrocycle 9 (Scheme 3) and the host-guest complex Dmb 3 1 (Figure 6).
+4-021	General Procedure for Bis(methylene)dipentane-2,4-dione Preparation[20].
+4-022	Acetylacetone (1.81 g, 18.1 mmol) was added during a 30 min period to a stirred, refluxing solution prepared from potassium (706 mg, 18.1 mmol) and 60 mL of t-butyl alcohol.
+4-023	After 50 min, the solution of bis(bromomethyl) com- pound (8.23 mmol) in 30 mL of THF was added during a 30 min period, and 1 h after the addition, KI (10% quality of bis-(bromomethyl) compounds) was added.
+4-024	The resultant solution was stirred and heated at reflux temperature until acidic to moist litmus (ca. 16 h).
+4-025	After three-fourths of the solvent was distilled, the residue was washed with water and extracted with CH2Cl2.
+4-026	The organic phase was dried over anhydrous MgSO 4, and the
+4-027	solvent and excess acetylacetone was distilled.
+4-028	Further puri- fication was achieved by recrystallization or column chromato- graphy, as noted below.
+4-029	General Procedure for Bis(1,3-diphenylpropane-1,3-dione) Preparation.
+4-030	Bis(bromomethyl) (2 mmol), sodium 1,3-diphenyl- prop-1-en-1-olate (DBMNa) (4.4 mmol), and KI (10% of quality of bis(bromomethyl)) were mixed in a 250 mL round flask.
+4-031	Then 150 mL dry acetone was added under N2 protection, the resulting solution was stirred and refluxed for 16 h.
+4-032	After cooling to room temperature, most of solvent was distilled.
+4-033	Then the residue was washed with water and extracted with CH2Cl2, the organic phase was dried over anhydrous MgSO4 and filtered, and the solvent was distilled.
+4-034	Further purification was achieved by recrystallization or column chromatography, as noted below.
+4-035	General Pyrazole Preparation.
+4-036	Hydrazine hydrate (1 mL, 80%) was added during a 10 min period to a stirred and refluxed solution of dione (1 mmol) in 30 mL of ethanol.
+4-037	After 12 h, most of the solvent was distilled and filtered, and the resulting solid was washed twice with water and vacuum dried.
+4-038	2,20-(Anthracene-9,10-diylbis(methylene))bis(1,3-diphenylpro- pane-1,3-dione) (a).
+4-039	The above general bis(1,3-diphenylpropane-1,3-dione) preparation procedure was followed with 9,10-bis-(chloromethyl)anthracene (550 mg, 2 mmol) to give a as a light-yellow powder.
+4-040	The rough product was washed twice with hot 50 mL ethanol and vacuum dried.
+4-041	(1.17 g, 90%). 1 H NMR (400 MHz, CDCl3, 25 °C, ppm): δ = 8.08-8.06 (m, 4H), 7.47-7.45 (m, 8H), 7.36-7.34 (m, 4H), 7.31-7.28 (m, 4H), 7.09-7.05 (m, 8H), 5.61-5.57 (t, J = 2.84 Hz, 2H), 4.41-4.40 (s, J = 2.84 Hz, 4H).
+4-042	13C NMR (100 MHz, CDCl3, 25 °C, ppm): δ = 196.2, 135.8,133.2,130.6,129.6,128.3,128.2,125.5,124.8,57.5,27.3.
+4-043	MS (EI) m/z: Anal. calcd for [C46H34O4 þ Na]þ, 673.2349; found: 673.2344.
+4-044	9,10-bis((3,5-Diphenyl-1H-pyrazol-4-yl)methyl)anthracene (H 2 L1).
+4-045	The above general pyrazole preparation procedure was followed with a (715 mg, 1.1 mmol) and a yellow solid H 2 L1 was obtained.
+4-046	(672 mg, 95%).1H NMR (400 MHz, DMSO-d6 , 25 °C, ppm): δ = 12.7 (s, 2H), 7.85-7.83 (m, 4H), 7.38 (2, 4H), 7.18-7.10 (m, 10H), 6.91-6.65 (m, 10H), 4.80(s, 4H).
+4-047	13C NMR (100 MHz, DMSO-d6 , 25 °C, ppm): δ = 130.9, 129.4, 128.1, 127.3, 127.0, 125.0, 124.0, 114.7, 23.3.
+4-048	Mass spectrometry (MS) Mtrix-assisted laser-desorp- tion ionization (MALDI-TOF) coupled cluster approxima- tion (CCA) (þ) m/z: Anal. calcd for [C 46H 34N 4 þ H]þ, 643.2856; found: 643.2859.
+4-049	3,30-(Anthracene-9,10-diylbis(methylene))dipentane-2,4-dione) (b). 9,10-Bis(chloromethyl)anthracene (2.75 g, 10 mmol) scat- tered in DMF was slowly added to sodium 2,4-pentanedionat (3.66 g, 30 mmol) in 120 mL dry DMF, then the reaction was stirred and heated at 80 °C overnight.
+4-050	The resulting solution was cooled and poured into 500 mL of ice water.
+4-051	The solution was extracted twice with CH2Cl2 (500 mL), washed with saturated NaCl, organic phase dried over anhydrous Na2SO4, filtered, and the solvent was distilled.
+4-052	Chromatography on silica gel elution with CH2Cl2 afforded the intermediate as a light-yellow powder b (829 mg, 20.4%). 1 H NMR (400 MHz, CDCl3, 25 °C, ppm): δ = 8.20-8.18 (m, 4H), 7.56-7.54 (m, 4H), 4.23-4.17 (m, 6H), 1.95 (s, 12H).
+4-053	13C NMR (100 MHz, CDCl3, 25 °C, ppm): δ = 203.8, 130.4, 129.4, 125.9, 124.8, 68.25, 30.5, 26.28.
+4-054	MS (EI) m/z: Anal. calcd for [C26H26O4 þ Na]þ, 425.1723; found: 425.1706.
+4-055	9,10-Bis((3,5-dimethyl-1H-pyrazol-4-yl)methyl)anthracene (H 2 L2).
+4-056	The above general pyrazole preparation procedure was followed except for the substitution of hydrazine hydrate (2 mL, 80%) and the b (680 mg, 1.7 mmol) in 50 mL of ethanol.
+4-057	Then the yellow solid H2L[2] was obtained.
+4-058	(635 mg, 95%).1H NMR (400 MHz, DMSO-d6, 25 °C, ppm): δ = 8.27-8.25 (m, 4H), 7.50-7.47 (m, 4H), 4.68 (s, 4H), 1.62 (s,12H).
+4-059	13C NMR (100 MHz, DMSO-d6, 25 °C, ppm): δ = 131.3, 129.7, 125.5, 125.2, 112.9, 22.62, 10.8.
+4-060	MS (MALDI-TOF) m/z: Anal. calcd for [C26H26N4 þ H]þ, 395.2230; found: 395.2233.
+4-061	2,7-Bis((3,5-dimethyl-1H-pyrazol-4-yl)methyl)naphthalene (H 2 L3 ).
+4-062	The above general pyrazole preparation procedure was followed with c[31] (250 mg, 0.71 mmol), and a white solid H 2 L3 was obtained.
+4-063	(232 mg, 95%).1H NMR (400 MHz, DMSO-d6, 25 °C, ppm): δ = 12.02 (s, 2H) 7.72-7.704 (d, J = 8.2 Hz, 2H), 7.47 (s, 2H), 7.18-7.17 (d, J = 1.2 Hz, 2H), 3.78 (s, 4H), 2.06 (s,12H).
+4-064	13C NMR (100 MHz, DMSO-d6, 25 °C, ppm): δ = 139.1, 133.2, 129.9, 127.4, 126.4, 125.2, 113.1, 28.7, 10.7.
+4-065	MS (MALDI-TOF) m/z: Anal. calcd for [C22H24N4 þ H]þ, 345.2074; found: 345.2072.
+4-066	3,30-(2,4,6-Trimethyl-1,3-phenylene)bis(methylene)dipentane-2,4-dione (d).
+4-067	The above general bis(methylene)dipentane-2,4-dione preparation procedure was followed with 2,4-bis(bromo- methyl)-1,3,5-trimethylbenzene (2.5 g, 8.23 mmol) to give e as a white powder.
+4-068	Then the rough product was recrystallized from 95% EtOH, and the colorless needle crystal was obtained.
+4-069	(2.49 g, 90%).
+4-070	1H NMR (400 MHz, CDCl3, 25 °C, ppm): δ = 6.78 (s, 1H), 3.86-3.83 (t, J = 7.32 Hz, 2H), 3.15-3.13 (d, J = 7.32 Hz, 4H), 2.16 (s, 6H) 2.14 (s, 3H), 2.01 (s, 12H).
+4-071	13C NMR (100 MHz, CDCl3, 25 °C, ppm): δ = 203.9, 134.7, 134.6, 133.3, 130.9, 66.7, 30.1, 28.5, 20.1, 16.1.
+4-072	MS (EI) m/z: Anal. calcd for [C21H28O4 þ Na]þ, 367.1880; found: 367.1881.
+4-073	4,40-(2,4,6-Trimethyl-1,3-phenylene)bis(methylene)bis(3,5-di- methyl-1H-pyrazole) (H2 L4).
+4-074	The above general pyrazole pre- paration procedure was followed with d (500 mg, 1.45 mmol), and the yellow solid H2 L4 was obtained.
+4-075	(463 mg, 95%).1H NMR (400 MHz, DMSO-d6, 25 °C, ppm): δ = 12.80 (s, 2H), 7.31-6.96 (m, 20H), 6.24 (s, 1H), 3.71 (s, 4H), 1.73 (s, 6H), 1.36 (s, 3H).
+4-076	13C NMR (100 MHz, DMSO-d6, 25 °C, ppm): δ = 135.1,134.4,133.4,129.2,128.4,127.6,127.1,113.2,25.0,19.9, 16.1.
+4-077	MS (MALDI-TOF) m/z: Anal. calcd for [C21H28N 4 þ Na]þ, 359.2206; found: 359.2198.
+4-078	2,20-(2,4,6-Trimethyl-1,3-phenylene)bis(methylene)bis(1,3-di- phenylpropane-1,3-dione) (e).
+4-079	The above general bis(1,3-diphenyl- propane-1,3-dione) preparation procedure was followed with 1,4-bis(bromomethyl)benzene (1 g, 4.11 mmol) to give e as a white solid.
+4-080	(2.31 g, 95%).
+4-081	1H NMR (400 MHz, CDCl3, 25 °C, ppm): δ = 7.70-7.68 (m, 8H), 7.46-7.44 (m, 4H), 7.31-7.27 (m, 8H), 6.58 (s, 1H), 5.21-5.18 (t, J = 6.48 Hz, 2H), 3.46-3.44 (d, J = 6.48 Hz, 4H), 2.03 (s, 6H), 2.01 (s, 3H).
+4-082	13C NMR (100 MHz, CDCl3, 25 °C, ppm): δ = 196.2, 136.0, 134.88, 134.82, 134.0, 133.3, 130.0, 128.5, 128.4, 57.3, 29.7, 20.2, 16.4.
+4-083	MS (EI) m/z: Anal. calcd for [C41H36O4 þ Na]þ, 615.2506; found: 615.2500.
+4-084	4,40-(2,4,6-Trimethyl-1,3-phenylene)bis(methylene)bis(3,5-di- phenyl-1H-pyrazole) (H 2L[5] ).
+4-085	The above general pyrazole pre- paration procedure was followed with f (500 mg, 0.60 mmol), and a white solid H 2L[5] was obtained.
+4-086	(468 mg, 95%).[1]
+4-087	H NMR (400 MHz, DMSO-d6, 25 °C, ppm): δ = 12.80 (s, 2H) 7.31-7.15 (m, 16H), 6.96 (s, 4H), 6.24 (s, 1H), 3.71 (s, 4H), 1.73 (s, 6H), 1.36 (s, 3H).
+4-088	13C NMR (100 MHz, DMSO-d6, 25 °C, ppm): δ = 135.1, 134.4, 133.4, 129.2, 128.4, 127.6, 127.1, 113.2, 25.0, 19.9, 16.1.
+4-089	MS (MALDI-TOF) m/z: Anal. calcd for [C41H 36-N 4 þ Na]þ, 607.2832; found: 607.2831.
+4-090	2,20-(1,4-Phenylenebis(methylene))bis(1,3-diphenylpropane-1,3-dione) (f).
+4-091	The above general bis(1,3-diphenylpropane-1,3-dione) preparation procedure was followed with 1,4-bis(bromo- methyl)benzene (500 mg, 1.89 mmol) to give f as a light-yellow powder.
+4-092	(1.00 g, 95%).[1]
+4-093	H NMR (400 MHz, CDCl3, 25 °C, ppm): δ = 7.86-7.84 (m, 8H), 7.51-7.47 (m, 4H), 7.39-7.35 (m, 8H), 7.12 (s, 4H), 5.43-5.40 (t, J = 6.68 Hz, 2H), 3.37-3.35 (d, J = 6.64 Hz, 4H). 13 C NMR (100 MHz, CDCl3 , 25 °C, ppm): δ = 195.3, 137.4, 135.9, 133.4, 129.2, 128.8, 128.5, 58.9, 34.6.
+4-094	MS (EI) m/z: Anal. calcd for [C38H 30O4 þ Na]þ, 573.2036; found: 573.2032.
+4-095	1,4-Bis((3,5-diphenyl-1H-pyrazol-4-yl)methyl)benzene (H2L[6]).
+4-096	The above general pyrazole preparation procedure was followed
+4-097	Inorganic Chemistry, Vol. 49, No. 17, 2010 7791 with f (200 mg, 0.36 mmol), and a white solid H2L[6] was obtained.
+4-098	(187 mg, 95%).
+4-099	1H NMR (400 MHz, DMSO-d6, 25 °C, ppm): δ = 13.33 (s, 2H) 7.46-7.32 (m, 20H), 6.98 (m, 4H), 4.00 (s, 4H).
+4-100	13C NMR (100 MHz, DMSO-d6, 25 °C, ppm): δ = 138.4, 128.4, 127.8, 127.1, 111.8, 28.6.
+4-101	MS (MALDI-TOF) m/z: Anal. calcd for [C38H30N4 þ Na]þ, 565.2363; found: 565.2361.
+4-102	Self-Assembly of Metalomacrocycles.
+4-103	General Procedures. {[(phen)Pd]8L[1]4}(NO3)8 (9 3 8NO3h).
+4-104	[(phen)2Pd 2(NO31 )2\](NO3)2 (41 mg, 0.1 mmol) was added to a suspension of H2L (32.2 mg, 0.05 mmol) in H2 O (10 mL), and the mixture was stirred for 2 h at room temperature.
+4-105	Then acetone (5 mL) was added, and the reaction was heated at 60 °C for 12 h at least.
+4-106	The resulting clear yellow solution was evaporated to dryness to give a yellow solid 1 3 8NO3h.
+4-107	Yield: 69 mg (95%).
+4-108	The PF 6h salt of 9 was obtained as yellow microcrystals.
+4-109	ESI-MS (acetonitrile) m/z: 1058.1 [9 3 3PF6-]5þ, 857.8 [9 3 2PF6-]6þ, 714.4 [9 3 PF6-]7þ , 607.1 [9]8þ.
+4-110	Found: C, 54.50; H, 3.48; N, 7.19.
+4-111	Calcd for C280H192N32-F48P8Pd8 3 8H2O (%): C, 54.59; H, 3.40; N, 7.28.
+4-112	{[(bpy)Pd]4 L12}(NO3)4 (1 3 4NO3h).
+4-113	The same procedure as employed for 9 3 8NO3h was followed except that [(bpy)2Pd2-(NO 3)2 \](NO3 )2 (39 mg, 0.1 mmol) was used as the starting material.
+4-114	Yield: 58 mg (95%).
+4-115	The PF 6h salt of 1 was obtained as yellow microcrystals in quantitative yield.
+4-116	13C NMR (100 MHz, CD3CN, 25 °C, ppm): δ = 207.8, 152.6, 152.4, 149.5, 149.2,142.6,142.1,132.4,129.3,128.3,127.6,122.7,83.2,31.2, 25.9, 15.1.
+4-117	ESI-MS (acetonitrile)- 3þ 4þ m/z: 1310.2 [1 3 2PF6-] 2þ, 825.5 [1 3 PF6 ] , 583.1 [1] .
+4-118	Found: C, 54.08; H, 3.40; N, 7.69.
+4-119	Calcd for C 132H96N16F24P4Pd 4 3 H2O (%): C, 54.11; H, 3.37; N, 7.65.
+4-120	The single crystals suitable for X-ray determination were grown by the vapor diffusion of diethyl ether into a solution of 1 3 4PF6h in acetonitrile at room temperature.
+4-121	{[(phen)Pd]4L[2]2}(NO3)4 (2 3 4NO3h).
+4-122	The same procedure as2 employed for 9 3 8NO3h was followed except that H2 L (19.7 mg, 0.05 mmol) was used as the starting material.
+4-123	Yield: 49 mg (80%).
+4-124	The PF6h salt of 2 was obtained by adding a 10-fold excess of KPF6 to its aqueous solution at 60 °C, which resulted in the immediate deposition of 2 3 4PF6h as yellow microcrystals in quantitative yield.
+4-125	The crystals were filtered, washed with a minimum amount of cold water, and dried.
+4-126	1H NMR (400 MHz, CD3 CN, 25 °C, ppm) δ = 8.31-8.30 (m, 8H, phen-H2,9),8.13-8.11 (m, 8H, phen-H4,7), 8.09 (s, 8H, phen-H5,6),7.93-7.90 (m, 8H, phen-H3,8),7.59-7.57 (m, 8H), 7.44-7.42 (m, 8H), 3.98 (s, 8H, L2-CH2), 2.44 (s, 24H, L2-CH3).
+4-127	13C NMR (100 MHz, CD3 CN, 25 °C, ppm): δ = 207.9, 153.1, 152.8, 152.5, 150.4, 148.7,148.5,142.7,142.3,132.2,129.1,128.7,127.5,123.2, 114.3, 82.2, 31.2, 26.2, 15.5.
+4-128	ESI-MS (acetonitrile) m/z: 1111.6 [2 3 2PF6h]2þ, 693.2 [2 3 PF 6h]3þ, 483.3 [2]4þ.
+4-129	Found: C, 46.85; H, 3.33; N, 8.67.
+4-130	Calcd for C 100H80N16F24P4Pd4 3 3H2O (%): C, 46.82; H, 3.38; N, 8.74.
+4-131	Unfortunately the crystals were too small to collect the X-ray data.
+4-132	{[(bpy)Pd]4 L22}(NO3)4 (3 3 4NO3h).
+4-133	The same procedure as employed for 9 3 8NO3h was followed except that [(bpy)2Pd2-(NO 3)2 \](NO3 )2 (39 mg, 0.1 mmol) and H2L[2] (19.7 mg, 0.05 mmol) were used as the starting material.
+4-134	Yield: 55.7 mg (95%).
+4-135	The PF6h salt of 3 was obtained by adding a 10-fold excess of KPF6 to its aqueous solution at 60 °C, which resulted in the immediate deposition of 3 3 4PF6h as yellow microcrystals in quantitative yield.
+4-136	The crystals were filtered, washed with a minimum amount of cold water, and dried.
+4-137	ESI-MS (aceto- nitrile) m/z: 1062.1 [3 3 2PF6h]2þ, 660.1 [3 3 PF6h]3þ, 458.8 [3]4þ.
+4-138	Found: C, 44.38; H, 3.60; N, 9.09.
+4-139	Calcd for C92H80F24N16-P 4Pd 4 3 4H2 O (%): C, 44.42; H, 3.57; N, 9.01.
+4-140	The single crystals suitable for X-ray determination were grown by the vapor diffusion of diethyl ether into a 1.0 mM solution of 3 3 4PF6h in acetonitrile at room temperature.
+4-141	{[(phen)Pd]4L[3]2}(NO3)4 (4 3 4NO3h).
+4-142	The same procedure as3 employed for 9 3 8NO3h was followed except that H2 L (17.2 mg, 0.05 mmol) was used as the starting material.
+4-143	Yield: 55 mg (95%).
+4-144	The PF6h salt of 4 was obtained as yellow microcrystals
+4-145	7792 Inorganic Chemistry, Vol. 49, No. 17, 2010 Ning et al.
+4-146	in quantitative yield.
+4-147	1H NMR (400 MHz, CD3CN, 25 °C, ppm) immediate deposition of 7 3 4PF6h as yellow microcrystals in δ = 8.96-8.94 (d, J = 6.48 Hz, 8H, phen-H2,9),8.56-8.54 (d, quantitative yield.
+4-148	1H NMR (500 MHz, CD3CN, 25 °C, ppm) J = 6.48 Hz, 8H, phen-H4,7), 8.19 (s, 8H, phen-H5,6),7.94-7.91 (dd, δ = 8.36-8.24 (m, 16H, bpy-H6,60; bpy-H3,30),8.10-8..01 (m,
+4-149	for C92H76F24N16P4Pd4 3 2H2O (%): C, 45.15; H, 3.29; N, 9.16.
+4-150	[7 3 3PF6h] .
+4-151	Found: C, 38.88; H, 4.46; N, 8.86.
+4-152	Calcd for C82-3 H N F P Pd 13H O (%): C, 38.88; H, 4.38; N, 8.85.
+4-153	The {[(bpy)Pd]4L 2}(NO3)4 (5 3 4NO3h).
+4-154	The same procedure as 84 16 24 4 4 3 2
+4-155	employed for 9 8NO3h was followed except that [(bpy)2 Pd2 - single crystals suitable for X-ray determination were grown by 3 3
+4-156	(NO 3)2\](NO3)2 (39 mg, 0.1 mmol) and H2L (17.2 mg, 0.05 the vapor diffusion of diethyl ether into a 1.0 mM solution of mmol) were used as the starting material.
+4-157	Yield: 54 mg (95%). 7 3 4PF6h in acetonitrile at room temperature.
+4-158	16H, bpy-H3,30; bpy-H4,40),7.86-7.82 (m, 8H, bpy-H5,50; L4), mmol) were used as the starting material.
+4-159	Yield: 53 mg (95%).7.33-7.25 (m, 4H), 7.22 (s, 4H), 4.18 (s, 8H, L4-CH2), 2.43 (s, The PF6h salt of 8 was obtained as yellow microcrystals in 24H, L4-CH3 ); ESI-MS (acetonitrile)3þ 4þ m/z: 1013.6 [5 3 2PF6h]2þ, quantitative yield.
+4-160	1H NMR (400 MHz, CD 3CN, 25 °C, ppm) δ 626.4 [5 3 PF6h] , 433.3 [5] .
+4-161	Found: C, 41.91; H, 3.63; N, 9.39. = 8.08-8.06 (m, 16 H, DBM-PhH), 7.78 (d, J = 5.6 Hz, 8 H, Calcd for C84H76F24N16P4Pd4 5H2O (%): C, 41.95; H, 3.60; N, bpy-H6,60),7.31-7.35 (m, 24 H, bpy-H3,30 4,40 5,50 ),7.15-7.11 (m, 3
+4-162	9.32.
+4-163	8H, DBM-PhH), 6.97-6.93 (m, 16H, DBM-PhH), 6.28 (s, 8H, 4 PhH), 3.86 (s, 8H, CH ); ESI-MS (acetonitrile) m/z: 759.1 {[(bpy)Pd]4L 2}(NO3)4 (6 3 4NO3h).
+4-164	The same procedure as 3þ 4þ 2
+4-165	employed for 9 8NO3h was followed except that [(bpy)2 Pd2 - [8 3 PF6h] , 532.6 [8] .
+4-166	Found: C, 50.65; H, 3.40; N, 8.08; Calcd 3 4
+4-167	(NO3)2\](NO3)2 (39 mg, 0.1 mmol) and H2L (20.18 mg, 0.05 mmol) for C 116H88N16 F24 P4Pd4 3 2H2O (%): C, 50.71; H, 3.37; N, 8.16. were used as the starting material.
+4-168	Yield: 63.6 mg (95%).
+4-169	The PF6h
+4-170	salt of 6 was obtained as yellow microcrystals in quantitative yield.
+4-171	Acknowledgment.
+4-172	This project was supported by National ESI-MS (acetonitrile)4þ m/z: 1004.4 [6 3 2PF6h]2þ , 621.5 [6 3 PF6h]3þ, Natural Science Foundation of China (no. 20772152).
+4-173	429.8 [6] .
+4-174	Found: C, 50.73; H, 3.89; N, 7.82.
+4-175	Calcd for C122H100-
+4-176	F N P Pd 5H O (%): C, 50.78; H, 3.84; N, 7.77. 1 13
+4-177	24 16 4 4 3 2 Supporting Information Available: H NMR and C NMR- {[(bpy)Pd]4L[5] 2}(NO3)4 (7 3 4NO3h).
+4-178	The same procedure as spectra of a-f and H 2Ln (n labeled by 1, 2, 3, 4, 5, 6).
+4-179	Tables of employed for 9 3 8NO3h was followed except that [(bpy)5 2 Pd2 - selected bond lengths and angles for 1, 3, and 7; Packing (NO 3)2\](NO3)2 (39 mg, 0.1 mmol) and H2L (35.05 mg, 0.05 diagrams of 1, 3, and 7; X-ray crystallographic files in CIF mmol) were used as the starting material.
+4-180	Yield: 50 mg (75%). format for complexes 1, 3, and 7; and UV-vis and fluorescence The PF 6h salt of 7 was obtained by adding a 10-fold excess of spectra.
+4-181	This material is available free of charge via the Internet KPF6 to its aqueous solution at 60 °C, which resulted in the at http://pubs.acs.org.

@@ -1,0 +1,237 @@
+# document_id: jp410550v
+# extractor: kordoc-markdown-adapter-1
+1-001	Transition metal oxides (TMOs) such as molybdenum trioxide (MoO3), tungsten trioxide (WO 3), and vanadium pentoxide (V 2O5) have aroused much extensive interest due to their variety of crystalline phases and fascinating properties during the past few years.[1,2]
+1-002	For instance, the ready reversible incorporation of alkali ions or protons into their lattices can form electronically conducting bronzes.[3]
+1-003	These insertion reactions take place with the formation of a large free energy, which has led to their use as the cathodes of lithium batteries.
+1-004	Concomitant with the ion insertion, electrons are introduced into the conduction bands giving rise to their dramatic colors, which can be related to the concentration of conduction electrons.[4]
+1-005	This ready coloration under ambient conditions led to their proposed and actual use.[5,6]
+1-006	With the development of nanotechnology, nanostuctrues have received great attention.
+1-007	Novel physical phenomena and improved properties appear as the scale of the building blocks
+1-008	© 2014 American Chemical Society
+1-009	approaches the nanoscale. h-MoO3 nanobelt synthesized by simple hydrothermal route exhibited a stable electrochromic performance responding to electrical impulse in a very short time.[6]
+1-010	Few-layer V2O5 nanosheets with high-rate transportation of lithium ions and electrons have been synthesized via a simple and scalable liquid exfoliation technique.[7]
+1-011	MoO3 nanoparticles with diameters of 5−20 nm showed a durable Li storage capacity of 630 mA h g−1 for 150 cycles at high rate.[8]
+1-012	In particular, nanowires are one of these building blocks that possess several practical, distinct properties, such as electronic radial transport, short ions transport path, crystallinity, and well-controlled dimensional composition; this is favorable for organizing the nanoscale building blocks into assemblies and, ultimately, useful systems.
+1-013	However, the crystallography
+1-014	Received: October 25, 2013
+1-015	Revised: February 7, 2014
+1-016	Published: February 7, 2014
+1-017	properties of the layered structures of vanadium, molybdenum, and tungsten oxides result in the difficulty of preparing MoO3, V2O5, and WO3 one-dimensional (1-D) nanowires.
+1-018	Their layered structures contain predominantly MO6 octahedra, with tetrahedra being less common.
+1-019	These octahedra normally share corners and/or edges to form two-dimensional sheet structures, which are very favorable for the formation of two-dimensional nanostructures, such as nanobelt, nanosheet, etc.[7−15] In 2000, the electrode position method was used by Zach et al. to prepare MoOx nanowires with the diameters ranging from 20 nm to 1.3 μm for the first time.[16]
+1-020	Then, MoO3, V2O5, and WO3 nanowires with diameters of 10−200 nm were synthesized using carbon nanotubes as templates.[17]
+1-021	Up to the present, limited success in synthesizing MoO 3, V 2O 5, and WO3 superfine nanowires have been obtained.
+1-022	So searching for a simple and template-free method for preparing MoO3, V2O5, and WO 3 superfine nanowires in a large scale is still a great challenge.
+1-023	It is worth mentioning that the isolated MO6 octahedra chains sharing corners and double chains of strongly distorted octahedra sharing two common edges with each other commonly exist in their hydration states.
+1-024	For example, triclinic monohydrate MoO3·H2O is made from isolated double chains of strongly distorted [MoO5 (H2O)] octahedra sharing two common edges with each other.
+1-025	The [MoO 5 (H 2O)] octahedra are much distorted in such a way that the local structure can be approximated by chains of corner-linked MoO 4 tetrahedra and isolated water molecules.[18]
+1-026	In the process of hydrated metal oxides transforming into thermodynamic stability anhydrous phases, the isolated 1-D MO 6 octahedra chains are connected with each other via chemical bonds or van der Waals interaction.
+1-027	Can we prepare the MoO 3, V2 O5, and WO3 nanowires by inhibiting and/or destroying the connecting of 1-D MO6 octahedra chains in the radial direction based on the dehydration of their hydrated metal oxides?
+1-028	We choose MoO3 to demonstrate the concept in consideration of the limited success in preparing MoO 3 nanowires and their expanding technological applications in various fields.
+1-029	Herein, we report the fabrication of unique mesoporous orthorhombic MoO 3 nanowire bundles by a vacuum thermal decomposition from precursory α-MoO3·H 2O nanorods based on the 1-D double chains of MO6 octahedra sharing two common edges for two and the topotactic relationship between the (001) α-MoO3·H2O and (100) MoO3 crystal planes.
+1-030	During the mesoporous MoO 3 nanowire bundles formation, the nanorod frameworks could be well preserved, as was expected based on the reported work.[19]
+1-031	As an example, we show that the as-prepared mesoporous orthorhombic MoO3 nanowire bundles exhibit enhanced electrochemical perform- ances when evaluated as anode materials for lithium-ion batteries (LIBs).
+1-032	The method of preparing nanowires could be extended to other two TMOs, V 2O5 , and WO3.
+1-033	This topotactic growth under vacuum based on the crystal structural relationship of hydrated metal oxide and related metal oxide will provide an effective and all-purpose route to controlled preparation of novel micro/nanostructured oxides with enhanced properties (energy storage/conversion, organic electronics, catalysis, gas-sensor, and so on).
+2-001	2.1.
+2-002	Synthesis of Triclinic α-MoO3·H2O Nanorods.
+2-003	The precursor triclinic molybdenum oxide monohydrate α-MoO3·H 2O nanorods were synthesized from peroxomolybdate precursor solutions via a sonochemical process.
+2-004	In a simple
+2-005	procedure, 0.48 g (5 mmol) of pure molybdenum power was slowly added into a 50-mL beaker containing 10 mL of H2O2 aqueous solution (30% w/w) with strong stirring.
+2-006	The feeding rate of Mo power should be much slower because the reaction of Mo and H2 O2 is a strong exothermic reaction with the product of MoO2(OH)(OOH).
+2-007	Then the yellowish white precipitate was obtained with the above transparent and yellow solution under the influence of ultrasonic for about 1 day.
+2-008	The chemical reaction can be formulated as shown in the equation MoO2(OH)(OOH) → α-MoO3·H2O + 1/2O2.The product was collected, washed with deionized water and pure alcohol, respectively, for several times, and finally dried in a vacuum at 60 °C overnight.
+2-009	In addition, in our experiments, the 0.48 g is an optimal value.
+2-010	When the dosage of molybdenum power is greater than 0.48 g, another phase which will be reported in our next work coexists in the final product; otherwise, the reaction time for the formation of the α-MoO3·H2O product increase significantly (several days, even one week) and the reaction efficiency become very low.
+2-011	2.2.
+2-012	Synthesis of α-MoO3 Nanowire Bundles.
+2-013	The one-dimensional α-MoO3 nanowire bundles were synthesized by a vacuum technique from the precursor.
+2-014	The as-obtained α-MoO3·H2O nanorods were heat treated at 260 °C in vacuum for 10 h.
+2-015	After cooling to room temperature naturally in vacuum, the final products were obtained for subsequent characterization and testing.
+2-016	2.3.
+2-017	Sample Characterization.
+2-018	Powder X-ray diffraction (PXRD) measurements were determined by a Bruker D8 advanced X-ray diffractmeter.
+2-019	The scanning electron micros- copy (SEM) images were taken by using a field-emitting scanning electron microscope (FESEM, JEOL-JSM-6700F).
+2-020	The transmission electron microscopy (TEM) images, high- resolution transmission electron microscopy (HRTEM) images, and the selected-area electron diffraction (SAED) patterns were taken on a JEOL-2010 transmission electron microscope with an accelerating voltage of 200 kV.
+2-021	Raman spectrum was carried out on a JY LABRAM-HR confocal laser micro-Raman spectrometer using Ar+ laser excitation with a wavelength of 514.5 nm.
+2-022	2.4.
+2-023	Electrochemical Test.
+2-024	The active materials (α-MoO3 nanowire bundles), acetylene black and poly(vinylidene fluoride) with a ratio of 70:15:15 (weight ratio) were mixed homogeneously with N-methyl-pyrrolidone as a solvent, the obtained slurry was pasted on Cu foil and dried at 110 °C for 10 h in vacuum.
+2-025	The coin cells (size: 2016) were then assembled in an argon-filled glovebox.
+2-026	The cells were composed of lithium foil (anode), Celgard 2400 (separator), and 1 M LiPF 6 in a mixed solvent of ethylene carbonate and dimethyl carbonate (1:1 volume ratio) (electrolyte), α-MoO3 nanowire bundles (cathode)∥1 M LiPF6 in EC: DMC (1:1 volume ratio) (electrolyte)∥lithium foil (anode).
+2-027	The galvanostatic charge and discharge were controlled between 0.001 and 3.0 V on a LAND-CT2001A instrument at room temperature.
+2-028	The loading mass of active material is about 2 mg per foil.
+2-029	To confirm the stable and reliable electrochemical performances, at least 30 different LIBs were fabricated from α-MoO3 nanowire bundles and α-MoO3 nanobelts, respectively, at the same test condition.
+3-001	3.1.
+3-002	Triclinic Monohydrate Precursor α-MoO3·H2O Nanorods.
+3-003	The reaction of molybdenum powder and hydrogen peroxide aqueous solution can yield a traditional
+3-004	peroxomolybdate MoO2(OH)(OOH)[20,21] aqueous solution.
+3-005	Under the influence of ultrasonic, the yellowish white product was precipitated from the peroxomolybdate aqueous solution.
+3-006	The powder X-ray diffraction (PXRD) pattern of the as-obtained precursor (Figure 1a) is well consistent with the reported PXRD pattern of the triclinic monohydrate α-MoO3·H2O (anorthic cell, a = 6.5530 Å, b = 7.3720 Å, c = 3.7070 Å, α
+3-007	= 91.7500°, β = 104.3600°, γ = 65.6600°, space group P-1, Z = 2, and JCPDS no. 26-1449).
+3-008	The result of the thermogravi- metric (TG) analysis (Figure 1b) of the precursor reveals that the mass decrease of the yellowish white product started at about 82.58 °C and was finished at around 254.02 °C. The total mass loss is about 11.07%, very corresponding to the mass of a crystal water molecule from triclinic molybdenum trioxide monohydrate (theoretical value, 11.12%).
+3-009	The as-obtained precursor is further confirmed by Raman spectroscopy.
+3-010	The Raman spectrum of the as-obtained sample is shown in Figure 1c, which shows the typical Raman scattering bands of α-MoO3·H2O.[22] The stretching frequencies at 968.9 and 925.3 cm−1 are well attributed to the symmetric stretching vibrations of OMoO unit, whereas the next two narrow Raman lines at 694.5 and 401.3 cm−1 are ascribed to the intermediate bridging O−Mo−O bond of α-MoO3·H2 O. Many Raman bands appear below 250 cm−1, such as 247.4, 217.1, 201.9, 171.5, 137.7, and 124.5 cm−1 , correspond certainly to deformation and lattice modes.
+3-011	Thus, the yellowish white precursor can be primarily identified as triclinic monohydrate α-MoO3·H2O.
+3-012	The morphology of the as-synthesized α-MoO3·H2O nano- rods is examined by SEM.
+3-013	Figure 2a,b show low-magnification and high-magnification SEM images of as-synthesized α-MoO3·H 2O. The as-obtained products are composed of a great quantity of nanorods and a small amount of nanoparticles.
+3-014	The diameters of the nanorods range from 200 to 500 nm, and their lengths vary between 3 and 5 μm (Figure 2a).
+3-015	The elongated nanoparticles with the size of hundreds of nanometers are observed, as shown in Figure 2b.
+3-016	It is clear that the α-MoO3·H 2O nanorods may have improved physicochemical properties due to the highly oriented growth behavior, thus enhancing their practical applications.
+3-017	The morphology and structure of the α-MoO3·H 2O nanorods were investigated in detail by transmission electron microscopy (TEM), selected area electron diffraction (SAED), and high-resolution TEM (HRTEM).
+3-018	Figure 2c shows the TEM image of the α-MoO3·H2O nanorod, which is a solid and smooth nanorod with a diameter of ∼200 nm.
+3-019	The SAED pattern (inset of Figure 2c) obviously supports its single crystal nature and confirms the nanorod is grown along the [140] direction in length.
+3-020	The parallelogram SAED pattern (inset of Figure 2c) with the [001] zone axis demonstrates that the larger surface and side surface of the nanorod are enclosed by (001) and (100) lattice planes, respectively.
+3-021	The confirmed growth direction of each surface of the nanorod is schematically illustrated on the nanorod of Figure 2c.
+3-022	We try our best to obtain the corresponding HRTEM image of the α-MoO3·H2O nanorod, but it is difficult due to the awful instability under the stronger electron irradiation.
+3-023	Based on the above analysis, Figure 2d shows the crystal structure of the (001) lattice plane of the precursor α-MoO3·H2O nanorod, in which the isolated double chains of strongly distorted [MoO 5(H2O)]-octahedra sharing two common edges with each other are approximatively aligned parallel to the smooth outer side edge of the nanorod.3.2.
+3-024	Vacuum Thermal Decomposition of α-MoO3·H2O. The crystal structural transformation from triclinic molybde- num trioxide monohydrate to orthorhombic molybdenum trioxide has been studied by ex situ PXRD and Raman spectroscopy in details in vacuum at various temperatures from 110 to 220 °C. Figure 3 shows the PXRD patterns of vacuum thermal decomposition dehydration products from the precursor at different temperatures.
+3-025	The main features of the
+3-026	enclosed by the white square in panel a.
+3-027	(c) Low-magnification TEM image of α-MoO3·H2O nanorod viewed from the broad plane.
+3-028	(d) Schematic
+3-029	illustration showing the crystal structure of the area enclosed by the black square in panel c.
+3-030	PXRD patterns of the as-obtained sample remain unchanged up to 150 °C (Figure 3a−c), indicating that the previous dehydration is a topotactic process without any significant structural change.
+3-031	Therefore, the previous dehydration process
+3-032	does not change the principal features of the MoO6 octahedra with the removal of interlamellar water.
+3-033	Meanwhile, up to 150 °C, with the removal of interlamellar water, the molecular structures of the dehydration derivatives α-MoO3•xH2O bear a close similarity to that of the triclinic molybdenum oxide monohydrate α-MoO3·H2O as a result of much the same Raman spectrum, as shown in Figure 4a.
+3-034	At 165 °C, the subtle changes of the crystal structure and molecular structure of the dehydration product have been observed from the XRD pattern and Raman spectra, as shown in Figures 3d and 4b, respectively.
+3-035	The characteristic diffraction peaks of (021) and (002) for the orthorhombic MoO 3 are clearly observed in the PXRD pattern of the 165 °C sample (Figure 3d).
+3-036	In addition, the well-defined line at 820.2 cm−1 in the Raman spectra deriving from the stretching vibrations of units Mo−O−Mo of orthorhombic MoO3 appears for 165 °C sample (Figure 4b).[23]
+3-037	The removal of overmuch coordinated water results in the damage of the long-range order of the α-MoO3·H2O crystal structure and the change of the molecular structure.
+3-038	When annealed at 180 °C in vacuum, the obtained Raman spectra (Figure 4c) shows the typical Raman scattering bands of orthorhombic MoO3 at 994.9,820.2,666.3,471.9,374.7,338.3,286.4,244.1,214.9, 197.2, 152.3, and 124.9 cm−1, indicating that the molecular structure has changed to be the orthorhombic MoO 3 molecular structure.[23]
+3-039	While, there are still some other peaks, such as two broad peaks (14.9°and 40.6°) in Figure 3e, which may be ascribed to an unknown dehydrated intermediate phase.
+3-040	Above 180 °C, marked structural changes in the end of the dehydration process are observed.
+3-041	The PXRD patterns (Figure
+3-042	3e) are consistent with the molybdenum oxides having infinite sheets of corner-shared MoO6 octahedra.[24]
+3-043	The orthorhombic structure was formed (Figure 3f) above 220 °C with crystal lattice parameters a = 3.962 Å, b = 13.85 Å, and c = 3.697 Å (JCPDS no. 05-0508, SG Pbnm).
+3-044	The morphologies of the samples calcined at different temperature are shown in Figure 5.
+3-045	After 110 °C annealed in vacuum for 10 h, the size of the nanorods (Figure 5a) become bigger and the nanorods display greatly uniform distribution of widths (300−600 nm) and lengths (4−7 μm).
+3-046	Figure 5b shows the closer examination of the material, revealing that the shape of the nanorods is a rectangular pole.
+3-047	The surfaces of the nanorods turn smoother than those of the precursor and the elongated nanoparticles disappear.
+3-048	The Ostwald ripening mechanism,[25] a main path of crystal growth, can really help us to understand the reason for the nanoparticles disappearing.
+3-049	In the 110 °C annealing, within an ensemble of as-obtained products with nanorods and nanoparticles the large nanorods will grow at the cost of the small nanoparticles.
+3-050	For 150 °C sample, the lengths of the nanorods range from 8 to over 12 μm (Figure 5c,d).
+3-051	At the same time, the nanorods slightly bend.
+3-052	Up to 150 °C, the change of the morphology is almost attributed to the Ostwald ripening.
+3-053	Actually, the dehydration process has been happening naturally in the internal structure of the α-MoO3·H2O when annealed in vacuum, although the morphology of the products has not been changed because of the dehydration process ranging from room temperature to 150 °C. After annealed at 165 °C in vacuum for 10 h, the nanorods of the annealed sample bend severely (Figure 5e).
+3-054	At the same time, the obvious filamentous stripes are observed on the surfaces of the nanorods (Figure 5f).
+3-055	With the annealing temperature rising to 180 °C, an interesting morphology is obtained.
+3-056	Figure 5g shows the low-magnification SEM image of the product obtained via vacuum thermal decomposition at 180 °C. The very puffed and porous nanorods, with the lengths of most of the crystals being about 2 μm and the average diameter reaching 300 nm, are observed in Figure 5g.
+3-057	Compared to the as-obtained precursor, the lengths of the puffed nanorods are shorter due to the fracture of the as-obtained nanorods in the dehydration process.
+3-058	Figure 5h clearly shows the fracture surface of the nanorod.
+3-059	The microstructure of the puffed
+3-060	nanorods looks like a weathered tree trunk without water (Figure 5h).
+3-061	After 220 °C vacuum heat-treated, the puffed nanorods continue to grow in filamentation (Figure 5i,j).
+3-062	The above changes of the morphologies, such as fracture and filamentation, are mainly ascribed to the removal of the overmuch crystal water in α-MoO3·H 2O and the crystal structural relationship between the triclinic hydrated and orthorhombic dehydrated phases.
+3-063	The details are discussed in the mechanism part below.
+3-064	3.3.
+3-065	Mesoporous Orthorhombic MoO3 Nanowire Bundles.
+3-066	Succedent thermal treatment in vacuum was realized at 260 °C. Powder XRD pattern (Figure 3g) of the final product has identical peaks, which can be perfectly indexed to orthorhombic MoO3 (JCPDS card no. 05-0508, see Figure S4
+3-067	the the Supporting Information).
+3-068	With increasing temperature, a higher crystalline product is obtained.
+3-069	At the same time, no diffraction peaks of other phases were detected, indicating that the final product is of high purity.
+3-070	It is clear that the α-MoO3·H2O nanorods are converted into orthorhombic MoO3 above 260 °C, which is in accordance with the TG curve (Figure 1b) and the typical orthorhombic MoO 3 Raman spectrum as shown in Figure 4d.
+3-071	SEM and TEM images (Figure 6) show the maintained nanorod morphology and porous nanowire bundles characteristics of the final product obtained at 260 °C in vacuum.
+3-072	From the SEM images (Figure 6a,b), we can see that a small amount of nanowires with uniform dispersion are peeled from the surfaces of the puffed nanorods.
+3-073	Figure 6c shows the tip of the orthorhombic MoO 3 nanowire bundles, indicating that the MoO3 bundles are composed of vast numbers of nanowires ranging from 10 to 30 nm in diameter from the inside out and porous.
+3-074	The MoO3 with a nanowire bundle shape has a great part of the atoms exposed at surfaces.
+3-075	Thus, they are good candidates for applications to catalysis because the exposed atoms are accessible to reactant molecules.[26]
+3-076	Therefore, the 260 °C sample with small scale dimension are expected to be promising with regard to the development of new catalytic materials.
+3-077	Detailed structural characterization was carried out for the 260 °C sample by TEM and HRTEM.
+3-078	Figure 6d shows the typical TEM image of the main part of final MoO3 nanorod, further illustrating its porous nanowire bundle feature.
+3-079	The related HRTEM images as shown in Figure 6e,f indicate a higher crystalline character.
+3-080	Figure 6e shows the HRTEM of surface edges of a nanobundle with a considerably distinct lattice spacing of 0.38 nm that corresponds to the value of the (110) planes of orthorhombic MoO 3.
+3-081	The HRTEM of the mainbody of nanowires as shown in Figure 6f shows a considerably distinct lattice spacing of 0.72 nm, corresponding to that of the (020) planes of orthorhombic MoO3.
+3-082	The observed (110) and (020) lattice planes are approximatively aligned parallel to the outer side edge of the nanobundle, demonstrating a clear growth behavior of the nanowire: (1) the nanowire is grown along the [001] direction in length; (2) the larger- and side-surface are enclosed by (100) and (110) crystal lattice planes, respectively.
+3-083	Remarkably, the growth behavior of this MoO3 nanowire is different from the previous published works.[7−15,27,28] The typical orthorhombic MoO3 nanobelt is grown along the [001] direction and enclosed by (010) lattice plane on large surface (Figure S1, Supporting Information).[10,28]
+3-084	Compared to the typical nanobelt, more entrances (open channels, [100] direction) of the interlayer between the [MoO6] octahedron bilayers are distributed on the large surface of the MoO 3 nanowires, which is beneficial for guest (e.g., Li+) intercalation in kinetics.
+3-085	Because the Li+ ions can rapidly move into the bulk of orthorhombic MoO3 crystal in the [100] direction, the mesoporous orthorhombic MoO3 nanowire bundles with highly crystalline are expected to be used as a high-rate cathode material in LIBs and related work will be published elsewhere.
+3-086	Figure 6g shows the crystal structure of the (100) lattice plane of the orthorhombic MoO3, enclosed by a white square in Figure 6f, in which unique layers and zigzag chains are approximatively aligned parallel to the outer side edge of the nanobundle.
+3-087	3.4.
+3-088	Topotactic Formation Mechanism of Nanowire Bundles.
+3-089	Based on the above observations and analysis, it is suggested that the formation of MoO3 nanowire bundles with porous structures is ascribed to an in situ α-MoO3·H2 O-to-
+3-090	MoO3 topotactic conversion with the crystal relationship of [001] α-MoO3·H2O//[100] MoO3 (Figures 2d, 7b, 6g, and
+3-091	7f).
+3-092	The single-crystal triclinic α-MoO3·H2 O nanorods are relationship, as illustrated in Figure 7a; (3) the thermal employed as an in situ solid-state template, precursor, and decomposition of the precursor causes weight loss and volume support during the process of the topotactic transition.
+3-093	The shrinking, and consequently, porous texture and nanowires are processes of topotactic crystallization and details of meso- yielded.
+3-094	An important feature of these nanowire bundles is that porous MoO3 nanowire bundles from α-MoO3·H2O nanorods the direction of nanowires is along the length of the nanorod. can be schematically illustrated in Figure 7.
+3-095	The mesoporous From the structural information of the α-MoO3·H2O and MoO3 nanowire bundles formation can be expressed as a three- MoO3, the double chains of [MoO6]-octahedra sharing two step process: (1) orthorhombic MoO3 nucleates in situ common edges with each other in them are all aligned parallel epitaxially on α-MoO3·H2 O nanorods with a preference for to the length of the nanorod, as illustrated in Figures 2d and 6g.
+3-096	[001] α-MoO3·H 2O//[100] MoO3 (Figure 3d); (2) the At the same time, the structure of [MoO6]-octahedra double annealing leads to the growth of orthorhombic MoO 3 along chains are preserved in the process of vacuum thermal this specific direction topotactically with a 3D crystal structural decomposition, which is confirmed by the obvious lattice
+3-097	fringes aligned parallel to the length of the nanorod of 180 °C sample (Figure S2).
+3-098	The interaction force of the double chains in the [100] direction of α-MoO3·H2O and the [020] direction of MoO 3 (the two direction are all perpendicular to the length of the nanorod) are hydrogen-bond and van der Waals interactions, respectively.
+3-099	During the water loss and the volume shrinking process, only the hydrogen-bond and van der Waals interaction forces can be easily disrupted, resulting in the filamentation along the length of the nanorod.
+3-100	A small amount of nanowires peeled from the surfaces of nanowire bundles as shown in Figure 6b,d further confirm the above filamentation mechanism.
+3-101	This topotactic transformation and growth based on the relationship of the crystal structures presents a viable route to special nanostructures and mesoporous materials.
+3-102	In addition, the vacuum condition is very important for the formation of the MoO3 nanowire bundles, which may effectively inhibit and/or destroy the connecting of 1-D MO6 octahedra chains in the radial direction in the dehydration process.
+3-103	To reveal the role of the vacuum condition in preparing MoO3 nanowire bundles, a control experiment is carried out by treating the precursor α-MoO3·H2 O nanorods at 260 °C in air condition.
+3-104	The solid orthorhombic MoO3 nanorods without any traces of the filamentation are obtained after 260 °C heat-treated in air, as shown in the Supporting Information (Figure S3).
+3-105	From structural comparison of both hydrated triclinic α-MoO3·H2O (Figure 7b,c) and dehydrated orthorhombic MoO3 (Figure 7e,f) phases in detail, a dehydration reaction mechanism could be proposed.
+3-106	The departure of the crystal water from the hydrated phase triclinic α-MoO3·H2O induces a collapse of its structure (Figure 7d).
+3-107	Then, new bonds are forming between oxygen atoms at the edges of octahedron and the closest transition metal cation (from the following octahedra chain) to compensate the vacancies (white spheres in Figure 7d) created by departure of the crystal water (see Figure 7d,e).
+3-108	Finally, the orthorhombic MoO3 is obtained (Figure 7f).
+3-109	3.5.
+3-110	Porous Property and Electrochemical Perform- ance.
+3-111	The Brunauer−Emmett−Teller (BET) method was used to study the surface-area data of the final product MoO3 nanowire bundles from the topotactic transformation of precursor solid α-MoO3·H2O nanorods in vacuum.
+3-112	The N 2-adsorption desorption isotherms of the nanowire bundles sample can be categorized as type IV with hysteresis loops (Figure 8).
+3-113	The BET surface-area data is calculated to be about 23.80 m2 g−1.
+3-114	The pore size distribution curve (inset in Figure
+3-115	8) suggests most pores are around 13 nm for the MoO3 nanowire bundles, which is in accord with the observation from the SEM and TEM images (Figure 6).
+3-116	The electrochemical properties of porous MoO3 nanowire bundles and the orthorhombic MoO3 nanobelts were evaluated under galvanostatic testing conditions at a current of 200 mA g−1 in the voltage window ranging from 1 mV to 3.0 V (vs Li+/Li) at room temperature (25 °C).
+3-117	The right vertical dot line in Figure 9a indicates the theoretical limit for MoO3 electrode that undergoes a conversion reaction to completely produce metal Mo and Li 2O. For the MoO3 nanowire bundles, the first lithiation capacity (1988 mA h g−1) greatly exceed the theoretical capacity (1117 mA h g−1).
+3-118	However, the subsequent charge (first charge) capacity is 1078 mA h g−1, with very low Coulombic efficiency 54.2%.
+3-119	The large loss of the capacity in the first cycle is mainly ascribed to the formation of Li2O and the irreversible Li ions intercalating into the crystal lattice, as
+3-120	well as the other irreversible electrochemical processes such as electrolyte decomposition and inevitable formation of solid-
+3-121	electrolyte interface (SEI) layer, which are common for most
+3-122	transition metal oxide anodes.[8,29−31] Obviously, the shape of
+3-123	the first discharge curve of the MoO3 nanowire bundles is
+3-124	different from that of the conventional MoO3 nanobelts.
+3-125	In the
+3-126	case of the conventional MoO3 nanobelts (Figure 9b), the first
+3-127	discharge curve can be grouped into two regions: (I) up to 1.5
+3-128	V and (II) below 0.5 V (vs Li+/Li).
+3-129	In region I, about 1.4 Li is
+3-130	inserted with two discrete plateaus, 2.7 and 2.3 V, respectively,
+3-131	corresponding to the reported works in which it is claimed that
+3-132	more than one Li ion can be inserted into the[MoO6]
+3-133	octahedron interlayers and interlayer spacing between the
+3-134	[MoO6] octahedron layers.[32,33]
+3-135	With the voltage dropping to
+3-136	below 0.5 V (II), redox conversion reaction takes place,
+3-137	exhibiting a long plateau at about 0.4 V followed by the sloping
+3-138	profile below 0.25 V develops.
+3-139	The full first lithiation reaction
+3-140	for MoO3 nanobelts can be formulated as the following
+3-141	equations: (1) Addition (>1.5 V), MoO 3 + xLi+ + xe− →
+3-142	LixMoO3 (x = ∼1.4); (2) conversion (xMoO3 + (6
+3-143	− x)Li+ + (6 − x)e− → Mo + 3Li2 O. Comparing the first Figure 10.
+3-144	Cycle performance of the MoO 3 nanowire bundles at discharge profile of the MoO nanowire bundles to that of the −1
+3-145	3 different currents (500 and 1000 mA g ) in the voltage window conventional MoO3 nanobelts, it is expected that the nanowire ranging from 1 mV to 3.0 V (vs Li+/Li) at room temperature.
+3-146	bundles also follow the above lithiation reaction pathway
+3-147	although its voltage profiles becomes smoother than that of the −1
+3-148	values of 712.2 and 490.5 mA h g after 100 cycles, MoO3 nanobelts.
+3-149	The smoother voltage profile unequivocally respectively.
+3-150	The high capacity and good cycling stability of reveals the nanostructural nature of the MoO3 nanowire the α-MoO3 nanowire bundles are attributed to its special bundles, which can be explained in terms of the surface energy nanostructure: (a) The smallness facilitates the charge transfer described for many nanosystems.[34,35]
+3-151	Except for the smoother (electronic and ionic) over shorter distances, and having more voltage profile, another three special discharge phenomena are surfaces for transfer enhances the reactivity.[43]
+3-152	(b) The observed in the first discharge curve of the MoO3 nanowire nanobundles consist of vast of 1D nanostructural nanowires, bundles: (1) The two high-voltage plateaus at 2.7 and 2.3 V which can accommodate the strain of volume effect, as shown assigned to the addition reaction in MoO 3 nanobelts shift by the previous reports of nanowires, nanotubes and nano- negatively to around 2.65 and 1.85 V, respectively, which may sheets.[44−47] (c) The nanowire bundles are porous, as shown in be ascribed to lower crystallinity of the MoO3 nanowire SEM images.
+3-153	The porous structure is favorable for the sufficient bundles compared to the high-crystallinity of MoO3 nanobelts. contact between the electrolyte and particles and effectively
+3-154	suggest a MoO 2 phase formation because this reaction potential
+3-155	36,37 4.
+3-156	CONCLUSIONS
+3-157	corresponds to the electrochemical reaction of MoO 2.
+3-158	(3)
+3-159	The pronounced plateau at around 0.4 V ascribed to the redox We propose a new concept of preparing the MoO3, V2O5 , and conversion reaction to MoO3 nanobelts shifts positively to WO 3 nanowires by inhibiting and/or destroying the connecting about 0.5 V. This phenomenon is usual for TMOs.
+3-160	Because of of 1-D MO6 octahedra chains existing in their hydrated states in the preceding lithiation process in the high potential, the crystal the radial direction based on the dehydration of their hydrated structure of low crystallinity MoO3 nanowire bundles is metal oxides, and for the first time, we report a vacuum seriously damaged to be similar amorphous structure, in topotactic transformation route to mesoporous orthorhombic which the more favorable kinetics for Li + and O2‑ diffusion
+3-161	MoO3 highly textured nanowire bundles from single-crystal α-normally leading to increased lithiation equilibrium poten- MoO3·H2O nanorods.
+3-162	The topotactic conversation is based on tial.[31,38]
+3-163	At the end of the conversion reaction, the crystal the 1-D double chains of MO6 octahedra sharing two common structure of the active materials transform completely into edges for the α-MoO3·H2O and MoO3 and the structural amorphous, leading to smooth voltage profiles for the first matching of [001]α-MoO3·H 2O//[100]MoO3.
+3-164	During the charge process and subsequent cycles, as shown in Figure 9a chemical and structural change from α-MoO3·H 2O to MoO3 , and b. the nanorod morphology can be well maintained.
+3-165	Investigation Figure 9c compares the cycle performance of nanobelts and of the transformation progress indicates MoO3 nanowires nanowire bundles electrodes.
+3-166	Compared to the MoO3 nano- constructing a porous nanobundle prefer textured and epitaxial belts, the nanowire bundles exhibit significantly enhanced cycle growth from the (001) plane of a single-crystal α-MoO3·H2O retention.
+3-167	The MoO3 nanowire bundles electrode delivers the nanorod.
+3-168	The topotactic transition growth in vacuum based on high capacity of over 954.8 mA h g−1 for over 150 cycles the relationship of the crystal structures provides an effective between 0.001 and 3 V at a 0.2 C rate (Figure 9c), whereas for and practical approach to synthesize highly organized porous the MoO3 nanobelts, the capacity decreases rapidly to less than nanomaterials, such as V2O5 and WO3 nanowires, etc.
+3-169	The 80 mA h g−1 within only 20 cycles under identical testing result of galvanostatic electrochemical testing in the voltage condition.
+3-170	At the same time, this value 954.8 mA h g−1 is much range of 0.001−3.0 V versus Li+/Li at 200 mA g−1 give higher than most of the reported molybdenum oxide reversible capacities of 954.8 mA h g−1 for the mesoporous anodes.[8,39−42] Even cycled at higher rates of 0.5 and 1 C orthorhombic MoO 3 nanowire bundles.
+3-171	The capacity can be (Figure 10), they still deliver stable capacities with comparable comparable to the best recently reported data (see Table S1 in
+3-172	the Supporting Information).[19]
+3-173	The sample consisting of mesoporous MoO3 nanowire bundles with an average pore size of 13 nm and high BET surface-area shows more stable reversibility and higher capacity than others, indicative of micro/nanostructure-enhanced performance, which can also be used in other application fields, such as supercapacitor and catalysis, etc.

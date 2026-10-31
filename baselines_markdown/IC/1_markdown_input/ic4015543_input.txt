@@ -1,0 +1,306 @@
+# document_id: ic4015543
+# extractor: kordoc-markdown-adapter-1
+1-001	photocatalysts for the reduction of CO 2 using an osmium
+1-002	■
+1-003	complex as a photosensitizer have not been reported yet.
+1-004	In this In recent years, an increase in the concentration of atmospheric
+1-005	study, two new supramolecular photocatalysts capable of CO 2 and shortages of energy and carbon resources have 2+
+1-006	reducing CO 2, composed of an [Os(5dmb)2(BL)] -type become serious problems.
+1-007	The development of systems that
+1-008	complex (5dmb = 5,5′-dimethyl-2,2′-bipyridine, BL = 1,2-convert solar energy into chemical energy would serve as an
+1-009	bis(4′-methyl-[2,2′-bipyridin]-4-yl)ethane) as a photosensitizer ideal solution to these problems.
+1-010	Since solar light contains a +
+1-011	unit and cis,trans-[Re(BL)(CO)2{P(p-X-C 6H4)3}2] -type com- small amount of UV light, the utilization of visible light is
+1-012	plexes (X = F, Cl) as a catalyst unit, were developed.
+1-013	The required for efficient solar energy conversion.
+1-014	Photocatalytic
+1-015	structures and abbreviations of the synthesized complexes are CO 2 reduction utilizing so-called sacrificial organic electron
+1-016	shown in Chart 1.
+1-017	The abbreviation X in Os−Re(X) and donors is one of the important processes in developing solar
+1-018	Re(X) indicates the substituents of the phosphine ligands in the energy conversion systems, which should be combined with
+1-019	1 Re unit.
+1-020	another process, i.e., photocatalytic water oxidation, in the
+1-021	future.
+2-001	Recently, visible-light-driven supramolecular photocatalysts ■
+2-002	2−6 The Os(II)−Re(I) supramolecular complexes were synthesized for CO 2 reduction have been developed.
+2-003	In these systems,
+2-004	ruthenium(II) tris-diimine complexes have been used as a by a method similar to the synthesis of the reported Ru(II)− photosensitizer unit most commonly because these complexes Re(I) supramolecules[3d] as shown in Scheme 1.
+2-005	Os(5dmb)2Cl2 absorb visible light and because their excited and reduced forms was obtained by the reaction of (NH4)2[OsCl6] with two are both relatively stable.
+2-006	However, the visible light of which the equivalents of 5dmb and reacted with an excess amount of BL, ruthenium(II) photosensitizer unit can absorb is relatively giving an Os(II) mononuclear complex with a noncoordinated limited (λ 2Os(BL)]2+ .
+2-007	[Re(CO)3 {P(p-X- In this study, to use a much wider wavelength range of the C6H 4)3}2(OTf)] was synthesized according to the method solar radiation, an osmium(II) complex was employed as a new reported in the literature.[3d] The target molecules could be photosensitizer unit.
+2-008	Although supramolecular photocatalysts obtained by the reaction of [Re(CO)3{P(p-X-C6H4)3}2(OTf)] for H2 evolution using an osmium(II) tris-diimine[7] or bis- and [(5dmb)2Os(BL)]2+ and characterized by 1H NMR, IR, 8 and HR-MS.
+2-009	terpyridine complex as a photosensitizer have been reported,
+2-010	one of the advantages of these units, i.e., the expansion of the
+2-011	utilizable wavelength range of visible light, has not been Received: June 19, 2013
+2-012	investigated.
+2-013	To the best of our knowledge, supramolecular Published: October 1, 2013
+2-014	Table 1.
+2-015	Photophysical Properties of the Complexesa
+2-016	The photophysical properties of Os−Re(X) and Os are summarized in Table 1.
+2-017	As shown in Figure 1, the spectra of the Os complexes showed 3MLCT absorption bands at 540−730
+2-018	nm, which were not observed in those of Ru trisdiimine complexes, with absorption bands attributed to 1MLCT (420− 540 nm) and π−π* (295 nm) transitions of the diimine ligand.
+2-019	This difference should be due to the much stronger spin−orbit coupling of Os compared with that of Ru.
+2-020	Therefore, such osmium photosensitizers have the potential to utilize a much wider wavelength range of visible light (400−730 nm) compared with the ruthenium photosensitizers (<560 nm).
+2-021	In Figure 1, the UV−vis absorption spectrum of Os−Re(F) is compared with those of both Os and Re(F).
+2-022	The similarity of the spectrum of Os−Re(F) to the simple sum of those of Os and Re(F) strongly indicates that there is no strong interaction between the Os unit and Re unit of Os−Re(F) in its ground state.
+2-023	In a typical run of photocatalytic reactions, a solution of DMF and triethanolamine (TEOA; 5:1 v/v) containing Os−Re(F) (0.05 mM) and 1,3-dimethyl-2-phenyl-2,3-dihydro-1H- benzo[d]imidazole (BIH, 0.1 M) as a reductant was irradiated
+2-024	under a CO 2 atmosphere using a halogen lamp equipped with a rhodamine B solution filter (0.2% w/v, 1-cm pass length: light of wavelengths at λ > 620 nm is transmitted) to selectively form CO (eq 1, Figure 2a).
+2-025	The turnover number for CO formation
+2-026	(TONCO) reached 762 after 20 h of irradiation.
+2-027	The quantum yield for CO formation (ΦCO) was determined as 0.10 with 650-nm monochromatic light for excitation (light intensity: 1.2 × 10−8 einstein s−1), and the turnover frequency (TOFCO) was 1.6 min−1, which was measured using light at λ > 420 nm in order to get higher light intensity.
+2-028	In the absence of either Os−Re(F) or BIH, or without irradiation, CO was not produced.
+2-029	Also, the irradiation of the solution containing BIH and Os instead of Os−Re(F) did not produce CO.
+2-030	Os‐Re F( ) (0.05 mM)/hv (>620 nm)
+2-031	CO2 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯→ CO
+2-032	BIH (0.1 M) in DMF‐TEOA (5:1 v/v) (1)
+2-033	The photocatalytic abilities of Os−Re(X) and mixed systems of the corresponding mononuclear complexes together with those of the Ru(II)−Re(I) photocatalyst reported previously[3d,f] are shown in Table 2.
+2-034	The photocatalytic ability of Os−Re(F) was much greater than that of a mixed system of the corresponding mononuclear complexes (Os + Re(F), 1:1); i.e., a higher TON and a faster formation of CO were achieved (Figure 2b, Table 2).
+2-035	The reported bimetallic photocatalyst composed of a ruthenium(II) photosensitizer unit and the same
+2-036	rhenium(I) catalyst unit (Ru−Re(FPh)), which served as a good photocatalyst for the reduction of CO2 when irradiated with light at λ >500 nm,[3f] scarcely produced CO when only using longer wavelengths (Figure 2b, Table 2), because Ru−Re(FPh) cannot absorb light at λ > 620 nm.
+2-037	The oxidized compound of BIH during the photocatalytic reaction was identified and quantified by HPLC.
+2-038	Only the two-electron oxidized and deprotonated compound (BI+) was detected (eq 2).
+2-039	Both the decrease of BIH and increase of BI+ in the reaction solution are shown in Figure 3.
+2-040	The amount of BI+ produced
+2-041	- ● + ⧫
+2-042	exactly agreed with that of BIH consumed.
+2-043	The amount of CO produced was also very similar to the amount of BI+ produced.
+2-044	After 20 h of irradiation, for example, 76 μmol of CO and 78 μmol of BI+ were produced, and 76 μmol of BIH was consumed.
+2-045	The formation of CO requires the injection of two electrons to one molecule of CO 2, and the formation of one BI+ molecule from BIH leads to the donation of two electrons.
+2-046	These results clearly indicate that BIH acted as a two-electron donor in the photocatalytic reaction.
+2-047	a
+2-048	TONb
+2-049	photocatalyst CO HCOOH H2 ΦCOc TOFCOd/min−1 kqe/108 M−1s−1 ηqf/%
+2-050	Os−Re(F)
+2-051	Os−Re(Cl)
+2-052	Os + Re(F)
+2-053	Os + Re(Cl)
+2-054	Ru−Re(FPh)h
+2-055	a
+2-056	762
+2-057	1138
+2-058	240
+2-059	363
+2-060	3
+2-061	<1
+2-062	4
+2-063	3
+2-064	3
+2-065	<1
+2-066	<1
+2-067	<1
+2-068	<1
+2-069	<1
+2-070	<1
+2-071	0.10
+2-072	0.12
+2-073	1.6
+2-074	3.3
+2-075	bTurnover number of the
+2-076	A CO2-saturated DMF−TEOA (5:1 v/v) solution containing the complex (0.05 mM) and BIH (0.1 M) was irradiated.
+2-077	cQuantum yield
+2-078	reaction products after 20 h of irradiation (λ > 620 nm) is calculated as [products (μmol)]/[added supramolecule or Os (μmol)].
+2-079	for CO formation calculated as [produced CO (μmol)]/[absorbed photon (μeinstein)] (irradiation wavelength, 650 nm; light intensity, 1.2 × 10−8
+2-080	einstein s−1). d
+2-081	Turnover frequency for CO formation calculated as [produced CO (μmol)]/[added supramolecule or Os (μmol) × irradiation time
+2-082	(min)], irradiation at λ > 420 nm. e
+2-083	f
+2-084	Quenching rate constant for emission from the Os(II) units by BIH.
+2-085	Quenching fractions for emission from the
+2-086	Os(II) units by 0.1 M of BIH calculated as 0.1kqτem/(1 + 0.1kqτem). kqτem are obtained from the slopes of Stern−Volmer plots (excitation
+2-087	wavelength, 650 nm). gDetermined by emission from Os
+2-088	bipyridine) was used as a photosensitizer unit instead of [Os(5dmb) 2(excitation wavelength, 530 nm)
+2-089	h [Ru(4dmb)2(BL)]2+ (4dmb = 4,4′-dimethyl-2,2′-2+ (see refs 3d and 3f). i Determined by emission from the Ru(II) unit
+2-090	(excitation wavelength, 650 nm).
+2-091	(BL)]
+2-092	A labeling experiment using 13CO2 was conducted to clarify the carbon source of CO and the “O2−” acceptor in the photocatalytic reaction.
+2-093	Before irradiation, a strong signal attributed to 13CO2 was observed at 125.6 ppm in the 13C NMR spectrum of a DMF-d7 solution containing TEOA (1.25 M), Os−Re(F) (1.0 mM), BIH (0.1 M), and 13CO2 (625 Torr; Figure 4a).
+2-094	Irradiation at λ >620-nm light for 23 h resulted in a
+2-095	decrease of the 13CO 2 signal and an appearance of a new signal of relatively weak intensity, attributed to 13 CO at 185.2 ppm (Figure 4b).
+2-096	This relatively weak-intensity signal is attributed to the low solubility of CO in the solution.
+2-097	A strong signal attributed to H13CO3− was also observed at 158.3 ppm after irradiation, whereas a signal with a much weaker peak intensity of H13CO3− was observed before irradiation.[9]
+2-098	A NOE complete 1H-decoupling 13C NMR[3f,10] result using the carbon of TEOA (1.25 M) as an internal standard for the area integration of the 13C peaks showed that 0.092 M HCO3− was produced in the photocatalytic reaction.
+2-099	Simultaneously, the 13C peaks attributed to BIH (0.1 M before irradiation) completely disappeared, while peaks representing BI+ appeared (Figure 5).
+2-100	This means an amount of HCO3− almost equivalent to that of consumed BIH was produced in the reaction solution.
+2-101	These results clearly show that CO2 worked both as a carbon source for the formation of CO and as an “O2−” acceptor forming HCO3−.
+2-102	Article From the product analyses, it can be concluded that BIH donated two electrons, one molecule of CO2 accepted two
+2-103	2CO2 + BIH ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯→ CO + BI + HCO3 DMF ‐TEOA(5:1v/v) (3) Since, as shown in Figure 1, only the Os unit absorbed light at λ > 620 nm under the photocatalytic reaction conditions, the photochemical reactivity of Os in the presence of BIH was investigated.
+2-104	Emission from Os was quenched by BIH with a quenching rate constant kq of 1.8 × 108 M−1 s−1 and a quenching efficiency ηq of 43% (Table 2: in the case of emission from the Os unit of Os−Re(F), kq = 2.1 × 108 M −1 s−1 and ηq = 34%).
+2-105	UV DMF−TEOA solution containing M) during irradiation under a CO spectra between post- and preirradiation spectra are shown in Figure 6a and b, respectively. −vis absorption spectral changes of a Os (0.05 mM) and BIH (0.1 2 atmosphere and di fferential Figure 6.
+2-106	(a) UV −vis absorption spectral changes of a CO 2-saturated DMF−TEOA (5:1 v/v) solution containing Os (0.05 mM) and BIH (0.1 M) during irradiation at 650 nm (0 −900 s at 50 s intervals) and (b) differential spectra between post- and preirradiation spectra.
+2-107	The blue and red lines represent the spectra before and after irradiation for 900 s, respectively.
+2-108	New absorption bands at 525 and 730 nm appeared and increased during irradiation.
+2-109	The shape of the di fferential spectra was very similar to that of one-electron reduced (OER) species of Os ( Os−) obtained by electrochemical spectroscopy (Figure 7).
+2-110	These results strongly support that the 3 MLCT excited state of the Os unit of Os−Re(F) was reductively quenched by BIH to give Os−−Re(F) (eq 4).
+2-111	To investigate the reaction of photochemically produced Os−−Re(F), IR spectral changes of a solution containing Os− Re(F) and BIH were also measured during irradiation (Figure 8).
+2-112	Before irradiation, two peaks attributed to the symmetric and asymmetric stretching −vibration bands of two CO ligands of the Re unit of Os−Re(F) were observed at 1938 and 1867 cm−1.
+2-113	During irradiation, these peaks decreased, and two new peaks appeared at about 1904 and 1835 cm−1, which is attributed to the vibration bands of two CO ligands of the OER species of the Re unit.11,12 This result clearly indicates that an intramolecular electron transfer occurred from the OER species of the Os unit to the Re unit during irradiation (eq 5).
+2-114	This is 11905 dx.doi.org/10.1021/ic4015543 \| Inorg.
+2-115	Chem. 2013,52,11902 −11909
+2-116	reasonable because this intramolecular electron transfer should be exergonic by 20 mV (E1/2red(Os) = −1.76 V, E1/2red(Re(F)) = −1.74 V vs Ag/AgNO3: Table 3).
+2-117	The two-electron donation process of BIH has already been clarified in the photocatalytic reaction system using a Ru(II)−Re(I) supramolecular complex, which is composed of a [Ru(4dmb)2(BL)]2+-type (4dmb = 4,4′-dimethyl-2,2′-bipyri- dine) photosensitizer instead of the Os unit and the same catalyst unit (Ru−Re(FPh)), as a photocatalyst.[3f] In this case, the initial process of the photocatalytic CO2 reduction is also a photoinduced electron transfer from BIH to the Ru(II)
+2-118	photosensitizer unit, forming the OER species of the photosensitizer unit and one-electron oxidized BIH (BIH•+).
+2-119	BIH•+ is rapidly deprotonated by TEOA to give BI•.
+2-120	TEOA worked as a base, but it could not quench the excited state of the Os unit.
+2-121	Since BI• is a strong reducing agent (E1/2red = −1.95 V vs Ag/AgNO3 ),[13] it can donate one more electron to Ru−Re(FPh) and/or the OER species of Ru−Re(FPh) to be converted to BI+.
+2-122	That is, BIH acts as a two-electron donor with one-photon excitation of the photocatalyst via the ECE mechanism.[3f] Similar processes should also proceed in the Os(II)−Re(I) photocatalytic system, because the same catalyst unit (E1/2red(Re(F)) = −1.74 V) is employed, and the reduction potentials of the Os and Ru photosensitizer units are similar to each other (E1/2red([Ru(4dmb)3]2+) = −1.81 V, E1/2red(Os) = −1.76 V: Table 3).
+2-123	On the basis of the above-described investigation, the electron-donation process of BIH is illustrated in Scheme 2.
+2-124	BI• should donate one electron to the
+2-125	aOs−Re(Im) is an intermediate produced via the one-electron reduction of the catalyst unit and the subsequent process(es).
+2-126	photosensitizer unit or to the catalyst unit even in its ground state (reaction 1 in Scheme 2), and possibly to the intermediate(s), i.e., the OER species and/or Os−Re(Im), which should be produced after the one-electron reduction of the catalyst unit and the subsequent chemical reaction(s), such as CO2 addition (reactions 2 and 3 in Scheme 2).
+2-127	The substituent group of the phosphine ligands in the Re unit influenced photocatalysis.
+2-128	Os−Re(Cl) with the P(p-Cl- C6H 4)3 ligands exhibited a higher photocatalytic ability (ΦCO = 0.12, TON CO = 1138 (20 h irradiation), TOFCO = 3.3 min−1) compared with Os−Re(F) (ΦCO = 0.10, TONCO = 762 (20 h irradiation), TOFCO = 1.6 min−1; Table 2, Figure 9).
+2-129	Since efficiencies in the photochemical formation of the OER species of the photocatalysts (ηq) were very similar to each other (Table 2), the difference in photocatalytic abilities should
+2-130	Table 3.
+2-131	Electrochemical Properties of Os(II)−Re(I) Complexes and Their Mononuclear Model Complexes
+2-132	a
+2-133	Os−Re(F)
+2-134	Os−Re(Cl)
+2-135	Os
+2-136	Re(F)
+2-137	Re(Cl)
+2-138	1.07
+2-139	1.09
+2-140	1.06
+2-141	1.08
+2-142	0.30(69)
+2-143	0.30(69)
+2-144	0.28(69)
+2-145	−1.73(95)
+2-146	−
+2-147	−1.76(70)
+2-148	−1.74(69)
+2-149	−1.72(69)
+2-150	−1.95(84)
+2-151	−1.95(87)
+2-152	−1.95(73)
+2-153	−2.30(82) −2.18 −2.30(89) −2.17 −2.30(81)
+2-154	−2.27
+2-155	−2.24
+2-156	−1 under an Ar atmosphere.
+2-157	c
+2-158	1.72(101)
+2-159	c
+2-160	Measured in a DMF solution containing the complex (0.5 mM) and Et4NBF 4 (0.1 M) with a scan rate of 200 mV s
+2-161	bPeak potential of an irreversible wave. cTwo-electron wave.
+2-162	Inorganic Chemistry Article
+2-163	be caused by processes such as intramolecular electron transfer from the OER species of the Os unit to the Re unit.
+2-164	Figure 10
+2-165	shows the cyclic voltammograms of both complexes and model complexes.
+2-166	These first reduction waves were attributed to the ligand-based redox, i.e., N/\N/N/\N•− (N/\N: diimine ligand).
+2-167	The waves of the supramolecules can be simulated by the summation of those of the models, i.e., Os and Re(X).
+2-168	Both E1/2red of Re(Cl) (−1.72 V) and Re(F) (−1.74 V) were more positive as compared with that of Os (−1.76 V);[14] therefore, the intramolecular electron-transfer process from the OER species of the Os unit to the Re unit is exergonic in both cases.
+2-169	E1/2red of Re(Cl) was more positive than that of Re(F) by 20 mV, and this difference probably affected the localization of the inserted electron in the Os or Re unit of the OER species.
+2-170	In the case of Os−Re(Cl), the electron localization on the Re unit should be larger than that in the case of Os−Re(F), and this might be one of the reasons why Os−Re(Cl) worked as a more efficient photocatalyst.
+3-001	■
+3-002	General Procedures.
+3-003	UV−vis absorption spectra were measured with a JASCO V-670 or a Photal MCPD-9800 spectrophotometer.
+3-004	1H NMR spectra were measured in acetone-d6 using a JEOL AL400 (400 MHz) or AL300 (300 MHz) system.
+3-005	Residual protons of acetone-d6 were used as internal standards for the measurements.
+3-006	IR spectra were measured with a JASCO FT/IR-610 spectrometer in a dichloro- methane or acetonitrile solution.
+3-007	Electrospray ionization mass spectroscopy (ESI-MS) was performed using a Shimadzu LCMS-
+3-008	2010A system with acetonitrile as a mobile phase.
+3-009	Electrospray ionization time-of-flight mass spectroscopy (ESI-TOFMS) was undertaken with a Waters LCT Premier, with acetonitrile as a mobile phase.
+3-010	Emission spectra were measured at 25 °C with a JASCO FP-8600 spectrofluorometer.
+3-011	The emission quantum yields were evaluated by emission from [Ru(bpy)3\](PF6)2 (bpy = 2,2′-bipyridine) in degassed acetonitrile (Φem = 0.095).[15]
+3-012	Emission lifetimes were obtained using a HORIBA TemPro fluorescence lifetime system with emission monochromator.
+3-013	The excitation light source was a NanoLED-560 (559 nm, 1.5 ns).
+3-014	The samples were degassed by the freeze−pump−thaw method before emission measurements.
+3-015	Emission quenching experiments were performed using Ar-saturated solutions containing a complex and five different concentrations of BIH.
+3-016	The redox potentials of the complexes were measured in a DMF solution containing Et4NBF 4 (0.1 M) as a supporting electrolyte by cyclic voltammetric techniques using an ALS/CHI CHI-720Dx electro- chemical analyzer with a glassy-carbon disk working electrode (3 mm diameter), a Ag/AgNO3 (0.01 M) reference electrode, and a Pt counterelectrode.
+3-017	The supporting electrolyte was dried in a vacuum at 100 °C for 1 day prior to use.
+3-018	The scan rate was 200 mV s−1.
+3-019	Photocatalytic Reactions.
+3-020	Photocatalytic reactions were con- ducted using a DMF−TEOA (5:1 v/v) solution containing the photocatalyst, i.e., Os−Re(X) (X = F, Cl, 0.05 mM) or a mixture of Os (0.05 mM) and Re(X) (X = F, Cl, 0.05 mM), and BIH (0.1 M), which was purged with CO2 for 20 min before irradiation.
+3-021	For determining Φ, a 4 mL solution in an 11 mL quartz cubic cell (light pass length: 1 cm) was irradiated using 650 nm monochromatic light obtained using a 500-W Xenon short-arc lamp (Ushio UXL-500D-O) combined with a 5-cm-long water filter and a band-pass filter (fwhm = 10 nm).
+3-022	During irradiation, the temperature of the solutions was maintained at 25 °C using an IWAKI constant-temperature system CTS-134A. In situ measurements of UV−vis absorption spectra were conducted using a Photal MCPD-9800 spectrophotometer during irradiation to determine the absorbed photon number.
+3-023	The incident light intensity at 650 nm was determined using 480 nm light (4.3 × −8 einstein s−1), which was determined using a K Fe(C O )
+3-024	10 3 2 4 3
+3-025	chemical actinometer,[16] as a standard because it does not absorb 650 nm light.
+3-026	The light intensity ratio between 650 and 480 nm was determined using a Photal MCPD-9800 photodiode array spectrom- eter calibrated for wavelength-dependent sensitivity.
+3-027	For determining TON, a 2-mL solution in an 11 mL Pyrex glass tube (i.d. = 8 mm) was irradiated with light at λ > 620 nm using a merry-go-round irradiation apparatus with a halogen lamp and a Rhodamine B (0.2% w/v, d = 1 cm) solution filter.[17]
+3-028	During irradiation, the temperature of the solutions was maintained at 20 °C using a constant temperature system EYELA CTP-1000.
+3-029	For determining TOF, a 4-mL solution in an 11 mL quartz cubic cell (light pass length: 1 cm) was irradiated with light at λ > 420 nm using a Xenon lamp with a 5-cm-long water filter and a cutoff filter (λ > 420 nm).
+3-030	The gaseous reaction products (CO and H2) were analyzed using GC−TCD (GL Science GC323).
+3-031	HCOOH was analyzed using a capillary electrophoresis system (Otsuka Electronics Co.
+3-032	CAPI-3300I).
+3-033	As pretreatment for HCOOH quantification, the photocatalytic reaction solution was diluted 10 times with H 2O. Since DMF is hydrolyzed to HCOOH in the presence of a base,[18] the photocatalytic reaction solution without irradiation and saturated with CO2, which suppresses the hydrolysis of DMF by acting as an acid, was employed as a reference.
+3-034	Before and after the quantification of HCOOH, the reference solution was also measured, and its value was subtracted from the quantified HCOOH.
+3-035	HPLC analyses for BIH and BI+ were conducted using a JASCO 880-PU pump, a Develosil ODS-UG-5 column (250 × 4.6 mm), a JASCO 880−51 degasser, and a JASCO UV-2070 detector.
+3-036	The column temperature was maintained at 30 °C using a JASCO 860-CO oven.
+3-037	The mobile phase was a 6:4 (v/v) mixture of acetonitrile and a NaOH−KH2PO4 buffer solution (0.05 M, pH 7) with a flow rate of 0.5 mL min−1.
+3-038	The retention times were 38.0 min (BIH) and 6.7 min (BI+).
+3-039	Labeling Experiments Using 13 CO2 .
+3-040	The experiments with 13CO2 were performed in a DMF-d7 solution containing TEOA (1.25 M), Os−Re(F) (1.0 mM), and BIH (0.1 M).
+3-041	The tube was deaerated using the freeze−pump−thaw method, and then 13CO2 (625 Torr) was introduced into it.
+3-042	The 13C NMR spectra were measured with a JEOL AL300 (75 MHz) system before and after 23 h of irradiation with a halogen lamp at λ > 620 nm and the rhodamine B solution filter.
+3-043	The 13C peaks from DMF-d7 were used as an internal standard for these experiments.
+3-044	The integration of the peaks using the NOE complete 1H-decoupling method (EXMOD, nne; pulse delay, 400 s) was used for determining the H 13CO3− concentration, and the carbon of N(CH2CH2OH)3 (TEOA) was used as an internal standard.
+3-045	In Situ IR Spectral Measurements during Irradiation.
+3-046	A CO2-saturated DMF−TEOA (5:1 v/v) solution containing the photo- catalyst (0.8 mM) and BIH (0.1 M) was irradiated using a compact 300 W Xenon light source MAX-302 (Asahi Spectra Co.) with a 600 nm (fwhm =10 nm) band-pass filter (Asahi Spectra Co.).
+3-047	The IR spectra were measured with a JASCO FT/IR-610 spectrometer using an MCT detector.
+3-048	The solution temperature was controlled at 25 °C using a UNISOKU CoolSpeK IR USP-203IR-A during irradiation.
+3-049	Electrochemical Spectroscopy.
+3-050	A UV−vis OTTLE cell (light pass length: 1.0 mm) equipped with a Pt-mesh working electrode, a Ag/AgNO3 (0.01 M) reference electrode, and a Pt counterelectrode was employed for the UV−vis spectroelectrochemical experiments.
+3-051	UV−vis spectral changes were measured using a JASCO V-670 spectrometer.
+3-052	The controlled potential electrolysis experiments were conducted in a DMF solution containing Et4NBF4 (0.1 M) as a supporting electrolyte using an ALS/CHI CHI-720Dx electrochemical analyzer.
+3-053	Materials.
+3-054	DMF was dried over 4A molecular sieves and distilled under reduced pressure (10−20 Torr).
+3-055	TEOA was distilled under reduced pressure (<1 Torr).
+3-056	They were kept under Ar prior to use.
+3-057	All other reagents were reagent-grade quality and were used without further purification.
+3-058	Synthesis. 1,2-Bis(4′-methyl-[2,2′-bipyridin]-4-yl)ethane (bpyC 2bpy),[19] mer-[Re(CO)3Cl{P(p−F-C 6H4)3}2],[3d] Re(F),[11a] Re- (Cl),[11a] BIH,[13,20] and [BI+\](PF6−)[3f] were prepared according to the methods reported in the literature.
+3-059	mer-[Re(CO) 3Br{P(p-Cl-C6H4)3}2] was synthesized using a method similar to the synthesis of mer-[Re(CO)3Cl{P(p-F-C6H4)3}2] except for the use of P(p-Cl-C6H4)3 instead of P(p-F- C6H4)3.
+3-060	Yield: 98%.
+3-061	FT-IR (in dichloromethane), νCO/cm−1: 2058, 1958,1914.
+3-062	Os(5dmb) 2Cl2.
+3-063	A DMF solution (10 mL) of (NH4)2[OsCl6] (200 mg, 0.456 mmol) and 5,5′-dimethyl-2,2′-bipyridine (171 mg, 0.926 mmol) was refluxed under an Ar atmosphere for 3 h.
+3-064	After cooling to room temperature, the solution was added to an aqueous solution (30 mL) containing Na2S 2O4 (3.4 g) and then kept in a refrigerator for 15 h.
+3-065	The dark precipitate was collected by vacuum filtration, washed with water and diethyl ether, and used in the following reactions without further purification.
+3-066	Yield: 232 mg (81%).
+3-067	[Os(5dmb)2(4dmb)\](PF6)2 (Os).
+3-068	A mixed solution of ethanol−H2O (14 mL, 5:2 v/v) containing Os(5dmb)2Cl2 (50.2 mg, 0.0797 mmol) and 4,4′-dimethyl-2,2′-bipyridine (20.2 mg, 0.110 mmol) was refluxed for 3 h.
+3-069	The addition of an NH4PF6-saturated aqueous solution caused the precipitation of green-black solids.
+3-070	After being kept in a refrigerator for 15 h, the precipitate was collected by vacuum filtration.
+3-071	The product was isolated by column chromatography with basic alumina and dichloromethane−acetonitrile (0−20%).
+3-072	Yield: 29.8 mg (36%).
+3-073	1H NMR (400 MHz, acetone-d6), δ/ppm: 8.58−8.62 (m, 6H, 4dmb-3,3′, 5dmb-3,3′), 7.80 (d, J = 8.4 Hz, 4H, 5dmb-4,4′),7.69−7.71 (m, 6H, 4dmb-6,6′, 5dmb-6,6′), 7.30 (d, J = 6.8 Hz, 2H, 4dmb-5,5′),2.63 (s, 6H, 4dmb-CH3),2.20−2.21 (m, 12H, 5dmb-CH3).
+3-074	ESI-MS (in acetonitrile), m/z: 371 ([M − 2PF6−]2+).
+3-075	Anal. Calcd for C36H36F12N6OsP2: C, 41.86; H, 3.51; N, 8.14.
+3-076	Found: C, 41.78; H, 3.58; N, 8.02.
+3-077	[(5dmb) 2Os(bpyC2bpy)\](PF 6)2.
+3-078	Os(5dmb) 2Cl2 (173 mg, 0.275 mmol) was added to an ethanol−H2O (100 mL, 4:1 v/v) solution containing bpyC2bpy (400 mg, 1.09 mmol) and refluxed for 13.5 h.
+3-079	After ethanol was evaporated, residual bpyC2bpy was removed with
+3-080	filtration.
+3-081	The product was purified using ion-exchange column chromatography (absorbent, SP Sephadex C-25; eluent, acetonitrile−H2O (1:1 v/v) containing NH4PF6), and a green-black powder was obtained.
+3-082	Yield: 203 mg (61%).
+3-083	1H NMR (400 MHz, acetone-d6) δ/ppm: 8.73 (s, 1H, α-py-3), 8.56−8.59 (m, 5H, γ-py-6, 5dmb-3,3′),8.49 (d, J = 4.8 Hz, 1H, δ-py-6), 8.41 (d, J = 5.2 Hz, 1H, α-py-6), 8.31 (s, 1H, β-py-3), 8.29 (s, 1H, γ-py-3), 7.77−7.79 (m, 4H, 5dmb-4,4′),7.74 (d, J = 6.0 Hz, 1H, β-py-6), 7.68−7.70 (m, 4H, 5dmb-6,6′), 7.62 (s, 1H, δ-py-3), 7.38 (d, J = 6.0 Hz, 1H, α-py-5), 7.29 (d, J = 4.8 Hz, 1H, β-py-5), 7.22−7.24 (m, 2H, γ-py-5, δ-py-5), 3.16−3.35 (m, 4H, −CH2CH2−), 2.60 (s, 3H, β-py-CH3), 2.43 (s, 3H, δ-py-CH3),2.15− 2.19 (m, 12H, 5dmb-CH3).
+3-084	ESI-MS (in acetonitrile) m/z: 309 ([M − 2PF6− + H+] 3+), 463 ([M − 2PF6−]2+).
+3-085	[(5dmb)2Os(bpyC2bpy)Re(CO)2{P(p−F-C6H4)3}2\](PF6)3 (Os−Re(F)).
+3-086	A THF solution (10 mL) of mer-[Re(CO)3Cl{P(p-F-C6H4)3}2] (39 mg, 0.041 mmol) and AgOTf (11 mg, 0.045 mmol) was refluxed for 3.5 h under an Ar atmosphere.
+3-087	After cooling to room temperature, the white precipitate (AgCl) was removed by filtration by passing through Celite, and the solvent was evaporated.
+3-088	An ethanol solution (50 mL) of the residue and [(5dmb) 2Os(bpyC2bpy)\](PF6)2 (43 mg, 0.035 mmol) was refluxed for 6 h.
+3-089	After the solvent was evaporated, the residue was reprecipitated from acetone/H2O-containing NH4PF6.
+3-090	The product was isolated by column chromatography (basic alumina, eluent: dichloromethane−acetonitrile) and recrystallized from ace- tone/ether to produce a green-black powder.
+3-091	Yield: 28 mg (36%).
+3-092	1H NMR (400 MHz, acetone-d6) δ/ppm: 8.65 (s, 1H, α-py-3), 8.47−8.51 (m, 5H, β-py-3, 5dmb-3,3′), 8.26 (s, 1H, γ-py-3), 8.16 (s, 1H, δ-py-3), 7.86−7.89 (m, 2H, γ-py-6, δ-py-6), 7.59−7.70 (m, 10H, α-py-6, β-py-6, 5dmb-4,4′, 5dmb-6,6′), 7.33 (d, J = 5.8 Hz, 1H, α-py-5), 7.19−7.25 (m, 13H, β-py-5, P(p-F-C6H4)3-2),6.97−7.01 (m, 13H, γ-py-5, P(p-F- C6H4)3-1), 6.90 (d, J = 5.6 Hz, 1H, δ-py-5), 2.98−3.07 (m, 4H, −CH2CH2−), 2.54 (s, 3H, β-py-CH3), 2.34 (s, 3H, δ-py-CH3),2.07− 2.13 (m, 12H, 5dmb-CH3).
+3-093	ESI-MS (in acetonitrile), m/z: 600 ([M − 3PF6−]3+).
+3-094	FT-IR (in acetonitrile) νCO/cm−1: 1940, 1870.
+3-095	HRMS (ESI-TOF) m/z: [M − 3PF6−]3+ Calcd for C86H70F6N8O2OsP2Re: 599.8052.
+3-096	Found: 599.8043.
+3-097	[(5dmb)2Os(bpyC2bpy)Re(CO)2{P(p-Cl-C6H4)3}2\](PF6)3 (Os−Re(Cl)).
+3-098	A THF solution (10 mL) of mer-[Re(CO)3Br{P(p-Cl-C 6H4)3}2] (44 mg, 0.041 mmol) and AgOTf (11 mg, 0.045 mmol) was refluxed for 3 h under an Ar atmosphere.
+3-099	After cooling to room temperature, the white precipitate (AgCl) was removed by filtration by passing through Celite, and the solvent was evaporated.
+3-100	An ethanol solution (50 mL) of the residue and [(5dmb) 2Os(bpyC2bpy)\](PF6)2 (43 mg, 0.035 mmol) was heated at 70 °C for 17 h.
+3-101	The product was purified by column chromatography (basic alumina, eluent: dichloromethane−acetonitrile) and recrystallized from acetone−methanol/H2O-contain- ing NH4PF6 and from dichloromethane/ether.
+3-102	The product obtained was a green-black powder.
+3-103	Yield: 26 mg (32%).
+3-104	1H NMR (400 MHz, acetone-d6), δ/ppm: 8.76 (s, 1H, α-py-3), 8.58−8.61 (m, 5H, β-py-3, 5dmb-3,3′), 8.36 (s, 1H, γ-py-3), 8.26 (s, 1H, δ-py-3), 8.01 (d, J = 6.0 Hz, 1H, γ-py-6), 7.94 (d, J = 5.6 Hz, 1H, δ-py-6), 7.59−7.82 (m, 11H, α-py-5, α-py-6, β-py-6, 5dmb-4,4′, 5dmb-6,6′), 7.45 (d, J = 6.0 Hz, 1H, β-py-5), 7.28−7.38 (m, 24H, P(p−Cl-C6H4)3), 7.09 (d, J = 5.6 Hz, 1H, γ-py-5), 6.98 (d, J = 6.4 Hz, 1H, δ-py-5), 3.08−3.25 (m, 4H, −CH2CH2−), 2.65 (s, 3H, β-py-CH3), 2.50 (s, 3H, δ-py-CH3),2.18− 2.25 (m, 12H, 5dmb-CH3).
+3-105	ESI-MS (in acetonitrile), m/z: 633 ([M − 3PF6−]3+).
+3-106	FT-IR (in acetonitrile) νCO/cm−1: 1942, 1873.
+3-107	HRMS (ESI-TOF), m/z: [M − 3PF6−]3+ Calcd for C86H70Cl6N8O2OsP2Re: 633.0786.
+3-108	Found: 633.0741.
+3-109	Inorganic Chemistry Article
+4-001	We successfully developed red-light-driven supramolecular photocatalysts composed with an Os(II) tris-diimine complex as a photosensitizer and a Re(I) complex as a catalyst.
+4-002	Irradiation of the photocatalysts in the presence of BIH as a reductant using light at λ > 620 nm caused selective reduction of CO2 to CO.
+4-003	The phosphine ligands on the Re catalyst unit affected its photocatalytic abilities, and the photocatalyst with P(p-Cl-C 6H4)3 ligands exhibited better photocatalytic activity (ΦCO = 0.12, TONCO = 1138, TOFCO = 3.3 min−1) than that with P(p-F-C6H 4)3 ligands.
+4-004	The photocatalytic reactions proceeded via (1) light-absorption by the Os unit, (2) electron transfer from BIH to the excited Os unit, (3) intramolecular electron transfer from OER species of the Os unit to the Re unit, and (4) CO2 reduction on the Re unit giving CO and HCO3−.

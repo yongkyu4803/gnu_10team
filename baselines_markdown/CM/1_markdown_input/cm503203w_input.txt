@@ -1,0 +1,478 @@
+# document_id: cm503203w
+# extractor: kordoc-markdown-adapter-1
+1-001	π-conjugated electron-deficient molecular semiconductors are an important class of organic materials for next-generation optoelectronic applications.[1−5] When essential morphological and structural requirements are satisfied, the thin films of these materials can exhibit efficient electron-transport character- istics.[6−10] Thus, they can find application as n-channel semiconductors in organic field-effect transistors
+1-002	11−16
+1-003	area coverage, and, when solution-processable, low-cost/high- speed
+1-004	Furthermore, e
+1-005	is crucial to the function of complementary organic circuits which enables greater circuit speeds, lower power dissipation, and more stable device operation.
+1-006	relatively easier to purify and can yield more reproducible
+1-007	and
+1-008	thin-film deposition via printing processes.[27−30] fficient n-channel transport in organic materials
+1-009	31 From the material synthesis
+1-010	scale-up perspective, molecular semiconductors are
+1-011	1−5
+1-012	(B) device geometries.
+1-013	(C) Chemical structures of DFH-4T, DFH-6T, FTTTTF, and thiophene−thiazole oligomers DCF3-P(2,2′)Tz2P2, DCF3-
+1-014	P(5,5′)Tz2P2, and DCF3-TzTzT2P2.
+1-015	theoretical design and synthetic development of molecular semiconductors, which has been crucial not only to advance device performances but also to underscore the fundamentals of structure−property relationships and charge transport process.[32−34]
+1-016	Very recently, n-channel semiconductors have been finding applications in another type of optoelectronic device, the organic light-emitting transistors (OLETs).[35−40] In this device the switching function of an OFET and the light-emitting capabilities of an OLED are combined, possibly enabling the realization of display using a far more simple architecture.[41−43] OLETs can be fabricated using different structures, including a single semiconductor layer, a p-/n-bilayer, and, more recently, a p-/emissive/n-trilayer architecture (Figure 1B).[44−47] The advantage of the trilayer structure is that the hole/electron charge transport and light emission are physically decoupled and occur primarily in the p-/n-channel and emissive layers, respectively.
+1-017	In the first exploitation of this architecture, the n-channel layer was DFH-4T, while the p-channel and emissive layers were DH-4T and Alq3:DCM, respectively.
+1-018	Red-emissive OLET devices with considerable external quantum efficiencies (EQEs) of 5% were demonstrated.[44]
+1-019	In a recent study, a nonplanar electrode geometry was used in trilayer OLET devices in order to enhance the key parameters of quantum efficiency, brightness, switching, and mobility across the red, green, and blue colors range.[48]
+1-020	In these devices, PBTTT polymer was used as p-channel layer and DFH-4T was used as n-channel layer with various polymeric emissive layers, and
+1-021	EQEs of up to 1.9% were achieved.
+1-022	Due to the great promise of molecular n-channel semiconductors in trilayer OLET devices, realizing new molecular semiconductors with relatively high LUMO level and efficient electron transport characteristics is very important for the further development of device performances and full color ranges.
+1-023	Among the n-channel semiconductor classes studied to date, thiophene-based oligomers have by far attracted the greatest attention due to their chemical and electrochemical stability, synthetic accessibility, straightforward chemical modification, and remarkable device performances.[49,50]
+1-024	Although oligo- and polythiophenes were originally developed as p-type semi- conductors,[51−53] we demonstrated that electron transport is feasible after core functionalization with strong electron-withdrawing substituents.[54,55]
+1-025	In the early 2000s, DFH-4T, DFH-6T, and FTTTTF (Figure 1) were introduced as the first examples of n-channel oligothiophene semiconductors exhibit- ing electron mobilities (μe) of 0.02−0.4 cm2/(V·s).
+1-026	In these structures relatively π-electron-rich quaterthiophene (4T) and sexithiophene (6T) cores were functionalized with perfluor- oalkyl (−n-C6F13 ) and perfluoroarene (−C6 F4− and −C6F5 ) substituents.[56]
+1-027	Following these initial reports, over the past decade, several oligothiophenes have been functionalized with acyl (RCO−), perfluoroacyl (R FCO−), perfluorobenzoyl (Ph FCO−), and cyano (−CN) substitutents, and a few of these systems exhibit impressive device performances (μe ≥ 0.5 cm2/(V·s)).[57,58]
+1-028	For these structures the charge carrier polarity inversion from p- to n-type has been studied systematically, and
+1-029	it was found to be due the combination of reduced (stabilized) LUMO energy level, enhanced electron delocalization along the molecular π-system, efficient LUMO···LUMO intermolecular electronic coupling (bandwidth), proper molecular regiochem- istry, and suitable thin-film morphology/microstructure.[59]
+1-030	Recently, another approach for designing n-channel oligothio- phenes includes core functionalization with nitrogen-contain- ing, electron-poor five- and six-membered heterocycles such as thiazole, pyridine, pyridazine, and pyrimidine.[60]
+1-031	In these structures, electron-withdrawing imine/azo nitrogen(s) (CHN or NN) within the cyclo increases the electron-deficiency of these cores resulting in lower HOMO and LUMO energy levels compared to their corresponding π-isoelectronic ethenyl (CHCH) structures.[61,62]
+1-032	Among the resulting heterocycles, thiazole is an important five- membered analogue of thiophene where the “CH” group at the 3 position is replaced with “N”.[63−65] From a molecular design point of view, thiazole offers several key characteristics as a promising building block for n-channel semiconductors: (i) low LUMO energy level for enhanced electron injection/ stabilization/transport (ΔLUMO = 0.2−0.3 eV compared to thiophene),[66] (ii) large effective dipole moment (μexp = 1.61 D for thiazole vs 0.52 D for thiophene)[67,68] to facilitate molecular alignment/packing, (iii) nonbonded interactions (“N···S” and “N···HC”) to enhance structural planarity and intermolecular interactions,[62] and (iv) reduced steric congestion-induced π-backbone twisting by eliminating repulsive CH···HC interactions when linked to arene counits.[66,69,70]
+1-033	Despite the large potential of thiazole-based oligomers in a broad range of
+1-034	applications as efficient electron transporting materials, their development has lagged behind that of other π-conjugated classes, and up to date only a limited number of families have been studied.[71−74] Some examples of thiazole−thiophene semiconductors terminated with trifluoromethylphenyl groups (DCF3-P(2,2′)Tz2P2, DCF3-P(5,5′)Tz2P2, and DCF3 -TzTzT2P2) are shown in Figure 1.
+1-035	The limited number of thiazole-based semiconductors is mainly due to more challenging/less developed synthesis of (bi)thiazole-based building blocks.[75,76]
+1-036	Considering all the aforementioned properties we believe that continuous efforts to design and synthesize new thiazole-based n-channel semiconductors is very crucial to further expand their scope as n-channel semi- conductors and to better understand structure−property relationships.
+1-037	In this contribution, we demonstrate the molecular design, synthesis, characterization, and OTFT device performance of four new regioselectively linked thiazole−thiophene oligomers DFH-T-5,5′Tz2-T (1), DFH-T-2,2′Tz2-T (2), DFH-T-5,5′Tz4-T (3), and DFH-T-2,2′Tz4-T (4) (Figure 2).
+1-038	These oligomers are functionalized with strong electron-withdrawing perfluorohexyl (−n-C6 F13) substituents at α,ω-positions, and their nitrogen regiochemistry is controlled via 2,2′ and 5,5′ inter-ring linkages.
+1-039	Top-contact/bottom-gate OTFT devices fabricated via vapor deposition of these materials indicate that 1−4 are excellent n-channel semiconductors with electron mobilities of 0.1−1.3 cm2/(V·s).
+1-040	The highest mobility (μe = 1.3 cm2/(V·s)) is achieved for room-temperature deposited thin- films of compound 2.
+1-041	This result is remarkable considering the Scheme 2.
+1-042	Lithiation/Substitution Reactions of Thiazole (A) and Proposed Decomposition Pathways for Thiazole Derivatives 7
+1-043	and 16 (B)
+1-044	low deposition temperature and that previous studies reported that semiconductors based on the 2,2′-bithiazole regioisomer do not afford high-performance FETs.[71]
+1-045	Furthermore, com- pounds 3 and 4 are found to exhibit >100−1000× higher electron mobilities (∼0.2−0.7 cm2/(V·s)) compared to DFH-6T (μe = 10−3−0.02 cm 2/(V·s)), which has identical π-conjugation.
+1-046	All these results affirm the favorable effects of thiazole substitution in the π-conjugated backbones of electron-deficient semiconductors resulting in efficient electron trans- port characteristics.
+1-047	Finally, we demonstrate for the first time implementation of a thiazole semiconductor (2) into a light-emitting transistor based on a trilayer architecture (trilayer OLETs) enabling green light emission.
+1-048	These OLET devices exhibit appreciable unoptimized external quantum efficiencies (EQEs) of up to 0.15%.
+2-001	2.1.
+2-002	Semiconductor Synthesis.
+2-003	The synthetic routes to compounds 1−4 are shown in Scheme 1.
+2-004	The synthesis of 2,2′-dibromo-5,5′-bithiazole (8) starts with the substitution of the thiazole ring with a sterically demanding TIPS (triisopropylsil- yl) group, which protects the highly reactive 2-position against lithiation in the following oxidative coupling step.
+2-005	Compound 5 is obtained in 60% yield from 2-bromothiazole.
+2-006	Selective lithiation with n-BuLi and subsequent oxidative homocoupling of 5 at the 5-position with Fe(acac)3 affords 6 in 65% yield.
+2-007	Next, the TIPS protecting groups are removed via tetra-n- butylammonium fluoride (TBAF) treatment, and 5,5′-bithia- zole (7) is obtained in 89% yield.
+2-008	Since electrophilic bromination of 7 is found to be inefficient at the preferred 2-position due to its low reactivity, a lithiation/bromination protocol was carried out.
+2-009	Compound 7 is selectively lithiated at 2,2′ positions with n-BuLi to afford 5,5′-bithiazolyl-lithium salt, which is then trapped with Br2 to yield 8 in 17%.
+2-010	To the best of our knowledge, there are very limited literature reports on compound 8 with regard to its synthesis and application in organic π-conjugated systems.[77−79] Our synthesis is a novel approach for the preparation of this building block.
+2-011	On the other hand, 5,5′-dibromo-2,2′-bithiazole (11) is synthesized in accord with a standard literature procedure.[80,81]
+2-012	Thiazole is stannylated at the 2-position to give 9 in 65% yield, which was then coupled with 2-bromothiazole via Stille reaction using Pd(PPh3)4/toluene as the catalyst/solvent system.
+2-013	Compound 10 is obtained in 74% yield and then brominated with NBS to give 11 in 80% yield.
+2-014	The synthesis of monostannylated
+2-015	building blocks 15 and 17 starts with a Stille-type cross- coupling reaction between 2-trimethyltin-5-perfluorohexylth- iophene (12) and 2-bromothiazole and 5-bromothiazole, which yields 13 and 16, respectively, in 50−60%.
+2-016	Although 13 was first brominated and then stannylated to give 15 (60% total yield), compound 16 was directly stannylated to give 17 in 19% yield.
+2-017	Monostannylated product 17 is found to be highly unstable, and it is directly used for the next step without any further purification.
+2-018	Although the 2-lithium salt of a single thiazole unit is reasonably stable at −78 °C and undergoes substitution reactions to give 5 and 9 in 60−65% yields (Scheme 2A), poor yields (3)4/dimethylformamide as the catalyst/solvent system.
+2-019	The reaction yields were generally 20−50%, which are consistent with previous reports on Stille cross-coupling reactions of related thiazole derivatives.[71,72]
+2-020	It is noteworthy that during the synthesis of 1 and 2, compounds 3 and 4 are formed as by-products (∼4−5% yield) indicating that a small percentage of homocoupling occurs between bromo-substi- tuted thiazole building blocks.
+2-021	All intermediate compounds (5−
+2-022	17) were purified by column chromatography and/or recrystallization.
+2-023	Due to their limited solubilities in common organic solvents, final compounds 1−4 were purified by multiple gradient sublimations under vacuum (P < 10−5 Torr).
+2-024	The chemical structures of the intermediates and final compounds were confirmed by 1H NMR, 13C NMR, elemental analysis, and MALDI-TOF.
+2-025	2.2.
+2-026	Thermal, Optical, and Electrochemical Properties.
+2-027	The thermal properties of the thiazole−thiophene oligomers 1−4 were investigated by thermogravimetric analysis (TGA) and conventional melting point determinations.
+2-028	As shown in Figure 3, all of the compounds show impressive thermal stabilities with TGA weight loss onset (5%) temperatures of 270 °C (1),261 °C (2),370 °C (3), and 372 °C (4).
+2-029	All of the
+2-030	compounds exhibit almost complete evaporation with no nonvolatile residues.
+2-031	This smooth, clean, and quantitative evaporation behavior is doubtless due to the α,ω-perfluorohexyl substituents and indicates that these new compounds are suitable for vapor-phase TFT fabrication.
+2-032	Note that compounds 3 and 4 have significantly higher weight loss onset temperatures compared to 1 and 2, which is consistent with their larger π-conjugated core (higher molecular weights) and higher melting points (vide infra).
+2-033	We find that thiazole insertion has considerable influence on the melting temperatures of these systems versus the corresponding oligothiophenes.
+2-034	Thus, compounds 1−4 exhibit much higher melting temperatures (243−385 °C) than the corresponding thiophene anologues DFH-4T (213−214 °C) and DFH-6T (309−310 °C).[85]
+2-035	For each pair of compounds (1/DFH-4T, 2/DFH-4T, 3/DFH-6T, and 4/DFH-6T), considering the similar core sizes and small changes in molecular weights (only ∼2−4 amu), the melting point increases of ∼30−76 °C doubtless reflect enhanced intermolecular cohesions through dipole−dipole and π−π interactions, resulting in more effective solid-state pack- ings.[32−34] This is likely a combined result of larger local/molecular dipole moments, enhanced molecular donor− acceptor characteristics, and improved molecular planarity in the thiazole−thiophene oligomers as a result of thiazole unit
+2-036	62,66−70,84
+2-037	introduction.
+2-038	All these results are consistent with the aforementioned structural properties of the thiazole unit in π-conjugated systems.
+2-039	As might be expected, 3 and 4 are found to
+2-040	exhibit 120−140 °C higher melting temperatures compared to 1 and 2 as a result of increased molecular weight, extended effective π-conjugation, and higher number of thiazole units (four versus two).
+2-041	In addition, nitrogen-regiochemistry (2,2′ versus 5,5′) is found to have a substantial effect on the melting points of the smaller oligomers 1 and 2 (Δ ≈ 17 °C), while the difference in less pronounced in the larger oligomers 3 and 4 (Δ ≈ 5 °C).
+2-042	The optical absorption spectra of compounds 1−4 in tetrahydrofuran (THF) solutions (1 × 10−5 M) and as thin films are shown in Figure 4A,B, and data are collected in Table
+2-043	1.
+2-044	In THF, compounds 1−4 exhibit several absorption maxima corresponding to π−π* transitions of the thiophene−thiazole backbones, which are located at 382/393 nm (1), 388/395 nm
+2-045	glass substrates (dotted lines).
+2-046	Cyclic voltammograms (C) of molecules 1−4 in tetrahydrofuran (THF) and 0.1 M Bu4N+PF6− measured at scan
+2-047	rates of 100 mV/s.
+2-048	energy estimated from the following relationship: LUMO (eV) = −4.44 eV − eEredonset. dHOMO energy estimated from the following relationship: HOMO (eV) = LUMO − Eg. eComputed HOMO and LUMO energy levels as determined at the B3LYP/6-31G level. fAbsolute maximum indicated by asterisk. g From ref 37.
+2-049	TGA onset is calculated as the temperature where 5% of the material has sublimed at 10−2 Torr.
+2-050	energy band edge of the thin-film spectra as 2.59 eV for 1 and
+2-051	2, 2.32 eV for 3, and 2.34 eV for 4.
+2-052	As a result of extended
+2-053	conjugation along the thiophene−thiazole backbone, 3 and 4
+2-054	are found to have lower band gaps compared to 1 and 2 both in
+2-055	solution and thin-film states.
+2-056	On the other hand, nitrogen
+2-057	regiochemistry is found to have a minimal effect on the
+2-058	absorption properties of the current compounds.
+2-059	The electrochemical properties of the present molecules
+2-060	were characterized by cyclic voltammetry in solution.
+2-061	Cyclic
+2-062	voltammograms are shown in Figure 4C, and electrochemical
+2-063	data are summarized in Table 1.
+2-064	The ferrocene/ferrocenium
+2-065	couple was used as an internal standard, and all potentials are
+2-066	corrected vs SCE.
+2-067	Although the solubility of all molecules is
+2-068	very poor in common organic solvents, we observed clear
+2-069	irreversible/quasireversible reduction peaks at −1.05 to −1.45
+2-070	V (vs SCE).
+2-071	The onset reduction potentials are located at
+2-072	−1.18 V for 1, −1.20 V for 2, −1.05 V for 3, and −1.10 V for 4.
+2-073	These onsets were found to be ∼0.1−0.2 V more positive
+2-074	compared to those of the corresponding DFH-4T (−1.42 V)
+2-075	and DFH-6T (−1.21 V), which were remeasured with the same
+2-076	experimental setup for a direct comparison (Supporting
+2-077	levels and topographical representations of molecules 1−4.
+2-078	estimated to be −3.26 eV (1), −3.24 eV (2), −3.39 eV (3),
+2-079	and −3.34 eV (4).
+2-080	The observed anodic shifts in the reduction
+2-081	potentials and reduced LUMO energy levels of 1−4 compared −5.80/−2.99 eV for 3, and −5.81/−3.02 eV for 4.
+2-082	Both to those of DFH-4T and DFH-6T are consistent with the HOMO and LUMO are found to be entirely delocalized over molecular orbital calculations (vide infra), and it is attributed to the whole aromatic system, which is crucial for efficient charge the electron-deficiency of the thiazole unit.
+2-083	As expected, 3 and transport.
+2-084	While the HOMO has a more aromatic character, the 4 have lower LUMO energy levels compared to 1 and 2 as a LUMO pictorial representations reveal more quinoid character result of extended π-conjugation and two additional thiazole with a nodal plane on the carbon atom at the 3 position units.
+2-085	Similar to the optical properties, nitrogen regiochemistry adjacent to the perfluorohexyl chain.
+2-086	Both HOMO and LUMO did not impact the electrochemical characteristics of the current energy levels are stabilized compared to their full-thiophene compounds. anologue compounds (DFH-4T and DFH-6T) with a larger To evaluate the molecular geometries and establish magnitude in the former one (Supporting Information Figure correlations with the experimentally derived FMO energies, S1).
+2-087	This result also indicates a slight increase in HOMO− DFT calculations were carried out on 1−4 at the B3LYP/6- LUMO energy gaps, which is consistent with the UV−vis 31G level of theory (Figure 5).
+2-088	All of the computed absorption maxima (vide supra).
+2-089	The stabilization of the molecular structures exhibit highly planar π-conjugated cores molecular energy levels is attributed to the electron-deficiency with small inter-ring dihedral angles ranging from <1° to ∼6− of the thiazole unit compared to thiophene.[62]
+2-090	The larger 7°.
+2-091	These angles ensure an efficient π-orbital extension along decrease in HOMO energy levels compared to those of the whole molecular backbone, and they are comparable to LUMOs indicate, as expected, a more difficult oxidation process those observed for planar alkyl and perfluoroalkyl substituted upon nitrogen insertion at the thiophene 3 position, which is oligothiophenes.[85]
+2-092	The theoretical HOMO/LUMO energies consistent with a recent report.[71,72]
+2-093	The theoretical LUMO were found to be −5.94/−2.81 eV for 1, −5.98/−2.84 eV for 2, energies for compounds 1−4 (−2.81 to −3.02 eV) are in the
+2-094	range of those calculated for previously reported n-channel semiconductors (−2.5 to −4.3 eV),[1−5,32−34] indicating that, from a molecular orbital energetic perspective, the new thiazole−thiophene oligomers should be able to transport electrons but only in inert atmospheres.
+2-095	2.3.
+2-096	Thin-Film Transistor Device Characterization and Microstructures.
+2-097	OTFTs with top-contact/bottom-gate device structures were fabricated by vacuum deposition on PMMA (30 nm)/SiO2 (300 nm)/p+-Si substrates.
+2-098	All vapor phase depositions were carried out under high vacuum (D) of 25 or 70 °C. Semiconductor thin films (30 nm) were deposited at a growth rate of 0.1−0.2 Å/s.
+2-099	Finally, gold contacts were patterned by thermal evaporation using shadow masks to give channel lengths of 25−100 μm and widths of 500−2000 μm.
+2-100	FET properties were evaluated under positive gate bias in vacuum to explore the majority charge carrier type and device performance.
+2-101	OTFT measurements were performed in a vacuum in order to minimize the influence of O2 and H2O. All electron mobilities and threshold voltages are calculated in the saturation regime.
+2-102	OTFT data are summarized in Table 2, and representative transfer and output plots are shown in Figure 6 and Supporting
+2-103	aOTFTs are fabricated by vacuum deposition on PMMA(30 nm)/SiO 2(300 nm)/p+2-Si substrates and measured in a vacuum probe station (P < 10−5 Torr). bThe mobility values, threshold voltages, and current on/off ratios given are the average values for 10 devices with the standard deviations less than 5%.
+2-104	Information Figure S2.
+2-105	OTFTs fabricated with compounds 1−4 exhibit n-channel behavior with electron mobilities and Ion/Ioff ratios of 0.20−0.30 cm2/(V·s) and 105−106 (1),0.35−1.30 cm2/(V·s) and 106−107 (2),0.3−0.7 cm2/(V·s) and 105−106
+2-106	Remarkably, thin-films of 2 show the highest mobilities of 1.30 cm2/(V·s) when deposited at room temperature.
+2-107	To the best of our knowledge, 2 is one of the few n-channel semiconductors for which room temperature deposited films
+2-108	can show electron mobilities of >1 cm2/(V·s).
+2-109	This is also rather surprising since 2 includes a 2,2′-bithiazole unit, which was thought to be an inappropriate building block for high performance TFTs considering a relatively poor planarizing effect and its ability to chelate metal ion impurities.[89,90]
+2-110	This electron mobility is 4−5 times higher than that of perfluoroalkyl-functionalized oligothiophene semiconductor DFH-4T, when measured in a similar device structure (μe = 0.25 cm2/(V·s), Ion/Ioff = 105−106, Vth = +53 V) (Supporting Information Figure S3).
+2-111	Previously, a high electron mobility of 1.83 cm2/(V·s) was reported with room-temperature deposited thin-films of a thiophene−thiazole oligomer DCF 3-P- (5,5′)Tz2P2 (Figure 1), which includes a structurally more favorable 5,5′-bithiazole unit.[71]
+2-112	Interestingly for larger oligomers 3 and 4, a ∼2.5× mobility increase was observed on going from deposition temperatures of 25 to 70 °C (μe = 0.30 cm2/(V·s) → 0.70 cm2/(V·s) for 3 and μe = 0.20 cm2/(V·s) → 0.50 cm2/(V·s) for 4).
+2-113	This result is consistent with the observed slight increases in average grain sizes for the thin-films of 3 and 4 at higher deposition temperatures.
+2-114	It also indicates that higher temperatures are required to achieve improved molecular arrangement and packing for larger oligomers since they have higher melting temperatures compared to 1 and 2.
+2-115	For all semiconductors, the threshold voltages are found to be large (∼+35 to ∼+60 V), indicating that a certain fraction of the induced electrons occupies deep trap states.[54,55]
+2-116	This result is not surprising considering the relatively high LUMO energy levels of the present semiconductors (−3.2 eV to −3.4 eV), which is known to correlate with larger threshold vol- tages.[71,72,85]
+2-117	Additionally, bidirectional transfer plots of 2 reveal small, comparable hysteresis for both room temperature and high temperature (70 °C) deposited OFETs (Supporting Information Figure S6), indicating a low level of charge trap densities.
+2-118	The electron mobilities measured for compounds 3 and 4 (0.2−0.7 cm2/(V·s)) with six conjugated aromatic units are >100−1000× larger than the electron mobilities (0.001−0.021 cm2/(V·s)) measured previously for DFH-6T. Consid- ering their identical core size, the significant improvements in charge-transport characteristics reflect the favorable changes in electronic and structural properties of these semiconductor thin films upon thiazole insertion.
+2-119	These observations are consistent with the observed melting point increases (Δ = 71−76 °C) indicating that intermolecular cohesions become stronger through dipole−dipole and π−π interactions in the solid state of thiazole−thiophene oligomers.
+2-120	As expected, these devices do not function in ambient conditions since their LUMO energy levels are incompatible for air-stable electron transport.
+2-121	However, high LUMO energy is essential for enabling light emission for OLET applications (vide infra).
+2-122	AFM images (5.0 μm × 5.0 μm scan area) and XRD spectra of thin-films of semiconductors 1−4 were recorded to gain further insights into their thin-film morphologies and micro- structures.
+2-123	As shown in Figure 7, thin films of 1 and 2 deposited at room temperature exhibit large plate-like (∼0.1−1.5 μm sizes) and rod-like (∼1−2.5 μm) grains, respectively.
+2-124	Specifically, grains in thin-films of 2 show preferred growth direction on a locale scale forming nanoscale and microscale rods.
+2-125	Both 1 and 2 thin-films exhibit terraced islands with average step heights of ∼2.7−2.9 nm (Supporting Information Figure S4), which correspond to the computationally estimated molecular lengths (Supporting Information Figure S1B, ∼2.7 nm for a 45° alkyl chain tilt angle).
+2-126	On the other hand, larger oligomers 3 and 4 deposited at room temperature exhibited
+2-127	−4 vapor-deposited at room temperature (1 (A), 2 (C), 3 (E), 4 (G))
+2-128	and 70 °C (1 (B), 2 (D), 3 (F), 4 (H)) on PMMA (30 nm)/SiO2 (300 nm)/p+-Si substrates.
+2-129	See the Supporting Information for vertical scale bar.
+2-130	totally different film morphologies with uniform and interconnected isotropic spherulites, which are ∼200−400 nm
+2-131	in diameter.
+2-132	For both semiconductors 3 and 4, the grain size increases with increasing the film growth temperature from 25
+2-133	to 70 °C, which is consistent with the observed mobility increase (μe = 0.30 cm2/(V·s) → 0.70 cm2 /(V·s) for 3 and μe =
+2-134	0.20 cm2/(V·s) → 0.50 cm2/(V·s) for 4).
+2-135	Among all semiconductors, the largest grains are observed with semi- conductor 2 grown at room temperature, which is consistent with the fact that the highest mobility is observed for these particular transistors.
+2-136	On the other hand, as shown in Figure
+2-137	7D, thin films of semiconductor 2 yield much smaller rod-like grains when deposited at 70 °C. This sharp change in thin-film morphology of 2 upon increasing the deposition temperature can be ascribed to the high volatility of 2 among the current semiconductors (vide supra).
+2-138	The physical vapor deposition technique relies on the dynamic processes of physisorbtion/desorption-nucleation/crystal growth of semiconductor mole- cules on the surface of a substrate under high vacuum conditions, and the material volatility plays a key role in determining the grain size.
+2-139	indicated together with the Fermi level of the gold contacts.
+2-140	(B) Schematic representation of the trilayer OLET device (OLET-a) where the bottom
+2-141	layer and the top layer are thin-films of DH-4T and semiconductor (OLET-b) where the semiconductor layers configuration is reversed.
+2-142	2, respectively.
+2-143	(C) Schematic representation of the trilayer OLET device
+2-144	(nW) for Trilayer OLETs Based on Fluorocarbon-Functionalized Semiconductors DFH-4T and Thiophene−Thiazole
+2-145	Semiconductor 2a
+2-146	b
+2-147	OLET trilayer architecture
+2-148	μh [cm[2]/(V·s)]
+2-149	μe [cm[2]/(V·s)]
+2-150	Vth(h) [V]
+2-151	Vth(e) [V]
+2-152	EQE [%]
+2-153	max. opt. power [nW]
+2-154	OLETs are fabricated by vacuum-deposition on PMMA (450 nm)/ITO (150 nm)/glass substrates and measured in a vacuum probe station (P <
+2-155	5 b
+2-156	10− Torr).
+2-157	OLETs electroluminescence characterizations have been carried out with a calibrated photodiode placed in contact with the glass
+2-158	substrate.
+2-159	As shown in Supporting Information Figure S5, all films exhibit second and higher order reflections for out-of-plane XRD scans.
+2-160	The peaks were broad and have low intensities; however, they still indicate that the present semiconductors form somewhat ordered microstructures with a single preferred orientation.
+2-161	The absence of first order reflections is consistent with previously reported thin-film XRD spectra of several thiophene and thiophene−thiazole oligomers, resulting from their crystal structure belonging to the C2/c space group, which does not allow first-order reflections.[56,71−74] The d-spacings obtained from the second order reflection peaks are 2.62 nm for 1, 2.67 nm for 2, 3.21 nm for 3, and 3.27 nm for 4, which for 1 and 2 are consistent with the terrace heights measured by AFM images (vide supra).
+2-162	Since the molecular lengths obtained from the optimized geometries are ∼2.7 nm for 1 and 2 and ∼3.4 nm for 3 and 4, the present semiconductors have molecular orientations on the dielectric surface which are almost perpendicular (for 1 and 2) or only slightly tilted (∼19° versus the surface normal for 3 and 4).
+2-163	The preferential edge- on molecular orientations relative to the substrate and highly interconnected grain based morphology for all semiconductors ensures an efficient electron transport in the plane of the film benefiting from efficient π−π stacking.
+2-164	Note, the broad peaks observed for all of the films centered at 21° are assigned to be a reflection coming from the underneath PMMA layer, which is confirmed by the θ−2θ scan of PMMA/SiO2 substrates (Supporting Information Figure S5E).
+2-165	2.4.
+2-166	Trilayer Light-Emitting Transistor Device Charac- terization.
+2-167	The relatively high LUMO energy level (−3.2 eV) of semiconductor 2, coupled with the high electron mobility (1.3 cm2/(V·s)), makes it a good candidate for heterostructure OLETs.[44]
+2-168	As the preliminary study, single-layer OFETs based on 2 are fabricated on glass/ITO/PMMA substrates (Au contacts), which is the gate-dielectric platform for trilayer OLET devices, to understand its charge transport behavior on only PMMA dielectric.
+2-169	Semiconductor 2 exhibits very high electron mobility of 1.3 cm2/(V·s) on PMMA (Supporting
+2-170	Information Figure S7), which is 2−3 times larger than that of DFH-4T (μe = 0.5 cm2/(V·s)) on the same substrate.[44]
+2-171	The trilayer heterostructure OLETs (Figure 8, OLET-a and OLET-b) used in this study are fabricated by vacuum- depositing the active organic layers (semiconductor (p- channel)/emissive/semiconductor (n-channel)) and gold con- tacts on a transparent substrate, composed of 450 nm of PMMA spin-coated on glass/indium tin oxide (ITO, 150 nm).
+2-172	The active region consists of three organic layers, i.e., top and bottom semiconductor layers which transport different types of charge carriers (electrons and holes) and a middle light-emitting layer where the charge recombination and light emission occur.
+2-173	In this study, DH4T and tris(8-hydroxyquino- line) aluminum (Alq3) are used as the p-channel semi- conductor layer and the emitting layer, respectively, since their molecular energy levels are compatible with 2.
+2-174	In the first type of OLET configuration (Figure 8B, OLET-a), the first, in contact with PMMA dielectric, and the third layers are p-channel (DH-4T, 15 nm) and n-channel (2, 30 nm) semiconductors, respectively, whereas the middle layer is Alq3 (15 nm).
+2-175	In the second type of OLET (Figure 8C, OLET-b), the active region layer configuration is reversed.
+2-176	In both types of device configurations gold contacts (70 nm, source-drain) are deposited on top of the organic stack to form channels with length and width of 70 μm and 12 mm, respectively.
+2-177	The operation principle of a trilayer OLET relies on the vertical charge diffusion process, which includes first the percolation of electrons and holes from the semiconductor layers to the emissive layer and then the confinement of charge carriers in the emissive layer to enable an efficient recombination/light-emission.
+2-178	Therefore, it is very crucial to have compatible molecular energetics for these three layers.
+2-179	As shown in Figure 8A, the LUMO level of semiconductor 2 (−3.2 eV) matches well with the LUMO level of Alq3 with no charge injection barrier.
+2-180	Additionally, the low HOMO level (−6.0 eV) of 2 compared to that of Alq3 (−5.8 eV) creates an intrinsic hole-blocking barrier to prevent any undesired hole transport
+2-181	configuration of OLET-a (glass/ITO/PMMA/DH4T/Alq3/2).
+2-182	Transfer (C) and output (D) plots for OLET devices fabricated in the device
+2-183	configuration of OLET-b (glass/ITO/PMMA/2/Alq3/DH4T).
+2-184	During the n- and p-polarization the electroluminescence output power (blue) is
+2-185	also collected.
+2-186	(E) Optical image of the green emission zone within the OLET device channel.
+2-187	The scale bar denotes 1 mm.
+2-188	(F) Electroluminescence
+2-189	(EL) spectrum of OLET based on OLET-a device structure (black line) compared to the photoluminescence (PL) spectrum of Alq 3 (red line).
+2-190	from the emissive layer to the semiconductor.
+2-191	In a similar way, the p-channel layer (DH-4T) also has a well-matched HOMO level (−5.8 eV) to enable hole injection and a high LUMO level (−2.9 eV) to prevent any undesired electron flow.
+2-192	The OLET optoelectronic characterization data are summarized in Table 3, and representative transfer and output plots along with electroluminescence optical powers (blue lines) corresponding to light-emission are shown in Figure 9.
+2-193	In both device configurations, the bias conditions are selected to achieve charge accumulation and transport in the semi- conductor layer in contact with the dielectric (negative bias for OLET-a and positive bias for OLET-b), which corresponds
+2-194	to the maximum light emission intensity.
+2-195	The optical image of the device channel showing the green light-emitting region is shown in Figure 9E. The OLET electroluminescence spectra is compared with the photoluminescence spectra of the emissive material, Alq 3, in order to understand the origin of light emission.
+2-196	As shown in Figure 9F, the central OLET emission peak is positioned at about 530 nm, which completely corresponds to the Alq3 emission.
+2-197	This shows that the excitons are only formed in the emissive Alq3 layer, indicating favorable charge carrier percolation from the semiconductors to the emissive layer.
+2-198	The emitted optical powers are found to be comparable in both device configurations (241 nW for OLET-a and 342 nW for OLET-b).
+2-199	A difference in the electron mobility and threshold voltage of 2 is observed when it is deposited directly on the PMMA dielectric (OLET-b, μe = 0.23 cm2/(V·s); Vth = +24.9 V) versus on PMMA/DH-4T/Alq3 (OLET-a, μe = 0.01 cm2/(V·s); Vth = +48.4 V).
+2-200	This difference becomes more significant for the p-channel semiconductor DH-4T (μh = 0.04 cm2/(V·s) on PMMA vs μh = 2.4 × 10−5 cm2/(V·s) on Alq3).
+2-201	These observations are consistent with our previous results on the DFH-4T/Alq3:DCM/DH-4T trilayer system,[44] and it can be ascribed to different surface roughnesses and morphologies of the underneath films (PMMA vs Alq3), which strongly affects the transport properties of the top semiconductor layer.
+2-202	Devices with the OLET-a configuration exhibit typical ambipolar characteristics with well-balanced p- and n-channel mobilities, clearly visible “V” shaped transfer plot, and nonlinear increases of ISD at high VSD in the output curves.
+2-203	However, it is noteworthy that the differences of gate threshold voltages between the p-channel (Vth = −29.5 V) and the n-channel (Vth = +48.4 V) transport layers are such that the overall ambipolar electrical behavior is still not perfectly balanced.
+2-204	The marked ambipolar behavior of devices with the OLET-a configuration leads to steeper electroluminescence increases at lower biases in the output curves compared to the OLET-b configuration.
+2-205	This indicates that, although threshold voltages in OLET-b are lower than those of OLET-a, the electroluminescence behavior is mainly dominated by the electrical current of the top transport layer.
+2-206	As expected, the external quantum efficiency (EQE) of the OLET devices with the OLET-a configuration (EQE = 0.15%) is higher than that of devices with the OLET-b configuration (EQE = 0.03%).
+2-207	Note that for all devices EQEs are calculated from the ratio between the total emitted photons and the flowing charges (OLET drain current) without any device-geometry corrections to avoid any risks of over- estimating the EQE.
+2-208	Our results are also consistent with the previous trilayer OLET device configurations, where well-balanced ambipolarity leads to higher EQE devices.
+2-209	Addition- ally, bidirectional transfer plots reveal small, comparable hysteresis for both OLET device configurations (Figure 9A,C), indicating minimal density of charge traps.
+2-210	In general, charge traps in multilayered organic semiconductor devices may originate from energetic mismatch between different materials at the interface.
+2-211	Considering that the semiconductors in this study are optimized with respect to their molecular energy levels, we believe that the present charge traps are more likely to originate at the polymer dielectric−semiconductor interface.
+2-212	We also fabricated trilayer OLETs in the OLET-a configuration by using DFH-4T as the top n-channel layer instead of 2.
+2-213	These devices showed somewhat better EQEs of up to 0.3% with maximum optical power of 838 nW, which is probably due to enhanced charge transport characteristics of this stack (μh = 0.19 cm2/(V·s); μe = 0.07 cm2/(V·s)) with respect to DH-4T/Alq3/2.
+2-214	Although this initial OLET performance of the new thiazole−thiophene semiconductor 2 is somewhat lower than that of DFH-4T, it should be noted that our devices have not yet been optimized in terms of device architecture, fabrication condition, and p-channel/emissive material structures to maximize light outcoupling.
+2-215	Previously, through extensive device optimizations, we showed that the EQEs of DFH-4T- based trilayer OLETs can increase up to ∼5%.
+2-216	Nevertheless, our results show the compatibility of semiconductor 2 with the
+2-217	trilayer OLET configuration and demonstrate its great potential in the integrated photonic field-effect technologies.
+3-001	In summary, a series of new regioselectively synthesized thiazole−thiophene co-oligomers, 1−4, has been designed, synthesized, and fully characterized.
+3-002	These new co-oligomers are end-functionalized with electron-withdrawing perfluorohex- yl chains to induce efficient electron-transport characteristics.
+3-003	The effects of thiazole unit insertion and nitrogen-regiochem- istry (2,2′ versus 5,5′) on the physicochemical and optoelec- tronic properties of the current materials are studied.
+3-004	Thiazole units are found to enhance intermolecular cohesions through dipole−dipole and π−π interactions, which results in more effective solid-state packings and substantially higher melting points compared to thiophene analogues.
+3-005	The OTFT devices of the current thiazole−thiophene co-oligomers (1−4) exhibit excellent n-channel transport with carrier mobilities (μe) of 0.2−1.3 cm2/(V·s) and Ion/Ioff of 105−107.
+3-006	Among the current semiconductors, room temperature deposited thin films of 2 yield very large unoptimized μe of 1.30 cm2/(V·s) with Ion/Ioff of 106−107 , which is one of the highest reported for a room temperature deposited film in the literature.
+3-007	The impressive results obtained for semiconductor 2 indicate that 2,2′-bithiazole can be a very practical building block for high-performance n-channel semiconductors, which is in sharp contrast to the previous reports in the literature.
+3-008	Additionally, we also show that significant charge transport improvements (Δμe > 100−1000×) occur upon thiazole insertion into a sexithiophene backbone (3 and 4 versus DFH-6T).
+3-009	Analysis of the thin-film morphological and microstructural characteristics indicate preferential edge-on molecular orientations relative to the substrate and highly interconnected grain based morphol- ogies for all semiconductors, which ensures an efficient electron transport in the plane of the film benefiting from π−π stacking.
+3-010	The results presented here suggest that the thiazole unit is a very promising building block for molecular n-channel semiconductors, and it can significantly enhance the electron transport characteristics of molecular semiconductors.
+3-011	We have shown trilayer OLET devices successfully fabricated with semiconductor 2.
+3-012	This compound demonstrated high compat- ibility with the trilayer OLET approach, by showing good electron mobility also when used as the top layer of the organic heterostructure.
+3-013	This opens the perspective of a potential use of semiconductor 2 in future optoelectronic applications.
+3-014	We believe that further design/synthesis studies on thiazole-based n-channel semiconductors must be pursued to enhance the current OTFT device performances, and also to realize high performance via solution processing in air.
+4-001	All reagents were purchased from commercial sources and used without further purification unless otherwise noted.
+4-002	Conventional Schlenk techniques were used, and reactions were carried out under N 2 unless otherwise noted.
+4-003	NMR spectra were recorded on a Inova 500 spectrometer (1H, 500 MHz).
+4-004	Elemental analyses were performed by Midwest Microlab, LLC.
+4-005	Laser desorption mass spectra were obtained using a Perseptive BioSystems time-of-flight MALDI mass spectrometer using a dithranol matrix.
+4-006	Electrochemical measurements were performed using a CH Instru- ments Model 660A electrochemical workstation in an electrolyte solution of 0.1 M tetrabutylammonium hexafluorophosphate (Bu4N+PF6¯) in dry tetrahydrofuran (THF).
+4-007	Platinum wire electrodes were used as both working and counter electrodes and Ag wire as the
+4-008	pseudoreference electrode.
+4-009	A ferrocene/ferrocenium redox couple (Fc/Fc +, 0.54 V vs SCE) was used as an internal standard and potentials obtained in reference to a silver electrode were converted to the saturated calomel electrode (SCE) scale.
+4-010	Optical absorption spectra were recorded using a Varian Cary 5000 UV−vis−NIR spectrophotometer.
+4-011	ELUMO is calculated as −(Eonsetred‑1 + 4.44 eV) assuming that Koopmans’ theorem holds (EA red ≈ −ELUMO).
+4-012	SCE energy level is taken to be −4.44 eV below the vacuum level.
+4-013	EHOMO is calculated from HOMO = LUMO − Eg (estimated from optical absorption spectra).[91]
+4-014	Thermogravimetric analysis (TGA) was performed using a Mettler Toledo TGA/SDTA851 analyzer at a heating rate of 10 °C/min under a N2 gas flow.
+4-015	4.2.
+4-016	Synthesis and Characterization.
+4-017	Reagent 2-(1H-perfluor- ohexyl)-5-trimethylstannyl (12) was prepared according to a literature procedure. 85
+4-018	Synthesis of 2-(Triisopropylsilyl)thiazole (5). n-BuLi (2.5 M in hexanes, 1.32 mL, 3.3 mmol) was added dropwise to a solution of 2-bromothiazole (0.49 g, 3.0 mmol) in tetrahydrofuran (8.0 mL) at −78 °C under nitrogen.
+4-019	The resulting reaction mixture was stirred at −78 °C for 1 h.
+4-020	Then, TIPS-Triflate (triisopropylsilyl trifluoromethanesul- fonate) (1.05 mL, 3.9 mmol) was subsequently added dropwise to this mixture.
+4-021	The reaction mixture was stirred overnight while allowing to warm to room temperature and then quenched with water, and the product was extracted with ethyl acetate.
+4-022	The organic phase was washed with sat.
+4-023	NaHCO 3 and water, dried over Na2SO4, and evaporated in vacuo to yield a crude oil which was purified by flash column chromatography (Silicagel, Hexanes:ethyl acetate = 10:1, v/v). 2-(Triisopropylsilyl)thiazole was obtained as a colorless oil (0.44 g, 60%).
+4-024	1H NMR (CDCl3 500 MHz): δ 8.18 (d, 1H, J = 3.0 Hz), 7.56 (d, 1H, J = 3.0 Hz), 1.44 (m, 3H), 1.15 (d, 18H, J = 7.5 Hz).
+4-025	13C NMR (CDCl3 125 MHz): δ 169.9, 145.5, 121.4, 18.9, 12.1.
+4-026	Anal. Calcd for (C12H23NSSi): C, 59.69; H, 9.60; N, 5.80.
+4-027	Found: C, 59.61; H, 9.45; N, 5.62.
+4-028	Synthesis of 2,2′-Bis(triisopropylsilyl)-5,5′-bithiazole (6). n-BuLi (2.5 M in hexanes, 0.29 mL, 0.91 mmol) was added dropwise to a solution of 2-(triisopropylsilyl)thiazole (5) (0.16 g, 0.83 mmol) in tetrahydrofuran (8.0 mL) at −78 °C under nitrogen.
+4-029	The resulting reaction mixture was stirred at −78 °C for 1 h and at room temperature for 1 h.
+4-030	Then, the reaction mixture was cooled back to −78 °C, and Fe(acac)3 (iron(III) acetylacetonate) (258 mg, 0.91 mmol) was subsequently added at once under nitrogen.
+4-031	The reaction mixture was stirred overnight while allowing to warm to room temperature and then quenched with water, and the product was extracted with ethyl acetate.
+4-032	The organic phase was washed with water, dried over Na2SO4, and evaporated in vacuo to yield a crude solid which was purified by flash column chromatography (Silicagel, Chloroform). 2,2′-Bis(triisopropylsilyl)-5,5′-bithiazole was obtained as an off-white crystalline solid (0.103 g, 65%).
+4-033	1H NMR (CDCl3 500 MHz): δ 8.20 (s, 2H), 1.47 (m, 6 H), 1.16 (d, 36H, J = 7.5 Hz).
+4-034	13C NMR (CDCl3 125 MHz): δ 170.8, 143.5, 131.1, 18.6, 11.8.
+4-035	Anal. Calcd for (C24H44N2S2Si2): C, 59.94; H, 9.22; N, 5.82.
+4-036	Found: C, 59.62; H, 9.04; N, 5.48.
+4-037	Mp 130−131 °C.
+4-038	Synthesis of 5,5′-BithIazole (7).
+4-039	To a solution of 2,2′-bis- (triisopropylsilyl)-5,5′-bithiazole (6) (500 mg, 1.04 mmol) in tetrahydrofuran (50.0 mL) at 0 °C was added TBAF (1.0 M in tetrahydrofuran, 3.12 mL, 3.12 mmol) dropwise.
+4-040	The resulting mixture was stirred at 0 °C for 1 h and then warmed to room temperature and stirred overnight.
+4-041	The reaction mixture was quenched with water and extracted with ethyl acetate.
+4-042	The organic phase was washed with water, dried over Na 2SO4, and evaporated in vacuo to give a solid crude product.
+4-043	The crude was purified by column chromatography (silica gel, ethyl acetate) to yield 5,5′-bithiazole as a white solid (155 mg, 89% yield).
+4-044	1H NMR (CDCl3 500 MHz): δ 8.80 (s, 2H), 8.02 (s, 2H).
+4-045	13C NMR (CDCl 3 125 MHz): δ 152.9, 141.4, 128.3.
+4-046	Anal. Calcd for (C6H4N2S2): C, 42.83; H, 2.40; N, 16.65.
+4-047	Found: C, 43.13; H, 2.56; N, 16.46.
+4-048	Mp 85−86 °C.
+4-049	Synthesis of 2,2′-Dibromo-5,5′-bithiazole (8). n-BuLi (2.5 M in hexanes, 7.6 mL, 19.0 mmol) was added dropwise to a solution of 5,5′-bithiazole (7) (1.0 g, 5.94 mmol) in tetrahydrofuran (70.0 mL) at −78 °C under nitrogen.
+4-050	The resulting reaction mixture was stirred at −78
+4-051	°C for 2 h, and then Br2 (1.83 mL, 35.64 mL) was added dropwise at −78 °C. The reaction mixture was stirred overnight while allowing to warm to room temperature and then quenched with water, and the product was extracted with ethyl acetate.
+4-052	The organic phase was washed with sat.
+4-053	NaHCO 3 and water, dried over Na2SO4, and evaporated in vacuo to yield a crude solid which was purified by flash column chromatography (silica gel, hexane:ethyl acetate = 8:2, v/v). 2,2′-Dibromo-5,5′-bithiazole was obtained as an off-white solid (0.33 g, 17%).
+4-054	1H NMR (CDCl3 500 MHz): δ 7.62 (s, 2H).
+4-055	13C NMR (CDCl3 125 MHz): δ 140.8, 136.5, 131.0.
+4-056	Anal. Calcd for (C6H2Br2N2S2): C, 22.10; H, 0.62; N, 8.59.
+4-057	Found: C, 22.03; H, 0.70; N, 8.51. m.p.122−123 °C.
+4-058	Synthesis of 2-(Trimethylstannyl)thiazole (9).
+4-059	To a solution of n-BuLi (2.5 M in hexanes, 20.0 mL, 50.0 mmol) in tetrahydrofuran (50 mL) was added dropwise a solution of 2-bromothiazole (4.51 mL, 50.0 mmol) in tetrahydrofuran (25 mL) at −78 °C. The reaction mixture was stirred at this temperature for 2 h, and then trimethyltin chloride (11.96 g, 60.0 mmol) was added under nitrogen.
+4-060	The reaction mixture was stirred overnight while allowing to warm to room temperature.
+4-061	Then, the reaction mixture was concentrated in vacuo, cyclohexane was added, and the resulting suspension was filtered to remove the solid protion and finally concentrated in vacuo to yield a crude oil.
+4-062	The crude material was purified by vacuum distilation to afford 2-(trimethylstannyl)thiazole as a colorless oil (8.0 g, 65% yield).
+4-063	1H NMR (CDCl3 500 MHz): δ 8.16 (d, 1H, J = 3.0 Hz), 7.57 (d, 1H, J = 3.0 Hz), 0.48 (s, 9H).
+4-064	13C NMR (CDCl3 125 MHz): δ 174.2,145.5, 121.5, −8.0.
+4-065	Anal. Calcd for (C6H11NSSn): C, 29.07; H, 4.47; N, 5.65.
+4-066	Synthesis of 2,2′-Bithiazole (10).
+4-067	An air-free flask was charged with 2-(Trimethylstannyl)thiazole (9) (2.0 g, 8.07 mmol), 2-bromothiazole (1.32 g, 8.07 mmol), and Pd(PPh 3)4 (0.46 g, 0.40 mmol).
+4-068	The flask and its contents were subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous toluene (30 mL) via syringe.
+4-069	The sealed reaction flask was then stirred at 90 °C overnight under nitrogen.
+4-070	The reaction mixture was then allowed to cool to room temperature and concentrated in vacuo to yield a crude solid.
+4-071	The crude was purified by column chromatography (silica gel, ethyl acetate:hexanes, 1:2, v/v) to yield 2,2′-bithiazole as an off-white solid (1.0 g, 74% yield).
+4-072	1H NMR (CDCl3 500 MHz): δ 7.90 (d, 2H, J = 3.5 Hz), 7.45 (d, 2H, J = 3.5 Hz).
+4-073	13C NMR (CDCl3 125 MHz): δ 161.8, 144.0, 121.1.
+4-074	Anal. Calcd for (C6H4N2S2): C, 42.83; H, 2.40; N, 16.65.
+4-075	Found: C, 43.18; H, 2.50; N, 16.32.
+4-076	Mp 96−97 °C.
+4-077	Synthesis of 5,5′-Dibromo-2,2′-bithiazole (11).
+4-078	To a solution of 2,2′-bithiazole (10) (0.50 g, 2.97 mmol) in anhydrous dimethylforma- mide (5 mL) at 60 °C was added NBS (2.12 g, 11.88 mmol) at once, and the resulting mixture was stirred for 4 h at 60 °C. The reaction mixture was then allowed to cool to room temperature during which time a precipitate formed.
+4-079	The precipitate was collected by vacuum filtration, washed with cold methanol, and dried in vacuo to yield 5,5′-dibromo-2,2′-bithiazole as a white solid (0.77 g, 80% yield).
+4-080	1H NMR (CDCl3 500 MHz): δ 7.76 (s, 2H).
+4-081	13C NMR (CDCl3 125 MHz): δ 162.0, 145.3, 112.2.
+4-082	Anal. Calcd for (C 6H2Br2N2S2): C, 22.10; H, 0.62; N, 8.59.
+4-083	Found: C, 22.10; H, 0.72; N, 8.53.
+4-084	Mp 141−142 °C.
+4-085	Synthesis of 2-(2-Thiazolyl)-5-(1-perfluorohexyl)thiophene (13).
+4-086	An air-free flask was charged with 2-(trimethylstannyl)-5-(1-perfluorohexyl)thiophene (12) (2.4 g, 4.25 mmol), 2-bromothiazole (0.70 g, 4.25 mmol), and Pd(PPh 3)2Cl2 (0.15 g, 0.21 mmol).
+4-087	The flask and its contents were subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous chlorobenzene (50 mL) via syringe.
+4-088	The sealed reaction flask was then stirred at 120 °C overnight under nitrogen.
+4-089	The reaction mixture was then allowed to cool to room temperature and concentrated in vacuo to yield a crude solid.
+4-090	The crude was purified by column chromatography (silica gel, ethyl acetate:hexanes, 1:2, v/v) to yield 2-(2-thiazolyl)-5-(1-perfluorohexyl)thiophene as an off-white solid (1.25 g, 61% yield).
+4-091	1H NMR (CDCl3 500 MHz): δ 7.84 (d, 1H, J = 3.0 Hz), 7.50 (m, 1H), 7.41 (d, 1H, J = 4.0 Hz), 7.38 (d, 1H, J = 3.0 Hz).
+4-092	13C NMR (CDCl3 125 MHz): δ 160.2, 144.0, 142.3, 131.0 (t), 130.7 (t), 125.9, 119.9,120.9−106.0 (m).
+4-093	Anal. Calcd for (C13H4F13NS2): C, 32.17; H, 0.83; N, 2.89.
+4-094	Found: C, 32.25; H, 0.89; N, 3.05.
+4-095	Mp 44−45 °C.
+4-096	Synthesis of 2-(5-Bromo-2-thiazolyl)-5-(1-perfluorohexyl)-thiophene (14).
+4-097	To a solution of 2-(2-thiazolyl)-5-(1-perfluorohexyl)-thiophene (13) (0.30 g, 0.62 mmol) in anhydrous dimethylformamide (5 mL) at 60 °C was added NBS (0.44 g, 2.47 mmol) at once, and the resulting mixture was stirred at 60 °C overnight.
+4-098	The reaction mixture was then allowed to cool to room temperature during which time a precipitate formed.
+4-099	The precipitate was collected by vacuum filtration, washed with cold methanol, and dried in vacuo to yield 2-(5-bromo-2-thiazolyl)-5-(1-perfluorohexyl)thiophene as a white solid (0.25 g, 72% yield).
+4-100	1H NMR (CDCl3 500 MHz): δ 7.72 (s, 1H), 7.43 (m, 1H), 7.40 (d, 1H, J = 4.0 Hz).
+4-101	13C NMR (CDCl3 125 MHz): δ 161.3,145.1, 141.6, 131.3 (t), 131.0 (t), 126.1, 109.8, 119.0−108.4 (m).
+4-102	Anal. Calcd for (C13H3BrF13NS2): C, 27.68; H, 0.54; N, 2.48.
+4-103	Found: C, 27.81; H, 0.71; N, 2.37.
+4-104	Mp 78−79 °C.
+4-105	Synthesis of 2-(5-Tri-n-butyl-2-thiazolyl)-5-(1-perfluorohexyl)-thiophene (15). n-BuLi (2.5 M in hexanes, 0.15 mL, 0.37 mmol) was added dropwise to a solution of 2-(5-bromo-2-thiazolyl)-5-(1-perfluorohexyl)thiophene (14) (0.20 g, 0.35 mmol) in tetrahydrofuran (16 mL) at −78 °C. The reaction mixture was stirred at this temperature for 1 h, and next tri-n-butyltin chloride (0.13 g, 0.39 mmol) was added dropwise under nitrogen.
+4-106	The reaction mixture was stirred overnight while allowing to warm to room temperature.
+4-107	Then, the reaction mixture was concentrated in vacuo, cyclohexane was added, and the resulting suspension was filtered to remove the solid portion and finally concentrated in vacuo again to afford 2-(5-tri-n- butyl-2-thiazolyl)-5-(1-perfluorohexyl)thiophene as a colorless oil (0.26 g, 95% yield).
+4-108	1H NMR (CDCl3 500 MHz): δ 7.73 (s, 1H), 7.49 (d, 1H, J = 4.0 Hz), 7.40 (d, 1H, J = 4.0 Hz), 1.58 (m, 6H), 1.36 (m, 6H), 1.17 (m, 6H), 0.91 (t, 9H).
+4-109	13C NMR (CDCl 3 125 MHz): δ 164.8, 150.3, 142.7, 131.0 (t), 130.6, 130.0 (t), 125.7, 108.3−118.5 (m), 17.7, 13.8 (d), 11.3.
+4-110	Anal. Calcd for (C25H30F13NS2Sn): C, 38.78; H, 3.91; N, 1.81.
+4-111	Found: C, 38.57; H, 4.26; N, 1.69.
+4-112	Synthesis of 2-(5-Thiazolyl)-5-(1-perfluorohexyl)thiophene (16).
+4-113	An air-free flask was charged with 2-(trimethylstannyl)-5-(1-perfluorohexyl)thiophene (12) (0.97 g, 1.72 mmol), 5-bromothiazole (0.28 g, 1.72 mmol), and Pd(PPh3)2Cl2 (0.06 g, 0.085 mmol).
+4-114	The flask and its contents were subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous chlorobenzene (20 mL) via syringe.
+4-115	The sealed reaction flask was then stirred at 120 °C overnight under nitrogen.
+4-116	The reaction mixture was then allowed to cool to room temperature and concentrated in vacuo to yield a crude solid.
+4-117	The crude was purified by column chromatography (silica gel, ethyl acetate:hexanes, 1:4, v/v) to yield 2-(5-thiazolyl)-5-(1-perfluorohexyl)thiophene as an off-white solid (0.400 g, 48% yield).
+4-118	1H NMR (CDCl3 500 MHz): δ 8.80 (s, 1H), 8.06 (s, 1H), 7.40 (d, 1H, J = 3.5 Hz), 7.22 (m, 1H).
+4-119	13C NMR (CDCl3 125 MHz): 13C NMR (CDCl3 125 MHz): δ 153.2, 140.9, 138.2, 131.3 (t), 130.9, 129.1 (t), 126.0, 118.5−105.6 (m).
+4-120	Anal. Calcd for (C13H4F13NS2): C, 32.17; H, 0.83; N, 2.89.
+4-121	Found: C, 32.12; H, 1.01; N, 2.96.
+4-122	Mp 63−64 °C.
+4-123	Synthesis of 2-(2-Tri-n-butyl-5-thiazolyl)-5-(1-perfluorohexyl)-thiophene (17). n-BuLi (2.5 M in hexanes, 0.45 mL, 1.13 mmol) was added dropwise to a solution of 2-(5-thiazolyl)-5-(1-perfluorohexyl)thiophene (16) (0.50 g, 1.03 mmol) in tetrahydrofuran (25 mL) at −78 °C. The reaction mixture was stirred at this temperature for 1 h, and tri-n-butyltin chloride (0.40 g, 1.24 mmol) was then added dropwise under nitrogen.
+4-124	The reaction mixture was stirred overnight while allowing to warm to room temperature.
+4-125	Then, the reaction mixture was concentrated in vacuo, cyclohexane was added, the resulting suspension was filtered to remove the solid portion and finally concentrated in vacuo again to afford 2-(2-tri-n- butyl-5-thiazolyl)-5-(1-perfluorohexyl)thiophene as a colorless oil which is used for the next step without any further purification (0.15 g, 19% yield).
+4-126	1H NMR (CDCl3 500 MHz): δ 8.21 (s, 1H), 7.40 (d, 1H, J = 4.0 Hz), 7.25 (d, 1H, J = 4.0 Hz), 1.60 (m, 6H), 1.34 (m, 6H), 1.17 (m, 6H), 0.92 (t, 9H).
+4-127	Synthesis of DFH-T-5,5′Tz2-T (1).
+4-128	An air-free flask was charged 2,2′-dibromo-5,5′-bithiazole (8) (0.20 g, 0.61 mmol), 2-(trimethyl- stannyl)-5-(1-perfluorohexyl)thiophene (12) (0.93 g, 1.35 mmol), and Pd(PPh3)4 (0.035 g, 0.031 mmol).
+4-129	The flask and its contents were
+4-130	subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous dimethylformamide (10 mL) via syringe.
+4-131	The sealed reaction flask was then stirred at 90 °C overnight under nitrogen.
+4-132	The reaction mixture was then allowed to cool to room temperature, and the yellow solid was collected by filtration and washed several times with hexane, methanol, and acetone.
+4-133	The crude solid was purified by multiple gradient sublimations to afford DFH-T-5,5′Tz2-T as a bright yellow solid (0.267 g, 45% yield).
+4-134	1H NMR (C2Cl4D2 500 MHz, 80 °C): δ 7.94 (s, 2H), 7.51 (d, 2H, J = 4.0 Hz), 7.35 (d, 2H, J = 4.0 Hz).
+4-135	Anal. Calcd for (C26H6F26N2S4): C, 32.24; H, 0.62; N, 2.89.
+4-136	Found: C, 32.30; H, 0.50; N, 2.91.
+4-137	MS(MALDI-TOF) m/z (M−): calcd. for C26H6F26N2S4, 968.6; found, 967.5.
+4-138	Mp 260−261 °C.
+4-139	Synthesis of DFH-T-2,2′Tz2-T (2).
+4-140	An air-free flask was charged 5,5′-dibromo-2,2′-bithiazole (11) (1.0 g, 3.07 mmol), 2-(trimethyl- stannyl)-5-(1-perfluorohexyl)thiophene (12) (3.81 g, 6.75 mmol), and Pd(PPh3)4 (0.11 g, 0.09 mmol).
+4-141	The flask and its contents were subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous dimethylformamide (40 mL) via syringe.
+4-142	The sealed reaction flask was then stirred at 90 °C overnight under nitrogen.
+4-143	The reaction mixture was then allowed to cool to room temperature, and the yellow solid was collected by filtration and washed several times with hexane, methanol, and acetone.
+4-144	The crude solid was purified by multiple gradient sublimations to afford DFH-T-2,2′Tz2-T as a bright yellow solid (1.42 g, 48% yield).
+4-145	1H NMR (C2Cl4D2 500 MHz, 80 °C): δ 8.05 (s, 2H), 7.46 (d, 2H, J = 4.0 Hz), 7.33 (d, 2H, J = 4.0 Hz).
+4-146	Anal. Calcd for (C26H6F26N2S4): C, 32.24; H, 0.62; N, 2.89.
+4-147	Found: C, 32.10; H, 0.82; N, 3.09.
+4-148	MS(MALDI-TOF) m/z (M−): calcd. for C26H6F26N2S4, 968.6; found, 967.5.
+4-149	Mp 243−244 °C..
+4-150	Synthesis of DFH-T-5,5′Tz4-T (3).
+4-151	An air-free flask was charged 5,5′-dibromo-2,2′-bithiazole (11) (0.153 g, 0.47 mmol), 2-(5-tri-n- butylstannyl-2-thiazolyl)-5-(1-perfluorohexyl)thiophene (15) (0.800 g, 1.033 mmol), and Pd(PPh3)4 (0.016 g, 0.014 mmol).
+4-152	The flask and its contents were subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous dimethylformamide (15 mL) via syringe.
+4-153	The sealed reaction flask was then stirred at 90 °C overnight under nitrogen.
+4-154	The reaction mixture was then allowed to cool to room temperature, and the yellow solid was collected by filtration and washed several times with hexane, methanol, and acetone.
+4-155	The crude solid was purified by multiple gradient sublimations to afford DFH-T-5,5′Tz4-T as a bright yellow solid (0.15 g, 28% yield).
+4-156	Anal. Calcd for (C32H8F26N4S6): C, 33.87; H, 0.71; N, 4.94.
+4-157	Found: C, 33.85; H, 0.73; N, 4.95.
+4-158	MS(MALDI-TOF) m/z (M−): calcd. for C26H6F26N2S4, 1134.8; found, 1133.4.
+4-159	Mp 380−381 °C.
+4-160	Synthesis of DFH-T-2,2′Tz4-T (4).
+4-161	An air-free flask was charged 2,2′-dibromo-5,5′-bithiazole (8) (0.25 g, 0.77 mmol), 2-(2-tri-n- butylstannyl-5-thiazolyl)-5-(1-perfluorohexyl)thiophene (17) (1.31 g, 1.69 mmol), and Pd(PPh3)4 (0.026 g, 0.023 mmol).
+4-162	The flask and its contents were subjected to three pump/purge cycles with nitrogen, followed by addition of anhydrous dimethylformamide (25 mL) via syringe.
+4-163	The sealed reaction flask was then stirred at 90 °C overnight under nitrogen.
+4-164	The reaction mixture was then allowed to cool to room temperature, and the yellow solid was collected by filtration and washed several times with hexane, methanol, and acetone.
+4-165	The crude solid was purified by multiple gradient sublimations to afford DFH-T-2,2′Tz4-T as a bright yellow solid (0.13 g, 25% yield).
+4-166	Anal. Calcd for (C32H8F26N4S6): C, 33.87; H, 0.71; N, 4.94.
+4-167	Found: C, 34.04; H, 0.39; N, 4.53.
+4-168	MS(MALDI-TOF) m/z (M−): calcd. for C26H6F26N2S4, 1134.8; found, 1134.0.
+4-169	Mp 385−386 °C.
+4-170	4.3.
+4-171	Device Fabrication and Characterization.
+4-172	Prime grade p- doped silicon wafers (100) having a 300 nm thermally grown oxide layer (Montco Silicon) were used as device substrates.
+4-173	These were rinsed with water, methanol, and acetone before film deposition.
+4-174	Next, ∼30 nm of PMMA layer is spin-coated from a polymer solution (PMMA, ∼20 mg mL−1 in ethyl lactate, 9000 rpm).
+4-175	The dielectric film was dried at 110 °C overnight in a vacuum oven (D = 25 and 70 °C).
+4-176	For TFT device
+4-177	fabrication, top-contact electrodes (500 Å) were deposited by evaporating gold (pressure ∼10−6 Torr); channel dimensions were 25/50/100 μm (L) by 2000/1000/500 μm (W).
+4-178	The capacitance of the insulator (PMMA (30 nm)/SiO2 (300 nm)) was 10.0 nF cm−2.
+4-179	TFT device measurements were carried out in a customized vacuum probe station (pressure ∼ 10−6 Torr) at a scan rate of 300 ms/step.
+4-180	Coaxial and/or triaxial shielding was incorporated into Signatone probes to minimize the noise level.
+4-181	TFT characterization was performed with a Keithley 6430 subfemtoammeter and a Keithley 2400 source meter, operated by a locally written LabView program and GPIB communication.
+4-182	Mobilities (μ) were calculated in the saturation regime by the standard relationship: μsat = (2IDSL)/[WCi(VG − VT)[2]], where IDS is the source−drain saturation current, Ci is the gate dielectric capacitance (per area), VG is the gate voltage, and VT is the threshold voltage.
+4-183	The latter can be estimated as the x intercept of the linear section of the plot of VG vs (IDS)1/2.
+4-184	Trilayer OLET devices were fabricated by vacuum-depositing the organic layers and the metal contacts on a transparent substrate, composed of 450 nm of PMMA spin-coated on glass/indium tin oxide (ITO) and baked in a vacuum oven at 110 °C (overnight baking).
+4-185	The first organic layer deposited on the dielectric is for the field-effect transport of either the p- or n-type charge carriers, while the third layer is devoted to the transport of the charge carriers of opposite sign.
+4-186	For p-type, we deposited 15 nm of dihexyl-quaterthiophene (DH4T) at 0.1 Å/s, while for the n-type we deposited 30 nm of semiconductor 2 at 0.1 Å/s.
+4-187	The layer in between of the two transport semiconductors is the recombination layer, where emission takes place, and it is made of 30 nm of tris(8-hydroxyquinolinato) aluminum (Alq3) sublimed at 5 Å/s.
+4-188	Finally on top of the organic stack, 70 nm gold drain−source electrodes were deposited, forming a 70 μm long (CL) and 12 mm wide (CW) channel.
+4-189	The capacitance of the insulator (450 nm of PMMA) was 7.58 nF cm−2.
+4-190	OLETs opto-electrical characterization has been carried out with a commercial probe station from Suss connected through triaxial cables to an Agilent B1500A parametric analyzer.
+4-191	Finally, the device electroluminescence was measured by using a calibrated photodiode (Hamamatsu S1337-1010BR) placed in contact with the glass substrate.
+4-192	Thin films were analyzed by wide-angle X-ray film diffractometry (WAXRD) on a Rikagua ATX-G instrument with Cu Kα radiation and a monochromator using standard θ−2θ techniques.
+4-193	AFM images were taken from a JEOL-SPM5200 with a Si cantilever.
+4-194	Film thickness was determined by profilometry using a Veeco Dektak 150.
+4-195	4.4.
+4-196	Computational Methodology.
+4-197	Geometry optimizations and electronic structure calculations for the gas-phase neutral states of molecules 1−4 , DFH-4T, and DFH-6T were carried out by density functional theory (DFT) calculations at the B3LYP/6-31G level of theory using Spartan PC (Spartan ’08, Version 1.0.0, Wavefunction, Inc.)

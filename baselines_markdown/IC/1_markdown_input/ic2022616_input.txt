@@ -1,0 +1,206 @@
+# document_id: ic2022616
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	Transition metal and main group metal complexes of thiosemicarbazones have invited considerable interest for a variety of reasons, such as variable bonding properties, structural diversity, and pharmacological properties.[1]
+1-003	Copper chalcogenide compounds including clusters are of continu-
+1-004	ing interest in structural, synthetic, and materials chemistry,[2] while examples of copper/inorganic-sulfur active-site enti- ties in biology were recently discovered in the case of two metalloenzymes (cytochrome C oxidase and nitrous oxide reductase).[3]
+1-005	Nitrous oxide reductase (N2OR) has an active-
+1-006	site {(histidine)7Cu4S} cluster (called Cu Z), where nitrous oxide binds and is reduced in the terminal step in bacterial denitrification.[3]
+1-007	With these findings, there has been a surge of interest in relevant copper coordination chemistry, with goals including (1) the generation of discrete and tractable copper sulfide complexes, (2) the elucidation of their structure and spectroscopy, and (3) electrochemical study of the copper sulfide compound, that is, redox and/or atom-transfer reactivity patterns.
+1-008	Moreover, cleavage of the C−S bond is an important step in the removal of the sulfur from thiophene in the hydrodesulphurization (HDS) process.[4]
+1-009	Thiophene and its benzo derivatives represent abundant sulfur-containing impur- ities in coal and petroleum feedstocks and are among the most difficult to desulfurize.[5]
+1-010	Homogenous transition metal com- plexes are ideal for probing the mechanism of this process by allowing analysis of specific steps in the proposed HDS cycle.[6]
+1-011	In addition, such complexes can show reactivity patterns that
+1-012	© 2012 American Chemical Society 3525
+1-013	differ from commercial HDS catalysts.
+1-014	Many obstacles will have to be overcome to make these systems usable in any real process, including supporting the homogeneous species on a heterogeneous support.
+2-001	■
+2-002	Preparation of [(PPh 3)Cu(μ-S)2Cu(PPh3)2].
+2-003	To a hot solution of [CuCl2(PPh3)2] (66 mg; 0.1 mmol) in dichloromethane (20 cm3) was added ferrocenylthiosemicarabzone [HFtsc] (92 mg; 0.2 mmol) in hot ethanol (20 cm3).
+2-004	The mixture was refluxed for 6 h.
+2-005	The resulting reaction mixture was concentrated to about 10 cm3, and the solvents were allowed for partial evaporation and kept at room temperature for further evaporation to yield two products.
+2-006	One is orange brown crystals, which could be separated mechanically under a microscope.
+2-007	Yield: 37% (36.04 mg).
+2-008	Mp 246 °C. FT-IR (KBr): 1430, 1085, 702 cm−1 (for PPh3); 468 cm−1 ν(Cu−S) .
+2-009	UV−vis (methanol), λmax [nm] (ε, M−1 cm −1): 397(2465), 461(1655), 479(1406), 515(929), 554(539), 589(340), 631(140).
+2-010	Elemental analyses calcd. for C 54H45S2P2Cu 2: C, 68.48; H, 4.79; S, 6.77%.
+2-011	Found: C, 68.42; H, 4.80; S, 6.72%.
+2-012	The compound dissolved in common organic solvents such as dichloromethane, chloroform, benzene, acetone, methanol, ethanol, DMF, and DMSO.
+2-013	Another product was a dark brown one, which did not dissolve in any organic solvent (yield: 48 mg).
+2-014	Hence, it was left without further characterization.
+2-015	Preparation of [Cu 4(μ3-Cl)4(PPh3)4].
+2-016	[CuCl2(PPh3)2] (132 mg; 0.2 mmol) was refluxed in a 1:1 ethanol (20 cm3)/dichloromethane (20 cm3) mixture with elemental sulfur (6.5 mg; 0.2 mmol).
+2-017	A black
+2-018	Received: October 22, 2011
+2-019	Published: February 29, 2012
+2-020	brown copper sulfide precipitated immediately, which was filtered, and the mother liquid was left for slow evaporation to yield white crystals.
+2-021	Yield: 9% (26.02 mg).
+2-022	M.p. > 250 °C. FT-IR (KBr): 1431, 1122, 693 cm−1 (for PPh3).
+2-023	UV−vis (methanol), λmax [nm] (ε, M−1 cm −1): 269(136000),274(60200),310(18332).(1H CDCl3): δ 6.4−7.7 ppm (m, aromatic protons of PPh 3).
+2-024	Elemental analyses calcd. for C72H60Cl 4P4Cu4: C, 60.11; H, 4.18%.
+2-025	Found: C, 60.18; H, 4.23%.
+2-026	The compound dissolved in methanol, DMF, and DMSO.
+2-027	The same product was prepared by refluxing [CuCl2(PPh3)2] in a 1:1 ethanol/dichloromethane mixture for 5 h.
+2-028	■
+2-029	C, H, N, and S analyses were performed using a Vario EL III elemental analyzer.
+2-030	IR spectra of the ligand and complexes have been recorded from KBr pellets with a Nicolet instrument in the 4000−400 cm−1 range.
+2-031	Electronic spectra of the complexes were measured in methanol using a Systronics 119 spectrophotometer in the 800−200 nm range.
+2-032	Melting points were recorded on a Loba India Melting point apparatus.
+2-033	The cyclic voltammetric studies were carried out in an acetonitrile window with a CH Instruments electrochemical analyzer using a platinum working electrode, and the redox potentials were referenced to a saturated Ag/AgCl electrode.
+2-034	Suitable single crystals for X-ray analysis were grown from a ethanol/dichloromethane mixture.
+2-035	The data were collected at 287 K with a Bruker Smart 1000CCD Diffractometer using monochromated Mo Kα (λ = 0.71073 Å) radiation.
+2-036	The data were collected and processed using Saint, and the structures were solved and refined through full matrix least-squares on F[2] using SHELXTL 6.14.
+2-037	Electron paramagnetic resonance spectra (EPR) of the powder samples were recorded with a Jeol Tel-100 instrument at X-band frequencies at room and liquid nitrogen temperatures (77 K) using the 2,2-diphenyl-1-picrylhydrazyl radical (DPPH) as an internal standard.
+2-038	The 1H NMR and 31P NMR spectra were recorded with a Bruker AMX 400 instrument by using TMS and ortho-phosphoric acid as references, respectively.
+3-001	■
+3-002	As a part of our systematic investigation on the reactions of thiosemicarbazones with various transition metal complexes,[7] a reaction between ferrocenylthiosemicarbazone (H-Ftsc)[8] and [CuCl 2(PPh3 )2][9] was carried out in order to obtain a hetero-trinuclear complex [Cu(Ftsc)2].
+3-003	But, a copper ion mediated selective cleavage of the carbon−sulfur bond of the ferrocenylth- iosemicarbazone took place, leading to the formation of a mixed geometrical bis-μ2-sulfido bridged bicopper complex (Scheme 1)
+3-004	along with the insoluble dark brown compound.
+3-005	This unprece- dented selective cleavage of the C−S bond in the ferrocenylth- iosemicabazone moiety deserves special attention due to its relevance to the HDS process.[6,10]
+3-006	Bis-μ2-sulfido bridging in the complex essentially resulted via the selective cleavage of the carbon−sulfur bond of the ferrocenylthiosemicarbazone ligand.
+3-007	In this paramagnetic dicopper complex, the copper ions are in the +2 oxidation state with two different geometries.
+3-008	The formation of tri-coordinated copper complexes is also very rarely found in the literature.[11]
+3-009	A number of complexes might appear to be tri-coordinated, but upon close investigation they have been found to have higher coordination.
+3-010	The formation of tricoordinated complexes is favored mainly because of steric considerations over the normal four coordinated complexes.
+3-011	The formation of a sulfide (S2−) moiety through the thermal decomposition through C−S bond cleavage of thiolate copper(II) complexes has been reported.[12]
+3-012	It is to be noted that the metal-sulfido clusters are important components in fundamental processes such as electron transfer and the reduction of dinitrogen.[13]
+3-013	In addition to this, to the best of our knowledge, the present work demonstrates the formation of the first example of a discrete mixed geometrical (trigonal planar and tetrahedral) dicopper complex having two bridging S2− units between the copper ions.
+3-014	This is yet another interesting behavior exhibited by the thiosemicarbazone ligand.
+3-015	In this article, we report the synthesis, spectral characterization, crystal structure, DFT study, and electrochemistry of a bis-μ2-sulfido dicopper complex.
+3-016	The elemental analysis of the title complex [(PPh 3)Cu(μ-S)2 Cu(PPh3 )2] agreed very well with the proposed molecular formula.
+3-017	The calculated value of sulfur (6.77) is most reliable and relative to the found value (6.72) greatly supports the formation of the complex.
+3-018	The calculated values for carbon and hydrogen also matched very well with the found values.
+3-019	The observed differences between the calculated and found values are only 0.088%, 0%, and 0.739% for carbon, hydrogen, and sulfur, respectively.
+3-020	In the IR spectrum of the title complex, the absence of the bands at 823, 1651, and 3240 cm−1 corresponding to the νCS, νCN, and νNH indicates that the complex does not have a ferrocenylthiosemicarbazone moiety in it.[7b] However, a new band appeared at 468 cm−1 due to the presence of νCu−S.[14] The UV−vis absorption spectrum of the title complex in methanol at room temperature contains a number of bands [λmax [nm] (ε, M−1 cm −1)] at 397 (2465), 461 (1655), 479 (1406), 515 (929), 554 (539), 589 (340), and 631 (140).
+3-021	There is a noticeable difference in the charge transfer energy and intensity for these transitions.
+3-022	The intense absorptions in the visible region is an indication of the presence of sulfide bridge complexes.
+3-023	From the elemental analysis and IR spectrum of the insoluble polymeric compound, there was no appreciable information found.
+3-024	The EPR spectrum recorded at room temperature and liquid nitrogen temperature showed the EPR-silent nature of this compound (Figures S1 and S2, Supporting Information).
+3-025	For X-ray single crystal studies, suitable crystals were obtained from ethanol/dichloromethane mixture by vapor diffusion method.
+3-026	The crystal structure of the complex is depicted in Figure 1.
+3-027	The extremely well ordered (R = 0.0394) unit cell contains a binuclear [(PPh 3)Cu(μ-S)2Cu(PPh3)2] in which Cu(1) is ligated in a tetrahedral P2S2 environment and Cu(2) is ligated in a trigonal planar PS2 environment.
+3-028	The crystallographic parameters are given in Table 1.
+3-029	The observed shorter bond lengths of Cu(2)−S(1), 2.2448(6) Å; Cu(2)−S(2), 2.3091(7) Å; and Cu(2)−P(2), 2.1742(6) Å in the Cu(2)S(1)S(2)P(2) core compared to Cu(1)−S(1), 2.4049(7) Å; Cu(1)−S(2), 2.4503(7) Å; Cu(1)−P(1), 2.2357(7) Å; and Cu(1)−P(3), 2.2269(10) Å in the Cu(1)P(1)P(3)S(1)S(2) core may be due to less of a back bonding contribution of Cu(2) to P(2) phosphine than Cu(1) to P(1) and P(3) phosphines (Table 2).
+3-030	The variation in Cu−S bond lengths may be due to variation in the σ bonding contribution of the sulfide ion and the presence of back bonding triphenylphos- phine groups in two different geometrical environments.[16]
+3-031	The Cu−P bond lengths have lengthened a little compared to other reported Cu−P values.[17]
+3-032	This lengthening may be due to the fact that the S2− ligand is in coordination with two extensively back-bonded copper atoms.
+3-033	Such a kind of S2− binegative
+3-034	behavior of sulfur has been observed elsewhere.[18]
+3-035	The Cu−Cu distance was found as 2.8988(5) Å, indicating the absence of
+3-036	[Cu4(μ3-Cl)4(PPh3)4] have been deposited at the Cambridge Crystallographic Data Centre as supplementary publication (CCDC No. 654122 and 847673).
+3-037	The data can be obtained free of charge at www.ccdc.cam.ac.uk/conts/retrieving.html or
+3-038	The source of the sulfido ligand in [(PPh3)Cu(μ-S)2Cu(PPh3)2] must be from the selective cleavage of the C−S bond of the thiosemicarbazone ligand, leading to the formation of a μ2-sulfido bridged unsymmetrical bicopper complex.
+3-039	The expected mechanism for the formation of the unsymmetrical dicopper complex is given in Scheme 2.
+3-040	Recently, a few reports have appeared describing the binuclear copper complexes containing sulfur bridged thiosemicarbazones, and one among them is a tetranuclear cluster.[15]
+3-041	In our case, it is felt that such species may be an intermediate, and the carbon sulfur bond of the intermediate complex might have been cleaved during the course of the reaction.
+3-042	The ground state geometry of the title compound has been optimized using a density functional theory (DFT) method employing Becke’s three-parameter hybrid exchange functional
+3-043	(B3)[19] combined with the correlation functional of Lee, Yang, and Parr (LYP),[20] together called B3LYP.
+3-044	The Los Alamos effective core potential (ECP) basis set, LanL2DZ[21−23] for the Cu atom and 6-311G(d.p) basis set for all other atoms have been used.
+3-045	The vibrational frequency calculation has been performed at the above level of theory, and the results confirm that the optimized geometry is at a stationary point of the potential energy surface without any imaginary frequency.
+3-046	The selective geometrical parameters obtained from single crystal X-ray data and DFT calculations are given in Table 2.
+3-047	The theoretical values are almost consistent with the experimental values.
+3-048	It has been observed that the root-mean-square deviation between single crystal X-ray data and optimized internal coordinates is 0.78 Å only.
+3-049	The density plot has been made with the isosurface value of 0.05 au.
+3-050	The DFT results from Mulliken atomic charges show that the Cu atom with two triphenylphosphines has more of a charge (−0.43 au) than the Cu with a single triphenylphosphine (−0.12 au).
+3-051	The frontier molecular orbital diagram shows that both the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) are mainly delocalized on the sulfur atoms and on the Cu atoms (Figures 2 and 3).
+3-052	There is a small amount of electron density corresponding to the LUMO being on the P3 atom of triphenylphosphine.
+3-053	The calculated energy gap between HOMO and LUMO is 3.54 eV (351 nm).
+3-054	This is comparable with the first intense absorption feature at 397.
+3-055	Hence, it is concluded that the absorption spectra observed at 397 nm are due to the transition of an electron from HOMO to LUMO.
+3-056	The DFT calculations were carried out using the Gaussian 09 program.[24]
+3-057	The calculated dipole moment is 2.723 D. The optimized structure of the complex is given in Figure S3, Supporting Information.
+3-058	The dissociation of one of the triphenylphosphines in the symmetrical four coordinated complex is thermodynamically favorable, and this may have happened because of the steric hindrance of the bulky triphenylphosphine ligand itself.
+3-059	Moreover, comparatively less stabilization energy of the unsymmetrical dimeric complex favors the mixed geometry for the complex.
+3-060	It is to be pointed out here that tricoordination as such is rare, and only a few such Cu(II) complexes are known.[25]
+3-061	To the best of our knowledge, the present work demonstrated the first example of discrete
+3-062	unsymmetrical mixed tetrahedral and trigonal planar binuclear copper(II) complexes having two μ2-S2 units in [(PPh3)Cu(μ-S)2Cu(PPh 3)2] via the selective cleavage of the C−S bond of the thiosemicarbazone ligand.
+3-063	However, such a simultaneous occurrence of three- and four-coordinate Cu(I) complexes is known with the different bridging groups.[26]
+3-064	An attempt was made to synthesize [PPh3Cu(μ-S)2Cu- (PPh3)2] from [CuCl 2(PPh3)2] and elemental sulfur under refluxing conditions in ethanol− dichloromethane, which resulted in the formation of a CuS precipitate.
+3-065	However, the evaporation of the mother liquid afforded colorless shiny crystals.
+3-066	From the analytical, IR, and electronic spectra of the crystals, no appreciable information could be obtained.
+3-067	Hence, an X-ray crystallographic investigation was carried out.
+3-068	Surprisingly, it was found to be a tetranuclear cubane [Cu4 (μ3-Cl) 4(PPh 3)4] having triply bridged chloride ions.
+3-069	The structure of the complex is given in Figure 4.
+3-070	The well ordered (R = 0.0350) unit cell contains a tetranuclear [Cu4 (μ3-Cl)4(PPh3)4] in which Cu(1) and Cu(2) ligated with one triphenylphosphine and three of the chloride ions by forming a
+3-071	tetrahedral core around each metal center.
+3-072	The crystallographic parameters are given in Table 3.
+3-073	The observed bond lengths Cu(1)−P(1) = 2.1991 Å and Cu(2)−P(2) = 2.1995 Å are less than those found in [(PPh3 )Cu(μ-S)2 Cu(PPh3) 2], indicating a stronger back bonding between copper and triphenylphos- phine atoms (Table 4).
+3-074	The variation in the copper−chloride bond lengths indicates a signficant distortion in the cubane geometry.
+3-075	EPR spectra of a powdered sample of [(PPh3)Cu(μ-S)2-Cu(PPh 3)2] were recorded at room temperature and at liquid nitrogen temperature at the X- band frequency.
+3-076	No hyperfine structure was observed for the complex.
+3-077	The room tempera- ture spectrum showed a broad signal with the three g values at 2.903, 2.717, and 2.467, indicating considerable distortion in the CuS 2P and CuS 2P 2 core (Figure 5a).
+3-078	However, the spectrum at 77 K (Figure 5b) showed four signals with g values
+3-079	empirical formula C 36H30Cl2Cu2P2
+3-080	fw 722.52
+3-081	temp 173 K
+3-082	wavelength 0.71073 Å
+3-083	cryst syst orthorhombic
+3-084	space group Pbcn
+3-085	unit cell dimensions
+3-086	a 17.428(4) Å
+3-087	b 20.418(4) Å
+3-088	c 18.156(4)Å
+3-089	Z 8
+3-090	calcd density 1.486 Mg/m[3]
+3-091	abs coeff 16.06 mm−1
+3-092	F(000) 2944
+3-093	cryst size 0.45 × 0.25 × 0.25 mm
+3-094	θ range for data collection 1.54 to 28.27°
+3-095	limiting indices −23 ≤ h ≤ 22, −27 ≤ k ≤ 27, −23 ≤ l ≤ 23
+3-096	reflns collected/unique 69797/6492 [R(int) = 0.0293]
+3-097	completeness to θ 28.27°
+3-098	absorption correction semiempirical from equivalents
+3-099	refinement method full-matrix least-squares on F[2]
+3-100	data/restraints/params 7909/0/379
+3-101	goodness-of-fit on F[2] 0.762
+3-102	final R indices [I > 2σ(I)] R1 = 0.0350, wR2 = 0.0959
+3-103	R indices (all data) R1 = 0.0237, wR2 = 0.0839
+3-104	largest diff. peak and hole 0.293 and −0.516 e.A−3
+3-105	3.16, 2.86, 2.42, and 2.23, indicating the distortion in the geometry around the metal ions in the binuclear complex.
+3-106	The appearance of four g values for this complex at 77 K may be attributed to the presence two different geometries around the copper centers.
+3-107	This has been shown in its electronic spectrum also.
+3-108	It could be that the first two g values may be due to the trigonal copper, and the remaining two g values may be due to the tetrahedral copper atom in the complex.
+3-109	A g value of 2.23 is indicative of a covalent nature between copper and phosphorus in the complex.[27]
+3-110	However, the observation of such a kind of EPR splitting pattern is not completely clear to us.
+3-111	The observed g values are higher than that observed for other sulfur bridged copper(II) complexes.[28]
+3-112	The magnectic moment value of 3.9 μB for [(PPh3)Cu(μ-S)2Cu(PPh 3)2] showed also the paramagnetic nature of the complex corresponding to the +2 oxidation state for copper ions, having one unpaired electron each.
+3-113	Moreover, a Cu−S−Cu bond angle of 116.5° suggests ferromagnetic exchange in this complex.
+3-114	A similar behavior has already been reported for μ-OH bridged Cu(II) complexes.[29]
+3-115	The 1H NMR spectrum of [Cu4(μ3-Cl) 4(PPh 3)4] was recorded in CDCl3 , and it exhibited a multiplet at 6.4−7.7 ppm is attributed to the presence of aromatic protons of the triphenylphosphine ligand (Figure S4, Supporting Information).31P NMR spectra of [Cu4(μ3-Cl)4(PPh3)4] were recorded at room temperature and at −80 °C to determine the nature of the phousphours nuclei of triphenylphosphine.
+3-116	The spectrum at room temperature showed only one line at 42 ppm, which may be due to a fast exchange of triphenylphosphine ligands
+3-117	bond lengths
+3-118	around two copper atoms (Figure 6).
+3-119	Whereas, at −80 °C in addition to a singlet at 43 ppm, a very weak signal at 29 ppm was also observed.
+3-120	Probably at low temperatures there is some restriction on triphenylphosphine exchange, leading to the observation of two types of triphenylphosphines.
+3-121	Cyclic voltammogram of the binuclear complex showed a pair of peaks on both positive and negative potentials corresponding to two successive one-electron oxidation Cu(II)−Cu(II) → Cu(III)−Cu(II) → Cu(III)−Cu(III) and similar one-electron reduction Cu(II)−Cu(II) → Cu(I)−Cu(II) → Cu(I)−Cu(I) (Figure 7).
+3-122	The equilibrium constant Kc for comproportionation reaction in this binuclear complex is defined as
+3-123	−
+3-124	−e
+3-125	E1/2(Oxdl)
+3-126	−
+3-127	−e
+3-128	E1/2(Oxd2)
+3-129	−
+3-130	−e
+3-131	E1/2−(Rede− l)
+3-132	E1/2(Red2)
+3-133	2
+3-134	Kc(II − III) =
+3-135	[Cu(II) − Cu(II)][Cu(III) − Cu(III)]
+3-136	2
+3-137	[Cu(I) − Cu(II)]
+3-138	Kc(II − I) =
+3-139	[Cu(II) − Cu(II)][Cu(I) − Cu(I)]
+3-140	(F/RT)[E1/2 (1)−E1/2(2)]
+3-141	Kc = e
+3-142	The Kc value for oxidation is 9.403, and for reduction it is 9.098.
+3-143	These values do indicate a strong electronic coupling between the metal centers through the bridging sulfur atom.
+3-144	E1/2(1) and E1/2(2) are the half-wave potentials corresponding to Cu(II)−Cu(II)/Cu(III)−Cu(II) or Cu(II)−Cu(II)/Cu(I)−Cu(II) and Cu(III)−Cu(II)/Cu(III)−Cu(III) or Cu(I)−Cu(II)/Cu(I)−Cu(I).[30]
+3-145	The
+3-146	Inorganic Chemistry Article
+3-147	high peak to peak separation values ΔEp(red) (0.07 and 0.08 V) and ΔEp(oxi) (0.2 and 0.062 V) reveal that these processes are reversible/quasi-reversible.[31]
+3-148	Quasi-reversibility can be attributed to either slow electron transfer or adsorption of the complexes onto the electrode surface.[32]
+4-001	In this article, synthesis of [(PPh 3)Cu(μ-S)2Cu(PPh 3)2] via the cleavage of the C−S bond of the ferrocenylthiosemicarbazone ligand has been reported.
+4-002	The structure of this mixed geometrical binuclear complex has been confirmed both experimentally (X-ray crystallography) and theoretically (DFT studies).
+4-003	In addition, a tetranuclear cubane, [Cu4(μ3-Cl)4(PPh3)4], has been obtained while attempting to synthesize the title compound directly.
+4-004	A detailed study is underway on the reactions of various substituted ferrocenylthiosemicarbazones with [CuCl2(PPh3)2] in order to understand the mechanism for C−S bond cleavage.

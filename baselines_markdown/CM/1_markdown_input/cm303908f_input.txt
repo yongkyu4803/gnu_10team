@@ -1,0 +1,260 @@
+# document_id: cm303908f
+# extractor: kordoc-markdown-adapter-1
+1-001	Organic thin film transistors (OTFTs) based on conjugated polymers have attracted much attention in recent years for application as an active layer, because of solution processability and an excellent compatibility with flexible substrates.[1]
+1-002	These unique properties make them useful in the fabrication of various flexible electronics, such as organic integrated circuits (ICs), radiofrequency identification (RFID) tags, and sensors, and memory using cost-effective graphic art printing processes.[2]
+1-003	Because of advances gained over the past two decades, state-of- the-art printed OTFTs boast a charge carrier mobility that is equal to or even higher than that of amorphous silicon TFTs in an active matrix TFT-LCD.[3]
+1-004	To maximize their advantage in the manufacturing process, OTFTs and their circuitry should be fabricated by a process that is as simple as possible.
+1-005	Ambipolarity in charge transport allows the realization of
+1-006	© 2013 American Chemical Society
+1-007	organic CMOS (complementary metal−oxide−semiconductor) ICs via a simple blanket coating without the need for sophisticated micropatterning processes of n- and p-channel conjugated polymers.
+1-008	Therefore, many research groups are actively developing ambipolar conjugated polymers to achieve organic and flexible ICs via a simple large area blanket coating.[4]
+1-009	To realize high-performance ambipolar OTFTs and organic CMOS-based ICs, ambipolar conjugated polymers must meet the following requirements: a high field effect mobility, a low operating voltage, balanced p- and n-channel device character- istics, and a suitable energy level for efficient hole and electron injection from a single electrode, which is typically Au.
+1-010	Received: December 5, 2012
+1-011	Revised: March 12, 2013
+1-012	Published: April 4, 2013
+1-013	Recently, conjugated polymers with alternative donor−acceptor (D−A) moieties in the backbone have been developed for high-performance organic photovoltaics because of the electron push−pull structure that can be used to make low- band gap polymers and the ability to control the copolymer highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) energies independ- ently.[5]
+1-014	In addition, D−A polymers can also enhance the intermolecular interaction leading to a small π−π stacking distance caused by the dipole interaction between donor and acceptor moieties.
+1-015	Therefore, D−A polymers are expected to be a new alternative for active materials in OTFTs with efficient electron and hole ambipolar transport.
+1-016	However, most of the existing polymers predominantly exhibit unipolar (p- or n-type) transport behavior or lower-level and unbalanced ambipolar transport.
+1-017	Among them, excellent ambipolar transport charac- teristics have been reported for some D−A polymers containing diketopyrrolopyrrole (DPP), rylene imide, and benzobisthiadiazole (BBT) as electron deficient units.[4,6]
+1-018	McCulloch and co-workers have reported the synthesis of DPP and a thieno[3,2-b]thiophene-based copolymer (PDPP- TT-T-TT), with hole and electron mobilities of 1.42 and 0.063 cm 2 V−1 s−1, respectively.[5d] Naphthalenebiscarboximide-bithio- phene copolymer (PNIBT) with ambipolar mobilities of 0.003 cm 2 V−1 s−1 for holes and 0.04 cm2 V−1 s−1 for electrons and a high gain of 30 from a PNIBT-based ambipolar inverter was synthesized by Jenekhe and co-workers.[4c] Wudl and co-workers also synthesized a BBT-based copolymer, in which BBT was paired with dithienopyrrole, dithienocyclopentane, dithienosi- lole, and fluorene.
+1-019	In these copolymers, a BBT-dithienocyclo- pentane-paired copolymer showed evenly balanced ambipolar properties, with hole and electron mobilities of 0.13 and 0.1 cm2 V−1 s−1, respectively.[4d] Herein, these previous results imply the design approach for the achievement of excellent ambipolar polymers, and consequently, the following design requirements are suggested: (i) a structural highly planar π-conjugated unit for efficient hole and electron transport by efficient π-orbital delocalization, largely delocalized LUMO and HOMO orbitals, and solid-state packing such as favorable intermolecular π−π stacking; (ii) a decrease in LUMO energies by using an electron deficient unit or an electron-withdrawing substituent to enhance electron transport and air stability; (iii) alkyl side chains for solubility and processability with little or no steric hindrance to the backbone.
+1-020	To satisfy those design require- ments, D−A-type conjugated polymers with fused aromatic donor and acceptor moieties are ideal structures because the fused structures allow highly planar conformations and strong π−π interactions.
+1-021	Regrettably, it is relatively difficult to synthesize fused aromatic compounds.
+1-022	In addition, the solubility of such planar fused polymer systems decreases as the size of the fused ring increases.
+1-023	Therefore, donor and acceptor moieties that can be facilely synthesized and satisfy the design requirements mentioned above are needed for successful achievement of excellent ambipolar polymers.
+1-024	Material design and control of processing conditions are important factors in obtaining well-balanced charge transport properties in ambipolar conjugated polymers.
+1-025	Many previous reports suggest several approaches to the process of improving ambipolar properties such as high-temperature annealing and charge injection engineering via chemical modification of the electrode or the insertion of an interlayer between an organic active layer and an electrode, to control electron and hole mobility.[7]
+1-026	Despite many related studies of ambipolar
+1-027	conjugated polymers, it is not yet fully understood how the process of controlling ambipolar transport affects device performance.
+1-028	Therefore, the study of ambipolar transport through new polymers is needed to gain insight into the mechanisms of charge transport in ambipolar conjugated polymers.
+1-029	In this study, we synthesized and characterized ambipolar D−A polymers using a new combination of a donor and an acceptor based on the aforementioned design requirements.
+1-030	First, a thienylenevinylene (TV) unit was introduced as an electron-donating building block.
+1-031	The TV unit has good planarity and an extended π-conjugation because of the presence of a vinylene spacer between the thiophene units.
+1-032	This was expected to induce a high hole mobility and a low band gap in the polymer.[8]
+1-033	Also, sufficient solubility was induced as a result of alkyl substitution at position 3 or 4 or at both positions of the thiophene in the TV unit.
+1-034	Our previous work demonstrated the potential of an alkyl-substituted TV building block that showed a high crystallinity and mobility as well as excellent solubility.[3a] An imide-functionalized π-system, as an electron deficient unit, was also introduced to complete the D−A polymer.
+1-035	Electron deficient imide-functionalized π-systems are gaining attention as a new approach to high-mobility n-type or ambipolar materials, because of their planar structure and the strong intermolecular interactions among the imide groups.[9]
+1-036	Imide-functionalized π-systems with these properties have been employed to impart strong electron transport characteristics and also to alter the band gap when inserted into polythiophene backbones.
+1-037	Among these imide-functionalized moieties, N-alkyl-3,6-dibromophthalimides are a sufficiently promising electron-accepting unit for the D−A copolymer.[10]
+1-038	These moieties are very useful versatile building blocks because their synthesis involves only two facile steps and because varied alkyl substitution can be conducted on the imide nitrogen atom to control the solubility, packing, and morphology.
+1-039	In addition, it is well-known that phthalimides improve air stability and reliability because they lead to a decrease in HOMO levels via the electron withdrawing nature of an imide.[11]
+1-040	Therefore, we chose phthalimide as the accepting unit in a D−A polymer for this study.
+1-041	The dodecyl-substituted TV and phthalimide-paired copolymers (PTVPhI-Eh and PTVPhI-C12) exhibited lower HOMO levels (−5.24 eV) and good ambipolar transport characteristics.
+1-042	Here, we describe the intra- and interchain conformational changes of this ambipolar D−A polymer, PTVPhI polymers, under various annealing conditions using optical spectroscopy, Raman spectroscopy, computational quantum chemical calcu- lation, X-ray diffraction (XRD), and atomic force microscopy (AFM).
+1-043	OTFTs based on these polymers exhibited further increased electron and hole mobilities via the annealing process, which also resulted in balanced ambipolar mobility.
+1-044	We found a relationship between ambipolar charge transport and intra- and interchain conformational changes upon thermal annealing of PTVPhI polymers.
+1-045	According to the results of this study, the hole and electron mobilities of these polymers are affected by a combination of intra- and interchain conformational changes.
+1-046	In particular, electron mobility is more significantly affected by interchain conformational changes than by changes of hole mobility.
+1-047	Finally, complementary ambipolar inverters were demonstrated by spin-coating without patterning, resulting in a sharp switching signal and large voltage gains (∼40).
+1-048	In addition, a large shift in inverting voltage in pristine OTFTs was greatly improved for the thermally annealed devices
+1-049	because of the achievement of a more balanced hole and electron mobility.
+2-001	Materials.
+2-002	All chemicals were purchased from Aldrich and used without further purification. 3-Dodecylthiophene, 2-bromo-3-dode- cylthiophene, 3-dodecylthiophene-2-carboaldehyde, (E)-1,2-(3,3′-di- dodecyl-2,2′-dithienyl)ethylene, 5,5′-ditrimethylstannyl-(E)-1,2-(3,3′-didodecyl-2,2′-dithienyl)ethylene, 3,6-dibromophthalic anhydride, and N-alkyl-3,6-dibromophthalimide were synthesized as reported previously.[3a,10] All reactions were conducted in a nitrogen atmosphere using commercial solvents, unless otherwise stated.
+2-003	1H NMR spectra were recorded on a JEOL JNM-ECX400, 400 MHz spectrometer in CDCl3.
+2-004	Chemical shifts are reported as parts per million relative to an internal TMS standard.
+2-005	Elemental analysis was recorded on an EA1112 instrument (CE Instrument).
+2-006	The number-average molecular weight (Mn) and weight-average molecular weight (Mw) were determined using gel permeation chromatography (GPC) (YOUNGLIN Acme 9000 instrument) with chloroform as the eluent (flow rate of 1 mL/min, at 35 °C) and were calibrated using a narrow polydispersity polystyrene as the standard.
+2-007	5,5′-Ditrimethylstannyl-( E)-1,2-(3,3′-didodecyl-2,2′-dithienyl)ethylene (1).
+2-008	1H NMR (400 MHz, CDCl3): δ 6.99 (s, 2H), 6.92 (s, 2H), 2.65 (t, 4H), 1.61 (m, 4H), 1.33 (br, 36H), 0.88 (t, 6H), 0.36 (s, 18H).
+2-009	Anal. Calcd (%): C, 56.22; H, 8.49; S, 7.50.
+2-010	Found (%): C, 56.37; H, 8.43; S, 7.53.
+2-011	N-(2-Ethylhexyl)-3,6-dibromophthalimide (2a).
+2-012	1H NMR (400 MHz, CDCl3): δ 7.63 (s, 2H), 3.56 (d, 2H), 1.80 (m, 1H), 1.29 (m, 8H), 0.88 (m, 6H).
+2-013	N-Dodecyl-3,6-dibromophthalimide (2b).
+2-014	1H NMR (400 MHz, CDCl 3): δ 7.62 (s, 2H), 3.66 (t, 2H), 1.65 (m, 2H), 1.27 (m, 18H), 0.85 (t, 3H).
+2-015	Polymerization Procedure.
+2-016	Compound 1 (0.5 mmol) and compound 2 (0.5 mmol) were dissolved in anhydrous chlorobenzene and purged with nitrogen.
+2-017	The catalyst, Pd2(dba) 3 (0.01 mmol), and the ligand, P(o-tolyl) 3 (0.08 mmol), were added to the resultant mixture, and the mixture was refluxed at a constant temperature of 120 °C for 48 h.
+2-018	Subsequently, the resultant reaction mixture was cooled to room temperature and precipitated from a solution in which 150 mL of MeOH was mixed with 30 mL of HCl.
+2-019	The precipitate was filtered to obtain the desired polymers.
+2-020	The final polymers were purified by multiple Soxhlet extractions and vacuum drying.
+2-021	PTVPhI-Eh.
+2-022	1H NMR (400 MHz, CDCl3): δ 7.79 (s, 2H), 7.71 (s, 2H), 7.12 (s, 2H), 3.62 (br, 2H), 2.75 (br, 4H), 1.89 (br, 1H), 1.69 (br, 4H), 1.25 (m, 44H), 0.86 (m, 12H).
+2-023	Anal. Calcd (%): C, 76.38; H, 9.61; N, 1.78; S, 8.16.
+2-024	Found (%): C, 75.89; H, 9.38; N, 1.66; S, 7.98.
+2-025	PTVPhI-C12.
+2-026	1H NMR (400 MHz, CDCl3): δ 7.79 (br, 2H), 7.73 (s, 2H), 7.12 (s, 2H), 3.70 (br, 2H), 2.75 (br, 4H), 1.70−1.25 (br, 60H), 0.86 (m, 9H).
+2-027	Anal. Calcd (%): C, 76.99; H, 9.93; N, 1.66; S, 7.61.
+2-028	Found (%): C, 76.38; H, 9.77; N, 1.53; S, 7.80.
+2-029	Characterization.
+2-030	Thermogravimetric analyses (TGA) were conducted with a TA-2050 instrument at a heating rate of 10 °C/min in a nitrogen atmosphere.
+2-031	Differential scanning calorimetry (DSC) analyses were performed on a TA2010 instrument at a heating rate of 10 °C/min in a nitrogen atmosphere.
+2-032	UV−vis spectra were measured using a Perkin-Elmer Lambada 750 instrument.
+2-033	Cyclic voltammetry measurements of the polymers were performed using an AUTOLAB Eco Chemie instrument at a scan rate of 50 mV/s.
+2-034	The sample of polymers was measured using indium tin oxide (ITO) as the working electrode, a Pt wire as the counter electrode, and a Ag wire as the reference electrode in an acetonitrile solution with 0.1 M tetrabutylammonium perchlorate (Bu4NClO4) as the supporting electrolyte.
+2-035	XRD data of polymer thin films were recorded under room-temperature conditions using a Rigaku RINT 2000 diffrac- tometer with Cu Kα radiation.
+2-036	AFM data were measured using a Digital Instruments multimode atomic force microscope.
+2-037	Raman Measurements.
+2-038	Raman spectra were recorded using a Renishaw inVia Raman microscope with a 785 nm laser diode excitation source.
+2-039	A 50× objective was used to focus the laser spot
+2-040	onto the sample for an exposure time of 1 s with five accumulations, which resulted in a good signal-to-noise ratio with little or no background fluorescence signal.
+2-041	All samples were measured in air and required no special sample preparation.
+2-042	Quantum Chemical Calculations.
+2-043	To interpret the Raman spectra, quantum chemical calculations were performed on the PTVPhI monomer in the virtual gas phase using GAUSSIAN09.
+2-044	To save on computation cost without significantly altering the results of the calculated properties, the long alkyl side chains were replaced with methyl groups.[12]
+2-045	Molecules were first structurally optimized followed by vibrational frequency calculation using density functional theory (DFT) at the B3LYP level of theory[13] and using the 6-31G* basis set.
+2-046	To evaluate the dependence of the vibrational modes on backbone planarity, the thienylenevinylene-phthalimide dihedral angle was frozen in a range of values, and the structure was reoptimized before calculation of the vibrational frequencies of the twisted structures.
+2-047	An empirical scaling factor of 0.96 was applied to the calculated wavenumbers for comparison with the experimental spectra.[14]
+2-048	Molecular orbital distributions along the conjugated backbone were calculated by first structurally optimizing a PTVPhI dimer and trimer in the gas phase using the Austin Model 1 (AM1) semiempirical method.
+2-049	Excited-state energy calculations were then performed on the optimized structures using Zerner’s Intermediate Neglect of Differ- ential Orbital method (ZINDO/S), from which the HOMO and LUMO isosurfaces were mapped.[15]
+2-050	Fabrication and Characterization of OTFTs and Inverters.
+2-051	OTFTs and inverters were fabricated on Corning Eagle 2000 glass substrates with evaporation of gold/nickel (Au/Ni) (15/3 nm) patterns (Ni was the adhesion layer) for the S/D electrodes [channel width (W) = 1 mm, channel length = 20 μm, Wn/Ln = Wp/Lp] using a conventional lift-off photolithography technique.
+2-052	The conjugated polymers, PTVPhI-Eh and PTVPhI-C12, were dissolved in anhydrous chlorobenzene to yield 10 mg/mL solutions.
+2-053	The conjugated polymer solutions were spin-coated onto the as-cleaned substrates.
+2-054	The polymer films were thermally annealed at 150, 200, 250, and 300 °C for 30 min, in a nitrogen glovebox.
+2-055	For the polymer gate dielectric layers, PMMA (Aldrich, molecular mass of 120 kDa) was used without further purification.
+2-056	PMMA (80 mg/mL) was dissolved in n- butylacetate and filtered with a 0.2 μm PTFE syringe filter before spin-coating.
+2-057	The PMMA dielectric layer had a thickness of ∼520 nm, as measured by an XP-1 Surface profiler system (Ambios Technology).
+2-058	After the dielectric coating, the devices were finally annealed at 80 °C for 2 h in the same glovebox.
+2-059	The top-gate transistors were completed by forming gate electrodes on the active regions of the transistors via the evaporation of thin Al films (∼30 nm) with a metal shadow mask.
+2-060	The electrical characteristics of the fabricated individual polymer TFTs and the static characteristics of the complementary inverter circuits were measured using a Keithley 4200-SCS instrument in a glovebox under a nitrogen atmosphere.
+3-001	Synthesis and Characterization of Polymers.
+3-002	To establish synthetic motivation, we simulated the repeating unit of PTVPhI polymers using the B3LYP density functional theory method.
+3-003	This simulation result shows the planar conformation of the PTVPhI repeating unit, as shown in Figure 1.
+3-004	This can be attributed to the strong planarizing effect of the vinylene linker.
+3-005	Also, the planar conformation of the PTVPhI repeating unit shows that the conformation of the molecule matched well with our synthetic intention.
+3-006	Both polymers (PTVPhI-Eh and PTVPhI-C12) were synthesized via a Stille coupling polymerization between 5,5′-ditrimethylstannyl-(E)-1,2-(3,3′-didodecyl-2,2′-dithienyl)-ethylene and N-alkyl-3,6-dibromophthalimide using Pd2(dba)3/ P(o-tolyl)3 in chlorobenzene via the synthetic route shown in Scheme 1.
+3-007	Sufficient solubility of both polymers was achieved by attaching branched 2-ethylhexyl and a sufficiently long n- dodecyl chain.
+3-008	These polymers showed high solubility in
+3-009	common organic solvents such as chloroform (∼30 mg/mL), tetrahydrofuran (∼20 mg/mL), and chlorobenzene (∼30 mg/mL) because of the presence of sufficient alkyl side chains consisting of TV and phthalimide units.
+3-010	The final copolymers had number-average molecular weights (Mn ) of 18600 g/mol (PTVPhI-Eh) and 17800 g/mol (PTVPhI-C12), as determined by GPC versus a polystyrene standard.
+3-011	The thermal properties of the polymers were measured by TGA and DSC, as shown in Figure S1 of the Supporting Information.
+3-012	The TGA thermo- grams of PTVPhI-Eh and PTVPhI-C12 revealed high decomposition temperatures (5% weight loss) of 414 and 399 °C, respectively, under a nitrogen atmosphere, which indicated good thermal stability because of the presence of a phthalimide group.
+3-013	Interestingly, PTVPhI-Eh with a branched ethylhexyl side chain showed a meltinglike thermal transition, while common polymers with the branched side chain do not exhibit such thermal transitions due to either poor molecular ordering or the amorphous nature of the bulky chains.[16]
+3-014	PTVPhI-Eh and PTVPhI-C12 showed meltinglike thermal transitions (Tm) at 260 and 293 °C, respectively.
+3-015	This means that PTVPhI-Eh can conduct chain motion or reorganization at a temperature that is relatively lower than that for PTVPhI-C12.
+3-016	The HOMO energetic levels for both polymers were measured using cyclic voltammetry.
+3-017	The HOMO levels of
+3-018	PTVPhI-Eh and PTVPhI-C12 were determined to be −5.24 and −5.18 eV, respectively, as shown in Figure S2 of the Supporting Information.
+3-019	The LUMO level was estimated using the optical band gap (∼1.83 eV) and HOMO levels.
+3-020	The LUMO levels of PTVPhI-Eh and PTVPhI-C12 were calculated as −3.39 and −3.33 eV, respectively.
+3-021	These results are summarized in Table 1.
+3-022	Optical Properties of Polymers.
+3-023	The UV−vis absorption spectra of both polymers were measured to establish the effect of thermal annealing on the optical properties.
+3-024	The absorption spectra of both polymer films showed a red shift of ∼44 nm compared with those in solution.
+3-025	This red shift is caused by strong interchain interaction between the polymeric chains in the thin film.
+3-026	As shown in Figure 2a, the absorption spectra of the PTVPhI-Eh film showed significant changes after thermal annealing.
+3-027	For the pristine film, the absorption spectrum showed two peaks at 568 and 620 nm.
+3-028	After annealing had been conducted from 150 to 200 °C, the spectra showed red shifts and increased absorption intensities.
+3-029	The film annealed at 250 °C exhibited further increased absorption.
+3-030	It was noted that strong reorganization of the polymer chains upon thermal annealing had induced a red shift and an increased absorption intensity of the annealed samples, either from strong interchain contact or from an increased level of molecular ordering of the conjugated backbone, i.e., either a polymer packing arrange- ment or a polymer backbone planarity.
+3-031	With further increases in the annealing or heating temperature from 250 to 300 °C, the absorption spectra of PTVPhI-Eh films showed a blue shift of absorption onset and a drastic diminution in intensity, indicating a change in the conformation or intermolecular aggregations.
+3-032	Similarly, PTVPhI-C12 films showed a red shift and increased absorption intensity from pristine to 250 °C, as shown in panels b and d of Figure 2.
+3-033	In addition, heating (annealing above Tm) the film at 300 °C showed a blue shift and a decrease in absorption.
+3-034	To obtain more detailed information about the structural conformation of both a
+3-035	a
+3-036	Reagents and conditions: (i) NBS, CH3Cl/AcOH, 0 °C; (ii) Mg, DMF, THF, reflux; (iii) TiCl4, Zn, pyridine, THF, 0 °C to reflux; (iv) n-BuLi,
+3-037	Me 3SnCl, THF, −78 °C to room temperature; (v) bromine, iodine, oleum, 60 °C; (vi) R-amine, AcOH, reflux; (vii) Pd 2(dba)3, chlorobenzene, 120
+3-038	°C.
+3-039	aDetermined by gel permeation chromatography vs a polystyrene standard.bElectrochemically determined vs Fc/Fc+ , where ferrocene E1/2 = 0.45 V, PTVPhI-Eh Eonset = 0.89 V, and PTVPhI-C12 Eonset = 0.83 V. cELUMO = EHOMO + Egopt. dOptical band gap estimated from the absorption edge of the thin film.
+3-040	polymers following thermal annealing, we measured the Raman film at 300 °C had no further effect on the thiophene mode, spectra and X-ray diffraction of a thin film at various thermal while the vinyl mode shifted to a slightly higher wavenumber at annealing temperatures. 300 °C. In the PTVPhI-C12 pristine film, both the thiophene Raman Spectra of Polymer Films.
+3-041	The initial Raman and vinyl modes shifted to a lower wavenumber relative to that spectra were obtained from solutions of PTVPhI-Eh and of the solution spectrum, with a trend (although a weaker PTVPhI-C12 in p-xylene to determine the nature of the Raman effect) similar to that of the PTVPhI-Eh films.
+3-042	Unlike that of peaks using calculated vibrational spectra.
+3-043	Previous work has PTVPhI-Eh, further annealing caused a monotonic shift of the shown that the backbone conformation of conjugated systems PTVPhI-C12 thiophene and vinyl modes to progressively lower in the gas phase is insensitive to large alkyl groups while adding wavenumbers.
+3-044	greatly to the computational cost.
+3-045	Therefore, the Eh and C12 Interpretation of the Raman Spectra.
+3-046	To explore the alkyl chains were substituted with methyl groups in all significance of the shift in thiophene and vinyl Raman modes, calculations to optimize computation time.[12]
+3-047	Both molecules the vibrational spectra of a PTVPhI-methyl monomer with in a p-xylene solution exhibited almost identical Raman spectra, varying torsion angles (40° to 0° in steps of 10°) were supporting the idea that the conjugated cores of isolated calculated (Figure 3e,f).
+3-048	This had the effect of modulating the molecules are insensitive to long flexible alkyl groups. degree of HOMO−LUMO delocalization along the backbone, Prominent Raman peaks at 1418 and 1594 cm−1 were observed. with the more planar structure having enhanced conjugation The DFT-calculated methyl-substituted monomer showed relative to that of the more twisted structure.
+3-049	The results good agreement with the solution Raman spectra of both showed unequivocally that for both the thiophene and vinyl PTVPhI-Eh and PTVPhI-C12, suggesting the gas-phase modes, the shift to a lower wavenumber signified an increase in monomer approximation was appropriate in this case.
+3-050	By the planarity or degree of conjugation along the backbone. comparison of the experimental and calculated spectra, the two Similar results for conjugated systems have been reported main Raman modes were identified as belonging to the previously.[17]
+3-051	Using this analysis, it was possible to determine thiophene (1418 cm−1) and vinyl (1594 cm−1) CC stretch that for PTVPhI-Eh the level of conjugation in pristine film was mode vibrations (Figure 3).
+3-052	For the PTVPhI-Eh polymer in a greater than it was for PTVPhI-C12 (greater peak shift in pristine thin film, both the thiophene and vinyl peaks shifted to PTVPhI-Eh from solution to pristine film), which would lower wavenumbers (from 1418 to 1414.5 cm−1 and from suggest better charge transport properties in the PTVPhI-Eh 1593.5 to 1592 cm−1, respectively) relative to those of the pristine film compared to that in PTVPhI-C12.
+3-053	On subsequent solution spectrum.
+3-054	Annealing the film at 110 °C further shifted annealing, the PTVPhI-Eh film showed little change in the thiophene peak to a slightly lower wavenumber, while the delocalization (small peak shifts) except at 300 °C, where vinyl mode remained stable.
+3-055	Heating (annealing above Tm) the there was a small but noticeable decrease in the level of
+3-056	(d) vinyl CC stretch mode for PTVPhI-C12 under 785 nm excitation.
+3-057	Enlarged spectra are shown in the insets.
+3-058	Calculated Raman spectra of the
+3-059	(e) thiophene CC and (f) vinyl CC stretch mode in the PTVPhI backbone.
+3-060	conjugation (peak shift to a higher wavenumber).
+3-061	In the PTVPhI-C12 pristine film, despite the fact that the Raman spectrum suggested a smaller increase in the level of conjugation from solution relative to pristine PTVPhI-Eh, further heating (annealing above Tm) to 300 °C showed continually improving conjugation (indicated by the continual peak shifts to lower wavenumbers) with no evidence of a diminished level of conjugation (peak shift to higher wave- numbers) even at 300 °C.
+3-062	Characterization of OTFTs.
+3-063	Top-gate/bottom-contact (TG/BC) OTFTs were fabricated by spin-coating the PTVPhI-Eh and PTVPhI-C12 solutions in chlorobenzene as the active layer.
+3-064	Both devices showed typical ambipolar OTFT characteristics, such as diodelike current−voltage characteristics in the V-shaped transfer curve (Figure 4).
+3-065	The hole mobility and electron mobility were calculated from the respective saturation regime of the transfer curves using the standard saturation regime equation of metal oxide field effect
+3-066	transistors: Ids = (μWCo/2L)(Vg − Vt)[2].[18]
+3-067	Both polymers exhibited a hole and electron mobility change as the annealing temperature was increased as shown in Table 2.
+3-068	When the samples were annealed at 200 °C, the electron mobility of both polymers was greatly increased, causing both hole mobility and electron mobility to be more balanced.
+3-069	Further heating (annealing above Tm) at 300 °C led to hole and electron mobilities of the PTVPhI-C12 device being further increased; those of the PTVPhI-Eh device decreased upon heating above 250 °C. Pristine PTVPhI-Eh devices showed values of 0.18 cm2 V−1 s−1 for hole mobility and 0.004 cm2 V−1 s−1 for electron mobility.
+3-070	The hole and electron mobilities significantly improved on thermal annealing at 200 °C for 30 min, and hole and electron mobilities of 0.75 and 0.03 cm2 V−1 s −1, respectively, were achieved.
+3-071	When the annealing temperature was increased to 250 °C, the hole mobility decreased from 0.75 to 0.4 cm2 V−1 s−1, whereas the electron mobility was increased from 0.03 to 0.06 cm2 V−1 s −1.
+3-072	When the heating temperature
+3-073	a FET
+3-074	th
+3-075	was increased to 300 °C, both hole and electron mobilities were 0.041 cm2 V−1 s −1 for holes and from 0.006 to 0.0493 cm2 V−1 decreased.
+3-076	The PTVPhI-C12 devices also showed typical s−1 for electrons when the annealing temperature was increased ambipolar characteristics but a mobility relatively lower than from 150 to 250 °C. As a result, PTVPhI-C12 devices exhibited that of the PTVPhI-Eh devices.
+3-077	The pristine PTVPhI-C12 well-balanced hole and electron mobilities of 0.041 and 0.0493 devices showed a hole mobility of 0.03 cm2 V−1 s−1 and an cm2 V−1 s −1, respectively.
+3-078	Unlike PTVPhI-Eh devices, the hole electron mobility of 0.0028 cm2 V−1 s−1.When the PTVPhI-C12 and electron mobilities of PTVPhI-C12 devices increased devices were annealed at temperatures up to 150 °C, no further when they were heat-treated (annealing above Tm) at significant change were observed in hole and electron 300 °C. The PTVPhI-Eh and PTVPhI-C12 devices showed mobilities.
+3-079	However, the mobilities increased from 0.031 to little threshold voltage (Vth) shift for both the p- and n-
+3-080	and right show topographic and phase mode images, respectively.
+3-081	channels via the annealing process.
+3-082	The details of the parameters as a function of thermal annealing temperature for both polymers are summarized in Table 2.
+3-083	Microstructure and Morphologies of Polymer Thin Films and Their Correlations with Charge Transport Properties.
+3-084	To understand the effect of thermal annealing on the device performance of both polymers, the microstructure and surface morphology of thin films were investigated using XRD and AFM.
+3-085	The ordering of both polymers in thin films was investigated using XRD as shown in Figure 5.
+3-086	The XRD spectra of the pristine films for both polymers showed weak molecular ordering.
+3-087	This was because the polymer chains may not have had a sufficient amount of time to form an ordered molecular structure during the relatively fast spin-coating process.[19]
+3-088	After annealing had been conducted at 150 °C, distinguishable diffraction peaks were observed at 2θ values of 3.5° and 3.2° for PTVPhI-Eh and PTVPhI-C12, respectively.
+3-089	The intensity of the diffraction peaks in the PTVPhI-Eh film changed with an increase in the annealing temperature.
+3-090	The intensity of the diffraction peak gradually increased with increases in temperature of as much as 200 °C, and then a drastic increase was observed when the annealing temperature reached 250 °C. However, the intensity of these diffraction peaks decreased upon further heating (annealing above Tm) to 300 °C. The changes in diffraction peaks for the PTVPhI-Eh film were strongly correlated with electron mobility.
+3-091	A maximal electron mobility of 0.06 cm2 V−1 s −1 was obtained at 250 °C, but hole mobility began to decrease drastically from 0.75 (200 °C) to 0.4 cm2 V−1 s−1 at 250 °C. This result means that the strongest interchain ordering induces a favorable chain conformation for electron hopping transport, such as the alignment of transport sites, while strong interchain ordering does not predominantly act on hole transport.
+3-092	The next section provides a more detailed discussion about hole and electron charge transport.
+3-093	On the other hand, in the case of the PTVPhI-C12 film, there was no significant change in diffraction peaks when the annealing/heating temperature was increased from 150 to 300 °C. This means that chain reorganization is more easily achieved by thermal annealing for PTVPhI-Eh than
+3-094	it is for PTVPhI-C12.
+3-095	Both polymers showed more a diffraction peak at 300 °C clearer than those of pristine films, despite the large diminution in intensity that was observed for long wavelength absorption.
+3-096	As a result, electron mobility was more improved than those of pristine films due to the improvement in molecular ordering and packing.
+3-097	Despite the increase in the magnitude of the XRD peak by the thermal annealing process, the shift in the position of the XRD peak was negligible, which indicates no change in the π−π stacking distance between intermolecules.
+3-098	Correlation between Intra- and Interchain Conforma- tion and Charge Transport Properties with the
+3-099	Annealing Process.
+3-100	The mechanisms of hole and electron transport were studied using the electron-state density distribution, Raman spectroscopy, and XRD.
+3-101	First, quantum chemical calculations (ZINDO/S excited-state energy calcu- lations on AM1 optimized geometries) were conducted for the electron-state density distribution of the HOMO and LUMO of the structurally optimized PTVPhI dimer and trimer to explain the presence of ambipolarity in a PTVPhI backbone (Figure 8).
+3-102	The side chains in a PTVPhI backbone were excluded in this model because the alkyl chains have little or no impact on the backbone conformation and the charge density isosurface.[12]
+3-103	In the typical D−A polymer, F8BT, it is known that the HOMO level is fully delocalized along the polymer backbone and that the LUMO is strongly localized on the electron-accepting unit of the polymer backbone.[12b] Therefore, hole transport is expected to move efficiently along the polymer backbone, while electron transport is limited.
+3-104	The localized LUMO on the electron-accepting unit can obstruct intra- and interchain charge transport, and for this reason, good alignment or ordering of the localized LUMO is required.
+3-105	However, as shown in Figure 8, the PTVPhI backbone shows that the charge densities of HOMO and LUMO are delocalized across the polymer backbone, even though the LUMO appears to be less delocalized across the backbone than the HOMO.
+3-106	The intrachain hole and electron transport are thus efficient along the conjugated polymer backbone within an effective conjugation length, particularly when the polymer chains are well aligned in the transport direction and when there is an absence of chemical defects.
+3-107	This result is consistent with the results of Raman spectroscopy and XRD.
+3-108	From the Raman analysis, either the planarity or the level of conjugation of the PTVPhI backbone was increased with the annealing process,
+3-109	compared with that of the solution and pristine film.
+3-110	Increasing the backbone planarity or level of conjugation could help with intrachain hole and electron transport and lead to improve- ments in the hole and electron mobilities of the polymer.
+3-111	In addition, XRD spectra showed improvement of interchain ordering by thermal annealing, and thus, an increase in the extent of interchain hole and electron transport could be observed.
+3-112	In particular, electron mobility showed a significant improvement compared with that of hole mobility.
+3-113	Typically, the main charge transfer route within the ordered domains is an intrachain rather than an interchain one if the charge densities of both HOMO and LUMO are well-delocalized over the polymer backbone.
+3-114	However, intrachain electron transport of these polymers is relatively limited and not expected to be a very efficient transport compared to hole transport, because the LUMO is less delocalized along the backbone than the HOMO, as shown in Figure 8.
+3-115	Therefore, it would be necessary to create another transport pathway for electrons to make up for limited intrachain transport, and an increased interchain ordering by annealing process could efficiently create another transport pathway.
+3-116	For that reason, electron mobility is strongly affected and more improved by interchain ordering.
+3-117	By contrast, the effect was relatively small in hole transport because intrachain hole transport is significantly predominant over interchain hopping when the HOMO is strong delocalized over the conjugated backbone without strong fluctuations in the torsion angles between adjacent units.[20]
+3-118	However, although the planarity and ordering of PTVPhI polymers were improved by thermal annealing, the hole and electron mobilities were not perfectly balanced.
+3-119	This effect can be attributed to the energy level mismatch for hole and electron injection between the polymer frontier molecular orbital and the Au electrode.
+3-120	The difference in charge injection properties can be corrected by the insertion of an interlayer between an injection electrode and a conjugated polymer.[7a] Figure 9 shows the schematic illustration of a PTVPhI polymer chain conformation and hole and electron transport in a pristine and thermally annealed film.
+3-121	Figure 9a is an illustration of weak polymer chain ordering in pristine films, as observed in the XRD and Raman data.
+3-122	Annealed polymer chains can reorganize themselves in a more planar and ordered conformation of intra- and interchains (Figure 9b).
+3-123	The reorganization of polymer
+3-124	respectively.
+3-125	chains induces more efficient intra- and interchain charge transport, resulting in increased hole and electron mobilities.
+3-126	Characterization of a Complementary Inverter.
+3-127	We demonstrated complementary-like ambipolar inverters using a PTVPhI-Eh polymer.
+3-128	PTVPhI-Eh inverters consist of two identical TG/BC OTFTs that are connected.
+3-129	They were fabricated by spin-coating without a patterning process for the conjugated polymer.
+3-130	Figure 10 shows the voltage transfer characteristics (VTCs) and output voltage gains of a PTVPhI-Eh ambipolar inverter at a supplied voltage (VDD) of ±60 V after annealing at various temperatures.
+3-131	As shown in Figure 10a,
+3-132	PTVPhI-Eh ambipolar inverters showed typical Z-shaped-like VTCs due to the noise of the pull-down transistor at a zero gate bias.
+3-133	The inverting voltage of a PTVPhI-Eh inverter without annealing was largely shifted in the positive direction from an ideal value (half of VDD).
+3-134	This asymmetry of VTCs in the pristine CMOS inverter resulted in the unbalanced character- istics (μFET and Vth) of pull-up and pull-down transistors.[21]
+3-135	The largely shifted inverting voltages were greatly improved for thermally annealed devices because of the more balanced hole and electron mobilities.
+3-136	Panels c and d of Figure 10 show the VTCs and output voltage gains, respectively, for various supply voltages at 250 °C of an annealed PTVPhI-Eh ambipolar inverter.
+3-137	The sharp switching curve of PTVPhI-Eh inverters exhibited a maximal voltage gain of ∼40 at VDD = 70 V. In addition, the inverting voltage and hysteresis of PTVPhI-C12 inverters showed trends similar to those of PTVPhI-Eh inverters, as shown in Figure S6 of the Supporting Information.
+4-001	We have synthesized and characterized a series of D−A copolymers (PTVPhI-Eh and PTVPhI-C12) based on a dodecyl-TV unit and an alkyl-substituted phthalimide unit.
+4-002	These polymers showed energy levels that are suitable for application in ambipolar OTFTs, and consequently, they showed good ambipolar mobility.
+4-003	The maximal hole and electron mobilities of both polymers were measured: for PTVPhI-Eh, μh = 0.75 cm2 V −1 s −1 and μe = 0.06 cm2 V−1 s−1; for PTVPhI-C12, μh = 0.068 cm2 V−1 s−1 and μe = 0.049 cm2 V−1 s −1.
+4-004	Our studies of the charge transport of PTVPhI polymers upon thermal annealing have demonstrated that
+4-005	changes in intra- and interchain conformation and packing affect both hole and electron mobilities.
+4-006	The pristine films of both polymers showed lower hole and electron mobilities as a result of an inefficient charge transport pathway due to a disordered conformation.
+4-007	Upon thermal annealing, increasing the backbone planarity or level of conjugation could help with intrachain hole and electron transport and lead to improve- ments in the hole and electron mobilities of the polymer.
+4-008	However, intrachain electron transport is relatively limited compared to hole transport because the LUMO is less delocalized along the backbone than the HOMO.
+4-009	Therefore, after annealing had been conducted, electron transport is more affected by interchain ordering, and that makes another pathway for efficient electron transport to neighboring chains, resulting in increased electron mobility.
+4-010	On the other hand, intrachain hole transport is significantly predominant over interchain hopping because the HOMO is strongly delocalized over the backbone and consequently hole transport is less affected by interchain ordering.
+4-011	Finally, we demonstrated complementary-like ambipolar inverters using a PTVPhI-Eh polymer.
+4-012	After annealing had been conducted at 250 °C, the PTVPhI-Eh inverter showed improvement in inverting voltage that is close to 0.5VDD and a sharp switching signal and a large gain of ∼40 due to a better balance for hole and electron mobility.

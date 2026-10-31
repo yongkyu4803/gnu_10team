@@ -1,0 +1,271 @@
+# document_id: jp204242q
+# extractor: kordoc-markdown-adapter-1
+1-001	Proton exchange membranes are extensively used as fuel cell electrolytes.[1]
+1-002	Of particular interest are membranes that operate above 120 °C without the need for humidification.
+1-003	These con- ditions are advantageous because thermal management is easier; platinum-based catalysts have higher activities; and the higher temperatures render catalysts less susceptible to carbon mon- oxide poisoning.[1,2]
+1-004	Recently, membranes based on Dupont Nafion 1173 neutralized with the triethylammonium ion and doped with proton-conducting ionic liquids (PCILs) have shown improved thermal and mechanical properties and an increased range of operating temperatures compared to Nafion 117.[4]
+1-005	In this series of publications, triethylammonium neutralized Nafion impregnated with triethylammonium methanesulfonate (TMS) and triethylammonium perfluorobutanesulfonate (TPFBu) PCILs were studied to evaluate the effect of the PCIL anion on
+1-006	r 2011 American Chemical Society
+1-007	the properties of PCIL-doped neutralized Nafion.
+1-008	In part 1,[5] the thermal and mechanical properties of these two novel membrane systems were characterized, and the structures and interactions between system components were correlated.
+1-009	In this part 2, the electrical properties and the proton conduction mechanism are investigated using broadband electric spectroscopy (BES).
+1-010	BES is ideal for the correlation of composite electrolyte structures to physical properties, particularly when paired with other tech- niques such as nuclear magnetic resonance or dynamic mechanical analysis.
+1-011	Charge transfer and dielectric relaxation data obtained by BES are connected to the material structure to determine charge
+1-012	wide variety of systems,[6] including more recent studies focused on the electrical properties of ionic liquids.[79]
+1-013	Ionic liquids are a class of salts characterized by relatively low melting points; i.e., they can exist in a liquid state at or close to room temperature.
+1-014	Ionic liquids are of intense interest for a variety of applications, including synthesis, green chemistry, bio- technology, electrochemistry, and energy conversion devices.1016 It is important to understand both the morphology and the types of motion and relaxation that exist within these materials.
+1-015	Recent studies have shown that ionic liquids self-assemble into nanoscale aggregates, both as pristine ionic liquids and in solution.7,1719 The presence of nanoscale aggregates can result in multiple dielectric relaxation phenomena.
+1-016	There is an abundance of literature discuss- ing relaxation phenomena in imidazolium-type ionic liquids.1719 For example, Nakamura and Shikata[7] reveal the presence of three dielectric relaxation phenomena in 1-alkyl-3-methylimidazolium ionic liquids.
+1-017	The slower relaxation events are dependent on several factors including the volume, viscosity, and dipole of the ions that are present and are attributed to rotational modes of the ions.[7]
+1-018	The faster relaxation events are attributed to interionic motion.[7]
+1-019	For electrochemical and energy conversion applications, understanding ion-conduction phenomena is key to improving performance.
+1-020	The presence of aggregates in ionic liquids can also result in multiple conduction phenomena with varying relaxation times.
+1-021	These phenomena are attributed to the presence of electrode polariza- tions resulting from long-range charge motion or interfacial polarizations arising from the build-up of charge at the variety of domain boundaries within the material.[4,6]
+1-022	For ionic liquids at room temperature, molecular relaxations are typically found in the giga and terahertz frequencies.[8]
+1-023	Identi- fying relaxation modes occurring at lower frequencies has been difficult because such responses are “swamped” by conduction phenomena.
+1-024	This work shows that PCIL molecular relaxations can be probed at lower frequencies (i.e., millihertz to megahertz) by conducting the measurements at significantly reduced temper- ature.
+1-025	This innovation enables the characterization of the electric properties of both the pristine PCILs and the PCIL-impregnated membranes above and below the PCIL melting points (Tm).
+1-026	These studies reveal the presence of molecular relaxations below the Tm and several conduction phenomena above Tm.
+1-027	The results elucidate charge conduction mechanisms for both the pristine ionic liquids and the doped membranes.
+2-001	2.1.
+2-002	Ionic Liquid Syntheses and Membrane Preparation.
+2-003	The PCILs TMS and TPFBu and the doped membranes were prepared as previously reported.[5]
+2-004	The triethylammonium neu- tralized Nafion 117 (nN117) treated with TMS and TPFBu are referred to as NTMS and NTPFBu, respectively.
+2-005	The NTMS membrane contains 25 wt % of TMS, while the NTPFBu membrane contains 40 wt % of TPFBu.
+2-006	2.3.
+2-007	Instruments and Methods.
+2-008	BES measurements were collected over the frequency range from 102 to 107 Hz using a Novocontrol Alpha analyzer from 100 to 150 °C in 10 °C intervals with accuracy better than (0.1 °C. The temperature was controlled with a homemade cryostat equipped with a gaseous nitrogen heatingcooling system.
+2-009	Samples were placed between two gold disk electrodes with a 20 mm diameter and a 1 mm thickness.
+2-010	To avoid exposure of the samples to ambient humidity, the samples and electrodes were loaded into a home- made Teflon cell inside a drybox.
+3-001	BES measurements are utilized to examine conductivity and dielectric relaxations and to investigate the mechanism of charge conduction.
+3-002	For pure TMS and TPFBu, the imaginary compo- nent of the permittivity (ε00) and the real component of the conductivity (σ0) versus frequency over a 250 °C temperature range are shown in Figures 1 and 2, respectively.
+3-003	Several trends are evident in Figure 1.
+3-004	Melting of the ionic liquid increases ε00 above 30 °C for TMS and above 60 °C for TPFBu.
+3-005	These data are consistent with DSC measurements.[5]
+3-006	With increasing tempera- ture, a peak with values of ε00 ranging from 105 to 106 appears and moves toward higher frequencies.
+3-007	This peak exhibits a large shift to higher frequency at the Tm of the ionic liquid.
+3-008	At temperatures below 0 °C and frequencies above 100 Hz the presence of a dielectric relaxation for both TMS and TPFBu is identified by an inflection point in ε00.
+3-009	Finally, for lower frequencies and tem- peratures near and above the PCIL melting point, ε00 increases with decreasing frequency.
+3-010	The σ0 spectra (Figure 2) undergo a step increase of 23 orders of magnitude in conductivity that corresponds to the ionic liquid Tm.
+3-011	This trend is more evident for TPFBu than TMS.
+3-012	The profiles of σ0 show an inflection point, marking the beginning of a plateau that is correlated with the appearance of the intense peaks
+3-013	in the spectra of ε00.
+3-014	This plateau indicates the “bulk” conductiv- ity, σdc, of the ionic liquid.[20,21]
+3-015	The presence of the intense peak in ε00 and the corresponding decline in σ0 indicates that this behavior corresponds to an electrode polarization event, caused by the measurement electrodes, that blocks the charge carriers of the PCILs at the interface of the electrode and the electrolyte.[6,22]
+3-016	Profiles of σ0, similar to those reported in Figure 2, were recently obtained for “imidazolium-based” ionic liquids and resulted from the combination of the bulk conductivity and the electrode polarization.[23,24]
+3-017	Comparing the profiles for the permittivity and the conductivity reported in Figures 1 and 2 show: (a) the increase of σ0 below Tm and above 100 Hz due to the presence of a dielectric relaxation, and (b) for low frequency and tempera- tures close to or higher than Tm, the increase in ε00 suggests the presence of polarization phenomena other than the electrode polarization.
+3-018	Polarization phenomena occur where a density of charge accumulates in ionically conducting materials due to the pres- ence of suitable morphologies and interactions within the mate- rial.
+3-019	The charges which form the accumulated density cannot simply move through the bulk material but are associated with interfaces present within the matrix.
+3-020	The electrode polarization phenomenon results from the accumulation of charge at the electrodematerial interfaces when blocking electrodes are used.
+3-021	Interfacial polarization occurs in heterogeneous materials due to the accumulation of charge densities at the interfaces be- tween two nanodomains with different dielectric constants and conductivities.
+3-022	All polarization events can be described as a number of resis- tance and complex capacitance elements connected in series.
+3-023	The conductance accounts for the exchange of charge between different domains of accumulated charge, while the capacitance describes the accumulation of charge at interfaces.
+3-024	It can be hypothesized that: (a) the accumulation of charge at the electrodematerial interface (electrode polarization) occurs when block- ing electrodes are used and when a high density of charge at the electrodematerial interfaces results from very fast micro- scopic exchange processes in bulk materials due to the direct
+3-025	current conductivity (σDC); (b) a local accumulation of charge is produced in bulk materials (interfacial polarization) due to the presence of domains with different permittivities.
+3-026	The interfacial conductivity is associated with charge exchange between differ- ent local accumulations of charge at the interfaces between domains with different permittivities.
+3-027	The electric response of the pure ionic liquids above the Tm is characterized by the presence of three distinct polarization phenomena associated with σ0 , σ1 , and σ2 .
+3-028	These conductivity components, determined from eqs 1 and 2 shown below, can be seen in the spectra of σ 0 at 120 °C for TMS and TPFBu (Figure 3).
+3-029	In eq 1, σ*(ω) = σ0(ω) + iσ00(ω) and ε*(ω) = ε0(ω) iε00(ω) are the complex electric conductivity and permittivity, respec- tively; εo is the dielectric permittivity in vacuum; and ω is the radial frequency in rad/s.
+3-030	At high temperatures, the presence of polarizations occurring at different frequencies is typically observed in ionic conductors consisting of two or more phases with different dielectric constants.[6]
+3-031	For TMS and TPFBu, this scenario could occur assuming the partial formation of nanoaggregates in a variety of morphologies induced by van der Waals interactions between the alkyl chains in both the cationic and the anionic components of the PCILs.
+3-032	This hypothesis is consistent with the work of Di Noto et al. that suggests the ionic liquid triethylammonium trifluoromethanesulfonate (TEATF) confined in the nN117 membrane has a nanostructure in which the triflate anions organize into aggregates.[4]
+3-033	Martinez et al. have shown that the presence of the perfluorinated butane chain in TPFBu results in a reduction of the degree of dissociation, as compared to TEATF and TMS, and the possible formation of micellar-like struc- tures.[25]
+3-034	The possibility of aggregation in “dialkyl-imidazolium- based” room temperature ionic liquids (RTILs) was reported by Turton et al.[19] They found that data from both optical Kerr effect spectroscopy and BES suggested the formation of clusters due to interactions between the imidazolium rings or due to the cou- pling of the cation alkyl tails.
+3-035	Triolo et al. used X-ray diffraction to investigate alkylimidazolium-based RTILs to demonstrate the existence of nanosegregation induced by the presence of the alkyl chains.[18,26]
+3-036	Dyson et al. detected the formation of aggregates between 30 and 100 °C with a predominance of cationic and anionic complexes such as C2 A+, C3 A2+, CA2, and C2 A3 for N-butylpyridinium tetrafluoroborate using Electrospray Ioniza- tion Mass Spectrometry (ESI-MS).[17]
+3-037	The presence of aggregates in PCILs was discovered 30 years ago by Kholer et al.[27,28] during a study of the thermodynamic and physicochemical properties of a mixture of acetic acid and triethylamine.
+3-038	They suggested that the formation of a A3 B com- plex (A = acetic acid, B = triethylamine) occurred due to the attractive interactions between the polar molecule AB and an acetic acid dimer.[27,28]
+3-039	Conductometric measurements by Hojo et al.[29] showed the formation of aggregates containing ions of the type M2X+ (MX 2) and M2 X2 for trialkylammonium salts in the presence of aprotic organic solvents.[29]
+3-040	Using ESI-MS, Kennedy et al. found the following for PCILs based on dialkylammonium nitrates: (a) ethyl, propyl, and butylammonium nitrates formed stable C8 A7+ nanoaggregates (C = cation, A = anion) where the abundance and stability of these aggregates is independent of the Figure 4.
+3-041	Profiles of (a) ε00 and (b) σ0 as a function of temperature for NTMS.
+3-042	length of the cation alkyl chain; (b) anionic aggregates are equally dispersed in clusters of different dimensions; (c) the dimensions of the cationic clusters are reduced with increasing order of the amine cations, i.e., from primary, secondary, and tertiary amines, due to increased steric hindrance and fewer hydrogens available for the formation of hydrogen bonds; (d) the formation of nanoaggregates increases in the presence of anions with higher charge densities, such as the nitrate ion, and decreases with increasing anionic dimension.30The literature consistently points out that the PCILs containing primary, secondary, and tertiary alkylammonium cations form both ionic and neutral aggregates.
+3-043	The spectra of ε00 and σ0 measured for NTMS and NTPFBu shown in Figures 4 and 5 are very similar to those of their respective PCILs, suggesting that the electric properties of the doped membranes are strongly influenced by the PCIL.
+3-044	The profiles of ε00 and σ0 of the polymeric membranes reveal: (a) the presence of an intense peak due to electrode polarization with values of ε00 of the order of 106; this peak moves to higher fre- quency with increasing temperature and corresponds to the beginning of a plateau in σ0 associated with the “bulk” conductivity σ0 of the material; (b) the absence of a sharp increase in ε00 and σ0 for NTMS at the melting point Tm2,TMS= 38.4 °C; (c) an increase in the values of ε00 and σ0 for NTPFBu at Tm2,TPFBu= 61.3 °C;
+3-045	20 Hz, 1 kHz, and 10 kHz for: (a) TMS, (b) NTMS, (d) TPFBu, and
+3-046	(e) NTPFBu.
+3-047	For the sake of comparison, parts (c) and (f) report the profiles of tan δ for nN117 presented by Di Noto et al.[4]
+3-048	(d) the presence of a dielectric relaxation at temperatures below
+3-049	the PCIL melting point and frequencies higher than 100 Hz; and
+3-050	(e) an increase of ε00 and a decrease of σ0 with decreasing fre- quency for frequencies less than 1000 Hz and temperatures higher
+3-051	than 50 °C that suggest the presence of different polarization phenomena.
+3-052	In the polymer membranes, the presence of multi-
+3-053	ple polarizations is due to the accumulation of charge at inter-
+3-054	faces between domains with different dielectric constants.[4]
+3-055	Free charge carriers migrating through the bulk membranes under the influence of an applied field may become trapped due to charge amassed at a barrier such as the hydrophobic moiety of low permittivity domains.
+3-056	This phenomenon results in the creation of
+3-057	a localized accumulation of charge that will induce mirrored charges on the skin of hydrophobic domains producing a macro- scopic dipole moment and constitute a mechanism of polariza-
+3-058	tion in the bulk membranes (interfacial polarization).
+3-059	The doped membranes are characterized by the coexistence of hydrophobic domains with lower permittivity (≈2.2) consisting of the fluor- ocarbon chains of nN117 and hydrophilic polar domains with slightly higher permittivities consisting of the anionic groups of
+3-060	the nN117 side chains and the ionic liquids.[31,32]
+3-061	Rollet et al. report that hydrated Nafion 117 membranes neutralized with
+3-062	N(CH3 )4+ have segregated hydrophilic and hydrophobic nano- domains, where the interfaces consist of the negatively charged sulfonate groups and the N(CH3)4+ cations.[33]
+3-063	These data suggest
+3-064	the existence of increased interfacial polarization phenomena.[4,34]
+3-065	In the ε00 profiles of the PCILs and the doped membranes, dielectric relaxations can be seen at temperatures below the melting point of the PCILs.
+3-066	These dielectric relaxations can be easily observed by plotting the values of tan δ = ε00/ε0 as a function of temperature at three reference frequencies: 20 Hz,
+3-067	1 kHz, and 10 kHz.
+3-068	These plots are shown in Figure 6 for the pure
+3-069	PCILs (parts a and d), the doped membranes (parts b and e), and
+3-070	the nN117 matrix (parts c and f).[4]
+3-071	Below the melting point, the
+3-072	PCILs exhibit the presence of αs and βs relaxations that are associated with a solid state orderdisorder transition linked to
+3-073	the glass transition temperature (Tg) and the local “bulk” relaxation modes of the PCILs, respectively.[4]
+3-074	The spectra of
+3-075	nN117 reveal typical α and β relaxations associated with a conformational transition involving the main fluorocarbon chains (α) and the polyether side groups (β) of the nN117
+3-076	matrix and γ relaxations related to the local fluctuations of the
+3-077	j ¼ 1 ½1 þ ðiωτjðTÞÞ The first term describes the conductivity of the material at frequencies lower than those experimentally measured.
+3-078	The second term accounts for the electrode ( k = 0) and interfacial (k = 1,2) polarization phenomena.
+3-079	The variables σk and τk are the conductivity and relaxation time associated with the kth polar- ization event, while γk is a shape parameter that describes the broadness and asymmetry of the expresses the dielectric relaxation through a Cole equation.36 electric field; Δεj; and μ Specifically, ω = 2 τj is the relaxation time of the j is a shape parameter bound to the distribution of the kth peak.
+3-080	The third term πf is the angular frequency of the jth event of intensity Cole type
+3-081	relaxation times associated with the jth event.
+3-082	Two different indices, k and j, are used in the terms of eq 2 to represent relaxation events that have different physical meanings.
+3-083	Equation 2 is used to fit simultaneously the experimental spectra of tan δ, ε0, ε00, σ0, and σ00 which were determined from the permittivity spectra from eq 1.
+3-084	The experimental data are fit using: (a) one conductivity σ0 and two dielectric relaxations, α and β, at temperatures less than the melting point of the ILs and (b) three conductivity terms σ0 , σ1 , and σ2 at temperatures higher than the melting point.
+3-085	The values of the conductivities σ0, σ1 , and σ2 are reported as a function of reciprocal temperature for TMS and TPFBu in Figure 7.
+3-086	The values of σ0 determined by the fit correspond to those read directly from the high-frequency plateau of the σ0 spectra.[20,21]
+3-087	In the solid PCILs, proton con- duction must occur via proton hopping between acid and base sites.
+3-088	The logarithm of σ0 as a function of reciprocal temperature has a VogelTammannFulcher (VTF) form.[36]
+3-089	At tempera- tures below the PCIL melting points, the σ0TMS values are about 3 orders of magnitude higher than those of σ0TPFBu.
+3-090	The higher values of σ0TMS are attributed to the smaller size of the constituent PCIL anion: TPFBu forms larger nanoaggregates because the perfluorobutane group of TPFBu is larger than the TMS methyl group.
+3-091	This nanometric TPFBu morphology increases the median distance between the proton hopping sites and thus reduces the overall conductivity.
+3-092	The activation energy and the temperature T0 obtained from the fit parameters are 16 ( 1 kJ/mol and 124 K for TMS and 21 ( 1 kJ/mol and 112 K for TPFBu.
+3-093	Above the PCIL melting points, the log(σ0) vs reciprocal temperature follows VTF-like behavior and yields activation energies of 2.3 ( 0.1 kJ/mol and 3.2 ( 0.1 kJ/mol for TMS and TPFBu, respectively.
+3-094	These values are in agreement with PCIL activation energies between 3.4 and 5.3 kJ/mol and values of T0 between 100 and 60 °C reported by Iojoiu et al.[37] For TEATF, Di Noto et al. determined an activation energy for conduction of the “bulk” material of 1.37 ( 0.04 kJ/mol above the melting point.[4]
+3-095	For TMS and TPFBu, the values of T0 obtained from the VTF fit are 245 and 241 K, respectively.
+3-096	These values are in agreement with the Tg values of these PCILs determined by DSC measurements.[5]
+3-097	Above the Tm, σ0TMS is larger than σ0TPFBu because of the higher viscosity of the fluorinated ionic liquid.[25]
+3-098	At 120 °C, σ0TMS and σ0TPFBu are 0.0137 and 0.0076 S cm1, respectively.
+3-099	The σ0 values enable calculation of diffusion coefficients for ions involved in the long-range conduction through the NernstEinstein equation.[38]
+3-100	ch σ0RT
+3-101	D ¼ ð3Þ F2c
+3-102	In eq 3, F is Faraday’s constant; c is the molar concentration of the ionic liquid; T is in degrees Kelvin; and R is the universal gas constant.
+3-103	The diffusion coefficients from 100 to 150 °C are found to be between 5 107 and 1 106 cm2 s1 for TMS and be- tween 5.3 107 and 1.3 106 cm 2 s1 for TPFBu.
+3-104	Judeinstein et al. measured diffusion coefficients of several PCILs containing the TEAH+ cation using pulse field gradient nuclear magnetic resonance (PFG-NMR); they obtained similar diffusion coefficient values for protons (D+), anions (D), and triethylamine
+3-105	ionic and neutral nanoaggregates present in the PCILs.
+3-106	values were found for all species in diethylmethylammonium trifluo- romethanesulfonate ≈4 106 cm2 s1 at 120 °C by Lee et al.40The diffusion coefficients determined at 120 °C with eq 3 are Dch = 9.1 107 cm2 s1 for TMS and Dch = 7.9 107 cm2 s1 for TPFBu and are of the same order of magnitude as the D+, D, and DTEA values reported by Martinez et al.[25] It is noteworthy that diffusion coefficients estimated from conductivity measurements are generally lower than those obtained from PFG-NMR because PFG-NMR examines local dynamics, while conductivity measures long-range migration.[25,39]
+3-107	In contrast, the self-diffusion coefficients of cations derived from conductivity measurements and PFG-NMR are very similar for an aqueous electrolyte solution containing the TEA cation.[41]
+3-108	In solid membranes like those presented here, the meso- scopic structure which is based on the hydrophilic and hydrophobic domains of the Nafion host results in a differentiation between the long-range charge migration and the local charge migration.
+3-109	The local charge migration detected by NMR is associated with the exchange of protons between different neighboring Lewis base sites, while the long-range charge migration in bulk membranes is directly related to the charge migration between aggregates and therefore depends on the mesoscopic morphology of the materials.
+3-110	Similar values for the diffusion coefficients obtained from BES measure- ments and PFG-NMR25indicate that the mobility of protons, anions, and cations in the PCILs is comparable and that all three species participate in the mechanism of charge conduction.
+3-111	This suggests that proton conduction occurs through a vehicular-type mechanism where the proton is transported by the TEA cation (D+ ≈ DTEA).
+3-112	However, this mechanism does not explain a diffusion coefficient for the anion that is almost the same as that for the proton and TEA, particularly in the case of TPFBu considering the difference in the molecular mass of the TEA cation (101 g mol1) and the perfluorobutanesulfonate anion (300 g mol1).
+3-113	Martinez et al. have shown that TMS and TPFBu are partially dissociated by comparing the experimental conductivity (σexp) with those calculated from the diffusion coefficients D+ and D (σcalc).
+3-114	These authors estimate degrees of dissociation of 35% and 22% at 120 °C for TMS and TPFBu,[25] respectively, and ascribe the lower degree of dissociation for TPFBu to the partial formation of ionic micellar-like aggregates.
+3-115	The literature results and the appearance of phenomena attributed to interfacial polarization in the electric spectra (Figure 3) suggest that ionic liquids exist as nanoaggregates composed of both ionic and neutral species.
+3-116	The presence of these nanoaggregates is due to the formation of hydrogen bonds between the polar heads of the PCIL constitu- ent ions and van der Waals interactions between the nonpolar groups of the PCIL cations and the anions.
+3-117	These nanoaggre- gates contain proton-acceptor (SO3, TEA) and proton-donor sites (SO 3H, TEAH+) that participate cooperatively and simul- taneously in the mechanism of proton transport via short-range inter- and intracluster transfer according to the scheme reported in Figure 8.
+3-118	On a local scale, the mechanism of charge transfer shown in Figure 8 is the result of proton hopping between the donor and acceptor sites of ionic and neutral nanoaggregates present inside the PCILs indicating a Grotthuss-like process.
+3-119	The transfer of protons involves a constant exchange of the ionic species (SO3, TEAH+) and their respective neutral forms (SO3H, TEA), which is limited by the rate of proton exchange resulting in D+ ≈ D ≈ DTEA in accordance with the results of Martinez et al.[25]
+3-120	BES measurements reveal three different PCIL conductivities, σ0 , σ1 , and σ2 , that could contribute to the long-range mecha- nism of charge conduction.
+3-121	Consideration of the PCIL nano- morphologies described above suggests the existence of three contributions to the long-range mechanism of proton transfer:
+3-122	mechanism between the cationic clusters and between anionic clusters.
+3-123	A detailed explanation of the hypothesized mechanism of long-range charge transport can be found in the Supporting Information.
+3-124	In this scenario, a mechanism for charge transfer can be derived from the BES measured conductivities and relaxation times.
+3-125	The conductivity σ0 and the corresponding relaxation time τ0 are associated with the CCHH mechanism, where the protons are transferred by a hopping mechanism between cationic clusters.
+3-126	These events involve the highest values of conductivity and are associated to the smallest relaxation time indicating the highest proton mobility.
+3-127	The conductivity σ1 (associated with τ1 ) is associated with the CoCC&AA mechanism and involves proton exchange between cationic clusters, which must corre- spond to a simultaneous exchange of protons between cationic and anionic clusters.
+3-128	It is clear that this event occurs at a longer relaxation time and is less frequent than the CCHH process.
+3-129	Finally, the CAEH mechanism is ascribed to the lowest con- ductivity values σ2 and the longest relaxation times because of the low probability associated with the mutual transfer of protons between cationic and anionic clusters.
+3-130	From the profiles reported in Figure 7, conductivities σ1 and σ2 are between 107 and 104 S/cm and show VTF behavior as a logarithmic function of reciprocal temperature.
+3-131	Activation en- ergies for these conductivities are Eσ1 = 2.0 ( 0.5 kJ/mol and Eσ2 = 0.7 ( 0.3 kJ/mol for TMS and Eσ1 = 7.9 ( 0.5 kJ/mol and Eσ2 = 15 ( 1 kJ/mol for TPFBu.
+3-132	The activation energies associated with the conductivities σ1 and σ2 for TMS are not substantially different and are lower than those associated with TPFBu.
+3-133	This implies that the energy difference between the cationic and anionic clusters of TMS is smaller than the same difference in TPFBu.
+3-134	Thus, exchange between these clusters is thermodynamically favorable for TMS.
+3-135	For TPFBu, Eσ2 is equal to approximately 2Eσ1.
+3-136	The activation energy Eσ2 associated with the CAEH mechanism is much higher than the other activation
+3-137	aValues determined by fitting data of Figures 7 and 10 with the VTF
+3-138	36 1/2 ((Eσ)/R(TT0)) b
+3-139	equation: σ = AσT e .
+3-140	Values determined by fitting
+3-141	36 1/2 ((Ef0)/R(TT0))
+3-142	data (not shown) with the VTF equation: f0 = ff0T e .
+3-143	energies because it involves protonation by a weak acid, TEAH+, to form a superacid, PFBuH.
+3-144	In summary, pure TMS and TPFBu above the Tm consist primarily of cationic and anionic nanoaggregates.
+3-145	The mecha- nism of proton conduction involves proton transport between these nanoclusters.
+3-146	The σ0 conductivity can be described as proton hopping between the cationic nanoclusters, while con- ductivities σ1 and σ2 are associated with conduction involving both the cationic and anionic nanoaggregates.
+3-147	Conductivities σ0, σ1, and σ2 for NTMS and NTPFBu obtained by fitting the experimental data with eq 2 are plotted versus reciprocal temperature in Figure 9.
+3-148	NTPFBu shows a jump in conductivity σ0 at the Tm of TPFBu (61 °C) while presenting VTF behavior above and below the Tm.
+3-149	In contrast, there is no discontinuity at the TMS melting point (38 °C) in the σ0 conductivities of NTMS, and the data exhibit a VTF-type trend that is divisible into two regions, one above and one below the TMS Tm, and is consistent with the DSC and DMA results.[5]
+3-150	Between 70 and 150 °C, where both ionic liquids are expected to be present in liquid nanodomains inside the polymeric mem- brane, the conductivity σ0 of NTMS is larger than that of NTPFBu.
+3-151	At 120 °C, σ0,NTMS = 0.0053 S cm1 and σ0,NTPFBu = 0.0014 S cm1.
+3-152	Conductivity depends on the concentration and mobility of free charge carriers.
+3-153	The membranes contain a similar number of moles of the PCILs per sulfonic acid group, as shown in the TG measurements,[5] so the reduction of the NTPFBu conductivity as compared to NTMS is due to a lower mobility of the free charge carriers in the membrane.
+3-154	This reduced mobility results from: (1) the higher viscosity of TPFBu[25] and (2) the presence of TPFBu nanoaggregates in the polymer membrane that are larger in dimension than those of TMS, probably due to perfluorobutane chains that tend to organize in a micellar-like structure.[4]
+3-155	The activation energies Eσ0 are obtained by fitting the values of σ0 with the VTF equation at temperatures above and below the PCIL Tm.
+3-156	These Eσ0 are reported for the membranes and their respective pure ionic liquids in Table 1.
+3-157	Also shown in Table 1 are the activation energies, Ef0 , obtained from fitting the frequency values f0 with a VTF equation[21] (data not shown) above and below the PCIL Tm, where f0 = 1/(2πτ0 ) and τ0 is the relaxation time associated with the conductivity σ0 .
+3-158	The activa- tion energies associated with the conductivity and the relaxation times τ0 obtained for the doped membrane are similar to those obtained for the pure PCILs.
+3-159	This similarity indicates that: (1) the mechanism of long-range charge transfer in the doped mechanism is dependent on the dynamics of the polymer membrane and of the PCILs contained within;[4] and (2) in both
+3-160	The Journal of Physical Chemistry C ARTICLE
+3-161	equation.[36]
+3-162	membranes, as in the pure PCILs, long-range conduction is due to the transfer of protons between PCIL cationic clusters present inside the polar domains of nN117.
+3-163	In the doped membrane, the sulfonate group is neutralized with TEA.
+3-164	Therefore, the chemical species involved in charge conduction are the same as for the pure PCILs (TEA, TEAH+, SO3H, SO3).
+3-165	It is important to distinguish between two types of sulfonates: one belonging to the PCIL anion and one bound to the fluorocarbon chain of nN117.
+3-166	As the charged species are the same, the mechanisms of charge conduction described above (CCHH, CoCC&AA, and CAEH) for the pure PCILs can also explain conduction in the doped membrane.
+3-167	Conductivities σ0 , σ1, and σ2 can be associated, respectively, with mechanisms similar to CCHH, CoCC&AA, and CAEH as described for the pure PCILs.
+3-168	The interfacial conductivities σ1 and σ2 appear at tempera- tures higher than 60 °C. The values of σ1 and σ2 expressed as a function of reciprocal temperature are fit with the VTF equation (Figure 9).
+3-169	From the fitting equation, activation energies are obtained for both membranes: Eσ1 = 15.2 ( 0.2 kJ/mol and Eσ2 = 6.7 ( 0.5 kJ/mol for NTMS and Eσ1 = 19.6 ( 1.2 kJ/mol and Eσ2 = 9.5 ( 0.5 kJ/mol for NTPFBu.
+3-170	Considering the activation energies for σ1 and σ2 , Eσ1 is approximately equal to 2Eσ2 .
+3-171	The activation energies indicate a lower energy barrier for the CAEH mechanism signifying that this conduction process is facilitated by the host matrix more than the CoCC&AA mechanism.
+3-172	While the activation energies for σ0 remain almost the same when the PCIL is embedded within the composite membrane, the activa- tion energies Eσ1 and Eσ2 (TMS only) exhibit an increase with Eσ2 > Eσ1.
+3-173	This behavior is the opposite of that detected in the pristine PCILs.
+3-174	This indicates that the distribution of the PCILs inside the nN117 host material is controlled by interactions with the matrix, which therefore reduces the ability of the PCIL anions to substantially participate in the conduction process.
+3-175	Further- more, the difference between the Eσ1 values for TMS is signifi- cantly larger than the same difference in TPFBu, which supports a stronger interaction with the nN117 matrix for the unfluori- nated PCIL.
+3-176	The activation energy Eσ2 for NTPFBu is lower than Eσ2 for pristine TPFBu, suggesting that the CAEH is enhanced by the dynamics of the nN117 host matrix.
+3-177	The presence of VTF-like behavior for conductivities is consistent with the DMA tan δ results.[5]
+3-178	At temperatures above 60 °C both samples exhibit a mechanical transition αpc associated with a decrease in the long-range electrostatic interactions involving the entire nN117
+3-179	structure (primary and secondary structure).4,4244 In this con- text, it is plausible that the electric properties of the membrane, particularly the interfacial polarizations, are dependent on the system morphology and result in the transition at mid to high temperatures (60150 °C).
+3-180	From the molecular relaxations observed below the PCIL Tm, the values of the relaxation time associated with the α and β transitions for the membranes and αs and βs for the PCILs at different temperatures can be determined by fitting the ε00 spectra with the third term of eq 2.
+3-181	The frequency data (fm = (2πτi)[1] with m = α, β, αs, or βs) as a function of reciprocal temperature are shown in Figure 10.
+3-182	For the PCILs and the doped mem- branes, fitting with Arrhenius and VTF equations for the log fm yields the activation energies, Em, and T0 as reported in Table 2.
+3-183	Eαs and T0 are 20 kJ/mol and 115 K for TMS and 16 kJ/mol and 106 K for TPFBu.
+3-184	These values are similar to the Eσ and T0 values determined from the VTF plots of conductivities at low tem- perature, which indicates that the mechanism of long-range conduction occurs via the CCHH proton exchange process, which in the membrane is mediated by the segmental motion of the nN117 chains and by the molecular dimensions of the ionic liquid moieties at lower temperatures.
+3-185	A comparison of the activation energies, Eβ, of the β transi- tions in the doped membranes sheds light on the interaction of the ionic liquid with the polymer matrix.
+3-186	Recall from Paper I[5] that a stronger interaction exists between TMS and the polyether side chain of the nN117 matrix than between TPFBu and the matrix.
+3-187	As discussed above, the β transition represents the relaxation of the polyether side chain interacting with the PCIL.
+3-188	The activa- tion energy Eβ for NTMS is almost double that of NTPFBu.
+3-189	A higher activation energy indicates that more energy is required for the relaxation event to occur and therefore a stronger interaction.
+3-190	The implication of this interaction, as also discussed in paper I,[5] is a reduction in the size of the nanodomains of the ionic liquid TMS within the doped membrane NTMS as com- pared to TPFBu within NTPFBu.
+3-191	Given that TG results[5] revealed that the membranes contain similar amounts of PCIL per sulfonic group, domains of smaller size would necessarily imply that there is a larger number of PCIL clusters in NTMS and the distance between these clusters is smaller, as shown in Figure 11.
+3-192	More nanodomains closer together would facilitate interaction with the host matrix and in- crease the density of the proton hopping processes between the domains, resulting in an increase in conductivity inside the hydrophilic domains.
+3-193	The greater conductivity in the NTMS membrane as compared to NTPFBu supports this interpretation.
+3-194	However, the total number of clusters and the ease of proton hopping in the polar local environment alone would not neces- sarily lead to increased long-range conductivity.
+3-195	The overall morphology of the polymer matrix also must be conducive to the long-range transport of protons: The effect of the PCIL on the overall polymer matrix is important.
+3-196	A stronger interaction of the PCIL with the nN117 side chain stimulates the organization of the nN117 fluorocarbon backbones into the microcrystalline domains.[5]
+3-197	DSC results in Paper I[5] showed that the NTMS matrix had a 67% higher degree of microcrystallinity than the NTPFBu matrix.
+3-198	The higher crystallinity would increase the size of the ordered hydrophobic domains, which could result in a decreased interface between the hydrophobic and hydrophilic domains.
+3-199	A smaller interface between the hydrophobic and hydrophilic domains increases the connectivity between ionic clusters within the hydrophilic domains and reduces the tortuosity of the channel-like structure of the nN117 host matrix.[45,46]
+3-200	These phenomena promote the conduction process, which would result in an higher conductivity in NTMS when compared to NTPFBu, where the same degree of microcrystalline order is not present.
+3-201	The overall conduction process would have contributions from all three mechanisms, and the total conductivity, σtotal, as shown in eq 8 could be considered the sum of the three conductivities found in Figure 9.
+3-202	σtotal ¼ ∑2 σ i ¼ σ0 þ σ1 þ σ2 ð8Þ
+3-203	i ¼ 0
+3-204	For both NTMS and NTPFBu, σ0 is at least 2 orders of magnitude higher than either σ1 or σ2 , meaning that these two conductivities have a negligible contribution to the overall conductivity.
+3-205	Therefore, eq 8 could be simplified to σtotal = σ0 , indicating that the long-range conduction process would be primarily due to the CCHH process.
+3-206	In Figure 11, all three conduction processes are shown for both membranes.
+3-207	However, given the simplification of eq 8, the long-range proton transfer largely would follow a path similar to that represented by the blue arrow and would occur via proton exchange between cationic clusters that is mediated by the segmental motion which is associated with the dynamics of the fluorocarbon polymer host matrix.
+3-208	The work presented here is a fundamental study of the structural modulation of Nafion due to the incorporation of an IL dopant into the host matrix and the effect of the structural reorganization on the properties of the system, specifically the conductivity.
+3-209	This work leads to the conclusion that the
+3-210	conductivity of the system can be improved when the dopant stimulates the matrix to organize into percolation pathways for the migration of charge.
+3-211	In the NTMS and NTPFBu membranes, the PCILs present in the hydrophilic domains of the membrane create percolation pathways for the movement of protons.
+3-212	These percolation pathways provide “shortcuts” for the movement of protons through the membrane as compared to pristine N117 or nN117.
+3-213	Therefore, new membranes that incorporate dopants which induce the formation of well-established pathways for proton conduction will likely lead to the greatest improvement in the conductivity.
+3-214	Furthermore, the mechanical properties of NTMS and NTPFBu, which were reduced by the plasticizing effect of the PCILs, must be improved for the implementation of these membranes as PEMs in a medium-temperature fuel cell.
+3-215	One possible solution in the design of new N117 membranes doped with PCILs may be the use of a hybrid membrane based on N117 doped with a suitable filler that can interact with both the ionic liquid and the polymer matrix as the host matrix because the filler increases the thermo-mechanical stability of the membrane.[43]
+4-001	BES measurements of the electric properties of TMS, TPFBu, and doped nN117 membranes elucidate the mechanism of charge conduction and the dielectric relaxations.
+4-002	For the pure PCILs above the Tm, the BES measurements show the presence of three interfacial polarizations associated with mechanisms of proton transfer that are dependent on the nanostructuring of the ionic liquids as molecular aggregates.
+4-003	For the doped membranes, the electric measurements show that the mechanism of long-range charge transfer is mediated by the dynamics of the fluorocarbon polymeric matrix and the nanostructure of the ionic liquids embedded inside the host nN117.
+4-004	BES measure- ments of the doped membranes also show the presence of three interfacial polarizations, which are dependent on the nanostruc- turing of the ionic liquid embedded within the polar domains of NTMS and NTPFBu membranes.
+4-005	This interpretation is in accordance with the structure of the doped membrane, which consists of amorphous, microcrystalline, and nanocrystalline domains of the fluorocarbon chains of nN117 and of the polar clusters containing the ionic liquids.
+4-006	These polar clusters are responsible for the ionic conductivity of the material.
+4-007	For temperatures below the PCIL melting points, the BES measure- ments reveal the presence of two dielectric relaxations α and β that are associated with the dipolar relaxations involving the ionic liquids and the nN117 matrix.
+4-008	The increased activation energy of the β transition for NTMS indicates a stronger interaction between the side chain and the PCIL than in NTPFBu.
+4-009	This suggests a composite membrane structure where the ionic liquids present within the nN117 hydrophilic channels are organized in cationic and anionic nanoaggregates.
+4-010	The size of these aggregates depends on the interaction between the PCIL and the nN117 matrix, resulting in smaller aggregates for TMS than TPFBu.
+4-011	In the composite membrane, the difference in composition is solely due to the selected PCIL anions, so the change in interaction is due to the anion.
+4-012	Stronger interactions lead to an increase in the nN117 matrix microcrystallinity.
+4-013	Together, these two effects result in higher conductivity in NTMS than NTPFBu.
+4-014	The con- ductivities measured at 130 °C yield σTMS = 1.4 102 S/cm, σTPFBu = 9 103 S/cm, σNTMS = 6.1 103 S/cm, and σNTPFBu = 1.8 103 S/cm.
+4-015	In the membranes, the mechanism
+4-016	of long-range charge transfer occurs via a proton exchange pro- cess between cationic clusters, which is mediated by the seg- mental motion of the nN117 chains and the molecular dimen- sions of the ionic liquid aggregates.
+4-017	Despite a necessity for improved mechanical properties, which are reduced by the plasticizing effect of the ionic liquids, the conductivities measured at temperatures above 100 °C and the good thermal stability[5] make NTMS and NTPFBu promising materials for PEMFCs operating at 120 °C.

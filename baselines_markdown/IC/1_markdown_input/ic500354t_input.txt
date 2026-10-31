@@ -1,0 +1,222 @@
+# document_id: ic500354t
+# extractor: kordoc-markdown-adapter-1
+1-001	■
+1-002	In the field of inorganic nanophosphors, rare-earth orthovana- dates (REVO 4) doped with luminescent lanthanide ions (Ln3+)
+1-003	play an important role as promising light-emitting materials.
+1-004	Gadolinium orthovanadate (GdVO 4) as a host matrix for Ln3+
+1-005	was used for the first time in 1992 by Zaguniennyi et al.,[1] who studied the doped gadolinium orthovanadates as suitable compounds for laser materials.
+1-006	They proved more advantages
+1-007	for this material, such as higher thermal conductivity and broader emission and absorption cross sections, than for yttrium orthovanadate (YVO4).
+1-008	Moreover, matrices based on
+1-009	Gd 3+ (4f[7], 8 S) have attracted considerable attention as phosphors because of the relatively high energy of the lowest excited state in connection with the stability of the half-filled shell of the ground state of gadolinium.[2]
+1-010	GdVO 4 exhibits strong absorption of UV radiation, and such a matrix doped with Eu3+
+1-011	ions is well-known for its efficient and intense red emission, induced by energy transfer from the VO43− groups to Eu3+ ions.[3]
+1-012	These properties together with good chemical and thermal stability make the REVO4 phosphors good candidates
+1-013	for the production of many optical devices, laser materials, drug
+1-014	© 2014 American Chemical Society 12243
+1-015	delivery systems, magnetic resonance imaging agents, and fluorescent probes.[4−9]
+1-016	Generally, REVO 4 can crystallize in two different phase structures.
+1-017	The first one, possible for all REVO4, is the zircon (ZrSiO 4)-type tetragonal crystal system with space group I41/ amd.[10]
+1-018	In this structure, the Ln3+ ions occupy one coordination environment with D2d symmetry.[11]
+1-019	The second one is the monazite (CePO4 )-type monoclinic structure with space group P21/n.[12]
+1-020	In this structure, the lanthanide ion is located in the sites with C1 symmetry.[13]
+1-021	The type of product structure depends on the radius of the RE3+ ion.
+1-022	Thus, the zircon-type is a stable phase for all REVO4, and the monoclinic structure has been reported only for LaVO4 and CeVO4.[10]
+1-023	Nowadays, the main goal of nanomaterials synthesis is to obtain high-quality products with good crystallinity, low distribution of grain sizes, and desired morphology.
+1-024	All of these factors strongly influence the luminescence properties, and therefore, several chemical methods are employed in order
+1-025	Received: February 19, 2014
+1-026	Published: November 10, 2014
+1-027	= 0, 0.05, 0.2) nanocrystals dried at 80 °C for 8 h in air.
+1-028	(right) Crystalline
+1-029	structure of the tetragonal GdVO4 phase: (a) octahedral channels along the c axis and orientation arrangement of VO4 groups; (b) projection of the
+1-030	GdO 8 chains along the c and b axes.
+1-031	to obtain proper nanophosphors.
+1-032	These include electrospinning preparation,[3] the hydrothermal route, surfactant-assisted hydro- thermal reactions,[14,15] Pechini’s method,[7] and the sol−gel method coupled with hydrothermal conditions.[16]
+1-033	The listed methods give the possibility to produce compounds with wide range of crystallite shapes, such as nanofibers, nanorods, nanotubes, nanobelts, nanospindles, and three-dimensional micro- and nanoparticles.
+1-034	Recently, the hydrothermal method has been increasingly used in order to prepare nanomaterials with exceptional structural, morphological, and optical properties.[17,18]
+1-035	Moreover, nanophosphors synthesized under hydrothermal conditions can be prepared at relatively low temperature (100−300 °C) without milling or calcination.
+1-036	The hydrothermal route is based on precipitation of products in an aqueous medium under increased pressure and temperature or their recrystallization.
+1-037	Hence, the crystallite size distribution and morphology can be controlled by different factors, e.g., temperature, pH, and the addition of surfactants, which can influence the dissolution or precipitation reaction.[2]
+1-038	Moreover, besides exceptional luminescence characteristics, rare-earth-based materials exhibit interesting magnetic proper- ties that are strictly connected with the 4f electrons.
+1-039	Fascinating behavior is observed for downscaled systems in which at least one of the dimensions is decreased to nanometers.
+1-040	Multifunc- tional magnetic nanophosphors are very interesting because of their potential biomedical applications such as magnetic resonance imaging, hyperthermic treatment, and drug deliv- ery.[19,20]
+1-041	However, the magnetic behavior of these materials most often is based on properties of Fe3O4.
+1-042	Characterization of nanomaterials whose multifunctional properties are connected with Gd3+ magnetism and Ln3+ emission have still not been fully exploited, especially in the case of REVO 4.[21−27]
+1-043	In the present paper, structural, spectroscopic, and magnetic studies of Gd1−xEuxVO4 (x = 0, 0.05, 0.2) are presented and discussed.
+1-044	Here we present new aspects of the luminescence and magnetic properties of the products obtained as well as the method of their synthesis.
+1-045	Detailed analysis of the emission properties, e.g., the asymmetry ratio R and luminescence lifetime, depended on the excitation wavelength used.
+1-046	The magnetic susceptibility was measured in different applied magnetic fields and additionally for the Eu3+-doped samples
+1-047	to extend the analysis of the magnetic properties in comparison with previous reports on REVO 4 nanocrystals.
+1-048	Moreover, for the first time in this group of nanomaterials, the argumentation is based on a rejection of the giant spin model and the existence of thermally occupied low-lying excited states of Eu3+ ions.
+1-049	Additionally, it is very advantageous that a slight modification of the hydrothermal method enabled the nanophosphors to be synthesized without prior precipitation or any additional coreagents and templates, as is usually done.[28]
+1-050	The nano- crystallites were produced in situ by using appropriate solutions of acetate salts of RE3+ ions and NH4VO3 as a vanadium source.
+2-001	■
+2-002	Synthesis.
+2-003	The starting materials Gd2O3 and Eu 2O3 (Stanford Materials, 99.99%) were dissolved in concentrated acetic acid(Chempur, pure p.a.).
+2-004	The obtained Gd(CH 3COO) 3 and Eu- (CH 3COO)3 solutions were diluted with distilled water, and 0.25 M solutions were prepared.
+2-005	Then stoichiometric amounts of the appropriate acetate solutions (based on the formula Gd 1−xEuxVO 4 with x = 0, 0.05, 0.2) and a 0.5 M solution of NH4VO 3 (REACHIM, 99%) in 25% excess and heated to 80 °C (added dropwise under vigorous stirring) were mixed.
+2-006	Finally, distilled water was added to the above mixture to reach 70 mL for the total volume, and the pH was adjusted to ∼6.5 using NH3 solution.
+2-007	The as-obtained mixture was transferred to an autoclave and isothermally heated at 180 °C for 3 h.
+2-008	Afterward, it was slowly cooled to room temperature.
+2-009	The synthesized nanocrystals were collected by centrifugation and washed several times with ethanol.
+2-010	The as-prepared yellowish powder was dried at 80 °C for 8 h in air.
+2-011	Apparatus.
+2-012	X-ray diffraction (XRD) patterns were registered using a Bruker AXS D8 Advance diffractometer in the Bragg−Brentano geometry with Cu Kα1 radiation (λ = 1.541874 Å) in the 2θ range from 6° to 60°.
+2-013	Transmission electron microscopy (TEM) and high- resolution TEM (HRTEM) images were recorded using an HRTEM JEOL ARM 200F transmission electron microscope at an accelerating voltage of 200 kV.
+2-014	The morphologies of the samples and energy-dispersive X-ray spectroscopy (EDX) analyses were obtained using an FEI NOVA NANOSEM 650 scanning electron microscope.
+2-015	Cell parameters were estimated using Rietveld analysis with the help of the Maud 2.33 software.[29,30]
+2-016	Luminescence characteristics of the prepared samples were determined using a QuantaMaster 40 spectrophotometer (Photon Technology International) equipped with an Opolette 355LD UVDM tunable laser (Opotek Inc.) as the excitation source and an R928
+2-017	photomultiplier (Hamamatsu) as a detector.
+2-018	The measurements were done using powder samples at room temperature.
+2-019	Magnetic data were collected using a Quantum Design Physical Property Measurement System (PPMS) with a vibrating sample magnetometry (VSM) option at temperatures between 2 and 300 K in applied magnetic fields up to 4 T.
+2-020	■
+3-001	Structural Analysis.
+3-002	Figure 1 shows XRD patterns registered for the as-prepared Gd1−xEuxVO4 (x = 0, 0.05, 0.2).
+3-003	All of the peaks in the diffraction patterns matched well to the standard diffraction data for bulk GdVO 4, corresponding to ICSD card no. 15607.
+3-004	No additional phases of other impurities were observed.
+3-005	Analysis confirmed the formation of a single- phase zircon-type tetragonal product with space group I41/amd.
+3-006	The well-resolved diffraction peaks indicated the high crystallinity of the materials.
+3-007	These results proved our presumption that highly crystallized nanophosphors can be obtained at a relatively low hydrothermal treatment temper- ature (180 °C) in a short time of reaction.
+3-008	This is important for such compounds because of the lower possibility of defect formation and thus stronger luminescence.[4]
+3-009	The crystal structure of the Gd1−xEuxVO4 nanocrystals was confirmed and the cell parameters were calculated by applying Rietveld analysis.
+3-010	The calculated profiles presented in Figure 1 fit the experimental data well, with residual values not lower than Rwp = 3.72.
+3-011	The crystallographic data are summarized in Table 1.
+3-012	The crystal cell parameters are similar to those obtained for the single crystal.[31]
+3-013	Table 1.
+3-014	Crystallographic Parameters for Tetragonal
+3-015	with VO4 as insets form chains extended along the c axis, while in the ab plane GdO 8 dodecahedra are linked by edges.
+3-016	Tetragonal VO 4 groups are linked by edge with triangular groups of GdO8 dodecahedra along the c axis, and in the a and b direction VO4 units are connected by corners with GdO8 (Figure 1b).
+3-017	The size, morphology, and purity of the GdVO4 and Gd0.95Eu0.05VO4 nanoparticles were investigated using TEM, HRTEM, and EDX.
+3-018	In the HRTEM images and fast Fourier transform of the GdVO4 and Gd0.95Eu0.05VO4 nanocrystals (Figures 2a and 3a), the lattice fringes of the crystalline phases can be clearly seen.
+3-019	The interplanar distances between the adjacent lattice fringes are 2.62 Å for the matrix and 2.64 Å for the doped sample, corresponding to d(112).
+3-020	As shown in Figures 2b and 3b, the polyhedron-like structures are highly crystalline and slightly agglomerated.
+3-021	The EDX spectra of the orthovanadate nanoparticles confirmed the presence of gadolinium, vanadium, and, in the case of Gd 0.95Eu0.05VO4, also europium in the stoichiometric composition without impurities in the samples (Figures 2c and 3c).
+3-022	Moreover, EDX quantitative microanalysis determined a Eu3+ ion content of 4.12 ± 0.37% in the Gd0.95Eu0.05VO4 nanophosphor, in good
+3-023	agreement with the intended 5% concentration.
+3-024	The crystallite size distributions calculated on the basis of TEM images are presented in Figures 2d and 3d.
+3-025	They proved that the average grain sizes were 80 ± 10 nm for the undoped material and 70 ± 5 nm for the Eu3+-doped sample.
+3-026	As indicated by the scanning electron microscopy (SEM) images in Figure 4, the samples of GdVO 4 and Gd0.95Eu0.05VO4 exhibited the same morphology.
+3-027	The materials consisted of slightly agglomerated cubelike particles.
+3-028	The observed crystal- lite size of about 70−80 nm was similar to that determined from the TEM analysis.
+3-029	Additionally, in order to analyze the distribution of Gd, V, and Eu in the nanoparticles, EDX mapping was performed using scanning transmission electron microscopy (STEM), and the results are presented in Figure 5.
+3-030	It was found that the individual elements were distributed uniformly, and there was no clear evidence of significant inhomogeneity in the studied nanocrystals.
+3-031	Luminescent Properties.
+3-032	Figure 6a,c presents the excitation spectra Gd1−xEuxVO4 nanocrystals (x = 0.05, 0.2) monitored at λ = 620 nm.
+3-033	Both spectra are composed of a broad band in the range 200−350 nm and several weak excitation lines in the range 360−470 nm.
+3-034	The observed broad excitation bands show some irregularities in their shapes.
+3-035	Most probably they are composed of at least four components (excitation bands) that have their maxima at ∼226, ∼250, ∼305, and ∼336 nm.
+3-036	The first maximum can be ascribed to the host absorption band, the second one to O2−−Eu3+ charge transfer (CT), and the remaining ones to transitions in the
+3-037	containing systems due to CT was carefully investigated by Faustino et al.[40]
+3-038	The presented excitation spectra change with increasing concentration of Eu3+.
+3-039	The CT band becomes split, and the f−f transition bands much more intense.
+3-040	The cause of the alternations that occur is complex, and at least two effects must be considered to fully understand these observations.
+3-041	It is clearly seen that for the 20% Eu3+-doped sample the CT maxima shift toward higher energy.
+3-042	This can be caused by changes in the O2−−Eu3+ bond elongation and the crystal cell volume.[34]
+3-043	However, the most important reason for the observed changes is a saturation effect, previously described by de Mello Donega et al.[41] and further confirmed by Trojan- Piegza et al.[42] The obtained vanadates doped with Eu3+ absorb light in the region of CT band so effectively that only a part of excitation light can penetrate particles, and the majority of UV photons are absorbed on or near the surface of the nanocrystals.
+3-044	The relatively low absorption coefficients related to the f−f electronic transitions result in much deeper penetration of UV light in the region above 350 nm, and therefore, the f−f transition bands appear to be more intense in higher-doped samples.
+3-045	Another effect is a change in the shape of the wide excitation band connected with O2−−Eu3+ CT and transitions in the VO 43− group.
+3-046	Here we also have a fingerprint of the saturation effect and additionally different absorption
+3-047	at 80 °C for 8 h in air.
+3-048	coefficients between the above-mentioned transitions occurring in this region.
+3-049	A theory that can explain the transfer of energy absorbed by VO43− groups to the excited states of Eu3+ ions was published in 1948 by Forster[43] and then extended in 1953 by Dexter.[44]
+3-050	This energy transfer (ET) is possible because of overlap of the electric dipole fields of the sensitizer VO43−groups and the activator Eu 3+ ions.
+3-051	The absorption cross section of Ln3+ ions is several orders of magnitude lower than that of VO 43− ions as a result of selection rules and forbiddance of f−f transitions.[45]
+3-052	Fortunately, the problem of the low intensity of f−f transitions could be solved by incorporating dopant ions into a suitable matrix.
+3-053	In our case, Ln3+ ions occupy crystallographic sites in the Gd1−xEuxVO4 structure, and the crystal field diminishes the concentration quenching.
+3-054	The weakly visible lines at >350 nm are connected with the f−f transitions of Eu3+ ions.
+3-055	The more intense CT bands confirm that the excitation of the dopant ions is mainly through the VO43− units and that efficient ET from the GdVO4 host to the dopant ions occurs.[4,46]
+3-056	Finally, in the nanomaterials based on Gd1−xEuxVO4, ET from Gd3+ to Eu3+ ions is possible.
+3-057	The characteristic sharp band should be visible at about 274 nm, but the CT band overshadows it.
+3-058	the 5D1−7F1 and 5D0−7FJ (J = 0−4) transition bands are clearly visible, proving the high crystallinity of the obtained products.[4]
+3-059	The emission intensity of the 5D0−7F2 electric dipole transition is hypersensitive and strongly depends on the local site symmetry of the Eu3+ ions.
+3-060	The band corresponding to the 5D0−7F2 transition is the most intense band in the emission spectrum.
+3-061	However, peaks corresponding to the forbidden 5D0−7F0 and 5D0−7F 3 transitions also appear in the spectrum, showing that J-mixing effects are important in this system.[47,48]
+3-062	The 5D0−7F 0 transition is forbidden by the selection rules, but it is often observed in materials with relatively low symmetries.
+3-063	Among others, it is caused by the above-mentioned J-mixing effects, which enable “borrowing” of intensity from the 5D0−7FJ (J = 2, 4, 6) transitions, whose probabilities are much higher, as can be explained by Judd−Ofelt theory.[49,50]
+3-064	As was mentioned earlier, Eu3+ ions occupy sites with D2d symmetry without an inversion center.
+3-065	Hence, the 5D0−7F2 transition band is relatively more intense compared with the 5 D0−7F1 magnetic transition band.
+3-066	This is typical when the Eu 3+ ions are in a low-symmetry environment, as in the investigated sample.
+3-067	Additionally, the weak lines related to the 5D1−7F1 transition band are pronounced.
+3-068	This is possible because of the relatively low vibrational energy of the VO43− groups (∼880 cm−1).[51−53]
+3-069	Therefore, the probability of multiphonon relaxation between group, and the second step is thermally activated ET to Eu3+ the 5D1 and 5D0 energetic states is low, allowing for emission ions in the vanadate sublattice.
+3-070	The final step is emission of
+3-071	5 54,55 3+ 4,5,56
+3-072	from the D 1 state.
+3-073	Eu ions excited in this way.
+3-074	Generally, a mechanism of the luminescence processes in In order to analyze changes in the site symmetry of the Eu3+ Gd1−xEuxVO4 under UV excitation includes three basic stages. ions, the asymmetry parameter R, which is the ratio of the The first step is absorption of UV radiation by the VO43− integrated intensities of the luminescence bands connected with
+3-075	the 5D 0−7F2 and 5D0−7F1 transitions, was calculated for each sample.[57]
+3-076	Figure 7 shows the dependence of the asymmetry ratios on the excitation wavelengths for the Gd 0.95Eu0.05VO4 and Gd0.8Eu0.2VO4 nanomaterials.
+3-077	The parameter R is different depending on the excitation line because of activation of Eu3+ ions occupying sites with distinct symmetry.
+3-078	This means that Eu3+ ions can be placed in the D2d site offered by the GdVO4 host and on the crystallite surface.
+3-079	The short time of synthesis can be the reason for the partially amorphous surface of the crystallites and therefore the observed differences (Figure 7 inset).
+3-080	The excitation at λ = 396 nm can be interpreted as the one that excites all of the Eu3+ ions in the sample, including those with D2d symmetry as well as the ones placed on the surface of the nanocrystallites.
+3-081	On the other hand, the excitation wavelengths λ = 250 and 305 nm generate emission characteristic of the lower-symmetry environment of Eu3+ ions.
+3-082	The Gd 1−xEuxVO4 nanocrystals strongly absorb radiation in this region as a result of the absorption of VO43− groups.
+3-083	Thus
+3-084	the wavelength of λ = 396 nm is more permeable.
+3-085	When λ = 396 nm is used as the excitation wavelength, radiation penetrates also the bulk volume of the crystallites, while irradiation at 250 and 305 nm excites mainly the surface dopant ions, which are in the more distorted environment.
+3-086	Particularly, the local symmetry of the Eu3+ ions located on the surface of crystallites is disordered because of the amorphous structure.
+3-087	These differences are also reflected in the longer luminescence lifetimes for the Gd0.95Eu0.05VO4 sample, where the partic- ipation of less-quenched Eu3+ ions is greater at λ = 396 nm.
+3-088	In the case of Gd0.8Eu0.2VO4 it is difficult to separate because of the concentration quenching that occurs, which overshadows the other processes.
+3-089	but as an approximation the observed kinetics could be fit using a biexponential function with R[2] = 0.998 for x = 0.05 and R[2] = 0.993 for x = 0.2.
+3-090	Nonexponential luminescence kinetics can be explained by energy transfer from the excited state of Eu3+ ions to impurities, which leads to luminescence quenching.[58,59]
+3-091	Interactions between Eu3+ ions in their excited states also lead to nonexponential quenching of luminescence.
+3-092	Two Eu3+ ions can transfer energy between them, depopulating the 5D 0 excited states and therefore increasing nonradiative energy loss.
+3-093	These effects are especially visible in higher-doped samples.
+3-094	Also, the nanocrystallinity of the prepared samples makes these effects more significant.
+3-095	The shorter components of the luminescence
+3-096	lifetimes can be assigned to activator ions located on the surface of the crystallites, where the environment strongly influences the quenching of the excited states.[17]
+3-097	However, Yang et al.[60] postulated that two components of the luminescence lifetimes could be related to a homogeneous distribution of Eu3+ ions inside the orthovanadate matrix without defect centers.
+3-098	Another, which leads to a decrease in the luminescent lifetime, can be associated with V4+ defects that cause transfer of the excitation energy to nonradiative recombination routes for electrons and holes.
+3-099	The calculated lifetimes are dependent on
+3-100	the excitation wavelength used, as is especially visible in case of the 5% Eu3+-doped sample.
+3-101	Higher energy of the excitation light (250 and 305 nm) leads to shorter lifetimes as a consequence of quenching the 5D0 excited state of Eu3+ ions mostly placed on the amorphous surface, where they are exposed to excitation.
+3-102	Interactions with the GdVO4 host could result in intervalence charge transfer between Eu3+ ions and VO43− groups.[37]
+3-103	In the case of the higher-doped sample (20%), this effect is less visible because of the dominating role of concentration quenching between Eu3+ ions.
+3-104	Magnetic Properties.
+3-105	Magnetic analysis was performed for the matrix and the sample with the highest dopant concentration to observe the effect of Eu substitution most evidently.
+3-106	The temperature dependences of the magnetization M(T) in the zero-field-cooled (ZFC) and field-cooled (FC) regimes were measured over the temperature range from 2 to 300 K (Figure 9, left scale) for GdVO 4 and Gd0.8Eu0.2VO4
+3-107	nanocrystals.
+3-108	The two curves coincide over the whole temperature range.
+3-109	The temperature dependence of the reciprocal direct current (DC) magnetic susceptibility was also plotted (Figure 9, right scale) to analyze the magnetic data in detail.
+3-110	The DC magnetic susceptibility was determined at low (0.01 T) and moderate (0.5 T) magnetic fields and is defined as the quotient of M and H. The 1/χ(T) dependences measured at 0.5 T show behavior typical for paramagnetic substances.
+3-111	One can observe small deviations, as the para- magnetic Curie temperatures Θp are slightly negative and equal to −1 and −2 K for GdVO4 and Gd 0.8Eu 0.2VO4, respectively.
+3-112	The effective magnetic moments per magnetic ion (μeff) are smaller than in free Gd3+ and amount to 5.62μB for GdVO4 and 6.27μB for Gd0.8Eu0.2VO4.
+3-113	Low-field measurements are not so unambiguous, and 1/χ(T) for the Eu-substituted sample deviates from the Curie−Weiss behavior (Figure 9b).
+3-114	The reciprocal susceptibility curve bends downward and approaches the origin of coordinates at low temperatures.
+3-115	The effective magnetic moments calculated from the low-field measurements are similar to those measured for μ0H = 0.5 T and are equal to 5.64μB for GdVO4 and 6.23μB for Gd0.8Eu 0.2VO4 .
+3-116	The temperature dependence of 1/χ for the substituted sample was fitted with Curie−Weiss formula at high temperatures (above 150 K).
+3-117	The paramagnetic Curie temperature of Θp = −14 K determined from the measurements at moderate magnetic field cannot be taken as an explicit indication of antiferromagnetic interactions between nanoparticles because in this case 1/χ(T) should deviate upward with decreasing temperature.
+3-118	For these nanoparticles,[61] it was concluded that such behavior was connected with a typical paramagnetic system with independent dynamics of the magnetic moment of each rare-earth ion.
+3-119	The magnetic field dependence of the magnetization in GdVO 4 and Gd0.8Eu 0.2VO4 nanocrystals was measured at four fixed temperatures.
+3-120	The results for GdVO 4 are presented as an example in Figure 10.
+3-121	Saturation of magnetization was not
+3-122	observed up to μ0H = 4 T. The curves for both samples do not exhibit any hysteresis and at high temperatures (above 50 K) point out typical paramagnetic behavior.
+3-123	The low-temperature M(H) dependence could indicate superparamagnetism, but there are indisputable arguments in contradiction with such an interpretation.
+3-124	At first, the FC and ZFC M(T) curves do not deviate from each other, and there is no cusp down to 2 K. This could indicate an ultralow blocking temperature,[61,62] despite the relatively large diameters of nanoparticles and high content of Gd3+ ions.
+3-125	Besides that, there is a strong deviation of the M(H/T) curves measured at different temperatures (Figure
+3-126	11), whereas these curves should superimpose for super- paramagnetic behavior.
+3-127	To summarize, the results obtained from the M(T) and M(H) measurements could indicate that GdVO4 behaves as a paramagnet but with signs of antiferromagnetic coupling in the
+3-128	Gd sublattice.
+3-129	There is slightly negative paramagnetic Curie temperature, and the M(H/T) curves do not superimpose on each other.
+3-130	The deviation is stronger at lower temperatures, approaching the expected ultralow-temperature transition to a magnetically ordered phase.
+3-131	As reported previously for Er3+-doped nanoparticles,[61] the magnetic moments on rare-earth ions in such systems can behave independently.
+3-132	An ultralow blocking temperature can be connected with negligible magnetic interactions between rare-earth ions and several orders of magnitude lower magnetic moments of single ions in comparison with giant spins in the case of a typical superparamagnet.[63]
+3-133	The exchange interactions between the lanthanide ions are reduced because the 4f shells are shielded by full outer shells.
+3-134	The deviations of 1/χ(T) for the Eu-substituted sample could be connected with the contributions from low-lying excited states possessing magnetic moments that differ from those of the ground state.
+3-135	This effect was observed only for the Eu-containing sample, where the magnetic 7F1,2,3 states are very close to the 7F0 nonmagnetic ground state.
+3-136	Therefore, additional magnetic contribution can be induced by the population of excited states according to Boltzmann statistics at higher temperatures.[64]
+3-137	In accordance with this, one can observe a smaller slope of 1/χ(T) and thus an increase
+3-138	in the effective magnetic moment with increasing temperature (Figure 10b, 1/χ(T) measured at 0.01 T).
+3-139	Application of higher magnetic fields causes larger splitting of energy levels and decreases the probability of depopulation of the nonmagnetic ground state, as can be seen in the temperature dependence of the reciprocal magnetic susceptibility measured at 0.5 T. The described effect overlaps with those observed for GdVO 4 and is connected with the existence of antiferromagnetic couplings.
+3-140	Ultralow-temperature measurements would be conclusive and give clear evidence for this complex behavior.
+4-001	■
+4-002	Nanocrystalline Gd1−xEuxVO4 materials were synthesized under hydrothermal conditions without prior precipitation of the precursor and additional coreagents.
+4-003	Detailed structural and morphological analyses were carried out and indicated the formation of single-phase tetragonal nanocrystals.
+4-004	Intense red emission of the obtained nanophosphors due to doping with the Eu3+ ions was observed and arises from transitions occurring between the 5D0 excited state and 7FJ ground states of these ions.
+4-005	The visible emission was activated mainly by charge transfer in the VO43− groups and subsequent energy transfer to the dopant ions.
+4-006	The observed spectroscopic properties of the obtained materials were strongly influenced by their complex structure and morphology, showing differ- ences between ions placed on the surface and inside of the nanocrystals.
+4-007	The magnetic properties of GdVO4 and Gd0.8Eu 0.2VO4 nanocrystals are complex, considering the occurrence of paramagnetism with independent behavior of each rare-earth ion and additional effects connected with the weak anti- ferromagnetic couplings.
+4-008	A deviation from the Curie−Weiss law was observed for the Eu-substituted sample and was assigned to a magnetic contribution from low-lying 7F1,2,3 excited states, which are populated with increasing temperature.
+4-009	The bifunctional luminescence and magnetic characteristics of Gd1−xEuxVO4 nanophosphors enable these materials to be used as promising candidates for advanced applications.
+4-010	Because of their unique magnetic properties, such systems are good candidates for numerous applications, such as nanoscale refrigeration at ultralow temperatures.

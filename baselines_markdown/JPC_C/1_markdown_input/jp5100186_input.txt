@@ -1,0 +1,363 @@
+# document_id: jp5100186
+# extractor: kordoc-markdown-adapter-1
+1-001	Hematite (α-Fe2O3) has emerged as a promising photocatalyst
+1-002	for solar water splitting due to its favorable optical band gap (∼2.2 eV), excellent chemical stability in a wide pH range (pH
+1-003	> 3), earth abundance, and low cost.[1−10] The band gap gives a theoretical upper limit of solar-to-hydrogen efficiency of 16.8%
+1-004	and a photocurrent of 12.6 mA cm−2 under the standard AM 1.5G 1 sun illumination.[4]
+1-005	Therefore, enormous efforts have been focused on improving the performance of α-Fe2O3 photoanodes in photoelectrochemical (PEC) water splitting
+1-006	by employing various strategies, such as nanostructure engineering via different synthesis methods, doping, or forming
+1-007	a heterojunction.[11]
+1-008	The preparation of α-Fe2O3 nanowires,[6,12] nanotubes,[13] nanopetals,[11] nanonets,[14] and dendritic nano- cauliflowers[15] are examples of successful attempts that achieved improvement in the light harvesting and charge carrier separation to enhance the PEC performance.
+1-009	Several physical
+1-010	and chemical methods have been developed to obtain such nanostructures of α-Fe2O 3.
+1-011	Among these, pulse reverse electrodeposition (PRED)[11] has been relatively less employed despite having several potential advantages as it serves a potential strategy to tailor both the chemical composition and
+1-012	the structure of materials including metallic films and alloys.
+1-013	It perturbs the electrocrystallization process to change the
+1-014	© 2015 American Chemical Society 5281
+1-015	morphology, texture, and properties of the electrodeposits.
+1-016	In PRED, a periodic waveform consisting of a cathodic pulse and anodic pulse is applied to deposit the desired material.
+1-017	The mechanism of PRED is simply based on the adsorption or desorption phenomena at the electrode−electrolyte interface.
+1-018	The nucleation and growth of the deposited material depends on the adsorption−desorption rate of the species in the electrolyte, controlled by PRED.
+1-019	Although a simple method, PRED requires careful attention for optimization of the parameters such as cathodic current density, anodic current density, duty cycle, pulse period, and the deposition time.
+1-020	It can be employed to obtain nanostructures with greater control over the grain size and hardness through variation of such process parameters.
+1-021	The schematic of potential pulse reverse waveform for electrodeposition of iron oxide is shown in Scheme 1.
+1-022	The use of PRED for synthesizing α-Fe2O 3 electrodes is rather a new approach, and the influence of the PRED process parameters for the performance improvement has not yet been investigated.
+1-023	In a previous communication,[11] α-Fe2O 3 photo- anodes were prepared by the PRED method using fixed
+1-024	Received: October 3, 2014
+1-025	Revised: February 18, 2015
+1-026	Published: February 23, 2015
+1-027	DOI: 10.1021/jp5100186
+1-028	Article
+1-029	parameter condition on a large area substrate (1 × 5 cm2).
+1-030	The photocurrent per unit area for smaller areas (≤1 cm2) was not reported, although it has become a common practice in the materials research field.
+1-031	It is well-known that the increase in substrate area, especially for FTO, causes an increase in the total sheet resistance.
+1-032	The nucleation and growth rate of the electrodeposits are also affected by such increased internal resistance, thereby affecting the overall photocurrent density of the photoanodes.
+1-033	Moreover, the photoactivity of such photo- anodes was investigated only for low temperature calcination (500 °C), and the study of photoactivity at high-temperature annealing conditions has not been investigated previously.
+1-034	In this work, for first time, we addressed the influence of the pulse reverse electrodeposition parameters such as pulse time (with fixed pulse voltage and fixed duty cycle) and film deposition time on the evolution of nanostructured α-Fe2O3 morphology and its resulting photoelectrochemical performance.
+1-035	To the best of our knowledge, characterization of the α-Fe2O3 material fabricated by tuning the PRED conditions has not been previously reported.
+2-001	2.1.
+2-002	Materials Synthesis.
+2-003	Pulse reverse electrodeposition was carried out in a two-electrode configuration cell.
+2-004	Trans- parent conducting glass (fluorine doped tin oxide, FTO, 10−15 Ω cm−1) substrate was used as a working electrode, and convoluted platinum wire as a counter electrode.
+2-005	The distance between the two electrodes was ∼1 cm.
+2-006	Prior to deposition of iron oxide films, FTO substrates (1 cm × 2.5 cm) were successively cleaned by ultrasonic degreasing in acetone, ethanol, and deionized water (each for 10 min) then dried using a nitrogen stream.
+2-007	The electrolyte consisted of 6 g of ferrous sulfate, 0.15 g of ascorbic acid, 0.05 g of amidosulfonic acid, and 1.5 g of boric acid in 0.1 L of deionized water (pH = 5.71).
+2-008	The pH of the resulting electrolyte solution was 2.6.
+2-009	The chemicals were purchased from Alfa Aesar and Kanto Chemicals and were used without further treatment.
+2-010	Potential control was provided by means of a function generator.
+2-011	The PRED of Fe2O3 films was carried out by keeping the amplitude (peak-to-peak voltage) of the square-wave pulse fixed at 10 V (−6/+4 V).
+2-012	The other deposition parameters such as duty cycle (20%), pulse period (frequency), and the total deposition time were varied systematically.
+2-013	At least three electrodes of each condition were prepared.
+2-014	As-grown films were dark grayish in
+2-015	color and reflected the light.
+2-016	Films were rinsed several times in deionized water and dried using nitrogen stream.
+2-017	The two-step annealing method was followed to obtain highly photoactive photoanodes.[16]
+2-018	The as-grown films were heated to 550 °C at the rate of 5 °C min−1 and baked there for 4 h.
+2-019	Finally, the films were annealed at 800 °C briefly for 15 min and subsequently transferred to a forced-convection oven preheated at 100 °C for 10 min to avoid breaking of the electrodes and the supporting ceramic crucibles.
+2-020	The sintered films appeared reddish or dark brown in color, depending on the film thickness.
+2-021	2.2.
+2-022	PEC Measurements of α-Fe2O3 films.
+2-023	The photo- activity of the synthesized α-Fe2 O3 photoanodes was measured in a PEC cell consisting of a three-arm glass compartment with a circular quartz window for light illumination.
+2-024	The PEC cell comprised Fe2O3/FTO photoanode as the working electrode, Pt wire as the counter electrode, Ag/AgCl (saturated with KCl) as the reference electrode, and 1 M NaOH as an electrolyte.
+2-025	All potentials were measured relative to the Ag/AgCl electrode and were converted to the reversible hydrogen electrode (RHE) scale using the Nernst eq 1.[15]
+2-026	VRHE = VAg/AgCl + 0.059pH + V°Ag/AgCl (1)
+2-027	where VRHE was the converted potential vs RHE, VAg/AgCl° = 0.1976 V at 25 °C, and VAg/AgCl was the experimental potential against the Ag/AgCl electrode.
+2-028	The simulated light illumination of 1 sun (100 mW cm−2) was provided using a solar simulator (Abet Technologies).
+2-029	The photocurrent−voltage measurement, electrochemical impedance spectroscopy (EIS), and Mott−Schottky studies were performed using a portable potentiostat (Ivium, Netherland) equipped with an electrochemical interface and impedance analyzer facility.
+2-030	The EIS study was performed under the 1 sun illumination at 0.235 V vs Ag/AgCl (i.e., 1.23 V RHE).
+2-031	Mott−Schottky measurement was performed under dark condition with a dc applied potential window of −0.6 to 0.4 V vs Ag/AgCl at the ac frequency of 0.5 kHz.
+2-032	The amplitude of the ac potential was 10 mV for both EIS and Mott−Schottky measurements.
+2-033	The experimental EIS data were validated using the Kramers−Kronig transform test and then fitted to a suitable equivalent circuit model using the ZView (Scribner Associates Inc.) program.
+2-034	2.3.
+2-035	Characterization.
+2-036	Structural analysis was performed using a PANalytical X’pert Pro MPD diffractometer equipped with a Cu Kα radiation source (wavelength Kα1 = 1.540 598 Å and Kα2 = 1.544 426 Å) operated at 40 kV and 30 mA.
+2-037	The X-
+2-038	ray diffraction patterns were recorded in the range of 20°−80° with a step size of 0.0167° s−1 and a dwell time of 50.165 s.
+2-039	The phase determination was done using PANalytical X’pert Highscore Plus software with the help of standard diffraction databases (ICDD).
+2-040	The chemical state and elemental quantification in the freshly synthesized iron oxide samples was performed using X-ray photoelectron spectroscopy (XPS).
+2-041	XPS analysis was performed on a Thermo Scientific XPS spectrometer equipped with a monochromatic Al Kα X-ray source (hν = 1486.6 eV).
+2-042	Wide survey spectra (binding energy, BE: 1200−0 eV) were recorded for the samples using the X-ray spot size of 400 μm at room temperature with an analyzer pass energy of 200 eV and energy step size of 1 eV.
+2-043	High-resolution spectra in the region of interest were acquired at the pass energy of 50 eV and step size of 0.1 eV.
+2-044	The calibration of the binding energy of the spectra was made by referring the maximum of the adventitious C 1s carbon peak at 284.8 eV.
+2-045	The processing of XPS data involving the deconvolutions of peaks with Shirley background was performed with the help of an XPS Peak-fit program.
+2-046	The spectra were decomposed with a least-squares fitting routine provided within the software.
+2-047	A symmetric Gaussian−Lorentzian product function was used to approximate the line shapes of the fitting components.
+2-048	Raw experimental data were used for analysis with no preliminary smoothing.
+2-049	The electronic and geometrical local structures were examined by X-ray absorption fine structure (XAFS).
+2-050	The X-ray absorption spectra for Fe K-edges (E0 = 7112 eV) were taken in a fluorescence mode on 7D beamline of Pohang Accelerator Laboratory (PLS-II, 3.0 GeV).
+2-051	The incident beam was detuned by 30% in order to minimize the higher harmonics from Si(111) crystals of double crystal monochromators.
+2-052	The incident beam was monitored with a He-filled IC spec ionization chamber, and the fluorescence signal from the sample was measured with a PIPS (passivated implanted planar silicon) detector attached to a He-flowing sample chamber.
+2-053	The obtained data were analyzed with Athena in the Ifeffit suite of software programs.[17]
+2-054	The morphology of the α-Fe2O3 films was examined on a field emission scanning electron microscope (FESEM) (SUPRA 40VP, Carl Zeiss, Germany) equipped with an X-ray energy dispersive spectrometer (EDX).
+2-055	Prior to FESEM examination, the α-Fe 2O3 electrodes were sputter- coated with osmium.
+2-056	The ImageJ program was used to analyze the FESEM images for measurement of the lateral dimensions of the grains.
+2-057	UV−vis absorption study in the wavelength range of 350−800 nm was performed using a dual-beam spectropho- tometer (Shimadzu, UV-2600 series).
+2-058	The absorbance spectra were recorded with a baseline correction using FTO substrate as a reference.
+3-001	3.1.
+3-002	Optimization of PRED Process Parameters.
+3-003	The optimization of the process parameters for synthesis of α-Fe2O3 photoanodes was carried out based on their PEC output under 1 sun illumination.
+3-004	Three samples of α-Fe2 O3 were prepared under identical conditions for each process parameter.
+3-005	The similar sets of samples were also prepared on three different days to check reproducibility for PEC performance.
+3-006	Hence, presented data are the averaged values from the measurement of three independently prepared series of thin film hematite electrodes, with error bars representing standard deviation.
+3-007	Initially, deposition parameters such as pulse voltage (−6/+4 V), pulse duty cycle (20%), and film deposition time (30 s) were fixed with variation of only the pulse period as 0.001, 0.01,
+3-008	0.1, 1, 10, 100, 1000, and 5000 ms.
+3-009	Figure 1a shows the current density−voltage (J−V) curves of α-Fe2 O3 photoanodes
+3-010	prepared by two-step annealing process with the different pulse periods.
+3-011	The optimum photocurrent density (Jph) of 474 μA cm−2 at 1.23 VRHE was observed for the pulse period of 10 ms.
+3-012	Thus, 10 ms was chosen as the optimized value of pulse period and was kept constant during further experiments for optimization of the process parameters.
+3-013	The variation of Jph measured at 1.23 VRHE for different pulse periods is shown in Figure 1b.
+3-014	The α-Fe2O 3 photoanode synthesized with deposition time of 30 s and annealed at low temperature (550 °C for 4 h) also demonstrated photoactivity with Jph of 116 μA cm−2 at 1.23 V RHE (Figure S1, Supporting Information).
+3-015	Next, the pulse voltage (−6/+4 V), pulse period (10 ms), and film deposition time (30 s) were kept constant while the duty cycle was varied.
+3-016	The duty cycle variation was limited because the films were inhomogeneous, the film quality was poor, and the resulting photocurrent was also poor except for the 20% duty cycle.
+3-017	The α-Fe2O3 has a short hole diffusion length (2−4 nm) and a light penetration depth (1/α) of around 118 nm at the wavelength of 550 nm.
+3-018	To ensure optimum absorption (>90%) of the incident light, the film thickness must be greater than 2.3 times the value of 1/α.[18]
+3-019	The films should have an enough thickness that would offer sufficient amounts of light absorption, but not too thick that would hold electrons too long in the film and expose them to charge recombination.
+3-020	Hence, the film thickness effect on photocurrent response was studied by varying the PRED time.
+3-021	The pulse period (10 ms), the duty cycle (20%), and the pulse voltage (−6/+4 V) were kept constant during PRED time variation.
+3-022	The thinner films of α-Fe2O 3 (with PRED time 2O3 films prepared by PRED for the deposition times of 5, 10, and 20 s.
+3-023	The photocurrent measured at 1.23 VRHE for 5 s deposition time was ∼300 μA cm−2, which is slightly lower than that for the 30 s deposition time.
+3-024	However, the photocurrent of thinner films is significantly higher (in a few cases comparable) than that (∼50 μA cm−2 at 1.23 VRHE) observed for the similar planar hematite electrodes prepared by other methods such as atomic layer deposition,[22,24] electrodeposition,[21] spray pyrol- ysis,[23] and sputtering.[25]
+3-025	The onset potential for 550 °C-
+3-026	annealed α-Fe2O3 photoanode (30 s deposition time) was observed to be more cathodic (Figure S1).
+3-027	However, after second annealing at 800 °C, it shifted back toward the anodic region while enhancing the photocurrent considerably.
+3-028	The reason for the shift in onset is yet unknown and needs further detailed study.
+3-029	Recently, it was shown that increased oxygen vacancies owing to annealing at 500 °C in an argon atmosphere resulted in more cathodic shift in onset potential of undoped hematite.[26]
+3-030	Considering the higher photocurrent observed for 30 s deposition time, we varied the deposition time further to achieve higher photocurrent.
+3-031	Since it is a general trend that thicker films involving nanostructured morphologies result in better light absorption while better charge collection is obtained on thinner films, we directed the thickness variation study in order to achieve trade-off between optimum light absorption and charge collection in α-Fe2O3.
+3-032	The deposition time was varied as 30, 60, 90, 120, 180, 240, and 300 s.
+3-033	The color of the annealed films varied from red to dark brown.
+3-034	The iron oxide film deposited at 300 s was dark brown in color and opaque.
+3-035	Figures 2a and 2b show the J−V curves and Jph
+3-036	variation measured at 1.23 VRHE for α-Fe2 O3 photoanodes prepared with different deposition times, respectively.
+3-037	An optimum Jph of 504 μA cm−2 at 1.23 VRHE was noted for 45 s deposition time, and the Jph gradually waned to 34 μA cm−2 with increasing deposition time.
+3-038	The increase in deposition time brings about a proportional increase in the α-Fe 2O3 film thickness, and too thick a film suffers from efficiency loss by charge recombination.
+3-039	Another interesting finding from our study as seen from Figures 1 and 2 is that the onset potential of photocurrent for α-Fe 2O3 photoanodes is ∼0.75−0.85 VRHE.
+3-040	The photocurrent onset potential in the present study was determined from the intersection of the dark current and the line tangent to the inflection point of the early photocurrent rise.[27]
+3-041	The α-Fe2O3 photoanode prepared at 45 s deposition time showed onset potential of as low as 0.75 VRHE.
+3-042	Such a significant cathodic shift of ∼0.1−0.2 V relative to a typical onset photocurrent potential (∼0.9−1 VRHE)[3,15,28] suggests that water oxidation reactions can accelerate at lower bias.
+3-043	The shift of onset potential for the water oxidation reaction results from the energy that is absorbed in semiconductor electrodes by photoexcitation to increase the concentration of interfacial holes in the valence band.
+3-044	The reason for cathodic shift in onset
+3-045	potential could be attributed to surface passivation effect owing to the decrease in charge transfer resistance from surface states.[29]
+3-046	The onset potential of a pure Fe2O3 photoanode can be lowered through passivating the surface states by means of aging the photoanodes in saturated NaCl solution.[30]
+3-047	However, the α-Fe2O3 photoanodes in the present study were fabricated by PRED without inducing any oxygen evolution reaction catalyst or passivation layer.
+3-048	In this context, we believe that the synthesis conditions of PRED method help passivate the surface states.
+3-049	However, it necessitates further study to assert these findings.
+3-050	3.2.
+3-051	Structural Studies by XRD and XAFS.
+3-052	Figure 3a shows the XRD patterns recorded in the diffraction angle (2θ) range of 20°−70° for the as-grown and annealed (at 550 °C) iron oxide films prepared by PRED for a deposition time of 45 s.
+3-053	The peaks marked by an asterisk in the figure are due to contribution from the FTO substrate (ICDD #00-077-0452).
+3-054	The as-grown film revealed an Fe peak (110) at a diffraction angle of 44.75°.
+3-055	This indicates that the as-grown films were metallic.
+3-056	After annealing at 550 °C for 4 h, the metallic peak disappeared, indicating a transformation to iron oxide.
+3-057	In the case of annealed electrode, the major Bragg diffraction peaks could be indexed as those of the hematite (α-Fe2 O3) phase of iron oxide (ICDD #00-087-1165, space group: R−3c(167)).
+3-058	The presence of other nonhematite phases could be ruled out, as no diffraction peaks corresponding to maghemite (γ-Fe2O3), magnetite (Fe 3O4), and wustite (FeO) were observed.
+3-059	Hence, the synthesis of phase-pure α-Fe2O 3 hematite structure was confirmed.
+3-060	The crystallite size was determined to be 54 nm from the high intensity α-Fe2O3 peak (104) using the Scherer formula.
+3-061	The electrodes prepared at different pulse periods were further annealed at 800 °C for 15 min after being sintered at 550 °C for 4 h.
+3-062	Figure 3b shows the XRD patterns of the Fe 2O3 /FTO electrodes prepared by PRED for the different pulse periods.
+3-063	All annealed α-Fe2O3 films were polycrystalline.
+3-064	No significant changes in the crystallite size (ca. ∼62 nm) were observed with variation in the pulse period from 0.01 to 10 ms; however, slight increments to ca. 64 and 72 nm were observed for the pulse periods of 100 and 1000 ms, respectively.
+3-065	Figure 3c shows the XRD patterns of Fe2 O3/FTO electrodes prepared by PRED with different deposition times.
+3-066	The intensity of the α-Fe2O 3 peaks increased progressively with increase in the deposition time, which is an indication of improvement in the crystallinity as well as the film thickness.
+3-067	The crystallite size determined from the (104) peak showed an increasing trend, except for the thicker α-Fe 2O3 film.
+3-068	The crystallite sizes were 62, 73, 74, 75, 79, and 58 nm for the deposition times of 30, 45, 60, 90, 120, and 300 s, respectively.
+3-069	The crystallite size determined for other diffraction peaks varied from 58 to 104 nm.
+3-070	X-ray absorption spectroscopy (XAS) is a powerful site- specific local structural probe.[31]
+3-071	Both synchrotron-based XANES (X-ray absorption near-edge structure) and EXAFS (extended X-ray absorption fine structure) in XAS are well suited for determining local structures of amorphous and polycrystalline materials.
+3-072	Figure 4 shows the XANES and EXAFS spectra revealing the local structure of iron in the as-grown and annealed (550 °C + 800 °C) samples.
+3-073	Two kinds of samples synthesized for different deposition times of 45 and 300 s were analyzed.
+3-074	The close resemblance of the Fe K-edge XANES spectra, as shown in Figure 4a, for the as-grown samples (45 and 300 s) with that of Fe foil (standard) indicates Figure 3.
+3-075	XRD patterns of iron oxide electrodes grown on FTO substrate: (a) as-grown and annealed at 550 °C; (b) for the different pulse periods (patterns 1−6:0.01−1000 ms), annealed at 550 °C followed by 800 °C for 15 min; (c) for the different deposition times (patterns 1−6:30−300 s), annealed at 550 °C followed by 800 °C for 15 min.
+3-076	that the Fe species existed in the zerovalent metallic phase upon synthesis by PRED.
+3-077	However, the annealing of as-grown samples transformed all the metallic iron into the hematite (α-Fe2O 3) phase of iron oxide.
+3-078	As seen from Figure 4b, the spectral features of annealed samples are similar to that of α-Fe2O 3 (standard).
+3-079	The Fourier-transformed spectra of Fe K- edge EXAFS also support these observations.
+3-080	Figures 4c and 4d
+3-081	show the magnitude of the Fourier transforms of the EXAFS oscillations of the iron−oxygen nanoparticle systems in the as-grown and annealed samples, respectively.
+3-082	In the case of as-grown samples, the spectra were matched exactly with that of the standard Fe foil in the radial distance up to 6 Å from a central iron atom of Fe metal structure, i.e., up to the sixth shells.
+3-083	Moreover, no differences were seen in the EXAFS spectra of annealed samples in comparison with the standard α-Fe 2O3 for different PRED deposition times.
+3-084	It is evident that all Fe metal species were converted into oxide phase upon annealing regardless of thickness of the deposited film.
+3-085	Therefore, both XRD and XANES data indicated that the iron oxide thin films synthesized by PRED have mainly a crystalline α-Fe2O3 structure.
+3-086	3.3.
+3-087	XPS Studies.
+3-088	Oxygen deficiency is another possible factor affecting the performance of hematite photoanodes.
+3-089	Oxygen vacancies and the presence of hydroxyl groups are the most commonly present intrinsic defects found in hematite.[32]
+3-090	Figure S3a shows the survey spectra of as-grown, 550 °C- annealed, and two-step (550 + 800 °C)-annealed iron oxide samples prepared with the deposition time of 45 s and pulse period of 10 ms.
+3-091	The photoelectron transition peaks observed at binding energies of 711, 530, 486, 285, 94, 56, and 23 eV were assigned to Fe 2p, O 1s, C 1s, Sn 3d, Fe 3s, Fe 3p, and O 2s photoelectrons, respectively.
+3-092	The broad peaks centered at 974 eV and 894, 847, and 785 eV were assigned to the OKLL, Fe LML and Auger transitions, respectively.
+3-093	orbit coupling, and crystal field interactions.[33]
+3-094	The absence of the Fe 2p 3/2 peak at 709.3 eV in the annealed sample suggested the absence of Fe2+, confirming the oxidation state of Fe to be +3.
+3-095	The two additional satellite peaks at 719.9 and 733.4 eV for the as-grown sample and 719.2 and 733.0 eV for the annealed iron (oxide) were observed.
+3-096	The Fe 2p spectrum of as-grown sample showed an additional peak centered at 706.8 eV.
+3-097	The FeO(OH) has a Fe(2p) spectrum similar, in many respects, to that for Fe2O 3.
+3-098	However, using charge transfer satellite of Fe 2p3/2, an evidence of Fe oxidation state can be obtained.
+3-099	The BE difference (ΔBE) between the photoelectron peak (Fe 2p3/2) and its associated satellite peak is greater for compounds
+3-100	with Fe(III) (around 8 eV) than with Fe(II) (from 4.3 to 5.65 eV).[34]
+3-101	Figure 5a reveals the ΔBE values of 13.3 eV (Fe 2p3/2−Fe 2p1/2 ) and 8.3 eV (Fe 2p3/2−Fe 2p3/2sat) for the annealed sample.
+3-102	The values of ΔBE observed for the as-grown sample were slightly higher, i.e., 13.6 eV (Fe 2p 3/2−Fe 2p1/2) and 8.7 eV (Fe 2p3/2−Fe 2p3/2sat).
+3-103	The close resemblance of these values and the spectra with those of reported in the literature confirmed the formation of oxyhydroxide (FeOOH) and hematite (α-Fe2O3).[33−36] Additionally, BE difference of 13.1 eV between Fe 2p 3/2sat and a peak centered at 706.8 eV confirmed the presence of zerovalent oxidation state of iron.
+3-104	Hence, as-grown samples comprised the mixed phases of metallic iron and iron hydroxide.
+3-105	In the O 1s region, the lowest binding energy peaks centered at 530.1 and 529.8 eV for as-grown and annealed films were assigned to oxygen atoms in the iron oxide lattice (O2−) and O 1s(Fe−O), respectively.
+3-106	The peak located at 531.5 eV (next to the lattice O2− peak) has been accounted for the OH contribution from Fe(OH)2 and FeOOH.[37]
+3-107	The peak at 531.3 eV for annealed sample was assigned to the lattice hydroxyl groups, O 1s(Fe−OH lattice).[33]
+3-108	The deconvoluted next higher energy peak located at 532.2 eV both for the as-grown and the annealed sample was assigned to adsorbed OH(OH(ads)) species.
+3-109	A small peak located at 533.5 eV in the as-grown sample can be assigned to the presence of adsorbed water on the oxide surfaces.[33]
+3-110	The spectrum in Figure 5b for the as-grown sample consisted of approximately equal contributions from hydroxyl and oxide oxygen, which is a typical pattern seen for hydroxide phases like FeOOH.[38]
+3-111	The lattice oxygen (O2−) in the as-grown sample shifted slightly higher (0.3 ± 0.1 eV) in comparison to that of the annealed sample, suggesting that the proton on the hydroxyl oxygen has some interaction with the O2− oxygen.
+3-112	The shapes of the Fe 2p and O 1s spectra were similar to those reported for α-FeOOH[33] and α-Fe2O3 ,[39] except for a metallic peak appearing at 706.8 eV.
+3-113	Although the as-grown film was metallic, as confirmed from XRD and EXAFS, it exhibited the iron oxyhydroxide (FeOOH) phase in XPS, possibly because of a partial surface oxidation due to exposure to the atmospheric oxygen and adsorbed hydroxyl groups.
+3-114	The assignments of the
+3-115	aPeak values were calibrated with reference to adventitious carbon at 284.8 eV.
+3-116	of the Sn 3d5/2 peak at lower binding energy (486.2 eV) than that of tin oxide (∼486.5 ± 0.1 eV) can be related to the oxygen deficiency.
+3-117	Several researchers, in the case of high temperature annealed hematite, reported that Sn diffused from FTO substrate and existed in the hematite structure with an oxidation state of Sn 4+ in the form of SnO2, acting as electron- donating substitutional impurities.[40]
+3-118	The characteristic Sn 3d peak observed at ∼486 eV for the 800 °C-annealed sample was absent even in the 550 °C-annealed sample (Figure S3b).
+3-119	XPS data thus gave the plausible explanation that elevated annealing temperature causes the leaching and diffusion of Sn ions into the Fe2O3 matrix and surface.
+3-120	The diffused SnOx could cause electronic modification of the iron oxide film.
+3-121	Elemental quantification of the iron oxide sintered at 800 °C revealed 1.55 at. % of Sn content (Table 1).
+3-122	Such unintentional Sn doping in Fe2O 3 was advantageous for improving the photoactivity.[41]
+3-123	3.4.
+3-124	Morphological Studies.
+3-125	The morphologies of as-grown iron oxide films and those annealed at 550 °C are shown in Figure S4.
+3-126	The FESEM images of as-grown and annealed (at 500 °C for 10 min) iron oxide thin films prepared with a deposition time of 45 s are shown in Figures S4a and S4b, respectively, while those shown in Figures S4c and S4d are for relatively thicker films deposited for 300 s.
+3-127	In the case of thin films, the as-grown film revealed agglomerated morphology with clusters.
+3-128	After annealing at 550 °C for 10 min, the agglomerated features transformed into compactly packed granular morphology consisting of nanocrystalline grains (20−30 nm).
+3-129	In addition, nanorods with the dimensions of 250 nm in length and 50 nm in diameter appeared on the granular morphology.
+3-130	With increase in the deposition time of PRED to 300 s, the as-grown material had sufficient time to evolve into nanostructured morphology.
+3-131	The as-grown film deposited for 300 s revealed porous and agglomerated morphology (with bitter gourd-like surface), which transformed into nanopetal-like structures after annealing at 500 °C for 10 min.
+3-132	The cross section showed the evidence of columnar crystal growth.
+3-133	Such columnar nanopetal-like morphology only appeared for higher deposition times.
+3-134	Although such morphology would be useful in PEC applications, it is not suitable for use in PEC water splitting due to the higher film thickness that limits the photocurrent of α-Fe2O 3.
+3-135	The EDX spectra of corresponding to the as-grown iron oxide films prepared at deposition times of 45 and 300 s are shown in Figures S5a and S5b, respectively.
+3-136	The EDX spectra of these films demonstrated that the as-grown films are metallic, Fe-rich in content.
+3-137	those of the smaller grains were 25, 36, 45, 36, 42, and 47 nm, for the pulse periods of 0.01, 0.1, 1, 10, 100, and 1000 ms, respectively.
+3-138	Variation of the smaller and larger grains over different pulse periods is shown in Figure 6g.
+3-139	The EDX spectrum of the α-Fe2O3 prepared at the optimized pulse period of 10 ms (for 30 s deposition time) is shown in Figure S5c.
+3-140	thickness measured from the cross-sectional FESEM images, varied as 145, 200, 310, 394, 570, and 910 nm respectively for the deposition times of 30, 45, 60, 90, 120, and 300 s.
+3-141	The corresponding sizes of the larger grains were 131, 165, 200, 230, 260, and 335 nm, while those of the smaller grains were 36, 53, 60, 70, 86, and 120 nm.
+3-142	For the deposition time of 90 s, a few nanorods (diameter ∼50 nm) appeared to protrude out from the surface.
+3-143	For the deposition time of 120 s, these nanorods grew as large as 1.2 μm in length.
+3-144	For the deposition time of 300 s, the nanorod structures were transformed into nano- petals.
+3-145	The density of the smaller grains was higher for lower pulse periods, while larger grains were dominant at higher pulse periods with the additional observation of nanorod and nanopetal-like features.
+3-146	Although some fascinating nano- structured morphologies of α-Fe2O3 were obtained on the surface at higher deposition times, they were of no use for water splitting applications as the film is too thick for charge
+3-147	collection.
+3-148	The EDX spectrum of α-Fe2O3 prepared with the optimized deposition time of 45 s (with 10 ms pulse period) is shown in Figure S5d.
+3-149	Figure S6 shows the cross-sectional FESEM images of thinner α-Fe2O3 photoanodes prepared by PRED with deposition times of 5, 10, and 20 s, revealing the film thickness for 28 ± 5,48 ± 5, and 86 ± 5 nm, respectively.3.5.
+3-150	Growth Mechanism.
+3-151	In general, the growth mechanism of materials by the electrodeposition method is quite a complex process due to the possible influence of many different parameters such as deposit−substrate interactions, structure and structural orientation of the substrate, current density, electrode potential, electrolyte composition, mass transport, temperature, pH, etc.
+3-152	Like any other electrochemical synthesis method, PRED controls the electrocrystallization via two fundamental electrokinetic phenomena: nucleation and growth of crystal grains.
+3-153	In this work, we studied the growth rate and morphology of prepared iron oxide films with respect to conditions of the pulse reverse electrodeposition synthesis and the high temperature annealing treatment of the electrodes.
+3-154	In the present study, PRED involved the application of cathodic and anodic pulses switched at −6 and +4 V over a short duration by varying the pulse polarization time from 0.001 to 1 ms.
+3-155	In PRED, uniform deposition is induced by partial dissolution of the deposited species during a slight anodic polarization pulse, Ea, after interruption of the cathodic deposition pulse, Ec (see Scheme 2).
+3-156	During the reduction stage of PRED, the Fe ions solvated in the electrolyte arrive at the surface of the electrode, promoting a diffusion motion, a stimulated migration, or even a convective motion depending on the experimental conditions.
+3-157	As soon as the cathodic pulse is applied to the electrode (FTO substrate), the reduction process starts.
+3-158	The reduced iron species are then adsorbed and migrate to an energetically favorable site at a brisk rate.
+3-159	In potential controlled experiments like in this study, the continuity of this mechanism over the entire electrode surface leads to the formation of a density of nuclei and the establishment of a macroscopic electrical current flowing through the electro- chemical cell.
+3-160	The current can be directly related to the formation of the deposits.
+3-161	Because the applied cathodic pulse potential is more negative than both the potentials of iron deposition and hydrogen ion reduction, the deposition of iron species and hydrogen evolution takes place simultaneously.
+3-162	Moreover, oxygen evolution and bubble formation also occur at the counter electrode.
+3-163	The evolved hydrogen gas molecules tend to form bubbles on the electrode surface.
+3-164	These bubbles, after reaching some critical size, detach from the electrode and disappear into the electrolyte/air interface.
+3-165	Hence, PRED replenishes the diffusion layer and allows for the selective dissolution of electrode protrusions.
+3-166	Such selective dissolution
+3-167	DOI: 10.1021/jp5100186
+3-168	also levels the metal ion concentration near the electrode.
+3-169	In increasing deposition time, the film thickness and surface other words, the more Fe is dissolved, the more it becomes roughness increased, along with an increase in the lateral deposited.
+3-170	As seen from FESEM, the as-grown iron oxide dimensions of particle growths.
+3-171	Similar explanations for electrodes prepared by PRED revealed agglomeration of the enhanced absorption have been attributed to larger particle grains.
+3-172	Granular and crystalline growth was observed only after size by several authors.[32]
+3-173	The unexpected absorbance of Fe2O3annealing the as-grown samples at a high temperature.
+3-174	The film prepared with deposition time of 300 s beyond 600 nm as growth of spherical grains along with scattered nanorods at seen in Figure 8b can be attributed to higher thickness and higher annealing temperatures may be dominated by the opaque nature of the film.
+3-175	There were two noticeable liquid−solid (LS) mechanism, in which nucleation and transitions in the absorbance exhibited by shoulder peaks at coalescence of grains via diffusion occur, leading to different the wavelengths of ∼535 and 375 nm, which were assigned to surface overgrowths. 6
+3-176	ligand field ( A1 → 4E) and ligand-to-metal charge transfer 3.6.
+3-177	UV−vis Absorption (Optical) Studies.
+3-178	Figures 8a (6t1u↓ → 2t2g↓) transitions, respectively.[42]
+3-179	Small differences in and 8b show the UV−vis absorbance spectra of the α-Fe2O3 the observed optical densities of the samples may be due to variations in the thickness as well as morphologically dependent scattering of the deposited films.
+3-180	The normalized absorbance spectra of α-Fe2 O3 photoanodes prepared by PRED at different pulse periods and deposition times are shown in Figure S7.
+3-181	The variation in absorbance of thinner α-Fe 2O3 photoanodes prepared at short deposition times is shown in Figure S8.
+3-182	The optical band gap (Eg) of α-Fe2O 3 was calculated using the Tauc relation.[43]
+3-183	Although α-Fe2O3 was reported to exhibit an indirect (phonon-assisted) band gap transition around 1.9−2.2 eV, a few recent studies also reported a direct optical transition, which they attributed to quantum size effects or to the use of an electrochemical deposition method.[32]
+3-184	Figure S9 shows the plot of (αhν)1/2 as a function of photon energy (hν).
+3-185	The calculated Eg values were in the range of 2.1−2.2 eV.
+3-186	All optical band gap values were determined considering indirect optical transition and match well with the literature.[16,44]
+3-187	3.7.
+3-188	EIS and Mott−Schottky Studies.
+3-189	Electrochemical impedance spectroscopy (EIS), which can provide information on the capacitance and resistance of electrode materials, is an effective approach for investigating the electron transfer processes occurring across the electrolyte and the surface of the electrode.
+3-190	Figure 9a shows the representative Nyquist plots (real vs imaginary impedance) of the α-Fe2O3 photoanodes prepared with different pulse periods, recorded under 1 sun illumination at a bias potential of 1.23 VRHE.
+3-191	The discrete symbols in the figure represent the experimental data, while the colored solid lines represent the fitted data.
+3-192	The EIS results of the α-Fe 2O3 photoanodes were best fitted using circuit elements consisting of one resistor and two RC circuits according to a well-known model.[19]
+3-193	Here, a constant phase shift element (CPE) was used instead of C for capacitance for fitting.
+3-194	CPE can be termed as imperfect capacitance.
+3-195	Under Figure 8.
+3-196	Variation in absorbance and film thickness of α-Fe2O3 simulated sunlight illumination, two distinct semicircles were photoanodes prepared at different (a) pulse periods and (b) seen, consistent with the equivalent circuit represented in deposition times.
+3-197	Figure 9a.
+3-198	A small semicircle in the high frequency region of Nyquist plot could be ascribed to the charge-transfer process at electrodes prepared with different pulse periods and deposition the α-Fe2O3 depletion layer, and diameter of the semicircle times, respectively.
+3-199	The absorbance spectra were corrected for reflects the charge-transfer resistance.
+3-200	The EIS data from the absorbance of the reference FTO substrate.
+3-201	Although no high frequency region where the influence of the Helmholtz evident changes in the absorbance were observed for the α- layer was minimal have been used to determine the space Fe2O 3 films prepared with different pulse periods, there was a charge layer capacitance.[44]
+3-202	The large low-frequency arc could slight change in the absorption edge for the α-Fe2O3 films be attributed to electron transfer at the Helmholtz layer.[45]
+3-203	A prepared with different deposition times.
+3-204	This was to be detailed interpretation of EIS for water oxidation using bare expected, as it is known that larger particle sizes, surface hematite electrodes was done previously.[19,20]
+3-205	The equivalent roughness, and stronger polycrystalline growth enhance the circuit elements include a series resistance (Rs ), a space−charge scattering of light and hence the absorption of the film.
+3-206	As capacitance of the bulk hematite (Cbulk), a capacitance discussed earlier in the FESEM analysis, there was a slight representing the charge stored in the surface states (Css), a change in the particle size when the pulse period was varied; resistance meant for the trapping of holes in the surface states however, a noticeable change in particle size could be seen for (Rtrap), and a charge-transfer resistance from the surface states Fe2O 3 films prepared with different deposition times.
+3-207	With to solution (Rct,trap).
+3-208	At the surface of a semiconductor,
+3-209	ms pulse period showed better oxidation performance among other counterparts.
+3-210	Similar results were observed for the α-Fe 2O3 photoanodes prepared at different deposition times (film thicknesses) as shown in Figure 9b.
+3-211	However, an additional diffusion-controlled process, represented by the Warburg impedance element (Ws), appears with increase in film thickness.
+3-212	The Ws element takes into account the diffusion of electroactive species toward the electrode, which is most significant at low frequencies.
+3-213	The value of Rs is lower for 45 s deposition time.
+3-214	There was no clear trend for the Rtrap values for α-Fe 2O3 photoanodes deposited at different deposition times.
+3-215	However, it is quite noticeable that the Rct,trap and Css values are still lower for 45 s deposition time.
+3-216	This suggests that the recombination losses due to surface states are lower in α-Fe 2O3 photoanodes prepared by PRED at 45 s, resulting in improved oxidation performance.
+3-217	It means the surface states in such α-Fe 2O3 photoanodes are passivated.
+3-218	The above findings also validate the J−V study in which a more cathodic shift in the photocurrent onset potential observed for α-Fe 2O3 photo- anodes deposited at 45 s deposition time.[29]
+3-219	The values of charge carrier concentration, also called the donor density (ND), of the representative α-Fe2O3 photo- anodes were estimated from the Mott−Schottky relation[50,51]
+3-220	A[2] 2 ⎡ kT ⎤
+3-221	2 = ⎢ (V − Vfb) − ⎥
+3-222	Csc eεε0ND⎣ e ⎦ (2) where A is the illuminated surface area, Csc is the space charge layer capacitance, e is the electron charge (1.6022 × 10−19 C), ε is the dielectric constant of α-Fe2 O3 (80),[52] ε0 is the permittivity of a vacuum (8.8542 × 10−14 F cm−1), ND is the donor density, V is the potential applied to the electrode, k is the Boltzmann’s constant, and T is the temperature.
+3-223	Vfb is the flat-band potential, and it corresponds to the difference between the electrochemical potentials of the semiconductor (Fermi level) and of the electrolyte (redox level).
+3-224	Then, using Figure 9.
+3-225	EIS analysis of α-Fe2O3 photoanodes prepared with (a) −2
+3-226	the slope of Mott−Schottky plot (Csc vs V), the electron different pulse periods (0.1, 10, and 1000 ms) and (b) different pulse
+3-227	donor densities are estimated using the relation
+3-228	deposition times (30, 45, and 180 s).
+3-229	The experimental data are
+3-230	represented by discrete symbols, and the simulated impedance −2 −1
+3-231	ND = (2/eεε0 )[d(Csc )/dV] (3) response is represented by the continuous line.
+3-232	Insets show the
+3-233	of the Role of Film Thickness by Impedance Spectroscopy.
+3-234	Phys.
+3-235	Chem.
+3-236	Chem.
+3-237	Phys. 2014, 16, 16515−16523.
+3-238	43.
+3-239	Article
+3-240	DOI: 10.1021/jp5100186
+3-241	equivalent circuit and the results of fitting.
+3-242	Figure S10 shows the variation of the inverse square of space charge−capacitance (Csc) versus applied potential.
+3-243	The smaller electronic states, or “surface states”, are assumed to be present the slope, the larger is the donor density.
+3-244	The positive slope within the band gap.
+3-245	Surface traps/states have been suggested indicated that the α-Fe2O 3 electrodes were all n-type as an additional loss mechanism in hematite photoanodes semiconductors.
+3-246	From the slope of the Mott−Schottky plots,
+3-247	19,30,46,47 19 19
+3-248	estimated by fitting the impedance data to the corresponding with the other samples.
+3-249	Similarly, the donor density values equivalent circuits are summarized in the inset of Figure 9a. determined for the α-Fe2O 3 samples prepared with deposition The values of Rs and Rtrap are lower for 10 ms pulse period. times of 30, 45, and 90 s were 4.04 × 1019, 9.08 × 1019, and There is no significant change in Cbulk, except for 0.1 ms pulse 3.81 × 1018 cm −3, respectively.
+3-250	Consistent values of ND in the period.
+3-251	The Css value for 10 ms pulse period was lower than order of 1018−1019 cm −3 for undoped hematite have been that for other pulse periods.
+3-252	A smaller Css means that the reported for both planar and structured electrodes.[7,16,44]
+3-253	We density of surface states responsible for recombination losses is did not calculate the flat-band potential for the α-Fe 2O3 relatively lower.
+3-254	This interpretation is consistent with the photoanodes in the present work since a large uncertainty corresponding decrease in Rct,trap with the decrease in Css. exists in the determination of the flat-band potential from Furthermore, the smaller number of surface states to trap holes Mott−Schottky analysis and need rigorous approach.[53]
+3-255	At (that participate in water oxidation reaction) is consistent with times, the calculated Vfb values are more negative due to the smaller resistance of trapping holes, Rtrap.
+3-256	These combined nonideal conditions or the different methods of preparation.[46] results suggest that the α-Fe2 O3 photoanode prepared with 10 In some cases, the shift in flat-band potential negative potentials
+3-257	was attributed to the increase in pH.
+3-258	The surface states are also responsible for band unpinning under illumination causing modification of the flat-band potential.[51]
+3-259	Importantly, this study focused on systematic fabrication of α-Fe2O 3 photoanodes with great control over the film thickness and the morphology by a facile PRED method.
+3-260	A comparable quality and photoelectrochemical performance of such α-Fe2O3 photoanodes with those synthesized by expensive physical methods like sputtering, evaporation, etc., makes PRED a very attractive method to fabricate a variety of nanostructures.
+4-001	High-quality hematite (α-Fe 2O3) photoanodes with nano- structured morphology were successfully prepared by a facile pulse reverse electrodeposition (PRED) method.
+4-002	The process parameters were optimized via photoelectrochemical perform- ance of the photoanodes under 1 sun illumination.
+4-003	The morphology of the α-Fe2O 3 prepared by PRED was affected by both the process parameters and the high-temperature annealing.
+4-004	The films were nonporous, granular, and nano- crystalline.
+4-005	Optimum photocurrent performance was noted for the α-Fe2O3 electrodes prepared with the duty cycle of 20%, pulse period of 10 ms, and deposition time of 45 s (200 nm film thickness).
+4-006	The enhancement in photocurrent density was attributed to an increase in the charge carrier density, as estimated from Mott−Schottky analysis.
+4-007	Moreover, synthesis conditions of PRED method help in passivating the surface states, thereby shifting the onset of photocurrent in order to accelerate the water oxidation kinetics.
+4-008	This is the first systematic study of α-Fe2O 3 electrodes prepared using PRED with regard to optimization of the process parameters and their application in photoelectrochemical water splitting.
